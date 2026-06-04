@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Julia Rocka",
-  "num_followers": 25899,
+  "num_followers": 25896,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -395,30 +395,6 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Ne1",
-        "url": "https://open.spotify.com/album/3CrtqQrHtPcFtCCWNgCQM2"
-      },
-      "artists": [
-        {
-          "name": "Sw@da",
-          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
-        },
-        {
-          "name": "Niczos",
-          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
-        },
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 190402,
-      "name": "Ne1",
-      "url": "https://open.spotify.com/track/2S7tlJXKOCDWwdPMmldA65"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
         "name": "zapomnij o mnie",
         "url": "https://open.spotify.com/album/7ztKiO1WEnRZXhMXfMmWnn"
       },
@@ -447,34 +423,26 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Wieje",
-        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+        "name": "Ne1",
+        "url": "https://open.spotify.com/album/3CrtqQrHtPcFtCCWNgCQM2"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 253551,
-      "name": "Z\u0142y, najgorszy sen",
-      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
-        "name": "ASFALT",
-        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
-      },
-      "artists": [
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
         {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        },
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
         }
       ],
-      "duration_ms": 153280,
-      "name": "ASFALT",
-      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+      "duration_ms": 190402,
+      "name": "Ne1",
+      "url": "https://open.spotify.com/track/2S7tlJXKOCDWwdPMmldA65"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -495,18 +463,34 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Bilet",
-        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
       },
       "artists": [
         {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Bilet",
-      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -527,6 +511,38 @@
       "duration_ms": 183320,
       "name": "Grawitacja",
       "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "Bilet",
+        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bilet",
+      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "Ile?",
+        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Ile?",
+      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -567,22 +583,6 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Ile?",
-        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Ile?",
-      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
         "name": "WSZYSTKO NA NIC",
         "url": "https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej"
       },
@@ -611,6 +611,26 @@
       "duration_ms": 202295,
       "name": "Z cukrem myl\u0119 l\u00f3d",
       "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "kochaj mnie",
+        "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 151547,
+      "name": "kochaj mnie",
+      "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -647,26 +667,6 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "kochaj mnie",
-        "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
-      },
-      "artists": [
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 151547,
-      "name": "kochaj mnie",
-      "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
         "name": "Tarantino",
         "url": "https://open.spotify.com/album/3WBBAWjAnXfAqQzvVGTB3l"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 175821,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
         "name": "Szeroko\u015bci!",
         "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 157607,
       "name": "Szeroko\u015bci!",
       "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 175821,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -787,18 +787,22 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Kupi\u0142am bilet",
-        "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
+        "name": "B\u0105d\u017a ze mn\u0105 // Mia Wallace",
+        "url": "https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm"
       },
       "artists": [
         {
-          "name": "Zofia Alaya",
-          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
         }
       ],
-      "duration_ms": 192325,
-      "name": "Kupi\u0142am bilet",
-      "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
+      "duration_ms": 139000,
+      "name": "B\u0105d\u017a ze mn\u0105",
+      "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -819,22 +823,18 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "B\u0105d\u017a ze mn\u0105 // Mia Wallace",
-        "url": "https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm"
+        "name": "Kupi\u0142am bilet",
+        "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
       },
       "artists": [
         {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
         }
       ],
-      "duration_ms": 139000,
-      "name": "B\u0105d\u017a ze mn\u0105",
-      "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
+      "duration_ms": 192325,
+      "name": "Kupi\u0142am bilet",
+      "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
-        "name": "Wspania\u0142y to by\u0142 rok",
-        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 172193,
-      "name": "Wspania\u0142y to by\u0142 rok",
-      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
         "name": "Melan\u017c",
         "url": "https://open.spotify.com/album/0nuFcaAv453mSFDJYnk986"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 164221,
       "name": "HCWO",
       "url": "https://open.spotify.com/track/51CTffPkSbPmM43uabVKsn"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "added_at": "2026-05-29 06:00:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-05-29 06:00:42",
       "album": {
+        "name": "K\u0141AM",
+        "url": "https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 246614,
+      "name": "K\u0141AM",
+      "url": "https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:42",
+      "album": {
         "name": "gdyby\u015b istnia\u0142",
         "url": "https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 195189,
       "name": "Szafa gra - Radio Edit",
       "url": "https://open.spotify.com/track/3sfLanktK6iWEvcqHTxti2"
-    },
-    {
-      "added_at": "2026-05-29 06:00:42",
-      "album": {
-        "name": "BBY WAGON",
-        "url": "https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd"
-      },
-      "artists": [
-        {
-          "name": "AJLA",
-          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
-        }
-      ],
-      "duration_ms": 143118,
-      "name": "BBY WAGON",
-      "url": "https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P"
     }
   ],
   "unique_name": "up next",

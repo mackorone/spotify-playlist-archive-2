@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,620 likes - 286 songs - 15 hr 12 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,624 likes - 291 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,5 +294,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 284 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 |
 | 285 | [The Movie](https://open.spotify.com/track/0dsQgn998kAYU6fSCOhckQ) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [The Movie](https://open.spotify.com/album/67VEkSw5Uv8tUd4BZVPGG4) | 2:44 |
 | 286 | [Lake and Home](https://open.spotify.com/track/4AH7mkpCujHYBh3IN5ZMpj) | [Jason Jarrett](https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO) | [Lake Boats and Bad Decisions](https://open.spotify.com/album/6yFjpYVW8RhRecS9AcblYF) | 3:03 |
+| 287 | [Louie Louie \- Acoustic Version](https://open.spotify.com/track/1r7puuizaXKhuDr1tvmLp2) | [Ed Catch](https://open.spotify.com/artist/0dPjzU1VfeC0jBw0F7rGPe) | [Louie Louie \(Acoustic Version\)](https://open.spotify.com/album/37XzIsZEZCGtQiICXcsFuC) | 2:28 |
+| 288 | [Too Much?](https://open.spotify.com/track/3ileXSBKUm6VWl3Mvy9SWa) | [MaxTraxx](https://open.spotify.com/artist/5PgyRG3nHixZ1911v82pOA) | [Too Much?](https://open.spotify.com/album/033fUXeyAQSvgvVL4elbfm) | 3:03 |
+| 289 | [At Last](https://open.spotify.com/track/6bKiwdtiaH5g7IwrxF6HIh) | [Lucy Holden](https://open.spotify.com/artist/1axTzt63xVNPOYYN9o26Qp) | [At Last](https://open.spotify.com/album/4arkZzbTLUqoprVcbpsXOa) | 3:05 |
+| 290 | [People say](https://open.spotify.com/track/2x4OVbnqF0QUffMBuXwdQL) | [SunshineSons](https://open.spotify.com/artist/7BDIXV7qsxWjJBYSmyZtsb) | [People say](https://open.spotify.com/album/43cBreWs2OrP1J6hc1iT4P) | 1:36 |
+| 291 | [Baby, alright](https://open.spotify.com/track/26lko55LCtctFecXw6ytas) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Baby, alright](https://open.spotify.com/album/2a4AA00qnwTzwaiorBPGGh) | 2:52 |
 
-Snapshot ID: `AAA4+ucOtuTluXC5zbrnehn9MLvqhI04`
+Snapshot ID: `AAA4/4gl2bJfpVdVO00qGUWp+TtBgpWQ`

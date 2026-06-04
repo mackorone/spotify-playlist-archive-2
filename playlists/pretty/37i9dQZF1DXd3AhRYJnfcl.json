@@ -1,13 +1,57 @@
 {
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u064a\u0631\u064a\u0646",
-  "num_followers": 450051,
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0648\u0648\u0644\u064a\u062a \u0648\u0633\u0627\u0646\u062a \u0644\u064a\u0641\u0627\u0646\u062a",
+  "num_followers": 450472,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMm1eUMFOLzV/5xe2UscxC3AeLpJ",
+  "snapshot_id": "AAAAAAnTa7klB1OqDNm7JzmbpDpNWyqn",
   "tracks": [
+    {
+      "added_at": "2026-06-03 07:00:02",
+      "album": {
+        "name": "Nano",
+        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "Nano",
+      "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
+    },
+    {
+      "added_at": "2026-05-27 05:48:08",
+      "album": {
+        "name": "AS YOU KNOW",
+        "url": "https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        },
+        {
+          "name": "KUKII",
+          "url": "https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7"
+        }
+      ],
+      "duration_ms": 169380,
+      "name": "AS YOU KNOW",
+      "url": "https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8"
+    },
     {
       "added_at": "2026-05-23 13:01:02",
       "album": {
@@ -55,30 +99,6 @@
       "duration_ms": 220540,
       "name": "\u0625\u062d\u0633\u0627\u0633\u064a \u0645\u0639\u0627\u0643 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0643\u0644\u0627\u0645 \u0639\u0644\u0649 \u0625\u064a\u0647\u061f",
       "url": "https://open.spotify.com/track/3x37ks40XCDj8r4FSevyUy"
-    },
-    {
-      "added_at": "2026-05-27 05:48:08",
-      "album": {
-        "name": "AS YOU KNOW",
-        "url": "https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1"
-      },
-      "artists": [
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
-        },
-        {
-          "name": "TURK",
-          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
-        },
-        {
-          "name": "KUKII",
-          "url": "https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7"
-        }
-      ],
-      "duration_ms": 169380,
-      "name": "AS YOU KNOW",
-      "url": "https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8"
     },
     {
       "added_at": "2026-05-23 13:01:02",
@@ -271,22 +291,6 @@
       "duration_ms": 188281,
       "name": "Shedeeny",
       "url": "https://open.spotify.com/track/7t2pto2Td9oldo7aGOft4n"
-    },
-    {
-      "added_at": "2026-05-23 13:01:02",
-      "album": {
-        "name": "\u0627\u0644\u0634\u064a\u0644\u0647 \u0648\u0642\u0639\u062a \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u0649 \u0643\u0644\u0627\u0649",
-        "url": "https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h"
-      },
-      "artists": [
-        {
-          "name": "Rahma Mohsen",
-          "url": "https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD"
-        }
-      ],
-      "duration_ms": 195998,
-      "name": "\u0627\u0644\u0634\u064a\u0644\u0647 \u0648\u0642\u0639\u062a \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u0649 \u0643\u0644\u0627\u0649",
-      "url": "https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz"
     },
     {
       "added_at": "2026-05-23 13:01:02",

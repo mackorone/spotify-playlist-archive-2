@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACM/QTkiLs+Et4XAL5M9l0i",
+  "snapshot_id": "ah4dAAAAAADKnbt80A5d8CVRNUWMrAXD",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 469026,
+      "name": "Eu Navegarei",
+      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 469026,
-      "name": "Eu Navegarei",
-      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/07TsgfuIWgAd4Ds39uwtaH"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
+        "name": "Creio Que Tu \u00c9s a Cura",
+        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 351808,
-      "name": "Vida Aos Sepulcros - Ao Vivo",
-      "url": "https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs"
+      "duration_ms": 351708,
+      "name": "Creio Que Tu \u00c9s a Cura",
+      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
     },
     {
       "added_at": null,
@@ -292,15 +292,15 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe"
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/07TsgfuIWgAd4Ds39uwtaH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Creio Que Tu \u00c9s a Cura",
-        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
+        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 351708,
-      "name": "Creio Que Tu \u00c9s a Cura",
-      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
+      "duration_ms": 351808,
+      "name": "Vida Aos Sepulcros - Ao Vivo",
+      "url": "https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs"
     },
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som da Liberdade 2.0",
-        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
-      "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som da Liberdade 2.0",
+        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
+      "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
     },
     {
       "added_at": null,

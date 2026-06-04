@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Bersenja Gurau",
+      "url": "https://open.spotify.com/track/4DrJqdZgPBHoMNVG5iOLlG"
+    },
+    {
+      "album": {
         "name": "Bersuara",
         "url": "https://open.spotify.com/album/7AuDEAqzpxGrCF6QU6K34Q"
       },
@@ -7131,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "Izinkan Aku",
+        "url": "https://open.spotify.com/album/5QxRprfo3ypatD8GcAgoDM"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242432,
+      "name": "Izinkan Aku",
+      "url": "https://open.spotify.com/track/7DgZh4LMYYpj9p2Tg5ZIKh"
+    },
+    {
+      "album": {
         "name": "Menjelma",
         "url": "https://open.spotify.com/album/3uiXa0SMHa89JOYca68BB0"
       },
@@ -9876,7 +9912,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 205968,
       "name": "Lemas",
       "url": "https://open.spotify.com/track/5CIlnvBjsB6pxib9zAsIHi"
@@ -11534,7 +11570,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 236000,
       "name": "Miang Miang Keladi",
       "url": "https://open.spotify.com/track/3WrPFmxhudP5bnZzj4DI8N"
@@ -13040,7 +13076,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 177608,
       "name": "PERTAMA",
       "url": "https://open.spotify.com/track/3IPcgnb6QeBhUfrzrmdUFM"
@@ -15872,7 +15908,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 257627,
       "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
       "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
@@ -16780,6 +16816,28 @@
       "duration_ms": 178053,
       "name": "Suka",
       "url": "https://open.spotify.com/track/3N3s1Wv6w1dAwcwtWygy3w"
+    },
+    {
+      "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8"
+      },
+      "artists": [
+        {
+          "name": "Celyna Grace",
+          "url": "https://open.spotify.com/artist/7ofzlcvCaN0u5naaoIiPKi"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240034,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6"
     },
     {
       "album": {
@@ -18228,6 +18286,24 @@
       "duration_ms": 250000,
       "name": "Terpikat Pada Cinta",
       "url": "https://open.spotify.com/track/0SqLgHSQzJoY42H6qek9XR"
+    },
+    {
+      "album": {
+        "name": "Terpukau",
+        "url": "https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr"
+      },
+      "artists": [
+        {
+          "name": "Astrid",
+          "url": "https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Terpukau",
+      "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94912,
+  "num_followers": 94927,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Brother Joe",
-        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Brother Joe",
-      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Addictions",
         "url": "https://open.spotify.com/album/5bUMRuNysQnyqJfxGM6PKM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 217066,
       "name": "Hard Working Man",
       "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Brother Joe",
+        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Brother Joe",
+      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
         "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 220480,
       "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
       "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2026-04-10 16:28:54",

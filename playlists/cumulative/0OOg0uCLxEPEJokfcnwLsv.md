@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-523 songs - 1 day 8 hr 21 min
+524 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BAD GAME](https://open.spotify.com/track/7KwBjKoOlcjY1gl2rEVfpA) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BENNINGTON STREET](https://open.spotify.com/album/5Ggf3woWQiwf74Ls5vjnw6) | 4:14 | 2026-06-02 |  |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-03-27 | 2026-04-20 |
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-01-28 | 2026-02-18 |
+| [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-06-03 |  |
 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-02-10 | 2026-03-04 |
 | [Been So Long](https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Been So Long](https://open.spotify.com/album/4KdRx4zeATizHzXA5T45TK) | 4:01 | 2025-12-20 | 2026-01-21 |
 | [Bella](https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb) | [Andacia](https://open.spotify.com/artist/6V8nJSc2EDQYdwfKzNA9pd) | [Bella](https://open.spotify.com/album/66UowctBk5iPa9KdvyxeZO) | 3:21 | 2026-01-12 | 2026-02-23 |

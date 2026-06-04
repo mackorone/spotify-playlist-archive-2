@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,710 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,763 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 47 | [Tal Vez Vuelvas a Llamarme](https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn) | [Son 14](https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht), [Adalberto Alvarez](https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0) | [Tumi Cuba Classics Volume 4: Son](https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS) | 6:05 |
 | 48 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 49 | [Sin Tu Cariño](https://open.spotify.com/track/1hEkAQTsDCnPX0zpo22Z5F) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:30 |
-| 50 | [Mata Siguaraya](https://open.spotify.com/track/6m8Qs3knQSC6CJMAEA3uP5) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [15 Éxitos](https://open.spotify.com/album/2WJKJLHtFFytcAIcPpoeBv) | 5:31 |
+| 50 | [Solitario](https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:00 |
 
 Snapshot ID: `AAAAAJt0i3DEZIy5RhmDLS4+br0WrLCg`

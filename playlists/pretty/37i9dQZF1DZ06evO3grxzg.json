@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235459,
+  "num_followers": 235445,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABlbaK1KVaiG7fq5xFyniMJ",
+  "snapshot_id": "ah4dAAAAAABGmNyNz43M1WlH4HTt3YtB",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HiROQUEST 2: Double Helix",
-        "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 149589,
       "name": "tqum (feat. Kim Petras) - Remix",
       "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT"
     },
     {
       "added_at": null,

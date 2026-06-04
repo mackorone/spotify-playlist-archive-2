@@ -1,13 +1,125 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Bawari Basanti ",
-  "num_followers": 61516,
+  "description": "The best new music by independent artists and labels in India. Cover - Eden's Echo",
+  "num_followers": 61523,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOf4Na1WOadCZjx6a2BkNxib1WCy",
+  "snapshot_id": "AAAAAKyJrhciw6tKRUng8uBt1td71Xwt",
   "tracks": [
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Bepanah",
+        "url": "https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Bepanah",
+      "url": "https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v"
+    },
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Hey June",
+        "url": "https://open.spotify.com/album/1GSMyCTYOXy5lM0cUzVA7d"
+      },
+      "artists": [
+        {
+          "name": "KL Pamei",
+          "url": "https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Hey June",
+      "url": "https://open.spotify.com/track/27bUIbEoE5wR5TSOKwbJwU"
+    },
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/22MxarLyVJJAEnToRzrjEu"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Bulusu",
+          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
+        }
+      ],
+      "duration_ms": 257484,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/67f8GUBDuds7YQf6Syn0cQ"
+    },
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
+      },
+      "artists": [
+        {
+          "name": "Zikrr",
+          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
+        },
+        {
+          "name": "Vidhi Tyagi",
+          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "DUSH",
+          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
+    },
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Kash Tum",
+        "url": "https://open.spotify.com/album/179dxwQ4ZaHSGsmQlsAavW"
+      },
+      "artists": [
+        {
+          "name": "Kumudini Saraswati",
+          "url": "https://open.spotify.com/artist/5w2jJ72roVBAz0C8humiw1"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Kash Tum",
+      "url": "https://open.spotify.com/track/36uQHtHRzkUu56QLRJUyOh"
+    },
+    {
+      "added_at": "2026-06-03 07:30:03",
+      "album": {
+        "name": "Satao Na",
+        "url": "https://open.spotify.com/album/5shgMPqzyxDYwRxNEYlXbi"
+      },
+      "artists": [
+        {
+          "name": "Janani Kamakshi",
+          "url": "https://open.spotify.com/artist/7jkSVwry5EOYQlZRoEAkLn"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Satao Na",
+      "url": "https://open.spotify.com/track/76yWBF5SYoZ5I7NhAun1yA"
+    },
     {
       "added_at": "2026-05-27 07:33:53",
       "album": {
@@ -631,22 +743,6 @@
     {
       "added_at": "2026-05-27 07:33:53",
       "album": {
-        "name": "Teri Ada",
-        "url": "https://open.spotify.com/album/2xdkXIDThs4IOeJmQWLY1A"
-      },
-      "artists": [
-        {
-          "name": "Ankit Kr",
-          "url": "https://open.spotify.com/artist/5Hht3H6q7hD9vdc7lsxJLH"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Teri Ada",
-      "url": "https://open.spotify.com/track/3tCWW04eMIe0TopDI0PJL6"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
         "name": "Hum Tum Miley",
         "url": "https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc"
       },
@@ -671,42 +767,6 @@
     {
       "added_at": "2026-05-27 07:33:53",
       "album": {
-        "name": "Le Jaaye Jahaan",
-        "url": "https://open.spotify.com/album/2LzKOzLqajQG6N89d1wZiv"
-      },
-      "artists": [
-        {
-          "name": "Pratiksha Vashishtha",
-          "url": "https://open.spotify.com/artist/1kkz7GtycrTZlHi5bvwFmS"
-        },
-        {
-          "name": "Udit Saxena",
-          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
-        }
-      ],
-      "duration_ms": 204947,
-      "name": "Le Jaaye Jahaan",
-      "url": "https://open.spotify.com/track/5lYweVWwXTl8PgmSD59V1j"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
-        "name": "Ankahi Baatein",
-        "url": "https://open.spotify.com/album/065nHLR8BGCVhXMoqU3xcL"
-      },
-      "artists": [
-        {
-          "name": "Sushant Mhaske",
-          "url": "https://open.spotify.com/artist/2PRyhRy0dZOHXKHeNoUVl1"
-        }
-      ],
-      "duration_ms": 122783,
-      "name": "Ankahi Baatein",
-      "url": "https://open.spotify.com/track/4N5HNe0EeuYqFcxdcO4mVp"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/48ZwmhOam4a4VktRzo5oL4"
       },
@@ -719,42 +779,6 @@
       "duration_ms": 152726,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4IW56DopaPOjcIfLwALBi2"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
-        "name": "Feed The Clown",
-        "url": "https://open.spotify.com/album/29UxTTAmGpuY5DLpbZmaQh"
-      },
-      "artists": [
-        {
-          "name": "Champak",
-          "url": "https://open.spotify.com/artist/1r8kUtvHEXjQWQ75GEcsUo"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Feed The Clown",
-      "url": "https://open.spotify.com/track/1MyUSY9DM4AhfTnl5L7ilX"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
-        "name": "Hausla",
-        "url": "https://open.spotify.com/album/2OBwKKkhEzSzKW7F2Eratn"
-      },
-      "artists": [
-        {
-          "name": "Victorious",
-          "url": "https://open.spotify.com/artist/0VfDYgmAog70SSxT8YBAth"
-        },
-        {
-          "name": "Jaden Maskie",
-          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
-        }
-      ],
-      "duration_ms": 195617,
-      "name": "Hausla",
-      "url": "https://open.spotify.com/track/48zqz88kCY45ZuqJs2wouq"
     },
     {
       "added_at": "2026-05-27 07:33:53",
@@ -787,26 +811,6 @@
       "duration_ms": 253333,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2G915Nr3fLHUyoAzkzwJSh"
-    },
-    {
-      "added_at": "2026-05-27 07:33:53",
-      "album": {
-        "name": "Adhoore Se Khwaab",
-        "url": "https://open.spotify.com/album/5NFvhcegY1GccbspFBL4Vh"
-      },
-      "artists": [
-        {
-          "name": "Shriya Phatak",
-          "url": "https://open.spotify.com/artist/5PEabZ4dpDgClLKrXB97J7"
-        },
-        {
-          "name": "Quackcoke",
-          "url": "https://open.spotify.com/artist/0CgaEFXy1stSZY2alXUR1o"
-        }
-      ],
-      "duration_ms": 268040,
-      "name": "Adhoore Se Khwaab",
-      "url": "https://open.spotify.com/track/5xnlZBd5tF2wRTmtGkXeK5"
     },
     {
       "added_at": "2026-05-27 07:33:53",

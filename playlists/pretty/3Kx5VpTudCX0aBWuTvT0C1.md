@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,692 likes - 62 songs - 3 hr 40 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,691 likes - 67 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,10 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 60 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 |
 | 61 | [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 |
 | 62 | [Sixteen](https://open.spotify.com/track/5EhFJlJRwpP5WLYcslNRFG) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Sixteen](https://open.spotify.com/album/0p2nPv9Es0lM55owbWi4b4) | 2:42 |
+| 63 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 |
+| 64 | [Throw Away](https://open.spotify.com/track/5XTdP95dDp4lm16ptkd3Hw) | [Mosaik](https://open.spotify.com/artist/1MuSqoanz47Wl7MBgO4OPy) | [Throw Away](https://open.spotify.com/album/7oPIvz4AFsZQjoWo1YkrE9) | 4:08 |
+| 65 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 |
+| 66 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 |
+| 67 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 |
 
-Snapshot ID: `AAACldGSZf2TqlJyAeJ7V1RIkC6BFz+4`
+Snapshot ID: `AAACmqJgu0bOplDymbTaPgw0bE2qvxGe`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,759 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,764 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Drive \(feat\. Dagmawit Ameha\)](https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Dagmawit Ameha](https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH) | [Night Drive \(feat\. Dagmawit Ameha\)](https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31) | 3:40 |
 | 2 | [Desert Rose \- Bedouin Remix](https://open.spotify.com/track/6Q0QOjg0whW68Mn2byferG) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Desert Rose \(Reimagined\)](https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5) | 4:48 |
 | 3 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 |
-| 4 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
+| 4 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [tariq hmitti](https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
 | 5 | [Gnawa](https://open.spotify.com/track/32GnGtaUrEqVC6oWzaeL9r) | [Affani](https://open.spotify.com/artist/76JOGdYzmIgt9SlMfYiSrc) | [Back Catalog](https://open.spotify.com/album/1lTAwDjYAzU0aGBSooYMKh) | 7:13 |
 | 6 | [Drowning At Midnight](https://open.spotify.com/track/18DG5bnLXD642GnoPsB0lJ) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Yaca](https://open.spotify.com/artist/1QXnCk2zoBVhzAgk6TwY2w) | [Drowning At Midnight](https://open.spotify.com/album/4k86AFohhbQ2sLxbgMo6Uu) | 4:02 |
 | 7 | [Like Us](https://open.spotify.com/track/0O0dvsWGbaeDyKes3r6Tqw) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [Like Us](https://open.spotify.com/album/2tjxcgFq6q5A96uwqSXW5u) | 7:22 |

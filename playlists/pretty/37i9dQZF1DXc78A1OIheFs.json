@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19373,
+  "num_followers": 19374,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 208875,
       "name": "Coats",
       "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
+        "name": "tomato baby",
+        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 168582,
+      "name": "tomato baby",
+      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 209000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
-        "name": "tomato baby",
-        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 168582,
-      "name": "tomato baby",
-      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 232615,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
         "name": "talk is cheap",
         "url": "https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 175666,
       "name": "talk is cheap",
       "url": "https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
-      },
-      "artists": [
-        {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
-        }
-      ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+      },
+      "artists": [
+        {
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+        }
+      ],
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "Suckerpunch",
-        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
       },
       "artists": [
         {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+          "name": "Robinson and The Romantics",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
         }
       ],
-      "duration_ms": 154673,
-      "name": "Suckerpunch",
-      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
     }
   ],
   "unique_name": "The Local List Aotearoa",

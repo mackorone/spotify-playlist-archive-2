@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/5k6yAsfYV423IPbGwG6BMn"
+      },
+      "artists": [
+        {
+          "name": "Snowflake Maker",
+          "url": "https://open.spotify.com/artist/2sQohLh8eFMnXitpz2yoM5"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/5eKWnk0CuVzBoJNNMDRilZ"
+    },
+    {
+      "album": {
         "name": "Archive",
         "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
       },

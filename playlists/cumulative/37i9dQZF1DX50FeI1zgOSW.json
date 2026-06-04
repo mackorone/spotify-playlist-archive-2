@@ -14779,6 +14779,32 @@
     },
     {
       "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/3PctjLa133DeItbTYGkgSj"
+      },
+      "artists": [
+        {
+          "name": "SomeBoyZ",
+          "url": "https://open.spotify.com/artist/7t0KbPCPfypILCeJ4HlosB"
+        },
+        {
+          "name": "Saran Thiyagarajan",
+          "url": "https://open.spotify.com/artist/7eymWz6OiQNFyshu7y946o"
+        },
+        {
+          "name": "Vengiruth",
+          "url": "https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175408,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/13Tb1idYqzzb0P9Vv1PIFj"
+    },
+    {
+      "album": {
         "name": "Toronto Ponnu",
         "url": "https://open.spotify.com/album/27SM4A1kqDLmhorc3hBp4a"
       },

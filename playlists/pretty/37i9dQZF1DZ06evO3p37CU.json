@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22490,
+  "num_followers": 22491,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAB7pIyRAQnMq7oUtVb4nLHQ",
+  "snapshot_id": "ah4dAAAAAAA+xeZRv04jKqRwlmgL9Ob0",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Swing - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 195200,
       "name": "BOBBY BOUCHER (feat. Benji.)",
       "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing (From \"Marvel's Spider-Man 2\")",
+        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Swing - From \"Marvel's Spider-Man 2\"",
+      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
       "added_at": null,
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
-        }
-      ],
-      "duration_ms": 180932,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here For Now",
         "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 167480,
       "name": "Big Love (with EARTHGANG & MNDR)",
       "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+        }
+      ],
+      "duration_ms": 180932,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+        "name": "never worry - deluxe",
+        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         },
         {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 172240,
-      "name": "Big Titties (feat. Baauer and EarthGang)",
-      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
     },
     {
       "added_at": null,
@@ -1127,26 +1123,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry - deluxe",
-        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
+      "duration_ms": 172240,
+      "name": "Big Titties (feat. Baauer and EarthGang)",
+      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
     },
     {
       "added_at": null,

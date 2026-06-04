@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,564 likes - 185 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,607 likes - 185 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 184 | [arise](https://open.spotify.com/track/4KZvJKxqVcN4W2ZEWv87Lv) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [arise](https://open.spotify.com/album/5o5ZzmhIA3qie7Xvri32iM) | 2:03 |
 | 185 | [washed ashore](https://open.spotify.com/track/12NFF6F8Z4hFtxDaBUbU5x) | [S\-ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Milan Beats](https://open.spotify.com/artist/6vlBN0oKCy0H1Ji0isYxO8) | [washed ashore](https://open.spotify.com/album/67sdwUY7a6jWBQAepGZU01) | 2:11 |
 
-Snapshot ID: `AAAAAK+D21nqk3Z9EPNz6BACIjUaEU9p`
+Snapshot ID: `AAAAAJUWe3dGSkckbhnIUxRYD8Z8Zmi6`

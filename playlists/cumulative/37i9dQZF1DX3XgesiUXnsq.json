@@ -11062,7 +11062,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 168000,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/5y8hnWn5Ty0XC0HpjUFY1m"
@@ -12748,7 +12748,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 256787,
       "name": "Ruby Rosary (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
@@ -14465,6 +14465,28 @@
     },
     {
       "album": {
+        "name": "Summer's Eve",
+        "url": "https://open.spotify.com/album/0OIrIgDnitB9yMYLYyf41e"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246205,
+      "name": "Summer's Eve",
+      "url": "https://open.spotify.com/track/0oxiKdGSTfVNfK1flDbDD7"
+    },
+    {
+      "album": {
         "name": "SummerTime",
         "url": "https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4"
       },
@@ -15522,6 +15544,32 @@
       "duration_ms": 180000,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4s9jU8Krr0ICOhOF7JoBGX"
+    },
+    {
+      "album": {
+        "name": "THE ZENITH",
+        "url": "https://open.spotify.com/album/28H8oQsSxrn9rS3p0U4YG3"
+      },
+      "artists": [
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0Xljt7s05h7xt9edRtZLmx"
+        },
+        {
+          "name": "S14H",
+          "url": "https://open.spotify.com/artist/1oeCKtSTQzEUklVw3VmGkC"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205728,
+      "name": "THE VILLE",
+      "url": "https://open.spotify.com/track/1hFPmWuwukTlzvJ8CtQ9Mx"
     },
     {
       "album": {

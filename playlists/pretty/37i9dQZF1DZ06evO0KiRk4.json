@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 586059,
+  "num_followers": 586090,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABoI7rHb+YhADVLNHIfMqcn",
+  "snapshot_id": "ah4dAAAAAADeOPhzm55KLk4vYRW62OZo",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 293468,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+      "duration_ms": 216176,
+      "name": "What Kind Of Man",
+      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 216176,
-      "name": "What Kind Of Man",
-      "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
+      "duration_ms": 293468,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132657,
+  "num_followers": 132649,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "S\u00e4 olit oikees",
         "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 179331,
       "name": "Se mit\u00e4 ei ollut koskaan (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/3WgijA0QBwSSe2HcUgdPlx"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Suomi Finland perkele",
         "url": "https://open.spotify.com/album/3OEnpGBtLtzvP2kJWpnWcY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 181893,
       "name": "Suomi Finland perkele",
       "url": "https://open.spotify.com/track/5VV9zMFwf0QMorDUKzPhZJ"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -639,8 +639,8 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+        "name": "TEENAGE DREAM",
+        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
         }
       ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+      "duration_ms": 147923,
+      "name": "TEENAGE DREAM",
+      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -667,6 +667,38 @@
       "duration_ms": 183957,
       "name": "Sin\u00e4 ja se poitsu",
       "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Badabim (My Kind Of Terapiaa)",
+        "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Badabim (My Kind Of Terapiaa)",
+      "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -691,40 +723,8 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Badabim (My Kind Of Terapiaa)",
-        "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Badabim (My Kind Of Terapiaa)",
-      "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "Joku johon nojata",
-        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
-      },
-      "artists": [
-        {
-          "name": "Jenni Vartiainen",
-          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
-        }
-      ],
-      "duration_ms": 201073,
-      "name": "Joku johon nojata",
-      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "TEENAGE DREAM",
-        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
         }
       ],
-      "duration_ms": 147923,
-      "name": "TEENAGE DREAM",
-      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "Pelkk\u00e4 kirosana",
+        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "Pelkk\u00e4 kirosana",
+      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "No. 1 Fani",
         "url": "https://open.spotify.com/album/4GF6JioXBG870YaDW5rXjn"
       },
@@ -987,18 +1003,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Pelkk\u00e4 kirosana",
-        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
+        "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
+        "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
       },
       "artists": [
         {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        },
+        {
+          "name": "Sonja Lumme",
+          "url": "https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS"
         }
       ],
-      "duration_ms": 192949,
-      "name": "Pelkk\u00e4 kirosana",
-      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
+      "duration_ms": 199469,
+      "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
+      "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1023,42 +1043,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
-        "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        },
-        {
-          "name": "Sonja Lumme",
-          "url": "https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS"
-        }
-      ],
-      "duration_ms": 199469,
-      "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
-      "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Maailma on mun",
         "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
       },
@@ -1075,26 +1059,18 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
-        "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
       },
       "artists": [
         {
-          "name": "DJ Oku Luukkainen",
-          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
-        },
-        {
-          "name": "Dilemma",
-          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
-        },
-        {
-          "name": "Mesi",
-          "url": "https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP"
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
         }
       ],
-      "duration_ms": 185213,
-      "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
-      "url": "https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk"
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1127,6 +1103,30 @@
       "duration_ms": 165269,
       "name": "Kun tulee pimee",
       "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+        "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
+      },
+      "artists": [
+        {
+          "name": "DJ Oku Luukkainen",
+          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
+        },
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "Mesi",
+          "url": "https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+      "url": "https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Cokis ja Mentos",
-        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
-      },
-      "artists": [
-        {
-          "name": "Mira Luoti",
-          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Cokis ja Mentos",
-      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Hullu nainen",
         "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 177360,
       "name": "Hullu nainen",
       "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Cokis ja Mentos",
+        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+      },
+      "artists": [
+        {
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Cokis ja Mentos",
+      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
     }
   ],
   "unique_name": "#vainsuomihitit",

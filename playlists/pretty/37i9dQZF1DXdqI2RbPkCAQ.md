@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > marrakech season
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,586 likes - 89 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,879 likes - 89 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 | 84 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 |
 | 85 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
 | 86 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
-| 87 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
+| 87 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [tariq hmitti](https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
 | 88 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
 | 89 | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/track/6QMUjJ6U90lSwC6wjzH5jP) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/album/27btvaDkPDLQJhPRlaJMlt) | 3:04 |
 

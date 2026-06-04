@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21891,
+  "num_followers": 21893,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
         "name": "GORGONA",
         "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2026-05-06 09:33:36",

@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-658 songs - 1 day 11 hr 57 min
+660 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 | 2024-02-14 | 2024-06-01 |
 | [Good With That](https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Good With That](https://open.spotify.com/album/5QPaLW7l4vqGjz6eVAU0un) | 1:55 | 2024-10-09 | 2024-10-30 |
 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 | 2025-09-25 | 2025-12-04 |
-| [grammy](https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [grammy](https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu) | 3:21 | 2026-04-22 |  |
+| [grammy](https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [grammy](https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu) | 3:21 | 2026-04-22 | 2026-06-04 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-01-17 | 2024-06-05 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 | 2024-08-07 | 2024-09-19 |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-06-04 | 2024-08-01 |
@@ -274,6 +274,7 @@
 | [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-29 | 2024-06-13 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-23 | 2024-11-21 |
 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-09-04 | 2024-10-17 |
+| [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-06-03 |  |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-27 | 2025-11-20 |
 | [jelly](https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [jelly](https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT) | 2:46 | 2024-08-14 | 2024-09-12 |
 | [Jodoh Lebaran](https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Jodoh Lebaran](https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX) | 3:12 | 2026-03-18 | 2026-04-16 |
@@ -292,6 +293,7 @@
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-04-08 |  |
 | [Leave You On Read](https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Leave You On Read](https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK) | 3:09 | 2024-04-24 | 2024-05-23 |
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-18 | 2025-07-03 |
+| [LEMONADE](https://open.spotify.com/track/7jx5CmnSDhVbLD9Eww6QLB) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(GISELLE Special Version\)](https://open.spotify.com/album/7ED3mOUgYLjyvtRDrrSyrn) | 3:07 | 2026-06-03 |  |
 | [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 | 2024-01-17 | 2024-02-29 |
 | [Like I Do \(with sunkis\)](https://open.spotify.com/track/76NX6bt1KCSg0yULpmlkyJ) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Like I Do \(with sunkis\)](https://open.spotify.com/album/0gRAmAqKw2Hw9ZvqG2qEZw) | 2:29 | 2024-02-07 | 2024-05-02 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-12 | 2026-03-05 |
@@ -569,7 +571,7 @@
 | [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-10-30 | 2025-01-30 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-24 | 2024-10-17 |
 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 | 2024-01-17 | 2024-03-14 |
-| [Who Knows](https://open.spotify.com/track/4iveM86TL9ombdSfV9T1P9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 3:46 | 2025-10-29 |  |
+| [Who Knows](https://open.spotify.com/track/4iveM86TL9ombdSfV9T1P9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 3:46 | 2025-10-29 | 2026-06-04 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-14 | 2024-10-24 |
 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-31 | 2024-03-07 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-09-25 | 2025-02-01 |

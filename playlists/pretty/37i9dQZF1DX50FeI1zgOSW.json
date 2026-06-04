@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19757,
+  "num_followers": 19760,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANypg/I7DUVx+bdeHCQxZ0sp9A+P",
+  "snapshot_id": "AAAAACoZaNLHuvkD65S1s1JZwTNCjRFZ",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -399,6 +399,30 @@
       "duration_ms": 150000,
       "name": "Maruvaati",
       "url": "https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj"
+    },
+    {
+      "added_at": "2026-06-03 21:26:56",
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/3PctjLa133DeItbTYGkgSj"
+      },
+      "artists": [
+        {
+          "name": "SomeBoyZ",
+          "url": "https://open.spotify.com/artist/7t0KbPCPfypILCeJ4HlosB"
+        },
+        {
+          "name": "Saran Thiyagarajan",
+          "url": "https://open.spotify.com/artist/7eymWz6OiQNFyshu7y946o"
+        },
+        {
+          "name": "Vengiruth",
+          "url": "https://open.spotify.com/artist/0mn7zkN9k3VbKAwzvwZsHv"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/13Tb1idYqzzb0P9Vv1PIFj"
     },
     {
       "added_at": "2026-05-15 06:57:58",

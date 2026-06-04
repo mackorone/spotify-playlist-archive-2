@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,078 songs - 6 day 14 hr 46 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,080 songs - 6 day 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3086,5 +3086,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3076 | [Be My Lover](https://open.spotify.com/track/4dJrJx3SfGXHmkqwB9muhO) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Be My Lover](https://open.spotify.com/album/7gFe3PHDOrolmoMNc8iHW4) | 3:21 |
 | 3077 | [Lost In Time](https://open.spotify.com/track/77NujRBK213WUBJvlKvPt0) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Lost In Time](https://open.spotify.com/album/5gTsMu6MnYZjx3fjk5K3Iq) | 2:35 |
 | 3078 | [BEAT GOES OFF](https://open.spotify.com/track/1ZlfW970nA8PDFMKYy2PQ6) | [Wolverave](https://open.spotify.com/artist/52tkAziCrKk8awyPXo7TnD), [RAVE HEAVEN](https://open.spotify.com/artist/5kgp9TGuY8Qt8fwwZKn1CQ), [MerkMine](https://open.spotify.com/artist/4EQUCTMYsKiUG8u7vErffU) | [BEAT GOES OFF](https://open.spotify.com/album/48wea2xOB99jzbDNy1dRH0) | 2:41 |
+| 3079 | [RAISE IT UP](https://open.spotify.com/track/7yTEODFJ1VVrZFOnptTJy7) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [RAISE IT UP](https://open.spotify.com/album/3dphEKezpA10E8ZW7lhQld) | 2:03 |
+| 3080 | [YOUR LOVE](https://open.spotify.com/track/40o7tuXx0Aik2FSGp7jZKi) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [YOUR LOVE](https://open.spotify.com/album/71TTxxtphXjDBRW9EKw628) | 2:40 |
 
-Snapshot ID: `AAAMXyn0DC6o7IRJbB9XyFBdoxWrV38i`
+Snapshot ID: `AAAMYYDNYkckzkAuXsm2LmR6cy4fL/3V`

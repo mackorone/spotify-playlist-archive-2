@@ -4,7 +4,7 @@
 
 > mostly furry
 
-418 songs - 20 hr 39 min
+419 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,8 @@
 | [DRIF\-T](https://open.spotify.com/track/4rhNlKuQzmT3nMNuWOTb1s) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [DRIF\-T](https://open.spotify.com/album/6uu9JRdKlLTT1rpikN8UZZ) | 1:39 | 2024-05-23 |  |
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-05-15 |  |
 | [EDGE PLAY](https://open.spotify.com/track/43saXiFb4mEm9ajLfiMoji) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY](https://open.spotify.com/album/6I75QTK7OKFpWj2hbHfB8I) | 1:24 | 2023-11-18 |  |
-| [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2023-11-18 |  |
-| [EDGE PLAY \- theSpackster Remix Instrumental](https://open.spotify.com/track/70cuOORNpDMSvSXO2M2Tgu) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2023-11-18 |  |
+| [EDGE PLAY \- FURRY RAVER REMIX](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2023-11-18 |  |
+| [EDGE PLAY \- FURRY RAVER REMIX INSTRUMENTAL](https://open.spotify.com/track/70cuOORNpDMSvSXO2M2Tgu) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2023-11-18 |  |
 | [End of the World](https://open.spotify.com/track/6YefQQKgaRBc0nXHuSNP7T) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:37 | 2024-12-07 |  |
 | [Fading Away](https://open.spotify.com/track/7qDJdDDFKBp79GJQhSiXvz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:02 | 2025-04-21 |  |
 | [Fall Is Fallsome](https://open.spotify.com/track/1DFqyin6eL0nuKwJyEyXH9) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Fall Is Fallsome](https://open.spotify.com/album/3nATfZ39oRaHawNdZNNg9A) | 3:05 | 2025-04-26 |  |
@@ -109,6 +109,7 @@
 | [Flashback](https://open.spotify.com/track/2aRjMPLp2gl580ySSKPTmE) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 1:42 | 2025-03-28 |  |
 | [Fluke](https://open.spotify.com/track/5nW57IfcABtJF3aKFzJcG9) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:56 | 2024-05-15 |  |
 | [Fly Away](https://open.spotify.com/track/6dH4aFPhsgTyfIEUXA8uRX) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fly Away](https://open.spotify.com/album/5WMaNps5VHPKgI561LKN4g) | 2:58 | 2024-05-23 |  |
+| [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 | 2026-06-03 |  |
 | [FNAF 10th Anniversary](https://open.spotify.com/track/6jmWoHG81QwlAli7oJvTBx) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:52 | 2025-04-22 |  |
 | [Fool's Gold](https://open.spotify.com/track/29dThjwnQnJxYqjdmiPQf0) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Fool's Gold](https://open.spotify.com/album/1HdEvsscmy3VC97mTB9Phu) | 3:30 | 2024-05-15 |  |
 | [Forgotten](https://open.spotify.com/track/1gqetDNNBUgWcaGHFXjT2J) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Forgotten](https://open.spotify.com/album/3hMzyfy66NNeZZD4X6TWSA) | 2:46 | 2024-01-20 |  |

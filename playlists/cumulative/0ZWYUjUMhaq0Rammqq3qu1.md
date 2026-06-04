@@ -4,7 +4,7 @@
 
 > A genre\-spanning celebration of queer joy, disco divinity, heartbreak, reinvention, and dancefloor liberation, Pride 2026 is built for the runway, the rooftop, the afterparty, the ride home, and beyond, with global icons, glitter\-soaked anthems, and full\-volume self\-expression at every turn\. 🌈
 
-1,356 songs - 3 day 8 hr 29 min
+1,357 songs - 3 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1120,6 +1120,7 @@
 | [Thanksgiving Theme](https://open.spotify.com/track/6SoRCs2EBxhlOH7QbwiAik) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/1JJ4vlKFmUCxYc1HGrMsRG) | 2:02 | 2024-11-26 | 2026-01-24 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2026-03-03 | 2026-04-17 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2024-06-26 | 2024-08-21 |
+| [That's All I Ask](https://open.spotify.com/track/0p9wBSrhHzEWB5UvOwywLY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Four Women: The Nina Simone Philips Recordings](https://open.spotify.com/album/7z0mmSH9h7zwVhmM8N76n1) | 2:27 | 2026-06-03 |  |
 | [That's How Strong My Love Is \- 2020 Remaster](https://open.spotify.com/track/66TDlvnBUwO0eQLGC0xvRl) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Best Of Otis Redding](https://open.spotify.com/album/0fqF5sprFqMCgNuFVKtGem) | 2:24 | 2025-09-16 | 2025-11-21 |
 | [That's Not My Name](https://open.spotify.com/track/0GrrLYCH8u81aENhC8FBF4) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/4wj8lA3aSK4WjHjdf5zuFn) | 5:10 | 2026-03-03 | 2026-04-17 |
 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 | 2026-03-03 | 2026-04-17 |

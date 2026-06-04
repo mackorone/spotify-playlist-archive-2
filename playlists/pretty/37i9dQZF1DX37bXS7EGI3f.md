@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,209 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,210 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 88 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 |
 | 89 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
 | 90 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 91 | [Until the End](https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Until the End](https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X) | 4:02 |
-| 92 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
-| 93 | [The Storm](https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Thunderfist Chronicles \(Deluxe Version\)](https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9) | 4:23 |
-| 94 | [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 |
-| 95 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
-| 96 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
+| 91 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
+| 92 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
+| 93 | [Until the End](https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Until the End](https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X) | 4:02 |
+| 94 | [The Storm](https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Thunderfist Chronicles \(Deluxe Version\)](https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9) | 4:23 |
+| 95 | [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 |
+| 96 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
 | 97 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
 | 98 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
-| 99 | [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 |
-| 100 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
+| 99 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 |
+| 100 | [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 |
 
 Snapshot ID: `AAAAAO/BxpoIh+k7QtXSmzrhF1CNpRHl`

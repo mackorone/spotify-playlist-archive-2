@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75594,
+  "num_followers": 75601,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "KONTRAST",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Osobista kolekcja 2",
-        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
-      },
-      "artists": [
-        {
-          "name": "Krystyna Pro\u0144ko",
-          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
-      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 223200,
       "name": "Niewiele Ci Mog\u0119 Da\u0107",
       "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Osobista kolekcja 2",
+        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
+      },
+      "artists": [
+        {
+          "name": "Krystyna Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
+      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "\u015awiat si\u0119 pomyli\u0142",
-        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
-      },
-      "artists": [
-        {
-          "name": "Patrycja Markowska",
-          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "\u015awiat si\u0119 pomyli\u0142",
-      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ksiega Urodzaju",
         "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 239600,
       "name": "Silacz",
       "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "\u015awiat si\u0119 pomyli\u0142",
+        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "\u015awiat si\u0119 pomyli\u0142",
+      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "NATinterpretacje",
-        "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
       },
       "artists": [
         {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
         }
       ],
-      "duration_ms": 184270,
-      "name": "Zamieni\u0119 ci\u0119",
-      "url": "https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3"
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+        "name": "NATinterpretacje",
+        "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
       },
       "artists": [
         {
-          "name": "Piotr Zio\u0142a",
-          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
+      "duration_ms": 184270,
+      "name": "Zamieni\u0119 ci\u0119",
+      "url": "https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

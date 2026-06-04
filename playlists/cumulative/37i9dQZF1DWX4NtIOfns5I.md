@@ -4,7 +4,7 @@
 
 > Jobi Riccio on the cover <3
 
-812 songs - 2 day 1 hr 1 min
+813 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Gave You Up](https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 3:21 | 2026-04-24 |  |
 | [Geese](https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:41 | 2026-01-23 |  |
 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 | 2025-02-28 | 2025-09-27 |
+| [Gentle Love](https://open.spotify.com/track/4Mp41b1Z5I45NPBkKuKMkq) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Beauty Land](https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2) | 1:31 | 2026-06-03 |  |
 | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo), [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1) | 3:35 | 2026-01-30 |  |
 | [Georgia Walks](https://open.spotify.com/track/46ewa3Cu9oEqxNnh0LRWxs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Georgia Walks](https://open.spotify.com/album/5NQ5yCqEPIP4BW3BPKXAmU) | 4:07 | 2023-10-20 | 2024-02-10 |
 | [give or take](https://open.spotify.com/track/31GzBC7eCQ4bmfuYpt66xW) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [give or take](https://open.spotify.com/album/7AqIwlTBcRNL3AVbS1FdDp) | 3:58 | 2025-04-18 | 2025-08-09 |

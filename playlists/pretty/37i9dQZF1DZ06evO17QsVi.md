@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,720 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,758 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 16 | [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 |
 | 17 | [Breathin](https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:04 |
 | 18 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Resurrection \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO) | 3:50 |
-| 19 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
+| 19 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
 | 20 | [Can't C Me](https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:30 |
-| 21 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
+| 21 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 22 | [To Live & Die In L.A.](https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:32 |
 | 23 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
 | 24 | [Only God Can Judge Me \(ft\. Rappin' 4\-Tay\)](https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `ahzLgAAAAACEw7jz5w/F/8ue1HNa3kbK`
+Snapshot ID: `ah4dAAAAAABjod5o1I5KWxXcn231YVcZ`

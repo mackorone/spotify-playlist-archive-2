@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-183 songs - 21 hr 12 min
+184 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Log Of Deadwood](https://open.spotify.com/track/46gUZoY1dMddmBNTTDFa09) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 1:13 | 2022-09-02 | 2023-05-01 |
 | [Lunar Caves](https://open.spotify.com/track/1wUJskvY0BAcuvmZz7cBQM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 9:16 | 2022-08-24 | 2022-10-02 |
 | [Lunik \- Komplott E.P\. Version](https://open.spotify.com/track/2RATJBb47KfFF3urC4NKh4) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:24 | 2024-12-01 | 2024-12-06 |
+| [Majestic](https://open.spotify.com/track/2m3pmafAgsy77Knir8qzN6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 11:06 | 2026-06-04 |  |
 | [Majestic](https://open.spotify.com/track/2DbkEPpdeNhGQJaYfiSDWp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 11:06 | 2022-05-29 | 2026-04-03 |
 | [Man in the Moon](https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:04 | 2022-05-30 | 2022-10-13 |
 | [Masterblaster \- Edit](https://open.spotify.com/track/7hTEedqHW0ft1lA7xzSXcK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Masterblaster \(Edit\)](https://open.spotify.com/album/1j5zc0Hw8MVIOLFWjoXm9t) | 3:51 | 2025-06-08 | 2026-05-08 |
@@ -110,7 +111,7 @@
 | [Montagne D'Or \(Der Gute Berg\)](https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 10:41 | 2022-05-30 | 2022-10-13 |
 | [Moon Scapes 2703 BC](https://open.spotify.com/track/0tF5FCXgG3mroz1rV3gtxx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 14:40 | 2022-06-15 | 2022-10-09 |
 | [Moonbuilding 2703 AD](https://open.spotify.com/track/2Bzo7YPDd1s0n9VDVKxAOU) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 13:04 | 2022-06-08 | 2022-10-13 |
-| [O.O.B.E.](https://open.spotify.com/track/3CE1CBZAbsXRPdan2hZOWB) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 12:51 | 2026-04-08 |  |
+| [O.O.B.E.](https://open.spotify.com/track/3CE1CBZAbsXRPdan2hZOWB) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 12:51 | 2026-04-08 | 2026-06-04 |
 | [O.O.B.E.](https://open.spotify.com/track/2xM8Y57Uh7BuEyuyviaaB8) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 12:51 | 2022-05-29 | 2026-03-10 |
 | [Occidental](https://open.spotify.com/track/7cTPTSaSWMpeL2Ea8gdAuF) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 13:54 | 2022-05-31 | 2022-10-13 |
 | [Once More](https://open.spotify.com/track/1kzhbwCEbpHPw74AZf9sqc) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cydonia](https://open.spotify.com/album/104kapJ0A7RBMaNKzL4oD6) | 4:20 | 2022-05-29 |  |

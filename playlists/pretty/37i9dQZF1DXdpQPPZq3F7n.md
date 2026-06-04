@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,471 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829,003 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Ek Din Title Track \- From "Ek Din"](https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Ek Din Title Track \(From "Ek Din"\)](https://open.spotify.com/album/4k1ssT85lMzmK3hi3ACZjT) | 4:21 |
 | 75 | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/1iiVX4OJ6vo3a4sT3Fe7Ix) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/0n6vwaRFABSyqtdaJafZW5) | 3:35 |
 
-Snapshot ID: `AAAAAE2Nv+sxRM+2tDh8AgYivGASezTz`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

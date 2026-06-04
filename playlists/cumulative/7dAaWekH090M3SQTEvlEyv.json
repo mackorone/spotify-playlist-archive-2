@@ -82,7 +82,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 167250,
       "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 222438,
       "name": "\u3042\u306a\u305f\u3057\u304b\u898b\u3048\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/2Cnm1u2ly8QWLbt3E8rrwS"
@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "\u3064\u3065\u304f\u95d8\u4e89",
+        "url": "https://open.spotify.com/album/20GyVpVj1S09XZvBhHi53s"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216889,
+      "name": "\u3064\u3065\u304f\u95d8\u4e89",
+      "url": "https://open.spotify.com/track/5jTWfJYX5wY8uo2SswDbyP"
+    },
+    {
+      "album": {
         "name": "\u306b\u307e\u3044\u3081",
         "url": "https://open.spotify.com/album/0NilN4sOn7rzTF5hiTQUh7"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 133651,
       "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
       "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 200172,
       "name": "\u30b5\u30a4\u30d0\u30fc\u30b5\u30f3\u30c0\u30fc\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/55qTuFgwaGjwixl9U0UTkf"
@@ -1147,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "\u30c9\u30ea\u30fc\u30de\u30fc\u30ba\u30d3\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2UM50hTobeyTNCgROLjBhY"
+      },
+      "artists": [
+        {
+          "name": "40mP",
+          "url": "https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233625,
+      "name": "\u30c9\u30ea\u30fc\u30de\u30fc\u30ba\u30d3\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/374paD6wZxAXIhCXkjbiQt"
+    },
+    {
+      "album": {
         "name": "\u30c9\u4e03\u4e94\u30b5\u30f3\u30d0",
         "url": "https://open.spotify.com/album/6TiGnkssFY5FBJ8zF6MNZa"
       },
@@ -1320,6 +1356,36 @@
       "duration_ms": 189884,
       "name": "\u30d5\u30a9\u30cb\u30a4",
       "url": "https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2"
+    },
+    {
+      "album": {
+        "name": "Spicy Butler",
+        "url": "https://open.spotify.com/album/5n7SkypEYxY947ABJ4Byr6"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "\u3069~\u3071\u307f\u3093",
+          "url": "https://open.spotify.com/artist/0RquwXNEyrEvmC1hhkiyj6"
+        },
+        {
+          "name": "zensen",
+          "url": "https://open.spotify.com/artist/5trj63qImDLUvvOq0tDHEJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184719,
+      "name": "\u30d5\u30e9\u30b9\u30b3\u30fb\u30c7\u30a3\u30b9\u30b3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2nGg243Jqzvxcmxd31xv2N"
     },
     {
       "album": {
@@ -1661,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30d1\u30e9",
         "url": "https://open.spotify.com/album/5Dwd0E2Q3pXFrHJagd84Y6"
       },
@@ -1856,7 +1940,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 144320,
       "name": "\u4e73\u9996\u306a\u305e\u306a\u305e",
       "url": "https://open.spotify.com/track/0jN8MPOaJOZiw8VwHueA5P"
@@ -1874,7 +1958,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 180271,
       "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
       "url": "https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv"
@@ -2120,7 +2204,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 149250,
       "name": "\u661f\u754c\u3061\u3083\u3093\u306e\u89d2\u74f6\u30ac\u30d6\u98f2\u307f\u66b4\u9a12\u66f2",
       "url": "https://open.spotify.com/track/6i6VxwOMwTAqZDOWn8CMLV"
@@ -2378,7 +2462,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 190702,
       "name": "\u80fd\u30ca\u30b7 (feat. \u77e5\u58f0) [2026 Re-recorded]",
       "url": "https://open.spotify.com/track/0bjg71Kab51SW3IMqNt4TX"
@@ -2404,6 +2488,24 @@
       "duration_ms": 179000,
       "name": "\u82b1\u3073\u3089\u54c0\u6b4c (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/1e4Yn677QJli5USVpagHWs"
+    },
+    {
+      "album": {
+        "name": "Ampoule Case",
+        "url": "https://open.spotify.com/album/1lDj00D24LGg4JJpGzlqRv"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u5c71\u5915\u7483",
+          "url": "https://open.spotify.com/artist/529IDKZNOrCoMaR4xW0JlN"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155341,
+      "name": "\u89e3\u6bd2\u4e0d\u80fd\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/3DXPKZVOkqAfpRPxbqUkbc"
     },
     {
       "album": {

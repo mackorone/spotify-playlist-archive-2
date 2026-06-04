@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 520707,
+  "num_followers": 520901,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
-        }
-      ],
-      "duration_ms": 263444,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 179200,
       "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
       "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+        }
+      ],
+      "duration_ms": 263444,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
         "name": "Thedia",
         "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Blue Trane",
-        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+        "name": "Lips Can Lie",
+        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
       },
       "artists": [
         {
-          "name": "Eric Reed Trio",
-          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 412133,
-      "name": "You're Sensational",
-      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+      "duration_ms": 229596,
+      "name": "Lips Can Lie",
+      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Lips Can Lie",
-        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 229596,
-      "name": "Lips Can Lie",
-      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
       },
@@ -1315,34 +1315,6 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
-        "name": "Impressions of Evans",
-        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        },
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Andreas Svendsen",
-          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1399,6 +1371,34 @@
       "duration_ms": 334626,
       "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Impressions of Evans",
+        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andreas Svendsen",
+          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "They Say It's Spring",
         "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 200720,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2026-05-29 09:14:40",

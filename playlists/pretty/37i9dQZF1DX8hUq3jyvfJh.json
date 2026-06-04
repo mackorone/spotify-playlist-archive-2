@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193766,
+  "num_followers": 193780,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,38 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Fogo Na Mistura",
+        "url": "https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf"
+      },
+      "artists": [
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 277666,
+      "name": "De Volta Pro Aconchego",
+      "url": "https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "A Mulher do Fim do Mundo",
+        "url": "https://open.spotify.com/album/2xjHr3ho0DJAsvxH0mj0W9"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 277677,
+      "name": "Mulher do Fim do Mundo",
+      "url": "https://open.spotify.com/track/0c3yWQVdaR6kFPxAMGg8zL"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Angela Roro",
         "url": "https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd"
       },
@@ -335,22 +367,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "C\u00e1ssia Eller Em Casa",
-        "url": "https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 250372,
-      "name": "Malandragem",
-      "url": "https://open.spotify.com/track/1EQ0RjamZKJhSUZmV8uBVs"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -399,22 +415,18 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
+        "name": "Black Orpheus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
         }
       ],
-      "duration_ms": 191392,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
+      "duration_ms": 177000,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -439,18 +451,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Black Orpheus (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc"
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
       },
       "artists": [
         {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Manha De Carnaval",
-      "url": "https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn"
+      "duration_ms": 191392,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -467,22 +483,6 @@
       "duration_ms": 262466,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "A mulher do fim do mundo (The Woman at the End of the World)",
-        "url": "https://open.spotify.com/album/313eRmJLKXpY6P9ESCNLmH"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "A Mulher Do Fim Do Mundo",
-      "url": "https://open.spotify.com/track/137z5FsCNQsOCPk6UD6wG0"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Modinha Para Gabriela",
-        "url": "https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        }
-      ],
-      "duration_ms": 231857,
-      "name": "Modinha Para Gabriela",
-      "url": "https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Voz de Longe",
         "url": "https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190070,
       "name": "Voz de Longe",
       "url": "https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Modinha Para Gabriela",
+        "url": "https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 231857,
+      "name": "Modinha Para Gabriela",
+      "url": "https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -679,18 +679,34 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Eu Sou O Samba - Clementina De Jesus",
-        "url": "https://open.spotify.com/album/5cPl3DKeHg83FLBkdaj51a"
+        "name": "Caras E Bocas",
+        "url": "https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o"
       },
       "artists": [
         {
-          "name": "Clementina De Jesus",
-          "url": "https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Na Linha Do Mar",
-      "url": "https://open.spotify.com/track/3j7gDXqSruaH6fKgJczAiE"
+      "duration_ms": 209266,
+      "name": "Louca Me Chamam (Crazy He Call's Me)",
+      "url": "https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Besta",
+        "url": "https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK"
+      },
+      "artists": [
+        {
+          "name": "Bruna Alimonda",
+          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Besta",
+      "url": "https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Besta",
-        "url": "https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK"
+        "name": "Marinheiro So",
+        "url": "https://open.spotify.com/album/5KLXL6l0NXxoqmVTvzaFyU"
       },
       "artists": [
         {
-          "name": "Bruna Alimonda",
-          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+          "name": "Clementina De Jesus",
+          "url": "https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j"
         }
       ],
-      "duration_ms": 181136,
-      "name": "Besta",
-      "url": "https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud"
+      "duration_ms": 197626,
+      "name": "Na Linha Do Mar",
+      "url": "https://open.spotify.com/track/3z230YvqImYt9p39Vc7Mkp"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "20 Grandes Sucessos De Elba Ramalho",
-        "url": "https://open.spotify.com/album/5zXTxvpkRYjKYFtgGPPD06"
+        "name": "Grossas Nuvens De Amor",
+        "url": "https://open.spotify.com/album/3ity1YDXey1PBfyNRden12"
       },
       "artists": [
         {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+          "name": "Dalva De Oliveira",
+          "url": "https://open.spotify.com/artist/5dwu0jLFd2fRnlY8UUJIVk"
         }
       ],
-      "duration_ms": 278560,
-      "name": "De Volta Pro Aconchego",
-      "url": "https://open.spotify.com/track/0mbbmAOtOOMFzmnQO6oRTt"
+      "duration_ms": 165373,
+      "name": "H\u00e1 Um Deus",
+      "url": "https://open.spotify.com/track/1TdEwIEm1vXjws74SWjyr6"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -827,6 +843,22 @@
       "duration_ms": 229960,
       "name": "Pra Rua Me Levar",
       "url": "https://open.spotify.com/track/4sSmA8PySqJIIj7nDRGIO5"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Cassia Eller",
+        "url": "https://open.spotify.com/album/4kGfDjQpuYExvMI12PLFvG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/2MdaCF958yzFrk0HQ4OQIu"
     }
   ],
   "unique_name": "EQUAL Brasil",

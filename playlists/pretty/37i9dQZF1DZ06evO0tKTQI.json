@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13946,
+  "num_followers": 13948,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACOV+9AkJIRyDqq95NbWuDq",
+  "snapshot_id": "ah4dAAAAAAAbWahBqg3wVbJLdCKnC4Ms",
   "tracks": [
     {
       "added_at": null,
@@ -442,11 +442,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 204762,
-      "name": "m\u00eda",
-      "url": "https://open.spotify.com/track/3fKqUZ7vrRDCckDrFRvfcL"
+      "duration_ms": 146176,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/7f5SAz6gixQq0ULfJamBg6"
     },
     {
       "added_at": null,

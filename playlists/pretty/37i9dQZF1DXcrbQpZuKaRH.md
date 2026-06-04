@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,414 likes - 120 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,469 likes - 120 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 119 | [Night Skies](https://open.spotify.com/track/1nERsyf5ID8i9SlopTV9FC) | [Ilya Reed](https://open.spotify.com/artist/29BrAyE0k3F02euWo4LpBM) | [Night Skies](https://open.spotify.com/album/4QkLYljbujJ9WyPwMxDAlx) | 2:50 |
 | 120 | [Sensual Ocean](https://open.spotify.com/track/3w1O6FSaSrc7UnobR68H7K) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Sensual Ocean](https://open.spotify.com/album/062bVbe4HIKx2JoaFd2YLU) | 3:06 |
 
-Snapshot ID: `AAAAACIT9P7kpKVz/1SWWnT74jjeVnYR`
+Snapshot ID: `AAAAAOSvnB+L7ITm3ZNIUxC/yeqSs9Th`

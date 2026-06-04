@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,874 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 18 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
 | 19 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
 | 20 | [Yo Tengo un Gran Dios](https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g) | [Planet Kids](https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo) | [Grandes Promesas](https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ) | 3:36 |
-| 21 | [El Guerrero David](https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [El Guerrero David](https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt) | 2:49 |
-| 22 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
+| 21 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
+| 22 | [El Guerrero David](https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [El Guerrero David](https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt) | 2:49 |
 | 23 | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq) | 3:13 |
 | 24 | [Tu Gozo](https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Tu Gozo](https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R) | 2:27 |
 | 25 | [Quiero Conocer A Jesús](https://open.spotify.com/track/3as9Rl3GJ1pP03e4Wxn8c5) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [Quiero Conocer A Jesús](https://open.spotify.com/album/0AexjlzRjmXT5ix9GNKHOK) | 5:35 |

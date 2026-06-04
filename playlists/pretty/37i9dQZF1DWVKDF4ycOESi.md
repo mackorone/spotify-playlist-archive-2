@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ariana Grande, Noemi, Gabry Ponte e Salmo, Bebe Rexha e David Guetta, Nicolò Filippucci e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,855 likes - 95 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,838 likes - 95 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 49 | [Sabato sbagliato](https://open.spotify.com/track/5FHOC3qB1iamppzVEuOD9L) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Sabato sbagliato](https://open.spotify.com/album/4Bl4KdCSJoY8efrgfQYz9T) | 2:43 |
 | 50 | [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 |
 | 51 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
-| 52 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
+| 52 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Ay Mazza](https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 53 | [tutto vero \#318](https://open.spotify.com/track/26U1JGcQQN5IRYQQrijOyz) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [tutto vero \#318](https://open.spotify.com/album/5Bx1yUd3qANLtU6yEKOPAX) | 2:24 |
 | 54 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
 | 55 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 |

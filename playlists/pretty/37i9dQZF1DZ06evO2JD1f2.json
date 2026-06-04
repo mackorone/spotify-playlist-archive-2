@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13524,
+  "num_followers": 13526,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABN8kEr12SHNTBYMpIuT36z",
+  "snapshot_id": "ah4dAAAAAACqN6SSaXMxrDrG2k0rlEl+",
   "tracks": [
     {
       "added_at": null,
@@ -750,15 +750,11 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
+      "duration_ms": 128826,
+      "name": "Sky Dweller",
+      "url": "https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij"
     },
     {
       "added_at": null,
@@ -830,11 +826,15 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 128826,
-      "name": "Sky Dweller",
-      "url": "https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij"
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
     },
     {
       "added_at": null,

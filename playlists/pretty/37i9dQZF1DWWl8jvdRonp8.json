@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 305288,
+  "num_followers": 305348,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Desde El Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 218413,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Arrepentida Y Sola",
-      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 184840,
       "name": "Sigue Sin Mi",
       "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Arrepentida Y Sola",
+      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Presiento Que Voy A LLorar",
+      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Pura Pieza De Mi Gusto, Vol. 2",
         "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 196986,
       "name": "Sigue Sin Mi",
       "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Presiento Que Voy A LLorar",
-      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
+      "duration_ms": 162560,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
     },
     {
       "added_at": "2026-03-10 01:21:38",

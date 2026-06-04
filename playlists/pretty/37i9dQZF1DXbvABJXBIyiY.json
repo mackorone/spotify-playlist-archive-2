@@ -1,6 +1,6 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 389434,
+  "num_followers": 389379,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
@@ -983,18 +983,22 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T"
+      "duration_ms": 191234,
+      "name": "For All You Give (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr"
     }
   ],
   "unique_name": "Rainy Day",

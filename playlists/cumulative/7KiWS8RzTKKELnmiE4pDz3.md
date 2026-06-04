@@ -4,7 +4,7 @@
 
 > 
 
-1,480 songs - 3 day 7 hr 15 min
+1,481 songs - 3 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,6 +1165,7 @@
 | [Skills](https://open.spotify.com/track/18RzOVoUefUG47NviEiX8A) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [The Ownerz](https://open.spotify.com/album/6U2LlflINhafc0e9vhs0lp) | 3:20 | 2026-02-04 | 2026-03-08 |
 | [Skip To My Lou](https://open.spotify.com/track/6ydsNkOuBMJcliNUAHdaVZ) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/4jzPkTmj9MaYR07IndEjNy) | 3:16 | 2025-03-04 | 2026-02-08 |
 | [Skurrr](https://open.spotify.com/track/5Uo8fStwMyYbNTtkz2EVXm) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 1:47 | 2024-03-06 | 2024-04-24 |
+| [Sky Is Falling](https://open.spotify.com/track/5R41avlfLHAEAng87SRRbQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb) | [2nd Collection](https://open.spotify.com/album/4GWqqGqNbOwUoTiMxaBMgq) | 4:41 | 2026-06-03 |  |
 | [Sky's the Limit \(feat\. 112\) \[Radio Edit\] \- 2014 Remaster](https://open.spotify.com/track/6rqJLgdS42Z0bp2mCAQEQS) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/6gW08XWRBd2Wnszyo5ZI6l) | 4:13 | 2026-01-24 | 2026-03-08 |
 | [Skybourne \(feat\. Big K.R.I.T\. & Smoke DZA\)](https://open.spotify.com/track/4b49vxe0QEaXuSO98nGrSM) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 4:16 | 2025-07-25 | 2026-03-08 |
 | [Slider](https://open.spotify.com/track/27BNM6DUOhLfKKv1yecgLd) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 2:28 | 2023-05-28 | 2023-12-14 |

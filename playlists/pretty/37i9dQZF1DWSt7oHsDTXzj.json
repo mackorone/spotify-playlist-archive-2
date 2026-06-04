@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 272787,
+  "num_followers": 272767,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "This Christmas I'm Coming Home",
-        "url": "https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2"
+        "name": "Learning to Crawl (US Release)",
+        "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 180974,
-      "name": "This Christmas I'm Coming Home",
-      "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
+      "duration_ms": 217733,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -851,18 +847,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Learning to Crawl (US Release)",
-        "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
+        "name": "This Christmas I'm Coming Home",
+        "url": "https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 217733,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+      "duration_ms": 180974,
+      "name": "This Christmas I'm Coming Home",
+      "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "snow globe on an alien's desk",
-        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "snow globe on an alien's desk",
-      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "snow globe on an alien's desk",
+        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "snow globe on an alien's desk",
+      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
     },
     {
       "added_at": "2025-12-17 22:42:18",

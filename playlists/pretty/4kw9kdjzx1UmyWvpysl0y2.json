@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123875,
+  "num_followers": 123870,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVcE5oDy4m2Xa4lCLqA6ndNfqBlHJA",
+  "snapshot_id": "AAAVcXIiMOUZvTuj3v08t9A3ZtsKd8uX",
   "tracks": [
+    {
+      "added_at": "2026-06-03 13:47:11",
+      "album": {
+        "name": "Ego Check",
+        "url": "https://open.spotify.com/album/3Gg4MSFkvm9jpmjWbUOSDI"
+      },
+      "artists": [
+        {
+          "name": "WHOiSEE",
+          "url": "https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Ego Check",
+      "url": "https://open.spotify.com/track/2JrvzwUHptdMFSYgLzcvLF"
+    },
     {
       "added_at": "2026-06-01 14:29:40",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC?si=Uh9nlhxOScuezxChbco1uA">Fatoumata Diawara</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,864 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,894 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

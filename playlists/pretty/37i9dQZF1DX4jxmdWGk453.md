@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,397 likes - 81 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,388 likes - 81 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 52 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/5tW5DvpRNhYGLVvqJkMFLI) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [A Capella Christmas Favourites](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) | 3:03 |
 | 53 | [Jesus Christ the Apple Tree](https://open.spotify.com/track/5HHtgGH5XwCfhjDo7I9EAo) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 3:17 |
 | 54 | [Silent Night \(Arr\. Jonathan Rathbone\)](https://open.spotify.com/track/0lD2XInGbG1BCQZ60CCqYS) | [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [What Sweeter Music: Songs and Carols for Christmas](https://open.spotify.com/album/1TsZm9UbZaVYA9x24qsKuQ) | 4:06 |
-| 55 | [Det är en ros utsprungen \(Arr\. Sandström for Vocal Ensemble\)](https://open.spotify.com/track/5BWkUxUbeVwWK0LjM0LWqU) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Ringmasters](https://open.spotify.com/artist/5PA3lsNXbVYa6Zwvf9nXUe) | [Praetorius: Det är en ros utsprungen \(Arr\. Sandström for Vocal Ensemble\)](https://open.spotify.com/album/5pS3WOhAMS6uUVvqXgWmE1) | 3:43 |
+| 55 | [Det är en ros utsprungen \(Arr\. Sandström for Vocal Ensemble\)](https://open.spotify.com/track/5BWkUxUbeVwWK0LjM0LWqU) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [Jan Sandström](https://open.spotify.com/artist/7F9CKy8D6gXd8FWRP2DxyY), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Ringmasters](https://open.spotify.com/artist/5PA3lsNXbVYa6Zwvf9nXUe) | [Praetorius: Det är en ros utsprungen \(Arr\. Sandström for Vocal Ensemble\)](https://open.spotify.com/album/5pS3WOhAMS6uUVvqXgWmE1) | 3:43 |
 | 56 | [Once in Royal David's City](https://open.spotify.com/track/5OS20K9GSq5BmD8VVQx1cw) | [Max Q](https://open.spotify.com/artist/7kVEBxCLB5kx4N67nkHe8t) | [A Little Christmas with Max Q](https://open.spotify.com/album/4NPHVSL6GKwBF357X4rWJ3) | 2:28 |
 | 57 | [Nativity Carol](https://open.spotify.com/track/1QrYNyzm91YKxzcyNrso0j) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn) | [The John Rutter Christmas Album](https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn) | 4:28 |
 | 58 | [Away in a Manger](https://open.spotify.com/track/4MzxDz2ZfG0cDgVvpQoCo8) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 3:08 |

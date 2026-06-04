@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Fléau Dicaprio
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,914 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,916 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

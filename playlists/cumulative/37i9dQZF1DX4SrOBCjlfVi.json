@@ -106033,6 +106033,24 @@
     },
     {
       "album": {
+        "name": "Livin Room",
+        "url": "https://open.spotify.com/album/4n5BXudZVPWMyv9JGK4u2c"
+      },
+      "artists": [
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139103,
+      "name": "Livin Room",
+      "url": "https://open.spotify.com/track/32CvgJxGJlTZRxiZr3tElU"
+    },
+    {
+      "album": {
         "name": "Living Legend",
         "url": "https://open.spotify.com/album/6Qtrhep6csqw0jdKOy6YkY"
       },

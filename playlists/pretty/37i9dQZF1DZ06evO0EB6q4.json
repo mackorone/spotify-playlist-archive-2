@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 265577,
+  "num_followers": 265601,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAAA/fBsVEBrNvN2+qqRIJJL",
+  "snapshot_id": "ah4dAAAAAAC+MQbbRslGDZr4C/7YUH2y",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/26JLezveasjmj1YypgUGsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Tuve Tanto",
         "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flaca",
-        "url": "https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/26JLezveasjmj1YypgUGsf"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Si Usted Quiere",
-      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para los Dolidos",
         "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 156403,
       "name": "Para los Dolidos",
       "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Si Usted Quiere",
+      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Lo Haces T\u00fa",
-        "url": "https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 141269,
-      "name": "S\u00f3lo Lo Haces T\u00fa",
-      "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Tin y Que Tan",
         "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 145471,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Lo Haces T\u00fa",
+        "url": "https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 141269,
+      "name": "S\u00f3lo Lo Haces T\u00fa",
+      "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
     },
     {
       "added_at": null,

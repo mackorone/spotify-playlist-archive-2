@@ -21701,6 +21701,24 @@
     },
     {
       "album": {
+        "name": "Four Women: The Nina Simone Philips Recordings",
+        "url": "https://open.spotify.com/album/7z0mmSH9h7zwVhmM8N76n1"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/0p9wBSrhHzEWB5UvOwywLY"
+    },
+    {
+      "album": {
         "name": "The Best Of Otis Redding",
         "url": "https://open.spotify.com/album/0fqF5sprFqMCgNuFVKtGem"
       },

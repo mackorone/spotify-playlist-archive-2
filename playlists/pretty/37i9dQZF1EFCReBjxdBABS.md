@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 117 | [Wild Card](https://open.spotify.com/track/3rVY4NV3kV2QD3iS2cuGoD) | [Brea](https://open.spotify.com/artist/3XnzbnejrCHew8KOKxIh9D) | [Wild Card](https://open.spotify.com/album/5K60ZKx7ynhDXfGqzwDuNd) | 3:14 |
 | 118 | [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 |
 | 119 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
-| 120 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
-| 121 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
-| 122 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 120 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 121 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
+| 122 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
 | 123 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
 | 124 | [Time Will Tell \- Demo](https://open.spotify.com/track/1fQVCwEFROQ3uqnqPTjHoP) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Dallas Wilson](https://open.spotify.com/artist/0ueAhTxK4uzP6XOPSq7vrn) | [Time Will Tell \(Demo\)](https://open.spotify.com/album/2LSHj1QMjgHYKS2IQzKHmp) | 3:19 |
 | 125 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcTLbgAAAABMZQ7yMhDhQtr+uwXuNnNS`
+Snapshot ID: `AcTRDgAAAACwF7b+VCcWfRJQf3i2Klwm`

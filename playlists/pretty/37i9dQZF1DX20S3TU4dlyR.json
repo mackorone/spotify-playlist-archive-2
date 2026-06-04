@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 75628,
+  "num_followers": 75641,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,22 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
       "artists": [
         {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
         },
         {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
         }
       ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+      "duration_ms": 336330,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -715,22 +715,22 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
         },
         {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
         }
       ],
-      "duration_ms": 336330,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Rastone (En Vivo en el Teatro de Flores)",
-        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
-      },
-      "artists": [
-        {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        },
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Rastone (En Vivo en el Teatro de Flores)",
-      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+      },
+      "artists": [
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Torito",
-        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Torito",
-      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
         "name": "Tenia Tanto Para Darte",
         "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 263144,
       "name": "Tenia Tanto Para Darte",
       "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
+        "name": "Torito",
+        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Torito",
+      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
+        "name": "Cool and Calm",
+        "url": "https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U"
+      },
+      "artists": [
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Cool and Calm",
+      "url": "https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
         "name": "Doce Amor (Dulce Amor)",
         "url": "https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 312676,
       "name": "Doce Amor (Dulce Amor)",
       "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
-        "name": "Cool and Calm",
-        "url": "https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U"
-      },
-      "artists": [
-        {
-          "name": "Tiano Bless",
-          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Cool and Calm",
-      "url": "https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "La Vida te Habla",
-        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 223874,
-      "name": "La Vida te Habla",
-      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
+      "duration_ms": 239280,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
     },
     {
       "added_at": "2026-05-22 03:00:32",

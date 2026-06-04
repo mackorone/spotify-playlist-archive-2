@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 772564,
+  "num_followers": 772604,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAAWlZDTObT7rTIR6Dqw5Cnz",
+  "snapshot_id": "ah4dAAAAAABrsuQXJKiketTkHsAhlIVW",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Prohibidos",
         "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reuni\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "\u00bfEn D\u00f3nde Estabas?",
-      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Garra De...",
         "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172600,
       "name": "El Maestro",
       "url": "https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reuni\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "\u00bfEn D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Como Aceite Y Como El Agua",
+      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Como Aceite Y Como El Agua",
-      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
+      "duration_ms": 194133,
+      "name": "Unidos Para Siempre",
+      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Unidos Para Siempre",
-      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrera Contra La Muerte",
-        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Carrera Contra La Muerte",
-      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 181306,
       "name": "Mi Sangre Prisionera",
       "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carrera Contra La Muerte",
+        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Carrera Contra La Muerte",
+      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "La Sorpresa",
+      "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Reina Del Sur",
         "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 216373,
-      "name": "El Tahur",
-      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
+      "duration_ms": 197133,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,
@@ -807,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "El Tahur",
+      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 224200,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,

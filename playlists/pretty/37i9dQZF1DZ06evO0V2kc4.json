@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 74533,
+  "num_followers": 74539,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAAhtyJTTg91RPXFsKf0A4bN",
+  "snapshot_id": "ah4dAAAAAABF4xUogqnVrJ9Yz9guJoJr",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Love Is Just A Four-Letter Word",
-      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 233266,
       "name": "Love Song To A Stranger",
       "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Kings (feat. Joan Baez)",
         "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 171706,
       "name": "No Kings (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
     },
     {
       "added_at": null,

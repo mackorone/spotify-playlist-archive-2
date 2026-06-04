@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Papillon ",
-  "num_followers": 84912,
+  "num_followers": 84935,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "El Chapo",
-        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "El Chapo",
-      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
-      },
-      "artists": [
-        {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "Bairro",
+        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "Picareta",
         "url": "https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 163862,
       "name": "Picareta",
       "url": "https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Bairro",
-        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 258590,
-      "name": "Bairro",
-      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-01-12 15:23:48",

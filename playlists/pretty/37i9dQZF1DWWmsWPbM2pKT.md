@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,229 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,309 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 21 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 |
 | 22 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
 | 23 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 |
-| 24 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
+| 24 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 25 | [In My Arms](https://open.spotify.com/track/4y2sxvKpViUac3VXi02wki) | [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [In My Arms](https://open.spotify.com/album/50YuSk822CQPTg38BJTJcX) | 3:41 |
-| 26 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
+| 26 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
 | 27 | [Kotshena](https://open.spotify.com/track/3qaV5Tj4wYD6PYPbDDehv1) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [KHAZNA](https://open.spotify.com/album/1e6TOfQPLEkZG03XHkY3s3) | 3:57 |
 | 28 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 29 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 |

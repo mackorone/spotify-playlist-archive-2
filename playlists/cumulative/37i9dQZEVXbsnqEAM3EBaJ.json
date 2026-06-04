@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Under Wraps (The Unwrapped Edition)",
+        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336413,
+      "name": "Apogee - Original Drums",
+      "url": "https://open.spotify.com/track/4uLKNEgYVN7ILCSRGSOupz"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -34534,7 +34552,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 202392,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
@@ -54369,6 +54387,24 @@
     },
     {
       "album": {
+        "name": "Zodeon at Crystal Hall",
+        "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182244,
+      "name": "The Bard",
+      "url": "https://open.spotify.com/track/5uJOBP0XEFnRJaSVkCb2QY"
+    },
+    {
+      "album": {
         "name": "Somewhere Far Beyond (Revisited)",
         "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
       },
@@ -58932,7 +58968,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 332186,
       "name": "Too Old To Rock 'N' Roll - Live at Hammersmith Odeon, 1984",
       "url": "https://open.spotify.com/track/0EVvbU2933Ul9QWIqd5yaw"

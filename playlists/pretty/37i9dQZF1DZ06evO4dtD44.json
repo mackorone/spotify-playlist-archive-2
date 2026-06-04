@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63293,
+  "num_followers": 63300,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABNVPp3UmAICh/kON/fcjHV",
+  "snapshot_id": "ah4dAAAAAAB5SR1chmpyjVUyG0bzbCIu",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 97359,
+      "name": "Samba de uma Nota S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 76293,
       "name": "Cordeiro de Nan\u00e3",
       "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
-        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 97359,
-      "name": "Samba de uma Nota S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR"
     },
     {
       "added_at": null,

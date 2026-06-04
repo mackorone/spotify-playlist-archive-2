@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,583 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,591 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 30 | [Dipli Monaxia](https://open.spotify.com/track/1MaEGgATRyidOuieOcZNZj) | [Viki Karatzoglou](https://open.spotify.com/artist/7eBY6QtKst1ggxDqilLrvi), [Ioanna Kolliniati](https://open.spotify.com/artist/2gGZ28A21eASDiDWBIg4DS), [Nikos Platanos](https://open.spotify.com/artist/2jiSakQOHmpddWvzZ9uW1w) | [Dipli Monaxia](https://open.spotify.com/album/79lBVAGyoCKFRzxyuYQM1r) | 4:05 |
 | 31 | [που πας;](https://open.spotify.com/track/0rjKKKjq0KEHuvqYKUNpPu) | [Alexandra Epitheti](https://open.spotify.com/artist/2mqeQW0sae7p4uZI62lELx), [Karolos Berahas](https://open.spotify.com/artist/0w8LEqnFLaF09SfTQrD4TD), [The Bad Poetry Social Club](https://open.spotify.com/artist/36D6ROEUT3Xv4uVHp7UyVN) | [που πας;](https://open.spotify.com/album/7tnlIvdMC3DPLFK7EGSYFE) | 3:33 |
 | 32 | [Xeris kati pou den xero](https://open.spotify.com/track/71mw89u2vyJay5VWJ2ft6M) | [Naira Alexopoulou](https://open.spotify.com/artist/6uiIc2m5nv59jcoJCJtvhL) | [Xeris kati pou den xero](https://open.spotify.com/album/4LtpStedoJNtvXBw8sUXBP) | 3:15 |
-| 33 | [EIMAI ARNI](https://open.spotify.com/track/1u7cXDw4H7uLyk6Vtt4jps) | [Georgia Kefala](https://open.spotify.com/artist/1GCUdHbFcsiREsmylU2w67), [Michalis Skarakis](https://open.spotify.com/artist/48m7todAn61d0MQX7FmPr0) | [EIMAI ARNI](https://open.spotify.com/album/37lKlGtLRl6g6dduf8CZth) | 4:11 |
+| 33 | [EIMAI ARNI](https://open.spotify.com/track/1u7cXDw4H7uLyk6Vtt4jps) | [Georgia Kefala](https://open.spotify.com/artist/1GCUdHbFcsiREsmylU2w67), [Michalis Skarakis](https://open.spotify.com/artist/48m7todAn61d0MQX7FmPr0), [Iliana Tsakiraki](https://open.spotify.com/artist/7HNFR5nDKpKL85Ajv18xOp) | [EIMAI ARNI](https://open.spotify.com/album/37lKlGtLRl6g6dduf8CZth) | 4:11 |
 | 34 | [Aigaio](https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Aigaio](https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk) | 4:04 |
 | 35 | [GET LOW](https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32) | [ZiZZi](https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [GET LOW](https://open.spotify.com/album/6evd7cFqSRXyJ4t1Fimxit) | 2:22 |
 | 36 | [Me Xodepses](https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Me Xodepses](https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy) | 2:59 |

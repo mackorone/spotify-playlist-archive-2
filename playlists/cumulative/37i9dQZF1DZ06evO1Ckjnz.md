@@ -4,7 +4,7 @@
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 24 min
+79 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Rage](https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:20 | 2025-06-11 |  |
 | [Relative](https://open.spotify.com/track/2uQkZcC3640TUy5TivEgXT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 1:20 | 2025-10-20 | 2025-11-01 |
 | [ringtone \(Remix\) \[feat\. Charli XCX, Rico Nasty, Kero Kero Bonito\]](https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 3:34 | 2025-06-11 |  |
+| [Rituals](https://open.spotify.com/track/3bewwYBhlM3VNe3trzGIs3) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Rituals](https://open.spotify.com/album/3W5RkcDR5Xk5rMZCHhppsU) | 2:10 | 2026-06-04 |  |
 | [Rojo](https://open.spotify.com/track/77j8WY8VMFEFrX9pZr7HiQ) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 2:24 | 2025-10-26 | 2025-11-02 |
 | [SAY WE DID](https://open.spotify.com/track/0AuscSx8huux7AhKXAiTey) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:50 | 2025-10-20 | 2025-10-24 |
 | [SAY WE DID](https://open.spotify.com/track/5PC2Udh5gEmWE0c43XItro) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 1:50 | 2025-12-20 | 2026-02-07 |
@@ -74,7 +75,7 @@
 | [SOUL SNATCHER](https://open.spotify.com/track/3Ah2TLDzV9Hh6hnQuLkuP3) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 1:58 | 2025-12-25 | 2026-01-18 |
 | [SOUL SNATCHER](https://open.spotify.com/track/3RD8lExCXYKExhOLiulSmf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:58 | 2025-06-11 | 2025-12-12 |
 | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Speed It Up \(feat\. Rico Nasty\)](https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa) | 2:23 | 2025-06-11 |  |
-| [STFU](https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:16 | 2025-06-11 |  |
+| [STFU](https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:16 | 2025-06-11 | 2026-06-04 |
 | [STUNNA](https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 1:58 | 2025-12-14 |  |
 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 | 2025-06-11 | 2025-12-14 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2025-06-11 |  |

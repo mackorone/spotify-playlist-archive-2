@@ -4,7 +4,7 @@
 
 > 
 
-210 songs - 10 hr 55 min
+215 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,9 @@
 | [Any Day](https://open.spotify.com/track/3zNgZ7T9ZrN6mtBsRVhtJJ) | [Ocartiz James](https://open.spotify.com/artist/23MBrNLP0Eee8OZbRMcH7z), [Bec](https://open.spotify.com/artist/5KlC6dFBcvWlovMoCTOgQN) | [Away for too Long \- The Studio Sessions](https://open.spotify.com/album/2Q0i2bSiCG17BBpw4GAkIG) | 1:28 | 2025-03-12 |  |
 | [AZOTARTE](https://open.spotify.com/track/4eG6YirA72uHlDKmzYmlud) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Adal Palacios](https://open.spotify.com/artist/19x873JrC5NE60vCN4KPZp), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw), [Dj Full Mx](https://open.spotify.com/artist/3gBDVCX4mV5qVxbR0eyT06), [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE) | [AZOTARTE](https://open.spotify.com/album/4f85e5tYKqheOGA1p7t0E7) | 2:11 | 2025-09-09 |  |
 | [Baila](https://open.spotify.com/track/1lLoW8BPXr9EK4s2L1Qwid) | [MG'](https://open.spotify.com/artist/24NUzfEiDv7O3XmfUWy8DH) | [Baila](https://open.spotify.com/album/0iWdERMMhVmphw8ioaIdtR) | 3:01 | 2025-08-26 |  |
+| [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-06-03 |  |
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
+| [Best Thing](https://open.spotify.com/track/3e5BwnOOms59dg70weqzpX) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 3:41 | 2026-06-03 |  |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-11 |  |
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2026-04-07 |  |
@@ -48,6 +50,7 @@
 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 | 2026-03-19 |  |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-04-02 |  |
+| [Desnudita](https://open.spotify.com/track/1aVp36oGu1xj8bJavKxQEK) | [OGzuz](https://open.spotify.com/artist/6OJT0CHj1pRZBhiTlZuzay), [∆ndrik](https://open.spotify.com/artist/0kwYTmo0MgvxDkf35lilIz) | [Desnudita](https://open.spotify.com/album/6ztoOedgELjC9bg6FYctK2) | 3:10 | 2026-06-03 |  |
 | [DIDN'T WARN YA](https://open.spotify.com/track/7qrzCjrqPljxxMRQCIEwTt) | [Emmett Xander](https://open.spotify.com/artist/5dGDu2lnsyIOXr0WlOTvFI) | [DIDN'T WARN YA](https://open.spotify.com/album/3CQhmDzGEbPDNu7ShVyeVE) | 1:48 | 2025-04-03 |  |
 | [Dog Daze Haze](https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:14 | 2025-09-01 |  |
 | [Donnie Darko](https://open.spotify.com/track/5E0zKLNtUaa6Wr8bEI35w4) | [Diamond Delicious](https://open.spotify.com/artist/3sMiF49UAtjkzvpyUnmnbe) | [Suburbia](https://open.spotify.com/album/40VrWnfYBeiT61kdFR0Lav) | 4:14 | 2025-04-14 |  |
@@ -189,6 +192,7 @@
 | [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |
 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 | 2026-04-02 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
+| [The Climb](https://open.spotify.com/track/0HKxgYyUTgSGkY8hPCEXIf) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [The Climb](https://open.spotify.com/album/1RiFybPic6zBZ3viZ6B3Nf) | 4:58 | 2026-06-03 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 | 2026-05-06 |  |
 | [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 | 2026-02-11 |  |
@@ -202,6 +206,7 @@
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
+| [Two Lives](https://open.spotify.com/track/7MncHPXeZMEQYtnbiaxxvJ) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Two Lives](https://open.spotify.com/album/6XHsRmumVaZpfST8VWaQEx) | 3:58 | 2026-06-03 |  |
 | [VUELVE SOLA](https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [VUELVE SOLA](https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj) | 2:22 | 2026-05-06 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |

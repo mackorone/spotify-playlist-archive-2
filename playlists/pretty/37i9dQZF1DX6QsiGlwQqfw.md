@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,145 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,148 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 34 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 |
 | 35 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
 | 36 | [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 |
-| 37 | [Purvi \- Alap & Vilambit](https://open.spotify.com/track/4YWDiGHsCcdW1OjfVDY84w) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 16:51 |
+| 37 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |
 | 38 | [Rag Marwa, Part 1](https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:25 |
 | 39 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 |
 | 40 | [Raga Ahir Bhairi](https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8) | [Paritosh Seal](https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:20 |
 | 41 | [Alaap Jor Jhala \- Raga Basant Mukhari](https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Golden Raaga Collection II \- Pandit Shiv Kumar Sharma](https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV) | 17:50 |
-| 42 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |
+| 42 | [Purvi \- Alap & Vilambit](https://open.spotify.com/track/4YWDiGHsCcdW1OjfVDY84w) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 16:51 |
 | 43 | [Raga Chandranandan \- Alap, Jor](https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Over the Moon](https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV) | 22:11 |
 | 44 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 |
 | 45 | [Ragmala](https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG) | [Ustad Rais Khan](https://open.spotify.com/artist/4njub7O9Nw269MV3c7YCtr) | [Rag\-Rang](https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk) | 23:05 |

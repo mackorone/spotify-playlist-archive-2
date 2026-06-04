@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 152990,
+  "num_followers": 153001,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Peace Like A River: The Hymns Project",
         "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 293986,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1483,22 +1483,38 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "One Song at a Time",
-        "url": "https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "Jamie Grace",
-          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Hold Me (feat. Tobymac)",
-      "url": "https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe"
+      "duration_ms": 233774,
+      "name": "Tell Your Heart To Beat Again",
+      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 248217,
+      "name": "Manolo",
+      "url": "https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1523,18 +1539,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+        "name": "One Song at a Time",
+        "url": "https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 233774,
-      "name": "Tell Your Heart To Beat Again",
-      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+      "duration_ms": 213440,
+      "name": "Hold Me (feat. Tobymac)",
+      "url": "https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1555,26 +1575,6 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 248217,
-      "name": "Manolo",
-      "url": "https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Resurrection Letters, Vol. 1",
-        "url": "https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Light Up the Sky",
         "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 218840,
       "name": "Light Up the Sky",
       "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Resurrection Letters, Vol. 1",
+        "url": "https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn"
     },
     {
       "added_at": "2025-12-12 06:15:47",

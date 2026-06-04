@@ -2,7 +2,7 @@
 
 ### [This Is Bruno Mars](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03DwPK)
 
-> This is Bruno Mars\. The essential tracks, all in one playlist.
+> This Is Bruno Mars\. Les titres incontournables, réunis dans une seule et même playlist.
 
 79 songs - 4 hr 40 min
 

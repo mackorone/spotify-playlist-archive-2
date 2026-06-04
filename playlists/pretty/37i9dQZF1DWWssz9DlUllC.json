@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Tiwa Savage ",
-  "num_followers": 91901,
+  "num_followers": 91939,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,42 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 139424,
+      "name": "Lakute",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -163,42 +199,6 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 139424,
-      "name": "Lakute",
-      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 200617,
       "name": "HOW FAR - Remix",
       "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "TOO HOT",
-        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "TOO HOT",
-      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "Root Of All Evil",
         "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185084,
       "name": "Root Of All Evil",
       "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "TOO HOT",
+        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TOO HOT",
+      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "ROAD TO PARATI",
-        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
       },
       "artists": [
         {
           "name": "Zerrydl",
           "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Jenerall",
-          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 172631,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1115,18 +1107,26 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+        "name": "ROAD TO PARATI",
+        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
       },
       "artists": [
         {
           "name": "Zerrydl",
           "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Jenerall",
+          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
+      "duration_ms": 172631,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        },
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
-      },
-      "artists": [
-        {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
-        },
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 169541,
       "name": "Matter",
       "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2026-05-29 00:01:58",

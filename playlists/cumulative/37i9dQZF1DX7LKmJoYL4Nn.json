@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)",
+          "url": "https://open.spotify.com/artist/4Adpvt0XfIDMiDpi60fHoU"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323773,
+      "name": "Cloth Waltz",
+      "url": "https://open.spotify.com/track/0VVxEUSAcPwpmJdzOmZOGl"
+    },
+    {
+      "album": {
         "name": "Knights\u300cCoruscate Breeze\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season3",
         "url": "https://open.spotify.com/album/02vP757RR8hJCnrAbkvAG6"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 301720,
       "name": "Secret Gravity",
       "url": "https://open.spotify.com/track/0Sl3zO3NVnyMyuhnyrUEnd"
@@ -3176,7 +3194,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 226666,
       "name": "Wonderful Happiness",
       "url": "https://open.spotify.com/track/2RGEPzjh4pkN0mX89P4tTD"
@@ -4122,6 +4140,24 @@
       "duration_ms": 206997,
       "name": "\u5186\u74b0\u306eRefraction",
       "url": "https://open.spotify.com/track/48f8tr0Mi0Fkqn4pnd46Uc"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.5)",
+        "url": "https://open.spotify.com/album/2kJP5EFp6vRsGGi0wQlTZP"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "\u51f1\u65cb\u6b4c",
+      "url": "https://open.spotify.com/track/6SPtlSV77UsKaB5iYyPVpJ"
     },
     {
       "album": {

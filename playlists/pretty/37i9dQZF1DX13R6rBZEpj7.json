@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 282531,
+  "num_followers": 282584,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,18 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Courvoisier",
-        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
+        "name": "Lawd Have Mercy",
+        "url": "https://open.spotify.com/album/0jJwIrcbe45CwzDuzxv98d"
       },
       "artists": [
         {
-          "name": "Tempa T",
-          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
         }
       ],
-      "duration_ms": 147104,
-      "name": "Courvoisier",
-      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
+      "duration_ms": 233239,
+      "name": "Lawd Have Mercy",
+      "url": "https://open.spotify.com/track/4BR3tNnej9KQoFBQD2EnEO"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -587,18 +579,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Lawd Have Mercy",
-        "url": "https://open.spotify.com/album/0jJwIrcbe45CwzDuzxv98d"
+        "name": "Courvoisier",
+        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
       },
       "artists": [
         {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
         }
       ],
-      "duration_ms": 233239,
-      "name": "Lawd Have Mercy",
-      "url": "https://open.spotify.com/track/4BR3tNnej9KQoFBQD2EnEO"
+      "duration_ms": 147104,
+      "name": "Courvoisier",
+      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "The Things That We Should Say",
+        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
+      },
+      "artists": [
+        {
+          "name": "TACTICS",
+          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 128394,
+      "name": "The Things That We Should Say",
+      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Sorry I'm Like This",
         "url": "https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 172904,
       "name": "Sorry I'm Like This",
       "url": "https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "The Things That We Should Say",
-        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
-      },
-      "artists": [
-        {
-          "name": "TACTICS",
-          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 128394,
-      "name": "The Things That We Should Say",
-      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/6714860pGAmNimPSUT0GWN"
+        "name": "Combat (feat. Gardna)",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
       },
       "artists": [
         {
-          "name": "H \"two\" O",
-          "url": "https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW"
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
         },
         {
-          "name": "Rocco LDN",
-          "url": "https://open.spotify.com/artist/012wRb4Wr9RU3zaxSxPTFX"
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         }
       ],
-      "duration_ms": 275962,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
+      "duration_ms": 147000,
+      "name": "Combat (feat. Gardna)",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/6714860pGAmNimPSUT0GWN"
+      },
+      "artists": [
+        {
+          "name": "H \"two\" O",
+          "url": "https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW"
+        },
+        {
+          "name": "Rocco LDN",
+          "url": "https://open.spotify.com/artist/012wRb4Wr9RU3zaxSxPTFX"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "I'm Not Deep in Love",
         "url": "https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 153152,
       "name": "I'm Not Deep in Love",
       "url": "https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Combat (feat. Gardna)",
-        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
-      },
-      "artists": [
-        {
-          "name": "Declan Knapp",
-          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Combat (feat. Gardna)",
-      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     }
   ],
   "unique_name": "Bassline Bangers",

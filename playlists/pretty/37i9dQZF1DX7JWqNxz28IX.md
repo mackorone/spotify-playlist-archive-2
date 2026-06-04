@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,223 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,221 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 40 | [Pity Party](https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Dark Magic](https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev) | 2:24 |
 | 41 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 |
 | 42 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 |
-| 43 | [Volevo dirti](https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Volevo dirti](https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM) | 3:01 |
-| 44 | [WhatCouldPossiblyGoWrong](https://open.spotify.com/track/2wg8Zd8FXAWd0fgHxHInX2) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [NobodyWantsMe](https://open.spotify.com/album/5gOswcFctdPF2qlLAfMc33) | 1:54 |
+| 43 | [WhatCouldPossiblyGoWrong](https://open.spotify.com/track/2wg8Zd8FXAWd0fgHxHInX2) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [NobodyWantsMe](https://open.spotify.com/album/5gOswcFctdPF2qlLAfMc33) | 1:54 |
+| 44 | [Volevo dirti](https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Volevo dirti](https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM) | 3:01 |
 | 45 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 |
 | 46 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 |
 | 47 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 |
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 59 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
 | 60 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 |
 | 61 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
-| 62 | [RepeatInfinite](https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:59 |
-| 63 | [Acqua Fredda](https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Acqua Fredda](https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m) | 2:39 |
-| 64 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |
-| 65 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
-| 66 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
-| 67 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
+| 62 | [Acqua Fredda](https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Acqua Fredda](https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m) | 2:39 |
+| 63 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |
+| 64 | [RepeatInfinite](https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:59 |
+| 65 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
+| 66 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
+| 67 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
 | 68 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
 | 69 | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq) | [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [PERCHÉ NON TI CAPIVO](https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF) | 2:22 |
-| 70 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
-| 71 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
-| 72 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
+| 70 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
+| 71 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
+| 72 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
 | 73 | [polvere da sparo](https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [polvere da sparo](https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ) | 2:57 |
 | 74 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 |
 | 75 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 93 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
 | 94 | [CAMBIARE VITA](https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [QUARTA DIMENSIONE](https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN) | 2:01 |
 | 95 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
-| 96 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 97 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
-| 98 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
-| 99 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
+| 96 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
+| 97 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
+| 98 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
+| 99 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 100 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
 
 Snapshot ID: `AAAAAKqqSNWSCwTQTH2WUJ+L7JM746/5`

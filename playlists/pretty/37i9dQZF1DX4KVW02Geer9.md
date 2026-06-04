@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,210 likes - 104 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,205 likes - 104 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 7 | [氷](https://open.spotify.com/track/27uSNHKZoL5c1BsDPLJHHd) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [氷](https://open.spotify.com/album/2lGfogNEbFPNrXDeTmKqqT) | 2:32 |
 | 8 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 9 | [Ocean Light \(Phase 1: Prelude\)](https://open.spotify.com/track/4lKQi60Oe2wnJk8Qrn1QHE) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ocean Light \(Phase 1: Prelude\)](https://open.spotify.com/album/6IgWVDyxuNsFRPGUTThgpG) | 2:02 |
-| 10 | [Sakura](https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq) | [Besties our sounds.](https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE), [Saori Yano](https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly), [Josei](https://open.spotify.com/artist/76XgqcMSZXVRmN4hARCURt) | [Sakura](https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65) | 4:19 |
+| 10 | [Sakura](https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq) | [Besties our sounds.](https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE), [Saori Yano](https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly), [丈青](https://open.spotify.com/artist/2OIV28kmSGmQQUmgjOV5J5) | [Sakura](https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65) | 4:19 |
 | 11 | [Beacon of Hope](https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ) | [Patrick Bartley's DREAMWEAVER](https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2) | [Beacon of Hope](https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O) | 10:25 |
 | 12 | [Window To The Soul](https://open.spotify.com/track/7wNqcryc6nxY7fXKm9Y6cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Window To The Soul](https://open.spotify.com/album/1ng7DPYpbK1yhjGqL5oTcW) | 4:56 |
 | 13 | [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 |

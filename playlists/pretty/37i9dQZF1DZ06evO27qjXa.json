@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 30345,
+  "num_followers": 30425,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADxuNcWOXNBLPgUBmHP75Gu",
+  "snapshot_id": "ah4dAAAAAAD76KWuDDnfQ8j8ghrRU+7p",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bravest Knight!",
-        "url": "https://open.spotify.com/album/7DiWcMXwZb4kOJGcjZmmJs"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 560875,
-      "name": "The Bravest Knight!",
-      "url": "https://open.spotify.com/track/4L3JmesNmUOkvC73qhdUeq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Floor is Lava Dance",
         "url": "https://open.spotify.com/album/3O6Tgrey7yy4Yf5CzLvDMe"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 190190,
       "name": "The Floor is Lava Dance",
       "url": "https://open.spotify.com/track/7FfFraDlwTXR2WlCmdoHKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bravest Knight!",
+        "url": "https://open.spotify.com/album/7DiWcMXwZb4kOJGcjZmmJs"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 560875,
+      "name": "The Bravest Knight!",
+      "url": "https://open.spotify.com/track/4L3JmesNmUOkvC73qhdUeq"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Package Pop!",
-        "url": "https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3"
+        "name": "The Monkey Dance",
+        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 308608,
-      "name": "Package Pop!",
-      "url": "https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK"
+      "duration_ms": 142168,
+      "name": "The Monkey Dance",
+      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monkey Dance",
-        "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
+        "name": "Package Pop!",
+        "url": "https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 142168,
-      "name": "The Monkey Dance",
-      "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
+      "duration_ms": 308608,
+      "name": "Package Pop!",
+      "url": "https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stomp Clap Dance Song",
-        "url": "https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "The Stomp Clap Dance Song",
-      "url": "https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
         "url": "https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 454854,
       "name": "Ka-Pow! 2: Attack of the Gravity Goldfish!",
       "url": "https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stomp Clap Dance Song",
+        "url": "https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "The Stomp Clap Dance Song",
+      "url": "https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop Digging",
-        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 245411,
-      "name": "Don't Stop Digging",
-      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digging In The Dirt (Construction Vehicles Dance)",
         "url": "https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 216673,
       "name": "Digging In The Dirt - Construction Vehicles Dance",
       "url": "https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Stop Digging",
+        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 245411,
+      "name": "Don't Stop Digging",
+      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danny Go! Sleep Music, Vol. 2 (Lullaby Version)",
-        "url": "https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Ka-Pow - Lullaby Version",
-      "url": "https://open.spotify.com/track/4Q0hlXcIoIFZXVk72X30Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Disco Unicorn",
         "url": "https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214614,
       "name": "Math Whiz - Addition Version",
       "url": "https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluey Theme (Acapella Version)",
+        "url": "https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 70218,
+      "name": "Bluey Theme - Acapella Version",
+      "url": "https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS"
     }
   ],
   "unique_name": "This Is Danny Go!",

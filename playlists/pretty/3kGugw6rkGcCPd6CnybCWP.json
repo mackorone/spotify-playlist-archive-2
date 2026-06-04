@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAO/aG2oV/3fTgHUlEC9yCqRboTwSie",
+  "snapshot_id": "AAAPA9SnFayDvGCXXapOfNFZX3y07Uju",
   "tracks": [
     {
       "added_at": "2026-05-14 09:04:41",
@@ -1759,6 +1759,102 @@
       "duration_ms": 181775,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw"
+    },
+    {
+      "added_at": "2026-06-03 10:56:18",
+      "album": {
+        "name": "Left on Red",
+        "url": "https://open.spotify.com/album/1oYLH8UaTxWb2mQawgCAci"
+      },
+      "artists": [
+        {
+          "name": "Left Out",
+          "url": "https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr"
+        }
+      ],
+      "duration_ms": 278314,
+      "name": "Left on Red",
+      "url": "https://open.spotify.com/track/7hvIooRdwasrzBFf1zuzMi"
+    },
+    {
+      "added_at": "2026-06-03 10:56:39",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 381085,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
+    },
+    {
+      "added_at": "2026-06-03 10:57:06",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Grace",
+          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6"
+    },
+    {
+      "added_at": "2026-06-03 10:58:00",
+      "album": {
+        "name": "don't take this all for granted",
+        "url": "https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35"
+      },
+      "artists": [
+        {
+          "name": "rose wallace goldaline",
+          "url": "https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "don't take this all for granted",
+      "url": "https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi"
+    },
+    {
+      "added_at": "2026-06-03 10:59:20",
+      "album": {
+        "name": "Pushing Forty",
+        "url": "https://open.spotify.com/album/13HsxjVBJF860WS0HcZBV7"
+      },
+      "artists": [
+        {
+          "name": "Ellie Heath",
+          "url": "https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "That Sunshine's Mine",
+      "url": "https://open.spotify.com/track/4YgD5fStfkqqjkfL15Tygk"
+    },
+    {
+      "added_at": "2026-06-03 10:59:37",
+      "album": {
+        "name": "The Estranged",
+        "url": "https://open.spotify.com/album/3YFMGfbbtqHJOzwe7zCesK"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "duration_ms": 246579,
+      "name": "The Estranged",
+      "url": "https://open.spotify.com/track/0IhmIWv38VW2gsEdy3bIzy"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

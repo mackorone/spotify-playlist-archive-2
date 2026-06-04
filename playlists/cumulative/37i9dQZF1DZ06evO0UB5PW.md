@@ -4,7 +4,7 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 54 min
+83 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,5 +90,6 @@
 | [Where Strides the Behemoth](https://open.spotify.com/track/5bH8p7BIFSZg5OBPJpOhgC) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 2:55 | 2025-08-24 | 2025-08-26 |
 | [White Walker](https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:20 | 2022-05-30 | 2022-10-13 |
 | [Word to the Wise](https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:00 | 2023-01-31 | 2025-03-19 |
+| [Your Ghost Again](https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Your Ghost Again](https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA) | 4:35 | 2026-06-04 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

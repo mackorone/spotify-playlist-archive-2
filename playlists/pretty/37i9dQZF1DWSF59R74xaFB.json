@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96 Kendall Pe\u00f1a en portada.",
-  "num_followers": 558864,
+  "num_followers": 558859,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+      "duration_ms": 219586,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 219586,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "Mas Turbada Que Nunca",
         "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
         "name": "Conmigo Sin Ti",
         "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 193714,
       "name": "Conmigo Sin Ti",
       "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "p0rn0graf\u00eda",
-        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "p0rn0graf\u00eda",
-      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "p0rn0graf\u00eda",
+        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "p0rn0graf\u00eda",
+      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Antolog\u00eda",
-      "url": "https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "El tiempo",
         "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 211560,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Antolog\u00eda",
+      "url": "https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "Enam\u00f3rate De Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
         "name": "esperando que vuelvas",
         "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 216594,
       "name": "esperando que vuelvas",
       "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
-        "name": "La Gente Cambia",
-        "url": "https://open.spotify.com/album/6uLzNTjUZ17b0xH787wmj2"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 152922,
-      "name": "La Gente Cambia",
-      "url": "https://open.spotify.com/track/6j7DWRBNyPSTCVSWxU0i6H"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1595,6 +1579,22 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "La Gente Cambia",
+        "url": "https://open.spotify.com/album/6uLzNTjUZ17b0xH787wmj2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 152922,
+      "name": "La Gente Cambia",
+      "url": "https://open.spotify.com/track/6j7DWRBNyPSTCVSWxU0i6H"
     },
     {
       "added_at": "2026-05-15 16:16:36",

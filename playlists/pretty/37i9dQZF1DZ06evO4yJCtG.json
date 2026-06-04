@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 158613,
+  "num_followers": 158656,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABXW991bKpk12lZIHW/RKFg",
+  "snapshot_id": "ah4dAAAAAAD8feB8tcZA8RGQ/0k1imqa",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 208120,
-      "name": "Hide",
-      "url": "https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1"
+      "duration_ms": 213853,
+      "name": "Power Of A Woman",
+      "url": "https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 213853,
-      "name": "Power Of A Woman",
-      "url": "https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb"
+      "duration_ms": 208120,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 191503,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 225286,
       "name": "Jealous (with Ella Mai)",
       "url": "https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 191503,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 9 hr 44 min
+189 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Unbreakup](https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ) | 3:44 | 2022-05-29 | 2022-12-11 |
 | [Unbreakup](https://open.spotify.com/track/6Pc4PWAChVirhXD7v9TBKa) | [Oliver Blank](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/3HVVrtcAkV7oArIPGQV0GQ) | 3:44 | 2024-07-17 |  |
 | [Upbringing](https://open.spotify.com/track/2pbF86tif6KTU7AWZrwwsL) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Upbringing](https://open.spotify.com/album/28HsIxVJY8rcnDiRZm4ClM) | 3:06 | 2025-07-24 | 2025-08-14 |
+| [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 | 2026-06-03 |  |
 | [Wasted](https://open.spotify.com/track/411amJVDbx5dt7cGFPIAhg) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6Zqf5CDLIGPjHh6ZT0NInT) | 2:45 | 2022-10-18 |  |
 | [Wasted](https://open.spotify.com/track/5HUfKHpYUG2Q5qtuVJ9IE3) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6kdwiQJEmAhrNPo9mvhD8m) | 2:45 | 2022-05-29 | 2022-10-19 |
 | [We Can’t Be Friends](https://open.spotify.com/track/07N4DMXTlLjoGnaNdr75z9) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL) | [We Can’t Be Friends](https://open.spotify.com/album/49Vai1B7rDNOgmKoWvqirN) | 3:34 | 2022-05-29 | 2023-09-26 |

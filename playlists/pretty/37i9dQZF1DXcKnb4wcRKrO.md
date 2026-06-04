@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,514 likes - 150 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,725 likes - 150 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 149 | [Far Away](https://open.spotify.com/track/1cFU29X7CFSlTIhLZPkfX4) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Far Away](https://open.spotify.com/album/0HTTsQqgYoI2B4i9XqKKpO) | 2:04 |
 | 150 | [she loves jazz](https://open.spotify.com/track/6OwJpp1cHkaq9j6v3wqYCp) | [St\-Amour](https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96), [KIMBER](https://open.spotify.com/artist/0iHbzrLG18CgCsKxZVNGRE), [MiQu](https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE) | [she loves jazz](https://open.spotify.com/album/4h8xKxXDjTOntDJBAr6EgO) | 2:36 |
 
-Snapshot ID: `AAAAACSy5yYS5tUUCFT/TREOKAIl5I6P`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

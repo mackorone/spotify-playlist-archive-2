@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbAjJgz6c0cD.md) - [plain]
 
 > The essential Moroccan summer hits\. Mixes available exclusively on Spotify Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbAjJgz6c0cD.md) - [plain]
 | 4 | [Foul Gnawa](https://open.spotify.com/track/6U05b3hBKjauzCzYuJx0HX) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Foul Gnawa](https://open.spotify.com/album/5JYPep8rpEReFzPFgrjuNm) | 3:51 |
 | 5 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
 | 6 | [Echoes Of Dust](https://open.spotify.com/track/4fQ6bziWl8ga8qxqykAHFV) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Echoes Of Dust](https://open.spotify.com/album/6x7pZSr7RVr4fMp0lG54he) | 4:33 |
-| 7 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
+| 7 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [tariq hmitti](https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
 | 8 | [Love Parade](https://open.spotify.com/track/6qhJaJPb2bsqs0xw6WnXXO) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Love Parade](https://open.spotify.com/album/0OWRmC3nKVRCU242GBNYhy) | 3:14 |
 | 9 | [L3ar](https://open.spotify.com/track/1K8N2LASR0Nkox4mB2tqEM) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [HARMAK](https://open.spotify.com/artist/1CZuy5Dcxgtysh7ggzCRuL), [Sekou Percu](https://open.spotify.com/artist/5F8KxwgKB3laVADr5fsg0a) | [L3ar](https://open.spotify.com/album/0fKc7dd70dl1Xwu4Wf6sp4) | 6:39 |
 | 10 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |

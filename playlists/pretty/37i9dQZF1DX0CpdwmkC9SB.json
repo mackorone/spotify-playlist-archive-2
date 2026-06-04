@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 243763,
+  "num_followers": 243784,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
-      },
-      "artists": [
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Your New Morning Alarm",
         "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
         }
       ],
-      "duration_ms": 272666,
-      "name": "My Honest Face",
-      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1187,6 +1171,22 @@
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Who Let The Dogs Out",
         "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 138533,
       "name": "Cuntology 101",
       "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Labour of Lust",
-        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
-      },
-      "artists": [
-        {
-          "name": "Nick Lowe",
-          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
-        }
-      ],
-      "duration_ms": 210131,
-      "name": "Cruel to Be Kind",
-      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/7zGyIkunvMO11FByE93lzZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Labour of Lust",
+        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+        }
+      ],
+      "duration_ms": 210131,
+      "name": "Cruel to Be Kind",
+      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Incognito Rhythm",
-        "url": "https://open.spotify.com/album/7t8oxzwG13zdupLmm0Cwix"
-      },
-      "artists": [
-        {
-          "name": "4am Kru",
-          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
-        }
-      ],
-      "duration_ms": 222581,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/5vbiscUoWSVvHWnadnffu1"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
       },
@@ -2147,18 +2131,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
+        "name": "Incognito Rhythm",
+        "url": "https://open.spotify.com/album/7t8oxzwG13zdupLmm0Cwix"
       },
       "artists": [
         {
-          "name": "Hothouse Flowers",
-          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+          "name": "4am Kru",
+          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
         }
       ],
-      "duration_ms": 229480,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
+      "duration_ms": 222581,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/5vbiscUoWSVvHWnadnffu1"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2175,6 +2159,22 @@
       "duration_ms": 385986,
       "name": "Don't Call It Love - 12\" Version",
       "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
+      },
+      "artists": [
+        {
+          "name": "Hothouse Flowers",
+          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "MR. SANDMAN",
         "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
@@ -2583,18 +2599,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "Producer 01",
+        "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "LTJ Bukem",
+          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
         }
       ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
+      "duration_ms": 394000,
+      "name": "Atlantis (I Need You)",
+      "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2615,22 +2631,6 @@
       "duration_ms": 238176,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0K2XxY1LB3CYG4QhulZerK"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Producer 01",
-        "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
-      },
-      "artists": [
-        {
-          "name": "LTJ Bukem",
-          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
-        }
-      ],
-      "duration_ms": 394000,
-      "name": "Atlantis (I Need You)",
-      "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 202055,
-      "name": "Britpop",
-      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Send Return Remixes Pt. 1",
         "url": "https://open.spotify.com/album/2d10S3TzEDbCwxnTSZH1Bq"
       },
@@ -2791,6 +2775,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/6yYnmUYPdTM2ExnJpBKMOT"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Humble As The Sun",
         "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
       },
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Come Play the Trees",
-        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "I Want My Minutes Back",
-      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "NYP2",
         "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 427500,
       "name": "NYP2",
       "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Come Play the Trees",
+        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "I Want My Minutes Back",
+      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Already, Always",
-        "url": "https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ"
-      },
-      "artists": [
-        {
-          "name": "Bess Atwell",
-          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Co-op",
-      "url": "https://open.spotify.com/track/0Dg9x9026brPlhRQMy7LQz"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Back In the Dayz",
         "url": "https://open.spotify.com/album/71N9Ka76xlsjDRQLVwsTaO"
       },
@@ -2963,6 +2947,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Already, Always",
+        "url": "https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Co-op",
+      "url": "https://open.spotify.com/track/0Dg9x9026brPlhRQMy7LQz"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -2975,6 +2975,22 @@
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Surf That Well/SKATE",
+        "url": "https://open.spotify.com/album/2PWeMDw3fQHtgVUCSoz4jv"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "duration_ms": 100078,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/2rBm4JoA7r0CHlDADG526H"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2995,22 +3011,6 @@
       "duration_ms": 267112,
       "name": "Dream Factory",
       "url": "https://open.spotify.com/track/5eGnL6MWBeRkilfxdGvTbK"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Surf That Well/SKATE",
-        "url": "https://open.spotify.com/album/2PWeMDw3fQHtgVUCSoz4jv"
-      },
-      "artists": [
-        {
-          "name": "Bawo",
-          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
-        }
-      ],
-      "duration_ms": 100078,
-      "name": "SKATE",
-      "url": "https://open.spotify.com/track/2rBm4JoA7r0CHlDADG526H"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl from Mars",
-      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -3171,18 +3155,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Greatest Hits: Dance",
-        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
       "artists": [
         {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Rhythm Is a Mystery",
-      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
+      "duration_ms": 210200,
+      "name": "Girl from Mars",
+      "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3199,6 +3183,22 @@
       "duration_ms": 240973,
       "name": "Approachable",
       "url": "https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Greatest Hits: Dance",
+        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
+      },
+      "artists": [
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Rhythm Is a Mystery",
+      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
     },
     {
       "added_at": "2025-06-27 23:00:28",

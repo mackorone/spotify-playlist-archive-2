@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 28329,
+  "num_followers": 28386,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-05-30 05:02:38",
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2026-05-30 05:02:38",
+      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
-    },
-    {
-      "added_at": "2026-05-30 05:02:38",
-      "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
     },
     {
       "added_at": "2026-05-30 05:02:38",
@@ -771,6 +771,30 @@
     {
       "added_at": "2026-05-30 05:02:38",
       "album": {
+        "name": "Attracted to you",
+        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
+      },
+      "artists": [
+        {
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        },
+        {
+          "name": "AFAMoo",
+          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
+        },
+        {
+          "name": "Lily June",
+          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "Attracted to you",
+      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
+    },
+    {
+      "added_at": "2026-05-30 05:02:38",
+      "album": {
         "name": "DOSHABURI (feat. JUMADIBA) [PAS TASTA Remix]",
         "url": "https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR"
       },
@@ -811,30 +835,6 @@
     {
       "added_at": "2026-05-30 05:02:38",
       "album": {
-        "name": "Attracted to you",
-        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
-      },
-      "artists": [
-        {
-          "name": "Uilou",
-          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
-        },
-        {
-          "name": "AFAMoo",
-          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
-        },
-        {
-          "name": "Lily June",
-          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "Attracted to you",
-      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
-    },
-    {
-      "added_at": "2026-05-30 05:02:38",
-      "album": {
         "name": "Keep us in the loop",
         "url": "https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 195454,
       "name": "Keep us in the loop",
       "url": "https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex"
+    },
+    {
+      "added_at": "2026-05-30 05:02:38",
+      "album": {
+        "name": "KURU KURU HARAJUKU",
+        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "duration_ms": 257820,
+      "name": "KURU KURU HARAJUKU",
+      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     },
     {
       "added_at": "2026-05-30 05:02:38",
@@ -879,22 +895,6 @@
       "duration_ms": 224142,
       "name": "Open! (Fellsius Remix)",
       "url": "https://open.spotify.com/track/2iQ1h6gocUyJNhPUcjbLtn"
-    },
-    {
-      "added_at": "2026-05-30 05:02:38",
-      "album": {
-        "name": "KURU KURU HARAJUKU",
-        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
-      },
-      "artists": [
-        {
-          "name": "Kyary Pamyu Pamyu",
-          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
-        }
-      ],
-      "duration_ms": 257820,
-      "name": "KURU KURU HARAJUKU",
-      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     },
     {
       "added_at": "2026-05-30 05:02:38",

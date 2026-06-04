@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4191,
+  "num_followers": 4192,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACTJOHi203KqdFccvKa/hqg",
+  "snapshot_id": "ah4dAAAAAABtb1NZhy+g99f8w7inFbJX",
   "tracks": [
     {
       "added_at": null,
@@ -131,34 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okokgcina",
-        "url": "https://open.spotify.com/album/5zXX0XHQxVzXweGm5OvPIb"
-      },
-      "artists": [
-        {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 317158,
-      "name": "Okokgcina - Club Mix",
-      "url": "https://open.spotify.com/track/6L9Ukt4PRH1Js4qP50luFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Father",
         "url": "https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc"
       },
@@ -183,6 +155,34 @@
       "duration_ms": 310582,
       "name": "Y-Tjukuja",
       "url": "https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okokgcina",
+        "url": "https://open.spotify.com/album/5zXX0XHQxVzXweGm5OvPIb"
+      },
+      "artists": [
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 317158,
+      "name": "Okokgcina - Club Mix",
+      "url": "https://open.spotify.com/track/6L9Ukt4PRH1Js4qP50luFL"
     },
     {
       "added_at": null,
@@ -235,30 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Echoes",
-        "url": "https://open.spotify.com/album/40RIcv2VfR1vmU1CjHEhmP"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Mr Shane SA",
-          "url": "https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ"
-        },
-        {
-          "name": "Recky-R",
-          "url": "https://open.spotify.com/artist/6JsnCSYmx572oTWylWTgNn"
-        }
-      ],
-      "duration_ms": 360066,
-      "name": "Deep Echoes - Extended Mix",
-      "url": "https://open.spotify.com/track/76aF9lrsSCk5pYL4it4JNe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iphinde",
         "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 188571,
       "name": "Iphinde - Radio Edit",
       "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Echoes",
+        "url": "https://open.spotify.com/album/40RIcv2VfR1vmU1CjHEhmP"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Mr Shane SA",
+          "url": "https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ"
+        },
+        {
+          "name": "Recky-R",
+          "url": "https://open.spotify.com/artist/6JsnCSYmx572oTWylWTgNn"
+        }
+      ],
+      "duration_ms": 360066,
+      "name": "Deep Echoes - Extended Mix",
+      "url": "https://open.spotify.com/track/76aF9lrsSCk5pYL4it4JNe"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akhiwe",
-        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Bayathetha",
-      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 197142,
       "name": "Indlela - Radio Edit",
       "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akhiwe",
+        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Bayathetha",
+      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Next Gen",
         "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 505747,
       "name": "Iminyaka (feat. Xylokeys & Shane907)",
       "url": "https://open.spotify.com/track/37CUYkpnqJEmYZ2gcy1pDv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
     },
     {
       "added_at": null,
@@ -1155,30 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Izandla",
-        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 225535,
-      "name": "Izandla - Radio Edit",
-      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mngani Wami",
         "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
       },
@@ -1239,26 +1215,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wena Kphela",
-        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
+        "name": "Izandla",
+        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
       },
       "artists": [
         {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
           "name": "X-wise",
           "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
-      "duration_ms": 250711,
-      "name": "Wena Kphela",
-      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
+      "duration_ms": 225535,
+      "name": "Izandla - Radio Edit",
+      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
     },
     {
       "added_at": null,
@@ -1283,6 +1259,30 @@
       "duration_ms": 321026,
       "name": "Toyi Toyi",
       "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wena Kphela",
+        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
+      },
+      "artists": [
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 250711,
+      "name": "Wena Kphela",
+      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
     }
   ],
   "unique_name": "This Is OSKIDO",

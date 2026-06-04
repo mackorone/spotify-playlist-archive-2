@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 7 hr 4 min
+153 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2025-07-03 |  |
 | [Everybody](https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:24 | 2025-07-03 |  |
 | [Everything Goes With Blue \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:10 | 2025-07-17 |  |
-| [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 | 2025-08-06 |  |
+| [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 | 2025-08-06 | 2026-06-04 |
 | [Expensive On Me](https://open.spotify.com/track/4OOvL85V0OSRvu7iYjYjPl) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/4xeB3CxmN8wCAIQGAh9XC0) | 2:16 | 2025-07-03 | 2025-08-07 |
+| [Expensive On Me](https://open.spotify.com/track/4vvL9o6uIB6CbxB9vUO5da) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/5wDnOKgoqI7itUhTdl101r) | 2:16 | 2026-06-03 |  |
 | [expired](https://open.spotify.com/track/7lB5RzhwWMXVtS5ZXx7JsX) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 3:09 | 2025-07-03 |  |
 | [FACTS](https://open.spotify.com/track/1MaRSqwpT56kqFNhdID0vd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [XY](https://open.spotify.com/album/2L3TRZmEPzIiuDCs3pd12F) | 1:52 | 2025-09-12 |  |
 | [FACTS](https://open.spotify.com/track/1Z3ZY29bXjw5wdyOXLkVUd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [FACTS](https://open.spotify.com/album/6tphLbRCJw4bLeZhQ8ZOgV) | 1:52 | 2025-07-03 | 2025-09-13 |
@@ -74,7 +75,8 @@
 | [If I've Learned Anything](https://open.spotify.com/track/0OFumCYdFr7Vdd8DPeh5pL) | [Liam Mogan](https://open.spotify.com/artist/1Q3xk1O4cQZ6uEOIEkOgvi) | [If I've Learned Anything](https://open.spotify.com/album/1NCYQ53NisX6au1S1SJTv5) | 3:12 | 2025-07-03 |  |
 | [Imperfect](https://open.spotify.com/track/6I8QoVJcwzTYrRNLOzYkYI) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y), [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:05 | 2025-07-03 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/1qdkVTgazayHGwEFyOvDpl) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/6boOVrebNPFlKr4uEkmrWN) | 2:53 | 2025-07-03 | 2025-08-07 |
-| [Imposter Syndrome](https://open.spotify.com/track/2cUOj7bq5aGHEpuDa4dgQ6) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/06QXwmHqY1zRtSnniqyMgv) | 2:53 | 2025-08-06 |  |
+| [Imposter Syndrome](https://open.spotify.com/track/2cUOj7bq5aGHEpuDa4dgQ6) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/06QXwmHqY1zRtSnniqyMgv) | 2:53 | 2025-08-06 | 2026-06-04 |
+| [Imposter Syndrome](https://open.spotify.com/track/3quw0nfVOoMYnf8McOyfcn) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/4wh0EMgs1lEjDh37skuh6u) | 2:53 | 2026-06-03 |  |
 | [influence](https://open.spotify.com/track/6dXZFVH2nzGkhMUPGvlAWY) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 3:05 | 2025-07-03 |  |
 | [It Takes A Village \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/2i3nKABNrDCfKSxVYrzpdw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [The Indian Connect](https://open.spotify.com/artist/02fUYRha20hRbxvEhZ8w0B) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:19 | 2025-07-17 |  |
 | [It Takes Two](https://open.spotify.com/track/3Af368pDQKIuVWwKsOUMqK) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [It Takes Two](https://open.spotify.com/album/3fXlmghgJCCE9Pc6eYIagp) | 2:37 | 2025-07-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,375 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,390 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 6 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 |
 | 7 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
 | 8 | [Inch by Inch](https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Inch by Inch](https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy) | 3:09 |
-| 9 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
-| 10 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
+| 9 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
+| 10 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
 | 11 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
 | 12 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
 | 13 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 15 | [Last Train](https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Last Train](https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5) | 3:37 |
 | 16 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
 | 17 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
-| 18 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
-| 19 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
+| 18 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
+| 19 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
 | 20 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
 | 21 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 22 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |

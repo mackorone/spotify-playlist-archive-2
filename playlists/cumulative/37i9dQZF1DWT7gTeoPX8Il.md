@@ -4,13 +4,14 @@
 
 > layan je
 
-349 songs - 23 hr 8 min
+350 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-19 | 2024-09-28 |
 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 | 2024-01-18 | 2024-07-07 |
 | [Adakah Kau Pasti](https://open.spotify.com/track/6rufD5k8CBP4LYs3sjfQl9) | [Keka Nizam](https://open.spotify.com/artist/4ltnkPy6GrvCalfth4WhNK) | [Adakah Kau Pasti](https://open.spotify.com/album/0bfHm3nM5WT7QHIwXcolpL) | 3:44 | 2024-05-16 | 2024-05-24 |
+| [Adinda](https://open.spotify.com/track/38WWdmm499Z0BTcYTrVHtY) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 3:48 | 2026-02-20 |  |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-18 |  |
 | [Agung](https://open.spotify.com/track/7rwRzDJZf9M5iBr8YfVdHX) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:47 | 2025-04-24 | 2025-05-16 |
 | [Airmataku](https://open.spotify.com/track/7M5oVMNHBdqUJqMTw9bHfm) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Glorious](https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt) | 4:05 | 2025-01-16 | 2025-02-18 |
@@ -74,7 +75,7 @@
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 | 2024-07-27 |
 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 | 2025-03-13 | 2026-02-21 |
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-07 | 2024-06-21 |
-| [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2024-08-30 |  |
+| [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2024-08-30 | 2026-06-04 |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-10 | 2024-05-17 |
 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 | 2024-10-03 |  |
 | [Bunga](https://open.spotify.com/track/2fEi2NCVXI1VxDjRhdorI2) | [Ezad Lazim](https://open.spotify.com/artist/6KGWY3YSxi1rBESkloCZTo), [Azzam Sham](https://open.spotify.com/artist/2Ep26gSoOUYsoSJN7R15Iw) | [Bunga](https://open.spotify.com/album/1RuAxg8fyFYxkdWm8BaHKh) | 6:02 | 2024-08-30 | 2024-09-20 |

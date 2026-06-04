@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,418 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,423 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 14 | [You Shook Me](https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 4:58 |
 | 15 | [Shake It Baby \- 2025 Remaster](https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 4:21 |
 | 16 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
-| 17 | [Dimples](https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [UNION STATION BLUES](https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT) | 2:13 |
-| 18 | [Think Twice Before You Go](https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:03 |
-| 19 | [I Need Some Money](https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:25 |
-| 20 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
-| 21 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
-| 22 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
-| 23 | [The Motor City Is Burning](https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 2:49 |
+| 17 | [I Need Some Money](https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:25 |
+| 18 | [Dimples](https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [UNION STATION BLUES](https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT) | 2:13 |
+| 19 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
+| 20 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
+| 21 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
+| 22 | [The Motor City Is Burning](https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 2:49 |
+| 23 | [Think Twice Before You Go](https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:03 |
 | 24 | [Roll and Tumble](https://open.spotify.com/track/1iyysG7r8IyL7oKEnnNxKC) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Roll and Tumble](https://open.spotify.com/album/2V14jhiANSAAxNFmEu1MdN) | 5:07 |
 | 25 | [Annie Mae \- 2007 \- Remaster](https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 5:19 |
 | 26 | [This Is Hip \- feat\. Ry Cooder](https://open.spotify.com/track/4bkX2wt2MwGwskVM3kkU0Q) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Mr\. Lucky](https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 |
 | 50 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
 
-Snapshot ID: `ahzLgAAAAABXNpG6LnYJgH1V/urELT2a`
+Snapshot ID: `ah4dAAAAAABj2v4ljepzxMPoXrlhiroA`

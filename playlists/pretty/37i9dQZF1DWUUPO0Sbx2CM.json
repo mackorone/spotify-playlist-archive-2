@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 236275,
+  "num_followers": 236292,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Waterfall (Edit)",
         "url": "https://open.spotify.com/album/34C74dScR7DTLjgp36oXCT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 179047,
       "name": "Waterfall - Edit",
       "url": "https://open.spotify.com/track/0Ex4LayPEy56W7a0ym069O"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 146254,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Battle Belongs (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/0iszENrvkQKnEeap9o0RSK"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 217165,
       "name": "Battle Belongs - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/2uCL1C9hwqYywVGJrq6RWy"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 146254,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "FOOTSTOOL",
         "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 249750,
       "name": "FOOTSTOOL",
       "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Abacus",
+        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 123888,
+      "name": "Abacus",
+      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Your Love Never Fails",
         "url": "https://open.spotify.com/album/3JjSVPr5nvJhIfQj6TF5TY"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 153000,
       "name": "Your Love Never Fails",
       "url": "https://open.spotify.com/track/0okgfcFPwNNDOWj3PTmnaI"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Abacus",
-        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 123888,
-      "name": "Abacus",
-      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/7wkrC7PaP1j0NTTfRCokFb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        },
-        {
-          "name": "Luke Johns",
-          "url": "https://open.spotify.com/artist/3d6EUdD9wFmfzPudFhO5Kr"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Never - Luke Johns Remix",
-      "url": "https://open.spotify.com/track/6RsTIR1Gxy9ONTwhErALK6"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
         "url": "https://open.spotify.com/album/70C3rT1zUU1l3PZ4IMBvyf"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 195800,
       "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
       "url": "https://open.spotify.com/track/6qqulMB60PXf1ybiSDhhA5"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/7wkrC7PaP1j0NTTfRCokFb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "Luke Johns",
+          "url": "https://open.spotify.com/artist/3d6EUdD9wFmfzPudFhO5Kr"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Never - Luke Johns Remix",
+      "url": "https://open.spotify.com/track/6RsTIR1Gxy9ONTwhErALK6"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Look, it's Green",
-        "url": "https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Nicole Muwanguzi",
-          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
-        }
-      ],
-      "duration_ms": 131136,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "hidden",
         "url": "https://open.spotify.com/album/18PVn899EOwkogvMJLMKkK"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 142941,
       "name": "i need you",
       "url": "https://open.spotify.com/track/52j9n10GWQv2XbeSVe4thB"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Look, it's Green",
+        "url": "https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "duration_ms": 131136,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW"
     },
     {
       "added_at": "2026-04-25 05:41:41",

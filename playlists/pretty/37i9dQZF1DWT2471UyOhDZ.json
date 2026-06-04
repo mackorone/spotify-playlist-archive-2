@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bleachers",
-  "num_followers": 93666,
+  "num_followers": 93669,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Days We Left Behind",
-        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 198235,
-      "name": "Days We Left Behind",
-      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 284532,
       "name": "Getting Killed",
       "url": "https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Creature of Habit",
-        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 282062,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "One of the Greats",
         "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Creature of Habit",
+        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -743,6 +727,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "This is the Killer Speaking",
         "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -787,22 +803,6 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
-      },
-      "artists": [
-        {
-          "name": "THEATRE",
-          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Ginkgo",
-        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 188417,
-      "name": "Chapel of Salt",
-      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Dog Eared",
         "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219503,
       "name": "Planets",
       "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Ginkgo",
+        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 188417,
+      "name": "Chapel of Salt",
+      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 212373,
       "name": "Tina",
       "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "Get Sunk",
+        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
       "artists": [
         {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+        "name": "Begging for Change",
+        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+      "duration_ms": 260550,
+      "name": "Begging for Change",
+      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Begging for Change",
-        "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 260550,
-      "name": "Begging for Change",
-      "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Everybody Laughs",
         "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Vespers, Tracks 1-4",
-        "url": "https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Black Ulysses",
-      "url": "https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Allbarone",
         "url": "https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 268626,
       "name": "Allbarone",
       "url": "https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Vespers, Tracks 1-4",
+        "url": "https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Black Ulysses",
+      "url": "https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1571,18 +1571,34 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
         }
       ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Come Over, Do Me Wrong",
+        "url": "https://open.spotify.com/album/57uLR6kBn4y4a7dfo3NoN0"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 270319,
+      "name": "Come Over, Do Me Wrong",
+      "url": "https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1603,18 +1619,34 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Come Over, Do Me Wrong",
-        "url": "https://open.spotify.com/album/57uLR6kBn4y4a7dfo3NoN0"
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 270319,
-      "name": "Come Over, Do Me Wrong",
-      "url": "https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl"
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 273598,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1647,38 +1679,6 @@
       "duration_ms": 120090,
       "name": "NO HANDS",
       "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "Let All That We Imagine Be The Light",
-        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 273598,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
     }
   ],
   "unique_name": "The Listening Post",

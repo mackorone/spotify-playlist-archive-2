@@ -22915,6 +22915,28 @@
     },
     {
       "album": {
+        "name": "2nd Collection",
+        "url": "https://open.spotify.com/album/4GWqqGqNbOwUoTiMxaBMgq"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "C.L. Smooth",
+          "url": "https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281026,
+      "name": "Sky Is Falling",
+      "url": "https://open.spotify.com/track/5R41avlfLHAEAng87SRRbQ"
+    },
+    {
+      "album": {
         "name": "Life After Death (25th Anniversary Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/6gW08XWRBd2Wnszyo5ZI6l"
       },

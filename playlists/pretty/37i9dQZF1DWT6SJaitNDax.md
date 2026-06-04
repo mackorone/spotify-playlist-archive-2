@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: THEHONESTGUY
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,850 likes - 105 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,868 likes - 105 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

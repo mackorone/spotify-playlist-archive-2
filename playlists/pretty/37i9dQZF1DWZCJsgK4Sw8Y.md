@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,506 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,503 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 8 | [Hero](https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:06 |
 | 9 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 10 | [On My Own](https://open.spotify.com/track/6VuztO5yaKP4VjqSkZxpan) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [What I've Become](https://open.spotify.com/album/13H9LxFZVQVfRMUxKQvejv) | 2:52 |
-| 11 | [Dare You To Move](https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:07 |
-| 12 | [Anthem Of The Lonely](https://open.spotify.com/track/1bKRtH1leT7y003VikaXUc) | [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ) | [World We View](https://open.spotify.com/album/5hNY9GQIaQR7MOelvlY0qu) | 4:01 |
+| 11 | [Anthem Of The Lonely](https://open.spotify.com/track/1bKRtH1leT7y003VikaXUc) | [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ) | [World We View](https://open.spotify.com/album/5hNY9GQIaQR7MOelvlY0qu) | 4:01 |
+| 12 | [Dare You To Move](https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:07 |
 | 13 | [Awake and Alive](https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:29 |
 | 14 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
 | 15 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 44 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 45 | [King of the Jews](https://open.spotify.com/track/1N5xILoz2dAx8n13TCGY1e) | [David & The Giants](https://open.spotify.com/artist/6ZKubx3xXEEcwscVeMNLXA) | [Riders in the Sky](https://open.spotify.com/album/6ObISSujN0MOeuMaiCvt7h) | 4:52 |
 | 46 | [Be My Escape](https://open.spotify.com/track/5GhYfK0jevTEtXOaqCKCxw) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/2C94K2j4f1FKWwxogAcNuX) | 4:00 |
-| 47 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 |
-| 48 | [Through It All](https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0) | 3:36 |
+| 47 | [Through It All](https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0) | 3:36 |
+| 48 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 |
 | 49 | [Crash](https://open.spotify.com/track/1FoNbYIeraEqeN46nwNk8a) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/4Dir4ut5xEbGqJC3Pe9HsW) | 3:51 |
 | 50 | [Embers And Envelopes](https://open.spotify.com/track/4ArUnW8s0cuJLKVFmkCA2F) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/3qdzT7kFqXnAKum9hYXXOz) | 4:18 |
 

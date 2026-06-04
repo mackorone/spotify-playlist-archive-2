@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 167786,
       "name": "cry in the car",
       "url": "https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY"
@@ -1614,6 +1614,40 @@
       "duration_ms": 197930,
       "name": "My Church",
       "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
+    },
+    {
+      "album": {
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215139,
+      "name": "My Church - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/0z642wDi5qmnMdWQ8dtwrU"
     },
     {
       "album": {

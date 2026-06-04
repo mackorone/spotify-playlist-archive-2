@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7158,
+  "num_followers": 7160,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABnkgQ0zkCrfmkqcyT7c2jA",
+  "snapshot_id": "ah4dAAAAAACK3l1ryxm1BKPCSHJI0nLl",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 por Qu\u00e9",
-      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+      "duration_ms": 192640,
+      "name": "\u00c9chale la Culpa al Rock N' Roll",
+      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 192640,
-      "name": "\u00c9chale la Culpa al Rock N' Roll",
-      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
+      "duration_ms": 136081,
+      "name": "No S\u00e9 por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
     },
     {
       "added_at": null,

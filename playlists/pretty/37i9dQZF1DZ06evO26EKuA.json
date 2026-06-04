@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 473864,
+  "num_followers": 473905,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACE9bGak9PrLaNxv6IU+5AF",
+  "snapshot_id": "ah4dAAAAAABeR78Quau9q6rmmxy4Yb2r",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Amor Prisionero - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH"
+      "duration_ms": 239120,
+      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 239120,
-      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
+      "duration_ms": 161933,
+      "name": "Amor Prisionero - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lobo Domesticado",
-        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Porque Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "17 Exitos en Honor a Mi Padre",
         "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 195000,
       "name": "La Suavecita",
       "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Porque Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Mi Virgencita",
-      "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235520,
       "name": "Ac\u00e1 Entre Nos - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Hola Y Adios",
-      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 184306,
       "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Hola Y Adios",
+      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tu Mirada, Tu Pelo, Y Tu Boca(La Playa)",
-      "url": "https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 403493,
       "name": "Clave Privada - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tu Mirada, Tu Pelo, Y Tu Boca(La Playa)",
+      "url": "https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf"
     },
     {
       "added_at": null,

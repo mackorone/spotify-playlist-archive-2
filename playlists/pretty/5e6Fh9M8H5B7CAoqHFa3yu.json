@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 325,
+  "num_followers": 328,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKCJjNbJlhVbZ/yCX0NrjJMWdZYA4N",
+  "snapshot_id": "AAAKCqQAi1dIkAaXOZNVetsBTeWDjin2",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40155,6 +40155,46 @@
       "duration_ms": 240000,
       "name": "Travelers Souls",
       "url": "https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV"
+    },
+    {
+      "added_at": "2026-06-03 09:05:22",
+      "album": {
+        "name": "\u00c0 Strasbourg",
+        "url": "https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg"
+      },
+      "artists": [
+        {
+          "name": "Dominique Daumann",
+          "url": "https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6"
+        }
+      ],
+      "duration_ms": 215012,
+      "name": "\u00c0 Strasbourg",
+      "url": "https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG"
+    },
+    {
+      "added_at": "2026-06-03 22:57:35",
+      "album": {
+        "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0641\u0647\u0645\u0646\u0627 ( \u0645\u0646 \u0627\u0644\u062f\u0646\u064a\u0627 \u062f\u064a \u0627\u062a\u0639\u0644\u0645\u0646\u0627 )",
+        "url": "https://open.spotify.com/album/6KDXTPgiLfEYUokveQ4dyH"
+      },
+      "artists": [
+        {
+          "name": "AFROTO Beats",
+          "url": "https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0"
+        },
+        {
+          "name": "Ahmed M Farid",
+          "url": "https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk"
+        },
+        {
+          "name": "Super Mono",
+          "url": "https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt"
+        }
+      ],
+      "duration_ms": 220681,
+      "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0641\u0647\u0645\u0646\u0627 ( \u0645\u0646 \u0627\u0644\u062f\u0646\u064a\u0627 \u062f\u064a \u0627\u062a\u0639\u0644\u0645\u0646\u0627 )",
+      "url": "https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

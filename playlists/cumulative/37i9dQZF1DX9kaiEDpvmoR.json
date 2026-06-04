@@ -6916,7 +6916,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 271400,
       "name": "N\u00e5nting \u00e4r off",
       "url": "https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4"
@@ -10138,6 +10138,24 @@
       "duration_ms": 169125,
       "name": "Voice Of The Silent",
       "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
+    },
+    {
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx"
+      },
+      "artists": [
+        {
+          "name": "Familjen",
+          "url": "https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "V\u00e4ntar p\u00e5 skymningen",
+      "url": "https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11"
     },
     {
       "album": {

@@ -2044,6 +2044,24 @@
     {
       "album": {
         "name": "Matando La Liga 2",
+        "url": "https://open.spotify.com/album/5nThNfyoBhfmKYcQAyZZNF"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146582,
+      "name": "No Digas",
+      "url": "https://open.spotify.com/track/23Kb0nahUYnUHemM1Gu81P"
+    },
+    {
+      "album": {
+        "name": "Matando La Liga 2",
         "url": "https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe"
       },
       "artists": [
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 146582,
       "name": "No Digas",
       "url": "https://open.spotify.com/track/6doXrAUa8bRXWltN6ceXLR"

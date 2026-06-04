@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sublime
 
-2,071 songs - 5 day 0 hr 29 min
+2,072 songs - 5 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [Frozen](https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Whiplash](https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah) | 4:14 | 2024-10-17 | 2024-10-25 |
 | [FUCK MY TEMPO](https://open.spotify.com/track/6DIzVWbMVzBmmdPf5OAkpi) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [FUCK MY TEMPO](https://open.spotify.com/album/0wY0p9tzQL90lfXrJgg6YN) | 2:34 | 2024-02-22 | 2024-03-01 |
 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 | 2025-05-22 | 2025-06-20 |
-| [Fuck The Whole World](https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:42 | 2026-04-23 |  |
+| [Fuck The Whole World](https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:42 | 2026-04-23 | 2026-06-04 |
 | [FUNERAL](https://open.spotify.com/track/2Ny0tCcYlti1RXsrNtRMl3) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [FUNERAL](https://open.spotify.com/album/5XImB5pOIq9qubvqRUV2lD) | 3:08 | 2023-12-14 | 2023-12-22 |
 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 | 2024-02-29 | 2024-05-03 |
 | [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-02 |  |
@@ -1351,6 +1351,7 @@
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-22 | 2023-06-30 |
 | [Paralyzed](https://open.spotify.com/track/4QQyHD0xPEHSGha4dExUKH) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 4:13 | 2023-07-13 | 2023-07-21 |
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-23 | 2024-07-12 |
+| [Paralyzed](https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Paralyzed](https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi) | 3:12 | 2026-05-28 |  |
 | [ParaNoia](https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [ParaNoia](https://open.spotify.com/album/53Dya4cEvTYgXDScEkawx3) | 3:26 | 2023-10-19 | 2023-10-27 |
 | [Parking Garage Song \#5](https://open.spotify.com/track/3BIfhn8vRZEWM9d2Em37ez) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Joy Next Door](https://open.spotify.com/album/2KncKAPSZkXQxaU122QDrx) | 3:01 | 2026-05-14 | 2026-05-22 |
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-03-25 |

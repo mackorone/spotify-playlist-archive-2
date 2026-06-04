@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Future, Tyla\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,317 likes - 97 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,346 likes - 97 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

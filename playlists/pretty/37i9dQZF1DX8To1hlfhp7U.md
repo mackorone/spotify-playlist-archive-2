@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,195 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,212 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 49 | [Business](https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 3:06 |
 | 50 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
 
-Snapshot ID: `AAAAAP94UgCgUJyiGE5kX/krysbHHP8x`
+Snapshot ID: `AAAAAJe+XeEKPpdd+/QCTvgkbCP+yJL9`

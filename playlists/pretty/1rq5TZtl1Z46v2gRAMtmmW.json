@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31876,
+  "num_followers": 31874,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARi1LsWWv1JmDXMLAG8JDH8AYAzdTj",
+  "snapshot_id": "AAARj0D6hIGd/GixDSfnqX6cy53C3JhZ",
   "tracks": [
     {
       "added_at": "2026-04-03 20:05:06",
@@ -131,6 +131,26 @@
       "duration_ms": 139493,
       "name": "Beatback",
       "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
+    },
+    {
+      "added_at": "2026-06-03 17:00:56",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-03-06 17:05:01",
@@ -967,6 +987,30 @@
       "duration_ms": 165523,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT"
+    },
+    {
+      "added_at": "2026-06-03 16:47:55",
+      "album": {
+        "name": "Mudhole",
+        "url": "https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x"
+      },
+      "artists": [
+        {
+          "name": "Captain Murphy",
+          "url": "https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Little Snake",
+          "url": "https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX"
+        }
+      ],
+      "duration_ms": 153655,
+      "name": "Mudhole",
+      "url": "https://open.spotify.com/track/6measgcwVZxbpSkySsQM93"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

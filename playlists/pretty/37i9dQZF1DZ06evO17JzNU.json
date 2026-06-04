@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 31957,
+  "num_followers": 31965,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACLFUHA6VHt6DGKEmNLiStK",
+  "snapshot_id": "ah4dAAAAAABeqzK0xV5GN51roKasGibu",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VPPMHDSPPM",
-        "url": "https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 115946,
-      "name": "VPPMHDSPPM",
-      "url": "https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M3",
         "url": "https://open.spotify.com/album/49oC0tmZZleBnSkuATUfAv"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 134570,
       "name": "M3",
       "url": "https://open.spotify.com/track/4VvN46NZxQdCYaW4LdlMVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VPPMHDSPPM",
+        "url": "https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 115946,
+      "name": "VPPMHDSPPM",
+      "url": "https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu"
     },
     {
       "added_at": null,

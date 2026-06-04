@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37764,
+  "num_followers": 37763,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADu1VeRS3x9RrWb4Ir0YqEY",
+  "snapshot_id": "ah4dAAAAAACBciLv2wztOhDPdIFg0zi0",
   "tracks": [
     {
       "added_at": null,
@@ -351,42 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Now I'm Just Gnashing My Teeth",
         "url": "https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4"
       },
@@ -407,6 +371,42 @@
       "duration_ms": 215093,
       "name": "Three Letters",
       "url": "https://open.spotify.com/track/6s0l1IVuV120GoqteaEOod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,
@@ -486,11 +486,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 231960,
+      "name": "Jump Sit Stand March",
+      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Jump Sit Stand March",
-      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "MF",
-      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 241609,
       "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
       "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
     }
   ],
   "unique_name": "This Is AWOLNATION",

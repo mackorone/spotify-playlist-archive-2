@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haneke Twins",
+        "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
+      },
+      "artists": [
+        {
+          "name": "Haneke Twins",
+          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Lumina",
         "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
       },
@@ -63,34 +79,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 It's Too Late",
-        "url": "https://open.spotify.com/album/4W4yR0yPlakeA84cPntm1k"
+        "name": "So Many Dreams",
+        "url": "https://open.spotify.com/album/61L1j1Oq5zoeCdcuTTPwMy"
       },
       "artists": [
         {
-          "name": "Dylan Beast",
-          "url": "https://open.spotify.com/artist/3xwRgNYes9zRDHDMMpkDZC"
+          "name": "Avoiding Caution",
+          "url": "https://open.spotify.com/artist/1wlNFHeQGG5RtR6mE22xDA"
         }
       ],
-      "duration_ms": 252800,
-      "name": "B4 It's Too Late",
-      "url": "https://open.spotify.com/track/4ujJN2c9O7n6m3cWlbF6kg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0pza4KCGKfe0f2M3vjZOJc"
-      },
-      "artists": [
-        {
-          "name": "KILL THE FALL",
-          "url": "https://open.spotify.com/artist/2yZC4lJBwx38Wot9vZelSp"
-        }
-      ],
-      "duration_ms": 241927,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
+      "duration_ms": 248000,
+      "name": "So Many Dreams",
+      "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
     },
     {
       "added_at": null,
@@ -111,34 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elbenblut",
-        "url": "https://open.spotify.com/album/3MJdJcl6sLgKZDST7aGFyt"
+        "name": "B4 It's Too Late",
+        "url": "https://open.spotify.com/album/4W4yR0yPlakeA84cPntm1k"
       },
       "artists": [
         {
-          "name": "Asenheim",
-          "url": "https://open.spotify.com/artist/0ftTwFhTC7IN5KAPFcb6ae"
+          "name": "Dylan Beast",
+          "url": "https://open.spotify.com/artist/3xwRgNYes9zRDHDMMpkDZC"
         }
       ],
-      "duration_ms": 352720,
-      "name": "Ein Stern",
-      "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commercializing The Mind",
-        "url": "https://open.spotify.com/album/5x9DsnrswPOhEff6DPsEZx"
-      },
-      "artists": [
-        {
-          "name": "Project Chord Blast",
-          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
-        }
-      ],
-      "duration_ms": 208848,
-      "name": "Commercializing The Mind",
-      "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
+      "duration_ms": 252800,
+      "name": "B4 It's Too Late",
+      "url": "https://open.spotify.com/track/4ujJN2c9O7n6m3cWlbF6kg"
     },
     {
       "added_at": null,
@@ -163,22 +147,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Year Of The Snake",
-        "url": "https://open.spotify.com/album/2hZcIRKzA9UAWr05Emda07"
+        "name": "The Soundtrack To the End",
+        "url": "https://open.spotify.com/album/1ddChxYSzeHPbSa3nidNCp"
       },
       "artists": [
         {
-          "name": "Roderiko Pop",
-          "url": "https://open.spotify.com/artist/2l2ji2t6bt74IRnrs05eDW"
-        },
-        {
-          "name": "Jonathan Andrew Rysdon",
-          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
         }
       ],
-      "duration_ms": 174481,
-      "name": "The Year Of The Snake",
-      "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
+      "duration_ms": 207800,
+      "name": "The Sheep",
+      "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patient X",
+        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 188625,
+      "name": "Man on a Horse",
+      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
     },
     {
       "added_at": null,
@@ -203,98 +199,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f6rnedringen",
-        "url": "https://open.spotify.com/album/5Zy4wJIQBwmuMK1ND4gDbu"
+        "name": "I'm not going home",
+        "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
       },
       "artists": [
         {
-          "name": "D\u00f6dens Clowner",
-          "url": "https://open.spotify.com/artist/2Q744E0tAVhSxdZeeop9S2"
+          "name": "Son of the Land",
+          "url": "https://open.spotify.com/artist/1GOQKygP0kIpbYmfUfAp5h"
         }
       ],
-      "duration_ms": 138070,
-      "name": "F\u00f6rnedringen",
-      "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
+      "duration_ms": 300386,
+      "name": "I'm not going home",
+      "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare On Lexington Street",
-        "url": "https://open.spotify.com/album/1Y7L7Lg7zSlPEDCsRqWaPZ"
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0pza4KCGKfe0f2M3vjZOJc"
       },
       "artists": [
         {
-          "name": "The Dark",
-          "url": "https://open.spotify.com/artist/2x5SlkdvmEsLt8kidtmPlN"
+          "name": "KILL THE FALL",
+          "url": "https://open.spotify.com/artist/2yZC4lJBwx38Wot9vZelSp"
         }
       ],
-      "duration_ms": 197462,
-      "name": "Nightmare On Lexington Street",
-      "url": "https://open.spotify.com/track/3yC4et0t1UpGAHaDPFcbpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberationizing Light",
-        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
-      },
-      "artists": [
-        {
-          "name": "Project Chord Blast",
-          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
-        }
-      ],
-      "duration_ms": 256894,
-      "name": "Liberationizing Light",
-      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "South Side",
-        "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
-      },
-      "artists": [
-        {
-          "name": "weapons of self destruction",
-          "url": "https://open.spotify.com/artist/6dYAQRwebnAQ38F0lQQjn3"
-        }
-      ],
-      "duration_ms": 205292,
-      "name": "South Side",
-      "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Briste Eller B\u00e6re",
-      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindly Plotting For Riot",
-        "url": "https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe"
-      },
-      "artists": [
-        {
-          "name": "30 DENARI",
-          "url": "https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD"
-        }
-      ],
-      "duration_ms": 265987,
-      "name": "Judgment Day",
-      "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
+      "duration_ms": 241927,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
     },
     {
       "added_at": null,
@@ -315,114 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLILOQUY",
-        "url": "https://open.spotify.com/album/7n2bBOvCZPbObCVBOxvZYX"
+        "name": "It Gets Better",
+        "url": "https://open.spotify.com/album/6lWeG6EI7flaCiGZ9IBgDV"
       },
       "artists": [
         {
-          "name": "ReeToxA",
-          "url": "https://open.spotify.com/artist/6lH7AHY50LNvZIseYmsF6Y"
+          "name": "Cracks",
+          "url": "https://open.spotify.com/artist/4VUVL4wVY59OSa06nQQw37"
         }
       ],
-      "duration_ms": 188738,
-      "name": "WAR KILLER",
-      "url": "https://open.spotify.com/track/26y9NjGaFPLfWBEZMvU8be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soundtrack To the End",
-        "url": "https://open.spotify.com/album/1ddChxYSzeHPbSa3nidNCp"
-      },
-      "artists": [
-        {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "The Sheep",
-      "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm not going home",
-        "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
-      },
-      "artists": [
-        {
-          "name": "Son of the Land",
-          "url": "https://open.spotify.com/artist/1GOQKygP0kIpbYmfUfAp5h"
-        }
-      ],
-      "duration_ms": 300386,
-      "name": "I'm not going home",
-      "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fall from Grace",
-        "url": "https://open.spotify.com/album/5RikhTUZ6wIyNsU5WezmZI"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
-        }
-      ],
-      "duration_ms": 301250,
-      "name": "Fall from Grace",
-      "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Many Dreams",
-        "url": "https://open.spotify.com/album/61L1j1Oq5zoeCdcuTTPwMy"
-      },
-      "artists": [
-        {
-          "name": "Avoiding Caution",
-          "url": "https://open.spotify.com/artist/1wlNFHeQGG5RtR6mE22xDA"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "So Many Dreams",
-      "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tempus Fugit (Chapter II: Echoes)",
-        "url": "https://open.spotify.com/album/64QDezalGZ9e3hwo18kvKc"
-      },
-      "artists": [
-        {
-          "name": "Beat Noir Deluxe",
-          "url": "https://open.spotify.com/artist/7wsx02NZXRqfx3gmDxhtRB"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "All the Scars Inside Me",
-      "url": "https://open.spotify.com/track/7JPCXZKdpLThBTdbVdKxl5"
+      "duration_ms": 230173,
+      "name": "It Gets Better",
+      "url": "https://open.spotify.com/track/2y9aij92KXDUNEVQ77abWj"
     },
     {
       "added_at": null,
@@ -436,137 +272,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Strak Saltomortale",
-      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercurial Silence",
-        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
-      },
-      "artists": [
-        {
-          "name": "David Eugene Edwards",
-          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
-        }
-      ],
-      "duration_ms": 239642,
-      "name": "Cloud Wolf",
-      "url": "https://open.spotify.com/track/1Y42QTrX3Jy8JB4PtRrUMu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un-hinged ep",
-        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
-      },
-      "artists": [
-        {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
-        }
-      ],
-      "duration_ms": 223663,
-      "name": "One Chance",
-      "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All In Now",
-        "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
-      },
-      "artists": [
-        {
-          "name": "Dogstar",
-          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Wing",
-      "url": "https://open.spotify.com/track/4BNzJbWFSsRU6OtsdKcjKC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voidseeker",
-        "url": "https://open.spotify.com/album/7163GVjGNL6mXyKDBfmeOq"
-      },
-      "artists": [
-        {
-          "name": "Blood Python",
-          "url": "https://open.spotify.com/artist/2ZwyjxGoF6AH2PML6CIjf2"
-        }
-      ],
-      "duration_ms": 245793,
-      "name": "Divine Electronic Doom",
-      "url": "https://open.spotify.com/track/35B32sSZ1Ri0O2qQ8ObRKT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borte vekk i sola",
-        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 184162,
-      "name": "Borte vekk i sola",
-      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Very Time That Will Rot Us",
-        "url": "https://open.spotify.com/album/4oYnZsYcBYQhlWK31FydIY"
-      },
-      "artists": [
-        {
-          "name": "Soulburn",
-          "url": "https://open.spotify.com/artist/5GAJnSaQE4vHVoCuI7B7qH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "In The Very Time That Will Rot Us",
-      "url": "https://open.spotify.com/track/2s998b6NVcI0zz1FCwy6kG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercurial Silence",
-        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
-      },
-      "artists": [
-        {
-          "name": "David Eugene Edwards",
-          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
-        }
-      ],
-      "duration_ms": 140885,
-      "name": "Doubting Zurvan",
-      "url": "https://open.spotify.com/track/5ofxmIgOX5p444yzFDsbuh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doesn't Matter If You Love It Here",
-        "url": "https://open.spotify.com/album/3cmTTdVayfgvFa6BbWoBdV"
-      },
-      "artists": [
-        {
-          "name": "Bokassa",
-          "url": "https://open.spotify.com/artist/3QgBKy7myJIAIMe1A1y7uq"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Doesn't Matter If You Love It Here",
-      "url": "https://open.spotify.com/track/4LHVJfoMF3fwGsRQcVkZBv"
+      "duration_ms": 151000,
+      "name": "Briste Eller B\u00e6re",
+      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
     },
     {
       "added_at": null,
@@ -591,38 +299,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "My Remains",
+        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
       },
       "artists": [
         {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Mestringskoret",
-          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+          "name": "FirstWave Music",
+          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Stjernene Lyser",
-      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+      "duration_ms": 299896,
+      "name": "My Remains",
+      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
     },
     {
       "added_at": null,
       "album": {
-        "name": "It Gets Better",
-        "url": "https://open.spotify.com/album/6lWeG6EI7flaCiGZ9IBgDV"
+        "name": "GT the EP",
+        "url": "https://open.spotify.com/album/1Akb0gurKeG5mwgUFrXuYE"
       },
       "artists": [
         {
-          "name": "Cracks",
-          "url": "https://open.spotify.com/artist/4VUVL4wVY59OSa06nQQw37"
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
         }
       ],
-      "duration_ms": 230173,
-      "name": "It Gets Better",
-      "url": "https://open.spotify.com/track/2y9aij92KXDUNEVQ77abWj"
+      "duration_ms": 136615,
+      "name": "The magic juice",
+      "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
     },
     {
       "added_at": null,
@@ -643,50 +347,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "OLP30 Live",
-        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
       },
       "artists": [
         {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 298602,
-      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
-      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Remains",
-        "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
+        "name": "Liberationizing Light",
+        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
       },
       "artists": [
         {
-          "name": "FirstWave Music",
-          "url": "https://open.spotify.com/artist/1ZqeU75x2rVrcsb9XemiX4"
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
         }
       ],
-      "duration_ms": 299896,
-      "name": "My Remains",
-      "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
+      "duration_ms": 256894,
+      "name": "Liberationizing Light",
+      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Songs under a darkened sky",
-        "url": "https://open.spotify.com/album/6fGvHHqWGeZV8vWou8BqXD"
+        "name": "Black Lumina",
+        "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
       },
       "artists": [
         {
-          "name": "Baarhus",
-          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
+          "name": "Aeons in Solitude",
+          "url": "https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl"
         }
       ],
-      "duration_ms": 277186,
-      "name": "City Of Fear",
-      "url": "https://open.spotify.com/track/3Rzir9VwglG0gFwoaA85an"
+      "duration_ms": 298308,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0EhvI9u41JDu4CymPT0e4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 223663,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dopey Smile",
+        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Dopey Smile",
+      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
     },
     {
       "added_at": null,
@@ -700,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Alles Historie",
-      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
+      "duration_ms": 202000,
+      "name": "Strak Saltomortale",
+      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
     },
     {
       "added_at": null,
@@ -723,18 +459,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frost Upon The Longships",
-        "url": "https://open.spotify.com/album/2XoupfZQMGFB9si6mIAKRD"
+        "name": "Songs under a darkened sky",
+        "url": "https://open.spotify.com/album/6fGvHHqWGeZV8vWou8BqXD"
       },
       "artists": [
         {
-          "name": "Clive Nolan",
-          "url": "https://open.spotify.com/artist/4th15MtvMpTr1qza1bwwS3"
+          "name": "Baarhus",
+          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
         }
       ],
-      "duration_ms": 241558,
-      "name": "Frost Upon The Longships",
-      "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
+      "duration_ms": 277186,
+      "name": "City Of Fear",
+      "url": "https://open.spotify.com/track/3Rzir9VwglG0gFwoaA85an"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From the Attic",
+        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "duration_ms": 260685,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
     },
     {
       "added_at": null,
@@ -755,6 +507,122 @@
     {
       "added_at": null,
       "album": {
+        "name": "Borte vekk i sola",
+        "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 184162,
+      "name": "Borte vekk i sola",
+      "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercurial Silence",
+        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
+      },
+      "artists": [
+        {
+          "name": "David Eugene Edwards",
+          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Cloud Wolf",
+      "url": "https://open.spotify.com/track/1Y42QTrX3Jy8JB4PtRrUMu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy and Pain",
+        "url": "https://open.spotify.com/album/056IhTdHGPbMNoTwjYVUqq"
+      },
+      "artists": [
+        {
+          "name": "Crossing Waves",
+          "url": "https://open.spotify.com/artist/4gOtrRLSvlidDjdNA5IbmU"
+        }
+      ],
+      "duration_ms": 208065,
+      "name": "Joy and Pain",
+      "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOLILOQUY",
+        "url": "https://open.spotify.com/album/7n2bBOvCZPbObCVBOxvZYX"
+      },
+      "artists": [
+        {
+          "name": "ReeToxA",
+          "url": "https://open.spotify.com/artist/6lH7AHY50LNvZIseYmsF6Y"
+        }
+      ],
+      "duration_ms": 188738,
+      "name": "WAR KILLER",
+      "url": "https://open.spotify.com/track/26y9NjGaFPLfWBEZMvU8be"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OLP30 Live",
+        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 298602,
+      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
+      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Mestringskoret",
+          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Stjernene Lyser",
+      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let the Rain Fall (Single)",
+        "url": "https://open.spotify.com/album/6arnHLhBqiZxfP9goJGMyQ"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "duration_ms": 275670,
+      "name": "Let the Rain Fall",
+      "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuck'em",
         "url": "https://open.spotify.com/album/6e1Vv4sNA6IpuMAOc30bNW"
       },
@@ -771,18 +639,146 @@
     {
       "added_at": null,
       "album": {
-        "name": "Personal Paradox",
-        "url": "https://open.spotify.com/album/4RNWhXX97tmu8tOMLIKrcf"
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
       },
       "artists": [
         {
-          "name": "Peter Street",
-          "url": "https://open.spotify.com/artist/0OlVIx58sjXrQOjS0LbzPk"
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
         }
       ],
-      "duration_ms": 296484,
-      "name": "Personal Paradox",
-      "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
+      "duration_ms": 202927,
+      "name": "Rest Your Halo",
+      "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tempus Fugit (Chapter II: Echoes)",
+        "url": "https://open.spotify.com/album/64QDezalGZ9e3hwo18kvKc"
+      },
+      "artists": [
+        {
+          "name": "Beat Noir Deluxe",
+          "url": "https://open.spotify.com/artist/7wsx02NZXRqfx3gmDxhtRB"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "All the Scars Inside Me",
+      "url": "https://open.spotify.com/track/7JPCXZKdpLThBTdbVdKxl5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commercializing The Mind",
+        "url": "https://open.spotify.com/album/5x9DsnrswPOhEff6DPsEZx"
+      },
+      "artists": [
+        {
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+        }
+      ],
+      "duration_ms": 208848,
+      "name": "Commercializing The Mind",
+      "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Alles Historie",
+      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/1AgeU3WYyP8ecqfIjZcnoP"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/5Sv84yfmPUvqMHS8WP7dWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GT the EP",
+        "url": "https://open.spotify.com/album/1Akb0gurKeG5mwgUFrXuYE"
+      },
+      "artists": [
+        {
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Gin N Tonic",
+      "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pay The Price",
+        "url": "https://open.spotify.com/album/3yaDA2yv7PhRFJ3G0kasVl"
+      },
+      "artists": [
+        {
+          "name": "Deaf Mother",
+          "url": "https://open.spotify.com/artist/6QtfSjixl1I5KMlMKldZjt"
+        }
+      ],
+      "duration_ms": 210117,
+      "name": "Pay The Price",
+      "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare On Lexington Street",
+        "url": "https://open.spotify.com/album/1Y7L7Lg7zSlPEDCsRqWaPZ"
+      },
+      "artists": [
+        {
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/2x5SlkdvmEsLt8kidtmPlN"
+        }
+      ],
+      "duration_ms": 197462,
+      "name": "Nightmare On Lexington Street",
+      "url": "https://open.spotify.com/track/3yC4et0t1UpGAHaDPFcbpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
+      },
+      "artists": [
+        {
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
+        }
+      ],
+      "duration_ms": 249272,
+      "name": "Only What You Love",
+      "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
     },
     {
       "added_at": null,
@@ -803,34 +799,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patient X",
-        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
+        "name": "Beyond the Mirrors",
+        "url": "https://open.spotify.com/album/3xVJJMY1Hcyn17NNyde98b"
       },
       "artists": [
         {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+          "name": "Shock Out Bandage",
+          "url": "https://open.spotify.com/artist/3aSpPIag5ZfXMzbekZP51U"
         }
       ],
-      "duration_ms": 188625,
-      "name": "Man on a Horse",
-      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
+      "duration_ms": 240000,
+      "name": "Beyond the Mirrors",
+      "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Divide (10th Anniversary)",
-        "url": "https://open.spotify.com/album/489B9WqIIKoBFHVy1z6w0O"
+        "name": "Turn Me On (Flag and The Wind)",
+        "url": "https://open.spotify.com/album/1k6GY9XTpvYmRtZnEYUyRg"
       },
       "artists": [
         {
-          "name": "Death Angel",
-          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+          "name": "Exhaust",
+          "url": "https://open.spotify.com/artist/1hhHDrOjXAYZ4n9a94RNi4"
         }
       ],
-      "duration_ms": 318600,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/57zHnKR4UFKiSl1il0pGhV"
+      "duration_ms": 253374,
+      "name": "Turn Me on (Flag and the Wind)",
+      "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

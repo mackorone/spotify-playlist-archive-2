@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 22092,
+  "num_followers": 22091,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -504,12 +504,12 @@
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
           "name": "GRAVEDGR",
           "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         }
       ],
       "duration_ms": 217548,

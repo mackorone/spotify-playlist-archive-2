@@ -1,13 +1,29 @@
 {
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Sanfara, Blingos",
-  "num_followers": 59000,
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : A.L.A",
+  "num_followers": 58993,
   "original_name": "RapTounsi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjAxjML53/hRkLiEH71Kz5N5FEC",
+  "snapshot_id": "AAAAAOSU1FOBfrUWPSTIGaBcA2OfYMrS",
   "tracks": [
+    {
+      "added_at": "2026-06-03 22:10:26",
+      "album": {
+        "name": "DIOR",
+        "url": "https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "duration_ms": 142100,
+      "name": "DIOR",
+      "url": "https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW"
+    },
     {
       "added_at": "2026-05-21 21:55:21",
       "album": {
@@ -1019,22 +1035,6 @@
       "duration_ms": 212782,
       "name": "Brabus",
       "url": "https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO"
-    },
-    {
-      "added_at": "2026-05-21 21:55:21",
-      "album": {
-        "name": "YA LATIF",
-        "url": "https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j"
-      },
-      "artists": [
-        {
-          "name": "Soldjvt",
-          "url": "https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "YA LATIF",
-      "url": "https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs"
     },
     {
       "added_at": "2026-05-21 21:55:21",

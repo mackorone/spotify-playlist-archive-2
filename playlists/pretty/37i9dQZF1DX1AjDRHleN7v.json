@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420644,
+  "num_followers": 420647,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Meu Jeito de Ser",
-        "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Meu Jeito de Ser",
-      "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Meu Jeito de Ser",
+        "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Meu Jeito de Ser",
+      "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
     },
     {
       "added_at": "2026-05-20 18:15:24",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2026-05-20 18:15:24",
@@ -1115,22 +1131,6 @@
       "duration_ms": 238227,
       "name": "Um Sinal",
       "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2026-05-20 18:15:24",

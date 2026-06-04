@@ -3998,6 +3998,24 @@
     {
       "album": {
         "name": "If You Only Knew",
+        "url": "https://open.spotify.com/album/2MMcg17vLrM6ppRhppAsHw"
+      },
+      "artists": [
+        {
+          "name": "Finnebassen",
+          "url": "https://open.spotify.com/artist/3Ckt7DNBcLi93B2LGyKYzy"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382000,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/03kSlmVg26XFdeDKPR216z"
+    },
+    {
+      "album": {
+        "name": "If You Only Knew",
         "url": "https://open.spotify.com/album/3D0qcIccVAbnoDY9bzkLQN"
       },
       "artists": [
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 382000,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/1gAAjcR72CHcVxH4QLf8dO"
@@ -4962,7 +4980,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"

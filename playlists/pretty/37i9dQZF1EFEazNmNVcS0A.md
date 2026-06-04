@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 167 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,661 likes - 167 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 106 | [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 |
 | 107 | [Don't Panic](https://open.spotify.com/track/02CH3KEpNtFgN4ItgqZdbG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:15 |
 | 108 | [Night Light](https://open.spotify.com/track/2lzqBBjZ9Pyz8UXfuxSSAB) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 4:13 |
-| 109 | [Giant](https://open.spotify.com/track/6sOfbWpoo0wfVJkAt32GId) | [Banks & Steelz](https://open.spotify.com/artist/3bWdqOEkgKiSmVnHZM2feN) | [Anything But Words](https://open.spotify.com/album/6fy3LWXw3XR58cpTHPBCjG) | 3:52 |
-| 110 | [Old Navy Blue](https://open.spotify.com/track/2sZxMkr5Qq5FzaymQy2nFc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:08 |
+| 109 | [Old Navy Blue](https://open.spotify.com/track/2sZxMkr5Qq5FzaymQy2nFc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:08 |
+| 110 | [Giant](https://open.spotify.com/track/6sOfbWpoo0wfVJkAt32GId) | [Banks & Steelz](https://open.spotify.com/artist/3bWdqOEkgKiSmVnHZM2feN) | [Anything But Words](https://open.spotify.com/album/6fy3LWXw3XR58cpTHPBCjG) | 3:52 |
 | 111 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 |
 | 112 | [sex money feelings die REMIX \(feat\. Lil Baby & snowsa\)](https://open.spotify.com/track/7hI3bRmffmrzm7spNvUaSc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [snowsa](https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu) | [sex money feelings die REMIX \(feat\. Lil Baby & snowsa\)](https://open.spotify.com/album/4RYigo9TK7nOUpSaBZXLM6) | 2:42 |
 | 113 | [Babylon](https://open.spotify.com/track/3VW42XrGdzQ8HLpJKLkZkZ) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:23 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 166 | [Devil In Me](https://open.spotify.com/track/1MwATqhm2jKz0uTOnlu6yf) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Devil In Me](https://open.spotify.com/album/2Gpx4ORjlth9IgGMnKDZhJ) | 3:19 |
 | 167 | [Absent](https://open.spotify.com/track/7KqyvSXcastVzKIcqMCwF3) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Elsewhere](https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE) | 3:38 |
 
-Snapshot ID: `AcTLWgAAAACK8LsXoOMGW5SdZCwCRdFt`
+Snapshot ID: `AcTQ5gAAAAD+QIl8unXYGyvG0bkiXxVV`

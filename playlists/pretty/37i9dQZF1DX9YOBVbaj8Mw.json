@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20485,
+  "num_followers": 20488,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACaR5Ub42Esu9nC8p3ixbuErmjK3",
+  "snapshot_id": "AAAAAAz+jBLzlGeF0S0zXKGlToVPewAZ",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Cud",
+      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Cud",
-      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Obywatelka K.L.",
+        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Sexy doll",
+      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Tak jak tutaj stoj\u0119",
         "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 159018,
       "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
       "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Obywatelka K.L.",
-        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Sexy doll",
-      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -659,18 +659,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Coma Live Pol'and'Rock Festival 2024",
-        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
+        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
+        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
       },
       "artists": [
         {
-          "name": "Coma",
-          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
+          "name": "Wiraszko",
+          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
         }
       ],
-      "duration_ms": 855093,
-      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
-      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
+      "duration_ms": 377680,
+      "name": "Dni, kt\u00f3re przed nami",
+      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
-        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
+        "name": "Coma Live Pol'and'Rock Festival 2024",
+        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
       },
       "artists": [
         {
-          "name": "Wiraszko",
-          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
+          "name": "Coma",
+          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
         }
       ],
-      "duration_ms": 377680,
-      "name": "Dni, kt\u00f3re przed nami",
-      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+      "duration_ms": 855093,
+      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
+      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "HER NAME WAS YUMI",
         "url": "https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi"
       },
@@ -859,6 +875,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "BUNT",
         "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
       },
@@ -875,22 +907,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 297493,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Boleros y Masecki",
         "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 291186,
       "name": "Amor sin esperanza",
       "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
-      },
-      "artists": [
-        {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Pianorizon",
         "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 165376,
       "name": "Song Without Words",
       "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+      },
+      "artists": [
+        {
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Razorblade Psalm",
+        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
+      },
+      "artists": [
+        {
+          "name": "Hostia",
+          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "An Empty Grave Is Just A Hole In The Ground",
+      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Razorblade Psalm",
-        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
-      },
-      "artists": [
-        {
-          "name": "Hostia",
-          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "An Empty Grave Is Just A Hole In The Ground",
-      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
-      },
-      "artists": [
-        {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tequila Songs & Desert Winds",
         "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 218193,
       "name": "Tequila, Mezcal",
       "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+      },
+      "artists": [
+        {
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-26 09:05:26",

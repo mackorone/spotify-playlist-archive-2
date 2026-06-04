@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16314,
+  "num_followers": 16319,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAAhfukU0X4I1q+9bljOljnd",
+  "snapshot_id": "ah4dAAAAAAA6JGVfXkrqjSFQmFCQfz5T",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 128586,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
+      "duration_ms": 235933,
+      "name": "Career Suicide",
+      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 235933,
-      "name": "Career Suicide",
-      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
+      "duration_ms": 128586,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
     },
     {
       "added_at": null,

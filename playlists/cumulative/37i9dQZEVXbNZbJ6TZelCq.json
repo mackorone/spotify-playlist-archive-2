@@ -14164,7 +14164,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 141539,
       "name": "E Mult, E Greu!",
       "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
@@ -19544,7 +19544,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -35647,6 +35647,24 @@
     },
     {
       "album": {
+        "name": "IDCASH",
+        "url": "https://open.spotify.com/album/2zukLJzpwHRvFCYetUv5nc"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "promint",
+      "url": "https://open.spotify.com/track/6dK5NytefN7GX8dIvUnXmv"
+    },
+    {
+      "album": {
         "name": "Kira",
         "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
       },
@@ -47800,7 +47818,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 173679,
       "name": "Vara-i vara",
       "url": "https://open.spotify.com/track/77IZ7M02qCR7D6PDITwHi5"

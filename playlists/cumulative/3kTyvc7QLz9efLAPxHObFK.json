@@ -45015,6 +45015,24 @@
     },
     {
       "album": {
+        "name": "RAISE IT UP",
+        "url": "https://open.spotify.com/album/3dphEKezpA10E8ZW7lhQld"
+      },
+      "artists": [
+        {
+          "name": "USAO",
+          "url": "https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123050,
+      "name": "RAISE IT UP",
+      "url": "https://open.spotify.com/track/7yTEODFJ1VVrZFOnptTJy7"
+    },
+    {
+      "album": {
         "name": "Raise the Weapon",
         "url": "https://open.spotify.com/album/44mdm2yl9RaKKGlBCVzBV5"
       },
@@ -63852,6 +63870,24 @@
       "duration_ms": 195500,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1vxZ0e3UKjCWcpGp5qBnE0"
+    },
+    {
+      "album": {
+        "name": "YOUR LOVE",
+        "url": "https://open.spotify.com/album/71TTxxtphXjDBRW9EKw628"
+      },
+      "artists": [
+        {
+          "name": "Zyon",
+          "url": "https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "YOUR LOVE",
+      "url": "https://open.spotify.com/track/40o7tuXx0Aik2FSGp7jZKi"
     },
     {
       "album": {

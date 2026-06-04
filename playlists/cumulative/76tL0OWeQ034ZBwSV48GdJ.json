@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "III (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64sE3WgwkDH8VMgIr7PhdF"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252066,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/3qadzDCaO7fPtSIG86a5L5"
+    },
+    {
+      "album": {
         "name": "Realm Of Consciousness Pt. IV",
         "url": "https://open.spotify.com/album/0V6u4pveYlufmU2qnige3y"
       },

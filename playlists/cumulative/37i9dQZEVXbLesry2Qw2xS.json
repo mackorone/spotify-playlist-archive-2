@@ -10357,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "Dancing in My Daydream",
+        "url": "https://open.spotify.com/album/6sGsuWTMcUxaVcLBlblnl0"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Dancing in My Daydream",
+      "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
+    },
+    {
+      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -21488,7 +21506,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 214400,
       "name": "hugo toom",
       "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
@@ -37352,7 +37370,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "N\u00e4lg",
       "url": "https://open.spotify.com/track/2pCih9J1SLfoYF8KyWKqdE"
@@ -49870,7 +49888,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 220479,
       "name": "Suvepalavik",
       "url": "https://open.spotify.com/track/1fySIg6QY2qyDgvChQv6la"
@@ -50120,7 +50138,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 128307,
       "name": "sydames - Remix",
       "url": "https://open.spotify.com/track/1HHYDnQNV6lI5p4FzDzdfv"
@@ -55718,10 +55736,6 @@
         {
           "name": "kohver",
           "url": "https://open.spotify.com/artist/1LsT8mVsiQAq4d4OmYaxxh"
-        },
-        {
-          "name": "kurvad uudised",
-          "url": "https://open.spotify.com/artist/0IqvdQEpy2RSX3JBeadPZB"
         }
       ],
       "date_added": "2026-05-09",
@@ -57184,7 +57198,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

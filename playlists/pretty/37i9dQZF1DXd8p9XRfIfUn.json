@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81098,
+  "num_followers": 81099,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
         },
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 185987,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -927,22 +927,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
       "artists": [
         {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
+      "duration_ms": 185987,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "N\u00facleo",
-        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 197312,
-      "name": "Codigo Secreto",
-      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 217021,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "N\u00facleo",
+        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 197312,
+      "name": "Codigo Secreto",
+      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1163,26 +1163,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Chakaleo",
-        "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
+        "name": "Que a Pasao",
+        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
       "artists": [
         {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
         },
         {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        },
-        {
-          "name": "Alberto Producer",
-          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 183331,
-      "name": "Chakaleo",
-      "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
+      "duration_ms": 125923,
+      "name": "Que a Pasao",
+      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1203,22 +1199,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Que a Pasao",
-        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
+        "name": "Chakaleo",
+        "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
       },
       "artists": [
         {
-          "name": "Big Apple",
-          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
         },
         {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
         }
       ],
-      "duration_ms": 125923,
-      "name": "Que a Pasao",
-      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
+      "duration_ms": 183331,
+      "name": "Chakaleo",
+      "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
     },
     {
       "added_at": "2025-09-18 23:00:14",

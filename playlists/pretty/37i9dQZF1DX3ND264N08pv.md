@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,243 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,260 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 39 | [Uptempo Airlines](https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Uptempo Airlines](https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP) | 2:44 |
 | 40 | [Ain't No Thing](https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Ain't No Thing](https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R) | 2:21 |
 | 41 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
-| 42 | [Hot \(Like a Woman\)](https://open.spotify.com/track/24dzulqnPdsw339OOT2sas) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Hot \(Like a Woman\)](https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l) | 2:42 |
+| 42 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
 | 43 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
-| 44 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
+| 44 | [Hot \(Like a Woman\)](https://open.spotify.com/track/24dzulqnPdsw339OOT2sas) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Hot \(Like a Woman\)](https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l) | 2:42 |
 | 45 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 46 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
 | 47 | [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/track/1ogGbWhLNmhtj4CU2tS4Ot) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Mortal Kombat \(Bloodlust & Gezellige Uptempo Remix\)](https://open.spotify.com/album/6BMhlzYJRtqARVMeFFbnwa) | 2:13 |

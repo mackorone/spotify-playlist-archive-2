@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 122331,
+  "num_followers": 122364,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -819,6 +819,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "La Capital Del Pecado",
+        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Zirck Saucedo",
+          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "La Capital Del Pecado",
+      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Callejones",
         "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "La Capital Del Pecado",
-        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Zirck Saucedo",
-          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "La Capital Del Pecado",
-      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
     },
     {
       "added_at": "2025-05-23 06:00:30",

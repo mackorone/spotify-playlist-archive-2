@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2144733,
+  "num_followers": 2144520,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "The Seven Year Itch",
-        "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Rasta Love Feat. Ky-Mani Marley",
-      "url": "https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "The Seven Year Itch",
+        "url": "https://open.spotify.com/album/785pirNtohI84EfviUaGkq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Rasta Love Feat. Ky-Mani Marley",
+      "url": "https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Most Wanted: The Best of King Yellowman",
-        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        }
-      ],
-      "duration_ms": 387306,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 204000,
       "name": "Spanish Town Rockin'",
       "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Most Wanted: The Best of King Yellowman",
+        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
+      },
+      "artists": [
+        {
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+        }
+      ],
+      "duration_ms": 387306,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
+      },
+      "artists": [
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Life From Kingston",
         "url": "https://open.spotify.com/album/5r1gzIqEYoFEi7OdpNSiu8"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 169846,
       "name": "Life From Kingston",
       "url": "https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
-      },
-      "artists": [
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/5EoLQ6g8jZiZkMXvi66u9Y"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/1P49MJhU5vzttesFxw3dOM"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Hot Shot (International Version #2)",
         "url": "https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 235133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6dViIgkYIRccNImPln58rS"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/5EoLQ6g8jZiZkMXvi66u9Y"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/1P49MJhU5vzttesFxw3dOM"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1871,18 +1887,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Legend (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
+        "name": "Cocodi Rock !!! - Remastered Edition",
+        "url": "https://open.spotify.com/album/1t7PXlZc0yy5fCNxoTkeLR"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
+      "duration_ms": 294000,
+      "name": "Cocody Rock",
+      "url": "https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1919,46 +1939,18 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Revelation Pt. II: \"The Fruit of Life\"",
-        "url": "https://open.spotify.com/album/0kJMrx4gL91xAf7VCQFKKI"
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
       "artists": [
         {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Sizzla",
-          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Rock Stone",
-      "url": "https://open.spotify.com/track/2PeRJj9lTSq7Eb3UHXLFK8"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Cocodi Rock !!! - Remastered Edition",
-        "url": "https://open.spotify.com/album/1t7PXlZc0yy5fCNxoTkeLR"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        },
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Cocody Rock",
-      "url": "https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq"
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
     }
   ],
   "unique_name": "One Love",

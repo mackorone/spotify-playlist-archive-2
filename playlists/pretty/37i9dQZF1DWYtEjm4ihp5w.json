@@ -1,12 +1,12 @@
 {
   "description": "Cover: 7ari, Ramoon & Madd",
-  "num_followers": 384093,
+  "num_followers": 384130,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI9Js+4nvYZhYFs9Ldh3dirgdbFQ",
+  "snapshot_id": "AAAAAM4rdprXcLMCNVN/BFTMelcCrAJE",
   "tracks": [
     {
       "added_at": "2026-05-28 23:00:33",
@@ -44,13 +44,13 @@
           "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 174227,
-      "name": "DARBEDA",
-      "url": "https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d"
+      "duration_ms": 179993,
+      "name": "LAMARA",
+      "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
     },
     {
       "added_at": "2026-05-28 23:00:33",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-05-28 23:00:33",
       "album": {
-        "name": "AFLAM",
-        "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
-      },
-      "artists": [
-        {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        }
-      ],
-      "duration_ms": 183999,
-      "name": "OMAR",
-      "url": "https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl"
-    },
-    {
-      "added_at": "2026-05-28 23:00:33",
-      "album": {
         "name": "SPLIT",
         "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
       },
@@ -167,6 +151,26 @@
       "duration_ms": 183043,
       "name": "DFN",
       "url": "https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n"
+    },
+    {
+      "added_at": "2026-05-28 23:00:33",
+      "album": {
+        "name": "AFLAM",
+        "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 174227,
+      "name": "DARBEDA",
+      "url": "https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d"
     },
     {
       "added_at": "2026-05-28 23:00:33",
@@ -278,15 +282,11 @@
         {
           "name": "Dizzy DROS",
           "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
-        },
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 179993,
-      "name": "LAMARA",
-      "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
+      "duration_ms": 183999,
+      "name": "OMAR",
+      "url": "https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl"
     },
     {
       "added_at": "2026-05-28 23:00:33",

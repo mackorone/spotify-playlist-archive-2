@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 156494,
+  "num_followers": 156639,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAAxk3nWIdlc4QsAZ3QIPnpT",
+  "snapshot_id": "ah4dAAAAAAAw7PL1zP8vgSgomz6PAltu",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Labrinth - Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 230356,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Labrinth - Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 281146,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 153890,
       "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 281146,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7"
     },
     {
       "added_at": null,
@@ -931,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
       "artists": [
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Alex Baranowski",
-          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
         }
       ],
-      "duration_ms": 102603,
-      "name": "Accepted By The Crew",
-      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+      "duration_ms": 140750,
+      "name": "Like A Movie",
+      "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE"
     }
   ],
   "unique_name": "This Is Labrinth",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,092 likes - 185 songs - 10 hr 7 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,091 likes - 185 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 24 | [NO CTRL](https://open.spotify.com/track/3uE4naGfc4NqKisfxwZJeA) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [NO CTRL](https://open.spotify.com/album/5hmhdWLXBAx9ujwebmWw3y) | 4:08 |
 | 25 | [Talk nice](https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Talk nice](https://open.spotify.com/album/58QTVyvEXnWqmrGSSHh6nt) | 3:58 |
 | 26 | [FREEFALL](https://open.spotify.com/track/6LTSvzjiNOyTpqSyxkhB0S) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [FREEFALL](https://open.spotify.com/album/2y7NLcSpqL5fUA0Df2B0DK) | 2:56 |
-| 27 | [SQUARE 4](https://open.spotify.com/track/62nyq5biqq1YtTygtXlzvL) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [SQUARE 4](https://open.spotify.com/album/0OySzlkbaQyjVaEPqFkM8H) | 3:37 |
+| 27 | [SQUARE 4](https://open.spotify.com/track/62nyq5biqq1YtTygtXlzvL) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SQUARE 4](https://open.spotify.com/album/0OySzlkbaQyjVaEPqFkM8H) | 3:37 |
 | 28 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |
 | 29 | [Different](https://open.spotify.com/track/7JUvSFLaI0eMufeUp4j8oa) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [SKALAH](https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Different](https://open.spotify.com/album/3qhQt4MFDlXPhRLRvQ199i) | 2:32 |
 | 30 | [LOADED](https://open.spotify.com/track/3PhCbTYdxv5O9nGOzDHhkV) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [LOADED](https://open.spotify.com/album/42Hu4og1F4k76S2kmDBk1K) | 2:30 |

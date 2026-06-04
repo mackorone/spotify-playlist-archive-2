@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440154,
+  "num_followers": 440150,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABv5skut0FtbjIeB1U0oneI",
+  "snapshot_id": "ah4dAAAAAAC/22IdxkvassuLIrLIRn9y",
   "tracks": [
     {
       "added_at": null,
@@ -198,15 +198,11 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 278191,
-      "name": "Having Our Way (feat. Drake)",
-      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
     },
     {
       "added_at": null,
@@ -266,11 +262,15 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
+      "duration_ms": 278191,
+      "name": "Having Our Way (feat. Drake)",
+      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
     },
     {
       "added_at": null,
@@ -518,11 +518,15 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Eurielle",
+          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
         }
       ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+      "duration_ms": 295997,
+      "name": "Too Hotty",
+      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
     },
     {
       "added_at": null,
@@ -590,15 +594,11 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Eurielle",
-          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
         }
       ],
-      "duration_ms": 295997,
-      "name": "Too Hotty",
-      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Emotions",
-        "url": "https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/5hx4FpDZOnDVYlyoG3rMks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 274207,
       "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
       "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Emotions",
+        "url": "https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/5hx4FpDZOnDVYlyoG3rMks"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 216677,
-      "name": "RAW SHIT (feat. Migos)",
-      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Set The Trends (Remix) [feat. \u200eMigos & Juelz Santana]",
         "url": "https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 216677,
+      "name": "RAW SHIT (feat. Migos)",
+      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 510075,
+  "num_followers": 510200,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
+        "name": "R\u00e1fagas al Viento",
+        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "R\u00e1fagas al Viento",
+      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
+    },
+    {
+      "added_at": "2026-05-30 18:56:05",
+      "album": {
         "name": "Vita Fer",
         "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7"
-    },
-    {
-      "added_at": "2026-05-30 18:56:05",
-      "album": {
-        "name": "R\u00e1fagas al Viento",
-        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "R\u00e1fagas al Viento",
-      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
-    },
-    {
-      "added_at": "2026-05-30 18:56:05",
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 169317,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
+    },
+    {
+      "added_at": "2026-05-30 18:56:05",
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "Hasta Enfrente",
+        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
+      "duration_ms": 164565,
+      "name": "Hasta Enfrente",
+      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
-        "name": "Hasta Enfrente",
-        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 164565,
-      "name": "Hasta Enfrente",
-      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
-        "name": "Empat\u00eda",
-        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 244219,
-      "name": "Empat\u00eda",
-      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
-    },
-    {
-      "added_at": "2026-05-30 18:56:05",
-      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "added_at": "2026-05-30 18:56:05",
+      "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
+        "name": "Tolerancia Zero",
+        "url": "https://open.spotify.com/album/0EO7V020RTpHSXtMlhqe6P"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Tolerancia Zero (Banda)",
+      "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
+    },
+    {
+      "added_at": "2026-05-30 18:56:05",
+      "album": {
         "name": "SUPERCHARGED",
         "url": "https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 185856,
       "name": "SUPERCHARGED",
       "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
-    },
-    {
-      "added_at": "2026-05-30 18:56:05",
-      "album": {
-        "name": "Tolerancia Zero",
-        "url": "https://open.spotify.com/album/0EO7V020RTpHSXtMlhqe6P"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Tolerancia Zero (Banda)",
-      "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
     },
     {
       "added_at": "2026-05-30 18:56:05",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-30 18:56:05",
       "album": {
-        "name": "EFECTO BARBAS",
-        "url": "https://open.spotify.com/album/1OjDgmLtS4ZC8HiMtSjvgP"
-      },
-      "artists": [
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        }
-      ],
-      "duration_ms": 143738,
-      "name": "EFECTO BARBAS",
-      "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
-    },
-    {
-      "added_at": "2026-05-30 18:56:05",
-      "album": {
         "name": "El Nini",
         "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+    },
+    {
+      "added_at": "2026-05-30 18:56:05",
+      "album": {
+        "name": "EFECTO BARBAS",
+        "url": "https://open.spotify.com/album/1OjDgmLtS4ZC8HiMtSjvgP"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "duration_ms": 143738,
+      "name": "EFECTO BARBAS",
+      "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
     },
     {
       "added_at": "2026-05-30 18:56:05",

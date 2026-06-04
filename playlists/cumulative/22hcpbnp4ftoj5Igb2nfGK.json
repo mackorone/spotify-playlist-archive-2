@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "On Avery Island",
+        "url": "https://open.spotify.com/album/3HTsNBfZLfRXQTfdLeLVK1"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Gardenhead / Leave Me Alone",
+      "url": "https://open.spotify.com/track/4ZhNktkJqWP24tKJJAMGlH"
+    },
+    {
+      "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },

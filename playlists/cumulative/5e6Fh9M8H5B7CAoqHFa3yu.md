@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,289 songs - 5 day 15 hr 10 min
+2,291 songs - 5 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2268,6 +2268,7 @@
 | [Zither Glitters](https://open.spotify.com/track/3zLgkYbEUvPTTemuQK2ehu) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm) | [Zither Glitters](https://open.spotify.com/album/42s5lUxI4lf6v6CyD4A9hl) | 2:32 | 2025-05-19 |  |
 | [Zyvies Nia Viecna](https://open.spotify.com/track/5wRO1h0hh60dSPsso3ujXn) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:29 | 2025-10-09 |  |
 | [¿QUÉ SOMOS?](https://open.spotify.com/track/5MjCFqxJzsEHJGonD9caek) | [Rubby Whitte](https://open.spotify.com/artist/1eikOOHQenv243gX7qlTFg), [Walter On The Beat](https://open.spotify.com/artist/4wHvAGhuZZrEYqOHgEpXvS), [Flow Urbano Inc](https://open.spotify.com/artist/3tKHkTr4T3sgQ7TeVcmxJH) | [MUSICRAFT](https://open.spotify.com/album/3lSEewfRV0PKPqjoDiduQI) | 2:22 | 2025-05-07 |  |
+| [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 | 2026-06-03 |  |
 | [Último Día de Playa](https://open.spotify.com/track/6NAJNGtKdGlomwElyk9Wfb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Último Día de Playa](https://open.spotify.com/album/53jVLMm40xLGS3l4Bwpk5g) | 3:48 | 2026-02-05 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-16 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-07-01 |  |
@@ -2294,6 +2295,7 @@
 | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk) | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/album/4a62YKi3au42STNxvedOZl) | 3:47 | 2026-04-10 |  |
 | [ليل و سهر](https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz) | [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [ليل و سهر](https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG) | 2:59 | 2026-05-25 |  |
 | [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/track/3T71EW4SKk1F1j9p9eeojH) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/album/55ly2sSClrLujKzB5jFTcN) | 3:55 | 2026-05-31 |  |
+| [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/album/6KDXTPgiLfEYUokveQ4dyH) | 3:40 | 2026-06-03 |  |
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |

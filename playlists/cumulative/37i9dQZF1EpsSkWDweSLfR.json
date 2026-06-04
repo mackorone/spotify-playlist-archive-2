@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135703,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/57aMyrC1ts3HlTSwBk2BIZ"
+    },
+    {
+      "album": {
         "name": "Cornelia Street (Live From Paris)",
         "url": "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7"
       },
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 185266,
       "name": "Good Graces",
       "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 320434,
       "name": "Goodbye Henry. (feat. Al Green)",
       "url": "https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH"
@@ -7318,7 +7336,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 212766,
       "name": "Opalite - BUNT. Remix",
       "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
@@ -8290,6 +8308,24 @@
       "duration_ms": 178993,
       "name": "Sally Walker",
       "url": "https://open.spotify.com/track/1bPoQ1zaUWZmiYrckwfulU"
+    },
+    {
+      "album": {
+        "name": "Samurai Swords (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228733,
+      "name": "Samurai Swords (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb"
     },
     {
       "album": {
@@ -10340,6 +10376,24 @@
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202009,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "album": {

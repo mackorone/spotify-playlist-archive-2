@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-534 songs - 1 day 6 hr 31 min
+536 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs), [Ncum](https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65) | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr) | 3:09 | 2025-06-19 | 2026-01-15 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-11 | 2025-11-27 |
 | [can we start again?](https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [can we start again?](https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO) | 4:28 | 2025-12-17 | 2026-02-05 |
-| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-04-08 |  |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-04-08 | 2026-06-04 |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-06 |  |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-19 | 2026-02-19 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-11-06 | 2024-11-13 |
@@ -216,6 +216,7 @@
 | [Jangan Bukan Bukan](https://open.spotify.com/track/6ufmtve9m6hbUxZkvB906S) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Jangan Bukan\-Bukan](https://open.spotify.com/album/4BOXx2B9mRew56WPbHd7uP) | 3:10 | 2026-05-13 |  |
 | [Jangan Henti](https://open.spotify.com/track/0FRBjygE4ZPUb4L6uPQ3CG) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a), [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Jangan Henti](https://open.spotify.com/album/521izUz80gkhGYzYoeqwIa) | 3:48 | 2025-10-15 | 2025-11-13 |
 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 | 2026-04-22 |  |
+| [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-06-03 |  |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-26 | 2025-02-06 |
 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-01-29 | 2025-02-22 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-27 | 2025-10-09 |
@@ -247,10 +248,11 @@
 | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/track/6umkauU8LpyxSBZnfsupA4) | [Eleven Tonight](https://open.spotify.com/artist/2V37vdVydcJ12vTjsTQVZe), [Amir Ahnaf](https://open.spotify.com/artist/2iJlLP7E7S7ueRA0VzgrQF), [Riko Agus](https://open.spotify.com/artist/5nj6Zfl38Dg82VdFTtoK0X) | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/album/2TsH6MxGuBg20GOE6JXGTX) | 3:41 | 2024-12-26 | 2025-01-23 |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-06-26 | 2025-01-23 |
 | [lagu lelaki gila.](https://open.spotify.com/track/4sINZgO9lCH2eGUjSjrWP4) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [ep : lelaki gila.](https://open.spotify.com/album/3RXgM47NAKjBGiAj5syiIF) | 3:45 | 2025-02-05 | 2025-05-08 |
-| [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-04-08 |  |
+| [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-04-08 | 2026-06-04 |
 | [Lebih Indah Berpisah](https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr) | [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Lebih Indah Berpisah](https://open.spotify.com/album/6jiHQGiwBkO07DpUEDdvR8) | 4:45 | 2025-05-07 | 2025-06-05 |
 | [Lemah](https://open.spotify.com/track/6BKEupNTtgSalOJ8g81N9r) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Lemah](https://open.spotify.com/album/2CqFFabg6MrgFbbRfcBCbW) | 4:04 | 2024-10-23 | 2024-11-21 |
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-18 | 2025-07-03 |
+| [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-06-03 |  |
 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 | 2025-09-24 | 2025-10-16 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-12 | 2025-09-18 |
 | [LIKE THAT](https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:48 | 2024-06-26 | 2024-07-11 |

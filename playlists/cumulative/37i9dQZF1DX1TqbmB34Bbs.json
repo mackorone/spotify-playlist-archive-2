@@ -15576,9 +15576,35 @@
           "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "date_added": "2026-05-31",
+      "date_added": "2026-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225610,
+      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
+      "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
+    },
+    {
+      "album": {
+        "name": "LLLM",
+        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2026-06-04",
       "duration_ms": 225610,
       "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B] [Instrumental]",
       "url": "https://open.spotify.com/track/6oGgsodkuei2zO2H0BliRY"
@@ -17440,7 +17466,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 141093,
       "name": "Moshpit Only (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz"
@@ -18258,7 +18284,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 177056,
       "name": "NBA",
       "url": "https://open.spotify.com/track/5J6J8XbiD28G0WbN5F4AZJ"
@@ -21730,7 +21756,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 195373,
       "name": "Pour",
       "url": "https://open.spotify.com/track/7ggOXWq4f0dUoxbAwlnKov"
@@ -25453,6 +25479,24 @@
     },
     {
       "album": {
+        "name": "POP IS CRYIN'",
+        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171759,
+      "name": "SOUTHSIDE FREESTYLE",
+      "url": "https://open.spotify.com/track/4Xe0xzBX7entFSxr0iifQl"
+    },
+    {
+      "album": {
         "name": "Drop The Bit The 3rd round Pt. 1",
         "url": "https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX"
       },
@@ -25868,6 +25912,24 @@
       "duration_ms": 248317,
       "name": "step back b**** 'cause I'm too fye (Prod. sAewoo)",
       "url": "https://open.spotify.com/track/43GeKUZ8072z0qt3IJm8Y0"
+    },
+    {
+      "album": {
+        "name": "POP IS CRYIN'",
+        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "STIGMATA",
+      "url": "https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh"
     },
     {
       "album": {
@@ -28292,7 +28354,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 143000,
       "name": "Ugly - Spotify Singles",
       "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,533 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,532 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 42 | [I Speak Jesus \- Live From Camp](https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 7:03 |
 | 43 | [How I Love You](https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 7:26 |
 | 44 | [Awesome Is The Lord Most High](https://open.spotify.com/track/66knRxw7curkSwborNv7B0) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 4:28 |
-| 45 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
-| 46 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
+| 45 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
+| 46 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
 | 47 | [Holy And Pleasing](https://open.spotify.com/track/1UiFAfCQapBE1igWa3mmoP) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:30 |
 | 48 | [Here I Am To Worship \- Live](https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:51 |
-| 49 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
-| 50 | [O Praise Him \(All This For A King\) \- Live](https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:25 |
+| 49 | [O Praise Him \(All This For A King\) \- Live](https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:25 |
+| 50 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
 
-Snapshot ID: `ahzLgAAAAADU10K7Qlet0/5BoXBDsXF7`
+Snapshot ID: `ah4dAAAAAABuGsnMRidoPIsPZfejOh9T`

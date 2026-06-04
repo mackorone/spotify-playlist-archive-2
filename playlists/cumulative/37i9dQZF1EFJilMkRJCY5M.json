@@ -3401,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Vividly (feat. Emily Falvey)",
+        "url": "https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX"
+      },
+      "artists": [
+        {
+          "name": "Kouss",
+          "url": "https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Vividly",
+      "url": "https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6Zqf5CDLIGPjHh6ZT0NInT"
       },

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "OFF GUARD",
+        "url": "https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228562,
+      "name": "Adinda",
+      "url": "https://open.spotify.com/track/38WWdmm499Z0BTcYTrVHtY"
+    },
+    {
+      "album": {
         "name": "Aduh",
         "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 212500,
       "name": "Bukan Lagi Kita",
       "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"

@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 265855,
+  "num_followers": 265887,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
         "name": "TUCHAT",
         "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 158350,
       "name": "TODO KE VER",
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "added_at": "2026-04-10 15:37:56",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2026-04-10 15:37:56",
       "album": {
-        "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
-        "url": "https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
-      "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
-    },
-    {
-      "added_at": "2026-04-10 15:37:56",
-      "album": {
         "name": "Hiekka",
         "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 213333,
       "name": "Hiekka",
       "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
+    },
+    {
+      "added_at": "2026-04-10 15:37:56",
+      "album": {
+        "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+        "url": "https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+      "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
     },
     {
       "added_at": "2026-04-10 15:37:56",

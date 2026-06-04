@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: vuyo viwe\. Artwork: Joy Yamusangie.
+> Fresh jazz by independent artists every Wednesday\. Cover: New Jazz Underground\. Artwork: Joy Yamusangie.
 
-1,659 songs - 5 day 9 hr 25 min
+1,660 songs - 5 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Glow](https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Glow](https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER) | 5:17 | 2024-02-28 | 2024-05-02 |
 | [Gnosis](https://open.spotify.com/track/7JgWWktMaCnHOvgc6IpVXv) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK), [Daniel Ferreira de Souza](https://open.spotify.com/artist/2egwoLxq4f59HVwxoRXNH4) | [Gnosis](https://open.spotify.com/album/43Rj8nGeb04BXnKd3ke5wb) | 3:57 | 2022-11-09 | 2023-02-09 |
 | [Gnossienne](https://open.spotify.com/track/5CW4oiCxc2OJSj56Q5lPg5) | [Eva Slongo](https://open.spotify.com/artist/2qpT6no402XK7Lv7HRJQny), [Baptiste Herbin](https://open.spotify.com/artist/1RDE3HwlzmToPqWk4cIDEg), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv), [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3) | [Gnossienne](https://open.spotify.com/album/2KDoxNKr2y2HGkjkfmCKyN) | 6:09 | 2022-05-18 | 2022-06-16 |
-| [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Antonio Loureiro](https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 | 2025-08-06 |  |
+| [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Antonio Loureiro](https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 | 2025-08-06 | 2026-06-04 |
 | [Goa](https://open.spotify.com/track/65MQ1OyypACcmHUipQPrP2) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Goa](https://open.spotify.com/album/1K9pS57grJvL4wbmLSMY7N) | 3:31 | 2023-01-18 | 2023-02-09 |
 | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/album/5TXFOOyKn1U79BRipgjurq) | 3:54 | 2026-01-14 |  |
 | [Going Gentle into the Good Night](https://open.spotify.com/track/0OE2UfJzv85z4Dc5Oy9XbH) | [Sunnyside Electric](https://open.spotify.com/artist/1bx2iY7qBgQBiQmYCHRi1U), [Luis Sigüenza](https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql), [Justus Heher](https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8), [David Baylies](https://open.spotify.com/artist/5S036sLb8sIMiVxMMUdzhA), [Steven McArdle](https://open.spotify.com/artist/2RvApkiagXXEXYip2eUu0a), [Vid Jamnik](https://open.spotify.com/artist/2kRKc7MnKvdxcjCqmguxKO), [Sousastep](https://open.spotify.com/artist/12OpXcX0kDIYU6EBIFDj6N) | [Going Gentle into the Good Night](https://open.spotify.com/album/4D569kF2Rkjzn56nmxjk6Y) | 2:47 | 2022-07-13 | 2022-08-11 |
@@ -1088,6 +1088,7 @@
 | [PROJECTION](https://open.spotify.com/track/1vTn0QTElNXNRVF94V3Seq) | [岸本亮](https://open.spotify.com/artist/56vqmr9No2odAdjmfeTMY3) | [PROJECTION](https://open.spotify.com/album/6fY80sz2qkqRuWb4oVaWPh) | 5:12 | 2022-04-20 | 2022-05-19 |
 | [Propulsion](https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Propulsion](https://open.spotify.com/album/51ZCUc5WzCZWOU9XG2fbEk) | 4:30 | 2022-06-15 | 2022-07-14 |
 | [Prussian Blue](https://open.spotify.com/track/4oGki0qsswTXAMg3mT9RXL) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Prussian Blue](https://open.spotify.com/album/7oz5vjFhsxAsRodGmjcP60) | 4:05 | 2022-01-19 | 2022-02-17 |
+| [Pseudo latin vibe](https://open.spotify.com/track/1tIfOvoZS8B5HukINJzpoa) | [New Jazz Underground](https://open.spotify.com/artist/2yIrk1RE59khwEvVfW0ARD) | [Hoodies](https://open.spotify.com/album/0lRVb617RHKQrhVFlQ6Lgf) | 5:22 | 2026-06-03 |  |
 | [Psicótico](https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Levels](https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx) | 4:17 | 2023-05-17 | 2023-07-20 |
 | [Pure Lured](https://open.spotify.com/track/6A954RZPgmgGdZYBzs2FaP) | [Chris Doherty](https://open.spotify.com/artist/2lFrKcWqPXSaO5Bz2oSNmu) | [Pure Lured](https://open.spotify.com/album/4zng8qefoLy6SOZhkbolM6) | 3:49 | 2022-07-13 | 2022-08-11 |
 | [Pursuing Resolution](https://open.spotify.com/track/5X2ZX1wCkDULfoqi1WkXDy) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [Romance in Formosa](https://open.spotify.com/album/6uOpn2ErZP6dqTZ6ljBwx8) | 3:29 | 2022-05-04 | 2022-06-01 |

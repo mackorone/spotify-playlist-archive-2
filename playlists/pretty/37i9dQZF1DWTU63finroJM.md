@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,888 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,881 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 40 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
 | 41 | [Inocente na Cama \- Ao Vivo](https://open.spotify.com/track/55ND5a95XGfsTl1zM3c4BU) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:41 |
 
-Snapshot ID: `AAAAAAnXFHwe1atBPqTqJGWI9Sky6SFi`
+Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`

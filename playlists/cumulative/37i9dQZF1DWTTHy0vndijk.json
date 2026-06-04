@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 196607,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
@@ -5942,6 +5942,24 @@
       "duration_ms": 194767,
       "name": "One",
       "url": "https://open.spotify.com/track/7aR4PWVTC0okaPIQWMgePz"
+    },
+    {
+      "album": {
+        "name": "17.7",
+        "url": "https://open.spotify.com/album/2RBkLbawM5Zs0hKZLBhSsH"
+      },
+      "artists": [
+        {
+          "name": "H//PE Princess",
+          "url": "https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "One day",
+      "url": "https://open.spotify.com/track/7sq0ojCOSZlWFbSPeAMwCh"
     },
     {
       "album": {

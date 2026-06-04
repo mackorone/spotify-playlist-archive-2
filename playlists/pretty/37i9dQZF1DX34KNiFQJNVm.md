@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela, Ferrugem, Ariana Grande, Jorge & Mateus, WILLOW, Filho do Piseiro  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,039 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290,924 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

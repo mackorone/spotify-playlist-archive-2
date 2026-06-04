@@ -4029,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Dust in the Wind",
+        "url": "https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
+    },
+    {
+      "album": {
         "name": "petal rock black",
         "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
       },
@@ -13608,7 +13626,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"

@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60096,
+  "num_followers": 60120,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -451,58 +451,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "ON YOU",
-        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
-      },
-      "artists": [
-        {
-          "name": "Timi Dre",
-          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ON YOU",
-      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "Come Slide",
         "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
       },
@@ -527,6 +475,58 @@
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "ON YOU",
+        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
+      },
+      "artists": [
+        {
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ON YOU",
+      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+        "name": "i think i love you 2",
+        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
+      "duration_ms": 164400,
+      "name": "i think i love you 2",
+      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "i think i love you 2",
-        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
       },
       "artists": [
         {
-          "name": "ru.",
-          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 164400,
-      "name": "i think i love you 2",
-      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 196530,
       "name": "I'm Available",
       "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
-      },
-      "artists": [
-        {
-          "name": "Lemon Adisa",
-          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
+        "name": "ITEM VII",
+        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "Greatest Lover",
+      "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 165714,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "ITEM VII",
-        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
-      },
-      "artists": [
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "Greatest Lover",
-      "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
     },
     {
       "added_at": "2026-05-29 00:02:09",

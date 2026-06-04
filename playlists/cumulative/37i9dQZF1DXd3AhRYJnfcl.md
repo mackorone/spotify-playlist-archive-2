@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: شيرين
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تووليت وسانت ليفانت
 
-444 songs - 1 day 2 hr 2 min
+445 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Mish Ader Ansa](https://open.spotify.com/track/5G2GTdOEo3xF8RZZxibZjv) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mish Ader Ansa](https://open.spotify.com/album/1vhrqKQYvY1ztZ11HLs4BK) | 4:27 | 2025-05-13 | 2025-10-07 |
 | [Msh Awl Marra](https://open.spotify.com/track/3SEmjDFRMeQZLy2fsiL4q9) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Msh Awl Marra](https://open.spotify.com/album/76Qxrmz6Uxxu4sIds35Kax) | 3:12 | 2026-02-11 |  |
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 | 2023-02-14 |
+| [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 | 2026-06-03 |  |
 | [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 | 2025-08-04 | 2026-01-30 |
 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 | 2023-05-05 | 2023-07-06 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-17 | 2023-05-06 |
@@ -304,7 +305,7 @@
 | [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 | 2024-02-16 | 2024-04-19 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-09-26 | 2023-01-17 |
 | [السهر و الإنبساط](https://open.spotify.com/track/1GQxXFBrOx8KYIFcpBlZPe) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [السهر و الإنبساط](https://open.spotify.com/album/4mKwxA8nkxUg5VThfazP4g) | 2:16 | 2023-01-03 | 2023-02-24 |
-| [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h) | 3:15 | 2026-04-15 |  |
+| [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h) | 3:15 | 2026-04-15 | 2026-06-04 |
 | [العدل فوق الجميع](https://open.spotify.com/track/72MAyfGDYRcbDYV7MCXbHM) | [Badrya Elsayed](https://open.spotify.com/artist/1V31n208uyKy8sKkGkMDUw) | [العدل فوق الجميع](https://open.spotify.com/album/7yWzFC4m4zb9qFER5ARKDr) | 2:32 | 2023-09-05 | 2023-12-09 |
 | [العوض على الله](https://open.spotify.com/track/3yeRnlbwNCyMEhnsqR6RxZ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:09 | 2025-07-18 | 2026-04-02 |
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-07-08 | 2025-04-15 |

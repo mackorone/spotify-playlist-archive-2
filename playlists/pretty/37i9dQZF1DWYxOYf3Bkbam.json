@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 65268,
+  "num_followers": 65281,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 297845,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Con Estilo Mbaret\u00e9",
         "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
         "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 171973,
       "name": "Flor del Litoral",
       "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
-        }
-      ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 154893,
       "name": "Nostalgias Camperas",
       "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1460,25 +1460,9 @@
           "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Barrio la Toma",
-      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+      "duration_ms": 139253,
+      "name": "El Gato Blanco",
+      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1499,6 +1483,22 @@
       "duration_ms": 139173,
       "name": "Sentimiento Correntino",
       "url": "https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2026-05-18 13:34:35",

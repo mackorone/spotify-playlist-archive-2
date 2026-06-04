@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec marguerite \(du titre \#1 au \#16\).
 
-2,015 songs - 4 day 8 hr 18 min
+2,016 songs - 4 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [Juicy](https://open.spotify.com/track/4cTm3Ev9bUvy4ChJjB1nhl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:19 | 2024-06-04 | 2024-07-03 |
 | [Juin à septembre](https://open.spotify.com/track/31XIFAMDsfZr2LdK0LDw7t) | [Céline](https://open.spotify.com/artist/2328WsfrUqs6w7En7Si3WQ) | [Plus cool que ça](https://open.spotify.com/album/6sEt3VuOtmIKqTXlzGdYYe) | 2:12 | 2025-08-05 | 2025-09-03 |
 | [Juliette](https://open.spotify.com/track/5UbSYGjTkCB2jfIrFxh6r0) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Juliette](https://open.spotify.com/album/4WqDPFUWegTGxkPG2o1XVI) | 3:32 | 2024-04-30 | 2024-07-03 |
+| [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 | 2026-06-02 |  |
 | [JUSQU'A LA MORT](https://open.spotify.com/track/0qJjKhENFmIajhnvNE72O2) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [ICONIQUE](https://open.spotify.com/album/1z9v89Pxp9PHwhWAb3hVXp) | 3:27 | 2024-10-01 | 2024-11-06 |
 | [Jusqu'à demain](https://open.spotify.com/track/5MbWt5hl3BlcjD6afPogYl) | [Princess Erika](https://open.spotify.com/artist/4PrlQvkA1ZpKuFYaJFBK5Y) | [J'suis pas une sainte](https://open.spotify.com/album/3BRFMsJntX8WT8qBILMHLD) | 3:51 | 2023-01-03 | 2023-02-01 |
 | [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2025-03-04 | 2025-04-02 |

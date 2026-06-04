@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,233 likes - 65 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,281 likes - 65 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 53 | [With You \(Tonight\)](https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Alta Gracia](https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa) | [With You \(Tonight\)](https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6) | 3:20 |
 | 54 | [Ungenzani](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Blaq Seed](https://open.spotify.com/artist/1BQ05DaaqFSpBdBs6gw81v) | [MAYVIS](https://open.spotify.com/album/24hB22GCffWSxZyTmfuCAb) | 6:00 |
 | 55 | [Crush](https://open.spotify.com/track/3cDzIY1AdJZ36kTlUxpApw) | [Zane Gulston](https://open.spotify.com/artist/18rZ7Kl0Dtyla220ZktTR7), [Rebiirth](https://open.spotify.com/artist/1Tx7L6W346dIQcAwDGdF1o) | [Crush](https://open.spotify.com/album/0fIRjHKYAiceTTcRshmORw) | 5:10 |
-| 56 | [DAWA \- REMIX](https://open.spotify.com/track/3r0n4hAR2n8GYTn63NCt7J) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [DJ B&W](https://open.spotify.com/artist/2RuoMsSuY4DJrk7OVxHX6L) | [DAWA \(REMIX\)](https://open.spotify.com/album/15wlcM2Hl8Pf8jReqmK1yt) | 3:56 |
+| 56 | [DAWA \- REMIX](https://open.spotify.com/track/3r0n4hAR2n8GYTn63NCt7J) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [B WAVE](https://open.spotify.com/artist/2RuoMsSuY4DJrk7OVxHX6L) | [DAWA \(REMIX\)](https://open.spotify.com/album/15wlcM2Hl8Pf8jReqmK1yt) | 3:56 |
 | 57 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 |
 | 58 | [Uthando Lwethu \(feat\. ChildDaDJ, Funktone & The Elevatorz\)](https://open.spotify.com/track/3lvks5HZQw8E7CG03K7kVw) | [Noxolo Ngema](https://open.spotify.com/artist/4gR20Zh7XB48xnwxZnKGgb), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Janesh](https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L), [ChildDaDj](https://open.spotify.com/artist/70DzXxVr9BqAIfsBoa3rn5), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8), [The Elevatorz](https://open.spotify.com/artist/6ZQcvTkAeWCOoFdo0ssWIX) | [Uthando Lwethu \(feat\. ChildDaDJ\)](https://open.spotify.com/album/0fO4Op2hYzu05lQiHTRsQS) | 5:44 |
 | 59 | [Uyibonani](https://open.spotify.com/track/6YLoZJANdxUBSeNdt6ZDQ8) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [NATASHA MD](https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa) | [Music In Colors](https://open.spotify.com/album/3sxVKWgA334KuRjY3Y0SD4) | 5:02 |

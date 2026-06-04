@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-130 songs - 7 hr 30 min
+131 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 | 2026-04-01 | 2026-04-23 |
 | [Permanent Record](https://open.spotify.com/track/3wP0TrbEyiedBDOdOUkDKT) | [GG Fearn](https://open.spotify.com/artist/1IBnZK5Ccb90mmCETbnWBx) | [Permanent Record](https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U) | 3:26 | 2024-07-31 |  |
 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 | 2025-12-04 | 2025-12-28 |
+| [POPSTAR](https://open.spotify.com/track/5eKWnk0CuVzBoJNNMDRilZ) | [Snowflake Maker](https://open.spotify.com/artist/2sQohLh8eFMnXitpz2yoM5) | [POPSTAR](https://open.spotify.com/album/5k6yAsfYV423IPbGwG6BMn) | 2:56 | 2026-06-03 |  |
 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2021-11-21 |  |
 | [Reason](https://open.spotify.com/track/2Dj0xj2L1oYGiiANCfXHao) | [Maliuha](https://open.spotify.com/artist/3t5EqB9jJnmv9F5OlYH3Yk) | [Molly19](https://open.spotify.com/album/2h8A8KwGkeNxcznsicyj2I) | 4:21 | 2025-11-06 | 2025-11-22 |
 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 | 2026-02-23 | 2026-03-14 |

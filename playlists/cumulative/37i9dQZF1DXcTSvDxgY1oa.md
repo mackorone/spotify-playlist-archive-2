@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Gilly
 
-370 songs - 20 hr 2 min
+371 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [8888](https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG) | [BlackBeach](https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P) | [Black Beach](https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS) | 6:11 | 2024-07-01 | 2025-05-08 |
 | [A Cure for My Feels](https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF) | [Simpleton](https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z) | [A Cure for My Feels](https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg) | 3:17 | 2024-07-01 | 2025-05-08 |
 | [A Price To Pay](https://open.spotify.com/track/6V3fXDLceIQhV3oM6Zr9s7) | [Changing Tides](https://open.spotify.com/artist/4FDVjqH3XqrmfVpB4N5Hqu) | [A Price To Pay](https://open.spotify.com/album/0VFNHdKroUHNy1RAPaPMcC) | 3:11 | 2024-07-01 | 2024-10-22 |
+| [A Summer's Dream](https://open.spotify.com/track/3UsTOwKmL76JThYYUSzE8O) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [A Summer's Dream](https://open.spotify.com/album/3aWmYVq30BGlBSV6IOlRYD) | 2:49 | 2026-06-03 |  |
 | [A Través de Sus Ojos](https://open.spotify.com/track/62eSASnGb08kE9KIpB92GT) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh) | [La Controversia De Valladolid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Po1hMVKf1TDLj5JsUwGyl) | 3:35 | 2026-05-11 |  |
 | [Abigaïl](https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q) | [Helen Jewett](https://open.spotify.com/artist/36cID5OLWLp4SzVn9g4kiF) | [Astrolabium](https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg) | 3:33 | 2025-05-07 | 2026-05-12 |
 | [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 | 2026-05-11 |  |
@@ -168,7 +169,7 @@
 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 | 2026-05-11 |  |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-07-01 | 2025-05-08 |
 | [Inside My Head](https://open.spotify.com/track/7I9uVwnMSMARHdmrhhHd3T) | [ILÆNDER](https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z) | [Inside My Head](https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel) | 3:50 | 2025-11-28 | 2026-05-12 |
-| [Inside Out](https://open.spotify.com/track/44vGAqIIgXYYEOg0lDnC0X) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [Favour](https://open.spotify.com/album/4bv1QCN1qUWesWbUnqKhp2) | 3:36 | 2026-05-11 |  |
+| [Inside Out](https://open.spotify.com/track/44vGAqIIgXYYEOg0lDnC0X) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [Favour](https://open.spotify.com/album/4bv1QCN1qUWesWbUnqKhp2) | 3:36 | 2026-05-11 | 2026-06-04 |
 | [Inter\-Minus\-Net](https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM) | [Gespuys](https://open.spotify.com/artist/0ZhdE8XU91DF4i0trcK5b2) | [Inter\-Minus\-Net](https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf) | 2:53 | 2024-07-01 | 2025-05-08 |
 | [Intersections](https://open.spotify.com/track/5WEv2OSz8KpUGB8eq3GKae) | [Oliv Oliv](https://open.spotify.com/artist/5OX3Xi9wtyOrUnUH42U4it) | [Intersections](https://open.spotify.com/album/3yxPNf2gYNLjw3iqaxC3HQ) | 6:38 | 2025-05-07 | 2025-09-05 |
 | [Into pieces](https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ) | [Imme](https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV) | [Into pieces](https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J) | 3:23 | 2026-05-11 |  |

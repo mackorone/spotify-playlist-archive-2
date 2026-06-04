@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,820 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,788 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Teu Jeitinho \- Spotify Singles](https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH) | 3:17 |
 | 45 | [Ganância](https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4) | [23](https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7) | 3:53 |
 | 46 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
-| 47 | [Pra Decidir \(Os Caras Da Rua\)](https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Pra Decidir \(Os Caras Da Rua\)](https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG) | 2:52 |
-| 48 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
+| 47 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
+| 48 | [Pra Decidir \(Os Caras Da Rua\)](https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Pra Decidir \(Os Caras Da Rua\)](https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG) | 2:52 |
 | 49 | [Mulher Adulta Faz Assim](https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [IRREFREÁVEL](https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ) | 2:15 |
 | 50 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Revelação 30 Anos: O Nosso Samba Virou Religião!, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH) | 2:52 |
 

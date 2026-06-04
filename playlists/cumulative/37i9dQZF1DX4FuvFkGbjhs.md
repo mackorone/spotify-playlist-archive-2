@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Blood Orange
 
-889 songs - 2 day 3 hr 23 min
+890 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-20 |
 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 | 2024-11-01 | 2025-03-21 |
 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 | 2025-05-15 | 2025-08-08 |
+| [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-28 |  |
 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 | 2026-02-20 |  |
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-06 |  |
 | [easy to forget.](https://open.spotify.com/track/518XVmTTgQSOfVCZoEoKnI) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [Luna, easy to forget.](https://open.spotify.com/album/3OkfFjLwS32ExZx6Y5rQR4) | 2:44 | 2025-08-21 | 2026-01-16 |
@@ -716,7 +717,7 @@
 | [SPEEDY GONZALES](https://open.spotify.com/track/6M9bpXqgQgzYjWBiI9guYk) | [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [SPEEDY GONZALES](https://open.spotify.com/album/5jkMf30uiRBIC3hcOtQdMQ) | 3:18 | 2025-05-15 | 2025-07-04 |
 | [Spiderwick](https://open.spotify.com/track/4UCqjBmojNNvJdS0ASVPY5) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Spiderwick](https://open.spotify.com/album/7hebGdQsbUFxYyjpkxaKdD) | 2:35 | 2024-11-22 | 2025-03-21 |
 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-24 | 2025-07-11 |
-| [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-23 |  |
+| [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-23 | 2026-06-04 |
 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-06 | 2026-05-01 |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-01 | 2025-02-14 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-27 | 2024-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,027 likes - 81 songs - 3 hr 29 min
+[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,033 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 2 | [ROPEPUPPY](https://open.spotify.com/track/3nrINSFvu7u6xbCq6yDs4l) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 2:48 |
 | 3 | [ORDER:SCORE](https://open.spotify.com/track/0ZXddUNWkQ8ih8uv4GvfAi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 1:08 |
 | 4 | [EDGE PLAY](https://open.spotify.com/track/2K7lTkeRtaFvPuLVQ6rKvR) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 1:24 |
-| 5 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
+| 5 | [EDGE PLAY \- FURRY RAVER REMIX](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
 | 6 | [Bad Dragon](https://open.spotify.com/track/10KAcnsjEFtKTgmk1lQ1hG) | [Hixbi Fox](https://open.spotify.com/artist/76ZTP1RJUrzT2bQSEd8lZ3) | [Furry Addicts](https://open.spotify.com/album/2VbKVxuP0TX1oD3i0NvI6H) | 4:13 |
 | 7 | [Raccoon Tails & Knotted Dicks](https://open.spotify.com/track/6SWgngUmmY4ISVjN71vdHB) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU) | 3:14 |
 | 8 | [I LOVE PEEING IN PUBLIC POOLS](https://open.spotify.com/track/1eExcxBSQFvJpDPdbd4kfy) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [I'M SICK AND TIRED OF MAKING GOOD MUSIC](https://open.spotify.com/album/1tNtScyY4OyrD8EmSo8otq) | 3:06 |

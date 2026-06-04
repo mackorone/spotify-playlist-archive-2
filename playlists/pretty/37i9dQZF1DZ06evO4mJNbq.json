@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3146,
+  "num_followers": 3148,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAA9lqpZeMp19RhEYRBqd7Vv",
+  "snapshot_id": "ah4dAAAAAADJPlU1+cFX8Wmx6ioeVHsf",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashley",
-        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Ashley",
-      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Hearts (Deluxe Edition)",
         "url": "https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 163866,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashley",
+        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Ashley",
+      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
     },
     {
       "added_at": null,

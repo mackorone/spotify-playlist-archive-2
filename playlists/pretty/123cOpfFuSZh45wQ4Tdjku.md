@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,209 likes - 421 songs - 20 hr 49 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,208 likes - 422 songs - 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 25 | [ROPEPUPPY](https://open.spotify.com/track/3nrINSFvu7u6xbCq6yDs4l) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 2:48 |
 | 26 | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/track/2fHZAXOHW6MloDdXRqNhrS) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/album/6rmH0AwGNsUm5juguz28ZQ) | 3:31 |
 | 27 | [EDGE PLAY](https://open.spotify.com/track/43saXiFb4mEm9ajLfiMoji) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY](https://open.spotify.com/album/6I75QTK7OKFpWj2hbHfB8I) | 1:24 |
-| 28 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
+| 28 | [EDGE PLAY \- FURRY RAVER REMIX](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
 | 29 | [ORDER:SCORE](https://open.spotify.com/track/0ZXddUNWkQ8ih8uv4GvfAi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 1:08 |
 | 30 | [SILLY PISS SONG](https://open.spotify.com/track/2AeDwo9LB1uap5CJBOb4BD) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 0:50 |
-| 31 | [EDGE PLAY \- theSpackster Remix Instrumental](https://open.spotify.com/track/70cuOORNpDMSvSXO2M2Tgu) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
+| 31 | [EDGE PLAY \- FURRY RAVER REMIX INSTRUMENTAL](https://open.spotify.com/track/70cuOORNpDMSvSXO2M2Tgu) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 |
 | 32 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 |
 | 33 | [Paws Up!](https://open.spotify.com/track/5tzumBMHJABiDCAu1upYd5) | [Hixbi Fox](https://open.spotify.com/artist/76ZTP1RJUrzT2bQSEd8lZ3), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Paws Up!](https://open.spotify.com/album/0x9gGEqkiSdv1iuaeeEUSU) | 3:43 |
 | 34 | [This Is Why We Can't Have Nice Things](https://open.spotify.com/track/4Qdd66HMaxta8ZQDbG9Dtb) | [Martyrs of Apathy](https://open.spotify.com/artist/0CqyREwcnKy21Xw0GMJvrv) | [Possession](https://open.spotify.com/album/4xKLhgglDTedKwWXyShpI9) | 3:24 |
@@ -429,5 +429,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 419 | [Synergy](https://open.spotify.com/track/4pbQbx20NFUR6T8fPFvdWo) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 3:47 |
 | 420 | [Where it Hurts](https://open.spotify.com/track/0tSBgoAFCfUdridosP1S2Q) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 2:57 |
 | 421 | [Nirvana](https://open.spotify.com/track/52etPPMjlz6NQbxTsoKlvy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Nirvana](https://open.spotify.com/album/6KWcHp9kqhmH17dcJPhYj3) | 4:39 |
+| 422 | [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 |
 
-Snapshot ID: `AAABz8QugQEwJnHxfIDmQ61KttdeBjBj`
+Snapshot ID: `AAAB0GsQevMiF548t9A9H7zHiSI47CDu`

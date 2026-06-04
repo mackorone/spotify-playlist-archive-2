@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 326820,
+  "num_followers": 326878,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABmatHZJn6N76895lFW6Lxd",
+  "snapshot_id": "ah4dAAAAAADEg5Y8lk1xYTEA3g0a0fC3",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Har\u00e1s Otra Vez",
-        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 377306,
-      "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
-      "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -187,26 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know A Name",
-        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 429454,
-      "name": "I Know A Name",
-      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
+      "duration_ms": 377306,
+      "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
+      "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
     },
     {
       "added_at": null,
@@ -227,6 +203,30 @@
       "duration_ms": 481802,
       "name": "Same God (feat. Jonsal Barrientes)",
       "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Know A Name",
+        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 429454,
+      "name": "I Know A Name",
+      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,668 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,755 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 21 | [Wildlife Storm \(Nature\)](https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:04 |
 | 22 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
 | 23 | [costa rica jungle downpour](https://open.spotify.com/track/2HvAiax6XQNCORkA6S1WoF) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [costa rica rains](https://open.spotify.com/album/3oxEFOaQCjpQxlBHeOBAuV) | 2:14 |
-| 24 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 |
-| 25 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
+| 24 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
+| 25 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 |
 | 26 | [Insects in Rain](https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:32 |
 | 27 | [Wetland At Night](https://open.spotify.com/track/06wGShX4zK2yQMJJgjrWiB) | [Wetland Adventures](https://open.spotify.com/artist/01myJOKWFORKHtMxNWPib5) | [Wetland At Night](https://open.spotify.com/album/0DEj6QWMqXNm5b0FnncJTA) | 3:14 |
 | 28 | [Rainy Day In Forest](https://open.spotify.com/track/6dQBw0A8STk3ssr9NyVadt) | [HD Nature Sound Library](https://open.spotify.com/artist/2JdsJhCSbNc4C9CR56k1ju) | [In The Rain](https://open.spotify.com/album/51N5TreaHoU7z7WRT28q56) | 3:03 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 83 | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 |
 | 84 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
 | 85 | [Crickets at Night](https://open.spotify.com/track/3qnD3t26zyroCTZKq1KtUD) | [Recording Nature](https://open.spotify.com/artist/4TYMKtxvKr9lqWOIkzp5Jw) | [Forest Crickets at Sunset](https://open.spotify.com/album/4RcdjQKEwOcwtKpaKPp4Jn) | 4:36 |
-| 86 | [Borneo Bridge at Night](https://open.spotify.com/track/0f008RCXZcqsoCeM2uqgGr) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Sounds of the Borneo Rainforest](https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO) | 3:30 |
-| 87 | [Chirping Melodies](https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Wonders of Tranquility](https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A) | 15:00 |
+| 86 | [Chirping Melodies](https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Wonders of Tranquility](https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A) | 15:00 |
+| 87 | [Borneo Bridge at Night](https://open.spotify.com/track/0f008RCXZcqsoCeM2uqgGr) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Sounds of the Borneo Rainforest](https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO) | 3:30 |
 | 88 | [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 |
 | 89 | [Relaxing Forest Harmony](https://open.spotify.com/track/0xZCJfCtC2PDz93W8D2iNl) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 4:11 |
 | 90 | [Nocturnal Nature's Lullaby](https://open.spotify.com/track/1FUFAGT1hNaXeRyNnPwaKu) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:52 |

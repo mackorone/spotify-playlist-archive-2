@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most exciting new music on our radar, featuring In Color",
+  "description": "The most exciting new music on our radar, featuring Aaron Cole",
   "name": "RADAR US",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 210040,
       "name": "6ft Under",
       "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
@@ -1457,6 +1457,60 @@
     },
     {
       "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/0clTTK9wSXFKpTTtGq2sun"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ANYTHING GOES",
+      "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5zXWAjUQ1Sv1aEF3HYLeuu"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215850,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4k7lVsIunyMi4eHr4SmjDU"
+    },
+    {
+      "album": {
+        "name": "APPETITE",
+        "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209376,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
+    },
+    {
+      "album": {
         "name": "Aquamarine",
         "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
       },
@@ -1790,7 +1844,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 183269,
       "name": "baby",
       "url": "https://open.spotify.com/track/3vhMPDsaBprFWQy5K306n5"
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 115002,
       "name": "BIG FEELING",
       "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
@@ -3272,7 +3326,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 267453,
       "name": "Buffalo 66",
       "url": "https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd"
@@ -4060,7 +4114,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 222204,
       "name": "CHR\u00d6ME (feat. slayr)",
       "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
@@ -4318,6 +4372,24 @@
       "duration_ms": 164880,
       "name": "Cobro",
       "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
+    },
+    {
+      "album": {
+        "name": "Coconut Water",
+        "url": "https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117630,
+      "name": "Coconut Water",
+      "url": "https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41"
     },
     {
       "album": {
@@ -4768,7 +4840,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 164344,
       "name": "Crisscross Way",
       "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
@@ -6934,7 +7006,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 185955,
       "name": "Everyone Around Me Dancing",
       "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
@@ -7060,7 +7132,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 192002,
       "name": "eyes on Him",
       "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
@@ -10704,7 +10776,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
@@ -12033,6 +12105,24 @@
     },
     {
       "album": {
+        "name": "The Eldest Daughter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Y0epCyc6GIAstSfBcmElj"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187477,
+      "name": "Kissimmee",
+      "url": "https://open.spotify.com/track/6qPTUgQKOEyXOIcPdyRBuz"
+    },
+    {
+      "album": {
         "name": "LOVE ON DIGITAL",
         "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
@@ -12141,6 +12231,24 @@
     },
     {
       "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp"
+    },
+    {
+      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -12228,6 +12336,24 @@
       "duration_ms": 229549,
       "name": "la manera que me ves",
       "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
+    },
+    {
+      "album": {
+        "name": "The Ville",
+        "url": "https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138208,
+      "name": "LA Nights",
+      "url": "https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf"
     },
     {
       "album": {
@@ -13307,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Lunita Mia",
+        "url": "https://open.spotify.com/album/0E6ISqXhkyG8UseoKHaNc0"
+      },
+      "artists": [
+        {
+          "name": "Unotopic",
+          "url": "https://open.spotify.com/artist/1EJbqGDuWfO79d0Wea80gi"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173824,
+      "name": "Lunita Mia",
+      "url": "https://open.spotify.com/track/0W0WOl9OJrY1vMO21bh2A7"
+    },
+    {
+      "album": {
         "name": "lust",
         "url": "https://open.spotify.com/album/0Lm2tTEWpEYyZKhS5tXzku"
       },
@@ -14300,7 +14444,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 182109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg"
@@ -14322,6 +14466,24 @@
       "duration_ms": 167360,
       "name": "MORRO MA\u00d1OSO",
       "url": "https://open.spotify.com/track/2tNSQeKEVtrsMhRYixazni"
+    },
+    {
+      "album": {
+        "name": "MOSH\u2605PIT",
+        "url": "https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164736,
+      "name": "MOSH\u2605PIT",
+      "url": "https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3"
     },
     {
       "album": {
@@ -15230,7 +15392,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 215173,
       "name": "No Need For Leavin'",
       "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
@@ -16232,7 +16394,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 234293,
       "name": "Ordinary Feelings",
       "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
@@ -16718,7 +16880,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 192272,
       "name": "People Like Us",
       "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
@@ -16816,6 +16978,24 @@
       "duration_ms": 207009,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC"
+    },
+    {
+      "album": {
+        "name": "Pero Me Da\u00f1aste",
+        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214805,
+      "name": "Pero Me Da\u00f1aste",
+      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
     },
     {
       "album": {
@@ -18412,7 +18592,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 147169,
       "name": "Runnin' On E",
       "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
@@ -21140,7 +21320,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
@@ -21700,7 +21880,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 147106,
       "name": "Texas Baby",
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
@@ -22166,7 +22346,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 260459,
       "name": "There Goes That Man",
       "url": "https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU"
@@ -23299,6 +23479,28 @@
     },
     {
       "album": {
+        "name": "usher in the spirit",
+        "url": "https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "usher in the spirit",
+      "url": "https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT"
+    },
+    {
+      "album": {
         "name": "VACAXIONES",
         "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
       },
@@ -23372,6 +23574,28 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "Visualize",
+        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Finnuh",
+          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
       "album": {
@@ -23528,10 +23752,32 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "album": {
+        "name": "Walking With My God",
+        "url": "https://open.spotify.com/album/4AuDg3JnT6t56XrEdcvZNs"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189143,
+      "name": "Walking With My God",
+      "url": "https://open.spotify.com/track/4yi7JrFdDLT2CGMKnCo6L6"
     },
     {
       "album": {

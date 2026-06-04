@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1021034,
+  "num_followers": 1021144,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "For The Soul",
         "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -1627,6 +1607,26 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "ALGO T\u00da (Shimza Remix)",
-        "url": "https://open.spotify.com/album/5s5oP0QaGU0s94niBLvPyG"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "ALGO T\u00da - Shimza Remix",
-      "url": "https://open.spotify.com/track/5j6ixxtMNVFLxkTzs6scjV"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "Dame M\u00e1s (Gasolina)",
         "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
       },
@@ -2047,6 +2023,30 @@
       "duration_ms": 244918,
       "name": "Te Doy La Libertad",
       "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "ALGO T\u00da (Shimza Remix)",
+        "url": "https://open.spotify.com/album/5s5oP0QaGU0s94niBLvPyG"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "ALGO T\u00da - Shimza Remix",
+      "url": "https://open.spotify.com/track/5j6ixxtMNVFLxkTzs6scjV"
     },
     {
       "added_at": "2026-05-29 04:00:46",

@@ -309,6 +309,36 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118640,
+      "name": "Ave Maria, Op. 67 No. 2",
+      "url": "https://open.spotify.com/track/0GEyudJgAiu3NnZPU85H1g"
+    },
+    {
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -956,7 +986,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 322733,
       "name": "III. Quia fecit mihi magna",
       "url": "https://open.spotify.com/track/2a8MbB3Z6i3plnPbLT2Np4"

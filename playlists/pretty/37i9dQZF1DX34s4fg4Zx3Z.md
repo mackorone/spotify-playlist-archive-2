@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: LEXXY\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,364 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 24 | [Namarie](https://open.spotify.com/track/5rktq6em2SFt1Fou45wuIM) | [Haylie](https://open.spotify.com/artist/6d6iKG3SJtDBT7sg4Wa6ee) | [Namarie](https://open.spotify.com/album/0XrZkAASMYB8O2wNN0LfXM) | 3:14 |
 | 25 | [Gió Thoảng Mây Bay](https://open.spotify.com/track/4ztwP2ieonTKCt61gzfPHK) | [NAM](https://open.spotify.com/artist/5coIu2kR2L7OO7YnRcCDWr), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Gió Thoảng Mây Bay](https://open.spotify.com/album/4DxBCsTkhbBguXPyubffI8) | 4:14 |
 
-Snapshot ID: `AAAAANYZ0l+wkkLjFxbW59POV+wJlvvZ`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 24901,
+  "num_followers": 24904,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACzqksBF78Eg6J6Sz/Xp3+M",
+  "snapshot_id": "ah4dAAAAAACYsNp/wslLfQxxR/6mvStV",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/2Dzo5LOdQfc60HNlA3BQ9a"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 311173,
+      "name": "Maior \u00e9 Jesus",
+      "url": "https://open.spotify.com/track/6o7L4sctcv6DPiywAzIaFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o 11 - O Ano da Gra\u00e7a",
         "url": "https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 220186,
       "name": "Maior \u00e9 Jesus",
       "url": "https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
-        "url": "https://open.spotify.com/album/2Dzo5LOdQfc60HNlA3BQ9a"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 311173,
-      "name": "Maior \u00e9 Jesus",
-      "url": "https://open.spotify.com/track/6o7L4sctcv6DPiywAzIaFS"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus \u00c9 Bom Demais",
-        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 295775,
-      "name": "Can\u00e7\u00e3o do Amigo",
-      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 385307,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus \u00c9 Bom Demais",
+        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 295775,
+      "name": "Can\u00e7\u00e3o do Amigo",
+      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 336644,
-      "name": "O Caminho do Milagre",
-      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY"
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 391760,
-      "name": "A Decis\u00e3o",
-      "url": "https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg"
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR"
+      "duration_ms": 391760,
+      "name": "A Decis\u00e3o",
+      "url": "https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
       "duration_ms": 421866,
       "name": "Toma Teu Trono",
       "url": "https://open.spotify.com/track/4phyRpGHNe4TwEeJPUqxbd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
-        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 326550,
-      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
-      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
     },
     {
       "added_at": null,
@@ -815,6 +791,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 326550,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
@@ -831,6 +831,38 @@
       "duration_ms": 459662,
       "name": "Nunca Pare De Lutar",
       "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 496186,
+      "name": "Eu Te Escolhi",
+      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT"
     },
     {
       "added_at": null,
@@ -855,38 +887,6 @@
       "duration_ms": 196780,
       "name": "Toda Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 496186,
-      "name": "Eu Te Escolhi",
-      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
     },
     {
       "added_at": null,

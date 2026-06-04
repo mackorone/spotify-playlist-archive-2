@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 구원찬\(Kuonechan\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 박세정\(Park Se Jung\)\)
 
-645 songs - 1 day 10 hr 36 min
+646 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 | 2025-04-18 | 2025-08-06 |
 | [A Bitter Letter To Myself](https://open.spotify.com/track/0djIuIFCPgHVHzjTk7OcuB) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [A Bitter Letter To Myself](https://open.spotify.com/album/2O2iOBGOlGcaCZgHj1fyQc) | 2:35 | 2025-01-17 | 2025-05-13 |
 | [A Heartbreaking Story \(Feat\. Joon Park\)](https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [박준형](https://open.spotify.com/artist/2xtMZ4zOq4eErGffG8utNG) | [A Heartbreaking Story](https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0) | 4:21 | 2023-07-07 | 2023-10-17 |
-| [A Love of Van Gogh](https://open.spotify.com/track/26gmwC2ocEG519x4WJcLji) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [A Love of Van Gogh](https://open.spotify.com/album/4IyjbYwBNAgK00OCtVI8PJ) | 3:44 | 2026-01-22 |  |
+| [A Love of Van Gogh](https://open.spotify.com/track/26gmwC2ocEG519x4WJcLji) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [A Love of Van Gogh](https://open.spotify.com/album/4IyjbYwBNAgK00OCtVI8PJ) | 3:44 | 2026-01-22 | 2026-06-04 |
 | [A to Z](https://open.spotify.com/track/3XwXsckFbi3WjsI4SYcOdp) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:50 | 2023-02-14 | 2023-08-18 |
 | [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-08 | 2023-03-28 |
 | [ABCD](https://open.spotify.com/track/7hC8QyyY9RqvgBUDAFf39R) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [Crazy Love!](https://open.spotify.com/album/7ESObTV9pHv67g4HLIpgcp) | 2:48 | 2025-10-22 | 2026-05-15 |
@@ -394,7 +394,7 @@
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-20 | 2025-09-19 |
 | [Never Let Me Go](https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-01-13 | 2023-08-18 |
 | [Never walk away](https://open.spotify.com/track/3JcdQdCAgzqOndLZfenPJN) | [youz](https://open.spotify.com/artist/0DnzwTQFyxjR4Dnvn6zckz) | [Never walk away](https://open.spotify.com/album/3o40tfZQqJNrohFB0Y032a) | 2:07 | 2025-06-02 | 2025-10-23 |
-| [New Babe](https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc), [min](https://open.spotify.com/artist/66gNzDwsUTdKBVcq1cZg5g) | [New Babe](https://open.spotify.com/album/0ImDEqYg2Mc8T3c6q7DvdP) | 3:06 | 2026-01-22 |  |
+| [New Babe](https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc), [min](https://open.spotify.com/artist/66gNzDwsUTdKBVcq1cZg5g) | [New Babe](https://open.spotify.com/album/0ImDEqYg2Mc8T3c6q7DvdP) | 3:06 | 2026-01-22 | 2026-06-04 |
 | [Next Door](https://open.spotify.com/track/5wqPCOdRrcTitxgPP23G9o) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Next Door](https://open.spotify.com/album/0TaAh5f5eAFwJDsxRCpuBW) | 3:28 | 2025-06-20 | 2025-10-23 |
 | [NI](https://open.spotify.com/track/1YPBwYpIgQHTaNA7Lzbju7) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [NI](https://open.spotify.com/album/5Dr99ei10zLhwbmYS4ndhf) | 3:19 | 2023-01-13 | 2023-07-08 |
 | [Night & Day](https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [We Will Meet Again](https://open.spotify.com/album/0PfezZ9IzgTP74n8tPDZcv) | 4:05 | 2024-08-06 | 2024-10-28 |
@@ -566,6 +566,7 @@
 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 | 2023-01-20 | 2023-08-18 |
 | [To Mars](https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [To Mars](https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR) | 2:44 | 2026-04-13 |  |
 | [To you](https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [To you](https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us) | 2:52 | 2023-10-05 | 2024-01-09 |
+| [To You Who Want My Downfall](https://open.spotify.com/track/5zk55KR533Us6j3XibdzHc) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [To You Who Want My Downfall](https://open.spotify.com/album/32C6eogH4cKjn5pcKePJ8v) | 2:22 | 2026-06-03 |  |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 | 2024-04-19 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 | 2022-08-19 |
 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-05 | 2026-02-06 |

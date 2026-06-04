@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment.
 
-529 songs - 1 day 4 hr 5 min
+530 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [BARAKA](https://open.spotify.com/track/6QzkkBwWeunfJbebhbdsU3) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [BARAKA](https://open.spotify.com/album/6l7VifF84WiHJSGZkRkEqs) | 3:42 | 2023-08-10 | 2023-09-05 |
 | [Bayen](https://open.spotify.com/track/6GW9c4VOXzxfODQEVtkaP7) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Bayen](https://open.spotify.com/album/7338ZC7BoYblLtLrQlDhcE) | 3:18 | 2022-03-17 | 2022-04-19 |
 | [Beddala](https://open.spotify.com/track/69cjzbiudXhEtBYBhJUEWC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [Beddala](https://open.spotify.com/album/4EWfuGu8HHGGJMsI7IYeLB) | 3:02 | 2023-09-04 | 2023-09-19 |
+| [BEKHER](https://open.spotify.com/track/3pltTHpNDf2McNqokcSehx) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:04 | 2026-06-03 |  |
 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 | 2025-05-20 |  |
 | [BERRANI](https://open.spotify.com/track/5fRt5UJxP854arL5XEgL5l) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [BERRANI](https://open.spotify.com/album/1E6ZveeUUKohVOqgple86P) | 3:54 | 2025-02-12 | 2025-05-21 |
 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2023-12-07 | 2023-12-18 |
@@ -270,7 +271,7 @@
 | [Lalla Mennana](https://open.spotify.com/track/74rFUc4KZDPKrtD5YG2G4Q) | [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [Lalla Mennana](https://open.spotify.com/album/7uJvaQeSr6MSx4fZ1p2W7k) | 2:25 | 2026-02-23 | 2026-03-07 |
 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-08-28 | 2025-07-20 |
 | [LAMARA](https://open.spotify.com/track/2L3tTR70X3MTvBbU3Mcor6) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [LAMARA](https://open.spotify.com/album/2kWkiUrRJmA6ovFfiOCeGG) | 2:59 | 2026-05-25 |  |
-| [LAMERDE](https://open.spotify.com/track/50AvoJ1XVw5HYEHkTBkr2v) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:51 | 2026-05-28 |  |
+| [LAMERDE](https://open.spotify.com/track/50AvoJ1XVw5HYEHkTBkr2v) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:51 | 2026-05-28 | 2026-06-04 |
 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 | 2025-08-14 | 2025-11-23 |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-01-03 | 2024-02-09 |
 | [Laylat al Wadaa](https://open.spotify.com/track/5pnrABiuf2UCKTzqWZWUbX) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Laylat al Wadaa](https://open.spotify.com/album/2NPFHCepSLLWzmfPWO6uYQ) | 2:57 | 2026-04-25 | 2026-05-10 |

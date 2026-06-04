@@ -1,6 +1,6 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: NMIXX, Anderson. Paak)",
-  "num_followers": 506356,
+  "num_followers": 506349,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-05-30 03:27:16",
       "album": {
-        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
-        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
-      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": "2026-05-30 03:27:16",
-      "album": {
         "name": "Supernova Love",
         "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
+    },
+    {
+      "added_at": "2026-05-30 03:27:16",
+      "album": {
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "added_at": "2026-05-30 03:27:16",
@@ -799,7 +799,7 @@
     {
       "added_at": "2026-05-30 03:27:16",
       "album": {
-        "name": "CxM 1st Mini Album \u2018HYPE VIBES\u2019",
+        "name": "HYPE VIBES",
         "url": "https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55"
       },
       "artists": [

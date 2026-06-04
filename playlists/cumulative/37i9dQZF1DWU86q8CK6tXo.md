@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  Slayyyter
 
-2,235 songs - 5 day 0 hr 48 min
+2,236 songs - 5 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,7 @@
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-03 | 2023-06-08 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-01-04 | 2023-02-02 |
 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 | 2022-09-12 | 2022-10-06 |
-| [Find My Way Back](https://open.spotify.com/track/7iDH7KhxWHGSUmOZHvM0Dr) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Find My Way Back](https://open.spotify.com/album/7D4pULZd24AwY40F8DJaLo) | 3:50 | 2026-06-02 |  |
+| [Find My Way Back](https://open.spotify.com/track/7iDH7KhxWHGSUmOZHvM0Dr) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Find My Way Back](https://open.spotify.com/album/7D4pULZd24AwY40F8DJaLo) | 3:50 | 2026-06-02 | 2026-06-04 |
 | [Find My Way to You](https://open.spotify.com/track/0tiAU9jA7mwaOZ6UEA888d) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Standing on the Fault Line](https://open.spotify.com/album/2QRDinotGiaDwxV5aZ7e4I) | 3:20 | 2025-05-27 | 2025-06-05 |
 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 | 2023-06-07 | 2023-07-06 |
 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 | 2025-08-04 | 2025-10-02 |
@@ -2086,6 +2086,7 @@
 | [Waldo](https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Waldo](https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH) | 2:54 | 2025-08-04 | 2025-09-02 |
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-16 | 2024-10-02 |
 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 | 2024-10-01 | 2024-11-02 |
+| [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 | 2026-06-02 |  |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 | 2024-05-01 | 2024-06-01 |
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-06-01 | 2022-07-07 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-08 | 2022-04-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,496 songs - 10 day 0 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,498 songs - 10 day 0 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4504,5 +4504,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4494 | [Paramount](https://open.spotify.com/track/1MNWQKYwZp0eIAXW71Hd15) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Lifelines](https://open.spotify.com/album/4Ld3pZ6yTQ504LgUKMUmio) | 4:11 |
 | 4495 | [Enemies](https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [HEXE](https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm) | 3:18 |
 | 4496 | [Daisy Chain](https://open.spotify.com/track/4y8MuL6L7lOvRoqouYvzkU) | [Widows Peak!](https://open.spotify.com/artist/2gDRzqbTrY7TBnKxt3xI4Y) | [Daisy Chain](https://open.spotify.com/album/5cSHUqZebXpRoaH0F6dQDm) | 3:08 |
+| 4497 | [Konga Talk](https://open.spotify.com/track/3N5dJflQ3zvAKaZpEu9drD) | [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Feel That Call](https://open.spotify.com/album/3ZkUwkwwaGv3XZlOuojERe) | 3:16 |
+| 4498 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 |
 
-Snapshot ID: `AAAIyI9yzD8SUPfLkiQrBxiFX/TrZvJy`
+Snapshot ID: `AAAIytlQuvVC4e+U5W61ZNxD01cbCz2x`

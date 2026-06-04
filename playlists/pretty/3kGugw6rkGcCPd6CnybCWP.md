@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 108 songs - 6 hr 15 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 114 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 106 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 |
 | 107 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 |
 | 108 | [Here to Stay](https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7) | [Here to Stay](https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6) | 3:01 |
+| 109 | [Left on Red](https://open.spotify.com/track/7hvIooRdwasrzBFf1zuzMi) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Left on Red](https://open.spotify.com/album/1oYLH8UaTxWb2mQawgCAci) | 4:38 |
+| 110 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
+| 111 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
+| 112 | [don't take this all for granted](https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi) | [rose wallace goldaline](https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD) | [don't take this all for granted](https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35) | 3:22 |
+| 113 | [That Sunshine's Mine](https://open.spotify.com/track/4YgD5fStfkqqjkfL15Tygk) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/13HsxjVBJF860WS0HcZBV7) | 2:37 |
+| 114 | [The Estranged](https://open.spotify.com/track/0IhmIWv38VW2gsEdy3bIzy) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [The Estranged](https://open.spotify.com/album/3YFMGfbbtqHJOzwe7zCesK) | 4:06 |
 
-Snapshot ID: `AAAO/aG2oV/3fTgHUlEC9yCqRboTwSie`
+Snapshot ID: `AAAPA9SnFayDvGCXXapOfNFZX3y07Uju`

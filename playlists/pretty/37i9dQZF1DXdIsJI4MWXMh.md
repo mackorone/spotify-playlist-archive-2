@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,114 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,120 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 58 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 |
 | 59 | [El Último Trago](https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR) | [Ramón Rimac](https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN) | [Me Voy a Emborrachar](https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW) | 2:40 |
 | 60 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 |
-| 61 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
-| 62 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
+| 61 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
+| 62 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
 | 63 | [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 |
 | 64 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 |
 | 65 | [Golero Emparamao](https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [Golero Emparamao](https://open.spotify.com/album/35DKFImacmTdYePcu2utI7) | 4:28 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 77 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 |
 | 78 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 |
 | 79 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |
-| 80 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 |
-| 81 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 |
+| 80 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 |
+| 81 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 |
 | 82 | [Estoy Con Otro en la Cama](https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Estoy Con Otro en la Cama](https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1) | 3:19 |
 | 83 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
 | 84 | [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 |

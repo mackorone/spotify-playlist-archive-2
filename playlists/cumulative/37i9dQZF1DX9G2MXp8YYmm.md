@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Tuğba Özerk
 
-603 songs - 1 day 6 hr 37 min
+604 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 | 2024-08-22 | 2024-10-11 |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 | 2024-09-06 |
 | [Issız Duvarlar](https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Issız Duvarlar](https://open.spotify.com/album/6zyInuDlsBKGYXwK5IhpR9) | 2:59 | 2025-05-29 |  |
+| [İhanet](https://open.spotify.com/track/3dR9YEPi2Or5atvqfS4jcA) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İhanet](https://open.spotify.com/album/3hbhhLrt7tloTR1awunqBh) | 2:54 | 2026-05-22 |  |
 | [İlaç](https://open.spotify.com/track/6RRRcmV4Vu4AfuImAxIJc6) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [İlaç](https://open.spotify.com/album/3ehOYFz1tCCCUWNDTps4Hb) | 2:44 | 2025-01-16 | 2025-01-24 |
 | [İlk Görüşte Diyenler](https://open.spotify.com/track/2Nl4cwR8yS6DOhm1EPiLYD) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [İlk Görüşte Diyenler](https://open.spotify.com/album/72X7xDZufFTCg3zxNOCYtV) | 2:33 | 2025-09-04 | 2025-09-19 |
 | [İLLET](https://open.spotify.com/track/7syhC3Xm19FmCvdBn0OhCb) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [İLLET](https://open.spotify.com/album/157x0FbZg7xCelE3G1v8Pe) | 2:08 | 2025-10-09 | 2025-10-17 |
@@ -346,7 +347,7 @@
 | [Kurşun Adres Sormaz Ki](https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Akustik 2](https://open.spotify.com/album/0Iy1sZOXc3JBSE7HOuHdzs) | 5:28 | 2025-11-13 | 2026-04-10 |
 | [KUSURA BAKMA](https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KUSURA BAKMA](https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf) | 2:37 | 2025-11-27 |  |
 | [Kutuplar](https://open.spotify.com/track/6enbvLSRJJbmcovxPheEC2) | [Murat Güneş](https://open.spotify.com/artist/61F5kPiTYCmmRJprI90WCs), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kutuplar](https://open.spotify.com/album/6EbgIudVop3N3cyyuX5ihF) | 3:00 | 2025-08-21 | 2025-09-05 |
-| [Kutupta Yaz Gibi](https://open.spotify.com/track/7Bjo9sOCMs5Uk0Y7jpZHod) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:18 | 2026-04-23 |  |
+| [Kutupta Yaz Gibi](https://open.spotify.com/track/7Bjo9sOCMs5Uk0Y7jpZHod) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:18 | 2026-04-23 | 2026-06-04 |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-22 | 2026-04-10 |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
 | [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 | 2026-01-29 | 2026-05-12 |

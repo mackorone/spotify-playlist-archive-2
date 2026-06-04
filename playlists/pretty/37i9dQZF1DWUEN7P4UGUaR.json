@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17610,
+  "num_followers": 17622,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 259588,
-      "name": "SEE ME THROUGH (RECOVERY)",
-      "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "God Reigns",
         "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192027,
       "name": "You Saved Me",
       "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 259588,
+      "name": "SEE ME THROUGH (RECOVERY)",
+      "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Mile (I Know)",
         "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 342685,
       "name": "Mile (I Know)",
       "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
     },
     {
       "added_at": "2026-03-12 23:38:53",

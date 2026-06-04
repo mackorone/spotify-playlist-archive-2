@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71305,
+  "num_followers": 71303,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Allting ordnar sig",
-        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
-      },
-      "artists": [
-        {
-          "name": "Achee Flips",
-          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
-        },
-        {
-          "name": "Rob Bourne",
-          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Allting ordnar sig",
-      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Weh Dem A Gwaan",
         "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Allting ordnar sig",
+        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+      },
+      "artists": [
+        {
+          "name": "Achee Flips",
+          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+        },
+        {
+          "name": "Rob Bourne",
+          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Allting ordnar sig",
+      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Orginalo",
-        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orginalo",
-      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -743,22 +747,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "K\u00e4rlek & Verkan",
-        "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
+        "name": "Orginalo",
+        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
       "artists": [
         {
-          "name": "Efia Abu",
-          "url": "https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy"
-        },
-        {
-          "name": "Dr\u00f6mbandet",
-          "url": "https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 313346,
-      "name": "I mitt hj\u00e4rta d\u00e4r bor gud",
-      "url": "https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo"
+      "duration_ms": 186666,
+      "name": "Orginalo",
+      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -783,22 +783,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+        "name": "K\u00e4rlek & Verkan",
+        "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
       },
       "artists": [
         {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+          "name": "Efia Abu",
+          "url": "https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy"
         },
         {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+          "name": "Dr\u00f6mbandet",
+          "url": "https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW"
         }
       ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
+      "duration_ms": 313346,
+      "name": "I mitt hj\u00e4rta d\u00e4r bor gud",
+      "url": "https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo"
     },
     {
       "added_at": "2024-06-24 11:19:01",

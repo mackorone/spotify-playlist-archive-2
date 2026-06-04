@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "The Lure",
+        "url": "https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku"
+      },
+      "artists": [
+        {
+          "name": "Neal Hooks & The Pocomoke Sound",
+          "url": "https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Bayou Icarus",
+      "url": "https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i"
+    },
+    {
+      "album": {
         "name": "Be Able to Love",
         "url": "https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo"
       },

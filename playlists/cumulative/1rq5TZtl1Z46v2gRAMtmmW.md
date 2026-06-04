@@ -4,7 +4,7 @@
 
 > 
 
-528 songs - 1 day 10 hr 11 min
+530 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-13 |  |
 | [LADY](https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [LADY](https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi) | 3:44 | 2023-06-07 | 2023-09-06 |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 | 2022-06-29 |
+| [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 | 2026-06-03 |  |
 | [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 | 2022-08-03 | 2022-08-24 |
 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 | 2025-10-17 | 2025-11-07 |
 | [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-16 | 2024-08-01 |
@@ -333,6 +334,7 @@
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 | 2025-09-18 |
 | [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 | 2025-09-08 |  |
 | [Mr Rain](https://open.spotify.com/track/2YuezDnHILhFMwwvZoWv0m) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Mr Rain](https://open.spotify.com/album/5yqR98yFe70XgYfBOe4iAg) | 3:44 | 2025-03-26 | 2025-04-01 |
+| [Mudhole](https://open.spotify.com/track/6measgcwVZxbpSkySsQM93) | [Captain Murphy](https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX) | [Mudhole](https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x) | 2:33 | 2026-06-03 |  |
 | [munerah](https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:42 | 2023-03-24 | 2023-07-29 |
 | [Munitions](https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Munitions](https://open.spotify.com/album/7tTVaKHuBq94fj2RBplMYo) | 3:44 | 2023-10-03 | 2023-10-17 |
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 | 2022-07-06 |

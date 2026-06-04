@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,236 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,270 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 89 | [Glow](https://open.spotify.com/track/3d0Mo5IQIOorEjBZLeI0qB) | [Mauro Petrone](https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5) | [Glow](https://open.spotify.com/album/1c1rAwcCJlRAhAvHxSc3Iq) | 2:40 |
 | 90 | [Reminiscing Hearts](https://open.spotify.com/track/6YfViY3EL57dtCnLlAAneM) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Reminiscing Hearts](https://open.spotify.com/album/4vF15grtrtvIXCWVtEZm7t) | 3:03 |
 
-Snapshot ID: `AAAAABjJ5QwayaCOGuJMBLZD2H2/myoe`
+Snapshot ID: `AAAAAK0p+V/ULZcnaBt1ep5vddwX3xAQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3396961,
+  "num_followers": 3400841,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADzwbKws9WyLJ6bYqMhFvnI",
+  "snapshot_id": "ah4dAAAAAABmqbHAlBD8rA/A5OjIX1AK",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7s51HyYKRGWqkH1UWnApHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -651,22 +635,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
       },
       "artists": [
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 253784,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+      "duration_ms": 313066,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7s51HyYKRGWqkH1UWnApHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Michael Jackson",
+        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 224015,
+      "name": "Will You Be There - Single Version",
+      "url": "https://open.spotify.com/track/36O7qmyKLHpUY6WdWh8M5g"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Michael Jackson",
-        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 224015,
-      "name": "Will You Be There - Single Version",
-      "url": "https://open.spotify.com/track/36O7qmyKLHpUY6WdWh8M5g"
+      "duration_ms": 253784,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": null,

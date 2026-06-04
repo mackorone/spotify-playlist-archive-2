@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-392 songs - 1 day 4 hr 18 min
+393 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Calm In The Night](https://open.spotify.com/track/7mWpeGTT745yy3cHA9ra8D) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [井口 寛](https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt) | [Calm In The Night](https://open.spotify.com/album/3olg6BrNWRBPRFb78wocmo) | 2:25 | 2026-01-09 |  |
 | [Candy Floss](https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 2:58 | 2022-12-30 | 2023-08-19 |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
-| [CATTLE](https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [CATTLE](https://open.spotify.com/album/4n86SabGo3rJfbAgnPqBm4) | 1:38 | 2026-03-25 |  |
+| [CATTLE](https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [CATTLE](https://open.spotify.com/album/4n86SabGo3rJfbAgnPqBm4) | 1:38 | 2026-03-25 | 2026-06-04 |
 | [Cave](https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Glow In The Dark](https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl) | 4:44 | 2023-01-20 |  |
 | [Celeste = Sky Blue](https://open.spotify.com/track/77AxYrrtLw02YTBZvSvota) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 5:02 | 2023-03-03 |  |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
@@ -239,6 +239,7 @@
 | [orei](https://open.spotify.com/track/2jq6SDNBxog4cBkAeElVjd) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Ukatu](https://open.spotify.com/album/0q439Ua2fXGsQj3ysOX0p1) | 2:33 | 2023-09-22 |  |
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2022-12-30 | 2023-08-19 |
 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 | 2023-01-27 |  |
+| [PALE](https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [PALE](https://open.spotify.com/album/1HVXQw4eQIMJAgrEhaIg9l) | 2:53 | 2026-05-30 |  |
 | [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
 | [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |

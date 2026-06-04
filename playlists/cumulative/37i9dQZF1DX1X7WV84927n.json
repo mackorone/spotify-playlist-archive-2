@@ -5609,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/44uf6ReoSUMq9Y0vT0WyHV"
+      },
+      "artists": [
+        {
+          "name": "KVDE",
+          "url": "https://open.spotify.com/artist/7LbTZYchucOLgMw1VpHMpO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239419,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/15dSwo3aENIYiPz2eo0bAr"
+    },
+    {
+      "album": {
         "name": "Damage Done",
         "url": "https://open.spotify.com/album/5feMjfArxsii4uJHF6Tnxt"
       },
@@ -20986,7 +21004,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 218988,
       "name": "Put Me In A Padded Room",
       "url": "https://open.spotify.com/track/3gWyXmPr8MO1JclKZYSJIC"

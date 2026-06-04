@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Ayase
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,919 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,906 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [Phantom](https://open.spotify.com/track/4k0VIBiPnlJG8GxwtAekXv) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [Phantom](https://open.spotify.com/album/4geMK7tggrzMxOijT7CNrh) | 3:08 |
 | 70 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 |
 
-Snapshot ID: `AAAAAIwrTS65jcuq36ipSA0HeiUOzgue`
+Snapshot ID: `AAAAAGTE/1JsfWxL8L4GLtk4fuq1H1kx`

@@ -5871,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Muth Honey",
+        "url": "https://open.spotify.com/album/4BF8f0TEV3PHYAEpdN80IF"
+      },
+      "artists": [
+        {
+          "name": "ASHKAR",
+          "url": "https://open.spotify.com/artist/0yitkCbs1vjgzFMmtpCJI0"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168749,
+      "name": "Muth Honey",
+      "url": "https://open.spotify.com/track/4vhQZRZhSOcpUvMrM3v1wr"
+    },
+    {
+      "album": {
         "name": "Muthaane Chankaane",
         "url": "https://open.spotify.com/album/3wapPDa33i6aNhNGHuyaTS"
       },

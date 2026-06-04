@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Bollywood songs that ruled hearts in the Y2K decade\. Cover \- Jab We Met
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,831,911 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,832,339 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 | 22 | [Falak Tak](https://open.spotify.com/track/0IudGhdeJZwJ0Ps6ndtQDt) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Tashan](https://open.spotify.com/album/59p4XN8mbKxNCoY5nQJyN5) | 5:56 |
 | 23 | [Mann Ki Lagan](https://open.spotify.com/track/0s8fGVzyn6URNrUVwCE3dV) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Paap](https://open.spotify.com/album/6ZtaO3graLTvGff04zJp5k) | 4:51 |
 | 24 | [Jo Bhi Kasmein](https://open.spotify.com/track/6NfXjIsNGXaRaDzdbdxY4m) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Raaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Q5dbM6TBcyzO05kUx2jJ3) | 5:39 |
-| 25 | [Jashn\-E\-Bahaaraa](https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 5:15 |
-| 26 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 |
+| 25 | [Beete Lamhein](https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [The Train](https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP) | 4:58 |
+| 26 | [Jashn\-E\-Bahaaraa](https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 5:15 |
 | 27 | [Jab Se Tere Naina](https://open.spotify.com/track/0gRNu9dVzi5aC87AI1empZ) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Saawariya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4E6rpd9IcOfe6X8mErzVxf) | 4:44 |
 | 28 | [Pehli Nazar Mein](https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 5:12 |
 | 29 | [Masakali](https://open.spotify.com/track/5iyNH1Dmxif1k4Nl1gMeuh) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 4:48 |

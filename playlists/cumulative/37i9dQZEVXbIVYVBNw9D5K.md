@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,555 songs - 3 day 6 hr 13 min
+1,556 songs - 3 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-11 | 2025-09-24 |
 | [Aşk Şarkısı \- Live](https://open.spotify.com/track/7E3YAVF3A7Shm7w2p3Np1Z) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Ayda](https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b) | [Aşk Şarkısı \(Live\)](https://open.spotify.com/album/6ScilctPqH09aFRBeIhA1I) | 3:53 | 2022-09-08 | 2023-01-16 |
+| [Aşka Yürek Gerek \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/2eWqsm3L7DQNdPqle9vDwd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW), [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşka Yürek Gerek \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/0NbHs8elAl4wA9e4XOxlPO) | 3:13 | 2026-06-03 |  |
 | [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 | 2026-05-19 |  |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
@@ -1246,7 +1247,7 @@
 | [Senden Yoksun](https://open.spotify.com/track/1wkZE2BMcfLOajVp5eifgN) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Senden Yoksun](https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST) | 3:20 | 2022-11-26 | 2022-11-29 |
 | [Seni Bana Katsam](https://open.spotify.com/track/1P9oNuhkq4ZMzJB6AkOvbS) | [Neco](https://open.spotify.com/artist/7zOtD8R69X5cikWdL1oWFW) | [En İyileriyle Neco](https://open.spotify.com/album/0pf5571ek20153uAeoHBlf) | 3:28 | 2026-02-18 | 2026-03-03 |
 | [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* | 2024-09-13 |
-| [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 | 2025-07-30 |  |
+| [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 | 2025-07-30 | 2026-06-04 |
 | [Seni Her Gördüğümde](https://open.spotify.com/track/5MAv1RGwsagnfxgzB1nYqz) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Mesafeler](https://open.spotify.com/album/3pJ9WVk6gzk3mgNjecQf35) | 3:19 | 2023-08-09 | 2023-08-11 |
 | [Seni Kalbimden Kovdum](https://open.spotify.com/track/34pNakIoVQSuTccHUj1m1q) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 5:19 | 2022-03-14 | 2022-03-18 |
 | [Seni Kendime Sakladım](https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Seni Kendime Sakladım](https://open.spotify.com/album/2gvskYWFqq1fW8scp1kdsj) | 4:02 | 2021-10-31 | 2021-11-03 |

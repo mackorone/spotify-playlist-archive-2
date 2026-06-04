@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: H\u00e9ra Barnab\u00e1s",
-  "num_followers": 16606,
+  "num_followers": 16609,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -455,30 +455,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Harmadnap",
-        "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
-      },
-      "artists": [
-        {
-          "name": "Lil Frakk",
-          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
-        },
-        {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
-        },
-        {
-          "name": "SOMODY",
-          "url": "https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB"
-        }
-      ],
-      "duration_ms": 156633,
-      "name": "Cricket",
-      "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "nemveledvanagond",
         "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 202065,
       "name": "Vadnyugati",
       "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "Harmadnap",
+        "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
+      },
+      "artists": [
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+        },
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        },
+        {
+          "name": "SOMODY",
+          "url": "https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB"
+        }
+      ],
+      "duration_ms": 156633,
+      "name": "Cricket",
+      "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -583,8 +583,8 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Jerik\u00f3",
-        "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
+        "name": "Tegnapr\u00f3l",
+        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
       "artists": [
         {
@@ -592,17 +592,13 @@
           "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
-        },
-        {
-          "name": "OB",
-          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Jerik\u00f3",
-      "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+      "duration_ms": 179580,
+      "name": "\u00dct\u00f6tt kopott",
+      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -679,8 +675,8 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Tegnapr\u00f3l",
-        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
+        "name": "Jerik\u00f3",
+        "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
       "artists": [
         {
@@ -688,13 +684,17 @@
           "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         },
         {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        },
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt"
         }
       ],
-      "duration_ms": 179580,
-      "name": "\u00dct\u00f6tt kopott",
-      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+      "duration_ms": 162000,
+      "name": "Jerik\u00f3",
+      "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "T\u00e9lbe \u00e1t",
         "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 161280,
       "name": "T\u00e9lbe \u00e1t",
       "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Reped\u00e9s",
-        "url": "https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk"
-      },
-      "artists": [
-        {
-          "name": "Analog Balaton",
-          "url": "https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "Rajtad",
-      "url": "https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "Itt vagyok",
         "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 164561,
       "name": "Itt vagyok",
       "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "Csillagb\u00f3l f\u00e9ny",
+        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 251423,
+      "name": "Csillagb\u00f3l f\u00e9ny",
+      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Csillagb\u00f3l f\u00e9ny",
-        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
+        "name": "Reped\u00e9s",
+        "url": "https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Analog Balaton",
+          "url": "https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ"
         }
       ],
-      "duration_ms": 251423,
-      "name": "Csillagb\u00f3l f\u00e9ny",
-      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
-        "name": "Takarj el",
-        "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
-      },
-      "artists": [
-        {
-          "name": "Esti Korn\u00e9l",
-          "url": "https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m"
-        }
-      ],
-      "duration_ms": 273362,
-      "name": "Takarj el",
-      "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
+      "duration_ms": 269226,
+      "name": "Rajtad",
+      "url": "https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Var\u00e1zsl\u00f3",
-        "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
+        "name": "Takarj el",
+        "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
       },
       "artists": [
         {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
-        },
-        {
-          "name": "DO\u00d3R",
-          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+          "name": "Esti Korn\u00e9l",
+          "url": "https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Var\u00e1zsl\u00f3",
-      "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
+      "duration_ms": 273362,
+      "name": "Takarj el",
+      "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1331,6 +1311,26 @@
       "duration_ms": 171034,
       "name": "chill cheez brgr",
       "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "Var\u00e1zsl\u00f3",
+        "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Var\u00e1zsl\u00f3",
+      "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
     },
     {
       "added_at": "2026-05-14 22:01:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41956,
+  "num_followers": 41963,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABjAiLWG0ma6r1urJGXGoeq",
+  "snapshot_id": "ah4dAAAAAADTEDsy22Nx6DZE57UZ4Y5w",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 173102,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hotel 506",
         "url": "https://open.spotify.com/album/5aZWdmJVIiPNt5QyFmcEx2"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 198647,
       "name": "maldita canci\u00f3n (de pop)",
       "url": "https://open.spotify.com/track/0DbaeWz1sOwitDac8Pc4V8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 173102,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+      "duration_ms": 168706,
+      "name": "Hasta Morir",
+      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
     },
     {
       "added_at": null,
@@ -499,38 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Hasta Morir",
-      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 276933,
       "name": "Todos Quieren Ser Un Gato Jazz",
       "url": "https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
     },
     {
       "added_at": null,

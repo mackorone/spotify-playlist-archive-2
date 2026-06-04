@@ -2,9 +2,9 @@
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara, Blingos
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-177 songs - 10 hr 13 min
+178 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cop](https://open.spotify.com/track/1LrlGi0clbgSmgYwc9zkDh) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cop](https://open.spotify.com/album/4cWdsPhA2c0nSUeFTVOSgp) | 3:29 | 2025-07-10 | 2025-07-22 |
 | [DENYA](https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [DENYA](https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV) | 6:00 | 2025-02-01 | 2026-02-04 |
 | [Dernier But](https://open.spotify.com/track/3kMhlmBTwtJZpnQ0fRusIm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Dernier But](https://open.spotify.com/album/5sQkqxcvyC4hJBlvWx0Gro) | 3:04 | 2024-12-21 | 2025-10-08 |
+| [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 | 2026-06-03 |  |
 | [Dmou3 Ellil](https://open.spotify.com/track/7lPKZ2HWDzWezgbSW1UDjW) | [Blidog](https://open.spotify.com/artist/7JZ59mMjiH3FG9SEKqfS8Z) | [Dmou3 Ellil](https://open.spotify.com/album/6U1llPKCElO0niX3VuM3T4) | 3:38 | 2024-02-24 | 2024-09-19 |
 | [Doctorat](https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Doctorat](https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2) | 3:32 | 2026-05-07 |  |
 | [DRILL MENA](https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [DRILL MENA](https://open.spotify.com/album/1NhhAIb1qud4wh9Ih8xkTm) | 2:54 | 2024-02-24 | 2025-07-05 |
@@ -178,7 +179,7 @@
 | [Wink](https://open.spotify.com/track/1Ap8lLNB2GTqPkDNA9tNTu) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wink](https://open.spotify.com/album/5tUvADNs95L0VWJ0MR2uSz) | 3:37 | 2025-01-06 | 2025-02-02 |
 | [XIAO LING](https://open.spotify.com/track/3fCtk4uIKr22llWLIkdwZI) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [SH](https://open.spotify.com/artist/0LyUL4NatcED0cZJuuZ447) | [COMEBACKSZN](https://open.spotify.com/album/5dOKhOVNfrD1JFqBKQZ7YI) | 2:31 | 2025-10-21 |  |
 | [Ya Ghali](https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 3:12 | 2024-10-31 | 2025-02-22 |
-| [YA LATIF](https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [YA LATIF](https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j) | 2:54 | 2024-11-08 |  |
+| [YA LATIF](https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [YA LATIF](https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j) | 2:54 | 2024-11-08 | 2026-06-04 |
 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 | 2024-10-10 | 2025-10-22 |
 | [YOU BETTER KNOW](https://open.spotify.com/track/3HL9UzSrHbNmmZCknkIsBR) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [YOU BETTER KNOW](https://open.spotify.com/album/42Bs6xKuidXffHTFOAM89H) | 2:28 | 2025-01-09 | 2025-02-18 |
 | [Youm Wara Youm](https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/1rcdwiwJpjLasS3JRKpwQW) | 3:44 | 2024-08-28 | 2024-11-27 |

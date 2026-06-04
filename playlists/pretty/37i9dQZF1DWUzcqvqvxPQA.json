@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 32854,
+  "num_followers": 32865,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "God Is For Me",
-        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 164309,
-      "name": "God Is For Me",
-      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 112497,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "God Is For Me",
+        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 164309,
+      "name": "God Is For Me",
+      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Praise The Lord (Sunday Prelude)",
         "url": "https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo"
       },
@@ -543,26 +559,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Meant For Good",
-      "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -579,18 +575,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
       "artists": [
         {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
+      "duration_ms": 214200,
+      "name": "Meant For Good",
+      "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -691,18 +691,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Love Me To Life",
-        "url": "https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
       "artists": [
         {
-          "name": "Lee Vasi",
-          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 150662,
-      "name": "Love Me Anyway",
-      "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -727,22 +731,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+        "name": "Love Me To Life",
+        "url": "https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
+      "duration_ms": 150662,
+      "name": "Love Me Anyway",
+      "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Love Me Back to Life",
-        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
-      },
-      "artists": [
-        {
-          "name": "Natalie Layne",
-          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
-        }
-      ],
-      "duration_ms": 167617,
-      "name": "Love Me Back to Life",
-      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "OFFDAYS",
         "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 175968,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Love Me Back to Life",
+        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "duration_ms": 167617,
+      "name": "Love Me Back to Life",
+      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Always Summertime",
+        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Always Summertime",
+      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "ALL THE WAY",
         "url": "https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 160000,
       "name": "ALL THE WAY",
       "url": "https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Always Summertime",
-        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Always Summertime",
-      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 130576,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Give It All",
         "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 174220,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
     },
     {
       "added_at": "2026-05-29 08:59:34",

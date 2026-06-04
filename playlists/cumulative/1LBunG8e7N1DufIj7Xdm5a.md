@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,429 songs - 9 day 20 hr 41 min
+4,431 songs - 9 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2060,6 +2060,7 @@
 | [Kiss of Chaos \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1wCcnCRRiqYCofQS3cqx6j) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:10 | 2025-09-15 |  |
 | [KITTY](https://open.spotify.com/track/0MpA7P0YKOiOENrKTJXN5g) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV), [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [KITTY](https://open.spotify.com/album/2TL7CLDNkMxB20Gi5AzuPJ) | 2:34 | 2026-01-04 |  |
 | [KOFFIN](https://open.spotify.com/track/5eQDHVe4sINNQU5DHgnRP2) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KOFFIN](https://open.spotify.com/album/2JmTjfYuJztSXJRgqPVqTu) | 2:28 | 2025-07-03 |  |
+| [Konga Talk](https://open.spotify.com/track/3N5dJflQ3zvAKaZpEu9drD) | [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Feel That Call](https://open.spotify.com/album/3ZkUwkwwaGv3XZlOuojERe) | 3:16 | 2026-06-03 |  |
 | [Kontrol](https://open.spotify.com/track/0G6I5FZ1pDWf9khtsjGisV) | [Du'mi](https://open.spotify.com/artist/2qX18UhF8UwGR9XvReiLw5) | [Kontrol](https://open.spotify.com/album/2wiyEel0DsxecBFpTDsAv8) | 2:40 | 2025-05-23 |  |
 | [Krazy Fly](https://open.spotify.com/track/63fTDMggPOZl8KFLWFE3en) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Krazy Fly](https://open.spotify.com/album/0nw5Lh2StuDmifWAH4dWxt) | 3:54 | 2025-05-27 |  |
 | [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 | 2026-02-11 |  |
@@ -4231,6 +4232,7 @@
 | [Well Traveled](https://open.spotify.com/track/6eJhXvPmlzy58HjFu9zjsG) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175) | 2:46 | 2025-05-16 |  |
 | [Wendigo Psychosis](https://open.spotify.com/track/1GFazlBuOxr1ju7UnwVcD2) | [Wolves of Totem](https://open.spotify.com/artist/1YPgVxpuJHs9FVRejxxKV4) | [Dance of the Dead](https://open.spotify.com/album/7nJFwiZnbSFdxXQ8ZjFeDW) | 4:33 | 2025-07-03 |  |
 | [What About Us?](https://open.spotify.com/track/0knAZRU1iJZP3gaFwdCs8b) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Forbidden Woods](https://open.spotify.com/album/3HT4YfGFtwwGn2KfYZi41h) | 4:25 | 2026-01-09 |  |
+| [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2026-06-03 |  |
 | [What You Tryin To Prove](https://open.spotify.com/track/11eC3QgjEfAe3nkaGa92cU) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [What You Tryin To Prove](https://open.spotify.com/album/4wHO4Iw8b4z3r9NsFzdDj8) | 4:04 | 2025-05-11 |  |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-06-20 |  |
 | [When the Dust Settles](https://open.spotify.com/track/14UJ4wYdOJnsxehkPamTh2) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [When the Dust Settles](https://open.spotify.com/album/6XWmwSASV5UpKocQ9YZqn8) | 3:07 | 2025-11-29 |  |

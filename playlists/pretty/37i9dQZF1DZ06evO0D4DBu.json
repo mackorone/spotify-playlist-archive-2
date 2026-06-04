@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211160,
+  "num_followers": 211156,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADfUd0SypmrsiQlXyqdeuKI",
+  "snapshot_id": "ah4dAAAAAACApeu5thNtjW0Pl/NSxVZt",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 216312,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 234614,
       "name": "Bad Idea (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 216312,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "iiiDrops",
-        "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
-      },
-      "artists": [
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Girls @ (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 284855,
       "name": "Best Life (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "iiiDrops",
+        "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Girls @ (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
     },
     {
       "added_at": null,
@@ -1067,18 +1067,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
       },
       "artists": [
         {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Donnie Trumpet",
+          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
         }
       ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
+      "duration_ms": 243546,
+      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

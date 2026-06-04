@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de mayo 2026. Cover: Rels B",
-  "num_followers": 1558843,
+  "num_followers": 1558674,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Aquel diciembre",
+      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
         "name": "Euforia",
         "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 162415,
       "name": "EA EA EA",
       "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
-        "name": "Do Not Disturb: Late Checkout",
-        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "Aquel diciembre",
-      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 177038,
-      "name": "EL SENTRITA",
-      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "Ruca",
         "url": "https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 181451,
       "name": "Ruca",
       "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 177038,
+      "name": "EL SENTRITA",
+      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "esperando que vuelvas",
-        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 216594,
-      "name": "esperando que vuelvas",
-      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "Silverado",
         "url": "https://open.spotify.com/album/1AFVBBfgExQd6OKIchabdA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 189257,
       "name": "Silverado",
       "url": "https://open.spotify.com/track/7AiufZydQdIZypUWpiEABD"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "esperando que vuelvas",
+        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 216594,
+      "name": "esperando que vuelvas",
+      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "(enamorada)",
-        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 241704,
-      "name": "(ENAMORADA)",
-      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 140844,
       "name": "aiaiaiaiai",
       "url": "https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "(enamorada)",
+        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "duration_ms": 241704,
+      "name": "(ENAMORADA)",
+      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
     },
     {
       "added_at": "2026-05-29 21:30:24",

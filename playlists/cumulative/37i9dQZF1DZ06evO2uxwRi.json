@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182945,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS"
+    },
+    {
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },

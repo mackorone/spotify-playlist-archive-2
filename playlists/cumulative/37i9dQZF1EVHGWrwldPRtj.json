@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIWpW3jQExM4k>Empire Of The Sun</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 175346,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 268306,
       "name": "All I Need (feat. Beth Hirsch)",
       "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "AM2:00drive (feat. \u30e6\u30a8)",
       "url": "https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 174677,
       "name": "Aurora (feat. \u67ca\u4eba)",
       "url": "https://open.spotify.com/track/2FqbDCeIK0IqqpH5GaiOmV"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 150672,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2S8geKIkrLbO4y6xTxvAVB"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 225990,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
@@ -5734,7 +5734,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -6432,7 +6432,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 115893,
       "name": "Fuck U & Love U",
       "url": "https://open.spotify.com/track/4kgSbWKaGDdUBIMSWrNDEh"
@@ -8614,7 +8614,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "im",
       "url": "https://open.spotify.com/track/5jafdhzNd10OfOgPegnUyU"
@@ -8998,7 +8998,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 250293,
       "name": "Life Easy",
       "url": "https://open.spotify.com/track/2ODmHzrO4q7EmW3ZFv1wD3"
@@ -10318,7 +10318,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 178720,
       "name": "Loop ~One of the BE:ST-03 RYUHEI~",
       "url": "https://open.spotify.com/track/57BJUfvyZtmCu09gPBBO8n"
@@ -11302,7 +11302,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 147370,
       "name": "minority",
       "url": "https://open.spotify.com/track/3ROjXRCm8LZYHgNUYCelc4"
@@ -11356,7 +11356,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 258693,
       "name": "Miree BAY ver.",
       "url": "https://open.spotify.com/track/0QYVAUf6ur5khWWuiDwpMz"
@@ -12758,7 +12758,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 200823,
       "name": "Older",
       "url": "https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i"
@@ -12944,7 +12944,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 196093,
       "name": "ONLY FOR U",
       "url": "https://open.spotify.com/track/7uTLZcZjfN7gMD84L1Y8NZ"
@@ -14396,7 +14396,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 182644,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/3Jc052vtE8uAG1CTN3XPJv"
@@ -14968,7 +14968,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -17642,7 +17642,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -17714,7 +17714,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 176048,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
@@ -17942,7 +17942,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
@@ -19510,7 +19510,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -20434,7 +20434,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 267000,
       "name": "YourSong",
       "url": "https://open.spotify.com/track/3a0WnRbyfI5zDyYWw4tkYd"
@@ -20760,7 +20760,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
@@ -20778,7 +20778,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 269666,
       "name": "\u30ca\u30a4\u30c8\u30aa\u30f3\u30b6\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ"
@@ -20814,7 +20814,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 291880,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo"
@@ -20850,7 +20850,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 201347,
       "name": "\u30ed\u30df\u30b8\u30e5\u30ea",
       "url": "https://open.spotify.com/track/2lxWuvatUl8gkmYvOt094B"

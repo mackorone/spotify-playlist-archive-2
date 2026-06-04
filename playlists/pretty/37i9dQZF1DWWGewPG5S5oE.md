@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 渡辺 貞夫
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,954 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,962 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BUT BEAUTIFUL](https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [BUT BEAUTIFUL](https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq) | 3:46 |
-| 2 | [Sakura](https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq) | [Besties our sounds.](https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE), [Saori Yano](https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly), [Josei](https://open.spotify.com/artist/76XgqcMSZXVRmN4hARCURt) | [Sakura](https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65) | 4:19 |
+| 2 | [Sakura](https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq) | [Besties our sounds.](https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE), [Saori Yano](https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly), [丈青](https://open.spotify.com/artist/2OIV28kmSGmQQUmgjOV5J5) | [Sakura](https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65) | 4:19 |
 | 3 | [Rainbow's End](https://open.spotify.com/track/7wsd88N5KRB2OjSkZLcf4G) | [三田珠理と市川空](https://open.spotify.com/artist/6KsMJkVdTl4AKJmKH1Ooz4), [三田珠理](https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws), [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Rainbow's End](https://open.spotify.com/album/0BpHSTSKw2IdCoMfTbKhdQ) | 4:32 |
 | 4 | [Beacon of Hope](https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ) | [Patrick Bartley's DREAMWEAVER](https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2) | [Beacon of Hope](https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O) | 10:25 |
 | 5 | [In a Spiral](https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [John Connor](https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA) | 5:39 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 40 | [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 |
 | 41 | [SS](https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [SS](https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD) | 3:35 |
 | 42 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
-| 43 | [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 |
-| 44 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
-| 45 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
+| 43 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
+| 44 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
+| 45 | [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 |
 | 46 | [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 |
 | 47 | [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 |
 | 48 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |

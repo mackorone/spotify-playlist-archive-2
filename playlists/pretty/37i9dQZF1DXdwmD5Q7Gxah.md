@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Iceage on the cover 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,446 likes - 155 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,420 likes - 155 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

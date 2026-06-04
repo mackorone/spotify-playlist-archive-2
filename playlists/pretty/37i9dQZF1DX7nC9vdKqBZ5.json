@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1504230,
+  "num_followers": 1504122,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
+        "name": "Pra Voc\u00ea Guardei o Amor",
+        "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Pra Voc\u00ea Guardei o Amor",
+      "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 219728,
       "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "Pra Voc\u00ea Guardei o Amor",
-        "url": "https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Pra Voc\u00ea Guardei o Amor",
-      "url": "https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -615,38 +615,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "Mande um Sinal (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 238374,
-      "name": "Mande um Sinal - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "N\u00e3o Vai Embora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 227415,
       "name": "N\u00e3o Vai Embora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Mande um Sinal (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 238374,
+      "name": "Mande um Sinal - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Milk Box",
-        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
-      },
-      "artists": [
-        {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        }
-      ],
-      "duration_ms": 261256,
-      "name": "Verdadeiro Amor - Studio Sessions",
-      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Milk Box",
+        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 261256,
+      "name": "Verdadeiro Amor - Studio Sessions",
+      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
         "name": "Sutileza",
         "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 266250,
       "name": "N\u00f3s 3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
         "name": "Valeu a Pena (ac\u00fastico)",
         "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "O Sol",
         "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 209000,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1399,26 +1419,6 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
         "name": "Morena (Acoustic Version)",
         "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 200658,
       "name": "Alto Mar - Sessions",
       "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 142857,
       "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2026-05-29 03:00:27",

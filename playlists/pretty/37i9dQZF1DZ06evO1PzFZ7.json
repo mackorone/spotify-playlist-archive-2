@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151632,
+  "num_followers": 151631,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADYxJoNRMeBruEarMPdRKlc",
+  "snapshot_id": "ah4dAAAAAABTVXxMS6EDaf/CVeSOqr+t",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 165656,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/6MO7vgGLIWE1fA40wuDxyV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 238002,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 165656,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/6MO7vgGLIWE1fA40wuDxyV"
     },
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 173033,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Busqu\u00e9",
         "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
       },
@@ -291,28 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 173033,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 153216,
-      "name": "Nadie Se Va Como Lleg\u00f3",
-      "url": "https://open.spotify.com/track/2fjiROtQjoeP1P4Pc905H2"
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+      "duration_ms": 153216,
+      "name": "Nadie Se Va Como Lleg\u00f3",
+      "url": "https://open.spotify.com/track/2fjiROtQjoeP1P4Pc905H2"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
       "duration_ms": 154835,
       "name": "China De Los Ojos Negros",
       "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 179314,
-      "name": "No Quiero Hablar",
-      "url": "https://open.spotify.com/track/7bYR4eZtbDzEK6CPtjzMZQ"
     },
     {
       "added_at": null,
@@ -439,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 179314,
+      "name": "No Quiero Hablar",
+      "url": "https://open.spotify.com/track/7bYR4eZtbDzEK6CPtjzMZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 159058,
-      "name": "Mi\u00e9nteme Bonito",
-      "url": "https://open.spotify.com/track/0P2iuuvO0a9pWhZ40shDDu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -483,26 +467,6 @@
       "duration_ms": 235805,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": null,
@@ -536,9 +500,29 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186460,
-      "name": "Libre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
+      "duration_ms": 159058,
+      "name": "Mi\u00e9nteme Bonito",
+      "url": "https://open.spotify.com/track/0P2iuuvO0a9pWhZ40shDDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186460,
+      "name": "Libre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 160867,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 182858,
       "name": "CASTIGO",
       "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,

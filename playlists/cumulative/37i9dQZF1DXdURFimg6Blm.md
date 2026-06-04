@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-761 songs - 1 day 13 hr 51 min
+762 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2024-03-15 |  |
 | [Big Mad Banger](https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe) | [Big Mad Banger](https://open.spotify.com/album/01j4PfyGgtsEJKJ795Is8u) | 4:12 | 2026-04-17 |  |
 | [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 | 2026-04-24 |  |
+| [Bite Down](https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Bite Down](https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ) | 3:04 | 2026-05-29 |  |
 | [Black & Blue](https://open.spotify.com/track/4sr6SwiKaIc6z90KEPKmzR) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Black & Blue](https://open.spotify.com/album/4xb0NhEvmO2m5YV1sxzTmH) | 2:39 | 2022-01-28 | 2022-07-29 |
 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2022-01-07 | 2022-04-23 |
 | [Blackberries](https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/0F0JTnpQ50g9dVcX2CiNOn) | 2:01 | 2025-07-18 | 2026-04-18 |
@@ -517,7 +518,7 @@
 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 | 2023-01-27 | 2023-02-25 |
 | [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 | 2025-09-26 | 2025-12-14 |
 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 | 2025-07-11 | 2026-04-18 |
-| [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 | 2026-03-13 |  |
+| [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 | 2026-03-13 | 2026-06-04 |
 | [Out of My Mind](https://open.spotify.com/track/2hMto0hWs4hULLbySN6E9o) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Out of My Mind](https://open.spotify.com/album/0YNPKMJVUSf7zj353BakRn) | 2:57 | 2022-03-18 | 2022-04-16 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-01-07 | 2025-09-13 |
 | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/album/2LVHnGD0b6KrJvyGmOuG8Q) | 2:53 | 2022-01-07 | 2022-05-07 |

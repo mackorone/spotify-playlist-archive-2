@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5930,7 +5930,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 160003,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ObtUJspNmBoU4gwm2e8Xr"
@@ -11770,6 +11770,24 @@
       "duration_ms": 32810,
       "name": "Dancing Free",
       "url": "https://open.spotify.com/track/74zVoEQAB2aPYAFQUeq89o"
+    },
+    {
+      "album": {
+        "name": "Dancing in My Daydream",
+        "url": "https://open.spotify.com/album/6sGsuWTMcUxaVcLBlblnl0"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Dancing in My Daydream",
+      "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
     },
     {
       "album": {
@@ -17722,7 +17740,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -22042,7 +22060,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -22060,7 +22078,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -25108,7 +25126,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 196000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3ja2R7aycywOomCJGsyqWc"
@@ -27276,7 +27294,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "I Don't Give a ***",
       "url": "https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj"
@@ -29248,7 +29266,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 146687,
       "name": "Je suis en lambo",
       "url": "https://open.spotify.com/track/79bVhGvzXt0bwTIpKCBggu"
@@ -55492,7 +55510,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -55782,6 +55800,28 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
+        "name": "THE LEFTOVER GUY (Radio)",
+        "url": "https://open.spotify.com/album/5pOwsVDAdAdK6rMk0FW5Tz"
+      },
+      "artists": [
+        {
+          "name": "PAT MELFI",
+          "url": "https://open.spotify.com/artist/6hxTKGVZwDaTUrbeABwapR"
+        },
+        {
+          "name": "The Broken Lantern Band",
+          "url": "https://open.spotify.com/artist/5wToR0APdLhYzAf7tXNOaV"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237616,
+      "name": "THE LEFTOVER GUY - Radio",
+      "url": "https://open.spotify.com/track/4BWXHy6EpeC4IeveFW9jfU"
     },
     {
       "album": {
@@ -58813,6 +58853,24 @@
     },
     {
       "album": {
+        "name": "UNC",
+        "url": "https://open.spotify.com/album/41E1lFhNaXEkWenifVxkiE"
+      },
+      "artists": [
+        {
+          "name": "cmon3tta",
+          "url": "https://open.spotify.com/artist/46irkXKVXuIL5FA29Ys2df"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "UNC",
+      "url": "https://open.spotify.com/track/7ItlNstcbSzZFLZqu188qF"
+    },
+    {
+      "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
@@ -60368,7 +60426,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 292199,
       "name": "Vi\u00f0 Gr\u00f3ttu",
       "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"
@@ -60860,7 +60918,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 168456,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5QyXOQg3UVlvAg8h5SUwlK"

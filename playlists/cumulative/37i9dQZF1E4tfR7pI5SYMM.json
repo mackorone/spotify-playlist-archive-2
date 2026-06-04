@@ -778,7 +778,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 260685,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
@@ -1524,6 +1524,24 @@
       "duration_ms": 252000,
       "name": "Cold Hand",
       "url": "https://open.spotify.com/track/7fVun2Co3aRW5yZxz0ZwMZ"
+    },
+    {
+      "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/1AgeU3WYyP8ecqfIjZcnoP"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177632,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/5Sv84yfmPUvqMHS8WP7dWv"
     },
     {
       "album": {
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 245793,
       "name": "Divine Electronic Doom",
       "url": "https://open.spotify.com/track/35B32sSZ1Ri0O2qQ8ObRKT"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 248000,
       "name": "Doesn't Matter If You Love It Here",
       "url": "https://open.spotify.com/track/4LHVJfoMF3fwGsRQcVkZBv"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 140885,
       "name": "Doubting Zurvan",
       "url": "https://open.spotify.com/track/5ofxmIgOX5p444yzFDsbuh"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 298308,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/0EhvI9u41JDu4CymPT0e4B"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 241558,
       "name": "Frost Upon The Longships",
       "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 138070,
       "name": "F\u00f6rnedringen",
       "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 312000,
       "name": "In The Very Time That Will Rot Us",
       "url": "https://open.spotify.com/track/2s998b6NVcI0zz1FCwy6kG"
@@ -5288,7 +5306,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -7816,7 +7834,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -8126,7 +8144,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8198,7 +8216,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -9634,7 +9652,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 205292,
       "name": "South Side",
       "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
@@ -10428,7 +10446,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10716,7 +10734,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11100,7 +11118,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -11690,7 +11708,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -12260,7 +12278,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 318600,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/57zHnKR4UFKiSl1il0pGhV"
@@ -12592,7 +12610,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 190893,
       "name": "Wing",
       "url": "https://open.spotify.com/track/4BNzJbWFSsRU6OtsdKcjKC"

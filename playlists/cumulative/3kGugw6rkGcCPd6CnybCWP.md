@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-391 songs - 22 hr 36 min
+396 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2026-04-09 | 2026-05-14 |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 | 2026-01-17 |
 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 | 2026-05-15 |  |
+| [don't take this all for granted](https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi) | [rose wallace goldaline](https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD) | [don't take this all for granted](https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35) | 3:22 | 2026-06-03 |  |
 | [Don’t Say No to Hitler](https://open.spotify.com/track/5pfAfzVMrjNvGP4pa4UIeJ) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Don’t Say No to Hitler](https://open.spotify.com/album/5tevGfFQVKch83TcdIHbBf) | 2:41 | 2026-02-07 | 2026-03-10 |
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-08 | 2026-05-14 |
 | [Dread I](https://open.spotify.com/track/3UuW770UnKreeAefbKpsnj) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Dread I](https://open.spotify.com/album/5tB4LFPdB8FhHKhiqTlBIR) | 3:51 | 2026-03-26 | 2026-04-21 |
@@ -129,7 +130,7 @@
 | [fate](https://open.spotify.com/track/4aP2iBOUZH4VYMebwnKs0P) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fate](https://open.spotify.com/album/6gOaFZHjqC8dWTh4xfempC) | 2:46 | 2025-12-11 | 2026-02-07 |
 | [Fiat 500](https://open.spotify.com/track/4S600HS4ZcpOuz6eIn0s8h) | [Baby Suicida](https://open.spotify.com/artist/37dbiHpWkjkirTka2vOuLb) | [Fiat 500](https://open.spotify.com/album/797bViaNzkV6Gc3pGlvWJi) | 2:36 | 2026-02-25 | 2026-04-16 |
 | [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 | 2026-02-03 | 2026-03-20 |
-| [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 | 2026-03-29 |
+| [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 |  |
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Flames From Ashes](https://open.spotify.com/track/2mxuCuLVNniXnAyHuuDlyZ) | [Lisha Sebastian](https://open.spotify.com/artist/3DGpupUZehN24bDfwPU647) | [Learning to Love](https://open.spotify.com/album/1Ck5RZSaEz4LzO0n1sQk6d) | 3:20 | 2026-03-26 | 2026-04-21 |
 | [Folded \- Cover](https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [Folded \(Cover\)](https://open.spotify.com/album/4LuMEm6hy9ZxZzhgMlKkCq) | 4:05 | 2026-05-17 |  |
@@ -205,6 +206,7 @@
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
 | [Lawless \- Live](https://open.spotify.com/track/5ITVgTTBvXKfljsjnH32bP) | [Daisy Dooks](https://open.spotify.com/artist/14FaxA5641sUwJ48atvveo) | [Live at The Albany](https://open.spotify.com/album/3GorY4S66WCmQ1hiuzPDoC) | 3:56 | 2025-10-30 | 2025-12-12 |
 | [Le monde part en fusée](https://open.spotify.com/track/2I86BkId64ZJMxJ32H7FYG) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [Sous contrôle](https://open.spotify.com/album/4IGoZE6Rp1P0JQDDo7MJip) | 3:17 | 2026-03-10 | 2026-04-16 |
+| [Left on Red](https://open.spotify.com/track/7hvIooRdwasrzBFf1zuzMi) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Left on Red](https://open.spotify.com/album/1oYLH8UaTxWb2mQawgCAci) | 4:38 | 2026-06-03 |  |
 | [Legos](https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk) | [K\-NON](https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY), [Vepy](https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi) | [Legos](https://open.spotify.com/album/7u35zpzp6buERBScBvujJi) | 3:28 | 2026-02-19 | 2026-04-16 |
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
 | [Letter \(for the Quiet\)](https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Letter \(for the Quiet\)](https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS) | 2:15 | 2026-02-09 | 2026-03-29 |
@@ -221,6 +223,7 @@
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 | 2026-03-29 |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
 | [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 | 2026-03-26 | 2026-04-21 |
+| [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-06-03 |  |
 | [Make It Worse](https://open.spotify.com/track/53YJmmTjLfxBoII5Trch3G) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Make It Worse](https://open.spotify.com/album/7s2KtVx8mZdixUpo1Y2qbU) | 3:02 | 2026-04-24 |  |
 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 | 2026-02-10 | 2026-03-29 |
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-10-24 | 2025-12-02 |
@@ -325,6 +328,7 @@
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 | 2026-05-06 |
 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 | 2026-05-22 |  |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-22 |  |
+| [That Sunshine's Mine](https://open.spotify.com/track/4YgD5fStfkqqjkfL15Tygk) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/13HsxjVBJF860WS0HcZBV7) | 2:37 | 2026-06-03 |  |
 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |
 | [The Anchor](https://open.spotify.com/track/0clMXe1bOcuX6uxlRrQ2OM) | [Richy McLoughlin](https://open.spotify.com/artist/2Zhk3KjyBwtA4jzgo8dFXy) | [Ultradian](https://open.spotify.com/album/08licc707KeCqg7jsXWOWB) | 2:46 | 2026-05-05 |  |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |
@@ -332,6 +336,7 @@
 | [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 | 2026-05-09 |  |
 | [the edge](https://open.spotify.com/track/1qap8YYPjmzGLAIV4oeDm1) | [gracyn blu](https://open.spotify.com/artist/6u9vFlNKeUTJQcHCwJX8qN) | [the edge](https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3) | 3:11 | 2026-04-24 |  |
 | [The Endless Road](https://open.spotify.com/track/2VanWVfCTkKfP3pFGAPdzj) | [La Marti](https://open.spotify.com/artist/54APiQm3k38o1R11DK1GkV) | [LOOP](https://open.spotify.com/album/6CwPqLs2ZG7oAqGj7DDpzS) | 3:15 | 2025-10-24 | 2025-12-12 |
+| [The Estranged](https://open.spotify.com/track/0IhmIWv38VW2gsEdy3bIzy) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [The Estranged](https://open.spotify.com/album/3YFMGfbbtqHJOzwe7zCesK) | 4:06 | 2026-06-03 |  |
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |
 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-19 | 2026-04-16 |
 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 | 2025-11-02 | 2026-01-17 |

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring BossMan Dlow & Megan Thee Stallion, Latto, YG and more!
 
-10,179 songs - 19 day 11 hr 52 min
+10,180 songs - 19 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5204,6 +5204,7 @@
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-07-08 | 2022-07-16 |
 | [Live Or Die](https://open.spotify.com/track/5RSjWSXlZZfyLBIR80POTW) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Live Or Die](https://open.spotify.com/album/0egimcpIAkswTciKY4mY9v) | 2:57 | 2024-11-01 | 2024-11-09 |
 | [LIVE RIGHT](https://open.spotify.com/track/6zt0h7qdpcVr2OOTRUJTqg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/17BbrYyPUMl3zpcKo7gHML) | 3:39 | 2025-07-11 | 2025-07-19 |
+| [Livin Room](https://open.spotify.com/track/32CvgJxGJlTZRxiZr3tElU) | [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD) | [Livin Room](https://open.spotify.com/album/4n5BXudZVPWMyv9JGK4u2c) | 2:19 | 2026-05-29 |  |
 | [Living Legend](https://open.spotify.com/track/1oUMONFJ4ne768oA5siqez) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Living Legend](https://open.spotify.com/album/6Qtrhep6csqw0jdKOy6YkY) | 2:26 | 2024-10-18 | 2024-10-26 |
 | [Living To Die](https://open.spotify.com/track/5N4fLdpQyI6G8njHXOdJss) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Living To Die](https://open.spotify.com/album/3hUzSfcHGKmb8HcZx8MS8d) | 3:12 | 2022-06-24 | 2022-07-02 |
 | [Living Too Fast](https://open.spotify.com/track/7thAwwD9QsymtOrmCWSNdr) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Living Too Fast](https://open.spotify.com/album/4eFV4EwsYOHxqmIpUiRIH3) | 2:36 | 2026-05-08 | 2026-05-16 |

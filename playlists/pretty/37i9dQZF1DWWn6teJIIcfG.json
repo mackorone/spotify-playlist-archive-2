@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 222360,
+  "num_followers": 222370,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "The Swan - Reimagined",
-        "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Verwey",
-          "url": "https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "The Swan - Reimagined",
-      "url": "https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "The Swan - Reimagined",
+        "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Verwey",
+          "url": "https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "The Swan - Reimagined",
+      "url": "https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "The Sound Of Snow",
+        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 120493,
       "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
       "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "The Sound Of Snow",
-        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1039,22 +1039,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1119,26 +1123,22 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Francesco Molino",
-          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
-        },
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1287,22 +1263,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
       "artists": [
         {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+          "name": "Francesco Molino",
+          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
         },
         {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
         }
       ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1323,6 +1303,26 @@
       "duration_ms": 98120,
       "name": "Invention No. 14 in B-Flat Major, BWV 785",
       "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Mozart: Piano Concertos Nos. 23 & 14",
         "url": "https://open.spotify.com/album/0cELjDo3vmobZZ1GNexBOB"
       },
@@ -1443,6 +1427,42 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Sing Gently",
-        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
-      },
-      "artists": [
-        {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 225235,
-      "name": "Sing Gently",
-      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2107,6 +2107,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Laurence Oldak",
+          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Grande valse brillante, Op. 34 No. 2",
+      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "She moved through the fair",
         "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
@@ -2135,26 +2155,6 @@
       "duration_ms": 138146,
       "name": "She Moved Through the Fair (Arr. for Flute, Violin, Harp & Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Chopin",
-        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Laurence Oldak",
-          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Grande valse brillante, Op. 34 No. 2",
-      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2523,26 +2523,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
-      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2567,26 +2567,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
       },
       "artists": [
         {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
         },
         {
-          "name": "Camerata Finlandia",
-          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
         },
         {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 78066,
-      "name": "Kesaillan idylli (Summer Night's Idyll), Op. 16, No. 2: Kesaillan idylli [Summer Night's Idyll] , Op. 16, No. 2 [arr. J. Panula]",
-      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+      "duration_ms": 304813,
+      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
+      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
     }
   ],
   "unique_name": "Creative Focus",

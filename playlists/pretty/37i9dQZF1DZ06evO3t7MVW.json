@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96439,
+  "num_followers": 96466,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAC594VONpARYXoZN7nZ81kP",
+  "snapshot_id": "ah4dAAAAAAA6MN7JwOahnkFEQW9btHsC",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
-      },
-      "artists": [
-        {
-          "name": "Sensamotion",
-          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 194225,
-      "name": "Show Love (with Stick Figure)",
-      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasure (with Stick Figure)",
         "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 202457,
       "name": "Treasure (with Stick Figure)",
       "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
+      },
+      "artists": [
+        {
+          "name": "Sensamotion",
+          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Show Love (with Stick Figure)",
+      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
     },
     {
       "added_at": null,

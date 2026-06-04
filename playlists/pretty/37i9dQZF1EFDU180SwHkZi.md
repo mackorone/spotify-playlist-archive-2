@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 139 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 139 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 83 | [Milenge \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/2aDplTXNq4j2M7SQBnp8KC) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:51 |
 | 84 | [Look At Me Go](https://open.spotify.com/track/6Y8NDWGqBgJPSz7Ejfn7YQ) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Look At Me Go](https://open.spotify.com/album/4ZV3duqSz1IUk84iGlX8a0) | 2:57 |
 | 85 | [Ada](https://open.spotify.com/track/40haOxIaprGiFVmhKUkXRm) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Ada](https://open.spotify.com/album/4oLtHbGG9VRAI7f0T4FvYR) | 2:25 |
-| 86 | [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 |
+| 86 | [Expensive On Me](https://open.spotify.com/track/4vvL9o6uIB6CbxB9vUO5da) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/5wDnOKgoqI7itUhTdl101r) | 2:16 |
 | 87 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 |
 | 88 | [Imperfect](https://open.spotify.com/track/6I8QoVJcwzTYrRNLOzYkYI) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y), [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:05 |
 | 89 | [Lotus \(Skit\)](https://open.spotify.com/track/5482N4XRmNhlYoNQVAxRXR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Okinawan Wuman](https://open.spotify.com/album/2qdNHigKoFUZtBlnXlYiwb) | 0:34 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 95 | [It Takes A Village \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/2i3nKABNrDCfKSxVYrzpdw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [The Indian Connect](https://open.spotify.com/artist/02fUYRha20hRbxvEhZ8w0B) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:19 |
 | 96 | [influence](https://open.spotify.com/track/6dXZFVH2nzGkhMUPGvlAWY) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 3:05 |
 | 97 | [Therapy](https://open.spotify.com/track/3ivX1RXqdOEm3S5snUnNDo) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Therapy](https://open.spotify.com/album/6nBgfMvEi5PEBAyqUszW9H) | 3:05 |
-| 98 | [Imposter Syndrome](https://open.spotify.com/track/2cUOj7bq5aGHEpuDa4dgQ6) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/06QXwmHqY1zRtSnniqyMgv) | 2:53 |
+| 98 | [Imposter Syndrome](https://open.spotify.com/track/3quw0nfVOoMYnf8McOyfcn) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Imposter Syndrome](https://open.spotify.com/album/4wh0EMgs1lEjDh37skuh6u) | 2:53 |
 | 99 | [Show Me More](https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 3:07 |
 | 100 | [Permission](https://open.spotify.com/track/0c8jxG4d2i3mDBN0pxuV4L) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:26 |
 | 101 | [BODYBAG](https://open.spotify.com/track/3f84dcQBnb7GRQdc1SUOTu) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [ENJOY THE RIDE](https://open.spotify.com/album/67MiL0OIjtQM17Xbnysdy4) | 3:01 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 138 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 139 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcTLeAAAAACBEq7FNPhV/9+AC3s86M93`
+Snapshot ID: `AcTQ3AAAAAC1B69LNYoXd3UC0CgYUCkn`

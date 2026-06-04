@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36038,
+  "num_followers": 36037,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "ACELERADA",
         "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 185600,
       "name": "Duro",
       "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1859,30 +1859,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "ZOHARA",
-          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Section",
         "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
       },
@@ -1923,6 +1899,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Subliminals",
         "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
       },
@@ -1939,26 +1939,6 @@
       "duration_ms": 154100,
       "name": "Subliminals",
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1983,18 +1963,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
       },
       "artists": [
         {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2015,6 +1999,22 @@
       "duration_ms": 146090,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Feel the Beat",
+        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "duration_ms": 397189,
+      "name": "Feel the Beat - Partiboi69 Remix",
+      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Halo (feat. Shibui)",
         "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
       },
@@ -2283,26 +2303,6 @@
       "duration_ms": 156000,
       "name": "Halo (feat. Shibui)",
       "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Feel the Beat",
-        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
-      },
-      "artists": [
-        {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        }
-      ],
-      "duration_ms": 397189,
-      "name": "Feel the Beat - Partiboi69 Remix",
-      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2951,26 +2951,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM"
       },
@@ -2987,6 +2967,26 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2026-04-13 15:38:24",

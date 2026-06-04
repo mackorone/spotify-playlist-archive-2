@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Yang Da Il\(양다일\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kassy\(케이시\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-653 songs - 1 day 18 hr 38 min
+654 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Ending](https://open.spotify.com/track/43fbEuz1jtCnKji8WYxoeR) | [Kyul Lee](https://open.spotify.com/artist/17rkotwytk0G8HGA8TSWGH) | [Beginning With Ending](https://open.spotify.com/album/0JWEemsZd5M14XnU5YFq6E) | 3:20 | 2021-12-27 | 2022-07-29 |
 | [Eternal Moment](https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:28 | 2025-08-29 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2024-02-01 | 2024-03-11 |
-| [Eternity](https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Eternity](https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO) | 5:37 | 2022-12-05 | 2023-03-02 |
+| [Eternity](https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Eternity](https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO) | 5:37 | 2022-12-05 |  |
 | [Eternity](https://open.spotify.com/track/2zK2c6EZcHzNMM9lKAIeO2) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Eternity](https://open.spotify.com/album/0D9t7m87XBV38Rs0T85dJj) | 4:10 | 2022-01-18 | 2022-04-12 |
 | [EUROPA](https://open.spotify.com/track/4CchQgiTaxjKL5n1oKeDsP) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [SUMMER HAZE](https://open.spotify.com/album/5P8AgImZs8hByjM9us7deE) | 2:51 | 2023-08-10 | 2023-08-25 |
 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 | 2023-10-19 |  |
@@ -200,6 +200,7 @@
 | [Haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-07-07 | 2024-07-24 |
 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 | 2023-05-25 |  |
 | [Happiness \(feat\. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun\)](https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Ban Gwang Ok](https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Happy Ending](https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p) | 4:20 | 2021-12-20 | 2022-07-28 |
+| [Happy&ing](https://open.spotify.com/track/0EzV9B3tJBq1D7WIusy0QG) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Happy&ing](https://open.spotify.com/album/5OQxFbUpozj2AQatmALO2l) | 3:31 | 2026-06-04 |  |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-25 | 2024-04-19 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2021-12-20 | 2022-07-29 |
 | [Hate that I Miss You](https://open.spotify.com/track/15jVZXkb1JFv2ekwoaXKj9) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [h](https://open.spotify.com/album/28QpU7xcTVH7DGpAoop87b) | 4:37 | 2022-01-27 | 2022-07-29 |
@@ -213,7 +214,7 @@
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-01-25 | 2024-01-10 |
 | [Hello](https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY) | 4:04 | 2024-01-12 | 2024-04-19 |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-11-29 |
-| [Her](https://open.spotify.com/track/1ZAmtSyw4xcqnyhXgDWu0u) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Her](https://open.spotify.com/album/2SfEXtWabqXTW352s1xZ05) | 3:07 | 2026-04-30 |  |
+| [Her](https://open.spotify.com/track/1ZAmtSyw4xcqnyhXgDWu0u) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Her](https://open.spotify.com/album/2SfEXtWabqXTW352s1xZ05) | 3:07 | 2026-04-30 | 2026-06-04 |
 | [Hey Steve](https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 1:31 | 2023-02-15 | 2023-03-28 |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-12-20 | 2022-04-17 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-24 | 2022-04-19 |
@@ -295,7 +296,7 @@
 | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/track/7Hjed63TETowppuKap2RIe) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/album/5HvxoqEQOm4t3K50HTzb1k) | 4:49 | 2022-03-24 | 2022-03-28 |
 | [Learn to love 그대가 내 안에 박혔다](https://open.spotify.com/track/0GSpRWqXlHVkhooCehKHRM) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Learn to love 그대가 내 안에 박혔다](https://open.spotify.com/album/7xD4HSEfNUWTLEhnDIcU6P) | 3:54 | 2021-12-20 | 2022-04-15 |
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-07-20 |
-| [LIE LIE LIE](https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [LIE LIE LIE](https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE) | 3:34 | 2026-02-11 |  |
+| [LIE LIE LIE](https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [LIE LIE LIE](https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE) | 3:34 | 2026-02-11 | 2026-06-04 |
 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 | 2022-12-27 | 2023-06-01 |
 | [Life is a Drama](https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Life is a Drama Prelude3](https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D) | 3:38 | 2026-01-15 | 2026-03-17 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-09-07 |

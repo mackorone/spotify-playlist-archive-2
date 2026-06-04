@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 217 songs - 11 hr 18 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 222 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,5 +225,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 215 | [Quién Fue](https://open.spotify.com/track/45bjTeHE9rTMRRK7nOoYmg) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7) | [Quién Fue](https://open.spotify.com/album/4d319p2fIRlckRPAoWVIYV) | 2:30 |
 | 216 | [rush touch](https://open.spotify.com/track/4JXstHX6Tv9ocTYt86oEE3) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [rush touch](https://open.spotify.com/album/7e433qsvsyuanoOFJAgkKZ) | 2:33 |
 | 217 | [I Never Had Your Heart](https://open.spotify.com/track/4JsUCRW9wuWy9PoyqX2BH1) | [Hirata](https://open.spotify.com/artist/2GIH5f71V3vZ7gt0ctGzqV) | [I Never Had Your Heart](https://open.spotify.com/album/1umyxrbkkLP5KwrOAXBhPv) | 2:29 |
+| 218 | [Desnudita](https://open.spotify.com/track/1aVp36oGu1xj8bJavKxQEK) | [OGzuz](https://open.spotify.com/artist/6OJT0CHj1pRZBhiTlZuzay), [∆ndrik](https://open.spotify.com/artist/0kwYTmo0MgvxDkf35lilIz) | [Desnudita](https://open.spotify.com/album/6ztoOedgELjC9bg6FYctK2) | 3:10 |
+| 219 | [Best Thing](https://open.spotify.com/track/3e5BwnOOms59dg70weqzpX) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 3:41 |
+| 220 | [Two Lives](https://open.spotify.com/track/7MncHPXeZMEQYtnbiaxxvJ) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Two Lives](https://open.spotify.com/album/6XHsRmumVaZpfST8VWaQEx) | 3:58 |
+| 221 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 |
+| 222 | [The Climb](https://open.spotify.com/track/0HKxgYyUTgSGkY8hPCEXIf) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [The Climb](https://open.spotify.com/album/1RiFybPic6zBZ3viZ6B3Nf) | 4:58 |
 
-Snapshot ID: `AAAV3ziDkIPLCugkz8vkVOeSx3Z/8wzo`
+Snapshot ID: `AAAV5LYQDoKFc/Nq3oORaBvfZgdNV7iI`

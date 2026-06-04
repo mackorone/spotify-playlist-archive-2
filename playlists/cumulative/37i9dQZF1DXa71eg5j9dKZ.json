@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Barry Can't Swim",
+  "description": "The home for alternative electronic music. Cover: DJ Seinfeld",
   "name": "Altar",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 160500,
       "name": "2X2",
       "url": "https://open.spotify.com/track/0ikEM2GtauY5OroAnPBHUZ"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 149835,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 290371,
       "name": "Doing Sumthin'",
       "url": "https://open.spotify.com/track/08TT875V2CzwpDlJ1sD5mt"
@@ -7482,6 +7482,24 @@
       "duration_ms": 214285,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg"
+    },
+    {
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "album": {
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 249545,
       "name": "find a reason",
       "url": "https://open.spotify.com/track/69Pi3PmvFx9jJFy07vf4KU"
@@ -12338,7 +12356,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 192000,
       "name": "I don't recognise you anymore",
       "url": "https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru"
@@ -14602,6 +14620,24 @@
       "duration_ms": 225333,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0wVRGzdbEwKGomyficzJV7"
+    },
+    {
+      "album": {
+        "name": "Discordia",
+        "url": "https://open.spotify.com/album/11hr4dNevLy5h9yabvvSDV"
+      },
+      "artists": [
+        {
+          "name": "Tatyana Jane",
+          "url": "https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274480,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/4anZARI5G18q74sWQf7vh6"
     },
     {
       "album": {
@@ -24206,7 +24242,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 202000,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/1cMXu8uAM6Ylw9VwQ9E07s"
@@ -25805,6 +25841,28 @@
     },
     {
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "just lil",
+          "url": "https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165523,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT"
+    },
+    {
+      "album": {
         "name": "The Way (Saviour)",
         "url": "https://open.spotify.com/album/0B2rxnCyHtfjClpmtsfuUs"
       },
@@ -26628,6 +26686,24 @@
       "duration_ms": 275439,
       "name": "Traces",
       "url": "https://open.spotify.com/track/0vcv7tSmp10u55eKYTAQ1E"
+    },
+    {
+      "album": {
+        "name": "Birds Fly In",
+        "url": "https://open.spotify.com/album/04IXrvc1SU1x1uMZ3dSXOt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/0Ti6MgIB9cmwpGW3wFugxj"
     },
     {
       "album": {

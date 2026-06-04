@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22170,
+  "num_followers": 22172,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACr8AZ79Jl5caok2XbHuCuw",
+  "snapshot_id": "ah4dAAAAAABvok9l+nf/w0yZOkNtv4n/",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vamos Cantar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xRXkUoEPB87tro7NXcAAe"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 368011,
       "name": "Vamos Cantar - Ao Vivo",
       "url": "https://open.spotify.com/track/28dhutzL2etPxNHo0nMWvp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
+        "name": "Catedral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 516000,
-      "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
+      "duration_ms": 278186,
+      "name": "Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catedral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
+        "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 278186,
-      "name": "Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
+      "duration_ms": 516000,
+      "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
       },
@@ -827,38 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 417426,
       "name": "Alfa e \u00d4mega - Ao Vivo",
       "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 257,
+  "num_followers": 258,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABS5LPbx6KIe+K7+c4Jgdyq",
+  "snapshot_id": "ah4dAAAAAAB9lCWYJd+ZQn5PjKOzwL5D",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 166688,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "16",
-      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -224,9 +224,25 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
     },
     {
       "added_at": null,
@@ -255,8 +271,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "clown shit (up the wall) [SOPHIE Remix]",
+        "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
+      },
+      "artists": [
+        {
+          "name": "BABYNYMPH",
+          "url": "https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 387310,
+      "name": "clown shit (up the wall) [SOPHIE Remix]",
+      "url": "https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
       "artists": [
         {
@@ -264,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+      "duration_ms": 146378,
+      "name": "Lucky Number One",
+      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
     },
     {
       "added_at": null,
@@ -295,46 +335,6 @@
       "duration_ms": 231118,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 146378,
-      "name": "Lucky Number One",
-      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "clown shit (up the wall) [SOPHIE Remix]",
-        "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
-      },
-      "artists": [
-        {
-          "name": "BABYNYMPH",
-          "url": "https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 387310,
-      "name": "clown shit (up the wall) [SOPHIE Remix]",
-      "url": "https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories 2",
         "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 120400,
       "name": "ur mine",
       "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Busy (BAYLI Remix)",
         "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 165086,
       "name": "Busy - BAYLI Remix",
       "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,

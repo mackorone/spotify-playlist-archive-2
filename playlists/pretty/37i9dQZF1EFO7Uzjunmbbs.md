@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 216 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 216 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 165 | [Call It a Day](https://open.spotify.com/track/0h1brql5vlRZin3C94U9Cd) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/0TJoGKCktudahrtegfmmgD) | 3:04 |
 | 166 | [Tomorrow](https://open.spotify.com/track/583bcrSG5vru3H4Lru9dQa) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:23 |
 | 167 | [In Case of Emergency](https://open.spotify.com/track/0wer2NCCNi5Ks6jXznIRfh) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:47 |
-| 168 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
-| 169 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
+| 168 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
+| 169 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
 | 170 | [Crashlanded](https://open.spotify.com/track/4RbWBrPEvvC1KiAXVdfRG9) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:07 |
 | 171 | [Strange Times](https://open.spotify.com/track/7kOD9GBPbRmKBC9ulD7dp3) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Strange Times](https://open.spotify.com/album/67w9yTbAFGNRHjmH4vju7v) | 3:16 |
 | 172 | [Not Believe](https://open.spotify.com/track/70APqtXv1yAVqhsdbX6Vdc) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Not Believe](https://open.spotify.com/album/0LIqUSWvwfA4Vw2t7Qe6QO) | 3:25 |
@@ -203,9 +203,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 193 | [Scares Me More](https://open.spotify.com/track/4l8Xiv0TMpmNRMwNXcHjfa) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Half The Story](https://open.spotify.com/album/7tRgVDhL6xVKvyyYvORp8O) | 3:37 |
 | 194 | [Lately](https://open.spotify.com/track/5k54dKjmXxwsNeZMMlhEAJ) | [Conscious Tone](https://open.spotify.com/artist/6DQg5pGAhuLIIVrPRPLoNO) | [Thoughts](https://open.spotify.com/album/5CMCpSbvDTesUjn80fvVFD) | 2:38 |
 | 195 | [Living Proof](https://open.spotify.com/track/2CDg1Tmj5qsdvA7tJzORkm) | [Kristen Merlin](https://open.spotify.com/artist/4erQOBtz2mUtLXtcsRcvjy) | [Humans Being](https://open.spotify.com/album/7F4O0JUyAoPDuFS94YBPAo) | 3:34 |
-| 196 | [Right Where You Left It](https://open.spotify.com/track/1wboStbCbokseuqzBfjVzz) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [The Famine and the Feast](https://open.spotify.com/album/5lDe9pedBMqihBPmrupQtr) | 3:06 |
-| 197 | [Scared Enough](https://open.spotify.com/track/4oIFK69GlRvGCGp0WTaKQo) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 3:05 |
-| 198 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 196 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 197 | [Right Where You Left It](https://open.spotify.com/track/1wboStbCbokseuqzBfjVzz) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [The Famine and the Feast](https://open.spotify.com/album/5lDe9pedBMqihBPmrupQtr) | 3:06 |
+| 198 | [Scared Enough](https://open.spotify.com/track/4oIFK69GlRvGCGp0WTaKQo) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 3:05 |
 | 199 | [Recover](https://open.spotify.com/track/1XjO88kNY45fMdCae2Ksv5) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [61\-615](https://open.spotify.com/album/4lddSI9ZMF3jGgZwDkoJgJ) | 4:45 |
 | 200 | [I'm Making Mine](https://open.spotify.com/track/176fqPqcS5peZMArZEt0kR) | [Erica Nicole](https://open.spotify.com/artist/2SyJvmOHYwZBWwPWsR2KZd) | [I'm Making Mine](https://open.spotify.com/album/0E7xnu9aDS7CK41jaaijWD) | 3:52 |
 | 201 | [Stone](https://open.spotify.com/track/0pIkc8xhWVuKYTI4DvUGO8) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:29 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 215 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcTLWgAAAAC4lTK5KqpODsV10Sr5gXfk`
+Snapshot ID: `AcTQ5gAAAADRAxQC2gwcALkGYm3IEtoZ`

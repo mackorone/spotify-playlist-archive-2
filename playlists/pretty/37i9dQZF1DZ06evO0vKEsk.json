@@ -1,33 +1,13 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132706,
+  "num_followers": 132702,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAA9n0nfgtMcl+Xjpb6a8A+U",
+  "snapshot_id": "ah4dAAAAAAATPdIDGoPDFyNaOMkFyLCK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jerusal\u00e9m e Eu",
-        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 313306,
-      "name": "Jerusal\u00e9m e Eu",
-      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
-    },
     {
       "added_at": null,
       "album": {
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruna Karla Falando de Amor",
         "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 248407,
       "name": "Apaixonado Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,

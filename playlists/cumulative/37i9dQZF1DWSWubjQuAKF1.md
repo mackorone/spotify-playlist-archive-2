@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-861 songs - 1 day 18 hr 0 min
+862 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-03-13 | 2025-06-06 |
 | [Baw Się Dobrze](https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Baw Się Dobrze](https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc) | 2:23 | 2025-07-17 | 2025-11-12 |
 | [baza](https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [baza](https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm) | 3:06 | 2026-03-05 | 2026-05-22 |
-| [BBY WAGON](https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [BBY WAGON](https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd) | 2:23 | 2026-04-30 |  |
+| [BBY WAGON](https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [BBY WAGON](https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd) | 2:23 | 2026-04-30 | 2026-06-04 |
 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-11-11 | 2026-03-03 |
 | [Bejbe!](https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Bejbe!](https://open.spotify.com/album/0adt1bbqThqFji1PwChQME) | 1:55 | 2025-01-09 | 2025-01-24 |
 | [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-27 | 2025-03-14 |
@@ -356,6 +356,7 @@
 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 | 2025-04-25 |
 | [Kwiaty](https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Kwiaty](https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB) | 2:48 | 2025-09-16 | 2026-02-01 |
 | [Kłam](https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH) | [Kłam](https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn) | 2:28 | 2026-01-30 | 2026-04-22 |
+| [KŁAM](https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KŁAM](https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT) | 4:06 | 2026-05-29 |  |
 | [KŁOPOTY](https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX) | [Hanafi](https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [KŁOPOTY](https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE) | 3:20 | 2025-08-19 | 2025-09-29 |
 | [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
 | [Labirynt](https://open.spotify.com/track/4rq30jpTqKYQQcTkaqeGnD) | [Mellie](https://open.spotify.com/artist/1mM16l96DHgpD3pUDD2Chw) | [Labirynt](https://open.spotify.com/album/5DzTER3kfqYRxf8AnQmOOL) | 2:55 | 2026-05-21 | 2026-05-30 |

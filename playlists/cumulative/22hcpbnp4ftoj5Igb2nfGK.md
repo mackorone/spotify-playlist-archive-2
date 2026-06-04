@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-182 songs - 10 hr 57 min
+183 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fazers](https://open.spotify.com/track/1R28m5eWk1EV9FQ3puWrUp) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:17 | 2025-10-14 |  |
 | [FEAR.](https://open.spotify.com/track/23luOrEVHMfoX0AhfbQuS6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 7:40 | 2025-08-18 |  |
 | [Figaro](https://open.spotify.com/track/7oFiFPltiQTBqVutyiSwvE) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:25 | 2025-03-04 |  |
+| [Gardenhead / Leave Me Alone](https://open.spotify.com/track/4ZhNktkJqWP24tKJJAMGlH) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3HTsNBfZLfRXQTfdLeLVK1) | 3:13 | 2026-06-03 |  |
 | [Gas Drawls](https://open.spotify.com/track/2x98hOxbd1cnV6AKhPRUcX) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 3:43 | 2025-01-30 |  |
 | [GAZZILLION EAR](https://open.spotify.com/track/5KeW2rotY0Gdsml5RPOBN8) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 4:14 | 2025-02-26 |  |
 | [Get Got](https://open.spotify.com/track/781V2Y5LPtcpgONEOadadE) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:51 | 2025-03-10 | 2025-07-06 |

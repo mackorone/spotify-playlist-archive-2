@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 20, 21 y 22.",
-  "num_followers": 45727,
+  "num_followers": 45724,
   "original_name": "Festival Est\u00e9reo Picnic 2026",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
-        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00e1s y los Fumadores",
-          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
-        }
-      ],
-      "duration_ms": 237939,
-      "name": "El T\u00fanel",
-      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "La Colisi\u00f3n",
         "url": "https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 168096,
       "name": "La Colisi\u00f3n",
       "url": "https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
+        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "duration_ms": 237939,
+      "name": "El T\u00fanel",
+      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
     },
     {
       "added_at": "2026-02-05 20:53:46",

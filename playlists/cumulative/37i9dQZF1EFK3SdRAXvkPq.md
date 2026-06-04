@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 7 hr 59 min
+156 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Miami](https://open.spotify.com/track/6SP5W33MHmIU6DODHd5zgM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:12 | 2025-11-07 |  |
 | [MY LOVE](https://open.spotify.com/track/4R3Z9VqJr9qgAVa51dkvTL) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:06 | 2025-11-07 |  |
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2025-11-07 |  |
-| [No Digas](https://open.spotify.com/track/6doXrAUa8bRXWltN6ceXLR) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Matando La Liga 2](https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe) | 2:26 | 2026-01-24 |  |
+| [No Digas](https://open.spotify.com/track/23Kb0nahUYnUHemM1Gu81P) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Matando La Liga 2](https://open.spotify.com/album/5nThNfyoBhfmKYcQAyZZNF) | 2:26 | 2026-06-03 |  |
+| [No Digas](https://open.spotify.com/track/6doXrAUa8bRXWltN6ceXLR) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Matando La Liga 2](https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe) | 2:26 | 2026-01-24 | 2026-06-04 |
 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 | 2025-11-07 |  |
 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 | 2025-11-07 |  |
 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 | 2025-11-07 |  |

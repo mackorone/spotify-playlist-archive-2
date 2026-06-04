@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Asha Bhosle",
+  "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 155357,
       "name": "Aa Zara",
       "url": "https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 195789,
       "name": "Ankhiyan Roye",
       "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 370666,
       "name": "Barf",
       "url": "https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ"
@@ -1632,11 +1632,15 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
@@ -1788,6 +1792,40 @@
       "duration_ms": 350160,
       "name": "Beedi",
       "url": "https://open.spotify.com/track/2S6okBMEo9oWCbdWGrxth3"
+    },
+    {
+      "album": {
+        "name": "Omkara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CdkDorcfkSaGbnjUsz884"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Nachiketa Chakraborty",
+          "url": "https://open.spotify.com/artist/77MQhYJ01hRivFGS5hXjTY"
+        },
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350160,
+      "name": "Beedi",
+      "url": "https://open.spotify.com/track/2YMM8URWpyGIrT0sKBLtD3"
     },
     {
       "album": {
@@ -1972,6 +2010,24 @@
       "duration_ms": 233991,
       "name": "Bhola Bhala Baby - From \"Murder Mubarak\"",
       "url": "https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226479,
+      "name": "BIGGER",
+      "url": "https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs"
     },
     {
       "album": {
@@ -2710,7 +2766,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 364408,
       "name": "Chupke Se",
       "url": "https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq"
@@ -2898,6 +2954,32 @@
       "duration_ms": 166567,
       "name": "Darwaze",
       "url": "https://open.spotify.com/track/5ZyCERvkj7TFVB2OBmuv7Y"
+    },
+    {
+      "album": {
+        "name": "Dus",
+        "url": "https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Krishna",
+          "url": "https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "Deedar De",
+      "url": "https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1"
     },
     {
       "album": {
@@ -4014,7 +4096,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 207000,
       "name": "Duniya",
       "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
@@ -5008,7 +5090,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 212909,
       "name": "Ho Jaa",
       "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
@@ -7040,7 +7122,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 272384,
       "name": "Khaamakha",
       "url": "https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx"
@@ -7717,6 +7799,28 @@
     },
     {
       "album": {
+        "name": "Aiyaary (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/30MfVIbL48L0UTQqXwcoMD"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229877,
+      "name": "Lae Dooba",
+      "url": "https://open.spotify.com/track/5rpxVbgMMeCOLhhop1DVKj"
+    },
+    {
+      "album": {
         "name": "Kya Kariye",
         "url": "https://open.spotify.com/album/6I7ukO1gNwBiDHxIqjXdDV"
       },
@@ -8058,7 +8162,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -13261,6 +13365,32 @@
     },
     {
       "album": {
+        "name": "Tees Maar Khan",
+        "url": "https://open.spotify.com/album/0fLp8N5bQ1wDOc4iCFUOX8"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281707,
+      "name": "Sheila Ki Jawani",
+      "url": "https://open.spotify.com/track/6VbmeIWTbNHM5uqoW7GTE4"
+    },
+    {
+      "album": {
         "name": "Sherni Aayi (From \"Aarya 3\")",
         "url": "https://open.spotify.com/album/3mpPx4U4uZRUWkHTwRL0wC"
       },
@@ -13830,6 +13960,36 @@
       "duration_ms": 152000,
       "name": "Tere Bina Saawan",
       "url": "https://open.spotify.com/track/6nbFBtyQdR9azBu10D4Pjs"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331676,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
     },
     {
       "album": {
@@ -14984,7 +15144,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 151874,
       "name": "umraan",
       "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"

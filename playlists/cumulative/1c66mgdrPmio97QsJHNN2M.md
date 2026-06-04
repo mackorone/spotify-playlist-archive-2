@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,111 songs - 4 day 16 hr 38 min
+2,116 songs - 4 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [As So](https://open.spotify.com/track/1TyjJKXIuKJYl4xISQ3S6u) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [As So](https://open.spotify.com/album/1Ou7S2lSUwu8trkygMvZFx) | 1:28 | 2025-11-10 | 2025-12-11 |
 | [Asking For A Friend](https://open.spotify.com/track/3logTOyNPpRsSENbe67dtk) | [Venus](https://open.spotify.com/artist/5yOuL4JYYs6pbud112U3Lk) | [Asking For A Friend](https://open.spotify.com/album/3r9Zcu4gmZrTmYXjL0FJSe) | 3:27 | 2026-04-20 | 2026-05-22 |
 | [Aspiration for Relocation](https://open.spotify.com/track/6OMBqnbAOqrN1USS9IpxPw) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 2:58 | 2025-12-01 | 2026-01-04 |
+| [At Last](https://open.spotify.com/track/6bKiwdtiaH5g7IwrxF6HIh) | [Lucy Holden](https://open.spotify.com/artist/1axTzt63xVNPOYYN9o26Qp) | [At Last](https://open.spotify.com/album/4arkZzbTLUqoprVcbpsXOa) | 3:05 | 2026-06-03 |  |
 | [At Some Point in Time](https://open.spotify.com/track/62uOsFXXb3A7Pnl5KQerjx) | [Markus Kan](https://open.spotify.com/artist/4nvKmoNsDbFfEx08eEWKXZ) | [At Some Point in Time](https://open.spotify.com/album/0ChSu3StOOyvBjxX3Hs8x0) | 2:52 | 2025-11-26 | 2025-12-28 |
 | [Atomic Nucleus](https://open.spotify.com/track/5hD7s4IhEGs213qBeo0L98) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 3:42 | 2026-01-23 |  |
 | [Atrophy \(here's to you, my narcissist\)](https://open.spotify.com/track/4VW2G9yGYpwpsju2lN6cxa) | [Saint Matthew](https://open.spotify.com/artist/0p0J5JFcHW3DiSwk0t5HKy) | [Atrophy \(here's to you, my narcissist\)](https://open.spotify.com/album/7nc8hQnP3GwxHyRlipNj9L) | 3:09 | 2026-03-29 | 2026-04-30 |
@@ -138,6 +139,7 @@
 | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/track/0IlG5mEBN0loJN8qUL3Vm5) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/album/1w3ngCvVZ7RMXGKI8Quwfa) | 2:51 | 2026-02-16 | 2026-03-20 |
 | [B0C3TUD4](https://open.spotify.com/track/2ro69lhVFIkaKtfF8h1C9q) | [Pariz](https://open.spotify.com/artist/2UBljQ5dbamD47JMpi3oyl) | [B0C3TUD4](https://open.spotify.com/album/4mFCvfKJZSryVv7zXdSqbZ) | 2:08 | 2026-05-05 |  |
 | [Baby Blues](https://open.spotify.com/track/3nrBSMtehFDsGuPZXRsma0) | [Suavé](https://open.spotify.com/artist/3alyWN9ocS8hYq5lSNVg35) | [Baby Blues](https://open.spotify.com/album/5DWsDgEBeXYcYx5oWywWre) | 2:20 | 2025-11-10 | 2025-12-11 |
+| [Baby, alright](https://open.spotify.com/track/26lko55LCtctFecXw6ytas) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Baby, alright](https://open.spotify.com/album/2a4AA00qnwTzwaiorBPGGh) | 2:52 | 2026-06-03 |  |
 | [Babyyyy](https://open.spotify.com/track/2DgSTpNBj5AemPPZgnOyn5) | [Shannon Dooley](https://open.spotify.com/artist/5t4bssL3vXcamnp9GnZwy7) | [Babyyyy](https://open.spotify.com/album/4jwsjcJzQHM4Roh2WgxzF5) | 2:50 | 2025-12-06 | 2026-01-15 |
 | [Back 2 U](https://open.spotify.com/track/3EU8xhfJ1YfZCHcCSD8fC0) | [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Back 2 U](https://open.spotify.com/album/7nAmTbFd2afAIATBi3SjEo) | 2:52 | 2026-02-10 | 2026-03-14 |
 | [Back and Forth](https://open.spotify.com/track/6KnHLTUfTJ7L9Koa0QSbFi) | [ThePieces](https://open.spotify.com/artist/0BN1T49jfRbf4eMqJtS5R1) | [Back and Forth](https://open.spotify.com/album/2lKD0U6tBUtemvYGZH26Du) | 3:13 | 2025-12-02 | 2026-01-04 |
@@ -1062,6 +1064,7 @@
 | [Lost in Your Grace](https://open.spotify.com/track/2HPEKzJ0mRmsv7vkBdX0ws) | [Hope Beasley](https://open.spotify.com/artist/4za7ua1uPGHxEwbxAEAapI) | [I’ve Found My Wings](https://open.spotify.com/album/3UEmfPuCz2S4838lzbLaJF) | 3:35 | 2025-11-05 | 2025-12-07 |
 | [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 | 2025-12-03 | 2026-01-04 |
 | [Lost Space](https://open.spotify.com/track/6FgSIcRaYUXjxeR0bAxeq5) | [Intensea](https://open.spotify.com/artist/0ueR7qZuaIY7tQrDHcDJxc) | [Lost Space](https://open.spotify.com/album/3UFzsop35G4pdbc4HZoDXz) | 4:07 | 2026-05-22 |  |
+| [Louie Louie \- Acoustic Version](https://open.spotify.com/track/1r7puuizaXKhuDr1tvmLp2) | [Ed Catch](https://open.spotify.com/artist/0dPjzU1VfeC0jBw0F7rGPe) | [Louie Louie \(Acoustic Version\)](https://open.spotify.com/album/37XzIsZEZCGtQiICXcsFuC) | 2:28 | 2026-06-03 |  |
 | [Lov Lov](https://open.spotify.com/track/4fEVCH8VsgLXOWRI9B8mbE) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Lov Lov](https://open.spotify.com/album/7p6LhF7FSKnWTwaqTr0uul) | 2:05 | 2026-05-06 |  |
 | [LOVE 2099!](https://open.spotify.com/track/0oQgiZ4SmJn4G7q924NIdB) | [!GNIT](https://open.spotify.com/artist/4jKNcjcuuHtdhndwgWZK4R) | [!G](https://open.spotify.com/album/0NY7Y1w7DCQgEVX4J4yTjj) | 2:49 | 2025-12-07 | 2026-01-15 |
 | [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 | 2026-05-12 |  |
@@ -1372,6 +1375,7 @@
 | [Peaceful Rendezvous](https://open.spotify.com/track/3HbvkdMbt73FJc4KPTM6L3) | [Sun Sand](https://open.spotify.com/artist/0FjNOXPb3bC89r7gbKFAth) | [Peaceful Rendezvous](https://open.spotify.com/album/7BJkLDcmileZ5lTZpDkIua) | 4:29 | 2026-02-27 | 2026-03-30 |
 | [Peek Around the Corner](https://open.spotify.com/track/4gH3G9NKmOL7jd3PhIVfVR) | [Goldiva](https://open.spotify.com/artist/4GP0N1O0SMO3I2Nh4qHgbY) | [Peek Around the Corner](https://open.spotify.com/album/5CrQbtvpmZmLLvkzmL8Z91) | 5:26 | 2026-02-02 | 2026-03-06 |
 | [Penang Bang](https://open.spotify.com/track/7e5oLwyrSflUoGqJI4MjW0) | [LiiN](https://open.spotify.com/artist/6LtSU8F1WsFaSK8glXDhx9) | [Sidereal Drift](https://open.spotify.com/album/1Y8GJirJsAcmVGTeC939Ka) | 2:26 | 2026-03-02 | 2026-04-03 |
+| [People say](https://open.spotify.com/track/2x4OVbnqF0QUffMBuXwdQL) | [SunshineSons](https://open.spotify.com/artist/7BDIXV7qsxWjJBYSmyZtsb) | [People say](https://open.spotify.com/album/43cBreWs2OrP1J6hc1iT4P) | 1:36 | 2026-06-03 |  |
 | [People scare me](https://open.spotify.com/track/0obwhgWY4sU6LmtDbfEmAu) | [MaxVerse](https://open.spotify.com/artist/6ClwxLhqdr8Vekwt1XLcVD) | [People scare me](https://open.spotify.com/album/59UMFMmMlUMvK12QiI6rFp) | 3:27 | 2026-05-28 |  |
 | [People You Become](https://open.spotify.com/track/41GRehbWpLErI8XSo4HSZD) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Before We Begin Again](https://open.spotify.com/album/7sB2aBjgXUojuK8n9MCdrQ) | 3:37 | 2025-12-18 | 2026-01-19 |
 | [Perfect Day](https://open.spotify.com/track/2sNKfZR08usw4sbAG1iYK6) | [Cliff Aßmann](https://open.spotify.com/artist/4n6MLracjcDsz8eSdB367c) | [Perfect Day](https://open.spotify.com/album/3Tcgl2kfgEgJYlB4V5Dete) | 3:45 | 2026-05-13 |  |
@@ -1876,6 +1880,7 @@
 | [Too Late](https://open.spotify.com/track/35sGt18IC60WKxa4yWPQ6k) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Too Late](https://open.spotify.com/album/5mqUxIVALcXZijckupme57) | 3:13 | 2026-05-26 |  |
 | [Too Much](https://open.spotify.com/track/5R7hrXGRLFNTUItu48NWtx) | [FIGGY](https://open.spotify.com/artist/7CqG37ujUHgnJIAP4drvij) | [Too Much](https://open.spotify.com/album/0ZElDw3DJaUTXQZ7ydzDFo) | 3:00 | 2026-03-20 | 2026-04-22 |
 | [Too Much Fun](https://open.spotify.com/track/7KD60OsEnkK4xjJebRuRos) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Hello Everyone, How Are You?](https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K) | 3:36 | 2026-01-23 | 2026-06-01 |
+| [Too Much?](https://open.spotify.com/track/3ileXSBKUm6VWl3Mvy9SWa) | [MaxTraxx](https://open.spotify.com/artist/5PgyRG3nHixZ1911v82pOA) | [Too Much?](https://open.spotify.com/album/033fUXeyAQSvgvVL4elbfm) | 3:03 | 2026-06-03 |  |
 | [Tooth](https://open.spotify.com/track/7coB6qAIUohaBcqrCDhmyk) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK), [Hayds](https://open.spotify.com/artist/0OIEpFFn2coJ5zeiMzrEdg), [FatRicko](https://open.spotify.com/artist/24cxoi08cDLTR8dbSiSawu) | [Tooth](https://open.spotify.com/album/6jM6xqCgSYunaFDBajakoC) | 2:23 | 2026-04-04 | 2026-05-06 |
 | [Totally Twisted](https://open.spotify.com/track/0RFNGRsq9Yytiq4HV5iqt9) | [Mr\. Frey](https://open.spotify.com/artist/24FXPv9FNWKUE0JKex6P5S) | [Totally Twisted](https://open.spotify.com/album/1VTWcHRrym18G65GuSrMy0) | 3:16 | 2025-12-16 | 2026-01-17 |
 | [Toxic Diva](https://open.spotify.com/track/47ebbEXbbHWHeCi3SwlLSf) | [Edita King](https://open.spotify.com/artist/083PPuqs9pYZUI25Rm6mPC) | [DISCOTECH](https://open.spotify.com/album/6uQZrY3rxFVD4Ce33SSwDM) | 2:49 | 2026-03-14 | 2026-04-15 |

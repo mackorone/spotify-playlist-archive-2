@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Gabi Melim",
-  "num_followers": 434708,
+  "num_followers": 434684,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "FLOR DA PELE",
         "url": "https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 163637,
       "name": "PESSOA PREFERIDA",
       "url": "https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Ver\u00e3071",
-        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Sentir Seu Calor",
-      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Enquanto os Distra\u00eddos Amam",
         "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 168097,
       "name": "Amor Inteiro",
       "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Ver\u00e3071",
+        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Sentir Seu Calor",
+      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "dois brilhantes",
         "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
       },
@@ -559,6 +579,26 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Vivendo Demais",
         "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
       },
@@ -583,26 +623,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
         "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 202285,
       "name": "Seu Her\u00f3i",
       "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Muita Sede",
         "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 185166,
       "name": "Outro \u00c1udio Meu",
       "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
         }
       ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -807,6 +811,42 @@
       "duration_ms": 179541,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Breno Duarte",
+          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -851,46 +891,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        },
-        {
-          "name": "Breno Duarte",
-          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 186223,
       "name": "CHUVA DE VER\u00c3O",
       "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -955,6 +939,22 @@
       "duration_ms": 161386,
       "name": "MARIA, MEDUSA",
       "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Quarto",
         "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Me Queimei",
         "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
       },
@@ -1111,6 +1111,26 @@
       "duration_ms": 161500,
       "name": "Lua Cheia",
       "url": "https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "SENSA\u00c7\u00c3O BONITA",
+        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 159997,
+      "name": "SENSA\u00c7\u00c3O BONITA",
+      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "SENSA\u00c7\u00c3O BONITA",
-        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 159997,
-      "name": "SENSA\u00c7\u00c3O BONITA",
-      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -1203,22 +1219,6 @@
       "duration_ms": 204000,
       "name": "Saber Confiar",
       "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-05-29 03:00:26",

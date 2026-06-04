@@ -1,28 +1,28 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
-  "num_followers": 37181,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Mirar",
+  "num_followers": 37246,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHvpjFw7fUvpN1O4gLTC7wgJjgu",
+  "snapshot_id": "AAAAAJiuxDiTDMrchDBLVFtxwojwYN6N",
   "tracks": [
     {
-      "added_at": "2026-05-27 04:00:18",
+      "added_at": "2026-06-03 04:00:42",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
+        "name": "Gradus Ad Parnassum",
+        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
       },
       "artists": [
         {
-          "name": "Daisy Arson",
-          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
         }
       ],
-      "duration_ms": 142855,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
+      "duration_ms": 240000,
+      "name": "N\u00e5r Solen G\u00e5r Ned",
+      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -41,6 +41,54 @@
       "url": "https://open.spotify.com/track/1g5MFZpsRf41ERL9gHCrGq"
     },
     {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "THE GNARLYCORE CLASS",
+        "url": "https://open.spotify.com/album/3xo0Exm8rSGrXAOzRVb3hI"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "duration_ms": 116146,
+      "name": "THE GNARLYCORE CLASS",
+      "url": "https://open.spotify.com/track/362pcZpk4jShFIoa2zWI6J"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
+      },
+      "artists": [
+        {
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+        }
+      ],
+      "duration_ms": 142855,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "Anodes",
+        "url": "https://open.spotify.com/album/3oIcN2JDoVUHQSgF9t1vZi"
+      },
+      "artists": [
+        {
+          "name": "Gold Souls",
+          "url": "https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "Dark Sun",
+      "url": "https://open.spotify.com/track/20ByEljDWbG6mqa8NVKyhq"
+    },
+    {
       "added_at": "2026-05-06 04:00:17",
       "album": {
         "name": "forever mine",
@@ -55,6 +103,58 @@
       "duration_ms": 166036,
       "name": "forever mine",
       "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "The Amalgamation",
+        "url": "https://open.spotify.com/album/51ZBH62Mskgv4WinsYtOnB"
+      },
+      "artists": [
+        {
+          "name": "ENOX",
+          "url": "https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou"
+        }
+      ],
+      "duration_ms": 213743,
+      "name": "The Amalgamation",
+      "url": "https://open.spotify.com/track/4oanLYzraNjj3ci5vS9izG"
+    },
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "Carry The Weight",
+        "url": "https://open.spotify.com/album/3F6AqVyNhhgbW8N6GwI1zY"
+      },
+      "artists": [
+        {
+          "name": "Kage Archer",
+          "url": "https://open.spotify.com/artist/4J5yNPryyCxOYnOLt6gdsR"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "duration_ms": 173990,
+      "name": "Carry The Weight",
+      "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "nothing but pain",
+        "url": "https://open.spotify.com/album/6agodDpdlvBxx6wABjxEvB"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "nothing but pain",
+      "url": "https://open.spotify.com/track/0gqsjAaOCDVn9owqTysO4p"
     },
     {
       "added_at": "2026-05-27 04:00:18",
@@ -85,24 +185,96 @@
       "url": "https://open.spotify.com/track/49QDswnidndafpN2VjkZQy"
     },
     {
-      "added_at": "2026-05-20 04:00:05",
+      "added_at": "2026-06-03 04:00:42",
       "album": {
-        "name": "Carry The Weight",
-        "url": "https://open.spotify.com/album/3F6AqVyNhhgbW8N6GwI1zY"
+        "name": "Rebel Son Rise!",
+        "url": "https://open.spotify.com/album/54ovnWhR8qS6dxyzUGu2i5"
       },
       "artists": [
         {
-          "name": "Kage Archer",
-          "url": "https://open.spotify.com/artist/4J5yNPryyCxOYnOLt6gdsR"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 173990,
-      "name": "Carry The Weight",
-      "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+      "duration_ms": 175800,
+      "name": "Rebel Son Rise!",
+      "url": "https://open.spotify.com/track/3444xNnvbrPsht9QaxVg5D"
+    },
+    {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "FLESH AND BONE",
+        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "THE FUTURE IS PINK",
+      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "Vomit Eater",
+        "url": "https://open.spotify.com/album/4EC8d3Xj3bFDOtOVfRpiqU"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Vomit Eater",
+      "url": "https://open.spotify.com/track/0ykOjLTx0d1kCRClc1cazO"
+    },
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "Flying Monkey",
+        "url": "https://open.spotify.com/album/0HeIdMhGYCF98wetun128f"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 249281,
+      "name": "Flying Monkey",
+      "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/1sgIFsWvMaXEUvZ2yWJlgW"
+      },
+      "artists": [
+        {
+          "name": "Hundred Arrows",
+          "url": "https://open.spotify.com/artist/38uqYLcmQ8vpaUKNlGo7aR"
+        },
+        {
+          "name": "Megalodon",
+          "url": "https://open.spotify.com/artist/6mqh3TtGuoCdutLJfREIGX"
+        }
+      ],
+      "duration_ms": 235229,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5njQlbGx0Yy1Hev1A7LcPX"
     },
     {
       "added_at": "2026-05-27 04:00:18",
@@ -123,6 +295,38 @@
       "duration_ms": 144324,
       "name": "WDYK",
       "url": "https://open.spotify.com/track/5zWIKlgGSwrSvMZONHMHpu"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "It Is Well\u2026",
+        "url": "https://open.spotify.com/album/2eJlb7v0MvEY9M408HT6GD"
+      },
+      "artists": [
+        {
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
+        }
+      ],
+      "duration_ms": 243338,
+      "name": "Whispers In Omen",
+      "url": "https://open.spotify.com/track/101B9tGKzfIK9Toio8mn0m"
+    },
+    {
+      "added_at": "2026-05-20 04:00:05",
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/1S2fQI7vepLVSdvb5TmiYp"
+      },
+      "artists": [
+        {
+          "name": "Lexi Layne",
+          "url": "https://open.spotify.com/artist/2VMQrg2WDXCrDgaimQZga0"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/5G0JtGsrYr1BgShZzdaAo2"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -147,86 +351,34 @@
     {
       "added_at": "2026-05-27 04:00:18",
       "album": {
-        "name": "THE SOUND",
-        "url": "https://open.spotify.com/album/6agDz5cnzDvYNAJx7D8SV0"
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS"
       },
       "artists": [
         {
-          "name": "CRYBLOOD",
-          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
         }
       ],
-      "duration_ms": 167109,
-      "name": "THE SOUND",
-      "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
+      "duration_ms": 188598,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
     },
     {
-      "added_at": "2026-04-29 04:00:32",
+      "added_at": "2026-04-22 04:00:05",
       "album": {
-        "name": "FLESH AND BONE",
-        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+        "name": "Waiting Here",
+        "url": "https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2"
       },
       "artists": [
         {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
         }
       ],
-      "duration_ms": 186000,
-      "name": "THE FUTURE IS PINK",
-      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "A Fragile Flame",
-        "url": "https://open.spotify.com/album/2q16tarzn2AdcFVi7Z7J9B"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "A Fragile Flame",
-      "url": "https://open.spotify.com/track/4bgpqaLKJ5ra63fi8TaMQ6"
-    },
-    {
-      "added_at": "2026-05-20 04:00:05",
-      "album": {
-        "name": "Flying Monkey",
-        "url": "https://open.spotify.com/album/0HeIdMhGYCF98wetun128f"
-      },
-      "artists": [
-        {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 249281,
-      "name": "Flying Monkey",
-      "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "It Is Well\u2026",
-        "url": "https://open.spotify.com/album/2eJlb7v0MvEY9M408HT6GD"
-      },
-      "artists": [
-        {
-          "name": "Your Spirit Dies",
-          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
-        }
-      ],
-      "duration_ms": 243338,
-      "name": "Whispers In Omen",
-      "url": "https://open.spotify.com/track/101B9tGKzfIK9Toio8mn0m"
+      "duration_ms": 313759,
+      "name": "Waiting Here",
+      "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -251,18 +403,18 @@
     {
       "added_at": "2026-05-27 04:00:18",
       "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS"
+        "name": "A Fragile Flame",
+        "url": "https://open.spotify.com/album/2q16tarzn2AdcFVi7Z7J9B"
       },
       "artists": [
         {
-          "name": "Gideon",
-          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
         }
       ],
-      "duration_ms": 188598,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
+      "duration_ms": 217894,
+      "name": "A Fragile Flame",
+      "url": "https://open.spotify.com/track/4bgpqaLKJ5ra63fi8TaMQ6"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -283,50 +435,18 @@
     {
       "added_at": "2026-05-27 04:00:18",
       "album": {
-        "name": "The Kids Will Kill Us",
-        "url": "https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k"
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6agDz5cnzDvYNAJx7D8SV0"
       },
       "artists": [
         {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
         }
       ],
-      "duration_ms": 225600,
-      "name": "The Kids Will Kill Us",
-      "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
-    },
-    {
-      "added_at": "2026-05-20 04:00:05",
-      "album": {
-        "name": "Judgement",
-        "url": "https://open.spotify.com/album/1S2fQI7vepLVSdvb5TmiYp"
-      },
-      "artists": [
-        {
-          "name": "Lexi Layne",
-          "url": "https://open.spotify.com/artist/2VMQrg2WDXCrDgaimQZga0"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Judgement",
-      "url": "https://open.spotify.com/track/5G0JtGsrYr1BgShZzdaAo2"
-    },
-    {
-      "added_at": "2026-04-15 04:00:20",
-      "album": {
-        "name": "end this",
-        "url": "https://open.spotify.com/album/5Q1aCxI8GNqIqtkK7fi1gv"
-      },
-      "artists": [
-        {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
-        }
-      ],
-      "duration_ms": 190182,
-      "name": "end this",
-      "url": "https://open.spotify.com/track/5mematTA9D87UfZG4OUHrL"
+      "duration_ms": 167109,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -343,6 +463,22 @@
       "duration_ms": 176601,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/5EW6qF1HX0CMNwmrMVTz9G"
+    },
+    {
+      "added_at": "2026-04-22 04:00:05",
+      "album": {
+        "name": "PIECES OF MY HEART",
+        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+      },
+      "artists": [
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "PIECES OF MY HEART",
+      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -377,38 +513,6 @@
       "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
     },
     {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "PIECES OF MY HEART",
-        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
-      },
-      "artists": [
-        {
-          "name": "Sorry X",
-          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "PIECES OF MY HEART",
-      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "Waiting Here",
-        "url": "https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2"
-      },
-      "artists": [
-        {
-          "name": "OHKAYA",
-          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
-        }
-      ],
-      "duration_ms": 313759,
-      "name": "Waiting Here",
-      "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
-    },
-    {
       "added_at": "2026-04-29 04:00:32",
       "album": {
         "name": "fvck.me.up",
@@ -423,6 +527,22 @@
       "duration_ms": 181132,
       "name": "fvck.me.up",
       "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
+    },
+    {
+      "added_at": "2026-05-06 04:00:17",
+      "album": {
+        "name": "Portrait set on fire",
+        "url": "https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "duration_ms": 229603,
+      "name": "Portrait set on fire",
+      "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -459,6 +579,38 @@
       "duration_ms": 156000,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Bottom Feeder",
+        "url": "https://open.spotify.com/album/61KI02dJ1qjbehSZAOVXYH"
+      },
+      "artists": [
+        {
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        }
+      ],
+      "duration_ms": 243702,
+      "name": "Bottom Feeder",
+      "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
+    },
+    {
+      "added_at": "2026-04-15 04:00:20",
+      "album": {
+        "name": "CARGO NET",
+        "url": "https://open.spotify.com/album/2a83SrFvtLnVNQ4XM5uOLQ"
+      },
+      "artists": [
+        {
+          "name": "MAIASAURA",
+          "url": "https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "CARGO NET",
+      "url": "https://open.spotify.com/track/2uWYO6SlLyUcFEjyJxkx1k"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -511,70 +663,6 @@
     {
       "added_at": "2026-05-06 04:00:17",
       "album": {
-        "name": "Portrait set on fire",
-        "url": "https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC"
-      },
-      "artists": [
-        {
-          "name": "breakkaway",
-          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
-        }
-      ],
-      "duration_ms": 229603,
-      "name": "Portrait set on fire",
-      "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
-    },
-    {
-      "added_at": "2026-04-15 04:00:20",
-      "album": {
-        "name": "CARGO NET",
-        "url": "https://open.spotify.com/album/2a83SrFvtLnVNQ4XM5uOLQ"
-      },
-      "artists": [
-        {
-          "name": "MAIASAURA",
-          "url": "https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "CARGO NET",
-      "url": "https://open.spotify.com/track/2uWYO6SlLyUcFEjyJxkx1k"
-    },
-    {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
-        "name": "Need This Patience",
-        "url": "https://open.spotify.com/album/5IAQXJwSdWg4VraezrPLMi"
-      },
-      "artists": [
-        {
-          "name": "Gold Souls",
-          "url": "https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k"
-        }
-      ],
-      "duration_ms": 167428,
-      "name": "Need This Patience",
-      "url": "https://open.spotify.com/track/5KZ18JogdoOFJOjmAMIZQG"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/5E875E2a5eonBEvCoBKgbJ"
-      },
-      "artists": [
-        {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2pCh7zubU7Im2D4lpr5DrJ"
-    },
-    {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
         "name": "Crave",
         "url": "https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN"
       },
@@ -593,6 +681,22 @@
       "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
     },
     {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "The Kids Will Kill Us",
+        "url": "https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k"
+      },
+      "artists": [
+        {
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "The Kids Will Kill Us",
+      "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
+    },
+    {
       "added_at": "2026-05-06 04:00:17",
       "album": {
         "name": "Pallor",
@@ -607,74 +711,6 @@
       "duration_ms": 253000,
       "name": "A Single Shade",
       "url": "https://open.spotify.com/track/3OMl7kRGQOB1eIwpwziLnp"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Dread",
-        "url": "https://open.spotify.com/album/5fEaxnc5LRtvJz17xn8nIW"
-      },
-      "artists": [
-        {
-          "name": "Sebastiside",
-          "url": "https://open.spotify.com/artist/6oGbb9FNMTuFCBxJgFiWIz"
-        }
-      ],
-      "duration_ms": 197422,
-      "name": "Dread",
-      "url": "https://open.spotify.com/track/5nTGBs12oCTo4XVhVE9mfN"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "Raisaris",
-        "url": "https://open.spotify.com/album/0vgDSbPdcF1u5nxj5Y3PiF"
-      },
-      "artists": [
-        {
-          "name": "Thorr",
-          "url": "https://open.spotify.com/artist/0Iya8LminBqbPLY0bISqZ8"
-        },
-        {
-          "name": "Bryant Lowry",
-          "url": "https://open.spotify.com/artist/4Ed0qH67z8yKCQl1KpTied"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "Raisaris",
-      "url": "https://open.spotify.com/track/24WKVzbhUF5JNZNGCNXVap"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Bottom Feeder",
-        "url": "https://open.spotify.com/album/61KI02dJ1qjbehSZAOVXYH"
-      },
-      "artists": [
-        {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        }
-      ],
-      "duration_ms": 243702,
-      "name": "Bottom Feeder",
-      "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "Leech",
-        "url": "https://open.spotify.com/album/4nwevfBEXZ49kbcAbivuo4"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 130065,
-      "name": "Leech",
-      "url": "https://open.spotify.com/track/7t8LIf1JmKKigK3dnrEesY"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -749,22 +785,6 @@
       "url": "https://open.spotify.com/track/0oOMrrm8EgMQtmSx2h1J66"
     },
     {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
-        "name": "Passage",
-        "url": "https://open.spotify.com/album/0SXsdfDq8bGMHfMHQYuVmz"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Passage",
-      "url": "https://open.spotify.com/track/4ySxsCBR401FaCitQWlbEH"
-    },
-    {
       "added_at": "2026-04-08 04:00:31",
       "album": {
         "name": "Gigantic Parasite Tongue",
@@ -779,34 +799,6 @@
       "duration_ms": 257246,
       "name": "Gigantic Parasite Tongue",
       "url": "https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0hErd93mwPhw5sGcggVmhK"
-      },
-      "artists": [
-        {
-          "name": "Prince Of Failure",
-          "url": "https://open.spotify.com/artist/4m3CUQmjdcjkYYS3MNUBS8"
-        },
-        {
-          "name": "Daniel Tompkins",
-          "url": "https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt"
-        },
-        {
-          "name": "Kristyn Hope",
-          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
-        },
-        {
-          "name": "Chimp Spanner",
-          "url": "https://open.spotify.com/artist/1luumZojARx0L3spmNwEgl"
-        }
-      ],
-      "duration_ms": 307293,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3mU1u8CWGW0Fom3Jm9o2YY"
     },
     {
       "added_at": "2026-04-15 04:00:20",
@@ -841,22 +833,6 @@
       "url": "https://open.spotify.com/track/2zzAvXPkq2PE0raC3AVIGI"
     },
     {
-      "added_at": "2026-04-08 04:00:31",
-      "album": {
-        "name": "A Brief Glimpse of Solace",
-        "url": "https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu"
-      },
-      "artists": [
-        {
-          "name": "Houses We Die In",
-          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
-        }
-      ],
-      "duration_ms": 234071,
-      "name": "flowers in february",
-      "url": "https://open.spotify.com/track/6TNNIj1wUHf1Y6HBioNyjh"
-    },
-    {
       "added_at": "2026-04-15 04:00:20",
       "album": {
         "name": "SEVERANCE",
@@ -873,38 +849,6 @@
       "url": "https://open.spotify.com/track/3wZA7CDRqut6aSxvW6tRew"
     },
     {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Eyes seeing eyes",
-        "url": "https://open.spotify.com/album/6LzsZ4cvkuBSUSc5dVd6hp"
-      },
-      "artists": [
-        {
-          "name": "Karmanjakah",
-          "url": "https://open.spotify.com/artist/0FwKUhicEd5QdZMl5NIXF3"
-        }
-      ],
-      "duration_ms": 356386,
-      "name": "Eyes seeing eyes",
-      "url": "https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "A Love I Hope Will Haunt Me Forever",
-        "url": "https://open.spotify.com/album/2cl6ZM8bBiMerOxDfbN87j"
-      },
-      "artists": [
-        {
-          "name": "Midwinter",
-          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
-        }
-      ],
-      "duration_ms": 267042,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/5zxllKP6BctpNXNUSn8Uwp"
-    },
-    {
       "added_at": "2026-04-15 04:00:20",
       "album": {
         "name": "Split Brow",
@@ -919,70 +863,6 @@
       "duration_ms": 220671,
       "name": "Split Brow",
       "url": "https://open.spotify.com/track/7BoMPwr6gxukuRukhU1zpO"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "Starless",
-        "url": "https://open.spotify.com/album/1lxoaqYe9BA1fiIWn97lL3"
-      },
-      "artists": [
-        {
-          "name": "Your Spirit Dies",
-          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
-        }
-      ],
-      "duration_ms": 159670,
-      "name": "Starless",
-      "url": "https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "I Thought I Could Hide But You Caught Me",
-        "url": "https://open.spotify.com/album/3XrjRCydo3E8TqwgNnClw8"
-      },
-      "artists": [
-        {
-          "name": "LOVELOST",
-          "url": "https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6"
-        }
-      ],
-      "duration_ms": 227897,
-      "name": "I Thought I Could Hide But You Caught Me",
-      "url": "https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK"
-    },
-    {
-      "added_at": "2026-04-15 04:00:20",
-      "album": {
-        "name": "Mirrorborn",
-        "url": "https://open.spotify.com/album/7w5Kf2PfmCJAaWsVIBhwNQ"
-      },
-      "artists": [
-        {
-          "name": "By the Thousands",
-          "url": "https://open.spotify.com/artist/7jbkCD5BIRbdCLOz5J6S1Y"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "Mirrorborn",
-      "url": "https://open.spotify.com/track/7HXn3gBVIc92JiACznbsDE"
-    },
-    {
-      "added_at": "2026-04-08 04:00:31",
-      "album": {
-        "name": "VANILLA LATTE",
-        "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
-      },
-      "artists": [
-        {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
-        }
-      ],
-      "duration_ms": 144973,
-      "name": "VANILLA LATTE",
-      "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
     }
   ],
   "unique_name": "Fresh Finds Heavy",

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus and Tasch\u00e9",
-  "num_followers": 27775,
+  "num_followers": 27784,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
-      },
-      "artists": [
-        {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
-        }
-      ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Jou Tyd Is Nou",
         "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-04-24 09:03:29",

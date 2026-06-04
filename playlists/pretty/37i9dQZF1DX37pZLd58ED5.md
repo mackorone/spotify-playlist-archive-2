@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,040 likes - 114 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,021 likes - 114 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 21 | [Fenicottero Rosa](https://open.spotify.com/track/04Qd8ESfSgKob7Txyy9URe) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Fenicottero Rosa](https://open.spotify.com/album/0U9bke0LcFrC3HybNmGZzm) | 2:16 |
 | 22 | [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 |
 | 23 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
-| 24 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
+| 24 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Ay Mazza](https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 25 | [Tu mi Fai](https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Tu mi Fai](https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG) | 2:41 |
 | 26 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 |
 | 27 | [Tempo \(feat\. Latrelle, Promessa\)](https://open.spotify.com/track/7fRk1NaO920sA3g8L8CWTK) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 3:24 |

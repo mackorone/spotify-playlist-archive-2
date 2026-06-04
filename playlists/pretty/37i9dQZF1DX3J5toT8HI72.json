@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 834132,
+  "num_followers": 834104,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "Frejat Ao Vivo No Rock In Rio",
         "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 226040,
       "name": "Espat\u00f3dea",
       "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "Seu e S\u00f3",
-        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Seu e S\u00f3",
-      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "Bossa Nova Essenciais",
+        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
+      },
+      "artists": [
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "Bossa Nova Essenciais",
-        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
-      },
-      "artists": [
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "MAIS FORTE QUE A D\u00daVIDA",
+        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 206171,
+      "name": "ANA",
+      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 151306,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "MAIS FORTE QUE A D\u00daVIDA",
-        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 206171,
-      "name": "ANA",
-      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
+        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
+        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
+      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
+    },
+    {
+      "added_at": "2026-05-29 03:00:11",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2026-05-29 03:00:11",
-      "album": {
-        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
-        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
-      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-05-29 03:00:11",
@@ -1391,22 +1395,18 @@
     {
       "added_at": "2026-05-29 03:00:11",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2026-05-29 03:00:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BossMan Dlow & Megan Thee Stallion, Latto, YG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,954 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,997 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Speshal \(Interlude\)](https://open.spotify.com/track/4064ZOM3nFvAxCdIq50NlM) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [8 Shots](https://open.spotify.com/album/0mbgu8AMvevYtB4eP6SNmY) | 1:39 |
 | 46 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 |
 | 47 | [Could Be Worse](https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Could Be Worse](https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9) | 2:20 |
-| 48 | [RESPECT THE JUX](https://open.spotify.com/track/5sM2pFF9TzD8YjhJPOB6qO) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [RESPECT THE JUX](https://open.spotify.com/album/4arvePDjv6IXLtf8ZCdVWy) | 2:13 |
-| 49 | [Planet Vegeta](https://open.spotify.com/track/1oF6hVybDDejl7BFglz5C1) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Dump Gawd: Hyperbolic Time Chamber Rap 2](https://open.spotify.com/album/4IfZvCygsn5ZvvJcRl6ncL) | 2:16 |
+| 48 | [Livin Room](https://open.spotify.com/track/32CvgJxGJlTZRxiZr3tElU) | [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD) | [Livin Room](https://open.spotify.com/album/4n5BXudZVPWMyv9JGK4u2c) | 2:19 |
+| 49 | [RESPECT THE JUX](https://open.spotify.com/track/5sM2pFF9TzD8YjhJPOB6qO) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [RESPECT THE JUX](https://open.spotify.com/album/4arvePDjv6IXLtf8ZCdVWy) | 2:13 |
+| 50 | [Planet Vegeta](https://open.spotify.com/track/1oF6hVybDDejl7BFglz5C1) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Dump Gawd: Hyperbolic Time Chamber Rap 2](https://open.spotify.com/album/4IfZvCygsn5ZvvJcRl6ncL) | 2:16 |
 
 Snapshot ID: `AAAAAFGjFcB4dNSSQy5iXjTm2gJENP5T`

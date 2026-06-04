@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Jay de Lys
 
-376 songs - 1 day 11 hr 18 min
+379 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Desde El Oceano](https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Technical Progress, Vol\. 7 \(Compiled by Stergios Sigma & Mike T\)](https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj) | 8:54 | 2020-09-04 | 2023-11-18 |
 | [Desde El Oceano](https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Stay Home, Vol\. 017](https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ) | 8:54 | 2020-09-04 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/28S3IlHu1KEdSLNmdXh9gP) | [Antrim](https://open.spotify.com/artist/271h29FBgospHlk0pFn8fS) | [Desire / Purpose / Appearance](https://open.spotify.com/album/1MjtLGJCFFWcTkMa3Gnsx8) | 9:25 | 2020-09-04 | 2023-11-18 |
+| [Diluted](https://open.spotify.com/track/47JGaeeCfN7DbUZwJyyNMH) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Diluted](https://open.spotify.com/album/7MAntKD2ONADnYoZBHpqUl) | 6:48 | 2026-05-29 |  |
 | [Discovery's](https://open.spotify.com/track/4DvTSZCc4aGhSLAk5y4AKb) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Discovery's](https://open.spotify.com/album/6RsVfBtSVkTKyqqtW27Tj2) | 4:28 | 2026-04-02 | 2026-05-29 |
 | [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 | 2024-05-06 | 2025-03-20 |
 | [Dogma \- Original Mix](https://open.spotify.com/track/05W1NW68MEKEEefEVjGKRE) | [Paul Deep \(AR\)](https://open.spotify.com/artist/6xxlOO67SHYReIUQ2Jd2IJ) | [Dogma](https://open.spotify.com/album/5FrVcqShI72lMOdO1MaHbe) | 8:10 | 2020-09-04 | 2023-11-18 |
@@ -235,6 +236,7 @@
 | [Narita](https://open.spotify.com/track/3kkBObalFK4ZYbpK1V1aNb) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Resilience](https://open.spotify.com/album/0LOdLAhSPFpwUXF19fkJf6) | 8:40 | 2020-09-04 | 2023-11-18 |
 | [Nebular](https://open.spotify.com/track/05nEbg3N4biefeiuId2rRp) | [Lucas Rossi](https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq) | [Nebular, Pt\. 2](https://open.spotify.com/album/79nnBKVydX1ltc3Tbz2Cae) | 8:32 | 2020-09-04 | 2023-11-18 |
 | [Nebular](https://open.spotify.com/track/3U73eYzHzimwCEJ0bTlJ8U) | [Lucas Rossi](https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq) | [Nebular, Pt\. 2](https://open.spotify.com/album/7tjm1KoQMe0xnz2DC6ZAry) | 8:32 | 2020-09-04 | 2022-07-29 |
+| [Never Ending Summer](https://open.spotify.com/track/74akFOTZRGOofXAGerOXAE) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Never Ending Summer](https://open.spotify.com/album/2isNEvBczA31JAm3ldTKG1) | 7:41 | 2026-05-29 |  |
 | [Never Enough](https://open.spotify.com/track/6SGldTrSqWGFXiRCHJBDZZ) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [Never Enough](https://open.spotify.com/album/7cwSDn7XGORRgGgJSHHV8q) | 6:38 | 2024-03-22 | 2025-03-20 |
 | [New Opportunity](https://open.spotify.com/track/66y15ETMtB3mzKo78fGJIW) | [Exile \(AR\)](https://open.spotify.com/artist/76yPOLInkrF7cHu6szf0df) | [New Opportunity](https://open.spotify.com/album/7gDd4lGvy8TjfbS0AjJp2S) | 6:41 | 2025-06-27 |  |
 | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Bernardita Sonzini](https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL) | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm) | 2:43 | 2024-02-02 | 2025-03-20 |
@@ -287,6 +289,7 @@
 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 | 2023-11-17 | 2025-06-27 |
 | [Rockstar \- Giorgio Stefano & Figueredo \(AR\) Remix](https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S) | [Torazza](https://open.spotify.com/artist/0B7BhMVRUOzbqey0IGPlpI), [Figueredo \(AR\)](https://open.spotify.com/artist/4cyoKVb1COMRpx2QNZg8Rk), [Giorgio Stefano](https://open.spotify.com/artist/3NFTYeAHSkEWw2YOtBPQjM) | [Rockstar](https://open.spotify.com/album/4xqNNssTQ9AwP1pMk7gGPd) | 5:34 | 2025-08-29 | 2025-11-07 |
 | [ROLL BASS](https://open.spotify.com/track/2vPoK3jUB2MQurzdRtLISu) | [La Cintia](https://open.spotify.com/artist/1fNABhEytJVAJtJJQaejiP) | [ROLL BASS](https://open.spotify.com/album/0MgRWGzM4WRLj2VocHHvT5) | 6:10 | 2026-05-22 |  |
+| [Roots](https://open.spotify.com/track/5ykWGTIN7j81tP9aastxdH) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Roots](https://open.spotify.com/album/74Zbn8sDwMG7aQ6WwZZdC1) | 6:43 | 2026-05-29 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Royal Road](https://open.spotify.com/track/4MCv2tKMjZ9umshBDKVnPz) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Impetus](https://open.spotify.com/album/33HW8bU05fylO4Dgea6LQj) | 6:22 | 2025-06-13 |  |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-02 | 2025-07-08 |

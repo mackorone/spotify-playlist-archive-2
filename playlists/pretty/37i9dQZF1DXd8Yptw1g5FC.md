@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Kubilay Karça ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,634 likes - 121 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,623 likes - 121 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 31 | [ISTANBUL/BURSA](https://open.spotify.com/track/6zTPZZsYlCkKolR8Lk7T1c) | [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn), [D\-azy](https://open.spotify.com/artist/5xP5qr6ClCfcCk0kkp8OMJ), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [ISTANBUL/BURSA](https://open.spotify.com/album/0FJSHyDkSjwdkiqHkQNCuy) | 2:10 |
 | 32 | [Benim Rüzgarım](https://open.spotify.com/track/3kovEaz7wqohHOzGlwNpME) | [Cansever](https://open.spotify.com/artist/4i6eVyyyPdSryQCzO7GK0K) | [Benim Rüzgarım](https://open.spotify.com/album/6pYcYX2BnriPcVWJqRafrU) | 4:00 |
 | 33 | [En Büyük Aşkım \- Bir deli yürek acısındayım](https://open.spotify.com/track/1VAfqUV47v1csngOi0bvNb) | [Nebi Demir](https://open.spotify.com/artist/4Ys9T6FpNzgWFDshsftmcQ) | [En Büyük Aşkım \(Bir deli yürek acısındayım\)](https://open.spotify.com/album/3V9l51t68pj4aP6FCxdybE) | 2:58 |
-| 34 | [Magusa Limanı](https://open.spotify.com/track/2eP8Inj3R3OwPPt38be3yw) | [Murat Yeter](https://open.spotify.com/artist/0iLfrHLxdwM5Rtd9iyk9xu), [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Magusa Limanı](https://open.spotify.com/album/1O7EppgkTmHWdvz5Gyconx) | 3:16 |
+| 34 | [Mağusa Limanı](https://open.spotify.com/track/2eP8Inj3R3OwPPt38be3yw) | [Murat Yeter](https://open.spotify.com/artist/0iLfrHLxdwM5Rtd9iyk9xu), [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Mağusa Limanı](https://open.spotify.com/album/1O7EppgkTmHWdvz5Gyconx) | 3:16 |
 | 35 | [Am I Wrong](https://open.spotify.com/track/7BkSRozTSzJIsQAuIzEenp) | [Alp Atesoglu](https://open.spotify.com/artist/1d9akcFLkx0GwxLmfMQgzV), [Hafex](https://open.spotify.com/artist/1br3nylz7tCq82qiwd4j6d), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Am I Wrong](https://open.spotify.com/album/2rqZ4g1XHSG6QQ3VZ2wLvy) | 2:20 |
 | 36 | [AYNALAR](https://open.spotify.com/track/21n9PfCOjLrsMk7SA4Poj7) | [Yiğit Seferoğlu](https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc) | [AYNALAR](https://open.spotify.com/album/69lS36UgyAgkRRQ0m5VWvk) | 2:52 |
 | 37 | [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 |

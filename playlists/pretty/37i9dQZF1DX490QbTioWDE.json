@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 820462,
+  "num_followers": 820486,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Quisiera que esta noche (En Vivo)",
         "url": "https://open.spotify.com/album/5l3EyOH5X3F51PwvJQEMB3"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 175745,
       "name": "Quisiera que esta noche - En Vivo",
       "url": "https://open.spotify.com/track/0hGGy0Lw6EABqURYlgZRlx"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Imag\u00ednate (En Vivo)",
-        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Imag\u00ednate - En Vivo",
-      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 170580,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Imag\u00ednate (En Vivo)",
+        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Imag\u00ednate - En Vivo",
+      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207843,
       "name": "Si Fuera Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
         "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 259604,
       "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
       "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Un Nuevo Tiempo",
+        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
     },
     {
       "added_at": "2026-05-29 20:56:30",

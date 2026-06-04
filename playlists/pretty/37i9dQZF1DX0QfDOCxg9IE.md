@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,804 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,791 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [KAKOS GIA SENA](https://open.spotify.com/track/7kBrXPkGGmQMDmnz7Bi1Yh) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 3:01 |
 | 60 | [Telia](https://open.spotify.com/track/1hM5FY0uXg0NqTaeibm2cq) | [Ioakim Fokas](https://open.spotify.com/artist/3gPQS5zS2UCbrBuRtuxiNT), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Telia](https://open.spotify.com/album/4J7LEQh6SB3UGZFvRYTH4U) | 3:53 |
 
-Snapshot ID: `AAAAADsu9oZO6ukP5KIYS+c3xpB+Pgh1`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

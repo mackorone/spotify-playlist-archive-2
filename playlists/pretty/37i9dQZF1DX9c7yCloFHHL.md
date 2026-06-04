@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Boards of Canada
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,877 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,954 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 15 | [Wabi](https://open.spotify.com/track/2di7xaVg3IQL6FyU2CAfAR) | [Tomotsugu Nakamura](https://open.spotify.com/artist/2wsKuzRDoi9crzR10UVyk2), [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Aware 哀れ](https://open.spotify.com/album/2e6rXHscr13zMnNIiq9Yap) | 3:48 |
 | 16 | [through the fields](https://open.spotify.com/track/1HHbFR6xC1OcHsCXVhsGqb) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [find yourself](https://open.spotify.com/album/4x79NzTHDZhEE6KYW0OP6x) | 1:51 |
 | 17 | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 |
-| 18 | [Germination](https://open.spotify.com/track/1agDeqh9KRbHxTSFqnZb27) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Music To Watch Seeds By 007: Brian D'Souza \(Sunflowers\)](https://open.spotify.com/album/1Vn0pbpGBUL3jeg1m6GRut) | 5:06 |
+| 18 | [Germination](https://open.spotify.com/track/1agDeqh9KRbHxTSFqnZb27) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Music To Watch Seeds Grow By 007: Brian D'Souza \(Sunflowers\)](https://open.spotify.com/album/1Vn0pbpGBUL3jeg1m6GRut) | 5:06 |
 | 19 | [Sunset III](https://open.spotify.com/track/6BcjbcG9pcOVdt44WNvd8s) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Counting Sunsets](https://open.spotify.com/album/0tA6nSLBJ02G274Py3mhGz) | 3:39 |
 | 20 | [Christian's Song](https://open.spotify.com/track/5Ok49FU57NSkc9q0rdagWr) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Soak Vol\. 1](https://open.spotify.com/album/1o5Vf001ZZb7ysQE9VFQJI) | 3:46 |
 | 21 | [Youth](https://open.spotify.com/track/1hThWE36H46vtJX9qzHvHk) | [IOTO](https://open.spotify.com/artist/4xNKksDTNI18J2z55SRqGU) | [Youth](https://open.spotify.com/album/3VfPucGpvIRzyRIOPOUjKP) | 3:16 |

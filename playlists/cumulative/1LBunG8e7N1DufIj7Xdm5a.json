@@ -37565,6 +37565,24 @@
     },
     {
       "album": {
+        "name": "Feel That Call",
+        "url": "https://open.spotify.com/album/3ZkUwkwwaGv3XZlOuojERe"
+      },
+      "artists": [
+        {
+          "name": "LORD AMEN",
+          "url": "https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196159,
+      "name": "Konga Talk",
+      "url": "https://open.spotify.com/track/3N5dJflQ3zvAKaZpEu9drD"
+    },
+    {
+      "album": {
         "name": "Kontrol",
         "url": "https://open.spotify.com/album/2wiyEel0DsxecBFpTDsAv8"
       },
@@ -77292,6 +77310,24 @@
       "duration_ms": 265264,
       "name": "What About Us?",
       "url": "https://open.spotify.com/track/0knAZRU1iJZP3gaFwdCs8b"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215967,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP"
     },
     {
       "album": {

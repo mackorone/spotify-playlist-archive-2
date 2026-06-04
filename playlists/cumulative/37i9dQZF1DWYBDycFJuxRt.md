@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Aooo \*👉 <a href="https://spice.eplus.jp/articles/346219">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Aooo \*👉 <a href="https://spice.eplus.jp/articles/346528">連動記事</a>をSPICEでチェック!
 
-14,907 songs - 39 day 13 hr 6 min
+14,908 songs - 39 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [2026/5/20 LANAが新曲「Drama Queen」をリリース！Balming Tigerのニューアルバム、BIGBANGのTAEYANGの9年ぶりのアルバム、the cabsの13年ぶりの新曲も！ラッパーWorldwide Skippaの1stアルバムもピックアップ！！セカンドバッカーからのメッセージも到着！](https://open.spotify.com/episode/4UDrmhthosZcSggAaNhygY) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:23 | 2026-05-20 | 2026-05-27 |
 | [2026/5/27 KID FRESINOが折坂悠太との新曲をリリース！Vaundyの新曲、クリープハイプのニューEP、YOASOBIのAyaseのソロEPもピックアップ！SiMのMAH＆花冷え。のYukinaからメッセージも到着！](https://open.spotify.com/episode/6ncPGiPwrWlgBPxTR3kPYl) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 25:48 | 2026-05-27 | 2026-06-03 |
 | [2026/5/6 宇多田ヒカルロングインタビュー配信！細野晴臣が参加した 矢野顕子の新曲やBE:FIRST、CORTISのニューリリースもピックアップ！](https://open.spotify.com/episode/0xuTXcwYHJToFwH5hSESBt) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 55:39 | 2026-05-06 | 2026-05-13 |
+| [2026/6/3 Aoooがニューアルバム『Rooom』をリリースしてカバーに！Early Noiseアーティストでもあるハク。の新曲、スーパー登山部、Julia Takadaのアルバムも！山内総一郎とKREVAによるコラボ曲もピックアップ！楽音からメッセージも到着！](https://open.spotify.com/episode/1FBAfGKMz4OCe1IgrLnPT9) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 25:47 | 2026-06-03 |  |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 | 2026-04-22 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |

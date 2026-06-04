@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,493 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,479 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 100 | [Nose On The Grindstone](https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:55 |
 | 101 | [Night Terror](https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Parasomnia](https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd) | 9:55 |
 | 102 | [Coritos de Fuego](https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G), [Adrienne Bailon\-Houghton](https://open.spotify.com/artist/7yfn5P0P0V6r3uUcxd4d6u) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 9:36 |
-| 103 | [Still Here](https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 2:55 |
-| 104 | [Relationships](https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 |
+| 103 | [Relationships](https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 |
+| 104 | [Still Here](https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 2:55 |
 | 105 | [Ahí Estabas Tú](https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 1:52 |
 | 106 | [La Del Proceso](https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Y Lo Que Viene](https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat) | 3:04 |
 | 107 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |

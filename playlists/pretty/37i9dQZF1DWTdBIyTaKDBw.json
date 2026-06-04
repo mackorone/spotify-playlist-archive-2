@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 28278,
+  "num_followers": 28302,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Memory Within A Dream",
+        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
+      },
+      "artists": [
+        {
+          "name": "Ky akasha",
+          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Back to Nature",
         "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 139636,
       "name": "Tiger Lily",
       "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Memory Within A Dream",
-        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
-      },
-      "artists": [
-        {
-          "name": "Ky akasha",
-          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -195,6 +195,22 @@
       "duration_ms": 220805,
       "name": "Teahouse Spirits",
       "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -243,22 +259,6 @@
       "duration_ms": 155951,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/34qshfO0PEUioprn00x3YW"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
-      },
-      "artists": [
-        {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 176222,
       "name": "22 Samurai",
       "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Moonlit Tales",
-        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 198254,
-      "name": "In the Roses",
-      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/05lFHzwRQLVQpBfaJGgrpt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 192407,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Moonlit Tales",
+        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 198254,
+      "name": "In the Roses",
+      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
-      },
-      "artists": [
-        {
-          "name": "Shao Rong",
-          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "Wild Rose",
-      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 228857,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
+      },
+      "artists": [
+        {
+          "name": "Shao Rong",
+          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
+        }
+      ],
+      "duration_ms": 279760,
+      "name": "Wild Rose",
+      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Natsukashi",
-        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        }
-      ],
-      "duration_ms": 117108,
-      "name": "Natsukashi",
-      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Tokyo Rooftop",
         "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 132942,
       "name": "Tokyo Rooftop",
       "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Natsukashi",
+        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        }
+      ],
+      "duration_ms": 117108,
+      "name": "Natsukashi",
+      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Stories From Japan II",
+        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        },
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Lost in Tokyo",
+      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Yugen",
         "url": "https://open.spotify.com/album/7KCwE6FNoDVt1vul0jQyUl"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 145054,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/0StrXVWeTBblvc2gPTcHdR"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Stories From Japan II",
-        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        },
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Lost in Tokyo",
-      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Vanishing Journey",
+        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "duration_ms": 146925,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 151730,
       "name": "Sunlit",
       "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Vanishing Journey",
-        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        }
-      ],
-      "duration_ms": 146925,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Ancient Bond",
+        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Ancient Bond",
+      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "First Light Of Spring",
         "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 140678,
       "name": "Jade Temple",
       "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Ancient Bond",
-        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Ancient Bond",
-      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
-      },
-      "artists": [
-        {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Nama",
         "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 131240,
       "name": "Death Curse",
       "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+      },
+      "artists": [
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     }
   ],
   "unique_name": "oriental lofi",

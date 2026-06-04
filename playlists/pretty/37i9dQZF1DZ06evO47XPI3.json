@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12843,
+  "num_followers": 12845,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAAC1AV7gnqH+Bx0PlpjBnWsL",
+  "snapshot_id": "ah4dAAAAAAArYGBvNSMcuQn2O07mKK3b",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 201306,
-      "name": "Baby I Miss You",
-      "url": "https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh"
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
+      "duration_ms": 201306,
+      "name": "Baby I Miss You",
+      "url": "https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Best Vol. 1",
-        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
+        "name": "Cameo Parkway 1957-1967",
+        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 223082,
-      "name": "Didn't I Blow Your Mind - Re-Record",
-      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
+      "duration_ms": 144093,
+      "name": "He Don't Really Love You",
+      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cameo Parkway 1957-1967",
-        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
+        "name": "The Best Of The Best Vol. 1",
+        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 144093,
-      "name": "He Don't Really Love You",
-      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
+      "duration_ms": 223082,
+      "name": "Didn't I Blow Your Mind - Re-Record",
+      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delfonics Today All Platinium",
+        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive & Kicking",
         "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delfonics Today All Platinium",
-        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Strangers Again",
-      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Philly Groove Rarities",
         "url": "https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 288368,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/5IzBPXm8czCS3AH49gurKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
+        }
+      ],
+      "duration_ms": 326779,
+      "name": "Just My Imagination - Live",
+      "url": "https://open.spotify.com/track/5hxq2wCFTyJXydywcjxwgM"
     },
     {
       "added_at": null,
@@ -811,26 +831,6 @@
       "duration_ms": 158400,
       "name": "Love\u2019s Melody",
       "url": "https://open.spotify.com/track/3T4GjP2tnpfd5dMF59tuQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
-        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        },
-        {
-          "name": "Ray, Goodman & Brown",
-          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
-        }
-      ],
-      "duration_ms": 326779,
-      "name": "Just My Imagination - Live",
-      "url": "https://open.spotify.com/track/5hxq2wCFTyJXydywcjxwgM"
     }
   ],
   "unique_name": "This Is The Delfonics",

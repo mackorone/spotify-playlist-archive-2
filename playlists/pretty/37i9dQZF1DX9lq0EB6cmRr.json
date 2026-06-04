@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5719,
+  "num_followers": 5720,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Twilight Waltz",
-      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+      "duration_ms": 179000,
+      "name": "Twilight Waltz",
+      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1595,26 +1595,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
         },
         {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 40906,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
-      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1655,6 +1651,30 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 40906,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
+      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 314573,
       "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
-        },
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 323600,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1908,9 +1908,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 433986,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
-      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+      "duration_ms": 323600,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -2016,6 +2016,26 @@
       },
       "artists": [
         {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
           "name": "Pyotr Ilyich Tchaikovsky",
           "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
@@ -2027,22 +2047,6 @@
       "duration_ms": 600280,
       "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
       "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Une Vie Full album",
-        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     }
   ],
   "unique_name": "Classics Korea",

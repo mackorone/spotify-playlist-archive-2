@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-967 songs - 2 day 7 hr 50 min
+968 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-13 |  |
 | [Hold You](https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 4:42 | 2022-02-11 | 2022-07-27 |
 | [Home](https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Home](https://open.spotify.com/album/14UiFDriC8i4y7WxqCd2sz) | 2:30 | 2022-04-08 | 2022-07-27 |
+| [Home](https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Home](https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn) | 4:53 | 2026-05-22 |  |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-03-10 | 2023-06-10 |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/2VwAnJDRNjLQMIAgCgGhvG) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2yZZdzNyIzNm2PVnLZMWwO) | 4:00 | 2023-09-15 | 2024-07-27 |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:00 | 2023-09-15 | 2024-04-19 |

@@ -1871,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Diluted",
+        "url": "https://open.spotify.com/album/7MAntKD2ONADnYoZBHpqUl"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Mercurio",
+          "url": "https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408595,
+      "name": "Diluted",
+      "url": "https://open.spotify.com/track/47JGaeeCfN7DbUZwJyyNMH"
+    },
+    {
+      "album": {
         "name": "Discovery's",
         "url": "https://open.spotify.com/album/6RsVfBtSVkTKyqqtW27Tj2"
       },
@@ -4739,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Never Ending Summer",
+        "url": "https://open.spotify.com/album/2isNEvBczA31JAm3ldTKG1"
+      },
+      "artists": [
+        {
+          "name": "Emi Galvan",
+          "url": "https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461591,
+      "name": "Never Ending Summer",
+      "url": "https://open.spotify.com/track/74akFOTZRGOofXAGerOXAE"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/7cwSDn7XGORRgGgJSHHV8q"
       },
@@ -5808,6 +5848,24 @@
       "duration_ms": 370669,
       "name": "ROLL BASS",
       "url": "https://open.spotify.com/track/2vPoK3jUB2MQurzdRtLISu"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/74Zbn8sDwMG7aQ6WwZZdC1"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Rada",
+          "url": "https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403361,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/5ykWGTIN7j81tP9aastxdH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40545,
+  "num_followers": 40548,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADmUeF2Lnf2RWPt9mAEHiZi",
+  "snapshot_id": "ah4dAAAAAADZG7gaupjhSGy+UTZ6eXPb",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 216831,
+      "name": "The Need to Know (feat. SZA)",
+      "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 262400,
       "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
       "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 216831,
-      "name": "The Need to Know (feat. SZA)",
-      "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
     },
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
-      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 395950,
       "name": "The Matrimony (feat. Usher)",
       "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
+      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Expectations (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -955,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
@@ -991,6 +951,46 @@
       "duration_ms": 286900,
       "name": "You Got It (feat. Wale)",
       "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Expectations (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 249271,
+      "name": "The Girls on Drugs",
+      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
     },
     {
       "added_at": null,

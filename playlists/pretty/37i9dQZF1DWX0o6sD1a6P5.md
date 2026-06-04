@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tayc x Singuila
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,614 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,734 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
 | 50 | [BENGA](https://open.spotify.com/track/6UHD4LWiUiOE0iGFnBvkWK) | [Dalso](https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5), [L I B](https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa) | [BENGA](https://open.spotify.com/album/7AyXXLPQ6ri8QsfBnlpfmp) | 2:39 |
 
-Snapshot ID: `AAAAACVG1GQY/C7NxrGud86iPsN51/TK`
+Snapshot ID: `AAAAAJCLYRIbERYs1K2Rz0aQ8jPMJlyR`

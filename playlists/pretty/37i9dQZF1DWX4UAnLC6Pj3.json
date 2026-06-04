@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302461,
+  "num_followers": 1302473,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 152908,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Aprend\u00ed La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 178808,
+      "name": "Aprend\u00ed La Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 156893,
       "name": "Chalupas y buenas",
       "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Aprend\u00ed La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 178808,
-      "name": "Aprend\u00ed La Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -707,22 +707,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Mary Es Mi Amor",
-        "url": "https://open.spotify.com/album/6obM8NwXf7JiCO4F7nRy3n"
+        "name": "Tequila y Guaro",
+        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 199066,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/1yGk4QwKxCHS5iXssJnvKE"
+      "duration_ms": 182306,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -743,6 +739,26 @@
       "duration_ms": 165075,
       "name": "Primero Ens\u00e9\u00f1ate A Querer",
       "url": "https://open.spotify.com/track/7CPmZLF2rJUxxE85S011rf"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Mary Es Mi Amor",
+        "url": "https://open.spotify.com/album/6obM8NwXf7JiCO4F7nRy3n"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/1yGk4QwKxCHS5iXssJnvKE"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -775,22 +791,6 @@
       "duration_ms": 223829,
       "name": "Mente Ocupada",
       "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Tequila y Guaro",
-        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Del Cielo Nada Cae",
+        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "duration_ms": 114181,
+      "name": "Del Cielo Nada Cae",
+      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 200683,
       "name": "Aunque Me Duela M\u00e1s Que A Ti",
       "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Del Cielo Nada Cae",
-        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
-      },
-      "artists": [
-        {
-          "name": "Kompa Marley",
-          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
-        }
-      ],
-      "duration_ms": 114181,
-      "name": "Del Cielo Nada Cae",
-      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
-      },
-      "artists": [
-        {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
-        },
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 182376,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1187,24 +1167,28 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Se Me Sali\u00f3 Una Lagrimita",
-        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
         }
       ],
-      "duration_ms": 165329,
-      "name": "Se Me Sali\u00f3 Una Lagrimita",
-      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
+      "duration_ms": 182376,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
     },
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
         "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
       },
       "artists": [
         {
@@ -1212,25 +1196,9 @@
           "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
         }
       ],
-      "duration_ms": 244650,
-      "name": "Tu Ex Amigo",
-      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 164153,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1251,6 +1219,38 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 164153,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Qui\u00e9n te entiende",
         "url": "https://open.spotify.com/album/1JkjGZwM13QmiR4HceYBzQ"
       },
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 244650,
+      "name": "Tu Ex Amigo",
+      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "T\u00fa Ya Las Conoces, Vol. 1",
         "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 141688,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Si Tu Te Fueras De Mi",
-        "url": "https://open.spotify.com/album/3OAkgasHl1sRwYw6j726HC"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 182538,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6YGGn7dDqMLi1cxxRDNtmk"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
-      },
-      "artists": [
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -1355,6 +1339,38 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+      },
+      "artists": [
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Si Tu Te Fueras De Mi",
+        "url": "https://open.spotify.com/album/3OAkgasHl1sRwYw6j726HC"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 182538,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6YGGn7dDqMLi1cxxRDNtmk"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
       },
@@ -1367,42 +1383,6 @@
       "duration_ms": 176982,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Si No Me Querias",
-        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 231780,
-      "name": "Si No Me Querias",
-      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Coleccionando Heridas",
-        "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        },
-        {
-          "name": "Diana Reyes",
-          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
-        }
-      ],
-      "duration_ms": 201340,
-      "name": "Coleccionando Heridas",
-      "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Coleccionando Heridas",
+        "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        },
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "duration_ms": 201340,
+      "name": "Coleccionando Heridas",
+      "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Los Que Amo",
         "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Si No Me Querias",
+        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "Si No Me Querias",
+      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Alergico Al Amor",
         "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 190767,
       "name": "Alergico Al Amor",
       "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
+        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
       "artists": [
         {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 181388,
-      "name": "Dame Felicidad",
-      "url": "https://open.spotify.com/track/4D400kaUvocUR8tnPXmK0F"
+      "duration_ms": 340016,
+      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
       },
       "artists": [
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
         }
       ],
-      "duration_ms": 340016,
-      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
+      "duration_ms": 181388,
+      "name": "Dame Felicidad",
+      "url": "https://open.spotify.com/track/4D400kaUvocUR8tnPXmK0F"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Pa' Adelante Voy",
-        "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
-      },
-      "artists": [
-        {
-          "name": "Jr Salazar",
-          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
-        }
-      ],
-      "duration_ms": 164684,
-      "name": "Pa' Adelante Voy",
-      "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Pa' Adelante Voy",
+        "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
+      },
+      "artists": [
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "duration_ms": 164684,
+      "name": "Pa' Adelante Voy",
+      "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
     },
     {
       "added_at": "2026-05-30 18:53:37",

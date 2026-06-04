@@ -6649,6 +6649,24 @@
     },
     {
       "album": {
+        "name": "Ego Check",
+        "url": "https://open.spotify.com/album/3Gg4MSFkvm9jpmjWbUOSDI"
+      },
+      "artists": [
+        {
+          "name": "WHOiSEE",
+          "url": "https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Ego Check",
+      "url": "https://open.spotify.com/track/2JrvzwUHptdMFSYgLzcvLF"
+    },
+    {
+      "album": {
         "name": "El Refugio",
         "url": "https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf"
       },

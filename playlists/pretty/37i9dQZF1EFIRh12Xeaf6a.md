@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,347 likes - 287 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,349 likes - 287 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 131 | [What A Sweet Thing That Was](https://open.spotify.com/track/69M1hKSe3E5uowQNwpwkHb) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Sing To Trumpets And Strings](https://open.spotify.com/album/0x4CVUhtrgHKqiLbti43Ar) | 2:28 |
 | 132 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
 | 133 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
-| 134 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
-| 135 | [Show Me Girl \- Mono](https://open.spotify.com/track/3l7lTXsHVVhw14Zn0GBoLK) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:38 |
+| 134 | [Show Me Girl \- Mono](https://open.spotify.com/track/3l7lTXsHVVhw14Zn0GBoLK) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:38 |
+| 135 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
 | 136 | [Fantasy Beginning](https://open.spotify.com/track/3yuC4fwlRLXTvFYIbhHmcV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:02 |
 | 137 | [Weekdays](https://open.spotify.com/track/188S3CUlO4CMprDBzzXVPx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 2:44 |
 | 138 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 182 | [I've Got Bonnie](https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Essential Bobby Rydell](https://open.spotify.com/album/7vRQk7uoLNZncVFT2qqG0m) | 2:27 |
 | 183 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 |
 | 184 | [Fantasy End](https://open.spotify.com/track/5uGXIo7M8pfNuLjqFkfG2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:25 |
-| 185 | [Goin' Wild \(Original Mix\)](https://open.spotify.com/track/1VQzaPmsKdHyr3M7Ic0YQn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Right Girl](https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp) | 2:26 |
-| 186 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 185 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 186 | [Goin' Wild \(Original Mix\)](https://open.spotify.com/track/1VQzaPmsKdHyr3M7Ic0YQn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Right Girl](https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp) | 2:26 |
 | 187 | [We Are All In This Together](https://open.spotify.com/track/2Ju7lUr2tZ5HK6oxiQXwlU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:02 |
 | 188 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
 | 189 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 286 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 287 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcTLRgAAAACSRSOf1Tdoi//ytsrOI1Ji`
+Snapshot ID: `AcTQ5gAAAADVxQ9X9Im3bFUKoubdIKLc`

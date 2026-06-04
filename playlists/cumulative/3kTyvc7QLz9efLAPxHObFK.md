@@ -4,7 +4,7 @@
 
 > 
 
-3,085 songs - 6 day 15 hr 9 min
+3,087 songs - 6 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2183,6 +2183,7 @@
 | [Rain \- Eufeion Remix](https://open.spotify.com/track/2jbVtCWAHKoGbj793djWuF) | [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [Alison Wade](https://open.spotify.com/artist/3ydIKjvL4RC7Xo54jN3jJQ), [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B) | [In The Mix EP \- Series Two](https://open.spotify.com/album/2UroCgonuGEO1cVKeUN2P9) | 4:01 | 2023-02-06 |  |
 | [Rainbow Dream \[feat\. yukacco\] \- EXTENDED MIX](https://open.spotify.com/track/7fZABx3x5cbfshRJhvgXRb) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Yukacco](https://open.spotify.com/artist/4zu3DQyVnu3BnzErDmPULM) | [ULTIMATE HAPPY CARNIVAL](https://open.spotify.com/album/1K5SbC5wm0foPdbjbKUnOn) | 3:59 | 2022-08-10 |  |
 | [Raise It Up](https://open.spotify.com/track/2o5AqF2mswerMwWkPshuoI) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Nay](https://open.spotify.com/artist/5YmbV41RFTo3Wp78dEtjcy) | [Raise It Up](https://open.spotify.com/album/4mBxKOXX1wJAhPaqRkBtTy) | 3:11 | 2026-05-22 |  |
+| [RAISE IT UP](https://open.spotify.com/track/7yTEODFJ1VVrZFOnptTJy7) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [RAISE IT UP](https://open.spotify.com/album/3dphEKezpA10E8ZW7lhQld) | 2:03 | 2026-06-03 |  |
 | [Raise the Weapon](https://open.spotify.com/track/1mQj2BBE4y2sudqnbXOxWp) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Raise the Weapon](https://open.spotify.com/album/44mdm2yl9RaKKGlBCVzBV5) | 3:09 | 2023-07-21 |  |
 | [Raise Your Voice \(Annihilation Anthem 2025\)](https://open.spotify.com/track/15VwB9VToyvaL9vJ4MxdvX) | [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM), [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ), [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp), [MC Flo](https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R) | [Raise Your Voice \(Annihilation Anthem 2025\)](https://open.spotify.com/album/6YEUdRhLM2eKvxdEyIz0M4) | 3:29 | 2025-11-23 |  |
 | [Raise Your Weapon](https://open.spotify.com/track/4CRkKX6sB9h34k5w7cbO0C) | [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Raise Your Weapon](https://open.spotify.com/album/3fr9OieHxzIB8F2TXQLryy) | 2:45 | 2024-05-17 |  |
@@ -3083,6 +3084,7 @@
 | [Your Fate](https://open.spotify.com/track/7fSLuXxnsx29hvfukIxjE4) | [Shafar](https://open.spotify.com/artist/2pGUCI6fdNfyNLrQbQaw0h), [Tritium](https://open.spotify.com/artist/4NhYoKVnVJMTBCr7CRQt4w) | [Your Fate](https://open.spotify.com/album/5xQo1CYOzUcv6yAnLMunET) | 2:10 | 2025-02-14 |  |
 | [Your Love](https://open.spotify.com/track/0PQ9Ops8s7CYkSUW3j5VGI) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Your Love](https://open.spotify.com/album/6Vqojm5fB6dSNbXjckGPGd) | 3:18 | 2024-05-05 |  |
 | [Your Love](https://open.spotify.com/track/1vxZ0e3UKjCWcpGp5qBnE0) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Menta](https://open.spotify.com/artist/49y1iHhXJKGVq8VF38xKGO) | [Your Love](https://open.spotify.com/album/3jmwcpikC2jx4d6occ2TyY) | 3:15 | 2022-09-28 |  |
+| [YOUR LOVE](https://open.spotify.com/track/40o7tuXx0Aik2FSGp7jZKi) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [YOUR LOVE](https://open.spotify.com/album/71TTxxtphXjDBRW9EKw628) | 2:40 | 2026-06-03 |  |
 | [Your Reckoning](https://open.spotify.com/track/0Nm46hcueZdSXUu0uPxn8c) | [Fatal](https://open.spotify.com/artist/72O0p01zj5PHBGJjDnb1Bi), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Your Reckoning](https://open.spotify.com/album/6O5jxylIZLh11Qv2Ga2kav) | 3:37 | 2025-12-16 |  |
 | [YOUR SOUL IS MINE](https://open.spotify.com/track/6eKXwPCbyeSfa7vD7e23YG) | [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [YOUR SOUL IS MINE](https://open.spotify.com/album/6fqhxUbHra3KcfBJYPFE4t) | 3:06 | 2025-12-16 |  |
 | [YUNG BRATZ](https://open.spotify.com/track/5j2OvVayElK063X3Nqbs7y) | [PEYGAN](https://open.spotify.com/artist/7Gatqa2VVX586jcYiIVJg9), [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv) | [YUNG BRATZ](https://open.spotify.com/album/7srDM0em7muBR8F70nK3Ub) | 1:49 | 2026-02-27 |  |

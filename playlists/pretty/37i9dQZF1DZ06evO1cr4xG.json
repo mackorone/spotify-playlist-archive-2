@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 87328,
+  "num_followers": 87342,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADVtfQA8B8QP0ufeAhjjp1o",
+  "snapshot_id": "ah4dAAAAAACIpG4dliLlNacejY0Y9IsF",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Struck Dead",
-        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 438552,
-      "name": "Six Walls",
-      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
+      "duration_ms": 228926,
+      "name": "Bleed Into Me",
+      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228926,
-      "name": "Bleed Into Me",
-      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
+      "duration_ms": 438552,
+      "name": "Six Walls",
+      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
     },
     {
       "added_at": null,

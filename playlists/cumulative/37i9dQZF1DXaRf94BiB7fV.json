@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Bawari Basanti ",
+  "description": "The best new music by independent artists and labels in India. Cover - Eden's Echo",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 268040,
       "name": "Adhoore Se Khwaab",
       "url": "https://open.spotify.com/track/5xnlZBd5tF2wRTmtGkXeK5"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 122783,
       "name": "Ankahi Baatein",
       "url": "https://open.spotify.com/track/4N5HNe0EeuYqFcxdcO4mVp"
@@ -4140,6 +4140,24 @@
       "duration_ms": 280000,
       "name": "Bemisal",
       "url": "https://open.spotify.com/track/6Bqa5xaXuofeU7fR9OjUBy"
+    },
+    {
+      "album": {
+        "name": "Bepanah",
+        "url": "https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Bepanah",
+      "url": "https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v"
     },
     {
       "album": {
@@ -9840,7 +9858,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 277226,
       "name": "Feed The Clown",
       "url": "https://open.spotify.com/track/1MyUSY9DM4AhfTnl5L7ilX"
@@ -11736,7 +11754,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 195617,
       "name": "Hausla",
       "url": "https://open.spotify.com/track/48zqz88kCY45ZuqJs2wouq"
@@ -11966,6 +11984,24 @@
       "duration_ms": 258005,
       "name": "Here",
       "url": "https://open.spotify.com/track/0gk28BM7PkNoR33i2pM1PE"
+    },
+    {
+      "album": {
+        "name": "Hey June",
+        "url": "https://open.spotify.com/album/1GSMyCTYOXy5lM0cUzVA7d"
+      },
+      "artists": [
+        {
+          "name": "KL Pamei",
+          "url": "https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Hey June",
+      "url": "https://open.spotify.com/track/27bUIbEoE5wR5TSOKwbJwU"
     },
     {
       "album": {
@@ -13482,6 +13518,24 @@
       "duration_ms": 176588,
       "name": "Ikraar",
       "url": "https://open.spotify.com/track/6JHE8gp9NNqsBeGGVFzncV"
+    },
+    {
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/22MxarLyVJJAEnToRzrjEu"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Bulusu",
+          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257484,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/67f8GUBDuds7YQf6Syn0cQ"
     },
     {
       "album": {
@@ -17341,6 +17395,28 @@
     },
     {
       "album": {
+        "name": "Kash Tum",
+        "url": "https://open.spotify.com/album/179dxwQ4ZaHSGsmQlsAavW"
+      },
+      "artists": [
+        {
+          "name": "Kumudini Saraswati",
+          "url": "https://open.spotify.com/artist/5w2jJ72roVBAz0C8humiw1"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234652,
+      "name": "Kash Tum",
+      "url": "https://open.spotify.com/track/36uQHtHRzkUu56QLRJUyOh"
+    },
+    {
+      "album": {
         "name": "Kashti",
         "url": "https://open.spotify.com/album/22ZJNBzqzgU4zzmFpBgBT9"
       },
@@ -20170,7 +20246,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 204947,
       "name": "Le Jaaye Jahaan",
       "url": "https://open.spotify.com/track/5lYweVWwXTl8PgmSD59V1j"
@@ -29095,6 +29171,36 @@
     },
     {
       "album": {
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
+      },
+      "artists": [
+        {
+          "name": "Zikrr",
+          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
+        },
+        {
+          "name": "Vidhi Tyagi",
+          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "DUSH",
+          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
+    },
+    {
+      "album": {
         "name": "Saath Tum Mere",
         "url": "https://open.spotify.com/album/0RZmzqkndbl1jiOxfiIXDQ"
       },
@@ -30232,6 +30338,24 @@
       "duration_ms": 194400,
       "name": "Sarphira",
       "url": "https://open.spotify.com/track/1GQRJjhkgiU3QXMENyBLQl"
+    },
+    {
+      "album": {
+        "name": "Satao Na",
+        "url": "https://open.spotify.com/album/5shgMPqzyxDYwRxNEYlXbi"
+      },
+      "artists": [
+        {
+          "name": "Janani Kamakshi",
+          "url": "https://open.spotify.com/artist/7jkSVwry5EOYQlZRoEAkLn"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Satao Na",
+      "url": "https://open.spotify.com/track/76yWBF5SYoZ5I7NhAun1yA"
     },
     {
       "album": {
@@ -33312,7 +33436,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 205090,
       "name": "Teri Ada",
       "url": "https://open.spotify.com/track/3tCWW04eMIe0TopDI0PJL6"

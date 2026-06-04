@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Deb Never
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,994 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,022 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 4 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 | 5 | [Dreams \(Aquaria Remix\)](https://open.spotify.com/track/2VMSvRhxs30VAoPoj3jTNu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Revelation \[Remixes\]](https://open.spotify.com/album/1MbslP83tLeeVWIKRvABzu) | 3:18 |
 | 6 | [Gas Station Lover](https://open.spotify.com/track/13yxPwUtZXAvnfyejd3UMT) | [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Gas Station Lover](https://open.spotify.com/album/7nYihcNHcP2ZqoZcBsmMp5) | 3:08 |
-| 7 | [MAKE IT OUT ALIVE \- Choral Version](https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Nashville In Harmony Choir](https://open.spotify.com/artist/7lKPEmy6AdEpYsq0Azo9d6) | [MAKE IT OUT ALIVE \(Versions\)](https://open.spotify.com/album/0Uw3H8ri1HNrAopsui8EoY) | 3:33 |
+| 7 | [MAKE IT OUT ALIVE \- Choral Version](https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Nashville In Harmony](https://open.spotify.com/artist/3VCAaHo80nO3Uadwjdppfn) | [MAKE IT OUT ALIVE \(Versions\)](https://open.spotify.com/album/0Uw3H8ri1HNrAopsui8EoY) | 3:33 |
 | 8 | [Nosedive](https://open.spotify.com/track/3SIt8pLMi7VHAqTvAI8ET8) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [Olympus](https://open.spotify.com/album/5N3lcMudUczXJ2E9nImObL) | 3:01 |
 | 9 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 10 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 |

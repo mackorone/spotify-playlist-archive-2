@@ -38,10 +38,32 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 171050,
       "name": "2 Little 2 Late",
       "url": "https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7"
+    },
+    {
+      "album": {
+        "name": "2 Little 2 Late",
+        "url": "https://open.spotify.com/album/4koEyIhCZI5hrTZXPiEK87"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171050,
+      "name": "2 Little 2 Late",
+      "url": "https://open.spotify.com/track/1Zr5W6s1a95Bemi0Dou1AB"
     },
     {
       "album": {

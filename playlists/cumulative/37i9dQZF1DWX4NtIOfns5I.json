@@ -4663,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Beauty Land",
+        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91178,
+      "name": "Gentle Love",
+      "url": "https://open.spotify.com/track/4Mp41b1Z5I45NPBkKuKMkq"
+    },
+    {
+      "album": {
         "name": "George Jones (ft. Angela Autumn)",
         "url": "https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1"
       },

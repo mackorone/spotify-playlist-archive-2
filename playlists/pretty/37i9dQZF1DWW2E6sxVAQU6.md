@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,406 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,411 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 13 | [Papa Nero](https://open.spotify.com/track/1X3eAXBIhLIsD8krO81Vup) | [Pitura Freska](https://open.spotify.com/artist/7nDp1YwhqukHtWtiQeH0LD) | [GRAN CALMA](https://open.spotify.com/album/5HuowqKpNxqmuwSY0RLjaP) | 3:54 |
 | 14 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
 | 15 | [Ma Perchè \- 1991 Remaster](https://open.spotify.com/track/6WuLDwygCrcsLGB6qaqIK5) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Gran bazar \(1991 Remaster\)](https://open.spotify.com/album/2eQOIfa83ZGRRcphsFEBdH) | 3:22 |
-| 16 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 17 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
+| 16 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
+| 17 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 18 | [Pitzinnos in sa gherra](https://open.spotify.com/track/3rrhZJ5RzTD7YrardXkhn4) | [Tazenda](https://open.spotify.com/artist/3iET9n0KDfyrTBmCFGZjnS) | [Vida](https://open.spotify.com/album/2OCfY0uJlOFW0qpOXO9bNy) | 4:18 |
 | 19 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 20 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |

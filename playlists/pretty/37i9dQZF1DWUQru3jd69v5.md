@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > DANTE in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,755 likes - 76 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,745 likes - 76 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [SOTTO CONTROLLO](https://open.spotify.com/track/7AQGgL83rFxwsLjoEmVmvn) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [SOTTO CONTROLLO](https://open.spotify.com/album/4GBpV9VY1uM4sVBxZh8y3v) | 2:30 |
 | 4 | [TUTTI SANNO \(feat\. Low\-Red\)](https://open.spotify.com/track/5OodMwL2x7eKXq8VC3rc8H) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [TUTTI SANNO \(feat\. Low\-Red\)](https://open.spotify.com/album/6VGfdVWTTqiBidAgVFhuFy) | 2:34 |
 | 5 | [Soldi e stress](https://open.spotify.com/track/1cnUkxFhSAM4ec0CNGSXEu) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Soldi e stress](https://open.spotify.com/album/0b1GVCgkRqbyOKzAGhESus) | 2:48 |
-| 6 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
+| 6 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Ay Mazza](https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 7 | [Nike e Gucci II \(feat\. Promessa\)](https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Lounge Music](https://open.spotify.com/album/5aVWqLmy2pzgI0OYfwefKs) | 2:44 |
 | 8 | [Odio](https://open.spotify.com/track/7jovkYUrPs2tFOx4Ml2sQD) | [6occia](https://open.spotify.com/artist/2VXJau991JXvbeF48YVjoX) | [Odio](https://open.spotify.com/album/30HiwwVVv4DCEKyucxlSRM) | 2:39 |
 | 9 | [tutto vero \#318](https://open.spotify.com/track/26U1JGcQQN5IRYQQrijOyz) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [tutto vero \#318](https://open.spotify.com/album/5Bx1yUd3qANLtU6yEKOPAX) | 2:24 |

@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115399,
+  "num_followers": 115410,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 6",
-        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 255187,
-      "name": "Por Toda Vida",
-      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Eyshila Falando de Amor",
         "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 258345,
       "name": "Meu Sonho",
       "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 6",
+        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 255187,
+      "name": "Por Toda Vida",
+      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -643,18 +643,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
+        "name": "Presente de Deus",
+        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
       },
       "artists": [
         {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+          "name": "Oficina do Som",
+          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
         }
       ],
-      "duration_ms": 296286,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
+      "duration_ms": 209020,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -675,22 +679,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Presente de Deus",
-        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
       },
       "artists": [
         {
-          "name": "Oficina do Som",
-          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
-        },
-        {
-          "name": "Renato Vianna",
-          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
         }
       ],
-      "duration_ms": 209020,
-      "name": "Presente de Deus",
-      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
+      "duration_ms": 296286,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 249763,
+      "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 249763,
-      "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "25 de fevereiro",
         "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 185448,
       "name": "eu te convido",
       "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 268541,
+      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
+        "name": "Amar e Perdoar",
+        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 268541,
-      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
+      "duration_ms": 230310,
+      "name": "Por N\u00f3s",
+      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -823,22 +839,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Amar e Perdoar",
-        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Por N\u00f3s",
-      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Amo Voc\u00ea Vol. 21",
         "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 303206,
       "name": "Bem Maior Que o C\u00e9u",
       "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Rom\u00e2nticos",
-        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+        "name": "Rom\u00e2nticos",
+        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+      "duration_ms": 228813,
+      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -931,6 +915,22 @@
       "duration_ms": 238422,
       "name": "Minha J\u00f3ia Rara",
       "url": "https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2026-04-22 17:29:06",

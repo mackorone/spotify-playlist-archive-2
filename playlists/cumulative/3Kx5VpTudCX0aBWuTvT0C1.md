@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-147 songs - 8 hr 32 min
+152 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 | 2025-11-26 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-05-29 |  |
+| [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 | 2026-06-03 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-29 | 2025-12-09 |
 | [Bonfire](https://open.spotify.com/track/5e0BHKevSDHIAdq0LCwB7M) | [Califortune](https://open.spotify.com/artist/1GLEJCnZZn6s7jjiP6xVyo) | [Bonfire](https://open.spotify.com/album/4zNR5UI6guqnwSpwR5aXfe) | 4:35 | 2026-03-06 |  |
 | [Broken Soul](https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 3:11 | 2025-11-18 |  |
@@ -67,6 +68,7 @@
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-07 | 2025-12-09 |
 | [Home](https://open.spotify.com/track/6t43UbUBVc3a3X4sQLc2BJ) | [CALDAERA](https://open.spotify.com/artist/7e142HcUPLKYMr3krYaPKt) | [Home](https://open.spotify.com/album/6LGW8Mg243k9xtdhs3QxtK) | 4:16 | 2025-11-01 | 2025-12-09 |
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-11-03 | 2025-12-09 |
+| [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 | 2026-06-03 |  |
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 | 2026-03-15 |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |
@@ -124,6 +126,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-09 |
 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 | 2026-05-07 |  |
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-17 |  |
+| [Throw Away](https://open.spotify.com/track/5XTdP95dDp4lm16ptkd3Hw) | [Mosaik](https://open.spotify.com/artist/1MuSqoanz47Wl7MBgO4OPy) | [Throw Away](https://open.spotify.com/album/7oPIvz4AFsZQjoWo1YkrE9) | 4:08 | 2026-06-03 |  |
 | [tiny thoughts](https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:37 | 2025-11-24 |  |
 | [To Be Back There](https://open.spotify.com/track/2FLeUS0NZ0EmGasMPe9177) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Relic](https://open.spotify.com/album/1er6z2T7yalzORoHnEKW4V) | 3:18 | 2026-04-08 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-12-12 |  |
@@ -131,6 +134,7 @@
 | [Trust](https://open.spotify.com/track/7HiWR4yqbGVU5CvMmy3HHT) | [Penny Rebels](https://open.spotify.com/artist/5kvexhqNjywDVmARMHFA7g) | [Trust](https://open.spotify.com/album/2gq88qxGS3TyrncBZYOwO1) | 1:54 | 2025-10-30 | 2025-12-09 |
 | [TU PEOR ENEMIGO](https://open.spotify.com/track/53uQB3TDPmEl5lNhUd5ddB) | [lorenzo](https://open.spotify.com/artist/0ZTHezz846ANN3ssdfozCD) | [TU PEOR ENEMIGO](https://open.spotify.com/album/3Tr8y87l1nOkNf27wxoC8t) | 3:39 | 2025-11-03 | 2025-12-09 |
 | [Turn into You](https://open.spotify.com/track/6Lz1tAR0AMy1lxPxwWkOnL) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Turn into You](https://open.spotify.com/album/17ccZ72JqjSYFi6MjGmEXm) | 3:43 | 2026-03-10 |  |
+| [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 | 2026-06-03 |  |
 | [Una Señal](https://open.spotify.com/track/3MaxzGBdn5zDmrAziSGFu3) | [Joselu Toribio](https://open.spotify.com/artist/1LUaDb2TDUyN4MBowhnWqu) | [Una Señal](https://open.spotify.com/album/27m8pNmvR6GNsXzoLkN3sz) | 3:42 | 2025-11-12 | 2026-03-15 |
 | [Upstairs](https://open.spotify.com/track/4lJYXQFig7YEqBPZHcFxwI) | [Alma Samiri](https://open.spotify.com/artist/6scn9hopwDs5jfwtV5aZ1V), [Alfred YAO](https://open.spotify.com/artist/65wEQSfJRfQmdlVDl2MjCg) | [Upstairs](https://open.spotify.com/album/14EUlHI6yl60oXvNKZQyJ0) | 2:29 | 2025-10-29 | 2025-12-09 |
 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 | 2026-05-27 |  |
@@ -149,6 +153,7 @@
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 | 2025-12-09 |
 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 |  |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2026-01-22 |  |
+| [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-03 |  |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-03 | 2025-12-09 |
 | [Zero Hour Lunar Phase](https://open.spotify.com/track/6Pwm9LxIHTazwlVz26WMgf) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour Lunar Phase](https://open.spotify.com/album/4DFIgHny809BiD7wZFy76g) | 3:32 | 2025-10-28 | 2025-12-09 |
 | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/track/6cZsVGpH1YkfGvZui0mn9H) | [ATLAS\-31](https://open.spotify.com/artist/55rn2WmgmOMzZHsSJZ6zgt) | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/album/31VLgqE0dx5tdkzjA9hyYF) | 3:54 | 2025-10-29 | 2025-12-09 |

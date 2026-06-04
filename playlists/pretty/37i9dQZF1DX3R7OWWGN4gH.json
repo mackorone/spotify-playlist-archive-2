@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1424085,
+  "num_followers": 1424255,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
     },
     {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
       "added_at": "2025-08-08 15:32:20",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
@@ -1183,42 +1199,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Play with Fire (feat. Yacht Money)",
-        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
-      },
-      "artists": [
-        {
-          "name": "Sam Tinnesz",
-          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
-        },
-        {
-          "name": "Yacht Money",
-          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
-        }
-      ],
-      "duration_ms": 180690,
-      "name": "Play with Fire (feat. Yacht Money)",
-      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "cinderella's dead",
         "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 297459,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Play with Fire (feat. Yacht Money)",
+        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        }
+      ],
+      "duration_ms": 180690,
+      "name": "Play with Fire (feat. Yacht Money)",
+      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
     },
     {
       "added_at": "2024-02-22 03:52:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Rareș in cover di Indie Italia e tutti i feels del suo disco qui \-\-> ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,049 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,037 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

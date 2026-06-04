@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-578 songs - 1 day 10 hr 11 min
+579 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Någonting som aldrig hänt](https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Någonting som aldrig hänt](https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq) | 3:01 | 2025-08-14 | 2026-04-27 |
 | [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 | 2026-03-13 |
-| [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 |  |
+| [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 | 2026-06-04 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |
 | [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 |  |
@@ -544,6 +544,7 @@
 | [Vinterdvala](https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Vinterdvala](https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil) | 3:29 | 2025-11-27 | 2026-05-08 |
 | [VM\-guld](https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [VM\-guld](https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf) | 3:11 | 2026-05-07 |  |
 | [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 | 2025-08-26 |
+| [Väntar på skymningen](https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Terra Firma](https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx) | 4:19 | 2026-05-28 |  |
 | [Vår bästa tid](https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE) | [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Vår bästa tid](https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5) | 3:36 | 2025-06-12 | 2026-02-13 |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |
 | [Vårens sista dag](https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p) | [Peter Åberg](https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL), [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Vårens sista dag](https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9) | 2:39 | 2025-05-29 | 2025-07-07 |

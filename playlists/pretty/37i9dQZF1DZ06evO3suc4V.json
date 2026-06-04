@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10702,
+  "num_followers": 10709,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAADdwEGXk7wS1lzrkEVqmooX",
+  "snapshot_id": "ah4dAAAAAACAHmv9kPMRaDJk2eMas9UJ",
   "tracks": [
     {
       "added_at": null,
@@ -899,22 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "noise (meaning)",
-        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
+        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
       },
       "artists": [
         {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
         }
       ],
-      "duration_ms": 127297,
-      "name": "awake",
-      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
+      "duration_ms": 153133,
+      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
+        "name": "noise (meaning)",
+        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
         },
         {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 153133,
-      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
+      "duration_ms": 127297,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
     }
   ],
   "unique_name": "This Is Ravyn Lenae",

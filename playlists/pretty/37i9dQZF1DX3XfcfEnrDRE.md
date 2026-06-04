@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Hopeful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,296 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,332 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like I Am Yours](https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Like I Am Yours](https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF) | 3:04 |
 | 2 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
 | 3 | [Absolution](https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Absolution](https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9) | 4:05 |
-| 4 | [thing about u ❨❨ ❍](https://open.spotify.com/track/4Mj5fsKvyuittKUPVyns4o) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Silhouettes ❨❨ ❨ ❍ Mi◗⠝⠊⠣⠓✝︎ℋ𝐲𝕸nᛋ \~ Vol.I](https://open.spotify.com/album/0FqP0pyGZLQOgTWhz6oCds) | 7:06 |
+| 4 | [thing about u ❨❨ ❍](https://open.spotify.com/track/4Mj5fsKvyuittKUPVyns4o) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Silhouettes Vol.I \(❨❨ ❨ ❍ Mi◗⠝⠊⠣⠓✝︎ℋ𝐲𝕸nᛋ \~\)](https://open.spotify.com/album/0FqP0pyGZLQOgTWhz6oCds) | 7:06 |
 | 5 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
 | 6 | [There Is Power](https://open.spotify.com/track/3E5QVGfEkKzq3GRg2n06rN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [There Is Power](https://open.spotify.com/album/7hBP9YBFnssyALuNkmnzYO) | 3:21 |
 | 7 | [Never Mine](https://open.spotify.com/track/4E6fyhkICWzHTSEuREHQ2q) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Change](https://open.spotify.com/album/0tcvwKhazLe9u1KSdhjZWH) | 2:55 |

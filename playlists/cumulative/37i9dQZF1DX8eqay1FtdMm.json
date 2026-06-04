@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da Il(\uc591\ub2e4\uc77c)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kassy(\ucf00\uc774\uc2dc)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 337480,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn"
@@ -3637,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Happy&ing",
+        "url": "https://open.spotify.com/album/5OQxFbUpozj2AQatmALO2l"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Happy&ing",
+      "url": "https://open.spotify.com/track/0EzV9B3tJBq1D7WIusy0QG"
+    },
+    {
+      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 187000,
       "name": "Her",
       "url": "https://open.spotify.com/track/1ZAmtSyw4xcqnyhXgDWu0u"
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 214000,
       "name": "LIE LIE LIE",
       "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"

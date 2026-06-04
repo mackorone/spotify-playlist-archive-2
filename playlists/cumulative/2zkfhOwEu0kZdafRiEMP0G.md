@@ -4,7 +4,7 @@
 
 > 
 
-130 songs - 9 hr 8 min
+131 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 | 2026-01-20 |  |
 | [NOBODY](https://open.spotify.com/track/65nvBvHi9EzhXbH1optmcF) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp), [Yung Senju](https://open.spotify.com/artist/7D5OcHOXl3X6oiQ01RC1TJ), [Kennadi Rose](https://open.spotify.com/artist/6QO2jPE4APKFTn9oeUXHD4) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 4:44 | 2025-07-19 | 2026-03-31 |
 | [Non\-Stop](https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 6:25 | 2025-11-12 | 2026-03-31 |
+| [Not Sorry for Loving You](https://open.spotify.com/track/1mHD6G4fg3Xv5GHPbp1YPx) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:04 | 2026-06-03 |  |
 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 | 2025-11-07 | 2025-12-28 |
 | [One Hundred Sleepless Nights](https://open.spotify.com/track/5TNX6rJ91T8PdEt94X50Y9) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:41 | 2025-07-22 | 2025-10-23 |
 | [One Last Time](https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:56 | 2025-11-18 | 2026-01-26 |

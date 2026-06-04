@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-91 songs - 7 hr 41 min
+92 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Choque E Fogo](https://open.spotify.com/track/0Y0tYSDTuGpzff4moYGa4u) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Único \- Incomparável \(Vol\. 1\)](https://open.spotify.com/album/1PD0lcDNh9WozfS2309QAu) | 4:00 | 2024-06-18 | 2025-02-25 |
 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 | 2023-07-09 |  |
-| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 |  |
+| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 | 2026-06-04 |
 | [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 |  |
 | [Deus Responde](https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:32 | 2025-11-01 |  |
 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 | 2024-05-03 |  |
@@ -72,6 +72,7 @@
 | [O Noivo Vem](https://open.spotify.com/track/40FqywjgcTzbLZF2UOx2ys) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Noivo Vem](https://open.spotify.com/album/24uDcnwb1PpcMDXy5VsrRx) | 4:19 | 2025-11-23 | 2025-12-13 |
 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 | 2023-08-25 | 2023-12-14 |
 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 | 2023-07-09 |  |
+| [Oceano de Amor](https://open.spotify.com/track/1PLdt35bICH3EoAzSUzDkk) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H) | [Oceano de Amor](https://open.spotify.com/album/1MMC4yI1tTTiADPaNfEDcl) | 4:36 | 2026-06-04 |  |
 | [Oferta Agradável a Ti](https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:13 | 2023-07-09 |  |
 | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Olha o Que Deus Faz \(Ao Vivo\)](https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl) | 4:19 | 2023-07-09 | 2025-06-14 |
 | [Onde Jesus Mora](https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Para Sempre](https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb) | 4:23 | 2023-07-09 |  |

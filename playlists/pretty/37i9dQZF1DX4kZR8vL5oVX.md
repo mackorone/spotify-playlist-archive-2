@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec marguerite \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,584 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,596 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 38 | [Tu restes là](https://open.spotify.com/track/7Gptk4gZ0zktQdhhjieIOh) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Tu restes là](https://open.spotify.com/album/2LTXGRQ4JERB1G6y2S4XMA) | 3:08 |
 | 39 | [Seules Ensemble \(Mistral Gagnant\)](https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Seules Ensemble \(Mistral Gagnant\)](https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6) | 2:43 |
 | 40 | [okbb](https://open.spotify.com/track/2EYSZv5HvvAUKyFyXq5cke) | [Ellie Becker](https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q) | [okbb](https://open.spotify.com/album/6FgIR6F8Msa5apBKYnZpZ5) | 3:02 |
-| 41 | [Fais moi pleuvoir](https://open.spotify.com/track/5vC3fGU7XI0B4Ami8RtpPE) | [Séleste](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9) | [Fais moi pleuvoir](https://open.spotify.com/album/5BlTy3XaLJlHe2XVjhjgKI) | 3:02 |
-| 42 | [baby](https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [baby](https://open.spotify.com/album/5ASEDSjwn38h4DsVR3DJfN) | 3:10 |
-| 43 | [joli désastre](https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [joli désastre](https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx) | 3:23 |
-| 44 | [VITESSE](https://open.spotify.com/track/7G3RGNervmyqvGocFcNnov) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [SENTIMENTALE](https://open.spotify.com/album/3Oiq6i29v8OLSMMlGHhElF) | 2:34 |
-| 45 | [L'Amour](https://open.spotify.com/track/52SRd9bmszHJabtXzx9Or7) | [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [L'Amour](https://open.spotify.com/album/2Pm6SIJf33wEoOUJFPjHSM) | 2:40 |
-| 46 | [Dans ta maison](https://open.spotify.com/track/3l2Bz1htl4pZpjsHSGSuub) | [MargauxRZ](https://open.spotify.com/artist/6Mpkcx7cHJdLfcXVkTmbwM) | [Dans ta maison](https://open.spotify.com/album/5IelfFHTY7rM70TsaVMsDa) | 4:12 |
-| 47 | [Pour ce qui nous attend de mieux](https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Pour ce qui nous attend de mieux](https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6) | 4:09 |
-| 48 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
-| 49 | [Vous ne m'aimerez pas](https://open.spotify.com/track/2woGqVedyjJbT0seK9lx4L) | [Sahëlie](https://open.spotify.com/artist/6Wntqhepe7sHSUaDMYxXDy) | [Téléscope](https://open.spotify.com/album/0DqEwfVAiWv3pk5c7jLWVj) | 2:50 |
+| 41 | [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 |
+| 42 | [Fais moi pleuvoir](https://open.spotify.com/track/5vC3fGU7XI0B4Ami8RtpPE) | [Séleste](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9) | [Fais moi pleuvoir](https://open.spotify.com/album/5BlTy3XaLJlHe2XVjhjgKI) | 3:02 |
+| 43 | [baby](https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [baby](https://open.spotify.com/album/5ASEDSjwn38h4DsVR3DJfN) | 3:10 |
+| 44 | [joli désastre](https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [joli désastre](https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx) | 3:23 |
+| 45 | [VITESSE](https://open.spotify.com/track/7G3RGNervmyqvGocFcNnov) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [SENTIMENTALE](https://open.spotify.com/album/3Oiq6i29v8OLSMMlGHhElF) | 2:34 |
+| 46 | [L'Amour](https://open.spotify.com/track/52SRd9bmszHJabtXzx9Or7) | [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [L'Amour](https://open.spotify.com/album/2Pm6SIJf33wEoOUJFPjHSM) | 2:40 |
+| 47 | [Dans ta maison](https://open.spotify.com/track/3l2Bz1htl4pZpjsHSGSuub) | [MargauxRZ](https://open.spotify.com/artist/6Mpkcx7cHJdLfcXVkTmbwM) | [Dans ta maison](https://open.spotify.com/album/5IelfFHTY7rM70TsaVMsDa) | 4:12 |
+| 48 | [Pour ce qui nous attend de mieux](https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Pour ce qui nous attend de mieux](https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6) | 4:09 |
+| 49 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
+| 50 | [Vous ne m'aimerez pas](https://open.spotify.com/track/2woGqVedyjJbT0seK9lx4L) | [Sahëlie](https://open.spotify.com/artist/6Wntqhepe7sHSUaDMYxXDy) | [Téléscope](https://open.spotify.com/album/0DqEwfVAiWv3pk5c7jLWVj) | 2:50 |
 
 Snapshot ID: `AAAAADbGvBDhn8HHN4/caYtRIatzbJiP`

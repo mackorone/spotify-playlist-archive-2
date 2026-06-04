@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 218397,
+  "num_followers": 218439,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        },
+        {
+          "name": "Joe la panic",
+          "url": "https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat"
+        }
+      ],
+      "duration_ms": 163315,
+      "name": "deja vu (feat. Joe la panic)",
+      "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 130162,
       "name": "Tis Autumn",
       "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        },
-        {
-          "name": "Joe la panic",
-          "url": "https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat"
-        }
-      ],
-      "duration_ms": 163315,
-      "name": "deja vu (feat. Joe la panic)",
-      "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
         "name": "Ghost Song",
         "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 184868,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 227455,
-      "name": "Even in the Evenin'",
-      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -943,6 +927,22 @@
       "duration_ms": 284986,
       "name": "Darling Fare Thee Well",
       "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 227455,
+      "name": "Even in the Evenin'",
+      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/1j8NBe2Zib5DSVC9TSkH6n"
+      },
+      "artists": [
+        {
+          "name": "Kyle Cox",
+          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
+        },
+        {
+          "name": "Abigail Flowers",
+          "url": "https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1"
+        }
+      ],
+      "duration_ms": 217208,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/5zSVV1d87RqUFiZx7kPeKd"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
         "name": "Return To You",
         "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 331840,
       "name": "Dedicated to You",
       "url": "https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/1j8NBe2Zib5DSVC9TSkH6n"
-      },
-      "artists": [
-        {
-          "name": "Kyle Cox",
-          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
-        },
-        {
-          "name": "Abigail Flowers",
-          "url": "https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1"
-        }
-      ],
-      "duration_ms": 217208,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/5zSVV1d87RqUFiZx7kPeKd"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
-        "name": "Songs to Comfort",
-        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
-      },
-      "artists": [
-        {
-          "name": "Marie M\u00f8rck",
-          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
-        }
-      ],
-      "duration_ms": 338186,
-      "name": "Song to Comfort",
-      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
         "name": "Can't Get Out Of This Mood (Duo Version)",
         "url": "https://open.spotify.com/album/7hjsSGkreKuIQmlz3bmMYY"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 254690,
       "name": "Can't Get Out Of This Mood (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/6IXwkkCywEC6IZywMmKiVd"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
+        "name": "Songs to Comfort",
+        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
+      },
+      "artists": [
+        {
+          "name": "Marie M\u00f8rck",
+          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
+        }
+      ],
+      "duration_ms": 338186,
+      "name": "Song to Comfort",
+      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
         "name": "To Miss Shirley Horn with Love",
         "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 348229,
       "name": "Isn't It a Pity",
       "url": "https://open.spotify.com/track/5G0iZZ2GagXujTaBRAnW0U"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
     },
     {
       "added_at": "2026-05-22 09:39:21",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-05-22 09:39:21",
       "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/3viYc1A9PygUx2PTHyzJ8O"
+      },
+      "artists": [
+        {
+          "name": "Jody Sternberg",
+          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/76nJXcFAhwy1w1Sld9AhqW"
+    },
+    {
+      "added_at": "2026-05-22 09:39:21",
+      "album": {
         "name": "The Art of Jazz with Ben Besiakov",
         "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 249026,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
-    },
-    {
-      "added_at": "2026-05-22 09:39:21",
-      "album": {
-        "name": "Sea of Love",
-        "url": "https://open.spotify.com/album/3viYc1A9PygUx2PTHyzJ8O"
-      },
-      "artists": [
-        {
-          "name": "Jody Sternberg",
-          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/76nJXcFAhwy1w1Sld9AhqW"
     },
     {
       "added_at": "2026-05-22 09:39:21",

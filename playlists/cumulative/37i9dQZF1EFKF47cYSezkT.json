@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz"
+    },
+    {
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo"
       },

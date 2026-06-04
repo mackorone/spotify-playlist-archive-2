@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAG97geqYwHGG0NdmUM3uEcHp43YMh0",
+  "snapshot_id": "AAAG+Ko7ejJHeYm1brBDODkED8WnAf2f",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -1323,6 +1323,30 @@
       "duration_ms": 521866,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
+    },
+    {
+      "added_at": "2026-06-03 17:34:59",
+      "album": {
+        "name": "EPIC: The Vengeance Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Barbara Wangui",
+          "url": "https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ"
+        },
+        {
+          "name": "Cast of EPIC: The Musical",
+          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Not Sorry for Loving You",
+      "url": "https://open.spotify.com/track/1mHD6G4fg3Xv5GHPbp1YPx"
     }
   ],
   "unique_name": "idek man",

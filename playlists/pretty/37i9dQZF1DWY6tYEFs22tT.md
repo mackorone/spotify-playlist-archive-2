@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, Future, Latto and Central Cee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,976 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,913 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 4 | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx) | 3:27 |
 | 5 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 |
 | 6 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 |
-| 7 | [Motion Party \(Remix\)](https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Motion Party \(Remix\)](https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ) | 2:36 |
-| 8 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 |
-| 9 | [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 |
-| 10 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
-| 11 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
-| 12 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
+| 7 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
+| 8 | [Motion Party \(Remix\)](https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Motion Party \(Remix\)](https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ) | 2:36 |
+| 9 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 |
+| 10 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
+| 11 | [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 |
+| 12 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
 | 13 | [POP DAT THANG \(feat\. GloRilla, Yung Miami & YKNIECE\) \- Official Remix](https://open.spotify.com/track/28mvUN8EaGPyW00T87z4oP) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [POP DAT THANG \(feat\. GloRilla, Yung Miami & YKNIECE\) \[Official Remix\]](https://open.spotify.com/album/4TpZX6KwgLo1oQPALjDqzr) | 3:55 |
 | 14 | [National Treasures](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:20 |
 | 15 | [Clap](https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Clap](https://open.spotify.com/album/2yNwOvF3g7DQcADqywdLj3) | 2:04 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 48 | [5k for the Draco](https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Press Machine II](https://open.spotify.com/album/4mj1vxNK3hdh1AnSKZ2GvX) | 1:50 |
 | 49 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 
-Snapshot ID: `AAAAADTtgrjoo2cU+UPWyRZTI+/OXTeu`
+Snapshot ID: `AAAAAEU2QeDcsrzvHDj77WRR7MlsZJ7V`

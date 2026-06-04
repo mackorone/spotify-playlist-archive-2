@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Makosir & Ari Bajgora, Bargee & Ella Tiritiello feat\. Pikekyss, Sval og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,545 likes - 98 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,544 likes - 98 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 257909,
+  "num_followers": 257935,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABPGIatR1unPJyIqU10u7GE",
+  "snapshot_id": "ah4dAAAAAAARZWIU2B1XFIELpGL+JIo/",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antes del alba",
+        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "T\u00fa tienes el son",
+      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burbuja de Amor",
         "url": "https://open.spotify.com/album/7cdDyOxOYjALZaq82p6KiY"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 243711,
       "name": "Burbuja de Amor",
       "url": "https://open.spotify.com/track/2KEixVbLseX0hfD3KeM4A3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes del alba",
-        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa tienes el son",
-      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
     },
     {
       "added_at": null,
@@ -503,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "D\u00e9jame en Paz",
+      "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 313500,
-      "name": "D\u00e9jame en Paz",
-      "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
     },
     {
       "added_at": null,
@@ -1131,22 +1131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stamford Bridge",
-        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
+        "name": "Sin Maletas",
+        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Stamford Bridge",
-      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
+      "duration_ms": 163226,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     }
   ],
   "unique_name": "This Is Charles Ans",

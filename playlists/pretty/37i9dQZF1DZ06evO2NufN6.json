@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 990306,
+  "num_followers": 990447,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACKg4IBu1Cu5Ng6k3KVB7c1",
+  "snapshot_id": "ah4dAAAAAAAcLz1pCkArczJaqPVW1/vD",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 227026,
       "name": "The Way",
       "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/0mbTcbWh2fW7P3JPki3AI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harlem's Finest: Return Of The King",
         "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 155142,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Kool Aid & Frozen Pizza",
-      "url": "https://open.spotify.com/track/0mbTcbWh2fW7P3JPki3AI0"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 256423,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 259143,
-      "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
     },
     {
       "added_at": null,

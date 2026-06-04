@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Armin van Buuren & Hannah Liang
 
-1,285 songs - 3 day 4 hr 48 min
+1,286 songs - 3 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 |  |
 | [Monster](https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Monster](https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp) | 3:01 | 2025-03-07 | 2025-09-27 |
 | [Moon and Sun](https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Moon and Sun](https://open.spotify.com/album/2CbRBnlyKcMrB3OF2e0wPN) | 3:06 | 2022-04-01 | 2022-07-22 |
-| [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 |  |
+| [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 | 2026-06-04 |
 | [Moonlight](https://open.spotify.com/track/7CWuyO1HFwgnZaT7BComle) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Woody van Eyden](https://open.spotify.com/artist/4G2mPOOfWyqNO338GJTOK5), [Marjan](https://open.spotify.com/artist/17DO1swIZ3m8qI98bvy67u) | [Moonlight](https://open.spotify.com/album/2lwGuPYpWt2eBOOW1GZowT) | 3:11 | 2024-02-16 | 2024-08-31 |
 | [Moonlight Shadow](https://open.spotify.com/track/4dEDU82H7VFaflZnCYEUiY) | [SCHALA](https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m) | [Moonlight Shadow](https://open.spotify.com/album/0cTvAnxPfKcxe6dwxWYdKe) | 3:38 | 2023-04-07 | 2023-07-22 |
 | [Moonshade](https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Moonshade](https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G) | 3:17 | 2022-03-04 | 2022-07-07 |
@@ -992,6 +992,7 @@
 | [Skyscreamer](https://open.spotify.com/track/1104So05CEyt4uuum0w59V) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Skyscreamer](https://open.spotify.com/album/6vzqa0NT9fxpMqD7lf0RRM) | 3:36 | 2024-12-13 | 2025-09-20 |
 | [Slave to the System](https://open.spotify.com/track/2sCRtPXJObwLoQRSI8EghT) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Slave to the System](https://open.spotify.com/album/6xEhMN7CnMnKKExETfPUlr) | 2:54 | 2025-05-02 | 2025-09-27 |
 | [Sleepwalking](https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Sleepwalking](https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2) | 3:44 | 2023-01-08 | 2023-10-01 |
+| [Slowmotion VII](https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Slowmotion VII](https://open.spotify.com/album/3JOviGmE4oDOT7bzoZxYKG) | 4:22 | 2026-05-29 |  |
 | [So High](https://open.spotify.com/track/67SAX00LcC9MYNSVwEnGpZ) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [So High](https://open.spotify.com/album/705VLLvTncBsuwwNpIdUo1) | 4:12 | 2024-06-21 | 2024-08-31 |
 | [Sober \- David Rust Remix](https://open.spotify.com/track/6glKu8bYu3zhm7GjtoZbR4) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Tori Smith](https://open.spotify.com/artist/2cmtBSw2XFP9YGc4m20gwU), [David Rust](https://open.spotify.com/artist/31PQANabd071TUYth7bG5n) | [Sober \(David Rust Remix\)](https://open.spotify.com/album/51mCvmRkmW9OAoX6epxb4M) | 3:12 | 2025-08-08 | 2025-10-18 |
 | [Solar Express](https://open.spotify.com/track/6ttxvrDLx2B9v38AFZt9aE) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Solar Express](https://open.spotify.com/album/3XrL5H1EgXKnRsGcn38Z34) | 3:57 | 2023-06-23 | 2024-07-13 |

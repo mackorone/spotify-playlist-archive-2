@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 16992,
+  "num_followers": 17019,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACORnJNnlHYQeBKcJqSueMx",
+  "snapshot_id": "ah4dAAAAAACHz8CGBZvbiH7Iuytf0bWs",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo",
-      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo",
+      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Sunday School",
-      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 158690,
       "name": "Glory",
       "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Sunday School",
+      "url": "https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 168667,
+      "name": "Chop & Slide",
+      "url": "https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRINITY",
         "url": "https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 161840,
       "name": "A Lot (with Victony)",
       "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 168667,
-      "name": "Chop & Slide",
-      "url": "https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq"
     },
     {
       "added_at": null,

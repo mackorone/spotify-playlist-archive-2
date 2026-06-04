@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cruzando a la segunda mitad del año acompañados de La Arrolladora Banda El Limón de René Camacho y un montón de música nueva más.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,382 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,309 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

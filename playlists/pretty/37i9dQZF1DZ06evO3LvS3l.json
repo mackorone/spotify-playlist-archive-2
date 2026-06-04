@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28310,
+  "num_followers": 28317,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABcl73CE49T74SADxveoCda",
+  "snapshot_id": "ah4dAAAAAAAZ3ORj1B1RUf0HlCdtV0Et",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Just to Prove My Love for You",
-      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Just to Prove My Love for You",
+      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazy Daddy",
         "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
@@ -555,6 +555,26 @@
       "duration_ms": 160680,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Got Something to Say",
+        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        },
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "This Bottle (In My Hand)",
+      "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
     },
     {
       "added_at": null,
@@ -587,26 +607,6 @@
       "duration_ms": 141000,
       "name": "Hey Gypsy",
       "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Got Something to Say",
-        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        },
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "This Bottle (In My Hand)",
-      "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
     },
     {
       "added_at": null,

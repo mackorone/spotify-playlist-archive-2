@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 14 | [Appalachian Grove III](https://open.spotify.com/track/79qnW6PocozamltQqh8In9) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 3:14 |
 | 15 | [FlyBy](https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Prsnt](https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4) | 0:35 |
 | 16 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
-| 17 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
+| 17 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
 | 18 | [The Expanding Universe](https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 28:28 |
-| 19 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
+| 19 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
 | 20 | [Old Wave](https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:53 |
 
-Snapshot ID: `ahzLgAAAAADU1Uj10FZykBk/mAzy1QiD`
+Snapshot ID: `ah4dAAAAAADuZpFwUuTt8YEIuOnkad4r`

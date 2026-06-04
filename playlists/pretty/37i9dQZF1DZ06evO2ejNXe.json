@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1721,
+  "num_followers": 1724,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAABydJwDxXM88dU92ytg5ptM",
+  "snapshot_id": "ah4dAAAAAADQO70toI3q7ZNzqVjM1R5d",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Mambo Caliente",
-      "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218466,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Mambo Caliente",
+      "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 187266,
-      "name": "La Bomba Caliente",
-      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
+      "duration_ms": 163706,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO MUNDO A BAILAR",
-        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 198500,
-      "name": "TODO MUNDO A BAILAR",
-      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
+      "duration_ms": 187266,
+      "name": "La Bomba Caliente",
+      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 200513,
       "name": "SE BAILA AS\u00cd",
       "url": "https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TODO MUNDO A BAILAR",
+        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "TODO MUNDO A BAILAR",
+      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
       "duration_ms": 645067,
       "name": "Popurr\u00ed",
       "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 213093,
       "name": "Mambo Loco",
       "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,

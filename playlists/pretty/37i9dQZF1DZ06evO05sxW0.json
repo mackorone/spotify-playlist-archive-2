@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 8942,
+  "num_followers": 8944,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACJWWcVO+8YJ+ERk5ZiP3T3",
+  "snapshot_id": "ah4dAAAAAAD5lgJ5A34mWRoBFa231BrH",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 71800,
-      "name": "Statement of Vindication",
-      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
+      "duration_ms": 208053,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
+      "duration_ms": 71800,
+      "name": "Statement of Vindication",
+      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
     },
     {
       "added_at": null,

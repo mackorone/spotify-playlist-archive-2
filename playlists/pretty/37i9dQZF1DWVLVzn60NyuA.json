@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 501054,
+  "num_followers": 501073,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "ONE TRACK MIND",
-        "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 200640,
-      "name": "ONE TRACK MIND",
-      "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
+      "duration_ms": 212975,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -339,26 +347,18 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
+        "name": "ONE TRACK MIND",
+        "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 212975,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+      "duration_ms": 200640,
+      "name": "ONE TRACK MIND",
+      "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -515,6 +515,30 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Jolie Fille (feat. Layefa)",
         "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
       },
@@ -539,30 +563,6 @@
       "duration_ms": 194442,
       "name": "Jolie Fille (feat. Layefa)",
       "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -815,8 +815,8 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
@@ -824,17 +824,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+      "duration_ms": 196156,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -875,6 +871,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -903,24 +915,8 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
       "artists": [
         {
@@ -928,13 +924,17 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
         "name": "BABABA WORLD",
         "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
       },
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Hills Of St. Ann",
+        "url": "https://open.spotify.com/album/207ke48pxXIGDcS33hZ8RR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 199134,
+      "name": "Hills Of St. Ann",
+      "url": "https://open.spotify.com/track/57obfhezEGTT4Ra1CDGKpK"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Hills Of St. Ann",
-        "url": "https://open.spotify.com/album/207ke48pxXIGDcS33hZ8RR"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        }
-      ],
-      "duration_ms": 199134,
-      "name": "Hills Of St. Ann",
-      "url": "https://open.spotify.com/track/57obfhezEGTT4Ra1CDGKpK"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2655,26 +2655,22 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Shamajo",
-        "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
+        "name": "Pami",
+        "url": "https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM"
       },
       "artists": [
         {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
         },
         {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        },
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Shamajo",
-      "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
+      "duration_ms": 161515,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2695,22 +2691,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
-        "name": "Pami",
-        "url": "https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM"
+        "name": "Shamajo",
+        "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
       },
       "artists": [
         {
-          "name": "Tera K\u00f2r\u00e1",
-          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
         },
         {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
         }
       ],
-      "duration_ms": 161515,
-      "name": "Pami",
-      "url": "https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8"
+      "duration_ms": 180000,
+      "name": "Shamajo",
+      "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
     },
     {
       "added_at": "2026-05-11 07:38:59",
@@ -2791,6 +2791,26 @@
     {
       "added_at": "2026-05-11 07:38:59",
       "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/0m06zefSt575K7uCdShGxr"
+      },
+      "artists": [
+        {
+          "name": "ND",
+          "url": "https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ"
+        },
+        {
+          "name": "Giordan Chase",
+          "url": "https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp"
+    },
+    {
+      "added_at": "2026-05-11 07:38:59",
+      "album": {
         "name": "Etema",
         "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
       },
@@ -2811,26 +2831,6 @@
       "duration_ms": 270086,
       "name": "Etema",
       "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
-    },
-    {
-      "added_at": "2026-05-11 07:38:59",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/0m06zefSt575K7uCdShGxr"
-      },
-      "artists": [
-        {
-          "name": "ND",
-          "url": "https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ"
-        },
-        {
-          "name": "Giordan Chase",
-          "url": "https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp"
     },
     {
       "added_at": "2026-05-11 07:38:59",

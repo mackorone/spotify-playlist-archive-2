@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 18K, Guè, RRARI DAL TACCO, DANTE, Astro, Madman e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,560 likes - 111 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,559 likes - 111 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 |
 | 13 | [Quando Voglio](https://open.spotify.com/track/25KME3ppdakx670F46k124) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [IO](https://open.spotify.com/album/63MuNY0qdgnGdQSwLnZunG) | 2:53 |
 | 14 | [Allontanarsi](https://open.spotify.com/track/4iD3sf1zdwawfK2rczhu7C) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Leslie Sackey](https://open.spotify.com/artist/6SGzX8DcyP060Goqwkkta4), [WADO](https://open.spotify.com/artist/3JVz1HR9jLWVJIOCmxCQAl) | [Allontanarsi](https://open.spotify.com/album/3mOLGFLUq7uZLuNUs2hVSD) | 2:40 |
-| 15 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
+| 15 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Ay Mazza](https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 16 | [Waterloo](https://open.spotify.com/track/1BNZmACoXaixN9yohxxBll) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [MM Vol\. 5](https://open.spotify.com/album/5kAMXKeMJpYzMKl7zziGkY) | 2:33 |
 | 17 | [Nike e Gucci II \(feat\. Promessa\)](https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Lounge Music](https://open.spotify.com/album/5aVWqLmy2pzgI0OYfwefKs) | 2:44 |
 | 18 | [Routine](https://open.spotify.com/track/2wvpxCo324WJbSZTexUHAl) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR), [Fireken](https://open.spotify.com/artist/6VwZ6AVO6J0QW6BnKJWk9F) | [Let Them Fly](https://open.spotify.com/album/4cjd95dHNdqaPCgRs4rI6r) | 1:58 |

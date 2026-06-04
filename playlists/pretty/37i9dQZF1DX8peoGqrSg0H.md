@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP KRIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,995 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,090 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 44 | [guilty pleasure](https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [guilty pleasure](https://open.spotify.com/album/7MDOYH1n73qdrT1T6Ns7eI) | 3:13 |
 | 45 | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/album/4NamkMWD2iNno2fyBqtEgz) | 3:39 |
 | 46 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
-| 47 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/0tzKmSvAijkqjpOefCl5QQ) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
+| 47 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK](https://open.spotify.com/artist/0vLU3ZaBYwWPRoCpxuDKiL), [PHUTATCHAI](https://open.spotify.com/artist/6E6bDv5ZGjEX2lv1KWmzpZ) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
 | 48 | [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ), [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc) | 3:01 |
 | 49 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |

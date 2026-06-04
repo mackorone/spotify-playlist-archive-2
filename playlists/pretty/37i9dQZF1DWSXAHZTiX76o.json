@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 346703,
+  "num_followers": 346680,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "la de arca",
+        "url": "https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        }
+      ],
+      "duration_ms": 149712,
+      "name": "la de arca",
+      "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Yo Jurar\u00e9",
         "url": "https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 175662,
       "name": "Yo Jurar\u00e9",
       "url": "https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "la de arca",
-        "url": "https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00ed",
-          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
-        }
-      ],
-      "duration_ms": 149712,
-      "name": "la de arca",
-      "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
     },
     {
       "added_at": "2025-12-03 13:14:43",

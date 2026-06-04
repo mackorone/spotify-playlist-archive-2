@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: S10 & Oscar and the Wolf, Idaly, Ronnie Flex & Frenna, Ariana Grande, Bebe Rexha, Tiësto en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,113 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,110 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

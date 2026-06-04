@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Mirar",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Anodes",
+        "url": "https://open.spotify.com/album/3oIcN2JDoVUHQSgF9t1vZi"
+      },
+      "artists": [
+        {
+          "name": "Gold Souls",
+          "url": "https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249200,
+      "name": "Dark Sun",
+      "url": "https://open.spotify.com/track/20ByEljDWbG6mqa8NVKyhq"
+    },
+    {
+      "album": {
         "name": "Darksign",
         "url": "https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1"
       },
@@ -4074,7 +4092,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 197422,
       "name": "Dread",
       "url": "https://open.spotify.com/track/5nTGBs12oCTo4XVhVE9mfN"
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 190182,
       "name": "end this",
       "url": "https://open.spotify.com/track/5mematTA9D87UfZG4OUHrL"
@@ -4924,7 +4942,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 356386,
       "name": "Eyes seeing eyes",
       "url": "https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI"
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 234071,
       "name": "flowers in february",
       "url": "https://open.spotify.com/track/6TNNIj1wUHf1Y6HBioNyjh"
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 307293,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3mU1u8CWGW0Fom3Jm9o2YY"
@@ -6934,7 +6952,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 267042,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/5zxllKP6BctpNXNUSn8Uwp"
@@ -7036,6 +7054,28 @@
       "duration_ms": 192774,
       "name": "I Against Me - Deluxe Edition",
       "url": "https://open.spotify.com/track/1edkZFmvfIVkZIYS8bGIve"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/1sgIFsWvMaXEUvZ2yWJlgW"
+      },
+      "artists": [
+        {
+          "name": "Hundred Arrows",
+          "url": "https://open.spotify.com/artist/38uqYLcmQ8vpaUKNlGo7aR"
+        },
+        {
+          "name": "Megalodon",
+          "url": "https://open.spotify.com/artist/6mqh3TtGuoCdutLJfREIGX"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235229,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5njQlbGx0Yy1Hev1A7LcPX"
     },
     {
       "album": {
@@ -7158,7 +7198,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 227897,
       "name": "I Thought I Could Hide But You Caught Me",
       "url": "https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK"
@@ -8196,7 +8236,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 130065,
       "name": "Leech",
       "url": "https://open.spotify.com/track/7t8LIf1JmKKigK3dnrEesY"
@@ -9084,7 +9124,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 237176,
       "name": "Mirrorborn",
       "url": "https://open.spotify.com/track/7HXn3gBVIc92JiACznbsDE"
@@ -9460,7 +9500,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 167428,
       "name": "Need This Patience",
       "url": "https://open.spotify.com/track/5KZ18JogdoOFJOjmAMIZQG"
@@ -9831,6 +9871,24 @@
     },
     {
       "album": {
+        "name": "nothing but pain",
+        "url": "https://open.spotify.com/album/6agodDpdlvBxx6wABjxEvB"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "nothing but pain",
+      "url": "https://open.spotify.com/track/0gqsjAaOCDVn9owqTysO4p"
+    },
+    {
+      "album": {
         "name": "Ritual Decay",
         "url": "https://open.spotify.com/album/1LHORbi0gszA1P4ZaZx59r"
       },
@@ -9908,6 +9966,24 @@
       "duration_ms": 253363,
       "name": "No\u010dn\u00ed M\u016fra",
       "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
+    },
+    {
+      "album": {
+        "name": "Gradus Ad Parnassum",
+        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
+      },
+      "artists": [
+        {
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "N\u00e5r Solen G\u00e5r Ned",
+      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
     },
     {
       "album": {
@@ -10474,7 +10550,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 226875,
       "name": "Passage",
       "url": "https://open.spotify.com/track/4ySxsCBR401FaCitQWlbEH"
@@ -11102,7 +11178,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 202547,
       "name": "Raisaris",
       "url": "https://open.spotify.com/track/24WKVzbhUF5JNZNGCNXVap"
@@ -11142,6 +11218,24 @@
       "duration_ms": 135157,
       "name": "Reality Bytes",
       "url": "https://open.spotify.com/track/263cQpO0KQOyPOXHbDjHTt"
+    },
+    {
+      "album": {
+        "name": "Rebel Son Rise!",
+        "url": "https://open.spotify.com/album/54ovnWhR8qS6dxyzUGu2i5"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Rebel Son Rise!",
+      "url": "https://open.spotify.com/track/3444xNnvbrPsht9QaxVg5D"
     },
     {
       "album": {
@@ -12682,7 +12776,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 159670,
       "name": "Starless",
       "url": "https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk"
@@ -13501,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "The Amalgamation",
+        "url": "https://open.spotify.com/album/51ZBH62Mskgv4WinsYtOnB"
+      },
+      "artists": [
+        {
+          "name": "ENOX",
+          "url": "https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213743,
+      "name": "The Amalgamation",
+      "url": "https://open.spotify.com/track/4oanLYzraNjj3ci5vS9izG"
+    },
+    {
+      "album": {
         "name": "The Cost of Clarity",
         "url": "https://open.spotify.com/album/043FCEErxux1d0TSOShvwI"
       },
@@ -13682,6 +13794,24 @@
       "duration_ms": 186000,
       "name": "THE FUTURE IS PINK",
       "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+    },
+    {
+      "album": {
+        "name": "THE GNARLYCORE CLASS",
+        "url": "https://open.spotify.com/album/3xo0Exm8rSGrXAOzRVb3hI"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116146,
+      "name": "THE GNARLYCORE CLASS",
+      "url": "https://open.spotify.com/track/362pcZpk4jShFIoa2zWI6J"
     },
     {
       "album": {
@@ -14820,7 +14950,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 144973,
       "name": "VANILLA LATTE",
       "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
@@ -14968,6 +15098,28 @@
       "duration_ms": 209323,
       "name": "Void Alone",
       "url": "https://open.spotify.com/track/2l65hRPdbffpHAGg4YYhQr"
+    },
+    {
+      "album": {
+        "name": "Vomit Eater",
+        "url": "https://open.spotify.com/album/4EC8d3Xj3bFDOtOVfRpiqU"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Vomit Eater",
+      "url": "https://open.spotify.com/track/0ykOjLTx0d1kCRClc1cazO"
     },
     {
       "album": {
@@ -15736,7 +15888,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 209560,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2pCh7zubU7Im2D4lpr5DrJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: GOODMOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,598 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,605 likes - 34 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 11 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
 | 12 | [โคมไฟระย้า](https://open.spotify.com/track/2ke4oJzLPO4QUfgMPUgBZQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 3:28 |
 | 13 | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/track/0GPUeoz4n9Uw6wnwHwY1JD) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/album/3KUh9eIcpGAyd3QQWJLIp4) | 5:03 |
-| 14 | [Hurry up!](https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0IF9Zm8D2hN3nnvy9RKaCm) | 2:43 |
+| 14 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
 | 15 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 16 | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS) | 2:54 |
 | 17 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |
 | 18 | [Last Word](https://open.spotify.com/track/2vWbqVpmCaDBSvctgogvDf) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [Last Word](https://open.spotify.com/album/6p6lnMtET3Ic55JGslLhWb) | 3:51 |
-| 19 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
+| 19 | [Hurry up!](https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0IF9Zm8D2hN3nnvy9RKaCm) | 2:43 |
 | 20 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 21 | [ตัวปัญหา \(Envy\)](https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [ตัวปัญหา \(Envy\)](https://open.spotify.com/album/0Dbn4xDX8mguqDOA2FTkGY) | 3:03 |
 | 22 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |

@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 246000,
       "name": "Crazy Fool",
       "url": "https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6"
@@ -9122,6 +9122,24 @@
       "duration_ms": 270280,
       "name": "Happy Me",
       "url": "https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C"
+    },
+    {
+      "album": {
+        "name": "Happy&ing",
+        "url": "https://open.spotify.com/album/5OQxFbUpozj2AQatmALO2l"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Happy&ing",
+      "url": "https://open.spotify.com/track/0EzV9B3tJBq1D7WIusy0QG"
     },
     {
       "album": {
@@ -29962,7 +29980,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-04",
       "duration_ms": 238000,
       "name": "Words I Never Said",
       "url": "https://open.spotify.com/track/0y0iug6LnWXJzDlW8inP8N"

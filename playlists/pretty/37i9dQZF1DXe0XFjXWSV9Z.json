@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51077,
+  "num_followers": 51083,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
-      },
-      "artists": [
-        {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
-        }
-      ],
-      "duration_ms": 302602,
-      "name": "Lamento en la Selva",
-      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 343445,
       "name": "La Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Echo en Mexico",
+        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+      },
+      "artists": [
+        {
+          "name": "Money Chicha",
+          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+        }
+      ],
+      "duration_ms": 302602,
+      "name": "Lamento en la Selva",
+      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Onda tropical (Cumbia Version)",
         "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 204000,
       "name": "Onda tropical - Cumbia Version",
       "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Abya Yala",
-        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 344333,
-      "name": "Dame Tu Mano",
-      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Dale Mel\u00f3n",
         "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 260678,
       "name": "Dale Mel\u00f3n",
       "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Abya Yala",
+        "url": "https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 344333,
+      "name": "Dame Tu Mano",
+      "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Paso Palante",
+        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 245831,
+      "name": "Paso Palante",
+      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Mary Sol",
         "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 250000,
       "name": "Mary Sol",
       "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Paso Palante",
-        "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 245831,
-      "name": "Paso Palante",
-      "url": "https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 160067,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Solo Yo",
         "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
       "artists": [
         {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+      "duration_ms": 160067,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1331,6 +1315,22 @@
       "duration_ms": 202302,
       "name": "Chica Psy",
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Palermo's Grunch",
+        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 308864,
+      "name": "Palermo's Grunch",
+      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Sonaja y Tambor",
         "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 237080,
       "name": "Sonaja y Tambor",
       "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Palermo's Grunch",
-        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 308864,
-      "name": "Palermo's Grunch",
-      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Impredecible",
-        "url": "https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38"
-      },
-      "artists": [
-        {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "La voz del sinchi",
-      "url": "https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "El M\u00e9todo de la Cera Perdida",
         "url": "https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 263423,
       "name": "El M\u00e9todo de la Cera Perdida",
       "url": "https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38"
+      },
+      "artists": [
+        {
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "La voz del sinchi",
+      "url": "https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe"
     },
     {
       "added_at": "2025-05-19 17:05:09",

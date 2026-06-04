@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,022 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,023 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 45 | [Pasta Registrada](https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [DOISMILEVINTEHOJE](https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw) | 3:07 |
 | 46 | [Última Vez](https://open.spotify.com/track/1LvQdwrgWZygPoAes28AbJ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 1:50 |
 | 47 | [Set Ajc \(feat\. Mac Júlia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna\)](https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc \(feat\. Mac Júlia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna\)](https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8) | 5:43 |
-| 48 | [Íntimo](https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 1:38 |
-| 49 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
+| 48 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
+| 49 | [Íntimo](https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 1:38 |
 | 50 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
 
-Snapshot ID: `ahzLgAAAAABtsHjPYmtSOaiwNQ9xgxnt`
+Snapshot ID: `ah4dAAAAAACFcBjR2DjYMRmhflSJ3vGU`

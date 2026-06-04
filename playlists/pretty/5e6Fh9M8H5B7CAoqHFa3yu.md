@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 325 likes - 2,362 songs - 5 day 19 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 328 likes - 2,364 songs - 5 day 19 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2370,5 +2370,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2360 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 |
 | 2361 | [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 |
 | 2362 | [Travelers Souls](https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Travelers Souls](https://open.spotify.com/album/7mOchKktwmLXR7onK2mhv5) | 4:00 |
+| 2363 | [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 |
+| 2364 | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/album/6KDXTPgiLfEYUokveQ4dyH) | 3:40 |
 
-Snapshot ID: `AAAKCJjNbJlhVbZ/yCX0NrjJMWdZYA4N`
+Snapshot ID: `AAAKCqQAi1dIkAaXOZNVetsBTeWDjin2`

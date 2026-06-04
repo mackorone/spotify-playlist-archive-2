@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer, Ariana Grande, La Mano 1.9 x Gazo x La Rvfleuze et Bebe Rexha x David Guetta au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,520 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,465 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

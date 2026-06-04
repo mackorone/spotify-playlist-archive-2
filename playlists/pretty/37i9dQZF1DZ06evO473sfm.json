@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 595196,
+  "num_followers": 595443,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahzLgAAAAACSNvGmR76Jyei/LJIS112n",
+  "snapshot_id": "ah4dAAAAAABzjWGszTVbwXcOeH6qU2hz",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 223843,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez Me Gusta M\u00e1s",
         "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 204814,
       "name": "Cada Vez Me Gusta M\u00e1s",
       "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 223843,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 183500,
-      "name": "BESES ASI",
-      "url": "https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG"
+      "duration_ms": 180731,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
       "added_at": null,
@@ -971,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 180731,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+      "duration_ms": 183500,
+      "name": "BESES ASI",
+      "url": "https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG"
     }
   ],
   "unique_name": "This Is Grupo Frontera",
