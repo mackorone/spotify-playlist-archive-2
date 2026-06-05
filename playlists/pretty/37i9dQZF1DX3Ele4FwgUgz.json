@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 19001,
+  "num_followers": 19004,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8\u3010\u5929\u738b\u5bfa\u7483\u5948\u76e4\u3011",
-        "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
-          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "\u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8",
-      "url": "https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
         "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 233960,
       "name": "Cara Tesoro",
       "url": "https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8\u3010\u5929\u738b\u5bfa\u7483\u5948\u76e4\u3011",
+        "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "\u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8",
+      "url": "https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u671d\u9999\u679c\u6797\u76e4\u3011",
-        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "VIVID WORLD",
-      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
         "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 199480,
       "name": "Fashionista",
       "url": "https://open.spotify.com/track/5mvYrPSjXzcx7KuHo0ULMj"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u671d\u9999\u679c\u6797\u76e4\u3011",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 253373,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 254013,
       "name": "SUPER NOVA",
       "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
         }
       ],
-      "duration_ms": 326040,
-      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+      "duration_ms": 263826,
+      "name": "\u30ed\u30de\u30f3\u30b9\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/2CemjAKqoWDUfCwkzqsIYF"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -715,18 +715,34 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
         "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
       },
       "artists": [
         {
-          "name": "A\u30fbZU\u30fbNA",
-          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 263826,
-      "name": "\u30ed\u30de\u30f3\u30b9\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/2CemjAKqoWDUfCwkzqsIYF"
+      "duration_ms": 268666,
+      "name": "Fuwa Fuwa \u30a2\u30ef\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6jnFBhAKLrjvz7IYsNBMpj"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -775,22 +791,6 @@
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
-        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "Fuwa Fuwa \u30a2\u30ef\u30fc\uff01",
-      "url": "https://open.spotify.com/track/6jnFBhAKLrjvz7IYsNBMpj"
     },
     {
       "added_at": "2025-07-21 16:15:15",

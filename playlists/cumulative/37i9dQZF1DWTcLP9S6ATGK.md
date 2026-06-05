@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Fani Rahmansyah
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rio Lahskart, Andi Rianto
 
-935 songs - 2 day 12 hr 55 min
+939 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 | 2025-09-11 |  |
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2025-01-16 | 2025-09-26 |
 | [Aku Cemburu](https://open.spotify.com/track/4IxVG36SSCtoviEM4f4QCC) | [Kakung Triadmojo](https://open.spotify.com/artist/38bVEhkw2SXkG11dsCPW9w) | [Aku Cemburu](https://open.spotify.com/album/6TWbApD0Cfn4mIO0Chme0n) | 3:54 | 2026-05-29 |  |
+| [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 | 2026-06-04 |  |
 | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/track/3pyzX8lLQvN2iJSlAaIvlz) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko) | 3:45 | 2025-03-13 | 2025-04-25 |
 | [Aku Minta Maaf](https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Aku Minta Maaf](https://open.spotify.com/album/4QI39QpWAnJsGvSngT53J3) | 4:19 | 2026-04-23 |  |
 | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/track/5PtqAzYdYvaLhPz8ytODnH) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU), [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/album/2PhzFP5vLutV5gUkaHjAol) | 4:34 | 2026-03-05 | 2026-05-09 |
@@ -335,6 +336,7 @@
 | [Jakarta Ku dan Kau](https://open.spotify.com/track/6Z7wKOSgezQygxbsAAdnza) | [BOBSMAN X](https://open.spotify.com/artist/2TLLtFn3oshIGqGID493Gn) | [Jakarta Ku dan Kau](https://open.spotify.com/album/5xU6H9OszL31vhyJL0mQNS) | 4:37 | 2026-05-15 |  |
 | [Jalan Cinta \(Original Soundtrack From “Assalamualaikum Baitullah"\)](https://open.spotify.com/track/27KhyqAvZqTqYlD0aRUqSE) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Jalan Cinta \(Original Soundtrack From “Assalamualaikum Baitullah"\)](https://open.spotify.com/album/4lZ41YXIm8xnJZ2qQp7OjX) | 4:34 | 2025-05-29 | 2025-06-27 |
 | [Jalan Lain](https://open.spotify.com/track/2fdzJZLSEr6t5TxAi0ZeK2) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Jalan Lain](https://open.spotify.com/album/2wxWEZmV1vACyuz7iWCJj5) | 4:08 | 2025-10-30 | 2025-11-28 |
+| [Jalan Tengah](https://open.spotify.com/track/3aZv6K9shtmH9IYFrUpmxc) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Jalan Tengah](https://open.spotify.com/album/13dflnJlj0vw1WJT7fnQji) | 4:36 | 2026-06-04 |  |
 | [Jangan Baper](https://open.spotify.com/track/5eGZW5WmjK4287BlW1t6B1) | [Kania](https://open.spotify.com/artist/4OcZD78Y9cfkU2NWrdmCoe) | [Jangan Baper](https://open.spotify.com/album/6ie9C4SrWZO894Y3XlQ6QQ) | 2:30 | 2026-05-28 |  |
 | [Jangan Cepat Tua](https://open.spotify.com/track/43eBFRxyPAAphGaFKznWHF) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Jangan Cepat Tua](https://open.spotify.com/album/4568SX5ckiLdN1oVb5ZV6r) | 3:20 | 2025-05-08 | 2025-06-27 |
 | [Jangan Dipaksa](https://open.spotify.com/track/18lmQvoPSexDUEdiYzE6de) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jangan Dipaksa](https://open.spotify.com/album/29oMitH15yroytvMybIlg6) | 3:46 | 2024-06-27 | 2024-09-27 |
@@ -731,6 +733,7 @@
 | [Selalu Untuk Selamanya](https://open.spotify.com/track/0c133r0IkodWNwKgaUFeJt) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Selalu Untuk Selamanya](https://open.spotify.com/album/1ghY5gSCHR6xzUtzUloihW) | 4:05 | 2024-10-24 | 2025-01-10 |
 | [Selamanya](https://open.spotify.com/track/11LEqls3KznxOu7Azr5pw4) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Selamanya](https://open.spotify.com/album/0BYWpVwLgQn0pkmisLkqJX) | 3:48 | 2025-10-09 | 2025-11-28 |
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-06-27 | 2025-01-10 |
+| [Selamanya, Segalanya](https://open.spotify.com/track/4DnS2QRB47w11rJFbCWrmX) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Selamanya, Segalanya](https://open.spotify.com/album/0YnwbdLFDgqaZQMYCbeGFu) | 3:24 | 2026-06-04 |  |
 | [Selamat Datang Di Realita](https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Selamat Datang Di Realita](https://open.spotify.com/album/38SGxevynExMhA61GaaPTs) | 5:41 | 2024-08-08 | 2025-01-10 |
 | [Selamat Datang Ramadhan](https://open.spotify.com/track/1A8kTcqvjwC5XDyzQeukMt) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Selamat Datang Ramadhan](https://open.spotify.com/album/6FL2Y1PJ9MOTU5tktZkFBi) | 3:06 | 2025-03-13 | 2025-05-09 |
 | [Selamat Tinggal Cinta](https://open.spotify.com/track/7Lu0wB1mnDvyKa40QUduxj) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Ronald Dewa](https://open.spotify.com/artist/2zrMuruIsDXrQIQHuLU0sj) | [Selamat Tinggal Cinta](https://open.spotify.com/album/0k72hTSK1wLdbENlFTatfp) | 4:28 | 2025-03-13 | 2025-09-26 |
@@ -812,6 +815,7 @@
 | [Sumpah](https://open.spotify.com/track/06Dg26AGL4TKjL5hX50Jrv) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Sumpah](https://open.spotify.com/album/2v18zbnNJlCXCrmp65gA1L) | 3:00 | 2025-11-27 | 2026-01-15 |
 | [Sumpah Mati](https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6) | [Celyna Grace](https://open.spotify.com/artist/7ofzlcvCaN0u5naaoIiPKi), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sumpah Mati](https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8) | 4:00 | 2026-05-28 |  |
 | [Sumpah Mati](https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y) | [Niki Becker](https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sumpah Mati](https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h) | 3:28 | 2026-05-28 |  |
+| [Sumpah Mati](https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU) | [Rio Lahskart](https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sumpah Mati](https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL) | 3:40 | 2026-06-04 |  |
 | [Sunny](https://open.spotify.com/track/3xDn55ZJ7rLVRHatqgLnKe) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Bapak](https://open.spotify.com/album/2UYAW0k92IScW5aI0ulo1E) | 4:25 | 2024-12-12 | 2025-04-25 |
 | [Surely, Someday](https://open.spotify.com/track/2625LexPJq6aaoOst2MlLn) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [Surely, Someday](https://open.spotify.com/album/6XVuC9UFqGu19tlzI4ITTW) | 2:26 | 2025-08-28 | 2025-10-31 |
 | [Surga](https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:26 | 2024-10-31 | 2024-11-29 |

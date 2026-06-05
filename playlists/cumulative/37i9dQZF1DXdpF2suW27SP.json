@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Nenny entra na zona. ",
+  "description": "Monsta entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -6582,7 +6582,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 174000,
       "name": "ENFEITI\u00c7ADO",
       "url": "https://open.spotify.com/track/4VNqgurUcJmbFpjTyO4ehk"
@@ -8254,6 +8254,24 @@
       "duration_ms": 181192,
       "name": "G3",
       "url": "https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I"
+    },
+    {
+      "album": {
+        "name": "GAME OVER (Assunto Encerrado)",
+        "url": "https://open.spotify.com/album/5dAEVrdphpsbopw83BhxG6"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366742,
+      "name": "GAME OVER (Assunto Encerrado)",
+      "url": "https://open.spotify.com/track/5CRt6besPQcjeMtle9otHM"
     },
     {
       "album": {
@@ -11923,6 +11941,24 @@
     },
     {
       "album": {
+        "name": "t\u00e1 calor e a culpa \u00e9 tua",
+        "url": "https://open.spotify.com/album/5JcqUFDfmOYQqfvHn1Y6ZN"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/2jc2xZlXwjeAKoDkZB5Ykx"
+    },
+    {
+      "album": {
         "name": "MISSA A METADE",
         "url": "https://open.spotify.com/album/6AEItJ41BirJxtmrgtydTc"
       },
@@ -14282,7 +14318,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170285,
       "name": "ORA",
       "url": "https://open.spotify.com/track/61cz5UhCeqwO5R3fe4zxCx"
@@ -18210,7 +18246,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170679,
       "name": "Sou Portugu\u00eas",
       "url": "https://open.spotify.com/track/22AEZiyQXHfWHNVBYbK95P"

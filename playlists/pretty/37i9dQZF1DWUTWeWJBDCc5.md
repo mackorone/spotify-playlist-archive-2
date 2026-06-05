@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Robbie Williams\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: 정국\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,214 likes - 56 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,433 likes - 56 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It's Only Us](https://open.spotify.com/track/3Ymr7QiCcj0bn0K0fWfrfD) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 2:50 |
-| 2 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/0jY618wuln0b5b8sCxFgjk) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6GnWToxHfF7hobSYdi5V8u) | 3:21 |
+| 1 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/0jY618wuln0b5b8sCxFgjk) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6GnWToxHfF7hobSYdi5V8u) | 3:21 |
+| 2 | [It's Only Us](https://open.spotify.com/track/3Ymr7QiCcj0bn0K0fWfrfD) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 2:50 |
 | 3 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 |
 | 4 | [Stay For A While](https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Stay For A While](https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv) | 2:49 |
 | 5 | [Day dream](https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Day dream](https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP) | 3:58 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 55 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 |
 | 56 | [Sleepless](https://open.spotify.com/track/33RxnAlO8IKWwS9pSRRaP5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Sleepless \(from Sold Out On You \(Original Soundtrack\) Part 3\)](https://open.spotify.com/album/1DK8jMJjfVbz34tpXeBYX9) | 3:52 |
 
-Snapshot ID: `AAAAACzT2CeOXEfuU2/CprH8Vw8qJRWI`
+Snapshot ID: `AAAAACAVnSCnfYE2P3XBRi20SAMXAzXH`

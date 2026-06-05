@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Crimson ValkyRies, Die Mannequin, Tssara and more",
+  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182508,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/0zpDkw1zVOWn5IJhh2gBTk"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 204683,
       "name": "Changeover",
       "url": "https://open.spotify.com/track/7xTk2HP884Gw5SVJKOXmWO"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "Differently (feat. Travis McCoy)",
       "url": "https://open.spotify.com/track/0T8H3yrVHqTAQw4HqnRvR5"
@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Voltage Across the Afterglow",
+        "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133199,
+      "name": "Dublin Dockside Drifter",
+      "url": "https://open.spotify.com/track/6188LTfmDoBxAsgwaMXo9H"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6XLOttpx6FXaoRIBhSbCFM"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 225200,
       "name": "FAME",
       "url": "https://open.spotify.com/track/2zty4A3XTAWyS4XHsY9EBj"
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 106159,
       "name": "Ginza Voltage, Senpai",
       "url": "https://open.spotify.com/track/7IymNg6Ov2DMkO5bHFJua4"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -4498,7 +4516,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -5378,7 +5396,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 146735,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0liKzWoH4y2QVRTJeRB5dv"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -5764,7 +5782,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -5908,7 +5926,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -6164,7 +6182,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 153293,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/44a2Gxxj1yZB71GdGzJeJJ"
@@ -7270,7 +7288,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 210866,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/6g5GzKW99wImAdpuo7mVwh"
@@ -7288,7 +7306,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Rich and Filthy",
       "url": "https://open.spotify.com/track/5VEDnh2r5F5st6psB40wdf"
@@ -8077,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "Dilana",
+        "url": "https://open.spotify.com/album/0uE5L0qsYSZMQWY9IIcA6R"
+      },
+      "artists": [
+        {
+          "name": "Dilana",
+          "url": "https://open.spotify.com/artist/7GMdUtqSGxHAp7BIHwVB9r"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215667,
+      "name": "Supersoul",
+      "url": "https://open.spotify.com/track/2DVaNxzFk3hF9eG8sJM9wK"
+    },
+    {
+      "album": {
         "name": "Inside The Hollow",
         "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
       },
@@ -8308,7 +8344,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -9000,7 +9036,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 244917,
       "name": "We'll Never Die",
       "url": "https://open.spotify.com/track/0Thn1p4p1bqvYjdfDX8uAj"

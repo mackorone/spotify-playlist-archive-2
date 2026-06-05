@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: Fonc\u00e9, JayMoreLife, Marou & Massin en meer..",
+  "description": "Nieuw: Miero YIC, PLUGOXHUSH, Ella, IKER en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Actief",
+        "url": "https://open.spotify.com/album/6GYkjIo550qcMjzYIG96zd"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180550,
+      "name": "Actief",
+      "url": "https://open.spotify.com/track/1ixxSkml0fAHx2iMwt8Qvx"
+    },
+    {
+      "album": {
         "name": "Afblazen",
         "url": "https://open.spotify.com/album/6BKfrWe8kyKl02Z0fJnv4I"
       },
@@ -682,6 +700,28 @@
       "duration_ms": 165333,
       "name": "Afstand",
       "url": "https://open.spotify.com/track/5BxN9BC1b781VDoVB5Nohi"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3kTUzEo2URyRnAGbkeL1d9"
+      },
+      "artists": [
+        {
+          "name": "IKER",
+          "url": "https://open.spotify.com/artist/0RgWG68I2ybn4jLZlcDWqC"
+        },
+        {
+          "name": "INTENSA",
+          "url": "https://open.spotify.com/artist/5GZy1E3YCKNxgYSsdVxr9U"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "After",
+      "url": "https://open.spotify.com/track/2Es9LNYrk2LBEvLVZQ9jOH"
     },
     {
       "album": {
@@ -5233,6 +5273,28 @@
     },
     {
       "album": {
+        "name": "Ik Voel Je Ook",
+        "url": "https://open.spotify.com/album/6rP481jUKZ9ZI3aEl5bgmr"
+      },
+      "artists": [
+        {
+          "name": "Miero YIC",
+          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
+        },
+        {
+          "name": "Andr\u00e9lon",
+          "url": "https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Ik Voel Je Ook",
+      "url": "https://open.spotify.com/track/1V4Y9TOXW4KOd23iAYoq9X"
+    },
+    {
+      "album": {
         "name": "Ik wil allang met je zijn",
         "url": "https://open.spotify.com/album/2ZPP1jk28toK5nrQQQ2DNM"
       },
@@ -8220,6 +8282,28 @@
       "duration_ms": 143255,
       "name": "NOG \u00c9\u00c9N",
       "url": "https://open.spotify.com/track/5Z3O0TR1wYmQLj8WBmmJXc"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/3V2gCt9zLJUf8TgmiFdLxT"
+      },
+      "artists": [
+        {
+          "name": "PLUGOXHUSH",
+          "url": "https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2"
+        },
+        {
+          "name": "Raiky",
+          "url": "https://open.spotify.com/artist/2X9XJL2YmB2ywVsMXal7L8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/6A53AeLyyhsMseGZtFtEhK"
     },
     {
       "album": {

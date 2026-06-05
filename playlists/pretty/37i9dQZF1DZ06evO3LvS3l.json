@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28317,
+  "num_followers": 28338,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAZ3ORj1B1RUf0HlCdtV0Et",
+  "snapshot_id": "ah9ugAAAAACzRiYq6bE8O+feVjOtOrf3",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Piece of Wood and Steel",
+      "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazy Daddy",
         "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 170200,
       "name": "This Bottle (In My Hand)",
       "url": "https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Piece of Wood and Steel",
-      "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
     },
     {
       "added_at": null,

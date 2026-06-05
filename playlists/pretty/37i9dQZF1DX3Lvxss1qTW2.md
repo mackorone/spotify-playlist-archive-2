@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. Up Next: Emo Grae
+> The future hits of today\. Up Next: Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,923 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,945 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Genie Baby](https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Diamond Baby](https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh) | 2:28 |
 | 80 | [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 |
 
-Snapshot ID: `AAAAALU30hveqyL45iVv3upzA92be0UW`
+Snapshot ID: `AAAAAOmPSi1JvZ/1+6p8Ijj+VElno7Dv`

@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-226 songs - 11 hr 14 min
+227 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [SR\. SMITH](https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:41 | 2024-06-23 |  |
 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 | 2023-07-11 |  |
 | [SU CASA](https://open.spotify.com/track/626vswICsSvlVh4ILUhZJ1) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:18 | 2023-06-24 | 2023-07-12 |
-| [Súper Snake](https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Súper Snake](https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb) | 2:26 | 2026-03-02 |  |
+| [Súper Snake](https://open.spotify.com/track/0rhIDVKA677SU6XvdRX7Iz) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:26 | 2026-06-05 |  |
+| [Súper Snake](https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Súper Snake](https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb) | 2:26 | 2026-03-02 | 2026-06-05 |
 | [Tacha$ & Tu$$i](https://open.spotify.com/track/5jKRqn4TAi6ASvRYI5AqJV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW) | [Tacha$ & Tu$$i](https://open.spotify.com/album/6kYaYO9RIX9hsseMbdOA1f) | 2:26 | 2024-08-03 | 2024-09-22 |
 | [Te Quiero Así \(En Vivo\)](https://open.spotify.com/track/3T0c5gIYl2iGD2kGZoPo4K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Te Quiero Así \(En Vivo\)](https://open.spotify.com/album/1aZUBgnvIvC9q544aBUBxo) | 3:29 | 2023-12-29 | 2024-01-07 |
 | [Todo Depende de Ti \(En Vivo\)](https://open.spotify.com/track/6EW3T5IPyotlqN8ZC9vEKo) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Todo Depende de Ti \(En Vivo\)](https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY) | 3:29 | 2025-02-04 | 2025-03-12 |

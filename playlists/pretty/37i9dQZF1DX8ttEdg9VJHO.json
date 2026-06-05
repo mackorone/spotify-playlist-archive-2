@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 369046,
+  "num_followers": 369044,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOE258DmGwUptCseOhIypr2w+FMS",
+  "snapshot_id": "AAAAAJh6tYIDfL6cphPtnDeu+pFMsekJ",
   "tracks": [
     {
       "added_at": "2026-05-28 13:46:15",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
-        "name": "Don't Stop The Car",
-        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Don't Stop The Car",
-      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
+        "name": "Don't Stop The Car",
+        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Don't Stop The Car",
+      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
-        "name": "Someday Soon",
-        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 204802,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
       },
       "artists": [
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 204802,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -979,6 +963,22 @@
       "duration_ms": 193181,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 145846,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "READY TO BLOW",
+        "url": "https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI"
+      },
+      "artists": [
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 141223,
+      "name": "READY TO BLOW",
+      "url": "https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 175413,
       "name": "Mehr davon",
       "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "Sains et saufs (Deluxe)",
-        "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Mon vrai moi",
-      "url": "https://open.spotify.com/track/2uD7MbyDtL8nGDxVAwpqtW"
     }
   ],
   "unique_name": "Feelgood Pop",

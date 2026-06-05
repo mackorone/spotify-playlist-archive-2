@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Jag ger dig sommaren",
+        "url": "https://open.spotify.com/album/0EZkINzN1X1yjaufrRWqHe"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187210,
+      "name": "Jag ger dig sommaren",
+      "url": "https://open.spotify.com/track/4gl4Qy47LihabPCfVlRo3W"
+    },
+    {
+      "album": {
         "name": "Jag g\u00f6r allt som man inte f\u00e5r",
         "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
       },
@@ -5292,7 +5310,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 188488,
       "name": "Just to Make You Laugh",
       "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
@@ -6540,7 +6558,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 317160,
       "name": "Mother's Love Conquers All",
       "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
@@ -10734,6 +10752,24 @@
       "duration_ms": 224402,
       "name": "You",
       "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
+    },
+    {
+      "album": {
+        "name": "You Got The Look",
+        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "You Got The Look",
+      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
     },
     {
       "album": {

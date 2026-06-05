@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Crash" de Joseph Kamel  est le Grand Hit de la semaine.
+> "Frérot" de Jérémy Frérot  est le Grand Hit de la semaine.
 
-334 songs - 17 hr 5 min
+337 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 | 2025-08-07 |  |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-11-09 | 2023-12-09 |
 | [Avec ou sans](https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 2:52 | 2025-04-17 | 2025-12-05 |
-| [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 | 2025-12-04 |  |
+| [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 | 2025-12-04 | 2026-06-05 |
 | [BABY](https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BABY](https://open.spotify.com/album/7HYln20CyYW9VRDb2uASTp) | 2:35 | 2025-02-27 | 2025-05-30 |
 | [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 | 2025-10-09 | 2026-03-27 |
 | [Ballade](https://open.spotify.com/track/4nPgOP4KAKil4N5zaww2kY) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [ONZE](https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K) | 2:57 | 2025-08-14 | 2025-08-22 |
@@ -42,6 +42,7 @@
 | [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 | 2024-12-12 | 2025-01-31 |
 | [C'est la danse](https://open.spotify.com/track/2T8c2wfGiP6WmrFfvZ1MAn) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre](https://open.spotify.com/album/1KAqfN196NXDeuYjaNnv8V) | 2:48 | 2023-09-28 | 2023-10-06 |
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-05-09 | 2024-07-27 |
+| [C'est à qui le tour](https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [C'est à qui le tour](https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN) | 2:49 | 2026-06-04 |  |
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-07-25 | 2025-01-24 |
 | [Café froid](https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Café froid](https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G) | 3:20 | 2025-10-02 | 2026-01-15 |
 | [Capitaine \(feat\. Styleto\)](https://open.spotify.com/track/084wxZBvCg1vToPvQqqaow) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:33 | 2024-02-22 | 2024-04-05 |
@@ -108,6 +109,7 @@
 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 | 2025-12-11 | 2026-04-24 |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-05-09 | 2024-09-06 |
 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 | 2025-08-21 | 2025-11-21 |
+| [Famille ou pas famille](https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Famille ou pas famille](https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd) | 3:01 | 2026-06-04 |  |
 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-28 | 2025-04-04 |
 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 | 2024-04-18 | 2025-11-07 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-11-09 | 2024-02-23 |
@@ -155,7 +157,7 @@
 | [Juste une chanson](https://open.spotify.com/track/7vOYObP8Svk2Hthv9J8gsq) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:22 | 2024-02-01 | 2024-04-19 |
 | [JVQTSM](https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [JVQTSM](https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB) | 2:28 | 2024-03-14 | 2024-09-27 |
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 | 2025-07-18 |
-| [Karma](https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 4:18 | 2026-03-26 |  |
+| [Karma](https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 4:18 | 2026-03-26 | 2026-06-05 |
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 | 2024-01-26 |
 | [L'amour](https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [L'amour](https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ) | 3:11 | 2025-07-03 | 2025-10-03 |
 | [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 | 2025-12-19 |
@@ -234,7 +236,7 @@
 | [Mieux comme ça ? \(feat\. Petit K\)](https://open.spotify.com/track/0aKBA3rWo1eBw6I9K1wXvg) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif), [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:00 | 2023-09-28 | 2023-12-09 |
 | [Mieux que moi](https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mieux que moi](https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S) | 3:35 | 2025-12-04 | 2026-04-24 |
 | [Mille fois](https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Mille fois](https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU) | 2:53 | 2025-09-11 | 2026-03-06 |
-| [Millions de cœurs](https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Millions de cœurs](https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u) | 2:39 | 2026-01-08 |  |
+| [Millions de cœurs](https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Millions de cœurs](https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u) | 2:39 | 2026-01-08 | 2026-06-05 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 | 2024-07-19 |
 | [Monstre](https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Monstre](https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu) | 2:41 | 2025-04-03 | 2025-08-08 |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-05-16 | 2024-09-06 |
@@ -336,6 +338,7 @@
 | [Voulez\-Vous](https://open.spotify.com/track/513s60DKMknigRNGVzSORD) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Voulez\-Vous](https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn) | 2:54 | 2025-11-13 | 2026-02-13 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |
 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 | 2024-01-25 | 2024-03-01 |
+| [À l'imparfaite](https://open.spotify.com/track/0jRLZZLyNGdB4x2fivRfnk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:15 | 2026-06-04 |  |
 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 | 2026-02-06 |
 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 | 2025-12-05 |
 | [Ça fait mal](https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:09 | 2026-03-05 |  |

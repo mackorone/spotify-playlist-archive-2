@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,241 songs - 2 day 21 hr 2 min
+1,242 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-27 | 2024-06-13 |
 | [Deeper Purpose](https://open.spotify.com/track/0F85jQDf7wPFBv2evo7sXG) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Bloom](https://open.spotify.com/album/77pYQnGdJIiYO3h5uf9QUj) | 3:08 | 2024-07-23 | 2024-10-16 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
+| [Delilah](https://open.spotify.com/track/60cNwtuht41p3FAjoULpYp) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Delilah](https://open.spotify.com/album/39hXclK6hPWE49b0mOE9dJ) | 1:50 | 2026-06-04 |  |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Devotion](https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Devotion](https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL) | 3:13 | 2025-11-19 | 2026-02-27 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |

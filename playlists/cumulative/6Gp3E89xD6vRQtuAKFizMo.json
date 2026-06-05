@@ -9475,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/16p1REJdPPjQYLpduJsvOc"
+      },
+      "artists": [
+        {
+          "name": "Axel Knox",
+          "url": "https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/2fPcYmdrc3xu7Z16WrH9Mj"
+    },
+    {
+      "album": {
         "name": "Get Down / Shake That",
         "url": "https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r"
       },

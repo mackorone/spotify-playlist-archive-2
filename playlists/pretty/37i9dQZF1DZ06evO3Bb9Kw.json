@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 174068,
+  "num_followers": 174066,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADxTAsvJiCyt7dCK2kz8T2Y",
+  "snapshot_id": "ah9ugAAAAABN6dEi4ECc7FUve+beOgMT",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Interstate Gospel",
+        "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Best Years of My Life",
+      "url": "https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
@@ -295,34 +323,6 @@
       "duration_ms": 247826,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Interstate Gospel",
-        "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
-      },
-      "artists": [
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Best Years of My Life",
-      "url": "https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Heart Like Mine",
+      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 191746,
       "name": "We Were Us",
       "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Heart Like Mine",
-      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
     },
     {
       "added_at": null,
@@ -799,6 +799,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell On Heels",
+        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Trailer for Rent",
+      "url": "https://open.spotify.com/track/7Bppatt7pAcCg5sr2A2BTx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -835,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Locomotive",
-      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -883,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell On Heels",
-        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
-      },
-      "artists": [
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Trailer for Rent",
-      "url": "https://open.spotify.com/track/7Bppatt7pAcCg5sr2A2BTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -920,9 +904,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 214786,
-      "name": "It All Comes Out in the Wash",
-      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
+      "duration_ms": 193893,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
     },
     {
       "added_at": null,
@@ -939,22 +923,6 @@
       "duration_ms": 163875,
       "name": "Run",
       "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
       "added_at": null,
@@ -987,6 +955,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "It All Comes Out in the Wash",
+      "url": "https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -1003,54 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) [Celebrity Mix]",
-        "url": "https://open.spotify.com/album/0uy7TaqSAa52Qex8T2abxu"
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
       "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        },
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        },
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         },
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Reba",
-          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
-        },
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 289066,
-      "name": "Boys 'Round Here (feat. Jason Aldean, Luke Bryan, Ronnie Dunn, Miranda Lambert, Brad Paisley, Reba, Josh Turner, Keith Urban & Hank Williams, Jr.) - Celebrity Mix",
-      "url": "https://open.spotify.com/track/02wmEyZ3biRECnBbRwWliU"
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Lily Meola, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,289 likes - 86 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,320 likes - 86 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 85 | [What's Wrong With You](https://open.spotify.com/track/1qbDqgOBHPpQSgLwL8oRTw) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [What's Wrong With You](https://open.spotify.com/album/57b6HbtA6x1BB1a0t39HjK) | 3:24 |
 | 86 | [Not Like He Used To](https://open.spotify.com/track/0kJ5EkPtmZWiMIvwH9KKlG) | [Mackenzie May](https://open.spotify.com/artist/4l6QaibZhpm1elX3aMukRV) | [All The Little Things](https://open.spotify.com/album/1ZcvlJLOnb7HV1bkeI40pM) | 3:16 |
 
-Snapshot ID: `AAAAAHVY3R9ZzcNysT52lgQOXK41LPRK`
+Snapshot ID: `AAAAABHVDSxTdfepeI39k1ESlwfZ1dZy`

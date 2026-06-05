@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-369 songs - 18 hr 43 min
+371 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-06-20 | 2024-09-07 |
 | [Better Days](https://open.spotify.com/track/6ubngwdRd9apKdbtqPuDrY) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Better Days](https://open.spotify.com/album/59mrrDBo6tionR9iX7PP64) | 2:59 | 2024-08-07 | 2024-12-19 |
 | [Better Man](https://open.spotify.com/track/55HpTIGbIlzdMazZHzDzF4) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Better Man](https://open.spotify.com/album/1jxcPyqdSKPrYSj8vNlDdz) | 3:13 | 2026-02-12 | 2026-03-06 |
-| [Birkenstocks](https://open.spotify.com/track/6H6XzwbSsyWw9uOlhj0CbS) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Birkenstocks](https://open.spotify.com/album/7eyyy0FGwdJ5CcEAumUEq4) | 2:18 | 2026-05-28 |  |
+| [Birkenstocks](https://open.spotify.com/track/6H6XzwbSsyWw9uOlhj0CbS) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Birkenstocks](https://open.spotify.com/album/7eyyy0FGwdJ5CcEAumUEq4) | 2:18 | 2026-05-28 | 2026-06-05 |
 | [Bis zum Mond und zurück](https://open.spotify.com/track/67DN4peAmexRxZSFxdzVke) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Bis zum Mond und zurück](https://open.spotify.com/album/2f9oYYzbAtEqf5w4IVoDa2) | 2:04 | 2024-08-02 | 2024-12-19 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-22 | 2025-02-20 |
 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-14 |  |
@@ -150,6 +150,7 @@
 | [Herzschlag](https://open.spotify.com/track/5AT4QWxSfRSShw51ao7Zz5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Herzschlag](https://open.spotify.com/album/2DpUOA6w7OYhQnnOWDjY8Y) | 2:53 | 2024-09-13 | 2025-07-19 |
 | [Herztausch](https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Herztausch](https://open.spotify.com/album/07B9z4SkDWSEQWHJw0p4zS) | 2:29 | 2024-06-20 | 2024-08-03 |
 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2026-05-14 |  |
+| [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-04 |  |
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-22 | 2024-12-19 |
 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-09-03 | 2026-01-31 |
 | [Home Pt\. 2](https://open.spotify.com/track/1H52Xqp7dqMUCchXW0dXfv) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Home Pt\. 2](https://open.spotify.com/album/0Ggh3yfGjOr7QGZaafp7Gq) | 2:51 | 2025-06-04 | 2025-11-18 |
@@ -183,7 +184,7 @@
 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-05 | 2026-03-20 |
 | [Jedes Jahr](https://open.spotify.com/track/0wRu4iD5DqZxL7jjwcRr0j) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Jedes Jahr](https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9) | 2:54 | 2025-11-17 | 2026-01-03 |
 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-14 |  |
-| [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 | 2026-05-28 |  |
+| [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 | 2026-05-28 | 2026-06-05 |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-10-11 | 2025-02-20 |
 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 | 2026-05-07 | 2026-05-15 |
 | [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 | 2024-06-20 | 2026-01-03 |
@@ -373,6 +374,7 @@
 | [Writing's On The Wall](https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 2:49 | 2025-11-07 | 2026-03-27 |
 | [Wünsch dir das Beste](https://open.spotify.com/track/7GHyGCAJ1ILXaFAkvaIEhq) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [Wünsch dir das Beste](https://open.spotify.com/album/7fEpe2ES1mr5EGOaT3mAnp) | 2:21 | 2024-08-02 | 2024-09-07 |
 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 | 2025-04-02 |  |
+| [You'll Find Me There](https://open.spotify.com/track/0L87XLB19pHzjbqVRVkW1R) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [You'll Find Me There](https://open.spotify.com/album/6VR8S1WUWtjBgOCN9rLB2F) | 3:03 | 2026-06-04 |  |
 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 | 2025-11-07 | 2026-03-06 |
 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 | 2026-05-14 |  |
 | [Zwischen den Stühlen](https://open.spotify.com/track/72W1X7orvpZ6JBa9PMLYth) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Zwischen den Stühlen](https://open.spotify.com/album/2Zor7JQkb1FGBaggivoVIW) | 2:47 | 2025-02-19 | 2025-11-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 797908,
+  "num_followers": 798020,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Thomas",
-          "url": "https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh"
-        }
-      ],
-      "duration_ms": 471026,
-      "name": "High Energy (Extended Version)",
-      "url": "https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Hundreds and Thousands",
         "url": "https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 378866,
       "name": "Why ? - 12'' Version; 2008 Remastered Version",
       "url": "https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Thomas",
+          "url": "https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh"
+        }
+      ],
+      "duration_ms": 471026,
+      "name": "High Energy (Extended Version)",
+      "url": "https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol. 1",
-        "url": "https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 423573,
-      "name": "Nightshift - Club Mix",
-      "url": "https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Whitney Houston (The Deluxe Anniversary Edition)",
         "url": "https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 391506,
       "name": "How Will I Know - John \"Jellybean\" Benitez Remix",
       "url": "https://open.spotify.com/track/1dW1kgruSVDh57IsBfuocK"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol. 1",
+        "url": "https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 423573,
+      "name": "Nightshift - Club Mix",
+      "url": "https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS"
     },
     {
       "added_at": "2024-02-06 15:45:26",

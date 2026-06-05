@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Gareth.T ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: A-Lin ",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 221052,
       "name": "Catch Me (\u96fb\u5f71\u300a\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u300b\u5ef6\u4f38\u66f2 \u59d0\u6539Je Gai extension)",
       "url": "https://open.spotify.com/track/2GPH6riPn4RdRTKOJON4jK"
@@ -2879,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Something Went Wrong",
+        "url": "https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186602,
+      "name": "Something Went Wrong",
+      "url": "https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW"
+    },
+    {
+      "album": {
         "name": "Somnium Chamber",
         "url": "https://open.spotify.com/album/2P0vdydUw6dasijMXgQUR5"
       },
@@ -4932,7 +4950,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 300288,
       "name": "\u4e3b\u89d2",
       "url": "https://open.spotify.com/track/12KGNSCmvbTO8sJaDlvf9w"
@@ -12525,6 +12543,28 @@
     },
     {
       "album": {
+        "name": "\u6211\u4e0d\u518d\u60f3\u4f60\u4e86",
+        "url": "https://open.spotify.com/album/7EdaFy5N9gsHgQLwAYHxqy"
+      },
+      "artists": [
+        {
+          "name": "\u5b8f\u5152 Kuan Hong",
+          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
+        },
+        {
+          "name": "\u5c0f\u9f20",
+          "url": "https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269779,
+      "name": "\u6211\u4e0d\u518d\u60f3\u4f60\u4e86",
+      "url": "https://open.spotify.com/track/1JKOzEZxRmwOipGu2ySHOW"
+    },
+    {
+      "album": {
         "name": "\u6211\u4e0d\u58de\u4e86\u55ce",
         "url": "https://open.spotify.com/album/7lWXZChh2wuhsugpFiS019"
       },
@@ -16884,7 +16924,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 204512,
       "name": "\u6e05\u6e05\u5982\u6211 (\u5f71\u89c6\u5267\u300a\u9010\u7389\u300b\u6292\u60c5\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/5efxFEdG46hIOqQm9mZNGH"
@@ -20102,6 +20142,24 @@
       "duration_ms": 253064,
       "name": "\u89aa\u8fd1\u7684\u964c\u751f\u4eba",
       "url": "https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2"
+    },
+    {
+      "album": {
+        "name": "\u89c0\u81ea\u5728",
+        "url": "https://open.spotify.com/album/7H3Sh1OIqvcgc3Tvl2f6Xg"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "\u89c0\u81ea\u5728",
+      "url": "https://open.spotify.com/track/4xE6SWoamipottcrBNA1TQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 735443,
+  "num_followers": 735559,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 209106,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Castles in the Sand",
+        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -743,22 +743,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Me And The Boys",
+        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+      "duration_ms": 221706,
+      "name": "Drinkin' My Baby Goodbye",
+      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -779,18 +775,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Buenas Noches From a Lonely Room",
-        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Streets of Bakersfield",
-      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Me And The Boys",
-        "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
+        "name": "Buenas Noches From a Lonely Room",
+        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Drinkin' My Baby Goodbye",
-      "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
+      "duration_ms": 168213,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "Two Story House",
-      "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "His Epic Hits",
         "url": "https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB"
       },
@@ -2343,18 +2323,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Love Is Fair",
-        "url": "https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy"
+        "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
       "artists": [
         {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 154554,
-      "name": "Crackers - Single Version",
-      "url": "https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ"
+      "duration_ms": 160773,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2371,6 +2355,22 @@
       "duration_ms": 164000,
       "name": "Got No Reason Now For Goin' Home",
       "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Love Is Fair",
+        "url": "https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "Crackers - Single Version",
+      "url": "https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ"
     },
     {
       "added_at": "2026-02-17 04:46:38",

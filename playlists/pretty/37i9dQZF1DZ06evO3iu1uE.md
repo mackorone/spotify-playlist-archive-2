@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 | 15 | [Warrior in Woolworths](https://open.spotify.com/track/1euywBbU9IYRoT9qFOdUvr) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:07 |
 | 16 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
 
-Snapshot ID: `ah4dAAAAAAC0QipyNKSoY7ASmuQy4FZI`
+Snapshot ID: `ah9ugAAAAAAC31lbNt2y51NL2T3pnq9K`

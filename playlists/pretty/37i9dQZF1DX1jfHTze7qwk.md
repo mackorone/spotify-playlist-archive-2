@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,960 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,965 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 3 | [มันเป็นใคร \(Alright\)](https://open.spotify.com/track/4PXdOchDL7aUZghQobIlhX) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:39 |
 | 4 | [จันทร์เจ้า \(Goodbye\)](https://open.spotify.com/track/5J3arLZL7OgQ4yvLDfatxW) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Cell](https://open.spotify.com/album/2kldPQZzNeNjRyK8tt9Qne) | 4:10 |
 | 5 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 |
-| 6 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/4rmspWmdoJIjw6Rm3cEvGm) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:59 |
-| 7 | [เธอไม่อาจเอารักไปจากหัวใจ](https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ตรงแนวๆ](https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg) | 4:15 |
+| 6 | [เธอไม่อาจเอารักไปจากหัวใจ](https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ตรงแนวๆ](https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg) | 4:15 |
+| 7 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/4rmspWmdoJIjw6Rm3cEvGm) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:59 |
 | 8 | [ดูดี](https://open.spotify.com/track/7oTnTfFLo4t1xbPb009oBI) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 4:00 |
 | 9 | [ผ่าน](https://open.spotify.com/track/7BIfruOxdmV47pZ8beTNqS) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:01 |
 | 10 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 |

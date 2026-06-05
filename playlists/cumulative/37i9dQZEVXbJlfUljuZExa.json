@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 252349,
       "name": "Bunga Maaf",
       "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
@@ -13659,6 +13659,24 @@
     },
     {
       "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/7a3iH9vM5Z58GqOMqXBU1M"
+    },
+    {
+      "album": {
         "name": "Sticker - The 3rd Album",
         "url": "https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad"
       },
@@ -17924,7 +17942,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/197svyKIkkTUxmDxdcYezk"
@@ -18976,7 +18994,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 287477,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/1DVHCvTwuwtZrpYDV4irH5"
@@ -21778,7 +21796,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 344920,
       "name": "Siapa Di Hatimu",
       "url": "https://open.spotify.com/track/2NOWGQefu42AyhxIavqCZJ"
@@ -26832,7 +26850,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI"

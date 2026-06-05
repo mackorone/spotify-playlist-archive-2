@@ -5989,6 +5989,32 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Go Breaking My Heart",
+        "url": "https://open.spotify.com/album/2Mg6QK3Y6YRbR3K7tm7otS"
+      },
+      "artists": [
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147240,
+      "name": "Don\u2019t Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/6IQPwU5fdstH8XKv8vVUcY"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Let Your Mama Down",
         "url": "https://open.spotify.com/album/6nExJSSnOdEIwkVG8UGRfV"
       },
@@ -29130,6 +29156,24 @@
       "duration_ms": 146125,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/22XEOw0vqcs1Go4JYxgYb2"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/74zkvKv5wYOYuHZkMD8o44"
     },
     {
       "album": {

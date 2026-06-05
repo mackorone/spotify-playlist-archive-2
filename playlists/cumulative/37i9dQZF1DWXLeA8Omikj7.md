@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,191 songs - 3 day 15 hr 37 min
+1,192 songs - 3 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Dimemories](https://open.spotify.com/track/0wbBGWS3zYVuqRK8JmuMXe) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Northern Lights](https://open.spotify.com/album/2LZwWAjsqA2xIldp2c6kRX) | 4:35 | 2019-05-26\* |  |
 | [Dirtknock](https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Dirtknock](https://open.spotify.com/album/6b5SURdUoINESwJRl3Vy64) | 2:14 | 2021-01-23 | 2021-10-02 |
 | [Disappear](https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Disappear \| Between Thoughts](https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo) | 6:37 | 2026-01-16 | 2026-02-06 |
+| [Disque](https://open.spotify.com/track/3VC0fqzXJwM7VJeWNKAxIW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Paradessence](https://open.spotify.com/album/42FhMWVYSCGaHoNZgGb7YS) | 3:20 | 2026-05-26 |  |
 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 | 2022-07-01 | 2023-05-06 |
 | [Dissolve](https://open.spotify.com/track/7eLNDNV7Y2Qrcrya9zKeTA) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/2vGFMEYlh9unGCAX7vg8mc) | 6:32 | 2019-05-26\* | 2022-04-19 |
 | [Distant Light](https://open.spotify.com/track/0mwp6nRewuBh0Nt9MAXGid) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Emergence](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) | 5:33 | 2019-06-22 |  |
@@ -1080,7 +1081,7 @@
 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-04-22 | 2023-08-12 |
 | [Together In Static](https://open.spotify.com/track/7xDIbH1rKZQKp0Wr6l4NVd) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together In Static](https://open.spotify.com/album/2UEzaEym36kNtiNDi7b1mR) | 2:35 | 2021-07-23 | 2022-07-20 |
 | [Told](https://open.spotify.com/track/5DTdyiGi5pmFo8POdtSqoN) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 5:39 | 2024-03-29 |  |
-| [Topaz](https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 1:52 | 2019-06-19\* |  |
+| [Topaz](https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 1:52 | 2019-06-19\* | 2026-06-05 |
 | [Torpid](https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 4:34 | 2022-01-14 | 2022-04-16 |
 | [Totem](https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Infinite Health](https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW) | 3:43 | 2024-08-30 | 2025-02-14 |
 | [Train Rides](https://open.spotify.com/track/4s07g5Al7Hb26QBTKFG5zZ) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Hoarder's Paradise](https://open.spotify.com/album/3OVmgm7mRRtts90GF7rZpW) | 3:12 | 2019-07-25 | 2022-04-20 |

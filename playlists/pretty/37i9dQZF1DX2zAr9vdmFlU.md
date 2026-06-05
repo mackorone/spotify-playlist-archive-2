@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,818 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,801 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 41 | [Linda Guajira](https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0), [Mongo Santamarias Men](https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM) | [Latin Jazz, Vol\. 3](https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h) | 3:05 |
 | 42 | [Tiene Sabor](https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Valentín Puentes](https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5) | [Tiene Sabor](https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2) | 4:00 |
 | 43 | [Vem Pra Mim](https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:52 |
-| 44 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
-| 45 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 44 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 45 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 46 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
 | 47 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 48 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 64 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 |
 | 65 | [Todo Cambió](https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Todo Cambió](https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb) | 3:38 |
 | 66 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
-| 67 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 |
-| 68 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 |
+| 67 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 |
+| 68 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 |
 | 69 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 |
 | 70 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
 | 71 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |

@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Tedua in cover.
+> Punchline, storytelling, rap italiano\. MadMan in cover.
 
-431 songs - 21 hr 55 min
+432 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ATENA](https://open.spotify.com/track/3C7hntSOMdoAlZTAjdIfQD) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [ATENA](https://open.spotify.com/album/3o0X8SGTY9Ifkb3yR2kFjA) | 2:16 | 2025-11-28 | 2026-01-15 |
 | [Atlantide](https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:04 | 2025-10-09 |  |
 | [Autoritratto](https://open.spotify.com/track/2WWzG3tZPmUQXCGHTblSku) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:20 | 2025-10-24 | 2025-11-14 |
+| [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 | 2026-06-04 |  |
 | [Baci À La Giapponese](https://open.spotify.com/track/2ByN1RkHhO3c9w0bD7qNW5) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Jack Di Quadri](https://open.spotify.com/album/7jRRQXVP5skHkGz9Z5hGkQ) | 2:59 | 2025-06-19 | 2025-08-01 |
 | [Bagagli \(Improvvisazione\)](https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:15 | 2023-06-01 | 2023-09-15 |
 | [Baggy](https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:50 | 2025-06-26 |  |

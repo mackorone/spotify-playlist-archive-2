@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159644,
       "name": "Back To Me (with Jess Glynne)",
       "url": "https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ"
@@ -12597,6 +12597,24 @@
     },
     {
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -20238,6 +20256,24 @@
       "duration_ms": 157280,
       "name": "That Thing",
       "url": "https://open.spotify.com/track/7ESz6391xBQrfiTXeua3Ay"
+    },
+    {
+      "album": {
+        "name": "that's my beach!",
+        "url": "https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "that's my beach!",
+      "url": "https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: N.Flying\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,988 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,958 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 6 | [Like a Bubble](https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Imperfect\-I'mperfect](https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p) | 3:08 |
 | 7 | [IF I](https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO) | 3:00 |
 | 8 | [LLLM \(feat\. Gaeko, ZICO\) \[prod\. Tray B\]](https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [LLLM](https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm) | 3:45 |
-| 9 | [Fort](https://open.spotify.com/track/7KHW6Pfgp8odnmWJ8KxOAi) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Fort](https://open.spotify.com/album/7oMVaKEQlIdMJ7YixaQNdK) | 3:36 |
-| 10 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
-| 11 | [OMG!](https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [No School Tomorrow](https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN) | 2:24 |
-| 12 | [PERMISSION](https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [PERMISSION](https://open.spotify.com/album/3jMu5Qgsbr56M6p4yO9u5O) | 2:58 |
-| 13 | [Blue Lips](https://open.spotify.com/track/1VyXprVXZYNGWWZf1u4JfN) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:21 |
-| 14 | [FLY!](https://open.spotify.com/track/5GwWjZm2lyJCbP7pz5Glyi) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/7iZQEPDUgzUzvPjetsbazh) | 2:36 |
-| 15 | [SERVE](https://open.spotify.com/track/1hFQ6vxNUsrRBgwb8m5b6s) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7) | 3:12 |
-| 16 | [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 |
-| 17 | [My Only One](https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u) | [Jang Hyun Seung](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV) | [My Only One](https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt) | 2:47 |
-| 18 | [Blow Your Mind \(feat\. Sik\-K, Bryan Chase\)](https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB) | [Yorch](https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw) | [Blow Your Mind](https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9) | 3:35 |
+| 9 | [Blow Your Mind \(feat\. Sik\-K, Bryan Chase\)](https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB) | [Yorch](https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw) | [Blow Your Mind](https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9) | 3:35 |
+| 10 | [Fort](https://open.spotify.com/track/7KHW6Pfgp8odnmWJ8KxOAi) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Fort](https://open.spotify.com/album/7oMVaKEQlIdMJ7YixaQNdK) | 3:36 |
+| 11 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
+| 12 | [OMG!](https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [No School Tomorrow](https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN) | 2:24 |
+| 13 | [PERMISSION](https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [PERMISSION](https://open.spotify.com/album/3jMu5Qgsbr56M6p4yO9u5O) | 2:58 |
+| 14 | [Blue Lips](https://open.spotify.com/track/1VyXprVXZYNGWWZf1u4JfN) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:21 |
+| 15 | [FLY!](https://open.spotify.com/track/5GwWjZm2lyJCbP7pz5Glyi) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/7iZQEPDUgzUzvPjetsbazh) | 2:36 |
+| 16 | [SERVE](https://open.spotify.com/track/1hFQ6vxNUsrRBgwb8m5b6s) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7) | 3:12 |
+| 17 | [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 |
+| 18 | [My Only One](https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u) | [Jang Hyun Seung](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV) | [My Only One](https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt) | 2:47 |
 | 19 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
 | 20 | [Spring Breeze, Again](https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [Spring Breeze, Again \(Original Soundtrack from WANNA ONE GO : Back to Base\)](https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg) | 3:38 |
 | 21 | [BUMPA](https://open.spotify.com/track/6GSdBUjAnJmIjxMAYz5WCa) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BUMPA](https://open.spotify.com/album/7je4W0rO93omBFfKDmkjNn) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 |
 | 50 | [Glow](https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Glow \- The 1st Mini Album](https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT) | 3:05 |
 
-Snapshot ID: `AAAAAOPEclz1Bmny4oRh9e1utBCBYH+G`
+Snapshot ID: `AAAAAN4sVxfYZ/p2kCW0hT9pVqQgV2vQ`

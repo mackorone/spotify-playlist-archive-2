@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,572 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,571 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 28 | [Banal Rahe Amar Suhag](https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK) | [Alka Singh Pahadiya](https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH) | [Banal Rahe Amar Suhag](https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh) | 4:28 |
 | 29 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
 | 30 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
-| 31 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
-| 32 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
+| 31 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
+| 32 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
 | 33 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 |
 | 34 | [BIYAH WALI GAARI 4](https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI), [Nikita Rai](https://open.spotify.com/artist/2QfXJZBwgrkWDaiQ9bI89k) | [BIYAH WALI GAARI 4](https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j) | 2:57 |
 | 35 | [Aaiye Swagat Barat Mein Sarkaar Raur \(From "Pyar Karela Himmat Chaahi"\)](https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:53 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 44 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
 | 45 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
 | 46 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 |
-| 47 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
+| 47 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
 | 48 | [Samdhi Ho Gaile Nachniyaan](https://open.spotify.com/track/2X0dl5IqzEhhaLxosSjhBi) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 4:45 |
 | 49 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
 | 50 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |

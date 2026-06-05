@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 22 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 |
 | 23 | [Untamed](https://open.spotify.com/track/1mWqNSFxHkugEscjRzy7c0) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:30 |
 | 24 | [Hungover On Heartache](https://open.spotify.com/track/2DgD0JLwGiSPUHvRXWUYX2) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:13 |
-| 25 | [Want It All](https://open.spotify.com/track/2kgc3ZFjCmyYQOC0fWXd16) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:09 |
-| 26 | [Meet You By The River](https://open.spotify.com/track/2g18ELBhnxmRwPCVR2bi3m) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/1180SVDM99jmx4fv4MZ6Kp) | 1:42 |
+| 25 | [Meet You By The River](https://open.spotify.com/track/2g18ELBhnxmRwPCVR2bi3m) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/1180SVDM99jmx4fv4MZ6Kp) | 1:42 |
+| 26 | [Want It All](https://open.spotify.com/track/2kgc3ZFjCmyYQOC0fWXd16) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:09 |
 | 27 | [Country Ain't Never Been Pretty](https://open.spotify.com/track/589MsyYBcxB75cy3iMChb8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:39 |
 | 28 | [Cold in California](https://open.spotify.com/track/6wKkgtTRDKV8B17MAp9eKi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:10 |
 | 29 | [Girl Like Me](https://open.spotify.com/track/0MLBiXSe3JCmxItvAiSvSZ) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 40 | [Just For You](https://open.spotify.com/track/6ACOdnyDhj2k3VCSDsOEbs) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 1:48 |
 | 41 | [We Always Do](https://open.spotify.com/track/0DpqyzGCvc8GOGFs0ZO46l) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:45 |
 
-Snapshot ID: `AcTQ3AAAAABulb8/vA76ANEd3KMJRo0L`
+Snapshot ID: `AcTWfAAAAACuO4VFz1JX00XUvIG4erQx`

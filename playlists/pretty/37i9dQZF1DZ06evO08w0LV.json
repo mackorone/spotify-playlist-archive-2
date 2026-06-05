@@ -1,12 +1,12 @@
 {
   "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 971637,
+  "num_followers": 971677,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABPXvU6PdfQTD3LYTXc0OMO",
+  "snapshot_id": "ah9ugAAAAACFyb8s8bbP8BTU4rT3i09A",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 182301,
-      "name": "TRASTEVERE",
-      "url": "https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Il ballo della vita",
         "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 150826,
       "name": "Fear for Nobody",
       "url": "https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 182301,
+      "name": "TRASTEVERE",
+      "url": "https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: DJ Seinfeld
 
-1,487 songs - 4 day 4 hr 28 min
+1,489 songs - 4 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2022-03-08 | 2022-03-10 |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-11-25 | 2023-09-15 |
 | [Don't Live in Oblivion, It's Cold Down There](https://open.spotify.com/track/4OdYcHs1SNceLXslZSPXuW) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Don't Live In Oblivion, It's Cold Down There](https://open.spotify.com/album/7aGJzgabsr8GFl0MhQL6Uj) | 3:35 | 2023-05-04 | 2023-10-06 |
+| [Don't Play With Me](https://open.spotify.com/track/0Ti6MgIB9cmwpGW3wFugxj) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Birds Fly In](https://open.spotify.com/album/04IXrvc1SU1x1uMZ3dSXOt) | 3:48 | 2026-06-03 |  |
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-10 | 2025-10-10 |
 | [Don't Understand](https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Don't Understand](https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC) | 3:57 | 2024-04-19 | 2024-10-18 |
 | [Doolally](https://open.spotify.com/track/6iOE2GLHKBQbx4JdhT6RI8) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Steel City Dance Discs Volume 23](https://open.spotify.com/album/6MeFVWynvM4JCnlYVuoxNZ) | 7:34 | 2021-11-24\* | 2021-12-17 |
@@ -1074,6 +1075,7 @@
 | [Ringtone](https://open.spotify.com/track/75q34GIOlR1GGDvO6CGbbP) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Ringtone](https://open.spotify.com/album/1ZfcZrAM0Lz8WYjvI4n19Z) | 1:54 | 2023-11-10 | 2024-03-27 |
 | [Rise \- Radio Edit](https://open.spotify.com/track/5ZiMSOsGVYwBckIoEUYKOA) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Rise \(Radio Edit\)](https://open.spotify.com/album/4mTr3sf8QOD9ztrtR0mlli) | 3:47 | 2021-11-24\* | 2022-01-21 |
 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 | 2022-08-19 | 2023-01-13 |
+| [Rise Up](https://open.spotify.com/track/0FWEux3aj0qlSnguvnYk6I) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Rise Up](https://open.spotify.com/album/0yxTOsfDsksCM1YvXJbqAJ) | 3:59 | 2026-06-03 |  |
 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 | 2024-11-29 | 2025-06-06 |
 | [Robbery](https://open.spotify.com/track/1t3man2DnIBOEZLp6UD38a) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Robbery](https://open.spotify.com/album/0CE4GuJ9Agi5yVFpzSXVa7) | 3:50 | 2025-05-29 | 2025-10-24 |
 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 | 2025-05-15 | 2025-10-17 |
@@ -1340,7 +1342,6 @@
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-12-02 |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2024-05-03 |
 | [Traces](https://open.spotify.com/track/0vcv7tSmp10u55eKYTAQ1E) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Traces / Gradients](https://open.spotify.com/album/1Y4m5qmWw2E217GVceWW5B) | 4:35 | 2022-06-30 | 2022-10-07 |
-| [Track 6](https://open.spotify.com/track/0Ti6MgIB9cmwpGW3wFugxj) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Birds Fly In](https://open.spotify.com/album/04IXrvc1SU1x1uMZ3dSXOt) | 0:00 | 2026-06-03 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-12 | 2025-10-24 |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-07 | 2024-09-13 |
 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-15 | 2022-11-11 |
@@ -1396,6 +1397,7 @@
 | [Veil \- Edit](https://open.spotify.com/track/1R0ufKhSTgKWhsEAVFoJMJ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Veil \(Edit\)](https://open.spotify.com/album/3pWxCWfzuFQgi2Wx5s1ELv) | 3:37 | 2025-11-14 | 2026-05-01 |
 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 | 2023-05-18 | 2023-10-13 |
 | [Venus](https://open.spotify.com/track/15lMjrVBh1CJdwXw7AgPIT) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [063](https://open.spotify.com/album/6ipPsxdz9GqLy2Ehy6b49i) | 6:59 | 2023-04-13 | 2023-07-14 |
+| [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-06-03 |  |
 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-15 | 2022-12-01 |
 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-11-30 | 2023-02-04 |
 | [Vibe Catcher](https://open.spotify.com/track/0JhWSndXoTT6SOVhHkMOj3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Vibe Catcher](https://open.spotify.com/album/1eyP4K1Oj4rT0wyBMXZjGI) | 6:07 | 2022-03-08 | 2022-03-10 |

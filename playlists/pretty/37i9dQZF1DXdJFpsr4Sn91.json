@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60121,
+  "num_followers": 60113,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175609,
       "name": "Kuka nauraa nyt",
       "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Mun vuoro luovuttaa",
-        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Mun vuoro luovuttaa",
-      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Pelkk\u00e4 kirosana",
         "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192949,
       "name": "Pelkk\u00e4 kirosana",
       "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Mun vuoro luovuttaa",
+        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Mun vuoro luovuttaa",
+      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Valoa varten",
-        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Tuun viel himaan",
-      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Sitke\u00e4 sissi",
         "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 181234,
       "name": "Sitke\u00e4 sissi",
       "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Tuun viel himaan",
+      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
         "name": "Ei kukaan muu",
         "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 196258,
       "name": "Ei kukaan muu",
       "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Ennen sua",
-        "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Ennen sua",
-      "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
         "url": "https://open.spotify.com/album/63NrrYAALeBh1JATf2CxzW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 260869,
       "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
       "url": "https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Ennen sua",
+        "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Ennen sua",
+      "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
+        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
-      },
-      "artists": [
-        {
-          "name": "Olli Halonen",
-          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
         "name": "tuntuu niin paljon itkett\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2fGfEH9IlmR2QHnxTRqHbm"
       },
@@ -1239,38 +1239,6 @@
       "duration_ms": 195770,
       "name": "kerro kerro kuvastin",
       "url": "https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Santana",
-      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
-    },
-    {
-      "added_at": "2026-05-28 21:00:27",
-      "album": {
-        "name": "Aerobikki",
-        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
-      },
-      "artists": [
-        {
-          "name": "Antti Paalanen",
-          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Aerobikki",
-      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1291,6 +1259,22 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
         "name": "Oots\u00e4 n\u00e4hny mua?",
         "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-05-28 21:00:27",
       "album": {
-        "name": "Viimeiseen hengenvetoon",
-        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
+        "name": "Aerobikki",
+        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
       },
       "artists": [
         {
-          "name": "Vilma Alina",
-          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+          "name": "Antti Paalanen",
+          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
         }
       ],
-      "duration_ms": 201341,
-      "name": "Viimeiseen hengenvetoon",
-      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
+      "duration_ms": 168919,
+      "name": "Aerobikki",
+      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
     },
     {
       "added_at": "2026-05-28 21:00:27",
@@ -1335,6 +1319,22 @@
       "duration_ms": 148374,
       "name": "Ter\u00e4lehti",
       "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
+    },
+    {
+      "added_at": "2026-05-28 21:00:27",
+      "album": {
+        "name": "Viimeiseen hengenvetoon",
+        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
+      },
+      "artists": [
+        {
+          "name": "Vilma Alina",
+          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+        }
+      ],
+      "duration_ms": 201341,
+      "name": "Viimeiseen hengenvetoon",
+      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
     },
     {
       "added_at": "2026-05-28 21:00:27",

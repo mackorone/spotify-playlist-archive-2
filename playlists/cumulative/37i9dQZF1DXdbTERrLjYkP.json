@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Hailey Picardi",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Lexi Jayde",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178171,
       "name": "17",
       "url": "https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 218131,
       "name": "Basements & Bedrooms",
       "url": "https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP"
@@ -7095,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "hate 2 hate u",
+        "url": "https://open.spotify.com/album/322qPfO5WjnNYmgpDcMtes"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "hate 2 hate u",
+      "url": "https://open.spotify.com/track/2xkRBMlUc4Hxy1kHFfdrWd"
+    },
+    {
+      "album": {
         "name": "hate to be lame",
         "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
       },
@@ -12080,7 +12098,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 209248,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
@@ -16589,6 +16607,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180347,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
+    },
+    {
+      "album": {
         "name": "that was quick!",
         "url": "https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa"
       },
@@ -17844,6 +17880,24 @@
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
+    {
+      "album": {
+        "name": "Satisfied Girl",
+        "url": "https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211184,
+      "name": "Undiscovered",
+      "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
     },
     {
       "album": {
@@ -19432,6 +19486,24 @@
       "duration_ms": 161999,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ"
+    },
+    {
+      "album": {
+        "name": "you're still mine",
+        "url": "https://open.spotify.com/album/1Yi6MsmowUiIXffPDCsK9D"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "you're still mine",
+      "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
     },
     {
       "album": {

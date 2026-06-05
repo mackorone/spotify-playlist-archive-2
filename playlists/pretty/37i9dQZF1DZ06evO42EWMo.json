@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1203995,
+  "num_followers": 1204020,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABYrqkvQQRplX5VJL9BPbqo",
+  "snapshot_id": "ah9ugAAAAAAcxPFnFtRks2nbrFZ0EAv2",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 175986,
-      "name": "We're Still Friends - Live At The Union Chapel",
-      "url": "https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf"
+      "duration_ms": 145066,
+      "name": "To Know Him Is To Love Him - Live",
+      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 145066,
-      "name": "To Know Him Is To Love Him - Live",
-      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
+      "duration_ms": 175986,
+      "name": "We're Still Friends - Live At The Union Chapel",
+      "url": "https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf"
     },
     {
       "added_at": null,

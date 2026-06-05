@@ -6015,6 +6015,36 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t"
+    },
+    {
+      "album": {
         "name": "Corazon (Harry Romero Remix)",
         "url": "https://open.spotify.com/album/2c85hBhiSKiQKfS3ahUtop"
       },
@@ -22498,6 +22528,32 @@
       "duration_ms": 158300,
       "name": "More & More",
       "url": "https://open.spotify.com/track/4SJTYAk2TP94J5zkOxuvhF"
+    },
+    {
+      "album": {
+        "name": "More (Zerb Remix)",
+        "url": "https://open.spotify.com/album/3Q9NwyxntX3iyT65XpFhvH"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Elena Pitoulis",
+          "url": "https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207247,
+      "name": "More - Zerb Remix",
+      "url": "https://open.spotify.com/track/2oST0U6hUcm0PxEXv6Txow"
     },
     {
       "album": {

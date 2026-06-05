@@ -4,7 +4,7 @@
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC?si=Uh9nlhxOScuezxChbco1uA">Fatoumata Diawara</a>
 
-627 songs - 1 day 11 hr 26 min
+628 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Lindile \(feat\. Small Keys\)](https://open.spotify.com/track/7w3HZcqFKrztWu7bMPbypn) | [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Small Keys](https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2) | [DoppelBanger](https://open.spotify.com/album/0V2JaBO4YpImr67lG3vPDY) | 8:06 | 2025-12-03 | 2026-03-08 |
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-07-05 | 2022-11-03 |
 | [Live Life](https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Live Life](https://open.spotify.com/album/1JftrszwVgXopSa9EbxSJL) | 2:03 | 2025-05-12 | 2025-07-03 |
+| [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 | 2026-06-03 |  |
 | [Longer](https://open.spotify.com/track/4X7ahjs0dWbCaKnezoECyZ) | [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v) | [Longer](https://open.spotify.com/album/2JHNPRZBRNh3jRQUDNuVq7) | 3:04 | 2025-07-02 | 2025-07-12 |
 | [Longo Longo](https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Longo Longo](https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm) | 3:26 | 2026-06-03 |  |
 | [lost!](https://open.spotify.com/track/7IlLy4MsAc5bEtAMxwJLHV) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [lost!](https://open.spotify.com/album/5yKkfPitOl4rUQTlNABSto) | 2:47 | 2026-01-09 |  |

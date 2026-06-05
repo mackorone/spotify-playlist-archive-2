@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Anaïs Cardot
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Alma Rechtman
 
-283 songs - 14 hr 22 min
+284 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CONSTELLATION](https://open.spotify.com/track/0TlNpeLPekPJuXYDiBQC74) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [CONSTELLATION](https://open.spotify.com/album/7me2S8k9wFjhXpSXACTCeh) | 2:55 | 2025-06-19 |  |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-06-19 |  |
 | [COPINES?](https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COPINES?](https://open.spotify.com/album/0FvG0TMwM7ANCg5FRCkoFy) | 2:23 | 2026-01-08 |  |
+| [Corps tambour](https://open.spotify.com/track/2f5NdeISuxxzNyqfhm9A7E) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [Corps tambour](https://open.spotify.com/album/3UoT71BW06uZYUfDuwUDX7) | 3:29 | 2026-06-04 |  |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2021-12-02 | 2024-04-11 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-11-17 | 2024-04-11 |
 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0648\u0648\u0644\u064a\u062a \u0648\u0633\u0627\u0646\u062a \u0644\u064a\u0641\u0627\u0646\u062a",
-  "num_followers": 450472,
+  "num_followers": 450864,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnTa7klB1OqDNm7JzmbpDpNWyqn",
+  "snapshot_id": "AAAAAHMWKU/UStmlcaUrTzB/PweDQsnh",
   "tracks": [
     {
       "added_at": "2026-06-03 07:00:02",
@@ -27,6 +27,22 @@
       "duration_ms": 216806,
       "name": "Nano",
       "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
+    },
+    {
+      "added_at": "2026-05-23 13:01:02",
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
     },
     {
       "added_at": "2026-05-27 05:48:08",
@@ -51,22 +67,6 @@
       "duration_ms": 169380,
       "name": "AS YOU KNOW",
       "url": "https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8"
-    },
-    {
-      "added_at": "2026-05-23 13:01:02",
-      "album": {
-        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
-        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
-      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
     },
     {
       "added_at": "2026-05-23 13:01:02",

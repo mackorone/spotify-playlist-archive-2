@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: yola, Dani Lia",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MAJAN, Dilla",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Aperitivo",
+        "url": "https://open.spotify.com/album/0RRpedBxrPHeoShxRS8yuU"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176236,
+      "name": "Aperitivo",
+      "url": "https://open.spotify.com/track/4wRyW0Xu75ra8myP57s3du"
+    },
+    {
+      "album": {
         "name": "Aperol Chick",
         "url": "https://open.spotify.com/album/7u1Kd9CiROf7k5jLRnxyrb"
       },
@@ -2404,6 +2422,28 @@
       "duration_ms": 157354,
       "name": "Aperol Chick",
       "url": "https://open.spotify.com/track/6MSS0udA6vxkw40y4l0GDH"
+    },
+    {
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/2BWHoufKyq6Ci5LSzffNj0"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        },
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161202,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4EiJ8kbxdAare5gM8LOWf2"
     },
     {
       "album": {
@@ -3376,7 +3416,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 158114,
       "name": "Bayrische M\u00e4nner",
       "url": "https://open.spotify.com/track/6Pj0AOdluqAsGgjKAIBy7m"
@@ -7308,7 +7348,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 162203,
       "name": "Du liebst mich schon l\u00e4ngst",
       "url": "https://open.spotify.com/track/7HNOhwFIBEa9JKaMt4CpZ0"
@@ -8878,7 +8918,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 214034,
       "name": "Eulenspiegel",
       "url": "https://open.spotify.com/track/0GBORF33nLvDRBbXTJA9wx"
@@ -9272,7 +9312,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 157551,
       "name": "Fast vergessen",
       "url": "https://open.spotify.com/track/0rnU64SEFpchNbDFlghgqu"
@@ -11261,6 +11301,28 @@
     },
     {
       "album": {
+        "name": "Genauso allein",
+        "url": "https://open.spotify.com/album/6o0HGWZdCSM8K7J1buILoK"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213035,
+      "name": "Genauso allein",
+      "url": "https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ"
+    },
+    {
+      "album": {
         "name": "genug",
         "url": "https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ"
       },
@@ -13112,7 +13174,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193000,
       "name": "Herzschmerz",
       "url": "https://open.spotify.com/track/0tHq02GUfRMlTIHI0HO8SS"
@@ -13242,6 +13304,24 @@
       "duration_ms": 174500,
       "name": "hinterdenkulissen",
       "url": "https://open.spotify.com/track/7edYRamBeVYK9mTYpTsWiO"
+    },
+    {
+      "album": {
+        "name": "Geschichten die wir niemandem erz\u00e4hlen",
+        "url": "https://open.spotify.com/album/4ZWKcllgvIA5rQ9LZN2X1G"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Hochhaus",
+      "url": "https://open.spotify.com/track/5AjIxBCf7pVb5ZopqftVsw"
     },
     {
       "album": {
@@ -18271,6 +18351,24 @@
     },
     {
       "album": {
+        "name": "liebesbriefe",
+        "url": "https://open.spotify.com/album/7cVKmiIAgdECyVNcLp6DNI"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "liebesbriefe",
+      "url": "https://open.spotify.com/track/69MCaMdyBZdEbQ8Cmm4KR8"
+    },
+    {
+      "album": {
         "name": "Liebeslied",
         "url": "https://open.spotify.com/album/3kBg2cYl2i2zVv3fBO3MAL"
       },
@@ -20834,7 +20932,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 217333,
       "name": "NEUER MANN",
       "url": "https://open.spotify.com/track/1m8rHHiDUjTJ27QTIpQooj"
@@ -24242,7 +24340,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 171073,
       "name": "sag mir wo",
       "url": "https://open.spotify.com/track/7nLWWm2p2AhCYtMW0Mb393"
@@ -24626,6 +24724,24 @@
       "duration_ms": 162529,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/4OAcROIqeWHDAf4y7JWZeT"
+    },
+    {
+      "album": {
+        "name": "schmetterlinge fangen",
+        "url": "https://open.spotify.com/album/40Q0rULJhusLzOLMTyHQh4"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136207,
+      "name": "schmetterlinge fangen",
+      "url": "https://open.spotify.com/track/2iiEvGTxZ1u9XjlDC8mCTM"
     },
     {
       "album": {
@@ -28417,6 +28533,42 @@
     },
     {
       "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm"
+    },
+    {
+      "album": {
+        "name": "nichtsmehrda",
+        "url": "https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -29119,6 +29271,24 @@
     },
     {
       "album": {
+        "name": "Ungesund",
+        "url": "https://open.spotify.com/album/5NIE4ZD0GxpjKJi2R4gH6f"
+      },
+      "artists": [
+        {
+          "name": "LUCE",
+          "url": "https://open.spotify.com/artist/6u460PcmxWWYqygFRNQu3w"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155832,
+      "name": "Ungesund",
+      "url": "https://open.spotify.com/track/62fzqGNID3VjdNdLHypD4Z"
+    },
+    {
+      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
       },
@@ -29330,6 +29500,24 @@
       "duration_ms": 142795,
       "name": "Unterk\u00fchlt",
       "url": "https://open.spotify.com/track/1m2NzRIKJ5btSgfyjJjJ0s"
+    },
+    {
+      "album": {
+        "name": "Unterwegs / Call My Manager!",
+        "url": "https://open.spotify.com/album/3kSiTxrTSgsp9YqVKTmy0v"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127900,
+      "name": "Unterwegs",
+      "url": "https://open.spotify.com/track/0GdogY09bPuNdISAwJ4eDG"
     },
     {
       "album": {
@@ -30378,7 +30566,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 205941,
       "name": "WACH",
       "url": "https://open.spotify.com/track/2omFJVW6jjBNlpnJopo0b2"
@@ -31252,7 +31440,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 128534,
       "name": "Wei\u00dft du \u00fcberhaupt noch wer ich bin?",
       "url": "https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR"
@@ -32168,7 +32356,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 158420,
       "name": "wieder weinen",
       "url": "https://open.spotify.com/track/5msCipPHEjnLJvJ7X2kEkW"

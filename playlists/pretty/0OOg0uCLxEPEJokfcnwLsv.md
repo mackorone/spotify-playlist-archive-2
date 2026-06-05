@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,044 likes - 111 songs - 6 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,044 likes - 112 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 109 | [Stone](https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Stone](https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8) | 3:57 |
 | 110 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 |
 | 111 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 |
+| 112 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 |
 
-Snapshot ID: `AAAGOar/gb4WvLWD7IpQsmxnsDh3oKCd`
+Snapshot ID: `AAAGOmd7z5zewi9sjhdKnvSHer3hKHbx`

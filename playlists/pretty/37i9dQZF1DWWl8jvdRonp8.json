@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 305348,
+  "num_followers": 305449,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
+      "duration_ms": 300013,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 189280,
       "name": "Mi Najayita",
       "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Como fui a enamorarme de ti",
-        "url": "https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx"
-      },
-      "artists": [
-        {
-          "name": "Banda Llano Verde",
-          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
-        }
-      ],
-      "duration_ms": 234021,
-      "name": "Como fui a enamorarme de ti",
-      "url": "https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
@@ -1575,6 +1543,22 @@
       "duration_ms": 207293,
       "name": "No Puedo Olvidarlo",
       "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Como fui a enamorarme de ti",
+        "url": "https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx"
+      },
+      "artists": [
+        {
+          "name": "Banda Llano Verde",
+          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
+        }
+      ],
+      "duration_ms": 234021,
+      "name": "Como fui a enamorarme de ti",
+      "url": "https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Barra Abierta a los Dolidos... (En Vivo)",
         "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 236835,
       "name": "A Donde Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Prefiero Ir Sola",
+      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1631,38 +1647,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Prefiero Ir Sola",
-      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -1679,6 +1663,42 @@
       "duration_ms": 254339,
       "name": "La Pareja Ideal - En Vivo",
       "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1715,26 +1735,6 @@
       "duration_ms": 242007,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
-        {
-          "name": "Jos\u00e9 Manuel Zamacona",
-          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
     },
     {
       "added_at": "2026-03-10 01:21:38",

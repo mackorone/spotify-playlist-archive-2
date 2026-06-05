@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: natori なとり
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Vaundy
 
-1,137 songs - 2 day 17 hr 7 min
+1,139 songs - 2 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,7 @@
 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 | 2023-10-24 | 2025-01-31 |
 | [ふめつのあなた](https://open.spotify.com/track/1jf4TZZyavDuL11sK5UdBY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ふめつのあなた](https://open.spotify.com/album/5DmARS0mkQCU0zgMy4klEq) | 2:30 | 2026-01-11 | 2026-01-16 |
 | [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 | 2026-02-19 | 2026-03-06 |
-| [ぷにっとぷよぷよ](https://open.spotify.com/track/4QuaLvP8n2YbKCBx8JTShX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ぷにっとぷよぷよ](https://open.spotify.com/album/2TxLWjmYlrnTxqXh08Sq7c) | 2:22 | 2026-05-28 |  |
+| [ぷにっとぷよぷよ](https://open.spotify.com/track/4QuaLvP8n2YbKCBx8JTShX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ぷにっとぷよぷよ](https://open.spotify.com/album/2TxLWjmYlrnTxqXh08Sq7c) | 2:22 | 2026-05-28 | 2026-06-05 |
 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-16 | 2025-04-09 |
 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 | 2023-07-04 | 2023-12-08 |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2023-05-09 | 2024-04-19 |
@@ -748,6 +748,7 @@
 | [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 | 2023-11-03 |
 | [インフェリア](https://open.spotify.com/track/1TPZq8RupVFSB2sSt5dxav) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [インフェリア](https://open.spotify.com/album/5VECDMfN7ZA9T5LaBmhy7z) | 3:38 | 2025-10-09 | 2025-10-17 |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2026-01-22 |  |
+| [イ三](https://open.spotify.com/track/1LCyQXGVdKh0UBjXhnxSdr) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 2:15 | 2026-06-04 |  |
 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 | 2025-06-05 | 2026-01-23 |
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-01 | 2024-09-13 |
 | [エンパシア](https://open.spotify.com/track/2UBdcJC3Ln67ne7cb7hrR3) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エンパシア](https://open.spotify.com/album/5e0FBUwr1TNLyA2CyKQQzx) | 4:27 | 2024-01-30 | 2024-02-09 |
@@ -763,7 +764,7 @@
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-25 | 2025-01-17 |
 | [キミと××××したいだけ](https://open.spotify.com/track/6laW0Ja9JaNcWWN4JoXUOU) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [キミと××××したいだけ](https://open.spotify.com/album/0hWgyaL282fsT7sS3M5obg) | 3:25 | 2024-08-01 | 2024-10-04 |
 | [キラキラキラ](https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [キラキラキラ](https://open.spotify.com/album/0dt8HhmDyL9TM2BMmnsEIe) | 3:03 | 2023-09-07 | 2023-10-04 |
-| [ギジコイ](https://open.spotify.com/track/5LXD7Ku7PHYwDMifr7aGnw) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [LovE ToXic](https://open.spotify.com/album/0wElNMjbAwFUePPz5fOzh0) | 3:35 | 2026-05-07 |  |
+| [ギジコイ](https://open.spotify.com/track/5LXD7Ku7PHYwDMifr7aGnw) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [LovE ToXic](https://open.spotify.com/album/0wElNMjbAwFUePPz5fOzh0) | 3:35 | 2026-05-07 | 2026-06-05 |
 | [ギミチョコ！！](https://open.spotify.com/track/6phW442kV1QOslVbdOQ3aT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/66lAJX7yGHHS8VovflLXkE) | 3:49 | 2025-02-27 | 2026-01-15 |
 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 | 2025-07-31 | 2025-09-12 |
 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 | 2025-04-08 | 2025-07-18 |
@@ -855,6 +856,7 @@
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-09 | 2024-09-27 |
 | [ポケットのモンスター \(feat\. 初音ミク\)](https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ポケットのモンスター](https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP) | 3:36 | 2023-10-24 | 2023-11-17 |
 | [ポップコーン!!](https://open.spotify.com/track/4ZHsFzpBYqtnwtKIQcHKHs) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ハローキティ](https://open.spotify.com/artist/0NU1ZwXIrwb0Kg7JZjWGyd), [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [ポップコーン!!](https://open.spotify.com/album/669vsPw7gk8J5txRVPTTEY) | 2:43 | 2024-03-21 | 2025-01-17 |
+| [ポラリス](https://open.spotify.com/track/09GzKRrTnqE7KD4LZkOIeL) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Rooom](https://open.spotify.com/album/3ZR0xze2etYIJEIb4HefUX) | 3:32 | 2026-06-04 |  |
 | [ポリゴンウェイヴ \- Original Mix](https://open.spotify.com/track/6HPIILGgNy0a4zGnMdmBgv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ポリゴンウェイヴ EP](https://open.spotify.com/album/2LuuZaVVX5Bp7eX3PIV6B7) | 4:33 | 2023-05-09 | 2023-08-18 |
 | [ポリゴンウェイヴ \- Original Mix](https://open.spotify.com/track/1gY6DwODrCnoiezXDKgyE5) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:33 | 2023-11-29 | 2023-12-08 |
 | [ポルターガイスト](https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [ポルターガイスト](https://open.spotify.com/album/7GNI6jmeP6Zu4LmyLisoE6) | 3:11 | 2026-05-28 |  |

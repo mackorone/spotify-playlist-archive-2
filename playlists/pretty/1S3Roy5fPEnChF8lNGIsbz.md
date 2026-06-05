@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 
 ### [Blues : Crossroads](https://open.spotify.com/playlist/1S3Roy5fPEnChF8lNGIsbz)
 
-> 
+> More on glitchandgold.com\. Follow @glitchandgoldmusic on Insta for interviews, Radar features and new discoveries.Submit your music on glitchandgold.com
 
-[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 914 likes - 64 songs - 4 hr 5 min
+[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 915 likes - 64 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 63 | [Let Me Roll It \- 2010 Remaster](https://open.spotify.com/track/0mRQp2HsSqX1MZuMvonAPN) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:49 |
 | 64 | [Take A Little Time](https://open.spotify.com/track/5lgAeaH3EpCra3ez0V6G0g) | [Will Foulke](https://open.spotify.com/artist/45pLZUVBhHwzaAqwOfFrYW) | [Let's Try Again](https://open.spotify.com/album/64CPQigWaeNAicRDjlp77M) | 2:30 |
 
-Snapshot ID: `AAAI/82j1ikeRUIwJH4KKrZiMXrQVii9`
+Snapshot ID: `AAAJAB3MHm456eCIxRfh2yyvgCdW7h6C`

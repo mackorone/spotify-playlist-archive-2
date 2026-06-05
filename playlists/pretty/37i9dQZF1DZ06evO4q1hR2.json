@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 80344,
+  "num_followers": 80376,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAADM7ZieeRoYEqqy9wa8/mB",
+  "snapshot_id": "ah9ugAAAAABVrH67f+paEdiXEzjZIPGu",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rancho Grande",
-        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 121026,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU"
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+        "name": "El Rancho Grande",
+        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 136760,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
+      "duration_ms": 121026,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU"
     },
     {
       "added_at": null,

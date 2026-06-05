@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-953 songs - 1 day 21 hr 10 min
+954 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 | 2022-10-01 | 2022-10-05 |
 | [FLEX](https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [FLEX](https://open.spotify.com/album/1nWD5Zuc08MZzClKXN1CTX) | 2:15 | 2025-12-12 |  |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2022-02-04 | 2023-12-02 |
+| [FOCUSED](https://open.spotify.com/track/5wFsjgyONpAiZIiBGQiWq1) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [FOCUSED](https://open.spotify.com/album/4nNCVTaN9O57ZVctllKRSi) | 2:23 | 2026-05-29 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2022-03-23 | 2022-04-21 |
 | [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 | 2023-09-02 |
 | [For A Reason](https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [For A Reason](https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV) | 2:41 | 2024-02-02 | 2024-07-06 |
@@ -422,7 +423,7 @@
 | [I Will Not](https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Dax Hamma](https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY) | [I Will Not](https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw) | 3:36 | 2022-07-17 | 2024-01-13 |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-04 | 2022-05-29 |
 | [I'm Back](https://open.spotify.com/track/1Ppkg67h1UAy6M5wQjYyP4) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [I'm Back](https://open.spotify.com/album/1pcXepIcFLO2ElPN3SotTG) | 2:58 | 2026-04-03 |  |
-| [I'M SAVED](https://open.spotify.com/track/5zzl7kQ8gOf7cIgqvs2Oeu) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU) | [I'M SAVED](https://open.spotify.com/album/73yjRpFXFUgK0ECQCYCJ05) | 2:05 | 2026-02-20 |  |
+| [I'M SAVED](https://open.spotify.com/track/5zzl7kQ8gOf7cIgqvs2Oeu) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU) | [I'M SAVED](https://open.spotify.com/album/73yjRpFXFUgK0ECQCYCJ05) | 2:05 | 2026-02-20 | 2026-06-05 |
 | [I.S.W.I.S](https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Tr3 $ebiv](https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP) | [I.S.W.I.S](https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn) | 2:37 | 2024-11-08 | 2026-02-17 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-11-04 | 2024-01-13 |
 | [Impossible](https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Impossible](https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh) | 3:24 | 2022-05-28 | 2023-11-03 |

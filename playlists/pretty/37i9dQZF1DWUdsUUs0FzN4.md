@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con GRTSCH hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,451 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,452 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 47 | [250cc](https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h) | [250cc](https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB) | 2:25 |
 | 48 | [Ya entregamos el depa](https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Ya entregamos el depa](https://open.spotify.com/album/7nkd5A2CFzvl3nEyCkrExA) | 3:24 |
 | 49 | [recordé y me enojé](https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [recordé y me enojé](https://open.spotify.com/album/714m3ZtwXAvfpynvNmRbAt) | 2:30 |
-| 50 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
-| 51 | [Jenni Rivera](https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Fhany Santin](https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h) | [Jenni Rivera](https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm) | 2:36 |
+| 50 | [Jenni Rivera](https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Fhany Santin](https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h) | [Jenni Rivera](https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm) | 2:36 |
+| 51 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
 | 52 | [incompatibles](https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:51 |
 | 53 | [Monster Truck \- GALLERY SESSION](https://open.spotify.com/track/4hAjY8ZxO6fxJOIgWD7POn) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck \(GALLERY SESSION\)](https://open.spotify.com/album/0QOZyvLxMIbInPd6fN5ytL) | 3:52 |
 | 54 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 74 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
 | 75 | [PERDIDO](https://open.spotify.com/track/67jfNQ8ntPHnhxDv31iWRL) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [PERDIDO](https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw) | 2:45 |
 | 76 | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv) | 3:12 |
-| 77 | [Sucia](https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Sucia](https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g) | 2:59 |
-| 78 | [sustancia \(club\)](https://open.spotify.com/track/6ixHf49fWUB35ygAEZpjAL) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [T.V ADDICT \(nitro\)](https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ) | 3:53 |
+| 77 | [sustancia \(club\)](https://open.spotify.com/track/6ixHf49fWUB35ygAEZpjAL) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [T.V ADDICT \(nitro\)](https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ) | 3:53 |
+| 78 | [Sucia](https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Sucia](https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g) | 2:59 |
 | 79 | [mineminemine](https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL) | [Ximena Soto](https://open.spotify.com/artist/2UMDsP7y51fWknYFriceqC), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [mineminemine](https://open.spotify.com/album/3iFsdYgFIewy4fXDv3D1YD) | 2:36 |
 | 80 | [Flashing Lights](https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS) | [Flashing Lights](https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB) | 3:04 |
 

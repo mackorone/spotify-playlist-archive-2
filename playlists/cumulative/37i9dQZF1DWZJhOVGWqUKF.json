@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Tom Morello, Serj Tankian, Roman Morello",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Electric Callboy",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 162272,
       "name": "Big Bubble Bullshit",
       "url": "https://open.spotify.com/track/3IrYlonc2IEb5kzVfLHpUQ"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191129,
       "name": "BRAINDEAD (feat. Toby Morse)",
       "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 208281,
       "name": "Don't Quit It",
       "url": "https://open.spotify.com/track/36GbhhClyQWVzlcdON7KlQ"
@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 189853,
       "name": "Exalted",
       "url": "https://open.spotify.com/track/7Jc61eo8kHWrBOZN6FUkmt"
@@ -5458,6 +5458,28 @@
       "duration_ms": 235906,
       "name": "F.T.W. 84",
       "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
+    },
+    {
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/17rtP4epf0VmDoPuIteTZS"
+      },
+      "artists": [
+        {
+          "name": "Out Of Vision",
+          "url": "https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58"
+        },
+        {
+          "name": "Letters Sent Home",
+          "url": "https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/0aLhGQyxY9e5cHybNeFyi1"
     },
     {
       "album": {
@@ -5722,7 +5744,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 210026,
       "name": "Fix This Crack",
       "url": "https://open.spotify.com/track/1tA7zl17I0Cnr8qjpKQ9c8"
@@ -7067,6 +7089,24 @@
     },
     {
       "album": {
+        "name": "Hate Your Guts",
+        "url": "https://open.spotify.com/album/7sq3OjZf5l75QCVmLoRqCj"
+      },
+      "artists": [
+        {
+          "name": "SKIRT.",
+          "url": "https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106581,
+      "name": "Hate Your Guts",
+      "url": "https://open.spotify.com/track/6ACBLxXnV7zRpM6L9t1j5i"
+    },
+    {
+      "album": {
         "name": "Have You Nothing Left To Say",
         "url": "https://open.spotify.com/album/2hJ9v5Kq2sfOWLBqQdi5PR"
       },
@@ -7715,6 +7755,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/7jJ5VDOgCGOOcyuqFX0dEV"
+      },
+      "artists": [
+        {
+          "name": "FREVD",
+          "url": "https://open.spotify.com/artist/3uXCmzYLCYOItkXSvnVYjg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211785,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2dVcE4ltmHksPp4e74idaF"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -8106,7 +8164,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 244906,
       "name": "Idle Potential",
       "url": "https://open.spotify.com/track/0YxGjgQYDSbDP1ne5yRHsX"
@@ -9030,6 +9088,28 @@
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
+    },
+    {
+      "album": {
+        "name": "Let The Good Times Roll (feat. The Offspring)",
+        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210913,
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
     },
     {
       "album": {
@@ -10817,6 +10897,24 @@
     },
     {
       "album": {
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
+    },
+    {
+      "album": {
         "name": "Nightshifter",
         "url": "https://open.spotify.com/album/4QJDiZpbfwmrU1ef9eWsPy"
       },
@@ -11218,6 +11316,24 @@
       "duration_ms": 166813,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7xi4ahs8pvQcXU2Rkv16hm"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0Ty1WQTBPMKitwiWClqUey"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/0qJijgbGbM3EoujK2m9QVr"
     },
     {
       "album": {
@@ -12710,7 +12826,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 196840,
       "name": "Resurge",
       "url": "https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa"
@@ -12750,6 +12866,24 @@
       "duration_ms": 215455,
       "name": "Reward the Scars",
       "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
+    },
+    {
+      "album": {
+        "name": "Rich As Fuck",
+        "url": "https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI"
     },
     {
       "album": {
@@ -15674,6 +15808,24 @@
       "duration_ms": 211000,
       "name": "THE WEDDING",
       "url": "https://open.spotify.com/track/4ma20LiOfd493n1kQQ530Y"
+    },
+    {
+      "album": {
+        "name": "The Words You Say",
+        "url": "https://open.spotify.com/album/5dnk0kp4mqOvkfiJq3ByEe"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181436,
+      "name": "The Words You Say",
+      "url": "https://open.spotify.com/track/6EUT3nfeGwA7oGstpuTFTb"
     },
     {
       "album": {

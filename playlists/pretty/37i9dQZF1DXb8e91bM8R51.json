@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53012,
+  "num_followers": 53018,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "Roofless Records For Drop Tops: Disc 2",
         "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 166220,
       "name": "The Coin Toss",
       "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "On The Unda",
-        "url": "https://open.spotify.com/album/3Akcg76wExGx02Gr02hhAa"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo Got Wings",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "On The Unda",
-      "url": "https://open.spotify.com/track/5HvU2ulNj38890uRhs3Zm8"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "Off the Strength",
         "url": "https://open.spotify.com/album/1okrd5yTD0zDNhOq2YJDox"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 150361,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "On The Unda",
+        "url": "https://open.spotify.com/album/3Akcg76wExGx02Gr02hhAa"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo Got Wings",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "On The Unda",
+      "url": "https://open.spotify.com/track/5HvU2ulNj38890uRhs3Zm8"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "The Jackie (with J. Cole & Lil Tjay)",
+        "url": "https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "The Jackie (with J. Cole & Lil Tjay)",
+      "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
       },
@@ -1771,30 +1795,6 @@
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "The Jackie (with J. Cole & Lil Tjay)",
-        "url": "https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "The Jackie (with J. Cole & Lil Tjay)",
-      "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
     },
     {
       "added_at": "2026-05-07 21:17:30",

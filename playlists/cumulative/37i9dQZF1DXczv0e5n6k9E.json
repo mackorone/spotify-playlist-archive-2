@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marzi",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Yolte",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 125217,
       "name": "Artistas",
       "url": "https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195630,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/0uOlfFtQMtPhXiaUraMUJA"
@@ -3600,7 +3600,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166956,
       "name": "Demon Vol 2",
       "url": "https://open.spotify.com/track/4tFXFf7AglvnEwEZ8jzWaf"
@@ -3718,6 +3718,28 @@
       "duration_ms": 176005,
       "name": "DEN STAMATO",
       "url": "https://open.spotify.com/track/1kUQknb5UNq0o3jXwOCBwr"
+    },
+    {
+      "album": {
+        "name": "DGAF",
+        "url": "https://open.spotify.com/album/6xYxcspkRcYb7UuV2cs0mh"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "DGAF",
+      "url": "https://open.spotify.com/track/21SYRyTXCM0bh6NDD20m1t"
     },
     {
       "album": {
@@ -4570,6 +4592,28 @@
       "duration_ms": 170550,
       "name": "ENA",
       "url": "https://open.spotify.com/track/5bYmtvn55vb7psYpSuWrUk"
+    },
+    {
+      "album": {
+        "name": "ENAS ALITIS",
+        "url": "https://open.spotify.com/album/0KcDzxgAVJcPNF7wmZ3wrQ"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "ENAS ALITIS",
+      "url": "https://open.spotify.com/track/07P2wVueymjF6r3CXUV0Sg"
     },
     {
       "album": {
@@ -5568,7 +5612,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172200,
       "name": "Funny Valentine",
       "url": "https://open.spotify.com/track/5rXxnp0uCZzmbMmtm4kaan"
@@ -7096,6 +7140,24 @@
       "duration_ms": 120000,
       "name": "INDIGO",
       "url": "https://open.spotify.com/track/33cxCyANhGkbzYRD3GBMyg"
+    },
+    {
+      "album": {
+        "name": "Influencer",
+        "url": "https://open.spotify.com/album/6y8pBggft3FHDUPYrisht2"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117492,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/2cXOUQ5QMiwUuPYnp9CYEJ"
     },
     {
       "album": {
@@ -9929,6 +9991,24 @@
     },
     {
       "album": {
+        "name": "FOR ALL THE BEACHES 4.4",
+        "url": "https://open.spotify.com/album/2r7LYuNaLDg1ueW6AkDCJM"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115174,
+      "name": "MONO GIA MENA",
+      "url": "https://open.spotify.com/track/2BZ6019iPEuViSIrjVn4Pt"
+    },
+    {
+      "album": {
         "name": "XORIS NA NTREPOMAI",
         "url": "https://open.spotify.com/album/3gV9SmAASd1VRSzguYudAq"
       },
@@ -10424,7 +10504,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 139800,
       "name": "NFL",
       "url": "https://open.spotify.com/track/5H8VwlKbwORU3icDM947rK"
@@ -12294,7 +12374,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 169500,
       "name": "PISTEPSE ME",
       "url": "https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG"
@@ -15273,6 +15353,28 @@
     },
     {
       "album": {
+        "name": "Ti Ennoeis?",
+        "url": "https://open.spotify.com/album/5dkfVgvIdNgQ3je3jSAsbd"
+      },
+      "artists": [
+        {
+          "name": "SOLO",
+          "url": "https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8"
+        },
+        {
+          "name": "DPC",
+          "url": "https://open.spotify.com/artist/2xfRh1ugELbF7WtA6MkSu1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116715,
+      "name": "Ti Ennoeis?",
+      "url": "https://open.spotify.com/track/41bXP6rvz7G9YRimzxab7Z"
+    },
+    {
+      "album": {
         "name": "TI KOITAS",
         "url": "https://open.spotify.com/album/7fwpZ5vaqtQwPCn29mf7zB"
       },
@@ -16784,6 +16886,28 @@
       "duration_ms": 193500,
       "name": "XXX",
       "url": "https://open.spotify.com/track/4FpBBFpqO2fsThvlrwYWWr"
+    },
+    {
+      "album": {
+        "name": "SHOOTING STARS",
+        "url": "https://open.spotify.com/album/3YGifcC5rtfcQWz8ZgM1kG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Y2K",
+      "url": "https://open.spotify.com/track/06CNoyANKu3IGqaYNKsBOi"
     },
     {
       "album": {

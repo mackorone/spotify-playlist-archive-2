@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1242742,
+  "num_followers": 1242856,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAB3plUqjc0LiEFTp4NmhFI4",
+  "snapshot_id": "ah9ugAAAAACwo/BzKNY1otEkT1fuWJyc",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+        "name": "The Singles Collection 2001-2011",
+        "url": "https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Tomorrow Comes Today",
-      "url": "https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ"
+      "duration_ms": 213600,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singles Collection 2001-2011",
-        "url": "https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w"
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 213600,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S"
+      "duration_ms": 193600,
+      "name": "Tomorrow Comes Today",
+      "url": "https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ"
     },
     {
       "added_at": null,

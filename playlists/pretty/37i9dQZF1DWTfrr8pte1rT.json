@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 354474,
+  "num_followers": 354526,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1819,22 +1819,26 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+        "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+      "duration_ms": 230400,
+      "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -1867,26 +1871,22 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
-        "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 230400,
-      "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
-      "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -1907,22 +1907,6 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2026-05-29 04:02:37",
-      "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
-      },
-      "artists": [
-        {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
-        }
-      ],
-      "duration_ms": 126129,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -1967,6 +1951,22 @@
       "duration_ms": 201131,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
+    },
+    {
+      "added_at": "2026-05-29 04:02:37",
+      "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
+      },
+      "artists": [
+        {
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+        }
+      ],
+      "duration_ms": 126129,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
-    },
-    {
-      "added_at": "2026-05-29 04:02:37",
-      "album": {
         "name": "Save The Cat",
         "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 172404,
       "name": "Save The Cat",
       "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
+    },
+    {
+      "added_at": "2026-05-29 04:02:37",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -2147,34 +2147,38 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
       "artists": [
         {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 186822,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -2223,38 +2227,54 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 186822,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
     },
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2026-05-29 04:02:37",
+      "album": {
+        "name": "Bad Blood (Weird Genius Remix)",
+        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        }
+      ],
+      "duration_ms": 197334,
+      "name": "Bad Blood - Weird Genius Remix",
+      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -2279,26 +2299,6 @@
       "duration_ms": 192000,
       "name": "Lean Onto Me",
       "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
-    },
-    {
-      "added_at": "2026-05-29 04:02:37",
-      "album": {
-        "name": "Bad Blood (Weird Genius Remix)",
-        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Weird Genius",
-          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
-        }
-      ],
-      "duration_ms": 197334,
-      "name": "Bad Blood - Weird Genius Remix",
-      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
     },
     {
       "added_at": "2026-05-29 04:02:37",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-05-29 04:02:37",
       "album": {
-        "name": "Muted Blue",
-        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Just Thought You Should Know",
-      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
-    },
-    {
-      "added_at": "2026-05-29 04:02:37",
-      "album": {
         "name": "Being One",
         "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 200000,
       "name": "Being One",
       "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
+    },
+    {
+      "added_at": "2026-05-29 04:02:37",
+      "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "added_at": "2026-05-29 04:02:37",

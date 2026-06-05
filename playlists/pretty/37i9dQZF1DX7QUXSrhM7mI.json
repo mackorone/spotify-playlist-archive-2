@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 96701,
+  "num_followers": 96717,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 264124,
-      "name": "Day To Night",
-      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 221335,
       "name": "How It's Gotta Be",
       "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "MAYBE",
-        "url": "https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 194304,
-      "name": "MAYBE",
-      "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 198460,
       "name": "Honey Blonde",
       "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "MAYBE",
+        "url": "https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 194304,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "U-Turn",
-        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 206628,
-      "name": "U-Turn",
-      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Call Them And Tell Them You Love Them",
         "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 191912,
       "name": "Too Many Times",
       "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
       "added_at": "2026-05-12 22:07:33",

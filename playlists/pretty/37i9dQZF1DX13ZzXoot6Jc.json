@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 450358,
+  "num_followers": 450351,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "You Had To Be There (feat. Kenny Chesney)",
         "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Good News Sold",
-        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 203432,
-      "name": "Good News Sold",
-      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Take Her Home",
         "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 182466,
       "name": "Take Her Home",
       "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Good News Sold",
+        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 203432,
+      "name": "Good News Sold",
+      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
     },
     {
       "added_at": "2025-07-04 04:00:22",

@@ -2,7 +2,7 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Robbie Williams\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: 정국\)
 
 209 songs - 11 hr 21 min
 

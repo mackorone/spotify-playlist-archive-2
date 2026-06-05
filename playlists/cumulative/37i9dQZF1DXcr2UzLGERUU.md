@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-164 songs - 8 hr 50 min
+165 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-04-01 |  |
 | [Dandelion](https://open.spotify.com/track/6SFmihbeYCMTGczBQupH7c) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:06 | 2022-04-01 | 2023-04-09 |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4v52HuhZqVV0eNpP6vzH5I) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Best Of Bobby McFerrin](https://open.spotify.com/album/0L2VM5iuoVRAQXvw2lyRzV) | 4:51 | 2022-04-01 |  |
+| [Down By The Bay](https://open.spotify.com/track/1U6IlvyzOnhbM2EJyEU2o7) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Laura Sings](https://open.spotify.com/artist/7k0KiHV2w3d8mOXLAFFwWD) | [Laura Sings Raffi](https://open.spotify.com/album/4xtMbryUpg7PGlo10knqC6) | 1:51 | 2026-06-05 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/6n7PRM0pp868Qqg9JYwBdh) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Dream a Little Dream of Me](https://open.spotify.com/album/7pQMSHZhjabV71szsHMvWB) | 2:26 | 2022-04-01 |  |
 | [drivers license \- piano version](https://open.spotify.com/track/1llAxbdo760RjFmfM6Q1Ys) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [drivers license \(piano version\)](https://open.spotify.com/album/1ItBK0fChc27iy8oawnCWB) | 3:57 | 2022-04-01 |  |
 | [Everybody Get on Board](https://open.spotify.com/track/7c0JXmmCVgNCl2XVBNj9yn) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Space Cadet](https://open.spotify.com/album/1xhYQeDbUtt5wPbi9u89ZM) | 3:10 | 2022-08-11 | 2023-04-09 |

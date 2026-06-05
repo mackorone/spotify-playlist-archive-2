@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  Artie 5ive in cover
+> E lei traballa dentro all'auto e l'auto è tutta scassata
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,544 likes - 112 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,558 likes - 112 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 |
-| 2 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 1 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 2 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 |
 | 3 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 |
 | 4 | [National Treasures](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:20 |
 | 5 | [Blue](https://open.spotify.com/track/6kfLv8uKJNS5DfodQAzpco) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:52 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 111 | [Camicia e Zanotti](https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw), [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [\#FREEDAG \(album\)](https://open.spotify.com/album/1Nlmk5ApaxYjkryFodo4O6) | 3:47 |
 | 112 | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Potere \(feat\. Tony Boy\)](https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY) | 3:15 |
 
-Snapshot ID: `AAAAAB8x267a6bvXu2Bdv7FObmyxYqua`
+Snapshot ID: `AAAAAPLX52qrdl7BdMd2J0wQP5tnDvAw`

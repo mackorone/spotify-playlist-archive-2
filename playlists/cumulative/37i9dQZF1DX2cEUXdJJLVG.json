@@ -5026,7 +5026,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 181360,
       "name": "Love In HiFi",
       "url": "https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99"
@@ -7590,6 +7590,28 @@
       "duration_ms": 242654,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/4oHghaXlFoXhq8SZHjvIYr"
+    },
+    {
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/2095HhL8mAFFfU4H426jsf"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241781,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2DBr8nXrYm5c3QTJHLGDzp"
     },
     {
       "album": {

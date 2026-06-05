@@ -11704,7 +11704,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -12446,7 +12446,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
@@ -23876,7 +23876,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 225959,
       "name": "Rouh W Nsani",
       "url": "https://open.spotify.com/track/3EmlkQjuUaAwo7BjwqHNba"
@@ -28566,7 +28566,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -28584,7 +28584,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -33654,6 +33654,24 @@
     {
       "album": {
         "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
+        "url": "https://open.spotify.com/album/6gnla9BYEZ1IbYlouUBufM"
+      },
+      "artists": [
+        {
+          "name": "Sabah Mahmod",
+          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321689,
+      "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
+      "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
         "url": "https://open.spotify.com/album/33D6aKbHYSMPzc2UwW1Ulh"
       },
       "artists": [
@@ -34984,7 +35002,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 227683,
       "name": "\u0632\u0639\u0644\u0627\u0646",
       "url": "https://open.spotify.com/track/3vrLO8JCrZUyPhsxbdyyTz"
@@ -37228,7 +37246,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 301055,
       "name": "\u064a\u0627 \u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0w5rkuD14HJGWmoXu60WgN"

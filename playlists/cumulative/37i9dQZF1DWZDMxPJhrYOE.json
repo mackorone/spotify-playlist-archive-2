@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 207933,
       "name": "Den Her Sang (Handler Ik' Om Dig)",
       "url": "https://open.spotify.com/track/3O5RYuqcJBigWD7umWGSuc"
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 214720,
       "name": "Din For Evigt",
       "url": "https://open.spotify.com/track/3oYO7MoMAjIKeG15RkKAYn"
@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 224812,
       "name": "Flue i et spind",
       "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
@@ -6940,6 +6940,24 @@
       "duration_ms": 165600,
       "name": "FOREVIGT",
       "url": "https://open.spotify.com/track/4TesvqhEAvHmp964Byq7ix"
+    },
+    {
+      "album": {
+        "name": "FORFRA S\u00c5RBAR",
+        "url": "https://open.spotify.com/album/26HozPkrqNcPfxij0ANi2a"
+      },
+      "artists": [
+        {
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "FORFRA S\u00c5RBAR",
+      "url": "https://open.spotify.com/track/3cLuUx3JBRD2SyZ9r2YPEJ"
     },
     {
       "album": {
@@ -7342,7 +7360,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 149776,
       "name": "Game On (ft. JT)",
       "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
@@ -7386,7 +7404,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 167690,
       "name": "Gemt Dit Nummer",
       "url": "https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0"
@@ -7492,7 +7510,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 148413,
       "name": "Gi' Mig",
       "url": "https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC"
@@ -7976,7 +7994,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 169294,
       "name": "GPS",
       "url": "https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe"
@@ -8222,7 +8240,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 194080,
       "name": "Ham Med Guitaren",
       "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
@@ -9874,7 +9892,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 151977,
       "name": "i kinda like how u know just how beautiful u are",
       "url": "https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt"
@@ -9914,7 +9932,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 377003,
       "name": "I Know You're Hurting.",
       "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
@@ -10720,6 +10738,24 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
+        "name": "Ivrig",
+        "url": "https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168285,
+      "name": "Ivrig",
+      "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
     },
     {
       "album": {
@@ -11880,7 +11916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182204,
       "name": "Livsforladt",
       "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
@@ -12749,6 +12785,28 @@
     },
     {
       "album": {
+        "name": "Marvel",
+        "url": "https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136602,
+      "name": "Marvel",
+      "url": "https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW"
+    },
+    {
+      "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
@@ -12898,7 +12956,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
@@ -14759,6 +14817,24 @@
     },
     {
       "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "album": {
         "name": "PASSENGER PRINCESS",
         "url": "https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU"
       },
@@ -15328,7 +15404,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 185721,
       "name": "Puss Puss - Girls Trip",
       "url": "https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM"
@@ -16411,6 +16487,24 @@
     },
     {
       "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/0SyyjYxgxMJH09uWIPYww7"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186684,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/627HaYRxcr1ak6U0witZa2"
+    },
+    {
+      "album": {
         "name": "Something Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
       },
@@ -16774,7 +16868,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 236061,
       "name": "Sidste Mand Der D\u00f8r",
       "url": "https://open.spotify.com/track/2IEGQCj6opHbd0gQZC7eR7"
@@ -18204,7 +18298,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193634,
       "name": "Superlim & silvertejp",
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
@@ -18604,6 +18698,24 @@
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
+    },
+    {
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "album": {
@@ -19737,6 +19849,24 @@
     },
     {
       "album": {
+        "name": "Ikk Gi Dig Selv V\u00e6k F\u00f8r Du F\u00f8ler Dig Hjemme",
+        "url": "https://open.spotify.com/album/2yjFO6ehaMr1GmPJ2TK4TW"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4sYN0jmoaiQY4WzhUdu2Ua"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -20402,7 +20532,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 255223,
       "name": "Var det dig, der var derinde?",
       "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
@@ -20790,7 +20920,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 197357,
       "name": "V\u00e6rd At Vente P\u00e5 (feat. Katinka)",
       "url": "https://open.spotify.com/track/5P7hfOTc287LCc5VESuHu9"
@@ -20808,7 +20938,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172176,
       "name": "V\u00e6relse 15",
       "url": "https://open.spotify.com/track/5daL4YeoOHtrEbvi7xiYMW"

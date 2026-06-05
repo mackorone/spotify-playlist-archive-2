@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : BB NOYAA",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 173133,
       "name": "Coquelicot",
       "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 174000,
       "name": "Dou\u00e9",
       "url": "https://open.spotify.com/track/0wuHIyOFzNTMHmDf5AnQLZ"
@@ -3942,6 +3942,24 @@
       "duration_ms": 171432,
       "name": "EMOTIONS",
       "url": "https://open.spotify.com/track/7q5oVAKvpIBfgCJg1SCyGy"
+    },
+    {
+      "album": {
+        "name": "En bas de chez moi",
+        "url": "https://open.spotify.com/album/0upjmp3injgq5JQc59mzFD"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "En bas de chez moi",
+      "url": "https://open.spotify.com/track/3FoX8jrM7dyXZJD5jVPih4"
     },
     {
       "album": {
@@ -4799,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "God Bless",
+        "url": "https://open.spotify.com/album/4rLNBk9oIYpwQAEOeE0Qaz"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "God Bless",
+      "url": "https://open.spotify.com/track/4Elfhk6PhvnapBAwe0yMiI"
+    },
+    {
+      "album": {
         "name": "GOUMIN",
         "url": "https://open.spotify.com/album/6J9KbV8J8E3oCA0OzUrvQw"
       },
@@ -4894,7 +4930,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 150866,
       "name": "GT",
       "url": "https://open.spotify.com/track/6QrJfDLVv1FwcdS4bIfcns"
@@ -6533,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+    },
+    {
+      "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR"
       },
@@ -6656,7 +6710,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 207750,
       "name": "LE MAL DE TOI part.2 (feat. Emma'a)",
       "url": "https://open.spotify.com/track/6B88bGOamrRFDhtODfbQGz"
@@ -13852,6 +13906,28 @@
       "duration_ms": 84107,
       "name": "\u00c0 TON AISE",
       "url": "https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv"
+    },
+    {
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/0dQQNapuO631RSnGLl0oTA"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160767,
+      "name": "\u00c7a va aller",
+      "url": "https://open.spotify.com/track/4s6i1gchWOJXTUPy7dc8uA"
     },
     {
       "album": {

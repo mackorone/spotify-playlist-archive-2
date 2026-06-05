@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
@@ -19179,6 +19179,24 @@
     },
     {
       "album": {
+        "name": "L[ ]VE",
+        "url": "https://open.spotify.com/album/4tbCxd3tBDiJYNFHsr52B3"
+      },
+      "artists": [
+        {
+          "name": "CHOIJUNSEONG (Jun S)",
+          "url": "https://open.spotify.com/artist/2RPo7pzzve2r1LufIxrPeR"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "L[ ]VE",
+      "url": "https://open.spotify.com/track/4c9CHyzibRaogeupFGzsFW"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -20668,7 +20686,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180112,
       "name": "LIVE FAST DIE SLOW",
       "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
@@ -22266,7 +22284,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -40380,6 +40398,24 @@
       "duration_ms": 184186,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de"
+    },
+    {
+      "album": {
+        "name": "\u200eGood Night Good Dream",
+        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265983,
+      "name": "\u200eGood Night Good Dream",
+      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
     },
     {
       "album": {

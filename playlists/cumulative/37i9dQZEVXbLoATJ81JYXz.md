@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-2,970 songs - 6 day 10 hr 26 min
+2,971 songs - 6 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/3JMDzxsIAxgfEMvmjOgpRr) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Nyårsfest](https://open.spotify.com/album/0ta1G1js5DAxfFJ2PFpvvu) | 4:27 | 2025-05-21 |  |
 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 4:27 | 2022-06-25 | 2026-06-04 |
 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2023-10-21 | 2024-01-24 |
+| [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 | 2026-06-04 |  |
 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 | 2025-06-28 | 2025-06-30 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-21 | 2023-01-27 |
 | [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 | 2025-01-11 | 2025-01-15 |
@@ -1053,7 +1054,7 @@
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-25 | 2025-01-27 |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-04-20 | 2024-04-22 |
 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 | 2021-04-11 | 2021-04-18 |
-| [Gumbody](https://open.spotify.com/track/229Q8waMW3Ng5BZlPtDL3S) | [See2](https://open.spotify.com/artist/3QTID1I4zwpdhhMFq4ruJ7) | [Gumbody](https://open.spotify.com/album/5KYUivrIRj4zU8D74Yu3Pk) | 2:03 | 2026-06-03 |  |
+| [Gumbody](https://open.spotify.com/track/229Q8waMW3Ng5BZlPtDL3S) | [See2](https://open.spotify.com/artist/3QTID1I4zwpdhhMFq4ruJ7) | [Gumbody](https://open.spotify.com/album/5KYUivrIRj4zU8D74Yu3Pk) | 2:03 | 2026-06-03 | 2026-06-05 |
 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 | 2025-07-07 | 2025-07-09 |
 | [Guten Tag](https://open.spotify.com/track/4SAzsoCF5on3JVtuZftdhx) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 2:43 | 2024-08-24 | 2024-08-26 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-27 | 2024-08-04 |
@@ -1673,8 +1674,8 @@
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-23 |
 | [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 | 2026-05-23 | 2026-05-25 |
 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 | 2024-11-24 | 2024-11-26 |
-| [Man I Need](https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 | 2025-09-30 | 2026-06-04 |
-| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-22 |  |
+| [Man I Need](https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 | 2025-09-30 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-22 | 2026-06-05 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-11-28 | 2022-04-26 |
 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-08-30 | 2025-09-21 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-07 | 2025-07-25 |

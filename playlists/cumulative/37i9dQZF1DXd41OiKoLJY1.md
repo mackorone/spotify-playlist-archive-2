@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[LU MARZAN\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[It All Started In May\]\. Artwork: Isu Kim.
 
 4,087 songs - 9 day 22 hr 48 min
 
@@ -3790,7 +3790,7 @@
 | [Umiibig Ako Sa Iyo](https://open.spotify.com/track/62dJ0VWphiB80mFL4IN265) | [Chichi](https://open.spotify.com/artist/0c8j1b3wymOgXOWc6v3ED1) | [Umiibig Ako Sa Iyo](https://open.spotify.com/album/4jt3WQWuxbe3ugPcxGbZIx) | 4:39 | 2025-07-10 | 2025-09-19 |
 | [Umuwi](https://open.spotify.com/track/72630T9Mv3Oeycl7lte9b0) | [Timy Dior](https://open.spotify.com/artist/5D1Ko747WLiUIEYpFU0bh8) | [Umuwi](https://open.spotify.com/album/14E1cAAEvUSa8jdmA0T91P) | 3:22 | 2025-05-22 | 2025-06-27 |
 | [UNA](https://open.spotify.com/track/7pRKUBo9wBrSucBnk5rsCQ) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [UNA](https://open.spotify.com/album/3CsgpNpoOIwcUVywpHQUW4) | 3:10 | 2023-02-16 | 2023-03-03 |
-| [Una](https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY: CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:45 | 2026-05-27 |  |
+| [Una](https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY \- CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:45 | 2026-05-27 |  |
 | [Una at Huli](https://open.spotify.com/track/5iy5KJcoVkz3Wswh0K8VLl) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [Una at Huli](https://open.spotify.com/album/0QGzSmi4k7wDpv9xU38jUP) | 3:30 | 2023-02-09 | 2023-02-24 |
 | [Unang Halik](https://open.spotify.com/track/5zWB75pxsGezA3FYeKTDzs) | [CRISHA](https://open.spotify.com/artist/3IJSSAmsW0l0ilgw0foj8m) | [Unang Halik](https://open.spotify.com/album/3zFDdz4WwmP79LopOZI3Ur) | 4:26 | 2024-02-15 | 2024-03-15 |
 | [unconditionally](https://open.spotify.com/track/1WWkPsCwwGRd2EowA2EcHH) | [grd mln](https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY) | [unconditionally](https://open.spotify.com/album/5eCnBZiWgOgoZxUacqOBa6) | 1:45 | 2025-11-27 | 2025-12-04 |

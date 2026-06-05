@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: LA MILAGROSA.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
   "name": "Rock 2026",
   "tracks": [
+    {
+      "album": {
+        "name": "ESTOY LLENA DE ODIO Y AMOR",
+        "url": "https://open.spotify.com/album/4lb5df5O5lbYqd9tfQLt39"
+      },
+      "artists": [
+        {
+          "name": "arrec\u00ed0",
+          "url": "https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166634,
+      "name": "#DIFERENTE",
+      "url": "https://open.spotify.com/track/0n9ReOfmJSAwOAvrs0b0US"
+    },
     {
       "album": {
         "name": "MIAU",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 155645,
       "name": "(casi no vivo para contarlo)",
       "url": "https://open.spotify.com/track/6gClYf0O45RHWBuOk2Bnw4"
@@ -1707,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Acabar\u00e1 fatal",
+        "url": "https://open.spotify.com/album/35AmpMOX7IAqI2CdWKfGQU"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Miserable",
+          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192288,
+      "name": "Castell\u00f3n est\u00e1 helado",
+      "url": "https://open.spotify.com/track/2MHu8fOJ9mLSoAJnCB11tT"
+    },
+    {
+      "album": {
         "name": "Catafalco",
         "url": "https://open.spotify.com/album/7jnV68FUuHlh11SIonJmmh"
       },
@@ -2682,7 +2718,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 147520,
       "name": "Delante del espejo",
       "url": "https://open.spotify.com/track/4gCt1NuVYzjUhweirUcGZL"
@@ -4597,6 +4633,96 @@
     },
     {
       "album": {
+        "name": "F\u00fatbol (con amigos)",
+        "url": "https://open.spotify.com/album/2dwuy3X60jf6tT6aB8J7PE"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Doplers",
+          "url": "https://open.spotify.com/artist/3bOlQjzeldfV2rGrdkoKSk"
+        },
+        {
+          "name": "Quinto Diario",
+          "url": "https://open.spotify.com/artist/3yqgA2efjKysEabtZ0HlHN"
+        },
+        {
+          "name": "Sobrezero",
+          "url": "https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr"
+        },
+        {
+          "name": "Sin Salida",
+          "url": "https://open.spotify.com/artist/3mugVtOy0UNfMjwcAIJu83"
+        },
+        {
+          "name": "La Azotea",
+          "url": "https://open.spotify.com/artist/5HOMniXv86SK1Ghoa6EBL7"
+        },
+        {
+          "name": "Lim\u00f3n Dulce",
+          "url": "https://open.spotify.com/artist/6k397IlxdLifgKxO3zMtDX"
+        },
+        {
+          "name": "Akisoni",
+          "url": "https://open.spotify.com/artist/62cPnhL6gcVxT0bz8W0b7D"
+        },
+        {
+          "name": "Lavin",
+          "url": "https://open.spotify.com/artist/1SKd8VKrMu7jHRb22553l0"
+        },
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        },
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        },
+        {
+          "name": "Azul Yokai",
+          "url": "https://open.spotify.com/artist/0hsTHTtTN4IRAvwTBXxNXp"
+        },
+        {
+          "name": "Linea 6",
+          "url": "https://open.spotify.com/artist/1iONqFSLJpia55LME7J8Zh"
+        },
+        {
+          "name": "Meriendacena",
+          "url": "https://open.spotify.com/artist/6EGm6yEobb3RisN9TvaXJ7"
+        },
+        {
+          "name": "Bruno Alves",
+          "url": "https://open.spotify.com/artist/4FLOs7EN6jdrZLCxn3CqjX"
+        },
+        {
+          "name": "Tus Novias Indie",
+          "url": "https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl"
+        },
+        {
+          "name": "The Son of Wood",
+          "url": "https://open.spotify.com/artist/19FBTkMNRv8TA2DMkjJVJB"
+        },
+        {
+          "name": "alex de las heras",
+          "url": "https://open.spotify.com/artist/7IkqnpmhcQnb4JVG2S8S8T"
+        },
+        {
+          "name": "stifled_",
+          "url": "https://open.spotify.com/artist/4WsnNPMxY68EI6WBhNwe1t"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "F\u00fatbol (con amigos)",
+      "url": "https://open.spotify.com/track/2GDDRFOkKbCStNfHNdA3VL"
+    },
+    {
+      "album": {
         "name": "Gallo Negro Se Levanta",
         "url": "https://open.spotify.com/album/7n1A0qhbxwkrcwhayyf9th"
       },
@@ -6487,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Lo siento, mam\u00e1",
+        "url": "https://open.spotify.com/album/1oi0tCRTPZZESVlBjX2bBw"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174260,
+      "name": "Lo siento, mam\u00e1",
+      "url": "https://open.spotify.com/track/4TyjU2B4tt8A97qfOOm4w2"
+    },
+    {
+      "album": {
         "name": "LOPE DE VEGA",
         "url": "https://open.spotify.com/album/1ur0ogHivs329HXnYpGWF7"
       },
@@ -7944,7 +8088,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 269706,
       "name": "Nadie nos prepar\u00f3",
       "url": "https://open.spotify.com/track/1saTSIH5flwTWPrLMUcgvV"
@@ -8783,6 +8927,24 @@
     },
     {
       "album": {
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/09POTYNCvoayF0rjZu5Qoq"
+      },
+      "artists": [
+        {
+          "name": "Ona Mafalda",
+          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145043,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/4O3NKuohbUCptFmbsh90xg"
+    },
+    {
+      "album": {
         "name": "otra vez pensando en todo esto",
         "url": "https://open.spotify.com/album/08tQ5G9fAuAQtrbxZYpBWE"
       },
@@ -8938,7 +9100,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 197824,
       "name": "PARAR EL TIEMPO",
       "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
@@ -9176,6 +9338,24 @@
       "duration_ms": 106946,
       "name": "Peldanyos",
       "url": "https://open.spotify.com/track/6yH61MBS1NOn8jS7nNeE8z"
+    },
+    {
+      "album": {
+        "name": "LOS GALGOS",
+        "url": "https://open.spotify.com/album/0PWp8fGFDJp5f9UQ5toPLz"
+      },
+      "artists": [
+        {
+          "name": "LOS GALGOS",
+          "url": "https://open.spotify.com/artist/6eRluh6i0eiujCIRRA7FEj"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201061,
+      "name": "Pelis de Amor, Pelis de Hostias",
+      "url": "https://open.spotify.com/track/2cRVjFYDWugs5KxGEHNDqL"
     },
     {
       "album": {
@@ -10660,7 +10840,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 218179,
       "name": "Siempre Igual",
       "url": "https://open.spotify.com/track/5z74t2NXZBvNhzk5YPO1Mi"
@@ -11355,6 +11535,24 @@
     },
     {
       "album": {
+        "name": "Todas las cosas que no te dec\u00eda",
+        "url": "https://open.spotify.com/album/30SLv9bbXxBA358ZcSh9sa"
+      },
+      "artists": [
+        {
+          "name": "Junio",
+          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146101,
+      "name": "Todas las cosas que no te dec\u00eda",
+      "url": "https://open.spotify.com/track/5SyuKCkZ6qyfs8N2OiCYM3"
+    },
+    {
+      "album": {
         "name": "Todo Igual",
         "url": "https://open.spotify.com/album/6zIwjmV4OU5zUmUKEzbN8v"
       },
@@ -11492,7 +11690,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 189369,
       "name": "TODOS LOS CHARCOS",
       "url": "https://open.spotify.com/track/2gsMSiRmSg03gwaF57SdKb"
@@ -12304,7 +12502,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180266,
       "name": "UNA PERSONA TRISTE",
       "url": "https://open.spotify.com/track/6vxng0OeOsxxEglSmUK81o"

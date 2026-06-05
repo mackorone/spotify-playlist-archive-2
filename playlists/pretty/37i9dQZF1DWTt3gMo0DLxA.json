@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Peddi",
-  "num_followers": 610376,
+  "num_followers": 610799,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJME6JFaFJXeeScZcm7uHCtO6LH0",
+  "snapshot_id": "AAAAALliYJr3jqmbdUHu3nRyyNrTRSJv",
   "tracks": [
     {
       "added_at": "2026-05-27 03:37:35",
@@ -151,6 +151,34 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
+    },
+    {
+      "added_at": "2026-06-04 10:09:06",
+      "album": {
+        "name": "Na Cheli Rojave (From \"Roja (Telugu)\")",
+        "url": "https://open.spotify.com/album/0KQXMaVzEVAY1utDehxVcg"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Rajasri",
+          "url": "https://open.spotify.com/artist/3G5cb8bwTVQFkCWJH8n4sN"
+        }
+      ],
+      "duration_ms": 296472,
+      "name": "Na Cheli Rojave (From \"Roja (Telugu)\")",
+      "url": "https://open.spotify.com/track/6wdNGOxwjuMavsYa0PXHS2"
     },
     {
       "added_at": "2026-04-09 09:26:01",
@@ -1159,38 +1187,6 @@
       "duration_ms": 193269,
       "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
       "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
-    },
-    {
-      "added_at": "2026-04-21 07:49:59",
-      "album": {
-        "name": "Kosindhi Koyagura (From \"Garividi Lakshmi\")",
-        "url": "https://open.spotify.com/album/3C9dZFwaQHBV2q9dQg0oEu"
-      },
-      "artists": [
-        {
-          "name": "Charan Arjun",
-          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        },
-        {
-          "name": "Shakalaka Shankar",
-          "url": "https://open.spotify.com/artist/3zsWLkosae9jrNl91mPfep"
-        },
-        {
-          "name": "Gowri Naidu Jammu",
-          "url": "https://open.spotify.com/artist/0Kp0Wke4YuIpiOURO5YQrs"
-        },
-        {
-          "name": "Ganteda Gowru Naidu",
-          "url": "https://open.spotify.com/artist/1j2a0clOMa3POgduOGU0xF"
-        }
-      ],
-      "duration_ms": 212227,
-      "name": "Kosindhi Koyagura (From \"Garividi Lakshmi\")",
-      "url": "https://open.spotify.com/track/5hJftuo0CalcpGfqZk87BO"
     }
   ],
   "unique_name": "Trending Now Telugu",

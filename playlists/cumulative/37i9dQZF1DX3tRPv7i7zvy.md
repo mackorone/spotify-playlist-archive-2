@@ -4,7 +4,7 @@
 
 > We Outsideeeee!
 
-124 songs - 6 hr 5 min
+125 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Big Bricks II](https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu) | [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Big Bricks II](https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz) | 3:27 | 2026-04-20 |  |
 | [Big Spender](https://open.spotify.com/track/1JoFGbjrG9OIUHXSAc5LOt) | [AGGi](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c), [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Big Spender](https://open.spotify.com/album/4XVCnLM21GH3VeDLaIWqcI) | 2:53 | 2026-03-13 | 2026-03-27 |
 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 | 2025-10-24 | 2026-05-22 |
+| [Blue Film](https://open.spotify.com/track/56NlGx0wDzv2edxALjmknb) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Blue Film](https://open.spotify.com/album/0SpJUwHu44aSHL1f8xXDAE) | 2:56 | 2026-06-05 |  |
 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 | 2025-10-24 | 2026-05-22 |
 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-24 | 2026-05-22 |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2026-05-22 |  |
@@ -71,7 +72,7 @@
 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 | 2026-03-20 | 2026-05-01 |
 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-03-27 |
 | [Mhmm](https://open.spotify.com/track/6ohlaQjkpb0cMzaMF0VWfd) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [The Hardest \- EP](https://open.spotify.com/album/61kLuB0KVUCE6Rl2ZbFvzB) | 2:24 | 2026-03-16 | 2026-03-27 |
-| [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2026-05-22 |  |
+| [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2026-05-22 | 2026-06-05 |
 | [Money Makes The World Go Round \(MMTWGR\)](https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Young Daddy](https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm) | 2:27 | 2026-04-17 | 2026-05-15 |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2025-10-24 |  |
 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 | 2025-10-24 | 2026-05-22 |

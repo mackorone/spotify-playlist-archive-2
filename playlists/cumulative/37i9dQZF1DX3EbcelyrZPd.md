@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Marioo
+> Get your fill of vibes straight out of Tanzania\. Cover: Alikiba & Harmonize
 
-682 songs - 1 day 14 hr 47 min
+683 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [Tamu](https://open.spotify.com/track/3E6sOJY3T97VxlTxKzMymc) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK) | [Tamu](https://open.spotify.com/album/0BHxc5fl2n36fgslNyYbCt) | 3:40 | 2023-11-23 | 2024-03-15 |
 | [Tamu](https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Phina](https://open.spotify.com/artist/0P8iG03KHWTtOIcGUtBZGx) | [Tamu](https://open.spotify.com/album/2ECJ66uDhZZ1N7PFPMjblN) | 2:47 | 2022-07-21 | 2023-03-18 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2021-10-14 | 2022-09-02 |
-| [Tamu Chungu](https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Tamu Chungu](https://open.spotify.com/album/5hXDmk0ecC2SOXi1PFRh0e) | 3:37 | 2026-01-23 |  |
+| [Tamu Chungu](https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Tamu Chungu](https://open.spotify.com/album/5hXDmk0ecC2SOXi1PFRh0e) | 3:37 | 2026-01-23 | 2026-06-05 |
 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2021-12-06 | 2022-05-13 |
 | [Te Amo](https://open.spotify.com/track/56AmWoxQ6J153kTtA7GqBE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Above & Beyond](https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM) | 4:12 | 2023-08-03 | 2023-12-08 |
 | [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-14 | 2022-12-17 |
@@ -618,6 +618,7 @@
 | [Ushanitoka](https://open.spotify.com/track/0sSW395j2Mfyq8ojK914Q3) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Ushanitoka](https://open.spotify.com/album/6HjLx9wjOFERsZdxgKQL4y) | 2:45 | 2026-02-12 | 2026-05-29 |
 | [Usijichukulie Star](https://open.spotify.com/track/6hisHwCinS4fPRNAzYmrVk) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Usijichukulie Star](https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY) | 3:07 | 2022-08-18 | 2022-10-28 |
 | [Uta Dead](https://open.spotify.com/track/2GcsQMIOXPNmPLQ13wotX8) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [G\-Nako](https://open.spotify.com/artist/74STgSPNlhxWGLIpA5P97P) | [Uta Dead](https://open.spotify.com/album/7bLeImcReLapmFaumNymb1) | 4:38 | 2024-01-25 | 2024-06-21 |
+| [Utanionea](https://open.spotify.com/track/03ew6T1bKkiC73ZpamiyI9) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Utanionea](https://open.spotify.com/album/0RmWTSKVOyKwdkTevxFFv2) | 3:21 | 2026-06-05 |  |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 | 2024-01-26 |
 | [Utaonaje](https://open.spotify.com/track/7imIaiILBsQDjBjs9RB9rb) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Utaonaje](https://open.spotify.com/album/10vwqg8nJonBXhv0jF9zZv) | 3:35 | 2022-08-18 | 2023-06-09 |
 | [Utu](https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:04 | 2022-01-13 | 2023-01-27 |

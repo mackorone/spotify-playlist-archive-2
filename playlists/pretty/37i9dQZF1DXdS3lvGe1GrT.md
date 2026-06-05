@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ivy Knight
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,844 likes - 77 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,925 likes - 77 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 76 | [limn](https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O) | [isobel](https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA) | [limn](https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw) | 3:27 |
 | 77 | [\(easily\) moved](https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [other ways of landing](https://open.spotify.com/album/6hixxzEVFqx8PvdE0mDz3a) | 3:35 |
 
-Snapshot ID: `AAAAAJgdvi86kn1AfuuAUOsgUtXrbZxE`
+Snapshot ID: `AAAAANnS+lTtEIoNX35bLWkdykVE04JW`

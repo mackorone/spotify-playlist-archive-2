@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,884 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,887 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 37 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 38 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 | 39 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
-| 40 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
-| 41 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
+| 40 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
+| 41 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
 | 42 | [Flesk og Duppe](https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Flesk og Duppe](https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y) | 3:26 |
 | 43 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 |
 | 44 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 50 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 51 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
 | 52 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
-| 53 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 |
-| 54 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
+| 53 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
+| 54 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 55 | [Helt Ærlig](https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Helt Ærlig](https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y) | 2:48 |
-| 56 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
-| 57 | [Går i hundre](https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Går i hundre](https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J) | 2:41 |
-| 58 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
+| 56 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 |
+| 57 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
+| 58 | [Går i hundre](https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Går i hundre](https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J) | 2:41 |
 | 59 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
 | 60 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 61 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 |
 | 70 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
 
-Snapshot ID: `AAAAAD1+Tr058TrIvThTsaKGFRz24bIe`
+Snapshot ID: `AAAAAPoMixATihEndbiuqcMNRmn2aCoh`

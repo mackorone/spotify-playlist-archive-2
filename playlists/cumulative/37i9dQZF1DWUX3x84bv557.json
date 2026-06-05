@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Bente",
+  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Tauran & LUNA",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -6999,6 +6999,24 @@
     },
     {
       "album": {
+        "name": "Evenwicht",
+        "url": "https://open.spotify.com/album/19BKI7rucVVbFDQCDHHoEi"
+      },
+      "artists": [
+        {
+          "name": "Younes",
+          "url": "https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Evenwicht",
+      "url": "https://open.spotify.com/track/6UTpmCoIPNWYqmLePOGrgX"
+    },
+    {
+      "album": {
         "name": "Explosief",
         "url": "https://open.spotify.com/album/5a0MDVbq0KSVBKqxSTtFFE"
       },
@@ -12384,6 +12402,28 @@
       "duration_ms": 168206,
       "name": "Kleuterklas",
       "url": "https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A"
+    },
+    {
+      "album": {
+        "name": "Knipperlicht",
+        "url": "https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        },
+        {
+          "name": "Mikki van Wijk",
+          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156277,
+      "name": "Knipperlicht",
+      "url": "https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ"
     },
     {
       "album": {
@@ -21311,6 +21351,28 @@
     },
     {
       "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/1UmeapC8Q60EZ4SirUrv0R"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152885,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/7ve2v3YkXa512zMk6FM8a4"
+    },
+    {
+      "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
       },
@@ -23271,6 +23333,24 @@
     },
     {
       "album": {
+        "name": "Wat Blijft Er Over?",
+        "url": "https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165127,
+      "name": "Wat Blijft Er Over?",
+      "url": "https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ"
+    },
+    {
+      "album": {
         "name": "Wat Doe Je Nou",
         "url": "https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4"
       },
@@ -23452,6 +23532,24 @@
       "duration_ms": 155643,
       "name": "Wat Is Er Gebeurd",
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
+    },
+    {
+      "album": {
+        "name": "Wat Moed Dat Moet",
+        "url": "https://open.spotify.com/album/3GC7JQ0HiWJ8UUd9tpImlV"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157033,
+      "name": "Wat Moed Dat Moet",
+      "url": "https://open.spotify.com/track/5PeC99plYN7vQLhvoWzZni"
     },
     {
       "album": {

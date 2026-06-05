@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 806890,
+  "num_followers": 806911,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAaIHX/TDDAUJ855eBqgx50",
+  "snapshot_id": "ah9ugAAAAACJFbwtzAfGaGlHRHcmsEsa",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 243991,
-      "name": "The Ancient Art Of Always Fucking Up",
-      "url": "https://open.spotify.com/track/2QhTqfQwt4K5SKU50P1EEd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 243991,
+      "name": "The Ancient Art Of Always Fucking Up",
+      "url": "https://open.spotify.com/track/2QhTqfQwt4K5SKU50P1EEd"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+        "name": "Everytime (BBC Radio 1 Live Lounge)",
+        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/4lRSeOZ97LHOFDk5A0opcq"
+      "duration_ms": 181583,
+      "name": "Everytime - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime (BBC Radio 1 Live Lounge)",
-        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 181583,
-      "name": "Everytime - BBC Radio 1 Live Lounge",
-      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
+      "duration_ms": 219693,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/4lRSeOZ97LHOFDk5A0opcq"
     },
     {
       "added_at": null,

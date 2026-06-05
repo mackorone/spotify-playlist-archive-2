@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12899,
+  "num_followers": 12907,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABx6h0y0FvbbTXkak8+PtVx",
+  "snapshot_id": "ah9ugAAAAADQlE+pVnwyDXLGPp+0Qtmn",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 171450,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS"
+      "duration_ms": 204421,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/5AmoC1x1Tlj2kI5LXHysif"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 204421,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/5AmoC1x1Tlj2kI5LXHysif"
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 153530,
-      "name": "WIRED",
-      "url": "https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA"
+      "duration_ms": 171450,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,

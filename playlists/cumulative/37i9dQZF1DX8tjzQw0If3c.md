@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: NO TIME FOR SILENCE
 
-316 songs - 17 hr 12 min
+317 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 | 2025-09-08 | 2025-11-06 |
 | [I Do](https://open.spotify.com/track/2z4CjUPlmxlTperrWnuqAr) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [I Do](https://open.spotify.com/album/7e0QvZS2PRY4WiPAJfasBV) | 3:15 | 2026-04-06 |  |
 | [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 | 2025-04-16 |
+| [i wish im alright（抒情 版）](https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [no time for sober](https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF) | 3:37 | 2026-06-04 |  |
 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 | 2025-04-15 | 2026-04-07 |
 | [ijustneedtogetovermyself](https://open.spotify.com/track/4Zrakfu1tRUbPm9sDtg1vJ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [PRETTY PETTY](https://open.spotify.com/album/32T1x9lZobELmZms2YgrBU) | 0:45 | 2026-03-20 | 2026-04-07 |
 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-05-01 | 2026-04-07 |

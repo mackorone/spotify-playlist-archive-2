@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Ad\u00e8le Castillon",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Grand Corps Malade",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 206186,
       "name": "Ce que j'aime (feat. Nikola)",
       "url": "https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR"
+    },
+    {
+      "album": {
+        "name": "Ce qu'on devient",
+        "url": "https://open.spotify.com/album/1rIf7dwV3e6J6TFlQ2UYBs"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "Ce qu\u2019on devient - La cl\u00e9",
+      "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
     },
     {
       "album": {
@@ -2173,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "J'en ai pas encore fini",
+        "url": "https://open.spotify.com/album/4Z3JZPSywHfItYA8Tzqvgv"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208559,
+      "name": "J\u2019en ai pas encore fini",
+      "url": "https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr"
+    },
+    {
+      "album": {
         "name": "J\u2019veux du cuir",
         "url": "https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb"
       },
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193186,
       "name": "la vie est belle",
       "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
@@ -3384,6 +3420,24 @@
       "duration_ms": 194973,
       "name": "Les battements du c\u0153ur",
       "url": "https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ"
+    },
+    {
+      "album": {
+        "name": "Les beaux jours",
+        "url": "https://open.spotify.com/album/46JcFCyswNHPhVG3UMVjyq"
+      },
+      "artists": [
+        {
+          "name": "Charlie",
+          "url": "https://open.spotify.com/artist/4JB58mw2UzBuYz7EXNIZVu"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Les beaux jours",
+      "url": "https://open.spotify.com/track/49EoHRwiwXl0Y9fBgdVa3l"
     },
     {
       "album": {
@@ -4029,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Mieux que nous",
+        "url": "https://open.spotify.com/album/3KAy4eR1PFtMlDP2PXGbwQ"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177998,
+      "name": "Mieux que nous",
+      "url": "https://open.spotify.com/track/3J6WWLbj1i1EStaZNas0Q2"
+    },
+    {
+      "album": {
         "name": "Mille vagues",
         "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
       },
@@ -4368,7 +4440,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 157346,
       "name": "ordi par la fen\u00eatre",
       "url": "https://open.spotify.com/track/5QeBageLpTOxXRGf6P8gWV"
@@ -4798,7 +4870,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172866,
       "name": "Quand on s'engueule",
       "url": "https://open.spotify.com/track/2R8VKVsNT5wi8QU08n73ed"
@@ -5166,7 +5238,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163870,
       "name": "scooter",
       "url": "https://open.spotify.com/track/4r6QJshe2B6RF336xuhLIO"

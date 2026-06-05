@@ -5403,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/39hXclK6hPWE49b0mOE9dJ"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110965,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60cNwtuht41p3FAjoULpYp"
+    },
+    {
+      "album": {
         "name": "destination heartbreak pt. 2",
         "url": "https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8"
       },

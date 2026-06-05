@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Fat Dog",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: horse",
   "name": "Wire",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 133749,
       "name": "Cult of Celebrity",
       "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182124,
       "name": "Cut It Out",
       "url": "https://open.spotify.com/track/3ZGUHN7vCL1ylsV7pV0X79"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193684,
       "name": "Division",
       "url": "https://open.spotify.com/track/1e6ahg07F2G2fu0FBdylay"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "gloss",
+        "url": "https://open.spotify.com/album/5cB6ytAOOS0PSbkWewmteI"
+      },
+      "artists": [
+        {
+          "name": "horse",
+          "url": "https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "gloss",
+      "url": "https://open.spotify.com/track/4954IoAJu2QJAYZBDWTn6F"
+    },
+    {
+      "album": {
         "name": "Go Fuck Urself",
         "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 122375,
       "name": "Is That A Prayer?",
       "url": "https://open.spotify.com/track/4hWulk2MmnTTgLzYC8IMmW"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 197997,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/6qOsoCLbqPSGECCdOHPWlu"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 211000,
       "name": "Just a Memory",
       "url": "https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 181049,
       "name": "Keychain",
       "url": "https://open.spotify.com/track/2VOhFvluZlMT2wHIuJWkR1"
@@ -1790,6 +1808,24 @@
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
+        "name": "Leave A Mark",
+        "url": "https://open.spotify.com/album/0yJS0zTmSGWRXgFt4D5MV6"
+      },
+      "artists": [
+        {
+          "name": "ENOLA",
+          "url": "https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168961,
+      "name": "Leave A Mark",
+      "url": "https://open.spotify.com/track/1RJmbBwKvmFQAOBoJnkmHd"
     },
     {
       "album": {
@@ -1898,6 +1934,24 @@
       "duration_ms": 271653,
       "name": "Lucinda (EM)",
       "url": "https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS"
+    },
+    {
+      "album": {
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216208,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
     },
     {
       "album": {
@@ -2038,7 +2092,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 212497,
       "name": "NEW AGE",
       "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
@@ -2056,7 +2110,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166414,
       "name": "New Case",
       "url": "https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf"
@@ -2769,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "She Doesn't Want Me to Exist",
+        "url": "https://open.spotify.com/album/2d1klica3y6jk7nRt413XI"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161181,
+      "name": "She Doesn't Want Me to Exist",
+      "url": "https://open.spotify.com/track/54donuwNKWydMCljWGvJK8"
+    },
+    {
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/2YzSbPtiRvuUf6CogAbNcE"
       },
@@ -2780,7 +2852,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 236898,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/4QMNfomTyuHSNStuWlxsIP"
@@ -2968,7 +3040,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 236307,
       "name": "spill",
       "url": "https://open.spotify.com/track/6hnS1s3LCpOhIIeutpoGGp"
@@ -3062,7 +3134,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 268800,
       "name": "Step On It",
       "url": "https://open.spotify.com/track/0DW31s848ybq7FMG8szgCq"
@@ -3170,7 +3242,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 268034,
       "name": "The Gap",
       "url": "https://open.spotify.com/track/0QqS4DQq9tVaQZwP1977M7"
@@ -3246,7 +3318,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 158981,
       "name": "The Sound It Made",
       "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"

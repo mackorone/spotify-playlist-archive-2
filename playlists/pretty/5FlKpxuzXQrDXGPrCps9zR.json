@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABuJaBwvBrn4hxI/3qRV8bqBGaetHn",
+  "snapshot_id": "AAABuceKNb9E84JQ1FUp4SS6LAnpLiyk",
   "tracks": [
     {
       "added_at": "2025-11-12 19:32:04",
@@ -311,6 +311,26 @@
       "duration_ms": 180866,
       "name": "Washed Up",
       "url": "https://open.spotify.com/track/793tMto9guBs0X6c44R5mH"
+    },
+    {
+      "added_at": "2026-06-04 15:42:24",
+      "album": {
+        "name": "I Wanna Thank Me (feat. Niecy Nash)",
+        "url": "https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Niecy Nash",
+          "url": "https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD"
+        }
+      ],
+      "duration_ms": 143211,
+      "name": "I Wanna Thank Me (feat. Niecy Nash)",
+      "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
     }
   ],
   "unique_name": "THE playlist",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,322 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,327 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 19 | [Wait](https://open.spotify.com/track/1a6UHurblcrtU4TaQKAuCh) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Wait](https://open.spotify.com/album/1PvWj600C3raX8Un0c5g3j) | 2:30 |
 | 20 | [We Raise A Sound](https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [We Raise A Sound](https://open.spotify.com/album/5ekhrynccEoe3lkq2c5wKh) | 8:22 |
 | 21 | [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 |
-| 22 | [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 |
+| 22 | [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 |
 | 23 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
 | 24 | [Hallelujah](https://open.spotify.com/track/2tdi2OCyNAwZ76Fkv7W0ye) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Hallelujah](https://open.spotify.com/album/6Y3HQKvIj7f5PJU52X4MOn) | 2:42 |
 | 25 | [GOOD FEELIN](https://open.spotify.com/track/3kDMSBvc2zfjZBjvFqV8ZQ) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [GOOD FEELIN](https://open.spotify.com/album/1YCEfz6hbynNiARp90E1DV) | 2:31 |

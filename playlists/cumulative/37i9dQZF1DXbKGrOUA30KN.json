@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: JORIS",
+  "description": "Deutschpop, der jetzt passiert. Cover: NESS",
   "name": "POPLAND",
   "tracks": [
     {
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 133303,
       "name": "Das Gute gewinnt",
       "url": "https://open.spotify.com/track/2eKCeXpYdqb8uNGPEzahxD"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 142702,
       "name": "Das ist ihr Leben",
       "url": "https://open.spotify.com/track/7ttoSa7JDjDzuNScgShppO"
@@ -2535,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Einfach Nichts",
+        "url": "https://open.spotify.com/album/3taHpQuD4yeFghjzdgQYTl"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194524,
+      "name": "Einfach Nichts",
+      "url": "https://open.spotify.com/track/1DaQUiNLccpiUHfVmgyeR5"
+    },
+    {
+      "album": {
         "name": "Einmal alles bitte (mit Clara L\u00f6sel)",
         "url": "https://open.spotify.com/album/3XgXBNn7bTj857fqR90pWM"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152000,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/7tlDFgaUdpPyshhNSWG83J"
@@ -2940,6 +2958,24 @@
       "duration_ms": 121461,
       "name": "Flaschenpost",
       "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
+    },
+    {
+      "album": {
+        "name": "Fluchtinstinkt",
+        "url": "https://open.spotify.com/album/5J4Ev9gRKnZR514YieFQU9"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170033,
+      "name": "Fluchtinstinkt",
+      "url": "https://open.spotify.com/track/3FHJTdWmTrvK4FG4mOnslp"
     },
     {
       "album": {
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163487,
       "name": "Gro\u00df geworden",
       "url": "https://open.spotify.com/track/1y9WBRvy5nrWhs0fd9wpbu"
@@ -3540,6 +3576,24 @@
       "duration_ms": 147096,
       "name": "G\u00e4nsehaut",
       "url": "https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE"
+    },
+    {
+      "album": {
+        "name": "Hagel",
+        "url": "https://open.spotify.com/album/62ULjpvgykNBjPmaTMAj1n"
+      },
+      "artists": [
+        {
+          "name": "wylhem",
+          "url": "https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143488,
+      "name": "Hagel",
+      "url": "https://open.spotify.com/track/12H7CpNK4QdPCXllsHkK0t"
     },
     {
       "album": {
@@ -3630,6 +3684,24 @@
       "duration_ms": 186064,
       "name": "Hamsterrad Tristesse",
       "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
+    },
+    {
+      "album": {
+        "name": "Happy sein",
+        "url": "https://open.spotify.com/album/1gTBc47T96r7buwX2WIhxP"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "Happy sein",
+      "url": "https://open.spotify.com/track/7vJjeC2DyFrLqkaagsVcfC"
     },
     {
       "album": {
@@ -4330,7 +4402,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 133203,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/1PzmXd3fq3mQjg31klYXsY"
@@ -4744,6 +4816,24 @@
       "duration_ms": 177203,
       "name": "kaputtes herz",
       "url": "https://open.spotify.com/track/2J7SkJzBf3DAu3QAQog207"
+    },
+    {
+      "album": {
+        "name": "Karussell",
+        "url": "https://open.spotify.com/album/7MzWGn1G8zfiL1nGimG3lp"
+      },
+      "artists": [
+        {
+          "name": "Kuult",
+          "url": "https://open.spotify.com/artist/2Td6ES1bTpY7705VTTwzzk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Karussell",
+      "url": "https://open.spotify.com/track/62h71FnrjI6DTEPsnkePi9"
     },
     {
       "album": {
@@ -6140,7 +6230,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 136720,
       "name": "Merci Ch\u00e9rie - Eine Hommage an Udo J\u00fcrgens",
       "url": "https://open.spotify.com/track/1xm3ihvK0g2eKBdOqHUjOG"
@@ -6617,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "nie allein",
+        "url": "https://open.spotify.com/album/1ybGEVDVnWvBvNmiZOFepj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188097,
+      "name": "nie allein",
+      "url": "https://open.spotify.com/track/1SpDDYa4qBXiidvuxWZU8T"
+    },
+    {
+      "album": {
         "name": "Nie Ganz Kapiert",
         "url": "https://open.spotify.com/album/43FXPsYCJMqosF0PDZ8GLC"
       },
@@ -6664,7 +6776,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 113684,
       "name": "Nie mehr f\u00fcr immer",
       "url": "https://open.spotify.com/track/4rTKY2Iu3xmeAJwBr9aAMl"
@@ -7321,6 +7433,24 @@
     },
     {
       "album": {
+        "name": "pirouetten",
+        "url": "https://open.spotify.com/album/35ezrN378gBIK6OLHAhvcE"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122681,
+      "name": "pirouetten",
+      "url": "https://open.spotify.com/track/2EXoZOOeQ170NVUbwlaIhO"
+    },
+    {
+      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/1LA7G0YA9KMLm7KxoRwMLh"
       },
@@ -7470,6 +7600,24 @@
       "duration_ms": 177534,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6hFOFBz6iqx5JTXli7h7di"
+    },
+    {
+      "album": {
+        "name": "Raus aus der Stadt",
+        "url": "https://open.spotify.com/album/6bsebU9LGTId5J2SFk6sJ9"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144105,
+      "name": "Raus aus der Stadt",
+      "url": "https://open.spotify.com/track/2Y2aEdqKArkM2YuF3U6iWa"
     },
     {
       "album": {
@@ -7740,7 +7888,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 162288,
       "name": "Seelenruhig",
       "url": "https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB"
@@ -7780,6 +7928,24 @@
       "duration_ms": 211612,
       "name": "SEHNSUCHT",
       "url": "https://open.spotify.com/track/23nvSc6l82ANajc3BVpHt4"
+    },
+    {
+      "album": {
+        "name": "seit ich dich mag",
+        "url": "https://open.spotify.com/album/28iIVGoG5I8bMoL8FBVU8T"
+      },
+      "artists": [
+        {
+          "name": "cami",
+          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175934,
+      "name": "seit ich dich mag",
+      "url": "https://open.spotify.com/track/0lqROLcSPTYSIZ9YjKtvX6"
     },
     {
       "album": {
@@ -7834,6 +8000,24 @@
       "duration_ms": 137373,
       "name": "Sexy & Sad",
       "url": "https://open.spotify.com/track/3YTislS8mQHCWWx3cc82R8"
+    },
+    {
+      "album": {
+        "name": "Sie Will Nur Frieden",
+        "url": "https://open.spotify.com/album/1UrJJ74RXLK4PwnKp0x4PS"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166335,
+      "name": "Sie Will Nur Frieden",
+      "url": "https://open.spotify.com/track/5j3jgJV8N68Ik2lX0D4H5h"
     },
     {
       "album": {
@@ -8228,7 +8412,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 187500,
       "name": "Stolz auf dich",
       "url": "https://open.spotify.com/track/63DlZ36ns5cwDmPgeDXqjB"
@@ -9544,7 +9728,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 223595,
       "name": "Wenn du mich vergisst (aus \"Sing meinen Song, Vol. 13\")",
       "url": "https://open.spotify.com/track/0ragv77hGmWVox3ZwlqN7j"
@@ -9638,6 +9822,24 @@
       "duration_ms": 141272,
       "name": "Wenn ich du w\u00e4re",
       "url": "https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca"
+    },
+    {
+      "album": {
+        "name": "Alles nur geliehen",
+        "url": "https://open.spotify.com/album/6BfpgxqnnrCJ0a63JoMjVN"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183910,
+      "name": "Wenn ich einmal Kinder habe",
+      "url": "https://open.spotify.com/track/7s4LOxtTwnFCUDpG5FDpSQ"
     },
     {
       "album": {
@@ -9869,6 +10071,24 @@
     },
     {
       "album": {
+        "name": "Wo diese Liebe hinf\u00e4llt (Krater)",
+        "url": "https://open.spotify.com/album/4ewZqTSmsqygHZf0ywDm7I"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Jones",
+          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "Wo diese Liebe hinf\u00e4llt (Krater)",
+      "url": "https://open.spotify.com/track/5pZgHJlcOqAfwbYvef8fLx"
+    },
+    {
+      "album": {
         "name": "wof\u00fcr es sich zu leben lohnt",
         "url": "https://open.spotify.com/album/3IzDuDVKBjUCXADamU2LaB"
       },
@@ -9880,7 +10100,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152724,
       "name": "wof\u00fcr es sich zu leben lohnt",
       "url": "https://open.spotify.com/track/0lhvWUPpRFqP6ySKAU0qd6"
@@ -10068,7 +10288,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 121084,
       "name": "Zu jung",
       "url": "https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj"

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,431 songs - 9 day 20 hr 47 min
+4,436 songs - 9 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [Drifting](https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT) | [Rythmora](https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9) | [Drifting](https://open.spotify.com/album/5Y28dauWThEhzg0yaQM4kE) | 2:08 | 2025-10-21 |  |
 | [Drill Shiit](https://open.spotify.com/track/204G33iY2R17eXbrLqcujJ) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8) | [Drill Shiit](https://open.spotify.com/album/6AK5fztTMgzPCzCdJ9WNW2) | 2:12 | 2025-06-04 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
+| [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 | 2026-06-04 |  |
 | [Drowned in Happiness](https://open.spotify.com/track/3ZfD9vM0hFD9brYtkIOfLA) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Drowned in Happiness](https://open.spotify.com/album/2ig521z90zucSyjziFjJXo) | 12:33 | 2025-06-04 |  |
 | [Drowning In Shadows](https://open.spotify.com/track/7jmsA5Z8QAUzALUKbOdeKQ) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Bhula Do Mujhe](https://open.spotify.com/album/2Ush8qugIh8gZIdDWmhhk0) | 4:31 | 2025-07-02 |  |
 | [Drug Addict](https://open.spotify.com/track/00XB6iV4vugA4ZZgpZyAQ6) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Drug Addict](https://open.spotify.com/album/4NRsBPa8n5fKZesdlYpWmc) | 1:23 | 2025-10-14 |  |
@@ -1546,6 +1547,7 @@
 | [Fuffa guru](https://open.spotify.com/track/3Wd1gEVqbecae4YhNlj0nv) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 2:09 | 2025-06-08 |  |
 | [Fuffa Guru](https://open.spotify.com/track/3sbtoQArwMwvb7jDSBY8lV) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 2:09 | 2025-04-04 |  |
 | [Fuffa Guru](https://open.spotify.com/track/7mxtnLVsgHS0SwiHnSDqBi) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 2:09 | 2025-05-12 |  |
+| [Fui viento](https://open.spotify.com/track/1MAzLdwWsZstmPZAxFjgYH) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Fui viento](https://open.spotify.com/album/5f3qzYVHLOXS4KMC4N4SjB) | 3:58 | 2026-06-04 |  |
 | [Full Circle](https://open.spotify.com/track/0UAuFyVgVbHRuaYypmpW9W) | [Vigilant Sun](https://open.spotify.com/artist/4CKxxKaa8QGZ4nsZJ0gGj2) | [Vigilant Sun](https://open.spotify.com/album/59buI0FjiizLzAsLPYBPkJ) | 5:55 | 2025-07-08 |  |
 | [FUN](https://open.spotify.com/track/3UTvqdZjA61LjguWV7ZiAB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 4:09 | 2025-08-28 |  |
 | [Funky Rhythm](https://open.spotify.com/track/7bGxkOfpKKuYpNBhHrx7sG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Funky Soul Music](https://open.spotify.com/album/3KehnrvqZF13rykMwdngd5) | 1:53 | 2025-05-31 |  |
@@ -3098,6 +3100,7 @@
 | [Relato de tu piel](https://open.spotify.com/track/0nSVNJKx1PWhK6MxAsjXxE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:54 | 2026-03-15 |  |
 | [Relax](https://open.spotify.com/track/0XLDuwC2BUMr54SU1LCYX8) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Relax](https://open.spotify.com/album/2wq8ECH2d938pINlrNdwzd) | 2:19 | 2025-05-27 |  |
 | [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 | 2026-03-27 |  |
+| [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 | 2026-06-04 |  |
 | [Remember My Name](https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Remember My Name](https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd) | 3:46 | 2025-02-02 |  |
 | [Remember That Time \- Demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [Remember That Time \(Demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |
@@ -3796,6 +3799,7 @@
 | [The Comeback Kid](https://open.spotify.com/track/70duDlgOF7i2GLB0Lugtwt) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:26 | 2025-07-01 |  |
 | [The Creeps](https://open.spotify.com/track/2N2KVihh0v9I0hV28c9bIk) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [The Creeps](https://open.spotify.com/album/0kvUTplWYsofiXs6rgfD54) | 4:50 | 2025-11-05 |  |
 | [The Creeps](https://open.spotify.com/track/7HsjovFiqgeIVjlwhh3EkK) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 4:50 | 2025-11-05 |  |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-06-04 |  |
 | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/track/4SQbNwdCGrHqdbK0ybRdH7) | [The Bliss Machine](https://open.spotify.com/artist/61ah4S257JAMWo56rMHd0T) | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/album/7pSr4IE7sSSHgXHIYZmaez) | 4:35 | 2025-12-04 |  |
 | [The Divide](https://open.spotify.com/track/5WIkiKpEVdi277Pmz08Dd2) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:39 | 2026-04-13 |  |
 | [The Divide \(Him & Her\)](https://open.spotify.com/track/1BKsSyIw4bcDgsE10wkumz) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:32 | 2026-04-13 |  |
@@ -4002,6 +4006,7 @@
 | [Tuli Babi](https://open.spotify.com/track/1rAR9meKtTImO8vxGlJqZb) | [1Mud Arvie](https://open.spotify.com/artist/08MIueXVv5RBO4d0hBtf4p) | [Tuli Babi](https://open.spotify.com/album/2o4qP2M4MXTT4izKJZTmC1) | 2:47 | 2025-11-25 |  |
 | [tum tum switch 2](https://open.spotify.com/track/63N2zHOulZp2WqaRIvDLKM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:14 | 2025-12-10 |  |
 | [Tumse Pyar Hua । तुमसे प्यार हुआ \- This is Track 3 of Album "Pyar Ke Rang"](https://open.spotify.com/track/07jm7YnF8E1kQHONLscm4U) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tumse Pyar Hua । तुमसे प्यार हुआ](https://open.spotify.com/album/6g1NQvbfB6A2baPs3d8MMM) | 4:06 | 2025-05-06 |  |
+| [Turn](https://open.spotify.com/track/1ZMHbVw3RrHW3cv5EQLfsV) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Turn](https://open.spotify.com/album/63285USOAY4dxs2B7abc0g) | 4:51 | 2026-06-04 |  |
 | [Turn Up the Night](https://open.spotify.com/track/6YL8Cncd1LI3Rn9pDSVuf5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:53 | 2025-09-15 |  |
 | [Turn Up the Night \(another\)](https://open.spotify.com/track/62Eh141ij7gAnhrh4SQ8kJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:48 | 2025-09-15 |  |
 | [Tutta La Notte](https://open.spotify.com/track/6hGqWpUkuPDgw2I8F2K2NH) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [Tutta La Notte](https://open.spotify.com/album/4ruH46F6x8Hs3x0Z3hu396) | 2:39 | 2026-02-13 |  |

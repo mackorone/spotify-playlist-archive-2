@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Wild Rivers, Ray LaMontagne and more",
+  "description": "With John Mayer, Ray LaMontagne, Leon Bridges and more",
   "name": "Carry Me Away Radio",
   "tracks": [
     {
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 163146,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/71fcNlXfJu1aWQmABFyZ2j"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 251324,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/4aG6rfex37SDyRwBEi9hqM"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 247793,
       "name": "Call It a Night",
       "url": "https://open.spotify.com/track/6Y5chnfpGt3f6HM5xA8Pd1"
@@ -6449,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Guess I'm Grown Now",
+        "url": "https://open.spotify.com/album/7JpX4gmNn0zAtEgWGERWwH"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Dreams Tonight",
+      "url": "https://open.spotify.com/track/6NZ4EWRyx2Kucb0ExILkjK"
+    },
+    {
+      "album": {
         "name": "Guess I\u2019m Grown Now",
         "url": "https://open.spotify.com/album/76BxrqfWvYqkx5LKgunLPc"
       },
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 196386,
       "name": "For Life (Take You Out, Treat You Right)",
       "url": "https://open.spotify.com/track/4cihlIG9MQWqFN64CR1kSa"
@@ -9810,7 +9828,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 235024,
       "name": "Halfway Up",
       "url": "https://open.spotify.com/track/4iB4ES81d7HYw0oqwQ6FRM"
@@ -12150,7 +12168,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 254213,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
@@ -13110,7 +13128,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 220599,
       "name": "If You Were the Rain",
       "url": "https://open.spotify.com/track/3nzxUxoX9avzTPsQm6hq08"
@@ -14740,7 +14758,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 245186,
       "name": "Let's See What The Night Can Do",
       "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
@@ -16248,7 +16266,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 189186,
       "name": "Love Too Much",
       "url": "https://open.spotify.com/track/0uQVkqWdjmjI2PyBeXHJDS"
@@ -17792,7 +17810,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 272743,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) \u2013 Live at the Troubadour",
       "url": "https://open.spotify.com/track/5cOTSDfDfjX4NLRZBsGlNd"
@@ -22590,7 +22608,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
@@ -24384,7 +24402,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
@@ -25260,6 +25278,24 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
+    },
+    {
+      "album": {
+        "name": "Love Is a Four Letter Word",
+        "url": "https://open.spotify.com/album/7oD9oCCtFhg5RoLtMR5TKl"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190751,
+      "name": "The Woman I Love",
+      "url": "https://open.spotify.com/track/6Vn8lTVMjILXQCjZUXS8n4"
     },
     {
       "album": {
@@ -27548,7 +27584,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 185946,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/0v8iaQnFPT8qkicB880pAr"
@@ -29114,7 +29150,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 213173,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"

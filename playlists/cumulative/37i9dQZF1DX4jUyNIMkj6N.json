@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "know me",
+        "url": "https://open.spotify.com/album/0jBG8K1izc6jovvuVk0s5H"
+      },
+      "artists": [
+        {
+          "name": "Palegengas",
+          "url": "https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215244,
+      "name": "know me",
+      "url": "https://open.spotify.com/track/1VClV5m249HOzIwkr8FX8C"
+    },
+    {
+      "album": {
         "name": "Kom heim",
         "url": "https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF"
       },
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159697,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"

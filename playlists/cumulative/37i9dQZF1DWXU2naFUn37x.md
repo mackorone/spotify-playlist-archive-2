@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> RRARI DAL TACCO in cover della playlist dello street rap italiano ⛓️
+> G.Mineiro in cover della playlist dello street rap italiano ⛓️
 
 1,075 songs - 2 day 0 hr 48 min
 

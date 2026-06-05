@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Fito Silva, Cachirula y LOOJAN en portada ",
-  "num_followers": 849349,
+  "num_followers": 849397,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Todos nos Shipean",
-        "url": "https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4"
+        "name": "Seguro Le Doli\u00f3",
+        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
       "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 136588,
-      "name": "Todos nos Shipean",
-      "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
+      "duration_ms": 149459,
+      "name": "Seguro Le Doli\u00f3",
+      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Seguro Le Doli\u00f3",
-        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
+        "name": "Todos nos Shipean",
+        "url": "https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4"
       },
       "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 149459,
-      "name": "Seguro Le Doli\u00f3",
-      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+      "duration_ms": 136588,
+      "name": "Todos nos Shipean",
+      "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+        "name": "Duras",
+        "url": "https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
         }
       ],
-      "duration_ms": 171627,
-      "name": "En La Misma Cama",
-      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
+      "duration_ms": 159428,
+      "name": "Duras",
+      "url": "https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -623,22 +639,6 @@
       "duration_ms": 181933,
       "name": "Ruleta Rusa",
       "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
-        "name": "Duras",
-        "url": "https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3"
-      },
-      "artists": [
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Duras",
-      "url": "https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
+        "name": "La Buena",
+        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "La Buena",
+      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 223843,
       "name": "Salma Hayek",
       "url": "https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
-        "name": "La Buena",
-        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "La Buena",
-      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 202941,
       "name": "Me Est\u00e1 Doliendo",
       "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "Las Dos Me Duelen",
         "url": "https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 224706,
       "name": "Las Dos Me Duelen",
       "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
+        "name": "Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
         "name": "Por Ella (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 181253,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
-        "name": "Norte\u00f1a",
-        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Volver a Ti",
-      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Injusto - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 284336,
-      "name": "Injusto - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 132923,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Injusto - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 284336,
+      "name": "Injusto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Millonari",
-        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
-      },
-      "artists": [
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Millonari",
-      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
         "url": "https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 186669,
       "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
       "url": "https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Millonari",
+        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
+      },
+      "artists": [
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Millonari",
+      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
     },
     {
       "added_at": "2026-05-29 06:00:30",

@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-419 songs - 1 day 1 hr 11 min
+420 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 | 2022-07-14 | 2022-10-25 |
 | [Kaleidoscope Dream](https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS) | [Kaleidoscope Dream](https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |
+| [know me](https://open.spotify.com/track/1VClV5m249HOzIwkr8FX8C) | [Palegengas](https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj) | [know me](https://open.spotify.com/album/0jBG8K1izc6jovvuVk0s5H) | 3:35 | 2026-06-04 |  |
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 | 2023-12-08 | 2025-01-19 |
 | [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 | 2023-12-14 | 2024-06-01 |
@@ -324,7 +325,7 @@
 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 | 2023-01-05 | 2023-02-21 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2024-01-26 |
 | [Tell Me Something True](https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr) | [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [Tell Me Something True](https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS) | 3:22 | 2025-08-21 | 2025-09-26 |
-| [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-08 |  |
+| [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-08 | 2026-06-05 |
 | [Tennessee](https://open.spotify.com/track/3srDr6WrS76aa0fjbLZdhr) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [My Roots](https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes) | 2:39 | 2026-02-13 | 2026-04-16 |
 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 | 2026-05-14 |  |
 | [The Call is Coming From Inside The House](https://open.spotify.com/track/2lXJCd5rmWww7o8TRSp6eC) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [The Call is Coming From Inside The House](https://open.spotify.com/album/5IH0cLLusgDP2H2lRs6M3y) | 3:04 | 2025-04-10 | 2025-09-19 |

@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 184383,
       "name": "600 Racks",
       "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
@@ -5776,7 +5776,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/4oxDHyzQF7QgUBtm9AT3fH"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
@@ -6417,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Bruddas",
+        "url": "https://open.spotify.com/album/4est0ZP9XGY1ADTb1ZkZ4E"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Bruddas",
+      "url": "https://open.spotify.com/track/1ZNxDMwgQXmFUTfeVEAtL9"
+    },
+    {
+      "album": {
         "name": "Gumbo",
         "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
       },
@@ -6690,7 +6708,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 111699,
       "name": "Butta B",
       "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
@@ -6708,7 +6726,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 111699,
       "name": "Butta B",
       "url": "https://open.spotify.com/track/5LjDN2H72mbTcahtSbhEfD"
@@ -9187,6 +9205,36 @@
     },
     {
       "album": {
+        "name": "Dallas Bizness (feat. Montana 700, Zillionaire Doe & Hustleman Quise)",
+        "url": "https://open.spotify.com/album/0y1o5DaxdD0tunciUkHjtm"
+      },
+      "artists": [
+        {
+          "name": "HeadHuncho Amir",
+          "url": "https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm"
+        },
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        },
+        {
+          "name": "Hustleman Quise",
+          "url": "https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225185,
+      "name": "Dallas Bizness (feat. Montana 700, Zillionaire Doe & Hustleman Quise)",
+      "url": "https://open.spotify.com/track/4xwqh82cWFMFbdyhdfnpYX"
+    },
+    {
+      "album": {
         "name": "CHILDREN OF THE SLUMS",
         "url": "https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz"
       },
@@ -9680,7 +9728,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 192700,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0JBSjvu8oncHkS48WV9DoH"
@@ -10432,7 +10480,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195918,
       "name": "Dogshit",
       "url": "https://open.spotify.com/track/30fkvEGw8aFiLwlWN26v4v"
@@ -10864,6 +10912,24 @@
       "duration_ms": 123500,
       "name": "Dopeman",
       "url": "https://open.spotify.com/track/4bJbcPwBLjpypE3SSUJMfX"
+    },
+    {
+      "album": {
+        "name": "Until Then",
+        "url": "https://open.spotify.com/album/1KCmyHrKEbiDB9hasbnA7B"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129966,
+      "name": "Double Shot",
+      "url": "https://open.spotify.com/track/5f9dfEC9t9vzUzH3QxcQMT"
     },
     {
       "album": {
@@ -16153,6 +16219,24 @@
     },
     {
       "album": {
+        "name": "SCOOMSDAY",
+        "url": "https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94426,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/24vvHba3Zn87fMUMQ5l058"
+    },
+    {
+      "album": {
         "name": "Gucci Flow",
         "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
       },
@@ -17084,7 +17168,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 169075,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/4IzdWeYb2jeMVLoCqTAsgV"
@@ -17540,7 +17624,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 135020,
       "name": "Hittin For",
       "url": "https://open.spotify.com/track/10UAlRQxCJyof5HnfmNRQA"
@@ -18350,7 +18434,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 154777,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo"
@@ -18376,7 +18460,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 154777,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/7btm6Amqf5fcSttlOxo00y"
@@ -21816,7 +21900,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 137160,
       "name": "Laughing 2 Da Bank",
       "url": "https://open.spotify.com/track/789sf2l465rVElfKxPY4It"
@@ -21882,6 +21966,28 @@
       "duration_ms": 213608,
       "name": "Lay Down (feat. GloRilla) - Remix",
       "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/4THqnp5AGT1ZtA94wtcrYb"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/22HQqPzsM2kl79Ck1mJIAP"
     },
     {
       "album": {
@@ -22412,6 +22518,24 @@
       "duration_ms": 157377,
       "name": "Levels",
       "url": "https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH"
+    },
+    {
+      "album": {
+        "name": "Leverage",
+        "url": "https://open.spotify.com/album/03tYOwoE3V8iOFsuLeeWkS"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184411,
+      "name": "Leverage",
+      "url": "https://open.spotify.com/track/53yvq11tzawLo4jG2Ntc7U"
     },
     {
       "album": {
@@ -24040,7 +24164,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 143908,
       "name": "Max Payne",
       "url": "https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja"
@@ -29214,7 +29338,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/6B2FtBtIds4rqeLPTW0D76"
@@ -29236,7 +29360,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
@@ -30238,7 +30362,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 240651,
       "name": "PIECES ON MY NECK. FT. 21 SAVAGE.",
       "url": "https://open.spotify.com/track/4TDYdPYPWOAEUpNoKhe706"
@@ -30260,7 +30384,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 240651,
       "name": "PIECES ON MY NECK. FT. 21 SAVAGE.",
       "url": "https://open.spotify.com/track/57WdIHBSsisHLhn2gdsXr7"
@@ -30362,7 +30486,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166756,
       "name": "Pink Candy",
       "url": "https://open.spotify.com/track/5xEHlUFmaDQNE72EYQZLCw"
@@ -34837,6 +34961,28 @@
     },
     {
       "album": {
+        "name": "Secret Indictment",
+        "url": "https://open.spotify.com/album/3byaONLhCK35Oh3FzftsRc"
+      },
+      "artists": [
+        {
+          "name": "Enphamus",
+          "url": "https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196372,
+      "name": "Secret Indictment",
+      "url": "https://open.spotify.com/track/4rD5qxURCWoEjlqTAccepX"
+    },
+    {
+      "album": {
         "name": "30 Story",
         "url": "https://open.spotify.com/album/1LBGY9UEF54xFOCspyEuuE"
       },
@@ -38478,7 +38624,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 207777,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0YKijWRtqotIR5EUmR2eyt"
@@ -38496,7 +38642,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 207777,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/15LA3MVEKT2t5IQeUUNmZy"
@@ -39068,7 +39214,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 124734,
       "name": "Swing The Sword",
       "url": "https://open.spotify.com/track/1mN0DRnhkiZmvYnirrfpWu"
@@ -41687,6 +41833,24 @@
     },
     {
       "album": {
+        "name": "Trunk Beating",
+        "url": "https://open.spotify.com/album/3C9JWINdLb4nIq4FQOSleN"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Trunk Beating",
+      "url": "https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT"
+    },
+    {
+      "album": {
         "name": "I Might Forgive",
         "url": "https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU"
       },
@@ -43900,7 +44064,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
@@ -43918,7 +44082,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 140538,
       "name": "Went Legit (Bonus)",
       "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
@@ -45576,6 +45740,24 @@
       "duration_ms": 200771,
       "name": "WTW",
       "url": "https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn"
+    },
+    {
+      "album": {
+        "name": "WYM",
+        "url": "https://open.spotify.com/album/7fR35wOaGxMQWaa2SQpdv2"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124946,
+      "name": "WYM",
+      "url": "https://open.spotify.com/track/1wZb12R2PfoZ0s0Fxlcbug"
     },
     {
       "album": {

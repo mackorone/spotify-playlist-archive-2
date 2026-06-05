@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 500,
+  "num_followers": 501,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADnJX+RFL+p6OD0XdZR0g86",
+  "snapshot_id": "ah9ugAAAAADNPf4D7Sg0XbBl0rutoxP2",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unraveling",
-        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Unraveling",
-      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 187146,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unraveling",
+        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Unraveling",
+      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Sinking Like a Stone",
-      "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
+      "duration_ms": 215880,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0NpzUjKdvyX9iTGSz24TvN"
     },
     {
       "added_at": null,

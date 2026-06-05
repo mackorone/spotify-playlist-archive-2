@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "DANTE in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "LILCR in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1800,6 +1800,24 @@
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "STABLE MUSIC",
+        "url": "https://open.spotify.com/album/60dzA7He9J557TwJjx03cE"
+      },
+      "artists": [
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173132,
+      "name": "500 CV",
+      "url": "https://open.spotify.com/track/2kNqsnXA6drORQex7KSxJQ"
     },
     {
       "album": {
@@ -11426,7 +11444,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172175,
       "name": "COST TO COST",
       "url": "https://open.spotify.com/track/0n8b3Gs5t0KehJhsezOik4"
@@ -13095,6 +13113,36 @@
     },
     {
       "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133740,
+      "name": "Devo Andare Con Le Mie Winx (feat. Rhove)",
+      "url": "https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo"
+    },
+    {
+      "album": {
         "name": "XSTYLE!",
         "url": "https://open.spotify.com/album/1RxvrY3bbbBpyuzgxl59O2"
       },
@@ -13646,7 +13694,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 137872,
       "name": "DOMENICA (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/2j94KMeMCkstgbz4G3ZX6P"
@@ -15062,7 +15110,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 99884,
       "name": "Euphon",
       "url": "https://open.spotify.com/track/55zeosblxcVqvOjYUbLymx"
@@ -16280,7 +16328,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 142080,
       "name": "FIENO",
       "url": "https://open.spotify.com/track/4V5GC7zyjWJpz7MbPXGjCm"
@@ -17986,7 +18034,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 122553,
       "name": "gas (feat. LILCR)",
       "url": "https://open.spotify.com/track/4bcxHru29eWzkbaGTufRD0"
@@ -26467,6 +26515,28 @@
     },
     {
       "album": {
+        "name": "Man Down 4!",
+        "url": "https://open.spotify.com/album/1wIwvNbIGZMwWl4qfhTumw"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187184,
+      "name": "Man Down 4!",
+      "url": "https://open.spotify.com/track/6boyliSibfLjKLUB2RP77d"
+    },
+    {
+      "album": {
         "name": "Mandate Qualcuno",
         "url": "https://open.spotify.com/album/7BJtwdI5l9tkPm3I2YaKoD"
       },
@@ -30580,6 +30650,24 @@
       "duration_ms": 139566,
       "name": "NELLA MACCHINA",
       "url": "https://open.spotify.com/track/4fB2na1VbZD4xO05vYYUAS"
+    },
+    {
+      "album": {
+        "name": "Nella Notte",
+        "url": "https://open.spotify.com/album/5dnVXM7870xrukgn9Bz3HS"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137379,
+      "name": "Nella Notte",
+      "url": "https://open.spotify.com/track/602VKq1Rw1Ha7tVG72lT24"
     },
     {
       "album": {
@@ -35465,6 +35553,24 @@
     },
     {
       "album": {
+        "name": "SINGLEPLAYER",
+        "url": "https://open.spotify.com/album/2ftoU4BdqBx9KJnErQ6DMG"
+      },
+      "artists": [
+        {
+          "name": "Caph",
+          "url": "https://open.spotify.com/artist/4vAIof5mj7g6WBSFDg7sV5"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "PIANETA 4",
+      "url": "https://open.spotify.com/track/0Od0rx9LlYSS1OW0GiEEQe"
+    },
+    {
+      "album": {
         "name": "Piani",
         "url": "https://open.spotify.com/album/2xxn8LbFhS6mNdVdl3Nq8h"
       },
@@ -37614,6 +37720,28 @@
       "duration_ms": 130800,
       "name": "QUADRANTE (feat. Im Envy)",
       "url": "https://open.spotify.com/track/04hnG0Qr3ReeB8htSZxx5L"
+    },
+    {
+      "album": {
+        "name": "Demi Lovato / Qualcuno",
+        "url": "https://open.spotify.com/album/34DNmZidM7jdGRKI3gNiP9"
+      },
+      "artists": [
+        {
+          "name": "azael",
+          "url": "https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk"
+        },
+        {
+          "name": "Thrilljard",
+          "url": "https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174883,
+      "name": "Qualcuno",
+      "url": "https://open.spotify.com/track/1HKk3A2OnVXpoAtVEMudJr"
     },
     {
       "album": {
@@ -41616,7 +41744,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 145263,
       "name": "SEX TRAP REPEAT",
       "url": "https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF"
@@ -42832,7 +42960,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 168549,
       "name": "Soldi e stress",
       "url": "https://open.spotify.com/track/1cnUkxFhSAM4ec0CNGSXEu"
@@ -45487,6 +45615,28 @@
     },
     {
       "album": {
+        "name": "Te Quiero <3",
+        "url": "https://open.spotify.com/album/0mU62SEUeB7jt8onGqLXp2"
+      },
+      "artists": [
+        {
+          "name": "Jerry Sampi",
+          "url": "https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM"
+        },
+        {
+          "name": "eyoriky",
+          "url": "https://open.spotify.com/artist/2OAPYmxFLkuQgxowR0iz0v"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Te Quiero <3",
+      "url": "https://open.spotify.com/track/4CiTYWCKI8fKifJtpECSPZ"
+    },
+    {
+      "album": {
         "name": "TE STESSO",
         "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
       },
@@ -47572,7 +47722,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 154381,
       "name": "TUTTI SANNO (feat. Low-Red)",
       "url": "https://open.spotify.com/track/5OodMwL2x7eKXq8VC3rc8H"
@@ -48260,7 +48410,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 128017,
       "name": "UNABOMBER",
       "url": "https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B"

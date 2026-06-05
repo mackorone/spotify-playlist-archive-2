@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-857 songs - 1 day 18 hr 30 min
+858 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Walk Away](https://open.spotify.com/track/6gjgucEZ3sJnWxfiqEsEhU) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [SRY](https://open.spotify.com/artist/1Tful0EmoUktY5EOtDsoYN) | [Walk Away](https://open.spotify.com/album/4xW14rcbvAX2Z0NTZS8SPF) | 3:18 | 2023-03-15 | 2023-08-10 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 | 2023-08-10 |
 | [Walk On Water](https://open.spotify.com/track/6UWHjVoKOBXbhROLqaR7aQ) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Walk On Water](https://open.spotify.com/album/6g9GjsV0C6xszmocxt2Yb2) | 3:40 | 2025-11-27 |  |
+| [wanna do](https://open.spotify.com/track/0HaoNO8eXyjzlyVazU8otv) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu) | [wanna do](https://open.spotify.com/album/30CQ6sTIIBor6L2o7BgZfE) | 3:45 | 2026-06-04 |  |
 | [Want It All](https://open.spotify.com/track/6W3aytvSWp6RfbSGtTSbjY) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [Mqx](https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9) | [Want It All](https://open.spotify.com/album/16UUTrnENXTTwnRqIuLEKf) | 2:32 | 2024-05-02 | 2024-11-20 |
 | [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |

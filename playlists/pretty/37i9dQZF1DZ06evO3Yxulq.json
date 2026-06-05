@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41968,
+  "num_followers": 41973,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAeVC81LIlCQB2RrgaTrLjU",
+  "snapshot_id": "ah9ugAAAAAC5dc19yImwVGUMGBaMXG+w",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 348728,
-      "name": "Incomparable Dios",
-      "url": "https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 612133,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 348728,
+      "name": "Incomparable Dios",
+      "url": "https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4"
     },
     {
       "added_at": null,

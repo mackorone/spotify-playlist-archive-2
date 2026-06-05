@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,747 likes - 105 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,751 likes - 105 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [Back Then \(I Was Something\)](https://open.spotify.com/track/2S0wpGHvMP7mB1gDcq2vY6) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ), [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Back Then \(I Was Something\)](https://open.spotify.com/album/6XuOPs7LkiHr0nFKhThFW0) | 3:17 |
 | 105 | [Jet Stream Heart](https://open.spotify.com/track/0tIi8FsNFChexzMAkkjCcE) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Jet Stream Heart](https://open.spotify.com/album/0OEWMeVWS44OsiFYOvaz4n) | 3:39 |
 
-Snapshot ID: `AAAAAM4qYNM9aSw1PuC8DM/QV1yE7/0m`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

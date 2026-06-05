@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-183 songs - 11 hr 18 min
+184 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2023-11-10 | 2024-01-10 |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2024-04-16 |  |
 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:57 | 2025-11-07 |  |
-| [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 | 2025-11-07 |  |
+| [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 | 2025-11-07 | 2026-06-05 |
 | [Jackie Tequila](https://open.spotify.com/track/4vylvWmzkARLasyWiAMo2I) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Calango](https://open.spotify.com/album/5pp3Fjp4h728libl8vxoFn) | 4:10 | 2021-07-02 | 2022-07-29 |
 | [Jeito Sexy](https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo) | [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Retratos](https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP) | 4:12 | 2021-07-02 | 2022-07-29 |
 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 | 2024-04-16 |  |
@@ -124,6 +124,7 @@
 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/0cOad1EbVLwi06mHIcqGip) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu e Memê, Memê e Eu](https://open.spotify.com/album/1XgCslXe5fq5vQNcZvyEWS) | 3:44 | 2021-07-02 | 2022-07-29 |
 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 | 2021-07-02 | 2022-07-29 |
 | [Olha Só, Moreno](https://open.spotify.com/track/4asPMA0CIoAntrgzIusmSx) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Pitanga](https://open.spotify.com/album/2IUVCuvyfKf3W4emTGExqs) | 3:13 | 2021-07-02 | 2022-07-17 |
+| [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 | 2025-11-07 |  |
 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 | 2024-04-16 | 2025-08-31 |
 | [Onde Você Mora?](https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Onde Você Mora?](https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ) | 3:58 | 2021-07-02 | 2022-07-29 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2021-07-02 |  |

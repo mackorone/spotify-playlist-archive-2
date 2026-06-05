@@ -3525,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Do What You Want",
+        "url": "https://open.spotify.com/album/75xJYEhamV2ksKdwIjuglT"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Do What You Want",
+      "url": "https://open.spotify.com/track/41akEmAPSACPFpeUhTdvvt"
+    },
+    {
+      "album": {
         "name": "Do You Think About Me",
         "url": "https://open.spotify.com/album/2nAshYGpWOhodHxi6clp3X"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 204094,
       "name": "Give You My Luv",
       "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
@@ -7240,7 +7258,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 198720,
       "name": "I Never Knew Love",
       "url": "https://open.spotify.com/track/3NS5U4aFcStjsgUraLr5rO"
@@ -12426,6 +12444,28 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/2095HhL8mAFFfU4H426jsf"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241781,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2DBr8nXrYm5c3QTJHLGDzp"
     },
     {
       "album": {

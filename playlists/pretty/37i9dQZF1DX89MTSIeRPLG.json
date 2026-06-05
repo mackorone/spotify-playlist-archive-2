@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 24762,
+  "num_followers": 24764,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE"
+      },
+      "artists": [
+        {
+          "name": "Tavey Baby",
+          "url": "https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 163520,
       "name": "Bulgari Shades",
       "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE"
-      },
-      "artists": [
-        {
-          "name": "Tavey Baby",
-          "url": "https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt"
     },
     {
       "added_at": "2022-10-01 20:31:11",

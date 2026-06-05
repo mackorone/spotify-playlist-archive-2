@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIytlQuvVC4e+U5W61ZNxD01cbCz2x",
+  "snapshot_id": "AAAI0IKKJ3JUKfTuSFN8ncQXxKgSmmAp",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -71,6 +71,102 @@
       "duration_ms": 190720,
       "name": "\u00a1YA BASTA!",
       "url": "https://open.spotify.com/track/7moS1lCufUhFdwVNRiJRnS"
+    },
+    {
+      "added_at": "2026-03-15 11:28:19",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 328933,
+      "name": "The Alien",
+      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
+    },
+    {
+      "added_at": "2026-03-15 11:28:54",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Olas en tus cielos",
+      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
+    },
+    {
+      "added_at": "2026-03-15 11:29:14",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Nubes negras",
+      "url": "https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM"
+    },
+    {
+      "added_at": "2026-06-04 12:21:43",
+      "album": {
+        "name": "Fui viento",
+        "url": "https://open.spotify.com/album/5f3qzYVHLOXS4KMC4N4SjB"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Fui viento",
+      "url": "https://open.spotify.com/track/1MAzLdwWsZstmPZAxFjgYH"
+    },
+    {
+      "added_at": "2026-06-04 12:21:54",
+      "album": {
+        "name": "drop dead (taken that eurostar to france video)",
+        "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
+    },
+    {
+      "added_at": "2026-06-04 12:22:01",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "added_at": "2026-04-13 10:33:49",
@@ -68593,22 +68689,6 @@
       "url": "https://open.spotify.com/track/01oNKX6bloOAbGONEqsoZd"
     },
     {
-      "added_at": "2026-03-15 11:28:19",
-      "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 328933,
-      "name": "The Alien",
-      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
-    },
-    {
       "added_at": "2026-03-15 11:28:15",
       "album": {
         "name": "Esfera",
@@ -68821,22 +68901,6 @@
       "url": "https://open.spotify.com/track/3SzG9XphyYjVsHOPiTnRpL"
     },
     {
-      "added_at": "2026-03-15 11:28:54",
-      "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Olas en tus cielos",
-      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
-    },
-    {
       "added_at": "2026-03-07 03:24:37",
       "album": {
         "name": "boyfriend...(ew)",
@@ -68983,22 +69047,6 @@
       "duration_ms": 172288,
       "name": "Sobre nubes",
       "url": "https://open.spotify.com/track/5hLGWSQ3KT0dfnip7NbASN"
-    },
-    {
-      "added_at": "2026-03-15 11:29:14",
-      "album": {
-        "name": "Piedras",
-        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Nubes negras",
-      "url": "https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM"
     },
     {
       "added_at": "2026-03-15 11:29:14",
@@ -73351,6 +73399,38 @@
       "duration_ms": 215967,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP"
+    },
+    {
+      "added_at": "2026-06-04 13:49:59",
+      "album": {
+        "name": "Turn",
+        "url": "https://open.spotify.com/album/63285USOAY4dxs2B7abc0g"
+      },
+      "artists": [
+        {
+          "name": "The Skanks",
+          "url": "https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB"
+        }
+      ],
+      "duration_ms": 291397,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/1ZMHbVw3RrHW3cv5EQLfsV"
+    },
+    {
+      "added_at": "2026-06-04 17:08:11",
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "duration_ms": 329480,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -1,13 +1,245 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kurt Vile",
-  "num_followers": 876323,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bedouine",
+  "num_followers": 876330,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPH1CE3jRci8dTaPojN+qYcGiBu9",
+  "snapshot_id": "AAAAACkcqI4XUfETQYuD1WCQWUw8Hwph",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/6U4XW7tTYLKtnecGaQsB6c"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/5Jx40fAGeIzY9HtQ96j5D5"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "A Sign In The Weather",
+        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 203847,
+      "name": "Stuff",
+      "url": "https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0CA4OStr4CVs0K97J4FUJi"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/1bgcW8NZw2U1FIiYb7hvrt"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Your Lemon",
+        "url": "https://open.spotify.com/album/1vZZTzQUxg0eCuHNs3MKF6"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 251781,
+      "name": "Bird In The Hand",
+      "url": "https://open.spotify.com/track/7JglV4uE0HsRlidO90CFlV"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Better If Worse (with Matt Maeson)",
+        "url": "https://open.spotify.com/album/2NRRkNx48UJ6gdQXhR4fQl"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        },
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 239123,
+      "name": "Better If Worse (with Matt Maeson)",
+      "url": "https://open.spotify.com/track/3TP8KZt9tJGyeBRVyDysp9"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "say anything",
+        "url": "https://open.spotify.com/album/1KdDd6K0ZW9vtENx5yz5BA"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "say anything",
+      "url": "https://open.spotify.com/track/4JpSgH5ZQ4j8cXP2lFYzPr"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "glitter",
+        "url": "https://open.spotify.com/album/79fHwR9OOWvLOXxwd3dQwF"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 161304,
+      "name": "glitter",
+      "url": "https://open.spotify.com/track/2bhxKi9gJOjQg43svrjt5v"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "\uff0d \uff65\uff65\uff65\uff65 \uff65 \uff0d\uff65 \uff65\uff65 \uff0d\uff0d\uff65 \uff65\uff65\uff65\uff65 \uff0d \uff0d\uff65\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff65\uff0d \uff0d\uff65\uff65\uff65",
+        "url": "https://open.spotify.com/album/39UCEYqGTu3nkYiNNlklg1"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "duration_ms": 365331,
+      "name": "\uff0d \uff65\uff65\uff65\uff65 \uff65 \uff0d\uff65 \uff65\uff65 \uff0d\uff0d\uff65 \uff65\uff65\uff65\uff65 \uff0d \uff0d\uff65\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff65\uff0d \uff0d\uff65\uff65\uff65",
+      "url": "https://open.spotify.com/track/5Mqjo7YdfjA60fsmk3btnB"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Can't You Just Hold Me?",
+        "url": "https://open.spotify.com/album/5CxHCOTssN4RF05lz5iAw2"
+      },
+      "artists": [
+        {
+          "name": "Alder Cote",
+          "url": "https://open.spotify.com/artist/0CiMpVlvx7HH7YSCczLotT"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Can't You Just Hold Me?",
+      "url": "https://open.spotify.com/track/39Faow8DQlOOfzWsKbLCS2"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "The Modern Shoe Is Ruining The Foot",
+        "url": "https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Write You Wrong",
+      "url": "https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
+      },
+      "artists": [
+        {
+          "name": "Haylie Davis",
+          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Quick!",
+        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 318274,
+      "name": "Quick!",
+      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Georgia the Ceremonialist",
+        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "Georgia the Ceremonialist",
+      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
+    },
     {
       "added_at": "2026-05-29 04:01:01",
       "album": {
@@ -2259,214 +2491,6 @@
       "duration_ms": 215715,
       "name": "I\u2019m Still Learning How To Leave You",
       "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4ZqVcW4IYvt7aP1W2Wg4wp"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dollbaum",
-          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Coyote",
-      "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn"
-      },
-      "artists": [
-        {
-          "name": "Zoh Amba",
-          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
-        }
-      ],
-      "duration_ms": 181537,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Alternate Ending",
-        "url": "https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 190550,
-      "name": "Alternate Ending",
-      "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Somehow Made It Out",
-        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 222513,
-      "name": "Somehow Made It Out",
-      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Alive Inside",
-        "url": "https://open.spotify.com/album/6w9osxUhChMkzDDKXVJelb"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 261226,
-      "name": "Alive Inside",
-      "url": "https://open.spotify.com/track/5utbr7khXeyjjeqchUsJVl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "The Mythical",
-        "url": "https://open.spotify.com/album/4Sm0JlQtRHwIJsdKE3PFKq"
-      },
-      "artists": [
-        {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
-        }
-      ],
-      "duration_ms": 328500,
-      "name": "The Mythical",
-      "url": "https://open.spotify.com/track/3XneIyAAZM1PV6356Eug4l"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
-      },
-      "artists": [
-        {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Nothing Hurts",
-        "url": "https://open.spotify.com/album/3QPOifty2AnkVfRSdVZD3l"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Nothing Hurts",
-      "url": "https://open.spotify.com/track/6kUneEDdD5ff11ahVluuqu"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/3WBn304BBr459QVLs7rdnD"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2VXMJvygwZzJsNPfFdxDN6"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Things That Most People Say",
-        "url": "https://open.spotify.com/album/1JIW9Qiy5SjXczHvWv9Fut"
-      },
-      "artists": [
-        {
-          "name": "Vincent Lima",
-          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
-        }
-      ],
-      "duration_ms": 200058,
-      "name": "Things That Most People Say",
-      "url": "https://open.spotify.com/track/46ERHtznIfRW70XUEczZvh"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Gentle Love / Frog",
-        "url": "https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 91178,
-      "name": "Gentle Love",
-      "url": "https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "right by my side",
-        "url": "https://open.spotify.com/album/3KOBVybYa8lG5Ko5PJtZT9"
-      },
-      "artists": [
-        {
-          "name": "Eric Kane",
-          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "right by my side",
-      "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Kleptomaniac",
-        "url": "https://open.spotify.com/album/4sPk5dVTCNlkSufapIPEpy"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Kleptomaniac",
-      "url": "https://open.spotify.com/track/3abBBKioYtLnqXCu4Jaa3I"
     }
   ],
   "unique_name": "Fresh Folk",

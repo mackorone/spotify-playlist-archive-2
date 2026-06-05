@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 282584,
+  "num_followers": 282616,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "shake_leg",
+        "url": "https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        }
+      ],
+      "duration_ms": 137558,
+      "name": "shake_leg",
+      "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Courvoisier",
         "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 147104,
       "name": "Courvoisier",
       "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "shake_leg",
-        "url": "https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh"
-      },
-      "artists": [
-        {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
-        }
-      ],
-      "duration_ms": 137558,
-      "name": "shake_leg",
-      "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "Take No Chat",
+        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Take No Chat",
+      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Active Now",
         "url": "https://open.spotify.com/album/6C2EWfAXZ1j1PXEv1sbEXG"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 205714,
       "name": "Active Now",
       "url": "https://open.spotify.com/track/1z1DCyzCEntFmJHXG5RnFQ"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Take No Chat",
-        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Take No Chat",
-      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "Combat (feat. Gardna)",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
+      },
+      "artists": [
+        {
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Combat (feat. Gardna)",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Break It",
         "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 209280,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2YbZUvrogoD4JVrAp5MUO3"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Combat (feat. Gardna)",
-        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
-      },
-      "artists": [
-        {
-          "name": "Declan Knapp",
-          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Combat (feat. Gardna)",
-      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -1367,18 +1367,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "I'm Not Deep in Love",
-        "url": "https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H"
+        "name": "Ur Number",
+        "url": "https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN"
       },
       "artists": [
         {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+          "name": "N3RD",
+          "url": "https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR"
+        },
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        },
+        {
+          "name": "Marky B",
+          "url": "https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj"
         }
       ],
-      "duration_ms": 153152,
-      "name": "I'm Not Deep in Love",
-      "url": "https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7"
+      "duration_ms": 155772,
+      "name": "Ur Number",
+      "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
     }
   ],
   "unique_name": "Bassline Bangers",

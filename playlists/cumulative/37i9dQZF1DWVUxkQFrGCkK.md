@@ -4,7 +4,7 @@
 
 > IBZ szn\. Cover: Barry Can't Swim
 
-1,325 songs - 3 day 19 hr 29 min
+1,326 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 | 2024-03-21 | 2024-04-05 |
 | [Ascension](https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ascension](https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ) | 2:57 | 2024-04-04 | 2025-08-01 |
 | [Ascension](https://open.spotify.com/track/2BYIeXYCuMROGM3tZqUGJg) | [Jörgen](https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM) | [Ascension](https://open.spotify.com/album/5sPlmU8wfKE5AHn2CnHYcA) | 4:44 | 2026-05-14 |  |
+| [Ashiko](https://open.spotify.com/track/5qkLwiZ6bmert9ik4qJr7c) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Ashiko](https://open.spotify.com/album/6crGQmkmsekQKHc49lUn8d) | 4:00 | 2026-06-04 |  |
 | [ASPEN \(feat\. Toro Y Moi\)](https://open.spotify.com/track/5EdKi0sMiXYvfvuxx8D6sM) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:49 | 2024-06-27 | 2024-07-27 |
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-04-13 | 2025-01-10 |
 | [At Night I Think Of You \- Seth Troxler & Nick Morgan Remix](https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [At Night I Think Of You \(Seth Troxler & Nick Morgan Remix\)](https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq) | 3:39 | 2024-07-12 | 2024-08-16 |

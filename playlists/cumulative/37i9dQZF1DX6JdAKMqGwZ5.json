@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: CARLANGAS.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Michael Foster.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182068,
       "name": "Aa Mam\u00e1",
       "url": "https://open.spotify.com/track/1UVfA3ocDO8asSbQJ2zFKy"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 161900,
       "name": "Bienvenidos",
       "url": "https://open.spotify.com/track/64mnfFrl128rgmgbacy0xy"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 175772,
       "name": "De Tanto Leer...!",
       "url": "https://open.spotify.com/track/3ziE7Z06Bhc6KrXXXVRfkh"
@@ -3618,6 +3618,24 @@
       "duration_ms": 185728,
       "name": "Desde otro lugar",
       "url": "https://open.spotify.com/track/4ry3rOAdEksQ6Y1ASKzup0"
+    },
+    {
+      "album": {
+        "name": "Desde que t\u00fa te has ido",
+        "url": "https://open.spotify.com/album/5dDFYSqdAdWGstz63JbmUc"
+      },
+      "artists": [
+        {
+          "name": "Michael Foster",
+          "url": "https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201153,
+      "name": "Desde que t\u00fa te has ido",
+      "url": "https://open.spotify.com/track/3Oq1INrQqyrOZoQaiRpF8N"
     },
     {
       "album": {
@@ -4932,7 +4950,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 209454,
       "name": "Eres un Criminal",
       "url": "https://open.spotify.com/track/2Pa22PUyNtcChB5W5Cr0vr"
@@ -5277,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Estava Clar Que No",
+        "url": "https://open.spotify.com/album/68xJBDvKSYvtd4a88X1D13"
+      },
+      "artists": [
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Estava Clar Que No",
+      "url": "https://open.spotify.com/track/1qUIEZzegDHxW5NQNsc38M"
+    },
+    {
+      "album": {
         "name": "EsteAmor",
         "url": "https://open.spotify.com/album/4qptjWZpVTHFJZXJBje1Eh"
       },
@@ -5512,7 +5548,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 225221,
       "name": "Fases",
       "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
@@ -6176,6 +6212,28 @@
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
+    },
+    {
+      "album": {
+        "name": "Hay Alg\u00fan Sitio",
+        "url": "https://open.spotify.com/album/5SnHO97eQZn5OlOFVz2nHv"
+      },
+      "artists": [
+        {
+          "name": "Me Acuerdo de Todo",
+          "url": "https://open.spotify.com/artist/0wrKWOH2hVMJ4mRAYkRz1h"
+        },
+        {
+          "name": "Bernal",
+          "url": "https://open.spotify.com/artist/36qikjyD6tDDJdlbnULZKv"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Hay Alg\u00fan Sitio",
+      "url": "https://open.spotify.com/track/4MtM2WJhglzbF4cMEVEZXe"
     },
     {
       "album": {
@@ -7554,7 +7612,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170259,
       "name": "Largo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0DJZelRhM5zSLtu4YwqIYe"
@@ -8673,6 +8731,24 @@
     },
     {
       "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/4dWF8SuAYiPWYv9MfpzbNA"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203150,
+      "name": "Mayo",
+      "url": "https://open.spotify.com/track/3kTFEKvTMFpVtSp9X7kJYB"
+    },
+    {
+      "album": {
         "name": "Mazarocas",
         "url": "https://open.spotify.com/album/0MOL3mLDJhjibJnCTeGoDk"
       },
@@ -8688,7 +8764,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 173266,
       "name": "Mazarocas",
       "url": "https://open.spotify.com/track/2PSzg6wM54IFwdXgsyoGDP"
@@ -10166,6 +10242,24 @@
       "duration_ms": 195389,
       "name": "No Me Digas La Verdad",
       "url": "https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F"
+    },
+    {
+      "album": {
+        "name": "No me entero de nada",
+        "url": "https://open.spotify.com/album/0MmjAtNvqgN2tkPelnfrEq"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Vecino",
+          "url": "https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82323,
+      "name": "No me entero de nada",
+      "url": "https://open.spotify.com/track/03gnyrju9PnduPx5CWEaPd"
     },
     {
       "album": {
@@ -12863,6 +12957,28 @@
     },
     {
       "album": {
+        "name": "Destello, se\u00f1al, hilo y alba",
+        "url": "https://open.spotify.com/album/5TvLGH3WC2txxLpx4UqsZm"
+      },
+      "artists": [
+        {
+          "name": "CRISTALINO",
+          "url": "https://open.spotify.com/artist/3MNLGEDFGdv7WYDy2YbCtZ"
+        },
+        {
+          "name": "Jaime Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/65N5bB3AeOdqACl8wHepaA"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247237,
+      "name": "SE\u00d1AL",
+      "url": "https://open.spotify.com/track/1DE1jMSSQcIzDQgFcJnKAI"
+    },
+    {
+      "album": {
         "name": "Si est\u00e1s junto a m\u00ed",
         "url": "https://open.spotify.com/album/6lCNmoKqnss9vHMcNtyiEG"
       },
@@ -13078,6 +13194,24 @@
       "duration_ms": 268253,
       "name": "Siempre Vuelve",
       "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
+    },
+    {
+      "album": {
+        "name": "SIENTO",
+        "url": "https://open.spotify.com/album/6YGqgv2ZQaDj68VpYeMDmt"
+      },
+      "artists": [
+        {
+          "name": "Modelo",
+          "url": "https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186452,
+      "name": "SIENTO",
+      "url": "https://open.spotify.com/track/2Y39JD1iKKFUW3m8J7tJ1b"
     },
     {
       "album": {

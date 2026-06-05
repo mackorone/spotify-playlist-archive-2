@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Livanis, Strat",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Aspa",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 167003,
       "name": "Allou Gia Allou",
       "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
@@ -380,6 +380,28 @@
       "duration_ms": 169813,
       "name": "Anexartiti - Live Version",
       "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
+    },
+    {
+      "album": {
+        "name": "Antisimvatiki Sxesi",
+        "url": "https://open.spotify.com/album/2nH9TR365bFoDbxHo3UqEj"
+      },
+      "artists": [
+        {
+          "name": "Faye Theochari",
+          "url": "https://open.spotify.com/artist/79HZGZHerrrMToNhdAwLh9"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198912,
+      "name": "Antisimvatiki Sxesi",
+      "url": "https://open.spotify.com/track/1iqDMi4MyYsxj2aAivSsdC"
     },
     {
       "album": {
@@ -654,7 +676,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 202615,
       "name": "De Ginetai",
       "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 211137,
       "name": "Gia Mena",
       "url": "https://open.spotify.com/track/1VmTEkRCztvb2ubRcH1Gs9"
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 184661,
       "name": "Kapnogona",
       "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
@@ -2168,6 +2190,24 @@
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
+    },
+    {
+      "album": {
+        "name": "Katarameni Kardia",
+        "url": "https://open.spotify.com/album/1e7DtYTJTenGBMPS9fso3h"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Katarameni Kardia",
+      "url": "https://open.spotify.com/track/36X7kwEYIWh6gQtB4MGZaJ"
     },
     {
       "album": {
@@ -3603,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Sto Mualo Sou",
+        "url": "https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194202,
+      "name": "Pigene Me Pali Piso Taxitzi",
+      "url": "https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G"
+    },
+    {
+      "album": {
         "name": "Planitis Gi",
         "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
       },
@@ -4830,6 +4888,28 @@
       "duration_ms": 225450,
       "name": "Ti Perimeneis Apo 'Mena",
       "url": "https://open.spotify.com/track/7hwhamjgTSPsVqSv7WmJvz"
+    },
+    {
+      "album": {
+        "name": "Ti Sou Hrostao",
+        "url": "https://open.spotify.com/album/4aQB3sUB56Gn52u3BJ1lel"
+      },
+      "artists": [
+        {
+          "name": "Elli Kokkinou",
+          "url": "https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203797,
+      "name": "Ti Sou Hrostao",
+      "url": "https://open.spotify.com/track/0oFoDNiUUSxcx0wzZsT8y2"
     },
     {
       "album": {

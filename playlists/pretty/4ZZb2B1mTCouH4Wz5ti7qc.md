@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZZb2B1mTCouH4Wz5ti7qc.md) - [plain]
 
 > Que des groupes Rock de Lyon et des alentours !!
 
-[nikkgiggs](https://open.spotify.com/user/nikkgiggs) - 66 likes - 59 songs - 4 hr 15 min
+[nikkgiggs](https://open.spotify.com/user/nikkgiggs) - 65 likes - 59 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Magda
 
-514 songs - 1 day 2 hr 9 min
+517 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 | 2026-01-13 | 2026-01-30 |
 | [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 | 2023-11-09 | 2024-01-12 |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 | 2023-04-14 |
-| [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 | 2026-04-23 |  |
+| [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 | 2026-04-23 | 2026-06-05 |
 | [Cool Car, Stupid Decisions](https://open.spotify.com/track/30eU5auguA6zk7jJX9YiyA) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Cool Car, Stupid Decisions](https://open.spotify.com/album/0tS8Cweosvwi84h2NMzKg0) | 2:12 | 2025-07-24 | 2025-09-19 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2023-04-14 |
 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 | 2023-11-16 | 2024-04-19 |
@@ -148,7 +148,7 @@
 | [Du + Ich](https://open.spotify.com/track/5VcPgaKtvn1JJfv7flYtWr) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Du + Ich](https://open.spotify.com/album/7pyXX3U3j5LzPDeWiqAxzO) | 2:26 | 2023-06-15 | 2023-09-01 |
 | [echo](https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [echo](https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz) | 3:13 | 2022-11-17 | 2023-03-25 |
 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 | 2025-09-18 |  |
-| [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 | 2026-02-19 |  |
+| [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 | 2026-02-19 | 2026-06-05 |
 | [Egal \(was passiert\)](https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Egal \(was passiert\)](https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe) | 3:18 | 2023-09-14 | 2023-10-06 |
 | [Ehhwww](https://open.spotify.com/track/5vVOsEGvnwpvlsbW5YHOWN) | [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW) | [Ehhwww](https://open.spotify.com/album/1ImUlnx9kKhVsSfHcwyeVs) | 1:56 | 2025-04-10 | 2026-01-30 |
 | [ein Lied für mich](https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [ein Lied für mich](https://open.spotify.com/album/4r9HLxIb968I4FynItwxFj) | 2:05 | 2026-04-03 |  |
@@ -182,7 +182,7 @@
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 | 2023-11-10 |
 | [Geld](https://open.spotify.com/track/0IW1q8WdeZCxlL9SH0xrAz) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Geld](https://open.spotify.com/album/1mAReuQiTur46WBDG4e5s0) | 3:02 | 2025-05-16 | 2025-10-10 |
 | [gensehaut](https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [gensehaut](https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq) | 2:15 | 2023-08-31 | 2023-10-13 |
-| [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 | 2025-09-18 |  |
+| [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 | 2025-09-18 | 2026-06-05 |
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-05 | 2023-03-18 |
 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 | 2022-05-12 | 2023-02-24 |
 | [Gib uns nicht auf](https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [JIGGO](https://open.spotify.com/artist/5Pmsa0FeoMFWsjhpo2bIAK) | [Gib uns nicht auf](https://open.spotify.com/album/3uMI5CuOOqZLw2rUqa5uit) | 2:36 | 2026-02-26 |  |
@@ -200,6 +200,7 @@
 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 | 2024-02-22 | 2024-09-13 |
 | [Haus am Meer](https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Haus am Meer](https://open.spotify.com/album/1iVc7dFKvehP3OmTpMihjm) | 2:17 | 2024-07-18 | 2025-07-25 |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
+| [Head In The Air](https://open.spotify.com/track/6LnBxvMwtw57Ww0kwE3Tc8) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Head In The Air](https://open.spotify.com/album/5Bwx59yHFWLiVWdYNsjIWt) | 3:10 | 2026-06-04 |  |
 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-11 | 2026-02-20 |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 | 2025-07-25 |
 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 | 2026-01-15 | 2026-02-13 |
@@ -250,6 +251,7 @@
 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 | 2026-04-30 |  |
 | [It's A Problem](https://open.spotify.com/track/1xBKpJTibQ2GD23ZIw47Yx) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [It's A Problem](https://open.spotify.com/album/2KY2vz3NYHLHXvX6A0cjDL) | 2:30 | 2024-05-30 | 2024-09-06 |
 | [Jacke zu](https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Jacke zu](https://open.spotify.com/album/5XOptGKTuicfr63QxUnxNN) | 2:32 | 2022-01-13 | 2022-03-11 |
+| [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:42 | 2026-06-04 |  |
 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 | 2026-04-23 |  |
 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 | 2023-11-23 | 2024-04-19 |
 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 | 2025-05-30 |
@@ -520,6 +522,7 @@
 | [zu viel](https://open.spotify.com/track/1w5l9Qfpus2rpjJfYQBfQd) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [zu viel](https://open.spotify.com/album/4OMFvED2nxBqmHzzA5owNB) | 2:41 | 2025-07-17 | 2025-09-05 |
 | [Zug](https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Soul über Ego](https://open.spotify.com/album/1UsBo0GLw8Ob7rotm0mgD5) | 2:15 | 2023-03-02 | 2023-11-17 |
 | [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 | 2022-07-28 | 2022-09-16 |
+| [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 | 2026-06-04 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2023-10-05 | 2023-12-01 |
 | [„Hahaha“](https://open.spotify.com/track/3d6qirAvHEpdM6Ky5OKFQ8) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [„Hahaha“](https://open.spotify.com/album/0SDmMQMIeuKkkMFvNZhOCb) | 2:07 | 2021-12-16 | 2022-05-13 |
 

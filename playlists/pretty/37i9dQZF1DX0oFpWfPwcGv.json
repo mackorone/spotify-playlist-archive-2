@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 73675,
+  "num_followers": 73684,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "I Want To Feel Your Love",
-        "url": "https://open.spotify.com/album/5CNIhCpg0W8pdXBJ8b3ISJ"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/2TAuq1e91Y636PDppnI2tq"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "I Want To Feel Your Love",
+        "url": "https://open.spotify.com/album/5CNIhCpg0W8pdXBJ8b3ISJ"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2TAuq1e91Y636PDppnI2tq"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Love, Luther",
-        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Never Too Much - 12\" Version",
-      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
       "added_at": "2026-01-15 16:33:26",

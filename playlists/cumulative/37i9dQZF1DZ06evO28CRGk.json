@@ -1697,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Buckshot",
+          "url": "https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/2n7NvnUJu8bqki1mKQxuTy"
+    },
+    {
+      "album": {
         "name": "The Many Moods of Marco Polo Vol. 1",
         "url": "https://open.spotify.com/album/5fKB6tISAVk4LsLwqfc5dZ"
       },
@@ -2110,6 +2132,24 @@
       "duration_ms": 240081,
       "name": "Hood Tales",
       "url": "https://open.spotify.com/track/1DxkvpBgOKQpVYpNIajrvl"
+    },
+    {
+      "album": {
+        "name": "MP On The MP: The Beat Tape Vol. 2",
+        "url": "https://open.spotify.com/album/5Jk0SUV4BmxZJYrxAZOXmo"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185592,
+      "name": "Hot & Cold",
+      "url": "https://open.spotify.com/track/56j5Q1DgvWDklnSxTGsXRF"
     },
     {
       "album": {
@@ -2788,7 +2828,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 249666,
       "name": "Low Budget Allstar",
       "url": "https://open.spotify.com/track/7oyMGm1Jy02UDYgiyKjO4x"
@@ -3306,7 +3346,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 162586,
       "name": "Nonna Celesta",
       "url": "https://open.spotify.com/track/6ZFiPITYcryURI974d5xzq"

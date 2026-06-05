@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38844,
+  "num_followers": 38848,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAC9aS9CJQ3McSSUqFLTS8N0",
+  "snapshot_id": "ah9ugAAAAADOxmy47fpeMClWTUJDSJ2u",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 127133,
-      "name": "Porphyria Cutanea Tarda",
-      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+      "duration_ms": 127133,
+      "name": "Porphyria Cutanea Tarda",
+      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
     },
     {
       "added_at": null,

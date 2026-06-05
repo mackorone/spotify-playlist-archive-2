@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/2BWHoufKyq6Ci5LSzffNj0"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        },
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161202,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4EiJ8kbxdAare5gM8LOWf2"
+    },
+    {
+      "album": {
         "name": "At Your Worst (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/6BI0yzMCxkaqTmrUVm8bSh"
       },
@@ -448,7 +470,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 138893,
       "name": "ausgehen",
       "url": "https://open.spotify.com/track/0IHQuKIDt2xA1BBpzOb2Sc"
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180026,
       "name": "Ghost of us",
       "url": "https://open.spotify.com/track/4eS4bqxGG3Ps3Q7xvnhC6i"
@@ -5730,7 +5752,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -6338,7 +6360,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Song 11 ft Provinz",
       "url": "https://open.spotify.com/track/2D7sq6xJiipSwwZT6Lp90l"
@@ -6838,6 +6860,24 @@
       "duration_ms": 184985,
       "name": "Tanz In Deiner Wohnung",
       "url": "https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB"
+    },
+    {
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402292,
+  "num_followers": 402298,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "everyone for ten minutes",
         "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 184761,
       "name": "we should talk",
       "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Com\u00e8te",
-        "url": "https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp"
-      },
-      "artists": [
-        {
-          "name": "2L",
-          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Com\u00e8te",
-      "url": "https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "DISCO INFERNO",
         "url": "https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 233788,
       "name": "C\u0152UR DE PIRATE",
       "url": "https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Com\u00e8te",
+        "url": "https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Com\u00e8te",
+      "url": "https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG"
-      },
-      "artists": [
-        {
-          "name": "I Am Roze",
-          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Voicetrack Generation",
         "url": "https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 253953,
       "name": "Voicetrack Generation",
       "url": "https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG"
+      },
+      "artists": [
+        {
+          "name": "I Am Roze",
+          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
         "name": "Fire Away (feat. Slayyyter)",
         "url": "https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 207868,
       "name": "Fire Away (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo"
-      },
-      "artists": [
-        {
-          "name": "Doria",
-          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5"
     },
     {
       "added_at": "2026-05-31 22:00:06",

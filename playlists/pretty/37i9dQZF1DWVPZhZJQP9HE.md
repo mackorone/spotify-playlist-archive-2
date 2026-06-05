@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,565 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,578 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 9 | [Yeno Indru \- From "Think Indie"](https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yeno Indru \(From "Think Indie"\)](https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P) | 3:23 |
 | 10 | [Yaen](https://open.spotify.com/track/1gqAZ2iYeqyuwuOS3Hnb7T) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Varsha Gopinath](https://open.spotify.com/artist/7ayUOUsYhzGOrNtKP0yDUz), [NZM](https://open.spotify.com/artist/6xpJ0F0DpEITHP4HHAunl2) | [Yaen](https://open.spotify.com/album/6qtKKlVADeAl0QvJEIk5NJ) | 3:50 |
 | 11 | [Orey Oru Life](https://open.spotify.com/track/1GPAO3qEDu0hT4W95Pm5vi) | [Anoop Sankar](https://open.spotify.com/artist/4Ws69yH4Vj4zyN140TCSvQ) | [Orey Oru Life](https://open.spotify.com/album/2dvxyqMjUivdJLnGSK4LCK) | 3:59 |
-| 12 | [Vaada Vibe](https://open.spotify.com/track/7MCiDO9CxCzDQqKMDzJzFu) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Reshmi K](https://open.spotify.com/artist/3MdArLG5AlnUoJqvYJL8JV) | [Vaada Vibe](https://open.spotify.com/album/0ckZgS22kvdaMyr84zxkq1) | 3:32 |
+| 12 | [Vaada Vibe](https://open.spotify.com/track/7MCiDO9CxCzDQqKMDzJzFu) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Jose Franklin](https://open.spotify.com/artist/6TIwwynDkpw6c9Cu2Fx9iC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Vaada Vibe](https://open.spotify.com/album/0ckZgS22kvdaMyr84zxkq1) | 3:32 |
 | 13 | [Thendralil \(From "Loopd"\)](https://open.spotify.com/track/3pOTheMxTE43pjFS41Ks0r) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Thendralil \(From "Loopd"\)](https://open.spotify.com/album/0SeG4T0wqcCI5WrqOdjSnY) | 4:36 |
 | 14 | [Inayum Paadhaigal](https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vinaita Sivakumar](https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe) | [Inayum Paadhaigal](https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO) | 3:21 |
 | 15 | [Raajabhodai](https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO) | [Srivijay Ragavan](https://open.spotify.com/artist/1sHy3gAbb1pnYM8o9LsLA9), [Sri Jeyanthan](https://open.spotify.com/artist/5nN9ZnBYxoFUPkSQR7kGaB) | [Raajabhodai](https://open.spotify.com/album/7cNOuWWbRPkfUJuwtYl4h7) | 3:38 |

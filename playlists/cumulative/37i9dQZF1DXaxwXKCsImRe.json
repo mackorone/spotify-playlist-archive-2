@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:2qVi7G7OjgVXyl9zxabzTQ\">Sarah Julia</a> ",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:5vxYgsUqkYuqL5nLzwnKsk\">OYSTER</a> ",
   "name": "RADAR BNLX",
   "tracks": [
+    {
+      "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "100K Summer",
+      "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
+    },
     {
       "album": {
         "name": "Ereronde",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 120352,
       "name": "120 Seconden",
       "url": "https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9"
@@ -655,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
+    },
+    {
+      "album": {
         "name": "Break 'Em All",
         "url": "https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a"
       },
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 211304,
       "name": "De Laatste Sprint",
       "url": "https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO"

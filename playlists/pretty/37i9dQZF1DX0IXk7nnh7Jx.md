@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,909 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,916 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 21 | [God Is Love](https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [God Is Love](https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL) | 5:08 |
 | 22 | [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 |
 | 23 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
-| 24 | [thing about u ❨❨ ❍](https://open.spotify.com/track/4Mj5fsKvyuittKUPVyns4o) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Silhouettes Vol.I \(❨❨ ❨ ❍ Mi◗⠝⠊⠣⠓✝︎ℋ𝐲𝕸nᛋ \~\)](https://open.spotify.com/album/0FqP0pyGZLQOgTWhz6oCds) | 7:06 |
+| 24 | [thing about u ❨❨ ❍](https://open.spotify.com/track/4Mj5fsKvyuittKUPVyns4o) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Silhouettes ❨❨ ❨ ❍ Mi◗⠝⠊⠣⠓✝︎ℋ𝐲𝕸nᛋ \~ Vol.I](https://open.spotify.com/album/0FqP0pyGZLQOgTWhz6oCds) | 7:06 |
 | 25 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 26 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 | 27 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |

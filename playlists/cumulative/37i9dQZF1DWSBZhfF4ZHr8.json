@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Melissa\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Ambre\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "bellevie",
+        "url": "https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181872,
+      "name": "bellevie",
+      "url": "https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa"
+    },
+    {
+      "album": {
         "name": "Bijou",
         "url": "https://open.spotify.com/album/0WPPIiYdFOTI4WTR7bd31Y"
       },
@@ -1167,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Coeur Stone",
+        "url": "https://open.spotify.com/album/4gas5cfeYrFcSi4BSXAzDJ"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "Coeur Stone (feat. Styleto)",
+      "url": "https://open.spotify.com/track/6ysaavTOBBGZk5AlQJXCFi"
+    },
+    {
+      "album": {
         "name": "Coeur Vagabond",
         "url": "https://open.spotify.com/album/27YIFWHTmGvUol9A8HaAIx"
       },
@@ -1564,7 +1604,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 194432,
       "name": "crash test - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2F6V0NKuHJVePE7LCBUYaX"
@@ -1954,7 +1994,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 174000,
       "name": "Dsl pas dsl",
       "url": "https://open.spotify.com/track/6gEw1z1oPFWocgk2ysI9xR"
@@ -3092,6 +3132,24 @@
       "duration_ms": 163074,
       "name": "J'm'en voudrais",
       "url": "https://open.spotify.com/track/4jwSH626zHuPoF0I0vh9qj"
+    },
+    {
+      "album": {
+        "name": "j'me demande",
+        "url": "https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP"
+      },
+      "artists": [
+        {
+          "name": "Ambre",
+          "url": "https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188276,
+      "name": "j'me demande",
+      "url": "https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb"
     },
     {
       "album": {
@@ -5004,7 +5062,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 165226,
       "name": "Lili",
       "url": "https://open.spotify.com/track/0T0R06h8bFxkg8hIkPLcK4"

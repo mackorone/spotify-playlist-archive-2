@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Aooo \*👉 <a href="https://spice.eplus.jp/articles/346528">連動記事</a>をSPICEでチェック!
 
-14,908 songs - 39 day 13 hr 32 min
+14,910 songs - 39 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7304,6 +7304,7 @@
 | [SAD SONG \- From THE FIRST TAKE](https://open.spotify.com/track/3ySFBoxNHK3YgU1D9AyMl3) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [No No Girls FINALISTS](https://open.spotify.com/artist/3YmP6Oc4NvRqn5ZoL9KWbo) | [SAD SONG \- From THE FIRST TAKE](https://open.spotify.com/album/6ZJGMyJzQrzG6xLya9aPX7) | 4:46 | 2025-06-03 | 2025-06-11 |
 | [SADjinx](https://open.spotify.com/track/1d6cIEgBq9tIeOtIoyWYFH) | [homarelanka](https://open.spotify.com/artist/0ZPTsITnaR34DZDx0W00RG) | [SADjinx](https://open.spotify.com/album/2BCEE4xVT3wjsF5MBewkoK) | 2:35 | 2023-06-13 | 2023-06-21 |
 | [Safe](https://open.spotify.com/track/4DrqMCjbgOBgp3lIqpzslR) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Safe](https://open.spotify.com/album/7rYKBRAKTcmnP0aohHLDCa) | 3:13 | 2025-06-17 | 2025-06-25 |
+| [Safe Place](https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Safe Place](https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A) | 3:29 | 2026-06-02 |  |
 | [Sagging My Jeans \(feat\. Lil Ash Zange & Tohji\)](https://open.spotify.com/track/7IdJ0etPnVFQg6teIH21kj) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Lil Ash ZANGE](https://open.spotify.com/artist/6CeSgCO0SRpwqhTOCPKvKM), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Sagging My Jeans \(feat\. Lil Ash Zange & Tohji\)](https://open.spotify.com/album/1JV4fJ5l4dqhbm1RPUkLBB) | 3:16 | 2024-11-19 | 2024-11-27 |
 | [sagittarius](https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sagittarius](https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h) | 4:30 | 2026-05-19 | 2026-05-27 |
 | [Saiai No Yukue.](https://open.spotify.com/track/2hTcj0PSKDczMBV2DtwQhP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Saiai No Yukue.](https://open.spotify.com/album/7boDE5vcCHaPqBcibwH8f2) | 4:05 | 2023-12-05 | 2023-12-13 |
@@ -13418,6 +13419,7 @@
 | [我愛日光](https://open.spotify.com/track/6DzQSg9u68129X8iBc8HM0) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT), [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [我愛日光](https://open.spotify.com/album/0PzklrfzTSK1hMHknMlUuc) | 3:20 | 2023-07-04 | 2023-07-12 |
 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 | 2023-05-09 | 2023-05-17 |
 | [戦場のマリア](https://open.spotify.com/track/18xXf4CEYFNmkmWJzqvBNr) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [戦場のマリア](https://open.spotify.com/album/1viHBH2Ogwsw9mgWzqLmiL) | 4:11 | 2024-03-12 | 2024-03-20 |
+| [戯言](https://open.spotify.com/track/10tM8Mx3kIH1KKctACBHXi) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [PRESENT](https://open.spotify.com/album/68I7fJvkzq3gEUf2VMqs12) | 3:41 | 2026-06-02 |  |
 | [戻らない](https://open.spotify.com/track/41gKA8VVphuibOCY94LYb0) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [戻らない](https://open.spotify.com/album/7N30L0Cx6DDcJYbNWqrrXa) | 3:16 | 2024-07-16 | 2024-07-24 |
 | [戻らない](https://open.spotify.com/track/40pO37EjIqbleJwGsuud17) | [mudy on the 昨晩](https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx) | [戻らない](https://open.spotify.com/album/7HDHQxroRbRl5szfRxqvK2) | 3:10 | 2025-12-23 | 2026-01-15 |
 | [戻れメロス](https://open.spotify.com/track/2COvgNBcbJpr53LDCrP7G1) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [戻れメロス](https://open.spotify.com/album/5DveuybunqMtCUnUZ6XcG1) | 2:28 | 2025-11-11 | 2025-11-19 |

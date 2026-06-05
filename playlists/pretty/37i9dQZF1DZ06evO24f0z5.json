@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 91781,
+  "num_followers": 91788,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACnf8L1iOBcRXH4YWbErrva",
+  "snapshot_id": "ah9ugAAAAABQ5e0kHX7/RfHKOeY/QZk6",
   "tracks": [
     {
       "added_at": null,
@@ -37,7 +37,7 @@
         },
         {
           "name": "Manuel",
-          "url": "https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s"
+          "url": "https://open.spotify.com/artist/5lHOH11SexCO7DKTaTP95t"
         }
       ],
       "duration_ms": 222259,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 224597,
-      "name": "Inconmensurable",
-      "url": "https://open.spotify.com/track/0V6SWfA02kWAcn9UPCLmuZ"
+      "duration_ms": 166500,
+      "name": "Expandiendo fuera de mi",
+      "url": "https://open.spotify.com/track/3MxahHVl15Hak6aQQN5Acw"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Expandiendo fuera de mi",
-      "url": "https://open.spotify.com/track/3MxahHVl15Hak6aQQN5Acw"
+      "duration_ms": 224597,
+      "name": "Inconmensurable",
+      "url": "https://open.spotify.com/track/0V6SWfA02kWAcn9UPCLmuZ"
     },
     {
       "added_at": null,

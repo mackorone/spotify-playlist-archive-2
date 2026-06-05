@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 112842,
+  "num_followers": 112942,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Legend - The Best Of Fairuz",
-        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 349266,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Pascale Sakr Sings Elias Rahbani",
         "url": "https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 392840,
       "name": "Ya Sarek Makatibi",
       "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 349266,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "The Best of Azar Habib",
-        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
-      },
-      "artists": [
-        {
-          "name": "Azar Habib",
-          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "Etuel Omrak 2",
-      "url": "https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Shta'na Aa Lebnan",
         "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 250984,
       "name": "Habayebna Hawalayna",
       "url": "https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "The Best of Azar Habib",
+        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
+      },
+      "artists": [
+        {
+          "name": "Azar Habib",
+          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "Etuel Omrak 2",
+      "url": "https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY"
     },
     {
       "added_at": "2025-09-15 06:53:21",

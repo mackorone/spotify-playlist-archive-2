@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,190 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,224 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 29 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
 | 30 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
 | 31 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
-| 32 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
-| 33 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
+| 32 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
+| 33 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
 | 34 | [Visions](https://open.spotify.com/track/1cUMjhHLPqZv7JVepLWx0I) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Visions](https://open.spotify.com/album/2eUc1a27dfnotXM45YipvI) | 4:12 |
 | 35 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |
 | 36 | [Open Road](https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Jony Beats](https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z), [TomInTheChamber](https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3) | [Open Road](https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892) | 3:18 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 43 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 | 44 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 45 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
-| 46 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
-| 47 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
+| 46 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
+| 47 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
 | 48 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
 | 49 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
-| 50 | [Flight Therapy](https://open.spotify.com/track/0IQuaHqxChuGHi8oHyPCFj) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Form, Focus](https://open.spotify.com/album/4sMzSTO9xrkHNYL3nrnnbn) | 2:55 |
+| 50 | [Breathe](https://open.spotify.com/track/16rIY1qbudPY5bi827Zxuz) | [Gabriella Bongo](https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68), [TJ](https://open.spotify.com/artist/6QxCZdZiwzTlKMXxKYBdGs), [Jo](https://open.spotify.com/artist/6VrrHz8WTQs0zcGVgkHRVn) | [Breathe](https://open.spotify.com/album/1SZUNedwEiJrB14TTINzO3) | 2:39 |
 
 Snapshot ID: `AAAAAPKuyJ6i/EzXnDe6+HZEzebaE4yJ`

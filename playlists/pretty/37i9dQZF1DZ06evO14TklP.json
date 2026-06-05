@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 21018,
+  "num_followers": 21041,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACSLL/hyla6p9xVKzf6lOjy",
+  "snapshot_id": "ah9ugAAAAABN0Gp6f6EuQgBqRyU/JsgB",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
-        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
       },
       "artists": [
         {
-          "name": "Alligatorz",
-          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
-      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
     },
     {
       "added_at": null,
@@ -755,26 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PADRIM",
-        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
       },
       "artists": [
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 216774,
-      "name": "CONFIO",
-      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
     },
     {
       "added_at": null,

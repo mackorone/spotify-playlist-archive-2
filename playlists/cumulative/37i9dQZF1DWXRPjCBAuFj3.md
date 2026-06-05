@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  Artie 5ive in cover
+> E lei traballa dentro all'auto e l'auto è tutta scassata
 
 1,042 songs - 2 day 5 hr 40 min
 

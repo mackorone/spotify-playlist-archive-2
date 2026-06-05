@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Lidia Buble",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: INNA",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -514,6 +514,24 @@
       "duration_ms": 174545,
       "name": "all the way",
       "url": "https://open.spotify.com/track/3hBrGbIuoYWirlVlOt2613"
+    },
+    {
+      "album": {
+        "name": "All We Are About",
+        "url": "https://open.spotify.com/album/4UNeqrFbFeMXDmoC2AyOSh"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196990,
+      "name": "All We Are About",
+      "url": "https://open.spotify.com/track/1Wqy2bz7nbRly62gKUIDyy"
     },
     {
       "album": {
@@ -1340,6 +1358,24 @@
       "duration_ms": 204620,
       "name": "Bug a Boo",
       "url": "https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T"
+    },
+    {
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/77PcaOqqbKegxA18hGgWjv"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130404,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/0CVLIzBf0xmtAeUQiLsaFw"
     },
     {
       "album": {
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 192558,
       "name": "Gust de dor",
       "url": "https://open.spotify.com/track/2WWKlAJey0JRfZ75lAsmDQ"
@@ -4776,7 +4812,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 146368,
       "name": "La Galop",
       "url": "https://open.spotify.com/track/7gFModOJvoGAB67GHgDF3M"
@@ -5410,7 +5446,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 144642,
       "name": "Marile Lucruri Mici",
       "url": "https://open.spotify.com/track/65oJkLT7y2naYYZsJnpCCh"
@@ -5650,6 +5686,24 @@
       "duration_ms": 137500,
       "name": "Mor dup\u0103 tine",
       "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
+    },
+    {
+      "album": {
+        "name": "Mr. Saxobeat - Spotify Singles",
+        "url": "https://open.spotify.com/album/4INWAlhyOBANA8GUB7Iugy"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177707,
+      "name": "Mr. Saxobeat - Spotify Singles",
+      "url": "https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW"
     },
     {
       "album": {
@@ -6451,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "O floare",
+        "url": "https://open.spotify.com/album/1dVciAfoRRBPU9MyuHGUH2"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163241,
+      "name": "O floare",
+      "url": "https://open.spotify.com/track/6J7EX3iRXWdEpObpE8UJmo"
+    },
+    {
+      "album": {
         "name": "O lume minunat\u0103",
         "url": "https://open.spotify.com/album/6jcAdXkiZHrDDvQxgA6gQk"
       },
@@ -6978,7 +7050,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180236,
       "name": "Pentru Cei Care Vin",
       "url": "https://open.spotify.com/track/6oSehoDJW0kM60uSwak3cr"
@@ -7376,7 +7448,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 125465,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/4KClcAZW7purR7Cbjs17nE"
@@ -8627,6 +8699,28 @@
     },
     {
       "album": {
+        "name": "Toreador",
+        "url": "https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Toreador",
+      "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
+    },
+    {
+      "album": {
         "name": "Tot ce avem e azi",
         "url": "https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE"
       },
@@ -9386,7 +9480,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 200307,
       "name": "Zbor sublim",
       "url": "https://open.spotify.com/track/0Z7dFnZdiArqWxa8U71ofc"

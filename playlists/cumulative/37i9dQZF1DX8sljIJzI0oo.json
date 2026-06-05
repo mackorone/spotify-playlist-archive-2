@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Katteyes is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
+  "description": "Topboy TGR  is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/04hw9znPUYJavSYhw9FyoU"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
@@ -5906,6 +5906,24 @@
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
+    },
+    {
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/71yJsqI8xwHFTKUTT7d2oN"
+      },
+      "artists": [
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150410,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4"
     },
     {
       "album": {
@@ -23043,6 +23061,36 @@
     },
     {
       "album": {
+        "name": "GANAS REMIX",
+        "url": "https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326746,
+      "name": "GANAS REMIX",
+      "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
+    },
+    {
+      "album": {
         "name": "GANGSTA LUV",
         "url": "https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP"
       },
@@ -39995,6 +40043,24 @@
     },
     {
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Nunca Voy a Morir",
+      "url": "https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ"
+    },
+    {
+      "album": {
         "name": "NYX00 (with JC Reyes)",
         "url": "https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8"
       },
@@ -49011,6 +49077,28 @@
     },
     {
       "album": {
+        "name": "ROMA",
+        "url": "https://open.spotify.com/album/24fRGaB1mblPXMKsPCYTUq"
+      },
+      "artists": [
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        },
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169850,
+      "name": "ROMA",
+      "url": "https://open.spotify.com/track/0NUgJXE6L7SrMmm18nhoSY"
+    },
+    {
+      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
       },
@@ -57888,6 +57976,36 @@
       "duration_ms": 189466,
       "name": "Tussi",
       "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
+    },
+    {
+      "album": {
+        "name": "TUSSI",
+        "url": "https://open.spotify.com/album/169JfihSNvwtcCLsdQNWcX"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Michael Flores",
+          "url": "https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Be Gang",
+          "url": "https://open.spotify.com/artist/7fulJmTM8SPJRPrvePGUoT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/735b3AKwQfuX1DQdUQmTs2"
     },
     {
       "album": {

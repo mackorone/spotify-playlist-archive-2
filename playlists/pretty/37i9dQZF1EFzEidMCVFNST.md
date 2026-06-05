@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164 likes - 307 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 307 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 213 | [Solteira](https://open.spotify.com/track/3o9Lbp18KsNZsQwKgraJEo) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/6zFv6lGXG71eVSR75F6dlA) | 2:41 |
 | 214 | [Não Adianta \- Ao Vivo](https://open.spotify.com/track/2l0L2s0E5UC74zuWvs8NVA) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0S3bY3hEICWwl5nbMPaeyO) | 3:05 |
 | 215 | [Tô Revoando](https://open.spotify.com/track/1E4YTV8hRqWx4kDqA9aTgf) | [DJ Mário](https://open.spotify.com/artist/4w3HIrsRnLIreRiFEXo9Ne), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Tô Revoando](https://open.spotify.com/album/662cCLpLxUla0jDLgUbuzz) | 2:22 |
-| 216 | [Vacilou Demais \- Ao Vivo](https://open.spotify.com/track/7vxgiNwmVnz8wLKIQoIgzn) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:46 |
-| 217 | [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 |
+| 216 | [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 |
+| 217 | [Vacilou Demais \- Ao Vivo](https://open.spotify.com/track/7vxgiNwmVnz8wLKIQoIgzn) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:46 |
 | 218 | [Taca a Rabona \(Remix\)](https://open.spotify.com/track/2v90SY7eV1I7oArFwWiMOK) | [Dreysson Rodrigues](https://open.spotify.com/artist/5rtzvT3hqgWbiXrvywjQFR), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Taca a Rabona \(Remix\)](https://open.spotify.com/album/0J4HcCQmeC7kMYFbfCAzZQ) | 2:26 |
 | 219 | [Pagou de Superado](https://open.spotify.com/track/7txXJ9FNM786lIpxHr9pGf) | [Larissa Manoela](https://open.spotify.com/artist/1454TL51gTbW2Vm5XCFhtv) | [Larissa Manoela A Milhão](https://open.spotify.com/album/7laAQAREq64PDmUBTHiF1u) | 2:27 |
 | 220 | [Mãozinha pra Cima \- Ao Vivo](https://open.spotify.com/track/1FlJcCOn6ibPypkRhGhu7M) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Os Mineiros Tão Chegando](https://open.spotify.com/album/4ZrbA3xcQgKx24vaHHTEcO) | 2:59 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 306 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcTRDgAAAAANLCaavQeKyythHKDSXCQW`
+Snapshot ID: `AcTWrgAAAACTAvOyqDfRnVQ36vEvJ8Rb`

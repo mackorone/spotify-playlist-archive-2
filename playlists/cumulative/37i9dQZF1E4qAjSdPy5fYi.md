@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, Learke, sixwing and more
+> With Learke, UrvTek, STYXVII and more
 
 321 songs - 14 hr 37 min
 

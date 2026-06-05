@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Iceage",
+  "description": "The best indie music of the moment. Cover: CMAT",
   "name": "The Indie List",
   "tracks": [
     {
@@ -438,6 +438,24 @@
       "duration_ms": 172628,
       "name": "A Day Off In Margaritaville",
       "url": "https://open.spotify.com/track/00zDQDIDsgNGMkl48pCqiH"
+    },
+    {
+      "album": {
+        "name": "Vespers",
+        "url": "https://open.spotify.com/album/6oBa6AKsDnxpA9MDJRseCV"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "A Good One",
+      "url": "https://open.spotify.com/track/7GhgWvQPRj4hNh9WSmZasT"
     },
     {
       "album": {
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 150666,
       "name": "Blow my lid",
       "url": "https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 186438,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
@@ -6417,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "Gretchen",
+        "url": "https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171597,
+      "name": "Gretchen",
+      "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
+    },
+    {
+      "album": {
         "name": "Grey Mullet / Scup",
         "url": "https://open.spotify.com/album/0fI1dJtiVGbRA38kN3NHHZ"
       },
@@ -7307,6 +7343,24 @@
     },
     {
       "album": {
+        "name": "Hurracane",
+        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185572,
+      "name": "Hurracane",
+      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+    },
+    {
+      "album": {
         "name": "Husk",
         "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
       },
@@ -7968,6 +8022,24 @@
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "album": {
+        "name": "Into The Sky",
+        "url": "https://open.spotify.com/album/6y6mFe56cz3DFMpXaXOBag"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "Into the Sky",
+      "url": "https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ"
     },
     {
       "album": {
@@ -9529,6 +9601,24 @@
     },
     {
       "album": {
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216208,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
+    },
+    {
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
       },
@@ -10034,7 +10124,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 176853,
       "name": "mettle",
       "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
@@ -11358,7 +11448,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 282062,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
@@ -12376,7 +12466,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 250921,
       "name": "Pushing Away",
       "url": "https://open.spotify.com/track/0Ki52CntVcVTfR9XU9E5cA"
@@ -16522,7 +16612,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 145710,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
@@ -16612,7 +16702,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 214381,
       "name": "Tractor Beam",
       "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
@@ -17463,6 +17553,24 @@
     },
     {
       "album": {
+        "name": "When A Good Man Cries",
+        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
+    },
+    {
+      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -17863,6 +17971,24 @@
     },
     {
       "album": {
+        "name": "The Modern Shoe Is Ruining The Foot",
+        "url": "https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Write You Wrong",
+      "url": "https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh"
+    },
+    {
+      "album": {
         "name": "X-Ray / Clumsy",
         "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
       },
@@ -18000,7 +18126,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 244766,
       "name": "You Were Solved",
       "url": "https://open.spotify.com/track/2GCpKaWWtcM6UKG2oJ2hut"

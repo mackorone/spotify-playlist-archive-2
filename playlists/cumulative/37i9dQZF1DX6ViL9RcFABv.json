@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Bandeira",
+  "description": "Uma playlist de pura alma pop! Foto: IOLANDA",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 146400,
       "name": "AZEITONA",
       "url": "https://open.spotify.com/track/4wPiArr9nDnfcxC8TRCJR1"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 156809,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/4FY8CQXo4r2Q57bW1iSfgg"
@@ -3772,6 +3772,24 @@
       "duration_ms": 180400,
       "name": "Feitos de Carne e Osso",
       "url": "https://open.spotify.com/track/4dQbdqBvaYqCivQtZn7dpW"
+    },
+    {
+      "album": {
+        "name": "Felicidade (radio edit)",
+        "url": "https://open.spotify.com/album/5pCiiEGzBHWN4T1zMXtl9p"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Felicidade (radio edit)",
+      "url": "https://open.spotify.com/track/2B0lUnXYtviK2oRi1aFHce"
     },
     {
       "album": {
@@ -6249,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Noite Inteira",
+        "url": "https://open.spotify.com/album/5hMONTpUdT6sI1Q1HNAokt"
+      },
+      "artists": [
+        {
+          "name": "IOLANDA",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182430,
+      "name": "Noite Inteira",
+      "url": "https://open.spotify.com/track/56KqvI0JSmptWkM2XEG4sX"
+    },
+    {
+      "album": {
         "name": "Um Brinde ao Agora, mas e agora? (Deluxe)",
         "url": "https://open.spotify.com/album/2fKKUpgv3iW9lUgWljcZic"
       },
@@ -6398,6 +6434,24 @@
       "duration_ms": 288945,
       "name": "N\u00e3o Te Ausentes De Mim",
       "url": "https://open.spotify.com/track/5i0rY5P2kTa5JU4qKb5lZl"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o V\u00e1s Embora",
+        "url": "https://open.spotify.com/album/2w4tNGJvCVDMfnmaSYKLVO"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145102,
+      "name": "N\u00e3o V\u00e1s Embora",
+      "url": "https://open.spotify.com/track/6B3weyBaUjPLzNIbYfSjDM"
     },
     {
       "album": {
@@ -8088,7 +8142,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172745,
       "name": "Responso",
       "url": "https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm"

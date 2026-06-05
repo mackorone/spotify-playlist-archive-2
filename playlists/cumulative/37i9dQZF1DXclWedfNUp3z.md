@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-476 songs - 1 day 8 hr 42 min
+477 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-10-20 | 2026-01-30 |
 | [La Cuna del Cisne](https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 2:33 | 2024-07-29 |  |
 | [La Tierra de la Culebra](https://open.spotify.com/track/3oV2LIPGCNA2HlygO7oivy) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [La Tierra de la Culebra](https://open.spotify.com/album/0x0QHB165KbmxHTJFdj8GB) | 2:04 | 2021-10-20 | 2022-07-29 |
+| [La Voce del Vento](https://open.spotify.com/track/57EayPSjQEM6YmTNFFIVjx) | [Jolly Mare](https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO), [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La Luce dell'Alba](https://open.spotify.com/album/7HaroMYba1ucfnRvm3fBEm) | 2:48 | 2026-06-04 |  |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-20 | 2022-09-20 |
 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-20 | 2022-11-02 |
 | [Lake Of Gold](https://open.spotify.com/track/0fI8RRzQhbc92lhT8bN7xr) | [Kirk Barley](https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg) | [Lake Of Gold](https://open.spotify.com/album/4lJ3k8ZmLfvu7Voy8EJw6d) | 4:41 | 2024-01-04 | 2024-06-01 |
@@ -237,7 +238,7 @@
 | [Lost in Buenos Aires](https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [The Sound of Living Things](https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe) | 4:25 | 2022-03-30 | 2022-07-19 |
 | [Lotus](https://open.spotify.com/track/3NZl1oPmj7RIJ3YeS5OLTF) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Lotus](https://open.spotify.com/album/6Pff2efDPEKIOFn53REldJ) | 3:05 | 2021-10-20 | 2022-04-21 |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 | 2024-11-13 |
-| [Make Me Feel Loved](https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx) | [Juan Pablo Garcia Garcia](https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA), [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Infinite Present](https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q) | 3:47 | 2024-02-02 |  |
+| [Make Me Feel Loved](https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx) | [Juan Pablo Garcia Garcia](https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA), [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Infinite Present](https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q) | 3:47 | 2024-02-02 | 2026-06-05 |
 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-12 | 2026-05-27 |
 | [Management Of Sorrows](https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Chrys Jones](https://open.spotify.com/artist/4CHYSMGosrDC0PvydWgTO2), [Dylan Ellicott](https://open.spotify.com/artist/6D27nHBCZzRy7AOydwkonK), [Patrick Spatz](https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid) | [Mountains, Go](https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9) | 8:39 | 2022-01-07 | 2022-07-16 |
 | [Manchmal](https://open.spotify.com/track/4yYTydreYQ4qBj2GdEKTB3) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 2:09 | 2025-02-28 | 2025-05-29 |

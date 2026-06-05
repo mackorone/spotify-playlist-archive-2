@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60120,
+  "num_followers": 60138,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -339,22 +343,18 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Ring",
-      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "A1 (feat. Kizz Daniel)",
-        "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 131526,
-      "name": "A1 (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 171250,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "A1 (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 131526,
+      "name": "A1 (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
     },
     {
       "added_at": "2026-05-29 00:02:09",

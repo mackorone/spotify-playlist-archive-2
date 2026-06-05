@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96466,
+  "num_followers": 96508,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAA6MN7JwOahnkFEQW9btHsC",
+  "snapshot_id": "ah9ugAAAAACSr+ao6e+bt0IHu29/Np5I",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "TJ O'Neill",
+          "url": "https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
+      "duration_ms": 443379,
+      "name": "Weight of Sound",
+      "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "TJ O'Neill",
-          "url": "https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262"
         }
       ],
-      "duration_ms": 443379,
-      "name": "Weight of Sound",
-      "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+      "duration_ms": 260000,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
     },
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Gardenia (with Stick Figure)",
+      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
@@ -223,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 233314,
-      "name": "Gardenia (with Stick Figure)",
-      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 323068,
-      "name": "Old Sunrise",
-      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
+      "duration_ms": 256588,
+      "name": "Fall into the Sun",
+      "url": "https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 256588,
-      "name": "Fall into the Sun",
-      "url": "https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP"
+      "duration_ms": 323068,
+      "name": "Old Sunrise",
+      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
     },
     {
       "added_at": null,

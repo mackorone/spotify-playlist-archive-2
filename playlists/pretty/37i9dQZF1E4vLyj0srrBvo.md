@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Phantogram, Labyrinth Ear, Cocteau Twins and more
+> With Pastel Ghost, Phantogram, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,899 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,908 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Pixel Affection](https://open.spotify.com/track/2c5bFJ82YxgGprGjOq1OaO) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 3:39 |
 | 50 | [Humble Bones](https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Apparitions](https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz) | 4:41 |
 
-Snapshot ID: `AAAAAFrb+48Lq55dEhbMBSMPW4LT46as`
+Snapshot ID: `AAAAAC6+3CNOVAhWONfUYYynKrcvgWpw`

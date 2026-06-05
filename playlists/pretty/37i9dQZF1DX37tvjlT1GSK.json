@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Kane Rodriguez, T3R Elemento en cover.",
-  "num_followers": 825505,
+  "num_followers": 825554,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Sin Rumbo",
         "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     },
     {
       "added_at": "2026-05-08 09:18:16",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2026-05-08 09:18:16",
       "album": {
-        "name": "La Bolsa Gucci",
-        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "La Bolsa Gucci",
-      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2026-05-08 09:18:16",
-      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
+    },
+    {
+      "added_at": "2026-05-08 09:18:16",
+      "album": {
+        "name": "La Bolsa Gucci",
+        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "La Bolsa Gucci",
+      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
     }
   ],
   "unique_name": "Sierre\u00f1o 2026",

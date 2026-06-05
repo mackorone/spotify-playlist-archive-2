@@ -4,7 +4,7 @@
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-85 songs - 6 hr 51 min
+86 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ahl El Malama](https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9) | 4:37 | 2021-02-21 | 2024-04-19 |
 | [Ahl El Malama](https://open.spotify.com/track/2YdUrPVlTpYnulFE6p5Svq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/49bjvVv25Lp7SGu1YOZg5x) | 4:37 | 2021-02-21 | 2022-07-29 |
 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 | 2023-04-12 |  |
+| [Al Sood Oyouno](https://open.spotify.com/track/4YOT9nhghKCiTncEIEyWvd) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Nar Al Hob](https://open.spotify.com/album/7utlKxzLekJ6Bb43ZQTm1G) | 4:09 | 2026-06-01 |  |
 | [Al Yadi El Yadi](https://open.spotify.com/track/5pQdsTQ9AqO7azscRia6o4) | [Wadi Al Safi](https://open.spotify.com/artist/1ERFuXEJSygocfY6ZoMOW8) | [Idak Al Ghali](https://open.spotify.com/album/0YHvvPItIxdV4AIqwEncn0) | 3:11 | 2021-02-21 | 2022-07-29 |
 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 | 2021-02-21 | 2024-04-19 |
 | [Albi Eshi’ha](https://open.spotify.com/track/4xSukcHWU8LrtWSTjOInpM) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Alby Eshekha](https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90) | 5:44 | 2021-02-21 |  |
@@ -80,7 +81,7 @@
 | [Ya Tara](https://open.spotify.com/track/1qzVBmXs4OeL8nwl7bZIMf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Yally Mashy](https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM) | 5:33 | 2021-02-21 | 2024-04-19 |
 | [Ya Tara](https://open.spotify.com/track/2mDZL9UPXkxuQujnuLPoZi) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Yally Mashy](https://open.spotify.com/album/14nSahDkxSak6Boa5dZnVX) | 5:33 | 2021-02-21 | 2026-06-02 |
 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 | 2021-02-21 |  |
-| [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 | 2021-02-21 |  |
+| [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 | 2021-02-21 | 2026-06-05 |
 | [انا لو حبيبك](https://open.spotify.com/track/6uDXHTKs0xQoofqMk7VuvO) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 5:27 | 2026-06-01 |  |
 | [حيروني](https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [حيروني](https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5) | 4:06 | 2021-02-21 | 2026-06-02 |
 | [ساكن](https://open.spotify.com/track/0lyWE6PTfTXYdOHdZoftXw) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ساكن](https://open.spotify.com/album/0WwtOQ48tznRZGBzwEqJfY) | 4:41 | 2026-06-01 |  |

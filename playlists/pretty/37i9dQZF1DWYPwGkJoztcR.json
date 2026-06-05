@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397488,
+  "num_followers": 397493,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 189136,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 192823,
       "name": "Happier - Piano Version",
       "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 245562,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
-      },
-      "artists": [
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 232082,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
+      },
+      "artists": [
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
-      },
-      "artists": [
-        {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+      },
+      "artists": [
+        {
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 248019,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Always Lost",
         "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 199000,
       "name": "Always Lost",
       "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Trouble Is Me",
-        "url": "https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN"
-      },
-      "artists": [
-        {
-          "name": "Tangarine",
-          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
-        }
-      ],
-      "duration_ms": 192442,
-      "name": "Trouble Is Me",
-      "url": "https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Back to the River",
         "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 249863,
       "name": "Back to the River",
       "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Trouble Is Me",
+        "url": "https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "duration_ms": 192442,
+      "name": "Trouble Is Me",
+      "url": "https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Distant Rain",
-        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
-      },
-      "artists": [
-        {
-          "name": "Gis\u00e8le",
-          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Distant Rain",
-      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+        "name": "Distant Rain",
+        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Gis\u00e8le",
+          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
         }
       ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
+      "duration_ms": 141720,
+      "name": "Distant Rain",
+      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1571,6 +1555,22 @@
       "duration_ms": 215514,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2026-05-26 22:00:49",

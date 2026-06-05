@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,812 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,826 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 52 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
 | 53 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 54 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
-| 55 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
+| 55 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
 | 56 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
-| 57 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
+| 57 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 58 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
 | 59 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity The Tuck](https://open.spotify.com/artist/23crczyZ25pQ82EXkDktKv) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
 | 60 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 66 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
 | 67 | [I Specialise In Love](https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Part 2: The Antidote](https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh) | 2:49 |
 | 68 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
-| 69 | [Sunshine State](https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE), [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Sunshine State](https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka) | 3:06 |
-| 70 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
+| 69 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
+| 70 | [Sunshine State](https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE), [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Sunshine State](https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka) | 3:06 |
 | 71 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 |
 | 72 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 73 | [Out of Office](https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE) | [Karen From Finance](https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f) | [Out of Office](https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C) | 3:14 |
-| 74 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
-| 75 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
+| 74 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
+| 75 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
 | 76 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
 | 77 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
 | 78 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |

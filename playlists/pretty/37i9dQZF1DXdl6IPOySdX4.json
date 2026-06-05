@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2186602,
+  "num_followers": 2186923,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4HgG00u7q0mmWac1djf2gUYv5j",
+  "snapshot_id": "AAAAAKcKnd9uE0GN1klnermN5Qmqmlrp",
   "tracks": [
     {
       "added_at": "2026-05-25 21:42:21",
@@ -41,36 +41,20 @@
       "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
     },
     {
-      "added_at": "2026-05-29 04:01:16",
+      "added_at": "2026-06-05 04:01:51",
       "album": {
-        "name": "HEAVEN'S ON FIRE",
-        "url": "https://open.spotify.com/album/3FDnXLTQpefJBBNuVTx8gO"
+        "name": "jAGUAR",
+        "url": "https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7"
       },
       "artists": [
         {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
         }
       ],
-      "duration_ms": 174374,
-      "name": "HEAVEN'S ON FIRE",
-      "url": "https://open.spotify.com/track/6gsppD0BgCxZl3gSA8rAIp"
-    },
-    {
-      "added_at": "2026-05-25 21:42:21",
-      "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
+      "duration_ms": 222602,
+      "name": "jAGUAR",
+      "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -87,42 +71,6 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2026-05-25 21:42:21",
-      "album": {
-        "name": "miss me, babe?",
-        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "Hera Lind",
-          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "miss me, babe?",
-      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
-    },
-    {
-      "added_at": "2026-05-25 21:42:21",
-      "album": {
-        "name": "Sex with my Ex",
-        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 179726,
-      "name": "Sex with my Ex",
-      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -149,6 +97,26 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
+      "added_at": "2026-05-25 21:42:21",
+      "album": {
+        "name": "miss me, babe?",
+        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "miss me, babe?",
+      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Shut up My Moms Calling",
@@ -163,6 +131,22 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "added_at": "2026-05-29 04:01:16",
+      "album": {
+        "name": "HEAVEN'S ON FIRE",
+        "url": "https://open.spotify.com/album/3FDnXLTQpefJBBNuVTx8gO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "HEAVEN'S ON FIRE",
+      "url": "https://open.spotify.com/track/6gsppD0BgCxZl3gSA8rAIp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -181,6 +165,22 @@
       "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
     },
     {
+      "added_at": "2026-06-05 04:01:51",
+      "album": {
+        "name": "New Boy",
+        "url": "https://open.spotify.com/album/2VXIUV45brM8NAoKeQn5Dg"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "New Boy",
+      "url": "https://open.spotify.com/track/1Wt7sKbYdV0mGJ8Qjavgmm"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Blonde",
@@ -195,6 +195,22 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2026-06-05 04:01:51",
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4ytAsi4C0cCiKpJL9iOlSm"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/6oPY6kNFFkgViDDYkrRM96"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
-      "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "NEVER ENOUGH",
@@ -323,6 +323,22 @@
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
+      "added_at": "2025-07-03 03:36:52",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 226978,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -573,24 +589,20 @@
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 379533,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+      "duration_ms": 91869,
+      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -613,20 +625,24 @@
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2025-07-03 03:36:52",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
         }
       ],
-      "duration_ms": 91869,
-      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1469,6 +1485,22 @@
       "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
     },
     {
+      "added_at": "2026-05-25 21:42:21",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
+    },
+    {
       "added_at": "2026-02-03 17:00:46",
       "album": {
         "name": "Do I Wanna Know?",
@@ -1499,6 +1531,22 @@
       "duration_ms": 169685,
       "name": "DIET",
       "url": "https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59"
+    },
+    {
+      "added_at": "2026-05-25 21:42:21",
+      "album": {
+        "name": "Sex with my Ex",
+        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 179726,
+      "name": "Sex with my Ex",
+      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
     },
     {
       "added_at": "2026-02-20 05:35:55",
@@ -1651,58 +1699,6 @@
       "duration_ms": 214840,
       "name": "DIRTY LITTLE SECRET",
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
-    },
-    {
-      "added_at": "2026-01-23 05:50:23",
-      "album": {
-        "name": "I Was Made for Loving You",
-        "url": "https://open.spotify.com/album/4cipoOxX66IOoLyH7xGjjR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Kole",
-          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "I Was Made for Loving You",
-      "url": "https://open.spotify.com/track/77YB9Zep5ZAMIpMwYWSV4b"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "obsessed",
-        "url": "https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3"
-      },
-      "artists": [
-        {
-          "name": "zandros",
-          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
-        },
-        {
-          "name": "Limi",
-          "url": "https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9"
-        }
-      ],
-      "duration_ms": 180110,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
     }
   ],
   "unique_name": "goosebumps",

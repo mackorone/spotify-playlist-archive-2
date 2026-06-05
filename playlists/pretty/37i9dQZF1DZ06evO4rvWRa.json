@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638682,
+  "num_followers": 1638692,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADI1CFb2o6f6zrWGsyUZxuc",
+  "snapshot_id": "ah9ugAAAAADTrkUcl8b5vOrf9tQvdWNR",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 202210,
-      "name": "Eroina",
-      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi"
       },
@@ -583,22 +563,6 @@
       "duration_ms": 167173,
       "name": "Legends Never Die (Remix)",
       "url": "https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": null,
@@ -632,13 +596,29 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
+      "duration_ms": 202210,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs"
     },
     {
       "added_at": null,
@@ -949,7 +949,7 @@
         }
       ],
       "duration_ms": 176080,
-      "name": "Land of the Heroes",
+      "name": "Land Of The Heroes",
       "url": "https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4"
     },
     {

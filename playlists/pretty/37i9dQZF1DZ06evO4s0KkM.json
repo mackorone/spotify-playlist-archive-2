@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126581,
+  "num_followers": 126587,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADAdXY9EyhWA9EUz+eYyPgv",
+  "snapshot_id": "ah9ugAAAAACs84vjT7EgdGgQbeP7Vna0",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "The Rocky Road to Dublin",
-      "url": "https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 248586,
       "name": "Going Out In Style",
       "url": "https://open.spotify.com/track/6fUSDXwV5OqMev2kLhNM2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "The Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 191415,
-      "name": "Always By My Side",
-      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed and Sealed In Blood",
-        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+      "duration_ms": 191415,
+      "name": "Always By My Side",
+      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 181843,
       "name": "Kids Games",
       "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160025,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest of Times (Limited Edition)",
         "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166973,
       "name": "Famous For Nothing",
       "url": "https://open.spotify.com/track/01EUW7oVCUNwnBV1yRb3dE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 160025,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h"
     },
     {
       "added_at": null,

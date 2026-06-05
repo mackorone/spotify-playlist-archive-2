@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Bea Miller on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,149 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,112 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 8 | [Ribcage](https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Ribcage](https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt) | 3:00 |
 | 9 | [Halo](https://open.spotify.com/track/3MgGFYHiG7pDtEJeTDS3Zp) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [TRAUMACORE \(RAW AND UNCUT\) \(DELUXE\)](https://open.spotify.com/album/2n0tnH0kjV3nwSRumMClSu) | 2:31 |
 | 10 | [Ego](https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Ego](https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw) | 2:56 |
-| 11 | [EAT U ALIVE](https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [EAT U ALIVE](https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz) | 2:51 |
+| 11 | [EAT U ALIVE](https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [EAT U ALIVE](https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz) | 2:48 |
 | 12 | [Hallucination](https://open.spotify.com/track/3Fcnn90rR3xPYf1yluDyhu) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Hallucination](https://open.spotify.com/album/3yMcy9pftiW6sPrscdImlT) | 3:22 |
 | 13 | [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 |
 | 14 | [Mother](https://open.spotify.com/track/1GetI7Wey71J1LXKONATcO) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Mother](https://open.spotify.com/album/2GcvOIiDvnAyK1gLEgMQVu) | 1:39 |

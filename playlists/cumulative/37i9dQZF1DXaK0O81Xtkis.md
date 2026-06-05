@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Obed Padilla
 
-1,614 songs - 3 day 8 hr 40 min
+1,616 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-28 | 2024-08-17 |
 | [Deep Diving](https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM) | 3:22 | 2025-06-20 | 2025-08-30 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
-| [deja blues](https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes](https://open.spotify.com/album/3SO3u6dMOH9criZfNzeLmG) | 2:31 | 2026-03-20 |  |
+| [deja blues](https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes](https://open.spotify.com/album/3SO3u6dMOH9criZfNzeLmG) | 2:31 | 2026-03-20 | 2026-06-05 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-28 | 2025-04-12 |
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-28 | 2023-12-09 |
@@ -635,6 +635,7 @@
 | [Hiding \(feat\. Arizona Zervas\)](https://open.spotify.com/track/1ZTyVPPQWoxsXmTLHToms0) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Hiding \(feat\. Arizona Zervas\)](https://open.spotify.com/album/5XTq7rGS6OYo9O1xf5BZTc) | 2:26 | 2024-04-05 | 2024-06-01 |
 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 | 2023-01-06 | 2023-02-18 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-03-26 |
+| [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-05 |  |
 | [High School](https://open.spotify.com/track/3Mk56Ai0ZP4MSW7ia46ODo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [High School](https://open.spotify.com/album/7E8E4TMwq66ixZhHdFoVhL) | 2:46 | 2021-10-29 | 2022-02-05 |
 | [High School](https://open.spotify.com/track/18WbWMRXGmW2GFaTm5MMe2) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [High School](https://open.spotify.com/album/2ClKWz9V3rnLSlksV9JEXe) | 3:00 | 2022-01-07 | 2022-02-26 |
 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 | 2024-04-27 |
@@ -934,6 +935,7 @@
 | [Memories](https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Memories](https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs) | 3:12 | 2025-08-08 | 2025-12-20 |
 | [memory lane](https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [everywhere i go, there i am](https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z) | 2:51 | 2024-11-15 | 2025-01-25 |
 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 | 2024-02-10 |
+| [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 |  |
 | [MESS](https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [MESS](https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA) | 2:30 | 2025-02-14 | 2025-05-17 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-14 | 2025-05-17 |
 | [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-27 | 2025-11-22 |
@@ -1130,7 +1132,7 @@
 | [Psycho \(When I Wake Up\)](https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Psycho \(When I Wake Up\)](https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa) | 3:15 | 2022-02-11 | 2022-02-26 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-07 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 | 2023-01-28 |
-| [RAINFOREST](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RAINFOREST](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 | 2026-03-20 |  |
+| [RAINFOREST](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RAINFOREST](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 | 2026-03-20 | 2026-06-05 |
 | [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 | 2025-07-25 | 2025-11-22 |
 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-05-26 | 2023-07-08 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-29 | 2022-03-26 |

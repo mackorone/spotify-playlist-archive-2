@@ -1,35 +1,15 @@
 {
-  "description": "Blasterjaxx au top des bangers dance/electro du moment !",
+  "description": "HUGEL au top des bangers dance/electro du moment !",
   "num_followers": 431475,
   "original_name": "BANGER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOzPEHyeBD14Rpm19JHzv0fbFDm",
+  "snapshot_id": "AAAAADT+bNrwSm12aIfgjT+y3KDk7RTA",
   "tracks": [
     {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "D\u00e9senchant\u00e9e 3000",
-        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184965,
-      "name": "D\u00e9senchant\u00e9e 3000",
-      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
@@ -49,23 +29,27 @@
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/79goWSRA9wilYN9NnAmnSy"
+        "name": "D\u00e9senchant\u00e9e 3000",
+        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
       },
       "artists": [
         {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 151846,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/11XIqROIzDGzzAUi0ZqesR"
+      "duration_ms": 184965,
+      "name": "D\u00e9senchant\u00e9e 3000",
+      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "NO BATID\u00c3O",
         "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
@@ -85,7 +69,7 @@
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
@@ -117,7 +101,7 @@
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
@@ -137,27 +121,23 @@
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro"
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/79goWSRA9wilYN9NnAmnSy"
       },
       "artists": [
         {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
         }
       ],
-      "duration_ms": 125625,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
+      "duration_ms": 151846,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/11XIqROIzDGzzAUi0ZqesR"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "No Good (Start the Dance)",
         "url": "https://open.spotify.com/album/2SzL83c1puODCyxYV3mc2d"
@@ -181,7 +161,7 @@
       "url": "https://open.spotify.com/track/3N8u196G4Gc0dPXRaUfpWZ"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Sar\u00e0 perch\u00e9 ti amo",
         "url": "https://open.spotify.com/album/6NZYF0J6cInZOk3otR1AfY"
@@ -205,27 +185,47 @@
       "url": "https://open.spotify.com/track/1npyVzaauOUnAaYBMSMsk0"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+      "duration_ms": 125625,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/4ImOLLeOpQtooSemIRx2pl"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/0DVD3CGjarIqqsMv0WbpiS"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Berghain (Remix)",
         "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE"
@@ -269,67 +269,7 @@
       "url": "https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Thanda Choir",
-          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
-        }
-      ],
-      "duration_ms": 145453,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Just The Way You Are (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/0tiuN33KNTQFy9FtylInhP"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181609,
-      "name": "Just The Way You Are - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5nPg9OfomaVsoSAWsCcOsB"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/4ImOLLeOpQtooSemIRx2pl"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/0DVD3CGjarIqqsMv0WbpiS"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/1COijvnvxBD1QvjNuo7FHd"
@@ -349,7 +289,7 @@
       "url": "https://open.spotify.com/track/26hLh5epXObfnueEVzmxSP"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "I Run",
         "url": "https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri"
@@ -369,7 +309,47 @@
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+        }
+      ],
+      "duration_ms": 145453,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Just The Way You Are (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/0tiuN33KNTQFy9FtylInhP"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181609,
+      "name": "Just The Way You Are - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5nPg9OfomaVsoSAWsCcOsB"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -389,27 +369,7 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Walked Away",
-        "url": "https://open.spotify.com/album/6cvgQwNKooq6BRqkHwV05v"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Walked Away",
-      "url": "https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6"
@@ -429,7 +389,7 @@
       "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
@@ -445,67 +405,7 @@
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Tout donner",
-        "url": "https://open.spotify.com/album/13W5barXsd8Fc9Ck4yOVIR"
-      },
-      "artists": [
-        {
-          "name": "L.B. One",
-          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
-        }
-      ],
-      "duration_ms": 169848,
-      "name": "Tout donner",
-      "url": "https://open.spotify.com/track/4hxfDyKM72KGZfJWmbOKwV"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Think About Us",
-        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 178148,
-      "name": "Think About Us",
-      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Save Me Tonight",
-        "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 196003,
-      "name": "Save Me Tonight",
-      "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Unfaithful",
         "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
@@ -521,51 +421,43 @@
       "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/13W5barXsd8Fc9Ck4yOVIR"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "L.B. One",
+          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+      "duration_ms": 169848,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/4hxfDyKM72KGZfJWmbOKwV"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Save My Love",
-        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+        "name": "Walked Away",
+        "url": "https://open.spotify.com/album/6cvgQwNKooq6BRqkHwV05v"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         }
       ],
-      "duration_ms": 210404,
-      "name": "Save My Love",
-      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
+      "duration_ms": 174960,
+      "name": "Walked Away",
+      "url": "https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
@@ -585,71 +477,27 @@
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+        "name": "Release The Pressure",
+        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+      "duration_ms": 203668,
+      "name": "Release The Pressure",
+      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Gone Gone Gone (Done Done Done) [feat. Teddy Swims] [David Guetta Remix]",
-        "url": "https://open.spotify.com/album/7ypDy3rrmR6ZasyX6WuUvu"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Gone Gone Gone (Done Done Done) [feat. Teddy Swims] - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5bjFSjfotRhjHnbHoBYhsW"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
@@ -673,10 +521,118 @@
       "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Awake Tonight",
-        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "The Night (belongs to lovers)",
+        "url": "https://open.spotify.com/album/5naJHMgqYdZycqUSE3Vi9D"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 152238,
+      "name": "The Night (belongs to lovers)",
+      "url": "https://open.spotify.com/track/1OhTZB94I5jiazUITLTeDD"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Gone Gone Gone (Done Done Done) [feat. Teddy Swims] [David Guetta Remix]",
+        "url": "https://open.spotify.com/album/7ypDy3rrmR6ZasyX6WuUvu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Gone Gone Gone (Done Done Done) [feat. Teddy Swims] - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5bjFSjfotRhjHnbHoBYhsW"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Think About Us",
+        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 178148,
+      "name": "Think About Us",
+      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
       },
       "artists": [
         {
@@ -684,40 +640,96 @@
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "duration_ms": 202739,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Awake Tonight",
-      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
+      "duration_ms": 196003,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/3DYHEoVTNmDJzXAH7J3HNI"
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF"
       },
       "artists": [
         {
-          "name": "Upsilone",
-          "url": "https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Olivia Stone",
-          "url": "https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI"
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
         }
       ],
-      "duration_ms": 160270,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/61hCrar05r0Wsy6E2BuCmq"
+      "duration_ms": 148671,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Dive Into Me",
+        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Dive Into Me",
+      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
       "album": {
         "name": "Hey Son",
         "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
@@ -745,86 +757,30 @@
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "Release The Pressure",
-        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 203668,
-      "name": "Release The Pressure",
-      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
-      "added_at": "2026-05-28 22:01:19",
+      "added_at": "2026-06-04 22:00:49",
       "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 148671,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "The Night (belongs to lovers)",
-        "url": "https://open.spotify.com/album/5naJHMgqYdZycqUSE3Vi9D"
-      },
-      "artists": [
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        }
-      ],
-      "duration_ms": 152238,
-      "name": "The Night (belongs to lovers)",
-      "url": "https://open.spotify.com/track/1OhTZB94I5jiazUITLTeDD"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Dive Into Me",
-        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Dive Into Me",
-      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
-    },
-    {
-      "added_at": "2026-05-28 22:01:19",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
+        "name": "Awake Tonight",
+        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
       },
       "artists": [
         {
@@ -832,13 +788,57 @@
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "Am\u00e9l",
-          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 202739,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16"
+      "duration_ms": 190013,
+      "name": "Awake Tonight",
+      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+    },
+    {
+      "added_at": "2026-06-04 22:00:49",
+      "album": {
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/3DYHEoVTNmDJzXAH7J3HNI"
+      },
+      "artists": [
+        {
+          "name": "Upsilone",
+          "url": "https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA"
+        },
+        {
+          "name": "Olivia Stone",
+          "url": "https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI"
+        }
+      ],
+      "duration_ms": 160270,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/61hCrar05r0Wsy6E2BuCmq"
     }
   ],
   "unique_name": "BANGER",

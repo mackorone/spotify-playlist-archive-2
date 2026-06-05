@@ -7412,10 +7412,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 253782,
       "name": "why'd you have to call",
       "url": "https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3"
+    },
+    {
+      "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253782,
+      "name": "why'd you have to call",
+      "url": "https://open.spotify.com/track/6mCGCsAhbZXWOsHUrWFhhO"
     },
     {
       "album": {

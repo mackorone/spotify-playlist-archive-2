@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Anangga",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rayi Putra, Farrel Hilal",
   "name": "JIVVA",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 128424,
       "name": "365 DAYS",
       "url": "https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO"
@@ -1683,6 +1683,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/4aNePmRNnjTOVh3PgqtNxT"
+      },
+      "artists": [
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135432,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/1ARGO5jcbNkka0uGRaIa3S"
+    },
+    {
+      "album": {
         "name": "GODSENT",
         "url": "https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1"
       },
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 251544,
       "name": "Harus Kemana",
       "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
@@ -2276,6 +2298,24 @@
       "duration_ms": 187764,
       "name": "Jangan Jatuh Cinta Di Jakarta",
       "url": "https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou"
+    },
+    {
+      "album": {
+        "name": "JANGAN JAUH",
+        "url": "https://open.spotify.com/album/6XrScvnCtCk6kmsp3BYtxT"
+      },
+      "artists": [
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "JANGAN JAUH",
+      "url": "https://open.spotify.com/track/6U5ajYRHzwjtDquZ1yZFyq"
     },
     {
       "album": {
@@ -2882,6 +2922,24 @@
       "duration_ms": 245421,
       "name": "Looking for Love in Wrong Places",
       "url": "https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ"
+    },
+    {
+      "album": {
+        "name": "Lost In Goodbye",
+        "url": "https://open.spotify.com/album/309phrWMkLw8ba4XYgw3MB"
+      },
+      "artists": [
+        {
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196867,
+      "name": "Lost In Goodbye",
+      "url": "https://open.spotify.com/track/5zybBaJSemuRy7kIZ5xBgo"
     },
     {
       "album": {
@@ -3804,7 +3862,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 232195,
       "name": "Safe Spot",
       "url": "https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY"
@@ -4152,7 +4210,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 221600,
       "name": "Singing Again",
       "url": "https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy"
@@ -4624,6 +4682,28 @@
       "duration_ms": 199500,
       "name": "Teman Saja?",
       "url": "https://open.spotify.com/track/0SKL2yqIcbrJV667qtKgCa"
+    },
+    {
+      "album": {
+        "name": "Terbang",
+        "url": "https://open.spotify.com/album/5V4ZwUqnadzfO4uIjqOANt"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Soul System",
+          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
+        },
+        {
+          "name": "Bryan Renaldo",
+          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Terbang",
+      "url": "https://open.spotify.com/track/4ISuno6tJruKgP6fZQ6pIa"
     },
     {
       "album": {

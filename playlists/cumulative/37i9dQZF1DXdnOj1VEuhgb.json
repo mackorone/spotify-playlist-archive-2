@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive x Jefe",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: No.1",
   "name": "NKVT",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 119172,
       "name": "#i\u015fbirli\u011fi",
       "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 104489,
       "name": "ABAZA",
       "url": "https://open.spotify.com/track/0L4j7euuVZ2y42E0mvQn0Y"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 458822,
       "name": "Analar\u0131 A\u011flatan & Canlard\u0131r - Tribute",
       "url": "https://open.spotify.com/track/2yH6yfobJRkyO47ULpefe1"
@@ -1674,6 +1674,28 @@
       "duration_ms": 141757,
       "name": "Arayamad\u0131m",
       "url": "https://open.spotify.com/track/1yqsRQmiXPw0KI1Zu1qTGW"
+    },
+    {
+      "album": {
+        "name": "ARD",
+        "url": "https://open.spotify.com/album/5pP0HXpkSzVxuJlxOsEXlm"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "ARD",
+      "url": "https://open.spotify.com/track/72CNwxhlCSOMSsZ6FJXh4D"
     },
     {
       "album": {
@@ -4050,7 +4072,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 122134,
       "name": "CADDEBOSTAN",
       "url": "https://open.spotify.com/track/3SYOo45VXHJyoacpLQVEfb"
@@ -5937,6 +5959,24 @@
     },
     {
       "album": {
+        "name": "T\u00d6VBE",
+        "url": "https://open.spotify.com/album/0zOntUDKIKKnCI17Amhzak"
+      },
+      "artists": [
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137608,
+      "name": "Ellere B\u0131rakt\u0131n",
+      "url": "https://open.spotify.com/track/6THM6HIgBtUq3qArP3pM9L"
+    },
+    {
+      "album": {
         "name": "ERASMUS",
         "url": "https://open.spotify.com/album/7aXVIANzjYPDUpdgml4uYd"
       },
@@ -6102,7 +6142,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 173173,
       "name": "Extendo Reloaded",
       "url": "https://open.spotify.com/track/39dI0rgZxESJs3vQa86lbN"
@@ -6762,7 +6802,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 211917,
       "name": "Geceleri Yak",
       "url": "https://open.spotify.com/track/0hZsxXnrkDzPQjGvxsyN39"
@@ -6914,7 +6954,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 132934,
       "name": "Geri say\u0131m",
       "url": "https://open.spotify.com/track/6IAap1gkaatqbmwaxziZHx"
@@ -7708,7 +7748,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 116727,
       "name": "Halef Selef",
       "url": "https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7"
@@ -10325,6 +10365,24 @@
     },
     {
       "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Kay\u0131p Kalp",
+      "url": "https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg"
+    },
+    {
+      "album": {
         "name": "Kay\u0131p Y\u0131llar\u0131m",
         "url": "https://open.spotify.com/album/61l1uwaODkP7TMtMuD1x29"
       },
@@ -11142,7 +11200,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 135000,
       "name": "kurtuldum denizlerden",
       "url": "https://open.spotify.com/track/1nPYA47qn8pqZsFlTOcMX8"
@@ -12569,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "Ma\u015fallah",
+        "url": "https://open.spotify.com/album/3GxoC9pHHs2C2lKo4Q6Gdl"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136343,
+      "name": "Ma\u015fallah",
+      "url": "https://open.spotify.com/track/3nX8jHSQ0quuVUvVjqu22m"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3YcjNeaitCQ8VEDbpAdQDs"
       },
@@ -13854,7 +13930,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 131297,
       "name": "NOT",
       "url": "https://open.spotify.com/track/54tI3ldQiUsdC9BcIhkHW3"
@@ -14185,6 +14261,28 @@
     },
     {
       "album": {
+        "name": "OUTTA SYY",
+        "url": "https://open.spotify.com/album/3oqzEDMNOjL5NY93gHpMDm"
+      },
+      "artists": [
+        {
+          "name": "Ginjin",
+          "url": "https://open.spotify.com/artist/4RFxxqDxfZLkxQlcqFIjeZ"
+        },
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180021,
+      "name": "OUTTA SYY",
+      "url": "https://open.spotify.com/track/1Y7jpJ4KulvMcMQU3qzt2J"
+    },
+    {
+      "album": {
         "name": "DIVA/NE EP pt.1",
         "url": "https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S"
       },
@@ -14200,7 +14298,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195918,
       "name": "Oyna",
       "url": "https://open.spotify.com/track/4pm0Eh3rW3pSbVnUqU08Nj"
@@ -14834,6 +14932,28 @@
       "duration_ms": 133563,
       "name": "Promilim Y\u00fcksek",
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
+    },
+    {
+      "album": {
+        "name": "PSS PSS",
+        "url": "https://open.spotify.com/album/7GNgMXH1XiYn0CR2sAxlpD"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "PSS PSS",
+      "url": "https://open.spotify.com/track/5CQem4aQAsjP47PGkfxiXt"
     },
     {
       "album": {
@@ -16961,6 +17081,24 @@
     },
     {
       "album": {
+        "name": "skici",
+        "url": "https://open.spotify.com/album/683upFagIgrQOL6affcPJP"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153743,
+      "name": "skici",
+      "url": "https://open.spotify.com/track/1Oxysfnv85iKglnjGdoVID"
+    },
+    {
+      "album": {
         "name": "SLM",
         "url": "https://open.spotify.com/album/3gAaOb2aKH7VuS4yDUmFqR"
       },
@@ -17797,6 +17935,24 @@
     },
     {
       "album": {
+        "name": "TANK TANK",
+        "url": "https://open.spotify.com/album/6kC5tzpLLUrz4ZxcJWIC1f"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "TANK TANK",
+      "url": "https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi"
+    },
+    {
+      "album": {
         "name": "Tanr\u0131 \u015eahidim",
         "url": "https://open.spotify.com/album/0wrOprvdXYjaHSsy6GhIvK"
       },
@@ -18279,6 +18435,24 @@
     },
     {
       "album": {
+        "name": "T\u00fcrkiye'm",
+        "url": "https://open.spotify.com/album/0WVp1gOAwIOgaSxrpbF4QF"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "T\u00fcrkiye'm",
+      "url": "https://open.spotify.com/track/0XsqXgOOn0M3Qd4ttGPiPe"
+    },
+    {
+      "album": {
         "name": "T\u00fct\u00fcn ve Votka",
         "url": "https://open.spotify.com/album/51y5OLSxt06tGylhpniMrB"
       },
@@ -18400,6 +18574,24 @@
       "duration_ms": 217500,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/4zO0OhG0WcOLqqYCNf1ZUy"
+    },
+    {
+      "album": {
+        "name": "Unutamam",
+        "url": "https://open.spotify.com/album/0MXvn4AlEavdCHW6KOJVQ6"
+      },
+      "artists": [
+        {
+          "name": "WTFRANK",
+          "url": "https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131091,
+      "name": "Unutamam",
+      "url": "https://open.spotify.com/track/6zc0p2YMTImhouXf5jdxCF"
     },
     {
       "album": {
@@ -19088,7 +19280,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 158241,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/1FCKLkYcg3blfx5ntvJ4Lw"
@@ -19494,6 +19686,28 @@
       "duration_ms": 143999,
       "name": "yar\u0131na kadar",
       "url": "https://open.spotify.com/track/6vlXoQbbKPl1uDXnTOCCZQ"
+    },
+    {
+      "album": {
+        "name": "YAZIK SANA",
+        "url": "https://open.spotify.com/album/1Xt5OLCzgTUAGIuSUDmuPn"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "YAZIK SANA",
+      "url": "https://open.spotify.com/track/1RuEFc6aloHXOBBPIurG4o"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Bente
+> Frisse Nederlandse pop\. Cover: Zoë Tauran & LUNA
 
-1,341 songs - 2 day 16 hr 2 min
+1,346 songs - 2 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Even Niemand Zijn](https://open.spotify.com/track/1rs5Yyk8HExjAy0iRfGsLr) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Even Niemand Zijn](https://open.spotify.com/album/0hwBGKIJrWS6lP1DRN2di5) | 3:01 | 2025-09-04 | 2025-11-28 |
 | [Even Tussen Ons](https://open.spotify.com/track/7isWCoenO2e3HudiE4nq0g) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Even Tussen Ons](https://open.spotify.com/album/3PfvwKwsNzN7p4PxC5xaNJ) | 2:34 | 2024-09-05 | 2024-10-04 |
 | [Even Vergeten](https://open.spotify.com/track/1aCe30IitJK7xMjitBHOrJ) | [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp) | [Even Vergeten](https://open.spotify.com/album/4DpkzyFHJGrfoee5CcpJfu) | 2:50 | 2023-06-15 | 2023-06-30 |
+| [Evenwicht](https://open.spotify.com/track/6UTpmCoIPNWYqmLePOGrgX) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw) | [Evenwicht](https://open.spotify.com/album/19BKI7rucVVbFDQCDHHoEi) | 3:12 | 2026-06-04 |  |
 | [Explosief](https://open.spotify.com/track/4Aj8VNV1ZtTo1rZ6BDHsjE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Explosief](https://open.spotify.com/album/5a0MDVbq0KSVBKqxSTtFFE) | 2:14 | 2025-02-13 | 2025-05-23 |
 | [Fallin](https://open.spotify.com/track/2rVUddzICzXAXelpLVvCF4) | [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Ergens In Mijn Hoofd](https://open.spotify.com/album/5SLGlNJEsUCQTruDSCLZZr) | 3:14 | 2024-01-11 | 2024-02-09 |
 | [Fantasie](https://open.spotify.com/track/1yquZQsceyrmM4N0FgcMk2) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/1L06xOOJxrxNomB9q3m52C) | 2:37 | 2025-03-06 | 2025-06-13 |
@@ -665,6 +666,7 @@
 | [Kleine kometen](https://open.spotify.com/track/0IWs52tOay3lU8lYSCqu9O) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Kleine kometen](https://open.spotify.com/album/2ommx3GkYBy0O7QyTTJYJO) | 2:07 | 2026-02-12 | 2026-04-17 |
 | [Kleine Versie Van Mezelf](https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Kleine Versie Van Mezelf](https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD) | 2:57 | 2023-10-19 | 2024-03-08 |
 | [Kleuterklas](https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Kleuterklas](https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt) | 2:48 | 2023-05-11 | 2023-09-05 |
+| [Knipperlicht](https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy), [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Knipperlicht](https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS) | 2:36 | 2026-06-04 |  |
 | [Koffie Of Thee](https://open.spotify.com/track/14kD5P9OI8PRa4mhaCh0vL) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Koffie Of Thee](https://open.spotify.com/album/4qAwTxhcOUGC6tWmmHmQzf) | 2:42 | 2023-02-23 | 2023-05-02 |
 | [Koffie Of Thee](https://open.spotify.com/track/3toCB81vU1BzlsVm4Rsen5) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kibbelingsound](https://open.spotify.com/album/50v6QLrNbW3NZdbvKSLkDM) | 2:42 | 2023-04-27 | 2023-05-12 |
 | [Kom Dansen](https://open.spotify.com/track/4GWSLrTdJoRSFMJRirlypJ) | [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB) | [Kom Dansen](https://open.spotify.com/album/0WAH6gN1T5xVWqfm3DPLNY) | 3:07 | 2023-11-30 | 2024-01-26 |
@@ -1137,6 +1139,7 @@
 | [Tweedehands](https://open.spotify.com/track/6WIDTTNVtn6u93JT6hYBUK) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Tweedehands](https://open.spotify.com/album/6kB1Fzxta2yUSkouT9nBwG) | 2:19 | 2025-10-09 | 2025-10-17 |
 | [Tweeling](https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Tweeling](https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX) | 2:30 | 2024-03-14 | 2024-06-14 |
 | [Twijfelaar](https://open.spotify.com/track/5lrqGEaP1qZ3OwkKXXzEQz) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8), [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Twijfelaar](https://open.spotify.com/album/1q1WNUmLpAxQNjuoTBxQun) | 2:58 | 2024-09-26 | 2024-12-20 |
+| [Twin](https://open.spotify.com/track/7ve2v3YkXa512zMk6FM8a4) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Twin](https://open.spotify.com/album/1UmeapC8Q60EZ4SirUrv0R) | 2:32 | 2026-06-04 |  |
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-02-26 | 2026-05-29 |
 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 | 2024-04-11 | 2024-06-28 |
 | [Underdog Superster Asterisk](https://open.spotify.com/track/072XjMU0RR8HTAW9pTQytO) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:20 | 2023-02-23 | 2023-04-07 |
@@ -1239,6 +1242,7 @@
 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 | 2023-06-15 | 2023-10-20 |
 | [Wat Blijft Er Nog Over?](https://open.spotify.com/track/0bCTV70cX6yjUtF91Fnkws) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Wat Blijft Er Nog Over?](https://open.spotify.com/album/1Fed1JYE41KqFq2og7LiMi) | 2:33 | 2026-04-09 |  |
 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 | 2024-02-08 | 2024-05-10 |
+| [Wat Blijft Er Over?](https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Wat Blijft Er Over?](https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0) | 2:45 | 2026-06-04 |  |
 | [Wat Doe Je Nou](https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Wat Doe Je Nou](https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4) | 2:36 | 2023-02-23 | 2023-04-07 |
 | [Wat Er Allemaal Al Is](https://open.spotify.com/track/4dFy0k1lCs6KUgNT10DRwY) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Wat Er Allemaal Al Is](https://open.spotify.com/album/60uGogykzONylIhI17Jcj3) | 2:29 | 2026-04-23 |  |
 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 | 2024-06-06 | 2024-09-18 |
@@ -1249,6 +1253,7 @@
 | [Wat ik Zocht](https://open.spotify.com/track/3UNGg3HXwemW4tjy7XIw3g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 2:52 | 2023-09-28 | 2023-10-11 |
 | [Wat ik Zocht](https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 2:52 | 2023-10-05 | 2023-10-25 |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-02 | 2023-06-30 |
+| [Wat Moed Dat Moet](https://open.spotify.com/track/5PeC99plYN7vQLhvoWzZni) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Wat Moed Dat Moet](https://open.spotify.com/album/3GC7JQ0HiWJ8UUd9tpImlV) | 2:37 | 2026-06-04 |  |
 | [Wat Moet Ik Dan Anders Doen](https://open.spotify.com/track/0KIVZUfYnHCgxBZB9vTciX) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 3:12 | 2024-08-29 | 2024-11-05 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-25 |
 | [Wat ze wil](https://open.spotify.com/track/5YmsjL8WdTiObmZxfzdy6a) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Wat ze wil](https://open.spotify.com/album/7su7YOJjgeVPkz90YJIyBD) | 3:29 | 2024-04-25 | 2024-06-01 |

@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Bthal Ahebak",
+        "url": "https://open.spotify.com/album/5SWKcuXLO4EzbM6FKnpMqA"
+      },
+      "artists": [
+        {
+          "name": "Khaled Almuthafar",
+          "url": "https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165725,
+      "name": "Bthal Ahebak",
+      "url": "https://open.spotify.com/track/5XCHVzgYAewli9caOntwCf"
+    },
+    {
+      "album": {
         "name": "Chokran",
         "url": "https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1"
       },
@@ -3658,7 +3676,7 @@
       },
       "artists": [
         {
-          "name": "Bndr Abdulaziz",
+          "name": "Bandar Abdulaziz",
           "url": "https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw"
         }
       ],
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 183984,
       "name": "\u0643\u0644\u0646\u0627 \u0623\u0647\u0644",
       "url": "https://open.spotify.com/track/2RSuZdL9sdYlaxAsfwXYRY"

@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Qing Madi
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Esoterica
 
-280 songs - 13 hr 17 min
+282 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Be Sure](https://open.spotify.com/track/27SwKuVzaBD78qUyzMivwq) | [Ama Gaisie](https://open.spotify.com/artist/1q2iVU75fVEuNqXZqhPa7k) | [Be Sure](https://open.spotify.com/album/0LSBY6qEJOOdmUwOTrNimQ) | 3:03 | 2025-07-04 | 2025-10-25 |
 | [Bedroom Bully](https://open.spotify.com/track/1NjedAHuo81qjOWOa28KXT) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Bedroom Bully](https://open.spotify.com/album/4kgf853i8hbgxtLmJP0fmX) | 2:46 | 2025-10-24 |  |
 | [BELLE](https://open.spotify.com/track/6Do9CaVtyfw9NsgeSKw2rW) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [BELLE](https://open.spotify.com/album/64NNy7G7xL5Bd89wDkewrJ) | 2:13 | 2025-10-17 | 2025-11-29 |
-| [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 |  |
+| [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 | 2026-06-05 |
 | [BIG FISH](https://open.spotify.com/track/4MuPi6byWbrASaeNrn3Ut8) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [BIG FISH](https://open.spotify.com/album/4091Kab1EkfxqxZNEdzNSf) | 2:38 | 2025-07-18 | 2025-08-30 |
 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 | 2024-11-29 | 2025-09-05 |
 | [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 | 2025-02-14 |
@@ -51,6 +51,7 @@
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-20 | 2025-08-30 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 |  |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-10-25 |
+| [Chippie](https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:37 | 2026-06-05 |  |
 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 | 2026-05-08 |  |
 | [Come My Way](https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Come My Way](https://open.spotify.com/album/3YUAVNlSPHTHHYrhOYwqiH) | 2:56 | 2025-11-28 | 2025-12-12 |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-11-29 | 2025-05-30 |
@@ -111,6 +112,7 @@
 | [I Believe In Better](https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Believe In Better](https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks) | 2:33 | 2026-03-27 |  |
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-11-29 | 2025-09-05 |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 | 2025-07-05 |
+| [Idols](https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Avant God](https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt) | 2:49 | 2026-06-05 |  |
 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 | 2025-09-05 | 2026-03-20 |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-29 | 2025-07-05 |
 | [Imaramma](https://open.spotify.com/track/0dZBb8uUCZWZlxsj1uNNxl) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN) | [Imaramma](https://open.spotify.com/album/42I1SifTSjauVpyt0Latie) | 2:32 | 2026-05-08 |  |

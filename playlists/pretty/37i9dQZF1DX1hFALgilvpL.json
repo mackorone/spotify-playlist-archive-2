@@ -1,12 +1,12 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 140352,
+  "num_followers": 140402,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEscNlHn9pDz2H4PmsOZyh5/Sovb",
+  "snapshot_id": "AAAAAMFZ1jLg+TuvIUltoBNnpf3NZ6Y1",
   "tracks": [
     {
       "added_at": "2026-05-25 23:53:27",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
-    },
-    {
-      "added_at": "2026-05-25 23:53:27",
-      "album": {
         "name": "I Don't Dance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221173,
       "name": "I Don't Dance",
       "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
+    },
+    {
+      "added_at": "2026-05-25 23:53:27",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
     },
     {
       "added_at": "2026-05-25 23:53:27",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-05-25 23:53:27",
       "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "duration_ms": 216727,
+      "name": "Your Place At My Place",
+      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "added_at": "2026-05-25 23:53:27",
+      "album": {
         "name": "I'm Gonna Love You",
         "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 188106,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
-    },
-    {
-      "added_at": "2026-05-25 23:53:27",
-      "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
-        }
-      ],
-      "duration_ms": 216727,
-      "name": "Your Place At My Place",
-      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
     },
     {
       "added_at": "2026-05-25 23:53:27",

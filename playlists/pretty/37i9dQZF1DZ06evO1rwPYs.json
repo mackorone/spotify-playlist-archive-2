@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107523,
+  "num_followers": 107522,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACT8lTyhMM1CrZW/4cT/5n9",
+  "snapshot_id": "ah9ugAAAAACQ/ZZDnzToJLJzV+57aRT8",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Queen Of Salsa (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s - Remastered 2025",
+      "url": "https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 308333,
       "name": "A Celia",
       "url": "https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Queen Of Salsa (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s - Remastered 2025",
-      "url": "https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
+        "name": "Only They Could Have Made This Album (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
       },
       "artists": [
         {
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 331244,
-      "name": "Canto a la Habana - Remastered 2024",
-      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
+      "duration_ms": 172295,
+      "name": "Plazos Traicioneros - Remastered 2024",
+      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only They Could Have Made This Album (Remastered 2024)",
-        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 172295,
-      "name": "Plazos Traicioneros - Remastered 2024",
-      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+      "duration_ms": 331244,
+      "name": "Canto a la Habana - Remastered 2024",
+      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Tuya, Y M\u00e1s Que Tuya",
-      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
     },
     {
       "added_at": null,
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Pa La Paloma",
-      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+      "duration_ms": 163666,
+      "name": "Tuya, Y M\u00e1s Que Tuya",
+      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
     },
     {
       "added_at": null,

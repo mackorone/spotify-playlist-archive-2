@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 187651,
+  "num_followers": 187670,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "MAX 20",
-        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
-      },
-      "artists": [
-        {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "L'universo tranne noi",
-      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "MAX 20",
+        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+      },
+      "artists": [
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "L'universo tranne noi",
+      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Bella senz'anima",
-      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Mio Fratello E' Figlio Unico",
         "url": "https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 300074,
       "name": "Sfiorivano le viole",
       "url": "https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 218092,
-      "name": "Il mondo prima di te",
-      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Albachiara",
         "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245533,
       "name": "Albachiara",
       "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 218092,
+      "name": "Il mondo prima di te",
+      "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Cip!",
-        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
-      },
-      "artists": [
-        {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Per due che come noi",
-      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cip!",
+        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Per due che come noi",
+      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Tempo Reale Extra",
-        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Il mio giorno pi\u00f9 bello nel mondo",
-      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Oh, Vita!",
         "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 239906,
       "name": "Chiaro Di Luna",
       "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Tempo Reale Extra",
+        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Il mio giorno pi\u00f9 bello nel mondo",
+      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Mina (2001 Remaster)",
-        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Grande, grande, grande - 2001 Remaster",
-      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "T'appartengo",
         "url": "https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 206640,
       "name": "T'appartengo",
       "url": "https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Mina (2001 Remaster)",
+        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Grande, grande, grande - 2001 Remaster",
+      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Il Primo Bacio Sulla Luna",
         "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 284906,
       "name": "Le Sei E Ventisei",
       "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2026-04-21 16:02:40",

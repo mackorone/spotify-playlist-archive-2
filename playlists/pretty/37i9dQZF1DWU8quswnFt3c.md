@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,336 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,188 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [So Bad](https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [So Bad](https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l) | 3:53 |
 | 41 | [Beni Benimle Bırakma](https://open.spotify.com/track/43cQM37HvUqd3pZmMpuiw6) | [Nükhet Duru](https://open.spotify.com/artist/7HLLY3hnsKLpq6bq3OwNNe) | [Beni Benimle Bırakma](https://open.spotify.com/album/79dFfg47VbTWCKV34jRVCk) | 3:30 |
 | 42 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
-| 43 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
-| 44 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
+| 43 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
+| 44 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
 | 45 | [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 |
-| 46 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
-| 47 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
+| 46 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
+| 47 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
 | 48 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 | 49 | [Para Da Pa Dodu](https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulinha](https://open.spotify.com/artist/6QreKWSo4ectaWUuRmIBjU) | [Para Da Pa Dodu](https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo) | 3:17 |
 | 50 | [Vera Cruz](https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Vera Cruz](https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj) | 2:36 |
 
-Snapshot ID: `AAAAAOR4lUecNVR/nGC2NmXHvJos2Tfk`
+Snapshot ID: `AAAAAE5BEf/qN8VEcawYbrSqIxfm408q`

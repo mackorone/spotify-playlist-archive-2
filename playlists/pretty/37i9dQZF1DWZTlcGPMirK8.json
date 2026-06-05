@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73537,
+  "num_followers": 73535,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 228000,
       "name": "High ft. Nicole Millar",
       "url": "https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Innocent Eyes",
         "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -667,22 +683,6 @@
       "duration_ms": 227826,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     },
     {
       "added_at": "2024-08-05 06:00:58",

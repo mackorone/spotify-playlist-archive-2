@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267278,
+  "num_followers": 267277,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAShHtiQdo3x3gcqyJ6R8Sl",
+  "snapshot_id": "ah9ugAAAAADyl3xUfFLP4M4xlQhUcZPR",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166735,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166735,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
     },
     {
       "added_at": null,
@@ -239,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+      "duration_ms": 176800,
+      "name": "The one (Pero no como yo)",
+      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
       },
       "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 176800,
-      "name": "The one (Pero no como yo)",
-      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181670,
+      "name": "Used to Love You Sober",
+      "url": "https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturday Nights REMIX",
         "url": "https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 211102,
       "name": "Saturday Nights REMIX",
       "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter 1 - EP",
-        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "Used to Love You Sober",
-      "url": "https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py"
     },
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+      "duration_ms": 163999,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter 1 - EP",
-        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 163999,
-      "name": "There Goes My Everything",
-      "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
     },
     {
       "added_at": null,

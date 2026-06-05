@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,588 likes - 52 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,599 likes - 52 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 32 | [Arquipelago](https://open.spotify.com/track/2OT7zTr3OdwgVRIuEXsvkR) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [The K2 Chapter](https://open.spotify.com/album/12UdYSOpyU8X0U9GOTkgD6) | 6:07 |
 | 33 | [Solitary Daze](https://open.spotify.com/track/2byiq9pZkmCmUmNK5caiRy) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Solitary Daze](https://open.spotify.com/album/5STqq58xC6FbYIB2r7a9DR) | 7:43 |
 | 34 | [Apocalypse \- Tripolism Remix](https://open.spotify.com/track/5CU5ozmWAvfa8LjOYNdsSI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apocalypse \(Tripolism Remix\)](https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn) | 4:21 |
-| 35 | [Flying Away With You \- Meera Remix](https://open.spotify.com/track/44hSXkJy30LXwqWrZYoWca) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flying Away With You Remixes](https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q) | 8:59 |
+| 35 | [Flying Away With You \- Meera Remix](https://open.spotify.com/track/44hSXkJy30LXwqWrZYoWca) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [meera](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flying Away With You Remixes](https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q) | 8:59 |
 | 36 | [Instrument of God](https://open.spotify.com/track/0CmJl8Ex2AcxYN6NYK5IhD) | [Marc Gonen](https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf), [Kantel](https://open.spotify.com/artist/2m9MYrbRcnm6D1VPDYoCrR) | [Instrument of God](https://open.spotify.com/album/0qB8lMYQ4JPPm2IBAHL8Og) | 3:09 |
 | 37 | [Archie Marshall](https://open.spotify.com/track/1dz9R1eiTUWbvQtMcI1QzX) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Ringleader](https://open.spotify.com/album/2F5LoEsaXJMte0MFBr6r8W) | 5:25 |
 | 38 | [Sordid Affair \- Maceo Plex Remix](https://open.spotify.com/track/7ysmP2ik0XG7ZkJg5Pfucp) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Sordid Affair \(Remixes\)](https://open.spotify.com/album/14VRko1sRlr1wIM3UYB6R5) | 7:58 |

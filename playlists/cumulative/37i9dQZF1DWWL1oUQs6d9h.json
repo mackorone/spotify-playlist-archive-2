@@ -215,6 +215,32 @@
     },
     {
       "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
+    },
+    {
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
       },
@@ -658,7 +684,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166333,
       "name": "Don't hang up (demo)",
       "url": "https://open.spotify.com/track/6zCtdYt3Bwe0Ll300JI0ug"
@@ -882,7 +908,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
@@ -1096,6 +1122,24 @@
       "duration_ms": 195411,
       "name": "happy",
       "url": "https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -2028,7 +2072,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152013,
       "name": "Painting",
       "url": "https://open.spotify.com/track/6BbcnyiQoeSdLEi88KZI30"
@@ -2082,7 +2126,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9"
@@ -2166,6 +2210,24 @@
       "duration_ms": 193000,
       "name": "Prism (Feat. Snacky Chan, ELO)",
       "url": "https://open.spotify.com/track/0HVZZbOZslo2RzJrQtXECq"
+    },
+    {
+      "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "album": {
@@ -2607,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Stay For A While",
+        "url": "https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv"
+    },
+    {
+      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/0Z91ePA53qNIvmafwpBDQK"
       },
@@ -2934,7 +3014,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
@@ -3104,7 +3184,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170000,
       "name": "you",
       "url": "https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9"

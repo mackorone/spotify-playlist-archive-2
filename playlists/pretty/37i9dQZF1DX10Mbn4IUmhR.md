@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 75 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 76 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 | 77 | [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 |
-| 78 | [THIRTY THR33](https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [THIRTY THR33](https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz) | 2:56 |
-| 79 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
-| 80 | [THE GOOD LIFE](https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [THE GOOD LIFE](https://open.spotify.com/album/2H59dpijPa8ulFwZKquwRQ) | 2:46 |
+| 78 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
+| 79 | [THIRTY THR33](https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [THIRTY THR33](https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz) | 2:56 |
+| 80 | [Late Adolescence](https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Young Chux](https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb) | [Elementary 2](https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y) | 2:44 |
 
 Snapshot ID: `AAAAAO45H6HFGusQ8r+4pM4uEo7TqgX+`

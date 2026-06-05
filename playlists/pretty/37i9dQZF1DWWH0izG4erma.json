@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 664549,
+  "num_followers": 664671,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
         "name": "Fire On The Hillside",
         "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 204506,
       "name": "Fire On The Hillside",
       "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "White Trash",
+        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 225368,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
     },
     {
       "added_at": "2026-02-20 05:00:49",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-20 05:00:49",
       "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:49",
+      "album": {
         "name": "Next to You",
         "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 241668,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
-    },
-    {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "White Trash",
-        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
-      },
-      "artists": [
-        {
-          "name": "Colin Stough",
-          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
     },
     {
       "added_at": "2026-02-20 05:00:49",

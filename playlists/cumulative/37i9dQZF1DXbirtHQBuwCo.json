@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Krystal)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Klozer, Babylon, Newaile)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -2202,6 +2202,32 @@
       "duration_ms": 209000,
       "name": "BLESSIN",
       "url": "https://open.spotify.com/track/0EYceSBCU4W21KSNy6w4op"
+    },
+    {
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "album": {
@@ -10679,6 +10705,32 @@
     },
     {
       "album": {
+        "name": "Klozer",
+        "url": "https://open.spotify.com/album/33ICJtFFq5IHF6aRhtQw9Z"
+      },
+      "artists": [
+        {
+          "name": "Klozer",
+          "url": "https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC"
+        },
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Newaile",
+          "url": "https://open.spotify.com/artist/6AfRvdVeh2FRtHkXzBYeIu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210428,
+      "name": "More Than I Expected (feat. Babylon, Newaile)",
+      "url": "https://open.spotify.com/track/65s5Aoi3PbEjMuHE2LlBYQ"
+    },
+    {
+      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
       },
@@ -11528,7 +11580,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191414,
       "name": "No Sugar in My Coffee",
       "url": "https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f"
@@ -13240,7 +13292,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -13680,7 +13732,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 130666,
       "name": "Roll",
       "url": "https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA"
@@ -15182,6 +15234,24 @@
       "duration_ms": 172888,
       "name": "Stay Calm",
       "url": "https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww"
+    },
+    {
+      "album": {
+        "name": "Stay For A While",
+        "url": "https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv"
+      },
+      "artists": [
+        {
+          "name": "add9",
+          "url": "https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv"
     },
     {
       "album": {

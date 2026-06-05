@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : J\u00e4de",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ruthee",
   "name": "le miel",
   "tracks": [
     {
@@ -5025,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Juliette + Rom\u00e9o",
+        "url": "https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Juliette + Rom\u00e9o",
+      "url": "https://open.spotify.com/track/76bIquLytt10pGhlygRqjC"
+    },
+    {
+      "album": {
         "name": "Juste une derni\u00e8re fois",
         "url": "https://open.spotify.com/album/5Unwgpvu24yFxE24NJDnDu"
       },
@@ -5166,6 +5184,24 @@
       "duration_ms": 160000,
       "name": "Kiss?",
       "url": "https://open.spotify.com/track/64nEJhGFNLzN76ncOF1njh"
+    },
+    {
+      "album": {
+        "name": "L'Amour",
+        "url": "https://open.spotify.com/album/2Pm6SIJf33wEoOUJFPjHSM"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00ebmoi",
+          "url": "https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "L'Amour",
+      "url": "https://open.spotify.com/track/52SRd9bmszHJabtXzx9Or7"
     },
     {
       "album": {
@@ -5884,7 +5920,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 350223,
       "name": "Lettre \u00e0 l'Univers - Live",
       "url": "https://open.spotify.com/track/7a7u8n5xdh5YYhlJq7XpmN"
@@ -6720,6 +6756,24 @@
       "duration_ms": 104727,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1odA378yBmB168qEXdrxka"
+    },
+    {
+      "album": {
+        "name": "The Broken Hearts Club, Vol. 2",
+        "url": "https://open.spotify.com/album/31Wh9XreXQ5hiGSoUvt8oD"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/0mnOyAm1KkPPvCd3eMmrHZ"
     },
     {
       "album": {
@@ -8627,6 +8681,24 @@
     },
     {
       "album": {
+        "name": "REALOVE",
+        "url": "https://open.spotify.com/album/0Ve88ve7IGJNqgEGPxU9CI"
+      },
+      "artists": [
+        {
+          "name": "Tieums",
+          "url": "https://open.spotify.com/artist/09LApfSn8eH7xMWcpVV6c5"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152321,
+      "name": "REALOVE",
+      "url": "https://open.spotify.com/track/4YNiKGDWsWPzUS7XFnLqxo"
+    },
+    {
+      "album": {
         "name": "Recommencer",
         "url": "https://open.spotify.com/album/1EcA5Z4Tdghb4dYpMfzJsI"
       },
@@ -9094,7 +9166,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163764,
       "name": "Saison",
       "url": "https://open.spotify.com/track/18JBRtuTwWGS52x68HyuKn"
@@ -11070,7 +11142,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 145500,
       "name": "Yla",
       "url": "https://open.spotify.com/track/6Y6I87Utq9kQXh5mRyMJe8"
@@ -11230,7 +11302,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 117720,
       "name": "\u00ff - \u00c9pilogue : Free",
       "url": "https://open.spotify.com/track/2yNk4Uvw8wXrbWHDwh1K45"

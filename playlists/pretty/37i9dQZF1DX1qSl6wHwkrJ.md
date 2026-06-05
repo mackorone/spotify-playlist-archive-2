@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,339 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,338 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 27 | [Hey Santa Claus](https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Presenting The Moonglows](https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v) | 2:25 |
 | 28 | [The Day It Snows On Christmas](https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Christmas Gumbo](https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp) | 3:16 |
 | 29 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
-| 30 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
-| 31 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |
-| 32 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
-| 33 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
+| 30 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |
+| 31 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
+| 32 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 33 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 34 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam In Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
-| 35 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
+| 35 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
 | 36 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 37 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
 | 38 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |

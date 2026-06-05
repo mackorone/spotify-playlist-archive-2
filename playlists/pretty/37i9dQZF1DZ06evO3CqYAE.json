@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14787,
+  "num_followers": 14790,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAeMzI4siDTdyd8yJP2nFzK",
+  "snapshot_id": "ah9ugAAAAADo357S7mGIo2b4ztH6myGW",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Okaka (The Mighty One)",
+        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 498267,
+      "name": "Okaka (The Mighty One)",
+      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 375563,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Okaka (The Mighty One)",
-        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 498267,
-      "name": "Okaka (The Mighty One)",
-      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
     }
   ],
   "unique_name": "This Is Mercy Chinwo",

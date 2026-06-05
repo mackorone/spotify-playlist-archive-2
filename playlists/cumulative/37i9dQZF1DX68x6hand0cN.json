@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Ewa Safi",
+        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143265,
+      "name": "Ewa Safi",
+      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
+    },
+    {
+      "album": {
         "name": "Expres",
         "url": "https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh"
       },
@@ -2576,6 +2598,28 @@
       "duration_ms": 241093,
       "name": "La miss",
       "url": "https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi"
+    },
+    {
+      "album": {
+        "name": "AFLAM",
+        "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179993,
+      "name": "LAMARA",
+      "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
     },
     {
       "album": {
@@ -4212,6 +4256,24 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133664,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/3JlKA8Dkov8BLFngYBmTPH"
     },
     {
       "album": {

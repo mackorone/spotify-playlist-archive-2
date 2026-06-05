@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 374243,
+  "num_followers": 374273,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACRTH6ergnkc3mj69/d3khs",
+  "snapshot_id": "ah9ugAAAAABXAKso0sZbKNoEANg1VhW1",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "C\u00f3mo Olvidar",
-      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "C\u00f3mo Olvidar",
+      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conquistando Corazones",
         "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
     },
     {
       "added_at": null,

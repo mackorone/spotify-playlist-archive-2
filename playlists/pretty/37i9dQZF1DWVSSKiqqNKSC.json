@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 531479,
+  "num_followers": 531512,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "La Maquinaria (Remasterizado)",
+        "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell",
+          "url": "https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27"
+        },
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 313260,
+      "name": "Eso Que Anda - Remasterizado",
+      "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Mi M\u00fasica",
         "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 368850,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "La Maquinaria (Remasterizado)",
-        "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell",
-          "url": "https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27"
-        },
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 313260,
-      "name": "Eso Que Anda - Remasterizado",
-      "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
     },
     {
       "added_at": "2025-03-07 06:00:25",

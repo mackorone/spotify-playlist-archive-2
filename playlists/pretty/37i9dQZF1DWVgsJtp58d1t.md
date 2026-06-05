@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ">Latto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,870 likes - 155 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,868 likes - 155 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 13 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 14 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
 | 15 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
-| 16 | [HONESTLY](https://open.spotify.com/track/5sJjxTf8hK9wHLgPD4rBwy) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [CYBER \[REBOOT\]](https://open.spotify.com/album/53QnOmTPN7D7HNP72jU39X) | 4:46 |
+| 16 | [HONESTLY](https://open.spotify.com/track/5sJjxTf8hK9wHLgPD4rBwy) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C), [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [CYBER \[REBOOT\]](https://open.spotify.com/album/53QnOmTPN7D7HNP72jU39X) | 4:46 |
 | 17 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
 | 18 | [PAGEANT STAGE](https://open.spotify.com/track/1zOynsLv9BsPeaQ6gh8l2z) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [THE EDGE](https://open.spotify.com/album/5AimZyPhOibH9cTCfBRO1V) | 2:52 |
 | 19 | [Cry For Me](https://open.spotify.com/track/0CoCPiSN4k82uJO9x33NfW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 2:26 |

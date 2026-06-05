@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,659 songs - 2 day 20 hr 49 min
+1,661 songs - 2 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [C’EST LA VIE \(PARIS\)](https://open.spotify.com/track/6VyvYPiNIi6xdrr15KUf2n) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [C’EST LA VIE \(PARIS\)](https://open.spotify.com/album/2vfAUHETnPNig4dB93xgPR) | 3:21 | 2025-01-02 | 2025-07-25 |
 | [Da La Larna](https://open.spotify.com/track/2Xa33Z47iIVzWU9wqcGiQK) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Da La Larna](https://open.spotify.com/album/5ktnrIlwFjoD7c4AyZsqzm) | 2:26 | 2024-10-25 | 2025-03-28 |
 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 | 2026-01-26 | 2026-02-02 |
+| [DADDY](https://open.spotify.com/track/4HNN9xsjKX53dou024ge2c) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y), [UTEN RESEPT](https://open.spotify.com/artist/3qfWoIRXkdrEwnBi1ssRrh) | [DADDY](https://open.spotify.com/album/44yMCGhGMoH47xHHI8lHSx) | 2:40 | 2026-06-04 |  |
 | [DALAHÄST](https://open.spotify.com/track/4K6UD1eJnHx8GydkO9Rxbx) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DALAHÄST](https://open.spotify.com/album/5WjZg92rq4cMLVuSlZ0bMD) | 2:03 | 2024-05-30 | 2024-08-23 |
 | [DALARNA](https://open.spotify.com/track/36Q6hVzhJU1lrz0yx1DjjE) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [DALARNA](https://open.spotify.com/album/4979QVvLJ6QTGclfOCOOcQ) | 1:55 | 2026-05-28 |  |
 | [Dam Di Dam](https://open.spotify.com/track/3GGzjp1QUQKK5TbLT55iom) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Dam Di Dam](https://open.spotify.com/album/4Wo5P7Xsxu8TnmRotqYpOa) | 2:31 | 2024-11-21 | 2025-02-21 |
@@ -526,6 +527,7 @@
 | [Fylla på fjället](https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fylla på fjället](https://open.spotify.com/album/66OVGhMeiP7JPwkygu3PVg) | 2:00 | 2022-09-29 | 2022-10-07 |
 | [FYLLECELL](https://open.spotify.com/track/1JnH85Oi8QW5kSUo345SBp) | [STRÖGPATRULLEN](https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt) | [FYLLECELL](https://open.spotify.com/album/16qOBxBhGXpSOdfh7CpOeL) | 2:18 | 2024-11-28 | 2025-01-31 |
 | [FYLLEFEST](https://open.spotify.com/track/6HOBsPvW5EsxzwmARQyIwl) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Pipex](https://open.spotify.com/artist/7fRCCOWZeBLEtfSIRpNEby) | [FYLLEFEST](https://open.spotify.com/album/3F7zHRwpt11D0c5c3IYyrF) | 2:19 | 2025-03-13 | 2025-07-25 |
+| [Fyllegubbe](https://open.spotify.com/track/5teJ0xoeZR3uMbjjw6pWwl) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fyllegubbe](https://open.spotify.com/album/1J0hdMLzeBmrtSmWji8T9w) | 2:41 | 2026-06-04 |  |
 | [FYLLESLAG](https://open.spotify.com/track/5aO5ZP4ZdoDCSNreRUZp2d) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [Ralle](https://open.spotify.com/artist/5X5YCrQ9pJok8k5njxqWT1) | [FYLLESLAG](https://open.spotify.com/album/12JaVrePbM8phxWttBdWaJ) | 2:08 | 2024-08-08 | 2025-02-14 |
 | [FYLLESVIN](https://open.spotify.com/track/4JAqii8SqeTXZzI5WsxWl4) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [FYLLESVIN](https://open.spotify.com/album/5qiUUXpGj5O5BPmxePMoBn) | 2:03 | 2022-12-01 | 2023-01-27 |
 | [FYLLESVIN](https://open.spotify.com/track/3bKSXxafwbeSPKqaRKVcbQ) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y) | [FYLLESVIN](https://open.spotify.com/album/19jO8qfChBzU3h31KZ8iAh) | 2:27 | 2024-12-12 | 2025-05-02 |

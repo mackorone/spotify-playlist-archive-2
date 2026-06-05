@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Ezra Collective",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Stormzy, Odeal",
   "name": "Who We Be",
   "tracks": [
     {
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 142024,
       "name": "C U Dance",
       "url": "https://open.spotify.com/track/2eNtzJKL2r9OPXM6qmzZHj"
@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 142024,
       "name": "C U Dance",
       "url": "https://open.spotify.com/track/5YFSbAQHwOQC6STbeHaMto"
@@ -6264,7 +6264,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 138840,
       "name": "Clean and Fresh",
       "url": "https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2"
@@ -12106,7 +12106,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 152533,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
@@ -12150,7 +12150,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152533,
       "name": "GEEKIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh"
@@ -17761,6 +17761,36 @@
     },
     {
       "album": {
+        "name": "KOLAY (Stick)",
+        "url": "https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh"
+      },
+      "artists": [
+        {
+          "name": "Mighty",
+          "url": "https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        },
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Shanika",
+          "url": "https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149445,
+      "name": "KOLAY (Stick)",
+      "url": "https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx"
+    },
+    {
+      "album": {
         "name": "BAD BOY LOVESTORY",
         "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
       },
@@ -22814,7 +22844,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
@@ -22832,7 +22862,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
@@ -35288,7 +35318,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 173022,
       "name": "What's Done Is Done",
       "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
@@ -35306,7 +35336,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 173022,
       "name": "What's Done Is Done",
       "url": "https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1"

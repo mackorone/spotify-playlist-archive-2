@@ -9217,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "wanna do",
+        "url": "https://open.spotify.com/album/30CQ6sTIIBor6L2o7BgZfE"
+      },
+      "artists": [
+        {
+          "name": "Jey Vazz",
+          "url": "https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225335,
+      "name": "wanna do",
+      "url": "https://open.spotify.com/track/0HaoNO8eXyjzlyVazU8otv"
+    },
+    {
+      "album": {
         "name": "Want Your Body",
         "url": "https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d"
       },

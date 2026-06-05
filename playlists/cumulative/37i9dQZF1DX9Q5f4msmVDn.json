@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "Rap N Roll",
+        "url": "https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu"
+      },
+      "artists": [
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "name": "Niko G4",
+          "url": "https://open.spotify.com/artist/0R4yXxa1YyORYIzlE3LfmB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Dark Shades",
+      "url": "https://open.spotify.com/track/3pte5BLqrgOQRvP4EEnKwJ"
+    },
+    {
+      "album": {
         "name": "Princesses nubiennes",
         "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
       },
@@ -476,7 +498,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 261373,
       "name": "I Don't Stress",
       "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"

@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5930,7 +5930,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 160003,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ObtUJspNmBoU4gwm2e8Xr"
@@ -11784,7 +11784,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 246960,
       "name": "Dancing in My Daydream",
       "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
@@ -16761,6 +16761,24 @@
     },
     {
       "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/1YcV44jWgzlbO8KCF0CdY7"
+      },
+      "artists": [
+        {
+          "name": "Who To Blame",
+          "url": "https://open.spotify.com/artist/2JVYbMBv5KAAe0QMKm6gSk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167903,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/2Flhhxplc5XtSvs83vBrKx"
+    },
+    {
+      "album": {
         "name": "LEIKURINN ER LEIKURINN",
         "url": "https://open.spotify.com/album/68Q0d4B71X0kVm0eZUh0ZP"
       },
@@ -17740,7 +17758,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -20960,7 +20978,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195157,
       "name": "Gangi \u00fe\u00e9r vel meistari",
       "url": "https://open.spotify.com/track/2pQXEzlu9CvHRLzVsoC1zJ"
@@ -22060,7 +22078,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -22078,7 +22096,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -25126,7 +25144,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3ja2R7aycywOomCJGsyqWc"
@@ -27294,7 +27312,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 245400,
       "name": "I Don't Give a ***",
       "url": "https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj"
@@ -33141,6 +33159,28 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/7gUWtMFZMjAzt68nX57eMn"
+      },
+      "artists": [
+        {
+          "name": "Capree",
+          "url": "https://open.spotify.com/artist/2BhA4Tcj2heNL0gthDMp3v"
+        },
+        {
+          "name": "6AM",
+          "url": "https://open.spotify.com/artist/3t6I4YrxnwewdkKxNb2FMF"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1af7pCIJzlvuveotc5TWhh"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -33572,7 +33612,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 163531,
       "name": "Lo Que Perdiste",
       "url": "https://open.spotify.com/track/7Am85h9aNUfh98dBhALlRF"
@@ -50030,7 +50070,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -52044,7 +52084,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 190480,
       "name": "Stopp",
       "url": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
@@ -55510,7 +55550,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -55818,7 +55858,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 237616,
       "name": "THE LEFTOVER GUY - Radio",
       "url": "https://open.spotify.com/track/4BWXHy6EpeC4IeveFW9jfU"
@@ -58864,7 +58904,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 132000,
       "name": "UNC",
       "url": "https://open.spotify.com/track/7ItlNstcbSzZFLZqu188qF"
@@ -60918,7 +60958,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 168456,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5QyXOQg3UVlvAg8h5SUwlK"
@@ -65924,7 +65964,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 189197,
       "name": "\u00deA\u00d0 ER",
       "url": "https://open.spotify.com/track/4cNNvGljdj1Y8dithkD6XR"
@@ -65960,7 +66000,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"

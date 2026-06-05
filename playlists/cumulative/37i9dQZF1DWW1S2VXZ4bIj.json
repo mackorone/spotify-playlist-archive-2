@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Zom Marie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: No One Else, COPPER OF BUS",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 236133,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
@@ -3408,6 +3408,24 @@
       "duration_ms": 172850,
       "name": "ONE SHOT (feat. PiXXiE)",
       "url": "https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6"
+    },
+    {
+      "album": {
+        "name": "ONE THING",
+        "url": "https://open.spotify.com/album/6VSY1qiEtu1jXB3kDhMzVo"
+      },
+      "artists": [
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/58uSGzTE4LVARQlME5HZkg"
     },
     {
       "album": {
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 143959,
       "name": "TEA",
       "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 212307,
       "name": "WHY",
       "url": "https://open.spotify.com/track/2qbOKuUAeJs7MSqw2XRFBh"
@@ -6476,6 +6494,28 @@
       "duration_ms": 219677,
       "name": "\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Close Friend)",
       "url": "https://open.spotify.com/track/28o3xMVVQgHe0QS3BSy75N"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e46\u0e19\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+        "url": "https://open.spotify.com/album/6KWEGrmwfzFgoKSTrKvGD6"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        },
+        {
+          "name": "COPPER OF BUS",
+          "url": "https://open.spotify.com/artist/5KKEn6QLNeud58KXZmE4ix"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u0e04\u0e19\u0e46\u0e19\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/2yVcvzpM2KYtZsw4CYg8rM"
     },
     {
       "album": {
@@ -13778,6 +13818,24 @@
       "duration_ms": 192705,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e22\u0e34\u0e49\u0e21\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49 (Glad)",
       "url": "https://open.spotify.com/track/7vgDg9Zz5nGQ6FycmPhzvR"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e22\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (I CHOOSE ME)",
+        "url": "https://open.spotify.com/album/457kfZRLtokpYFDFVPv8Q4"
+      },
+      "artists": [
+        {
+          "name": "KLEAR",
+          "url": "https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e22\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (I CHOOSE ME)",
+      "url": "https://open.spotify.com/track/6u50hUsJ7FAbSkIabXaQ5A"
     },
     {
       "album": {

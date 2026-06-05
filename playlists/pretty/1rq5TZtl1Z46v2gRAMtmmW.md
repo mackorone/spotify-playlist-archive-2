@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,874 likes - 55 songs - 2 hr 59 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,877 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 53 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 |
 | 54 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 55 | [Mudhole](https://open.spotify.com/track/6measgcwVZxbpSkySsQM93) | [Captain Murphy](https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX) | [Mudhole](https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x) | 2:33 |
+| 56 | [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 |
 
-Snapshot ID: `AAARj0D6hIGd/GixDSfnqX6cy53C3JhZ`
+Snapshot ID: `AAARkOXVo/fGP/fGsepmEwqWTWVCjIw1`

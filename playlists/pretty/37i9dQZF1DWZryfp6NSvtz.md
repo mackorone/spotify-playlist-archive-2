@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Paul McCartney
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,312 likes - 126 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,339 likes - 126 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 22 | [Mr\. Alligator](https://open.spotify.com/track/18EnWZ9wTjszmJjI3BgCuL) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Mr\. Alligator](https://open.spotify.com/album/1VfzgIuIeY3f3jG4t8Qydp) | 4:25 |
 | 23 | [Hold Up, Say What?](https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [House Of Mirrors](https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi) | 4:04 |
 | 24 | [Passing Through](https://open.spotify.com/track/3G2XKfUqiTDlazLOJSXReX) | [High June](https://open.spotify.com/artist/3i1A5Z9zQQApPx49tr0B2f) | [Passing Through](https://open.spotify.com/album/5NzNlFEHYdo6EOmjmHsz0n) | 3:31 |
-| 25 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 25 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 26 | [I'm Up, I'm Up](https://open.spotify.com/track/4upyTJHHcg6JiRrryaL63p) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Down On Earth](https://open.spotify.com/album/0ZFmlWgygmNkqn01heNfqq) | 4:34 |
 | 27 | [Round Of Applause At The End Of The World](https://open.spotify.com/track/1mjtX4af3hbvz8TsM4Eium) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Round Of Applause At The End Of The World](https://open.spotify.com/album/4wkbJo8MVSZJPSmT47pYSb) | 4:27 |
 | 28 | [Don’t Lie](https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Don't Lie](https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI) | 2:58 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 65 | [Lótus](https://open.spotify.com/track/18WUGDcMsCDraOWuVICK2H) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Lótus](https://open.spotify.com/album/2Y7BifSQK5UpzhtV8LsFzi) | 2:41 |
 | 66 | [Dead Man Walking](https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Dead Man Walking](https://open.spotify.com/album/6ikKNy64oat903y40BvADC) | 3:02 |
 | 67 | [Star Star](https://open.spotify.com/track/23Q6KGjCYAK5Kud28azHPa) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Star Star](https://open.spotify.com/album/5w3bEhnDEzDcyor6fsQvd1) | 3:57 |
-| 68 | [Dug a Hole](https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh) | [Scattrbrain](https://open.spotify.com/artist/6lWIyq5Kx1LORlaoCeDoIB), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dug a Hole](https://open.spotify.com/album/62vFAXm0OfnbNfqZvNnjZo) | 4:31 |
+| 68 | [Dug a Hole](https://open.spotify.com/track/42V4O2h6s6HEuXhS7n1hgh) | [Scattrbrain](https://open.spotify.com/artist/6lWIyq5Kx1LORlaoCeDoIB), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dug a Hole](https://open.spotify.com/album/62vFAXm0OfnbNfqZvNnjZo) | 4:31 |
 | 69 | [Only One](https://open.spotify.com/track/1bJX1R4D9xJtZZpc1VAUXY) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Only One](https://open.spotify.com/album/7wXdnWZsezOlWML2CNCtAm) | 2:46 |
 | 70 | [CRASH COURSE DUMMY](https://open.spotify.com/track/33gjrrapm7VH9wL4bhIQ23) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [CRASH COURSE DUMMY](https://open.spotify.com/album/4ubZWSy942liL4mNyLvbyp) | 3:06 |
 | 71 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Kick Stones \(The Boys\)](https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx) | 3:56 |

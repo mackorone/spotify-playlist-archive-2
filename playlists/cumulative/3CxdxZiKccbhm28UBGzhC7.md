@@ -4,7 +4,7 @@
 
 > 2023
 
-127 songs - 7 hr 29 min
+128 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [The Boxer](https://open.spotify.com/track/2rIIbUK6hOdpojv37cnbYr) | [The Enemy](https://open.spotify.com/artist/01ZP85CNi7Y9t1e0one46k) | [Social Disguises](https://open.spotify.com/album/4EfMewbYdI4dL33rpjDtyG) | 3:31 | 2026-02-24 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-10-30 |  |
 | [The Man Don't Give a Fuck \- 2016 \- Remaster](https://open.spotify.com/track/3nKgqK8lLseqdMyUZm9ed0) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Fuzzy Logic \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1x6JiZdZ5HJcBk2zh6OTRl) | 4:53 | 2022-09-06 |  |
+| [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2026-06-04 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:42 | 2022-10-21 |  |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 | 2026-02-28 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-08-20 |  |

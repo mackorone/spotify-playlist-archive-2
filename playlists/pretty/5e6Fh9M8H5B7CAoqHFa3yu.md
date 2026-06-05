@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 328 likes - 2,364 songs - 5 day 19 hr 30 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 329 likes - 2,366 songs - 5 day 19 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2372,5 +2372,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2362 | [Travelers Souls](https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Travelers Souls](https://open.spotify.com/album/7mOchKktwmLXR7onK2mhv5) | 4:00 |
 | 2363 | [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 |
 | 2364 | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/album/6KDXTPgiLfEYUokveQ4dyH) | 3:40 |
+| 2365 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 |
+| 2366 | [Heatwave](https://open.spotify.com/track/2YxMVgmI7DysNQSqEIonLu) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Heatwave](https://open.spotify.com/album/4nWgKF90jJuAsES92kzz33) | 1:45 |
 
-Snapshot ID: `AAAKCqQAi1dIkAaXOZNVetsBTeWDjin2`
+Snapshot ID: `AAAKDDBVlJY8k8ul5Ao52HNBo0x5sr6g`

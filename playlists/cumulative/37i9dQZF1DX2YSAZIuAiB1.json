@@ -2597,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/6hHlApIJVxkESL7qLXlsWC"
+      },
+      "artists": [
+        {
+          "name": "CAKES",
+          "url": "https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143261,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/1a8tPkvOMDoHq1ymFbleyV"
+    },
+    {
+      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -3074,6 +3096,28 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "album": {
+        "name": "daylight",
+        "url": "https://open.spotify.com/album/7FWRkjv9FYymiiHw2yGNJs"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193676,
+      "name": "daylight",
+      "url": "https://open.spotify.com/track/3dOoBKcpWJAz039ICjn0HK"
     },
     {
       "album": {
@@ -9596,7 +9640,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -9794,7 +9838,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 274549,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6q3n1AlWzu5sPSnIP1MKHf"
@@ -10108,6 +10152,28 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "album": {
+        "name": "Satalanaaa",
+        "url": "https://open.spotify.com/album/6ufHkDXSap5scn0CK9MOQk"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Satalanaaa",
+      "url": "https://open.spotify.com/track/16Rw2320t2aLHgmcYp5cbC"
     },
     {
       "album": {
@@ -11792,7 +11858,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 169180,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/1skiUyoQZ6ZrqQYi7Ty8fg"

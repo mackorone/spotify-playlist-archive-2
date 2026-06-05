@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: FREEHAND
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: JustmineNika
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,798 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,892 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
-| 2 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 3 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
-| 4 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 |
-| 5 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
-| 6 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 7 | [ไม่ได้ลืมแค่ไม่ได้เจอ \- Flashback](https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่ได้ลืมแค่ไม่ได้เจอ \(Flashback\)](https://open.spotify.com/album/3VA8BIHjnmu3sOgZcEB97e) | 3:48 |
-| 8 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 9 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 10 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 11 | [Move On แบบใด](https://open.spotify.com/track/53XeQvCYruEEHVDgWmraKq) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [Move On แบบใด](https://open.spotify.com/album/1SYedOaOGyBXObvmBMpp1X) | 4:18 |
-| 12 | [รักใครไม่ไหว](https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [รักใครไม่ไหว](https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59) | 4:10 |
-| 13 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 |
-| 14 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
-| 15 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 |
-| 16 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 |
-| 17 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
-| 18 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 2 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
+| 3 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 4 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
+| 5 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 6 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 |
+| 7 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
+| 8 | [ไม่ได้ลืมแค่ไม่ได้เจอ \- Flashback](https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่ได้ลืมแค่ไม่ได้เจอ \(Flashback\)](https://open.spotify.com/album/3VA8BIHjnmu3sOgZcEB97e) | 3:48 |
+| 9 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 10 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 11 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
+| 12 | [Move On แบบใด](https://open.spotify.com/track/53XeQvCYruEEHVDgWmraKq) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [Move On แบบใด](https://open.spotify.com/album/1SYedOaOGyBXObvmBMpp1X) | 4:18 |
+| 13 | [รักใครไม่ไหว](https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [รักใครไม่ไหว](https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59) | 4:10 |
+| 14 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 |
+| 15 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
+| 16 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 |
+| 17 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 |
+| 18 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
 | 19 | [Rain Zone](https://open.spotify.com/track/7nSkSqb1WDtZ7hY2dVEvWY) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Rain Zone](https://open.spotify.com/album/5oAY1ajznhsPn951S81bMa) | 3:05 |
 | 20 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 |
 | 21 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ezfWejKhD3CJS0qLNJKkQ) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/37Ii4y5gfz2JRD5oil2TiS) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 |
 | 50 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 
-Snapshot ID: `AAAAAEiiyLgEuOIyzBh5YjEWnLX7W6ZK`
+Snapshot ID: `AAAAAGq71ZTM8r5D85NiRfYx0qkeQHr6`

@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190753,
+  "num_followers": 190744,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALl5EMTuQedP+s3AJzbqHgqAgWuV",
+  "snapshot_id": "AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg",
   "tracks": [
     {
       "added_at": "2026-05-26 22:00:43",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 255895,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Play With Fire",
-        "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 255895,
-      "name": "Play With Fire",
-      "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
-      },
-      "artists": [
-        {
-          "name": "Sean Solomon",
-          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
-        }
-      ],
-      "duration_ms": 202812,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/3h7MNOxHgXeB6eygCLdRYc"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "duration_ms": 202812,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/3h7MNOxHgXeB6eygCLdRYc"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "22 Weeks",
-      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "What Takes You Back",
         "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 246764,
       "name": "Old Shadows",
       "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 199542,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
@@ -463,6 +479,38 @@
       "duration_ms": 204047,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Martyr",
+        "url": "https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI"
+      },
+      "artists": [
+        {
+          "name": "Ozark Henry",
+          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Martyr",
+      "url": "https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -487,54 +535,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Martyr",
-        "url": "https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI"
-      },
-      "artists": [
-        {
-          "name": "Ozark Henry",
-          "url": "https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Martyr",
-      "url": "https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 199542,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Pelechian 2",
         "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
@@ -547,54 +547,6 @@
       "duration_ms": 307706,
       "name": "Pelechian 2",
       "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 403787,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -615,18 +567,50 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
       "artists": [
         {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
         }
       ],
-      "duration_ms": 240822,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
+      "duration_ms": 403787,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -651,6 +635,22 @@
       "duration_ms": 256950,
       "name": "Pass Through Time",
       "url": "https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 240822,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "The Farm",
-        "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
       },
       "artists": [
         {
-          "name": "Ato P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc"
-        },
-        {
-          "name": "Jeffrey Dol",
-          "url": "https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh"
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
         }
       ],
-      "duration_ms": 302533,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+        "name": "The Farm",
+        "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
       "artists": [
         {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+          "name": "Ato P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc"
+        },
+        {
+          "name": "Jeffrey Dol",
+          "url": "https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh"
         }
       ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+      "duration_ms": 302533,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
-      },
-      "artists": [
-        {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
       "artists": [
         {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
         }
       ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1375,6 +1359,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2026-05-26 22:00:43",

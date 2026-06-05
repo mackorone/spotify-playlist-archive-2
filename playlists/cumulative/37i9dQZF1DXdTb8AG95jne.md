@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안예은 \(Ahn Ye Eun\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 구름\(Cloud koh\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,351 songs - 3 day 9 hr 50 min
+1,352 songs - 3 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Letter](https://open.spotify.com/track/37jDUUtHbVashjygFeIlRk) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [Letter](https://open.spotify.com/album/0G5Uz3pP2YQde9xkF5bDWa) | 3:44 | 2024-11-06 | 2024-12-20 |
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-07-24 |
 | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/track/0Movj8s4Amm8ax9y8Y6irk) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/album/2CxUPiHXhCefMjkMvx8XBg) | 3:35 | 2022-03-31 | 2022-04-06 |
+| [Let’s Say “I Love You”](https://open.spotify.com/track/3WpxaeTYve3tQMpeSOm6tZ) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [Let’s Say “I Love You”](https://open.spotify.com/album/0pFERyNhU3lIn7NAZYQ05w) | 3:38 | 2026-06-04 |  |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2025-08-27 |
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |

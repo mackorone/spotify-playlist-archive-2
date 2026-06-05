@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Nava",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Vendredi sur Mer",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 174786,
       "name": "(((Stup Lore))) (Antidote remix)",
       "url": "https://open.spotify.com/track/17aqoGw7X6YcC0qnwMJ9Pf"
+    },
+    {
+      "album": {
+        "name": "1000 morceaux",
+        "url": "https://open.spotify.com/album/1rg6HMLANVWaVIB6KLTrky"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "1000 morceaux",
+      "url": "https://open.spotify.com/track/1hsXj9X9i3A00KXXOLMAvv"
     },
     {
       "album": {
@@ -392,6 +410,24 @@
       "duration_ms": 156736,
       "name": "Appel de d\u00e9tresse",
       "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
+    },
+    {
+      "album": {
+        "name": "Appelle-moi",
+        "url": "https://open.spotify.com/album/6ybXT1gGJU7aUlTF95qbiW"
+      },
+      "artists": [
+        {
+          "name": "Neniu",
+          "url": "https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Appelle-moi",
+      "url": "https://open.spotify.com/track/52imcKqpt9NgcThDj2WHTx"
     },
     {
       "album": {
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 203740,
       "name": "Comme des hy\u00e8nes",
       "url": "https://open.spotify.com/track/3DVvnkok2V9fHs7IJr5glQ"
@@ -1626,6 +1662,24 @@
       "duration_ms": 158000,
       "name": "COMMENT TU T'APPELLES ?",
       "url": "https://open.spotify.com/track/3iVHpYIzAVAwwOkkjIqX9P"
+    },
+    {
+      "album": {
+        "name": "Com\u00e8te",
+        "url": "https://open.spotify.com/album/23SkpEIdmzebdNVeenuaDV"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131961,
+      "name": "Com\u00e8te",
+      "url": "https://open.spotify.com/track/5gOQr8XJxXtmLIDhSTPm20"
     },
     {
       "album": {
@@ -2282,7 +2336,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170712,
       "name": "ELLE TE RESSEMBLE",
       "url": "https://open.spotify.com/track/6h6ZIzimyrL4eqdGxL8J0y"
@@ -3509,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "je fais pleurer les hommes",
+        "url": "https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU"
+      },
+      "artists": [
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127242,
+      "name": "je fais pleurer les hommes",
+      "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
+    },
+    {
+      "album": {
         "name": "Je fume pour oublier que tu bois",
         "url": "https://open.spotify.com/album/3faBJcSfGRBiZkGyMNVNHM"
       },
@@ -3546,6 +3618,24 @@
       "duration_ms": 149875,
       "name": "JE ME SENS BIEN",
       "url": "https://open.spotify.com/track/0yw5OFoIUF6CV47rODmmrP"
+    },
+    {
+      "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
     },
     {
       "album": {
@@ -4180,7 +4270,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 167762,
       "name": "La fi\u00e8vre",
       "url": "https://open.spotify.com/track/2c3AR4QkQ49CbmM1O73luX"
@@ -4274,7 +4364,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 221025,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/6gvpn1sakSHny7E03huVzq"
@@ -4959,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9opard",
+        "url": "https://open.spotify.com/album/6qITI8ylTPWwQezC2goMvh"
+      },
+      "artists": [
+        {
+          "name": "Louise XIV",
+          "url": "https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "L\u00e9opard",
+      "url": "https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa"
+    },
+    {
+      "album": {
         "name": "MA CLAQUE",
         "url": "https://open.spotify.com/album/0CI5Sv3BtwmyDrUeL07qgf"
       },
@@ -5132,7 +5240,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 227093,
       "name": "Merci",
       "url": "https://open.spotify.com/track/0pDyMsssPFrvzmqKqCzKdf"
@@ -5767,6 +5875,28 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts",
+        "url": "https://open.spotify.com/album/5or97KV8J2tw5JQypOcLx3"
+      },
+      "artists": [
+        {
+          "name": "The Penelopes",
+          "url": "https://open.spotify.com/artist/7AGuWkMBIXYnc1QYmbcp2E"
+        },
+        {
+          "name": "Laura Smet",
+          "url": "https://open.spotify.com/artist/4dj4eL8xRa8PiwVN8q13oE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Nothing Lasts",
+      "url": "https://open.spotify.com/track/5ftl2zhs5mo6LZtSJNcIh8"
+    },
+    {
+      "album": {
         "name": "Nuage Gris",
         "url": "https://open.spotify.com/album/4azWvnmyKImqcEkbZPnKCC"
       },
@@ -5879,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "Oui mais non",
+        "url": "https://open.spotify.com/album/46pQc12udycYO6upatq9qf"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Oui mais non",
+      "url": "https://open.spotify.com/track/07f9dfX1Uo0p7dz6yncTZE"
+    },
+    {
+      "album": {
         "name": "O\u00f9 va la chance (Fran\u00e7oise Hardy Cover)",
         "url": "https://open.spotify.com/album/2mr2BtUoxYHL15s4AXorev"
       },
@@ -5984,6 +6132,24 @@
       "duration_ms": 249336,
       "name": "Paris Bruxelles",
       "url": "https://open.spotify.com/track/3PDJkJiZiqQm3wYeRGUej7"
+    },
+    {
+      "album": {
+        "name": "Parlerfort",
+        "url": "https://open.spotify.com/album/3Elgh0NMS6lSshZYP2pLhs"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00ed",
+          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139653,
+      "name": "Parlerfort",
+      "url": "https://open.spotify.com/track/0fpJszF789fKcGizS40YVB"
     },
     {
       "album": {
@@ -7104,10 +7270,28 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 151000,
       "name": "Sa musique pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/3MOjw2NvdXvNkgCkcLdLvf"
+    },
+    {
+      "album": {
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/36WU86fpaWvRhJSwXyOMSl"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0"
     },
     {
       "album": {
@@ -7414,7 +7598,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 176431,
       "name": "Silencieux",
       "url": "https://open.spotify.com/track/39KQPpuNyoNVM97LOizaxm"
@@ -7794,7 +7978,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 190560,
       "name": "SVP faites du bruit",
       "url": "https://open.spotify.com/track/1H73rbNesXp1PkkX5DoQzO"
@@ -8616,7 +8800,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 183106,
       "name": "Viens en moi",
       "url": "https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9"
@@ -8746,7 +8930,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 222000,
       "name": "Winter Days \u51ac\u306e\u65e5\u3005(feat. Salasa)",
       "url": "https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM"

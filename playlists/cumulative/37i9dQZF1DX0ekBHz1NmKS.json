@@ -7437,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "Det ligger n\u00e5t i luften",
+        "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Det ligger n\u00e5t i luften",
+      "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
+    },
+    {
+      "album": {
         "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
         "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
       },
@@ -7492,7 +7510,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 176465,
       "name": "Det skulle varit jag (feat. Emilia Panti\u0107)",
       "url": "https://open.spotify.com/track/3vBa5gcBnYdXUwyqrNCn5i"
@@ -11200,6 +11218,24 @@
       "duration_ms": 216024,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS"
+    },
+    {
+      "album": {
+        "name": "Fantiserar",
+        "url": "https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156724,
+      "name": "Fantiserar",
+      "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
     },
     {
       "album": {
@@ -23190,7 +23226,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 158240,
       "name": "L\u00e5ngt fr\u00e5n alla andra",
       "url": "https://open.spotify.com/track/7hlXQbHJJ8P8CSEliQz3hk"
@@ -24001,6 +24037,32 @@
     },
     {
       "album": {
+        "name": "Me Without U - Spotify Singles",
+        "url": "https://open.spotify.com/album/6JeC64NyEwq3Q25BNgO9iV"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137431,
+      "name": "Me Without U - Spotify Singles",
+      "url": "https://open.spotify.com/track/2qcOgRGOYqYfPqJukUcWZr"
+    },
+    {
+      "album": {
         "name": "MED DIG",
         "url": "https://open.spotify.com/album/6flWGUPm26oSE2SHZqqVkk"
       },
@@ -24628,7 +24690,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 117915,
       "name": "Min tur",
       "url": "https://open.spotify.com/track/0OBysEae8kUrxeu3ZymsRR"
@@ -35246,7 +35308,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 165676,
       "name": "Svartsjuk - Spotify Singles",
       "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
@@ -42074,6 +42136,24 @@
       "duration_ms": 172303,
       "name": "You",
       "url": "https://open.spotify.com/track/6GzsiAwzdBGdN1bz8xirCu"
+    },
+    {
+      "album": {
+        "name": "You Got The Look",
+        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "You Got The Look",
+      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1066821,
+  "num_followers": 1066896,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-05-29 04:01:15",
       "album": {
-        "name": "Could You Be Loved (with LP Giobbi)",
-        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 286879,
-      "name": "Could You Be Loved (with LP Giobbi)",
-      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
-    },
-    {
-      "added_at": "2026-05-29 04:01:15",
-      "album": {
         "name": "You Are My High",
         "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 233562,
       "name": "Stay There",
       "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2026-05-29 04:01:15",
+      "album": {
+        "name": "Could You Be Loved (with LP Giobbi)",
+        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 286879,
+      "name": "Could You Be Loved (with LP Giobbi)",
+      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
     },
     {
       "added_at": "2026-05-29 04:01:15",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2026-05-29 04:01:15",
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Tom Diesel",
+          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+        }
+      ],
+      "duration_ms": 206890,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:15",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1107,30 +1131,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-05-29 04:01:15",
-      "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
-      },
-      "artists": [
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        },
-        {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
-        },
-        {
-          "name": "Tom Diesel",
-          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
-        }
-      ],
-      "duration_ms": 206890,
-      "name": "The Underground",
-      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
     },
     {
       "added_at": "2026-05-29 04:01:15",

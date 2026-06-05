@@ -1,37 +1,13 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 228191,
+  "num_followers": 228179,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYrYFzDm6xm87aDvYpG0ahW6zhTRmB",
+  "snapshot_id": "AAAYsNuvvSC82EWKnVhWuraI9u9pk8/q",
   "tracks": [
-    {
-      "added_at": "2026-05-18 07:07:39",
-      "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255584,
-      "name": "Chand Mera Dil - Shreya Ghoshal",
-      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
     {
       "added_at": "2023-02-07 07:34:43",
       "album": {
@@ -61,24 +37,20 @@
       "url": "https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t"
     },
     {
-      "added_at": "2021-08-10 09:32:02",
+      "added_at": "2025-10-27 06:29:14",
       "album": {
-        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+        "name": "Mann Mera (Original Version)",
+        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Channa Mereya",
-      "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
+      "duration_ms": 228000,
+      "name": "Mann Mera - Original Version",
+      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2025-12-08 05:58:30",
@@ -103,6 +75,50 @@
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "added_at": "2026-05-18 07:07:39",
+      "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
+    },
+    {
+      "added_at": "2021-08-10 09:32:02",
+      "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Channa Mereya",
+      "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
     },
     {
       "added_at": "2026-04-23 13:11:27",
@@ -943,22 +959,6 @@
       "duration_ms": 210857,
       "name": "Zinda",
       "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
-    },
-    {
-      "added_at": "2025-10-27 06:29:14",
-      "album": {
-        "name": "Mann Mera (Original Version)",
-        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
-      },
-      "artists": [
-        {
-          "name": "Gajendra Verma",
-          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mann Mera - Original Version",
-      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2025-10-10 07:17:33",

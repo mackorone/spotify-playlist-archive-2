@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Young Cister
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,680 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,677 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 6 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 7 | [AMAPOLA](https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:22 |
 | 8 | [Notre\-Dame](https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Atanor](https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y) | 2:46 |
-| 9 | [track 1](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [track 1](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 |
+| 9 | [antes de que sea tarDe](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [antes de que sea tarDe](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 |
 | 10 | [I N T E N S I D A D](https://open.spotify.com/track/0h8dF0FcFb8DEz668vlpxZ) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [I N T E N S I D A D](https://open.spotify.com/album/60w9jb6QvamAWBUzY3xYeL) | 2:46 |
 | 11 | [PUNTERÍA \(feat\. Luis Mint\)](https://open.spotify.com/track/7t9xKg1DSRBiQBBHJ9R9rF) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [PUNTERÍA](https://open.spotify.com/album/3OaUzv9LbQ4BQcvnJQp3Md) | 2:16 |
 | 12 | [Mañana nos volvemos a odiar](https://open.spotify.com/track/7d5JPlh0sQynmCPSWAIZS9) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Vulnerable, más de lo normal](https://open.spotify.com/album/5xNjZLAqvQXVnxg3Guwl8s) | 2:51 |

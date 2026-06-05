@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Drake, Future, Latto and Central Cee.
 
-1,573 songs - 3 day 5 hr 55 min
+1,574 songs - 3 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-02-01 | 2022-03-18 |
 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 | 2024-03-01 | 2024-05-18 |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2022-10-21 | 2022-11-19 |
-| [ATM](https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:00 | 2026-01-30 |  |
+| [ATM](https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:00 | 2026-01-30 | 2026-06-05 |
 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 | 2024-05-17 | 2024-08-03 |
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-05-24 | 2024-07-27 |
 | [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 | 2022-08-06 |
@@ -408,6 +408,7 @@
 | [Dust](https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:09 | 2026-05-15 | 2026-05-23 |
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2022-07-22 | 2022-11-05 |
 | [DWTD](https://open.spotify.com/track/55Nt8AUYziz5UqJn2LHXJW) | [Coach](https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [DWTD](https://open.spotify.com/album/0LYGTHXSxyQ9evgM3mkAqb) | 2:34 | 2024-05-24 | 2024-07-13 |
+| [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-06-05 |  |
 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 | 2024-01-12 | 2024-03-23 |
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-03-26 |
 | [EASTERISLAND](https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [EASTERISLAND](https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA) | 3:29 | 2022-06-03 | 2022-07-09 |

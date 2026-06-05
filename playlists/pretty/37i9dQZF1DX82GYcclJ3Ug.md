@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,085 likes - 149 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,093 likes - 149 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 43 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 |
 | 44 | [Grief Is For The Living](https://open.spotify.com/track/3K2xzkk5sitgoz3uHoSsH0) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Grief Is For The Living](https://open.spotify.com/album/7KQBvkXqp4NPi6HTGECS20) | 3:24 |
 | 45 | [Do What You Gotta Do](https://open.spotify.com/track/2bpWY9SVsWt5etz8xJfQIU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Do What You Gotta Do](https://open.spotify.com/album/3vQwZL77edVIs2uAvJqUaf) | 3:26 |
-| 46 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 46 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 47 | [Maybe The Best Is Now](https://open.spotify.com/track/3BQsnAOYYCh7fCXM7fOqPb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Maybe The Best Is Now](https://open.spotify.com/album/02MdxAPMDDyWb2kCofWQQ1) | 4:16 |
 | 48 | [Big Romance](https://open.spotify.com/track/5tYFKMrmGcV7sM1JX3joYJ) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1), [Abigail Morris](https://open.spotify.com/artist/6GgNw0TRghX4wAp0SxyNld) | [Big Romance](https://open.spotify.com/album/3Uy690fScbJzjxCPtKPSI1) | 2:47 |
 | 49 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |

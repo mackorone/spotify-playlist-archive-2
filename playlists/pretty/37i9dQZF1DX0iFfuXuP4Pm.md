@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Arthur Nery
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,744 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,638 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 29 | [Panatag](https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Panatag](https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh) | 3:49 |
 | 30 | [Soundtrip](https://open.spotify.com/track/55cEuBePIOJfezgIZkWq66) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Soundtrip](https://open.spotify.com/album/6BpRDKNK3GE7OCpLGp7E8B) | 3:48 |
 | 31 | [Hinga](https://open.spotify.com/track/3kyCL9iWjdYDhkEQboYeJN) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hinga / Iisa](https://open.spotify.com/album/1UuDSRE9d3rpDkSsCYFBvI) | 4:02 |
-| 32 | [Ipaalam Sana](https://open.spotify.com/track/6Rhn1rOQwPP1MriSg0W644) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5), [Eryck Paolo Sarsale](https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n) | [LOVER BOY: CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:30 |
+| 32 | [Ipaalam Sana](https://open.spotify.com/track/6Rhn1rOQwPP1MriSg0W644) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5), [Paradoxx](https://open.spotify.com/artist/1sjdPMJUeMIt5Be11oEnDe) | [LOVER BOY \- CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:30 |
 | 33 | [nananabik](https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [nananabik](https://open.spotify.com/album/78HaiGq1MIsdl8MZGiYdVr) | 4:02 |
 | 34 | [Parang](https://open.spotify.com/track/1KPwYzNfA3J7JN7o2JE8AK) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV), [Kyla Miel](https://open.spotify.com/artist/2biYWNaH3ixEcbqA8rajv5) | [Parang](https://open.spotify.com/album/5sDKeWFuWxy199YWo63RdL) | 4:08 |
 | 35 | [Halik Sobrang Diin Pt\. 2](https://open.spotify.com/track/7dfdFXTFrHUfsS6ff6RQgb) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N), [Mi'Kel](https://open.spotify.com/artist/107G4dbmWXjiAsYc0sz0lx) | [Halik Sobrang Diin Pt\. 2](https://open.spotify.com/album/5PsAEPorOXjYT3QmvlpQKP) | 3:33 |

@@ -2,7 +2,7 @@
 
 ### [Southern Dessert : Desert Queens](https://open.spotify.com/playlist/2dv5GoUdPb2tbF18NeZEDH)
 
-> 
+> More on glitchandgold.com\. Follow @glitchandgoldmusic on Insta for interviews, Radar features and new discoveries.Submit your music on glitchandgold.com
 
 1,380 songs - 3 day 12 hr 17 min
 

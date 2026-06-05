@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 876917,
+  "num_followers": 877018,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Isaac Chambers & Dub Princess",
-        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
       },
       "artists": [
         {
-          "name": "Isaac Chambers",
-          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
-        },
-        {
-          "name": "Dub Princess",
-          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -227,18 +223,22 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+        "name": "Isaac Chambers & Dub Princess",
+        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Isaac Chambers",
+          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
+        },
+        {
+          "name": "Dub Princess",
+          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
         }
       ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+      "duration_ms": 336000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
         "name": "McCartney III Imagined",
         "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 348859,
       "name": "Pretty Boys (feat. Khruangbin)",
       "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Kolaba",
-        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
-      },
-      "artists": [
-        {
-          "name": "Afriquoi",
-          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
-        },
-        {
-          "name": "Kudaushe Matimba",
-          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
-        }
-      ],
-      "duration_ms": 238420,
-      "name": "Kudaushe",
-      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Kolaba",
+        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
+      },
+      "artists": [
+        {
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        },
+        {
+          "name": "Kudaushe Matimba",
+          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
+        }
+      ],
+      "duration_ms": 238420,
+      "name": "Kudaushe",
+      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Killa's on da Loose",
-        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
-      },
-      "artists": [
-        {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Killa's on da Loose",
-      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Killa's on da Loose",
+        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+      },
+      "artists": [
+        {
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Killa's on da Loose",
+      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Djanne",
         "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 162707,
       "name": "Djanne",
       "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Charanga",
         "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
@@ -1555,18 +1535,38 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
       "artists": [
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         }
       ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Calima",
-        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Calima",
-      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Calima",
+        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Calima",
+      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Consider It Done",
-        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
+        "name": "Vem pra Casa",
+        "url": "https://open.spotify.com/album/6hcX6bzqzwrX5ijhPAosIo"
       },
       "artists": [
         {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
         }
       ],
-      "duration_ms": 195993,
-      "name": "Cocobolo",
-      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
+      "duration_ms": 207234,
+      "name": "Vem pra Casa",
+      "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1859,34 +1859,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Vem pra Casa",
-        "url": "https://open.spotify.com/album/6hcX6bzqzwrX5ijhPAosIo"
+        "name": "Consider It Done",
+        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
       },
       "artists": [
         {
-          "name": "Curi\u00f3 Curi\u00f3",
-          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
         }
       ],
-      "duration_ms": 207234,
-      "name": "Vem pra Casa",
-      "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
-      },
-      "artists": [
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+      "duration_ms": 195993,
+      "name": "Cocobolo",
+      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -1915,6 +1899,38 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
+      },
+      "artists": [
+        {
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 150803,
       "name": "House Of Mirrors",
       "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Countryman '82",
-        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 243442,
-      "name": "Countryman '82",
-      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Countryman '82",
+        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 243442,
+      "name": "Countryman '82",
+      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Indio",
         "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
@@ -2239,22 +2223,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Magnolia Tree",
-        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
         }
       ],
-      "duration_ms": 168837,
-      "name": "Magnolia Tree",
-      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2275,6 +2255,26 @@
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Magnolia Tree",
+        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Magnolia Tree",
+      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 149544,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
       },
       "artists": [
         {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
         }
       ],
-      "duration_ms": 149544,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4"
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-05-21 23:20:15",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Music Save Me (One More Time)",
-        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 256490,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
-    },
-    {
-      "added_at": "2026-05-21 23:20:15",
-      "album": {
         "name": "Bandar Batavia",
         "url": "https://open.spotify.com/album/2NOEzRnet7nm58ysaPGgNG"
       },
@@ -2599,18 +2583,38 @@
     {
       "added_at": "2026-05-21 23:20:15",
       "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
       "artists": [
         {
-          "name": "Dionisio Maio",
-          "url": "https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
         }
       ],
-      "duration_ms": 276981,
-      "name": "Dia Ja Manche",
-      "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
+      "duration_ms": 304334,
+      "name": "Water of Life",
+      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
+    },
+    {
+      "added_at": "2026-05-21 23:20:15",
+      "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
     },
     {
       "added_at": "2026-05-21 23:20:15",

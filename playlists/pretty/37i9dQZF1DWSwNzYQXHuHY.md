@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,578 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,577 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 24 | [You're Mine, You're My Man](https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG) | [LEE JI MIN](https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA) | [You're Mine, You're My Man](https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW) | 2:33 |
 | 25 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
 | 26 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
-| 27 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
-| 28 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
+| 27 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
+| 28 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
 | 29 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
 | 30 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
 | 31 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 40 | [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 |
 | 41 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 42 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
-| 43 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
-| 44 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
+| 43 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
+| 44 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
 | 45 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 46 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
 | 47 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |

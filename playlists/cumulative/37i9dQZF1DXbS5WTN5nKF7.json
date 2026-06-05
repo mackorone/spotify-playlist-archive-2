@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Oria",
+  "description": "Le meilleur des hits avec Bruno Mars",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -2154,6 +2154,28 @@
       "duration_ms": 208469,
       "name": "C\u2019est la Vie",
       "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -4668,7 +4690,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166127,
       "name": "L'amour \u00e7a se donne",
       "url": "https://open.spotify.com/track/1PvhUPOjMlmbcRKFmHastU"
@@ -4686,7 +4708,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 162973,
       "name": "L'horizon",
       "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
@@ -6508,7 +6530,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -7287,6 +7309,28 @@
     },
     {
       "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "album": {
         "name": "Resign (2024)",
         "url": "https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS"
       },
@@ -7439,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/0sRdNyWdHU5LXX94svHqMZ"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g"
+    },
+    {
+      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
       },
@@ -7582,6 +7644,24 @@
       "duration_ms": 191173,
       "name": "Secret",
       "url": "https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "album": {
@@ -8520,7 +8600,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -8966,7 +9046,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178946,
       "name": "Turn The Lights Off - Radio Edit",
       "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
@@ -9666,6 +9746,24 @@
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7zTD7ELYa6WCbaza3VhViM"
+    },
+    {
+      "album": {
+        "name": "C amir\u00b2",
+        "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "\u00c0 l'imparfaite",
+      "url": "https://open.spotify.com/track/0jRLZZLyNGdB4x2fivRfnk"
     },
     {
       "album": {

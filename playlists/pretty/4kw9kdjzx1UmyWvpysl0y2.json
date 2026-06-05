@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123870,
+  "num_followers": 123860,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVcXIiMOUZvTuj3v08t9A3ZtsKd8uX",
+  "snapshot_id": "AAAVchczimBPLIllcsd7QSnKiHITbm1r",
   "tracks": [
+    {
+      "added_at": "2026-06-04 14:07:44",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/39hXclK6hPWE49b0mOE9dJ"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 110965,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60cNwtuht41p3FAjoULpYp"
+    },
     {
       "added_at": "2026-06-03 13:47:11",
       "album": {

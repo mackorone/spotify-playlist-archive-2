@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: FREEHAND
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: JustmineNika
 
 242 songs - 15 hr 37 min
 

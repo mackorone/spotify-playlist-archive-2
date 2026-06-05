@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399 likes - 16 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 16 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 | 15 | [Le synthétiseur](https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:41 |
 | 16 | [Musique pour l'image](https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 0:48 |
 
-Snapshot ID: `ah4dAAAAAADO4QfF9aCiplJH2S5vxEpj`
+Snapshot ID: `ah9ugAAAAAC3qB0Yc+7ZmsbWaFPmX5xJ`

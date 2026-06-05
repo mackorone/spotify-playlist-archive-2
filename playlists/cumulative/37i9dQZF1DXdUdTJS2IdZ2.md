@@ -2,9 +2,9 @@
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: LAYYI
+> Rising stars and new releases from sunny Singapore\. Cover: Regina Song
 
-1,425 songs - 3 day 5 hr 38 min
+1,433 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,9 @@
 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 | 2024-06-27 | 2024-07-27 |
 | [Downlow](https://open.spotify.com/track/1kjs0uNx01j9hGtRdpH2zh) | [Doppelgangerz](https://open.spotify.com/artist/283bzgqvIOHd11NkNu9AQF) | [Downlow](https://open.spotify.com/album/0uVAJM4XTsjtftIyVVyevv) | 2:20 | 2025-10-23 | 2025-12-12 |
 | [DRAMATIC](https://open.spotify.com/track/1AtEKHYDGIY6Xhv37Ob9fk) | [TUFFY](https://open.spotify.com/artist/6mftv1kEONJo0FseTLkqTu) | [DRAMATIC](https://open.spotify.com/album/1PYYTvGIHr89jxuFkECGRD) | 2:57 | 2025-06-19 | 2025-08-01 |
+| [Dreamer's Song](https://open.spotify.com/track/5VbmUEAhSFWVzOnH0rmwsl) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Dreamer's Song](https://open.spotify.com/album/5oWIZq3lCaNWbSRYNJJfAP) | 3:01 | 2026-06-04 |  |
 | [DRIVE\-BY](https://open.spotify.com/track/62shiQ7ROlrnstXdWWuwnc) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [DRIVE\-BY](https://open.spotify.com/album/63HkbUvgASdyHyCvYioNTh) | 4:20 | 2025-01-23 | 2025-03-21 |
+| [drown](https://open.spotify.com/track/5hxgD0Bz689bwNecs2xm4r) | [Jesse Lorenz](https://open.spotify.com/artist/5gHa0YRi0zbehDnhwnEwza) | [drown](https://open.spotify.com/album/5CWNpCToj4DHdqjBKWzuIb) | 2:49 | 2026-06-04 |  |
 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 | 2025-05-15 | 2025-07-04 |
 | [DULAN KIA \(feat\. Fariz Jabba\)](https://open.spotify.com/track/20HJbbimuwWWgWm1hSZJDN) | [ISMECHANGFU](https://open.spotify.com/artist/75Rf39N3uKbhTpTtTeDnVh), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [DULAN KIA \(feat\. Fariz Jabba\)](https://open.spotify.com/album/5id3DHsNHPHJWO6ElTb4Cm) | 2:51 | 2026-05-21 |  |
 | [Dusk](https://open.spotify.com/track/5V986lt0RHWZlMaNhpFvEF) | [Taledrops](https://open.spotify.com/artist/7FkQETwnoygYnOdvPQpdFH) | [Visions of a Dying Dream](https://open.spotify.com/album/2Ksa85a68p0e9wjBicVOFr) | 4:33 | 2025-04-17 | 2025-05-30 |
@@ -392,6 +394,7 @@
 | [Goodbye Subtlety](https://open.spotify.com/track/22reehwhNHJvCvtU5Cy9Xy) | [Baby Combat](https://open.spotify.com/artist/0gtkGD5EAl3bRjhQJ83bsT) | [Goodbye Subtlety](https://open.spotify.com/album/0cAF5097w8S8hGHaUBTrpD) | 2:56 | 2024-12-12 | 2025-01-17 |
 | [grammy](https://open.spotify.com/track/3KobTfSpubhJHP6oZFESlz) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [grammy](https://open.spotify.com/album/6gC6hc4aDhu4GWdnmO8CPu) | 3:21 | 2026-04-16 |  |
 | [Green Sheets](https://open.spotify.com/track/1WQdW1TfNMgbVVGWPEbrXv) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Green Sheets](https://open.spotify.com/album/3UIyY9WWjw8WFoQmjgMhJU) | 3:28 | 2025-08-28 | 2025-10-10 |
+| [Grow](https://open.spotify.com/track/4KfnCEXq1zFR5UILSVbbkU) | [YQ Tan](https://open.spotify.com/artist/65G2qO6LLXUzOkFzXax2nm) | [Grow](https://open.spotify.com/album/2c0Ob6XBvaA2fMOEs2hUHO) | 2:27 | 2026-06-04 |  |
 | [gut feeling](https://open.spotify.com/track/0AHoTRKg4LjIRRJgJsFqpu) | [desthemess](https://open.spotify.com/artist/3kylCL6jUWlEECElJhtmqw) | [gut feeling](https://open.spotify.com/album/4Mwdnhcz0hQqwTTD7evQxQ) | 3:08 | 2025-06-19 | 2025-08-01 |
 | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/track/2qtOPToXBpuw5rAMSMLhCD) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/album/5yBJkV9ZYAVCF4SNsgW5oq) | 2:30 | 2024-09-05 | 2024-11-09 |
 | [Habits](https://open.spotify.com/track/6sYAmeNckXMvsMNsHzrd5S) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 2:23 | 2025-10-16 | 2025-11-28 |
@@ -568,6 +571,7 @@
 | [june \(with xena giam\)](https://open.spotify.com/track/08IcLbWe0zD8rRR94Usk9N) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef), [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Movements \(In The Dark\)](https://open.spotify.com/album/4bZqg4asVExrAglbOirPJp) | 2:53 | 2025-01-23 | 2025-02-21 |
 | [Just Like Yesterday](https://open.spotify.com/track/2pMBZTOGJaN2kwF3LjSJCn) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm) | [Just Like Yesterday](https://open.spotify.com/album/5XSRWBNrnL2aTNqOQHD3Q0) | 5:05 | 2025-08-14 | 2025-10-10 |
 | [Just When I Thought](https://open.spotify.com/track/7LuchRu3iFNM0OxCaJ3jzs) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Just When I Thought](https://open.spotify.com/album/5vftvNtHbpYQ9ul3RdDGZy) | 3:27 | 2026-05-14 |  |
+| [Just When I Thought \- Kin Leonn Remix](https://open.spotify.com/track/6gurX4PVdUsovT9j2Lbot8) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Just When I Thought \(Kin Leonn Remix\)](https://open.spotify.com/album/2StnGmcxirf5Pzuu6lVTrg) | 3:53 | 2026-06-04 |  |
 | [Kan Ku Nantikan](https://open.spotify.com/track/5CRv9DjIAdCgFxZ6Xz054x) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kan Ku Nantikan](https://open.spotify.com/album/4zJgdjPAqW0fba3MrATOyQ) | 3:05 | 2025-06-19 | 2025-08-01 |
 | [Kana Kanden](https://open.spotify.com/track/2FcBAM5JfyV2uIxTlO4nki) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Kana Kanden](https://open.spotify.com/album/224FKmvgKZDjt6mydHDjgE) | 3:58 | 2025-11-06 | 2026-01-23 |
 | [Kata](https://open.spotify.com/track/0r4bvid2oluEvinUncHv8P) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kata](https://open.spotify.com/album/4T7pIPC4AX0wEN78e8SpEQ) | 3:29 | 2025-01-23 | 2025-05-30 |
@@ -589,6 +593,7 @@
 | [Lady In Red](https://open.spotify.com/track/03tTzChMfmYu649nJ5HJNS) | [Glen Wee](https://open.spotify.com/artist/4ZG94GJYXCNKWxWSulbi17) | [Lady in Red](https://open.spotify.com/album/4Pyg2zKwmpPIyOMKgnLWva) | 4:36 | 2026-04-30 |  |
 | [LALANG](https://open.spotify.com/track/6tJgHFllCZVZ4krUPL9igk) | [MEX.Jr](https://open.spotify.com/artist/47t6t2Jdmv6nPu1ppuuflA), [MF BIL](https://open.spotify.com/artist/5kOwKayQ4pyaxwDrjBcdTd), [Ray Martin](https://open.spotify.com/artist/03o5odSdRSkcMCwMfzVxd5) | [LALANG](https://open.spotify.com/album/72s8tIR8tGi2vXjLc6L1dn) | 2:56 | 2024-08-29 | 2024-09-13 |
 | [landline](https://open.spotify.com/track/1EojlwgtPOCD2C4jRaYfZB) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [landline](https://open.spotify.com/album/1dWnFRpEZ0dNl7Uv6bBjzx) | 2:57 | 2026-01-01 | 2026-02-13 |
+| [Lanterns \(Ethereal Version\)](https://open.spotify.com/track/4J4maEVdqhQ0lLPMNEfzOo) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Lanterns \(Ethereal Version\)](https://open.spotify.com/album/004YTwDM7RQlEy0A2A6c6k) | 2:23 | 2026-06-04 |  |
 | [Last Goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Last Goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 | 2026-02-19 | 2026-04-24 |
 | [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-15 | 2025-07-11 |
 | [Laughing track](https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [Laughing track](https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN) | 3:25 | 2025-09-18 | 2025-10-31 |
@@ -641,6 +646,7 @@
 | [Lover's Speed](https://open.spotify.com/track/4uJfTCq45lCznMPeCPuWOH) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Lover's Speed](https://open.spotify.com/album/3POWXUXN00dEsdgwKBMLsJ) | 4:10 | 2024-08-29 | 2024-09-13 |
 | [Lovers 情人](https://open.spotify.com/track/61xJSZXOwpKduryHvCnX4J) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Sher](https://open.spotify.com/artist/6gLeLSDSFo0Cwimi6Whtyt) | [Lovers 情人](https://open.spotify.com/album/5LgmSjocaeuxRJKii2FTtE) | 2:51 | 2025-10-03 | 2025-11-14 |
 | [loyal!](https://open.spotify.com/track/3QdtrCDZSljA3Z6D7Tnz9H) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [ASTA](https://open.spotify.com/artist/5mTe1N36hL120FgwrJ0TKO) | [loyal!](https://open.spotify.com/album/7jLzYSM9FNYQqQ5GLkCZxr) | 2:00 | 2026-04-09 | 2026-05-29 |
+| [lucky](https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [lucky](https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY) | 3:37 | 2026-06-04 |  |
 | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/track/2Ns9xietv0lBgSh3VsKCav) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl) | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/album/36PK4wIE6Rq7VyoqOILIMG) | 3:43 | 2025-06-26 | 2025-08-01 |
 | [Luka](https://open.spotify.com/track/0Jgbt9F5tZgzo35wE5UWss) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo), [wolfypapi](https://open.spotify.com/artist/3owsGpbgnfgT0C3ahUBH7W) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 2:55 | 2026-05-07 |  |
 | [Maaf Dan Gembira](https://open.spotify.com/track/24ZkQj1TSt1x51a3QW1tF0) | [Favourite Playlist](https://open.spotify.com/artist/4t6Zp48HNFrfVFRd5UGMPy) | [Maaf Dan Gembira](https://open.spotify.com/album/3zqiaIbhx9bGNg2nvPpfLK) | 3:27 | 2026-03-12 | 2026-04-17 |
@@ -1358,6 +1364,7 @@
 | [永遠不夠好](https://open.spotify.com/track/7CHTKV69cVtAaeuXorU7Cr) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [永遠不夠好](https://open.spotify.com/album/7eDr0qWKsvzIaqx4Hr3Z9n) | 4:39 | 2024-08-22 | 2024-11-09 |
 | [沒有對不對](https://open.spotify.com/track/4rvgzOOjLVsPpU0LkO9vQf) | [The Cold Cut Duo](https://open.spotify.com/artist/2DTsDKcc0bncHTxrr2WgiW) | [沒有對不對](https://open.spotify.com/album/61P9Wmicg80VxrvCNOIFvz) | 3:03 | 2024-11-08 | 2024-12-20 |
 | [沒有必要的續集](https://open.spotify.com/track/6kuQCa0qvG8BINevRljcVf) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [沒有必要的續集](https://open.spotify.com/album/23CSd9leHg1gW94Mdue70w) | 3:49 | 2024-07-25 | 2024-09-27 |
+| [没关系](https://open.spotify.com/track/5f8RxIrDnpWChZ8ymWlZhu) | [LOEWEN 洛文](https://open.spotify.com/artist/0t01iYK7btEIOlOgcbaHTE) | [没关系](https://open.spotify.com/album/5jnwzgXLCQF5TjN38E3XDS) | 4:30 | 2026-06-04 |  |
 | [没有你的世界](https://open.spotify.com/track/3gHLj2awb6Rox8j1nLfH8d) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [没有你的世界](https://open.spotify.com/album/5x9AqyFLaMTIQvBNXjgk8h) | 4:39 | 2025-03-20 | 2025-05-30 |
 | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha) | [鱼惺味](https://open.spotify.com/artist/7AMQEk5MoxhbLmZrXwtZ6X) | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/album/7JETECMEUMKSjmWZlIcoKo) | 4:18 | 2025-07-31 | 2025-09-05 |
 | [浪里个浪](https://open.spotify.com/track/5dssfAa714rXrhMa3zeZ3A) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [剩下的旋律 Leftover Stories](https://open.spotify.com/album/2axoCXxOfVGCwEabkKgCqy) | 2:46 | 2026-04-09 | 2026-05-29 |
@@ -1383,6 +1390,7 @@
 | [第一步驟](https://open.spotify.com/track/3c3PF84VVl2PuBI7A30kT7) | [GIN 莫竣琋](https://open.spotify.com/artist/2jKSQaGye85579shswHzcC) | [第一步驟](https://open.spotify.com/album/2Sehxr5otEJcl1ciqsVHgk) | 2:25 | 2024-09-05 | 2024-09-13 |
 | [等你成空](https://open.spotify.com/track/0eVjOdRQww0fHWu6WwaaDt) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [等你成空](https://open.spotify.com/album/3T9zvDEz94Z7yq77xdvZ0J) | 3:29 | 2025-05-15 | 2025-06-27 |
 | [籽](https://open.spotify.com/track/5DS4Qmok9t8lYsbmDz4HQ3) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [籽](https://open.spotify.com/album/1UMDa5i5ASP7LxeFw4JvtW) | 3:45 | 2024-09-26 | 2024-11-01 |
+| [粘粘的心](https://open.spotify.com/track/5EgPoKInSjj5nLPYgnhMKk) | [庄靖 CJing](https://open.spotify.com/artist/41nNiblUQzwTkINRbr45Ml) | [粘粘的心](https://open.spotify.com/album/1NDO4IkZCaTQMd5UXOaUol) | 4:01 | 2026-06-04 |  |
 | [絕不絕](https://open.spotify.com/track/080IlSWjzRLzNfnXrREgGd) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [絕不絕](https://open.spotify.com/album/53x4QgrGbXltqPtqU6h33a) | 3:46 | 2024-07-25 | 2024-10-04 |
 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康鈞](https://open.spotify.com/artist/5jgY0JNTJ7nWvBHbToKDM3) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 | 2025-08-14 | 2025-09-05 |
 | [老婆 WIFEY](https://open.spotify.com/track/33OF6XmqCZGQW3tPnYx4WM) | [ISMECHANGFU](https://open.spotify.com/artist/75Rf39N3uKbhTpTtTeDnVh) | [老婆 WIFEY](https://open.spotify.com/album/2YZGlj1l8mR9qj5iKr3W4f) | 2:08 | 2025-11-06 | 2026-01-02 |

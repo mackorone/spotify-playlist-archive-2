@@ -4,7 +4,7 @@
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-81 songs - 5 hr 59 min
+81 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dodo \- Ruben Valdez Remix](https://open.spotify.com/track/721bKx5o8JahKkO82chr4J) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Rubén Valdez](https://open.spotify.com/artist/2Qt3EuL2Mmf9nnIPzOCMiC) | [Akalé Wubé Remixed](https://open.spotify.com/album/46oc6ABDJ3LCB7QVIL9kv0) | 4:06 | 2018-10-05 |  |
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2018-10-05 |  |
 | [Erè mèla mèla](https://open.spotify.com/track/4nXo0xfR51S9wmad3izbgh) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 4:39 | 2018-10-05 |  |
-| [Ete Endet Nesh Gedawo](https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn) | [Muluken Melesse](https://open.spotify.com/artist/6FDbzigNDaiwwFStEcKsEw) | [Muluken Melesse, Vol\. 1](https://open.spotify.com/album/0KKI4kN0mkSU1SqbPCJ9Tf) | 1:10 | 2023-08-14 |  |
+| [Ete Endet Nesh Gedawo](https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn) | [Muluken Melesse](https://open.spotify.com/artist/6FDbzigNDaiwwFStEcKsEw) | [Muluken Melesse, Vol\. 1](https://open.spotify.com/album/0KKI4kN0mkSU1SqbPCJ9Tf) | 4:21 | 2023-08-14 |  |
 | [Eté endénesh gèdawo](https://open.spotify.com/track/3jiOL97tuAOvlSOllwG9Lx) | [Muluqèn Mèllèssè](https://open.spotify.com/artist/0ntfbwjC0Kg4xv5EEQf8LM) | [Ethiopiques, Vol\. 1: Golden Years of Modern Ethiopian Music 1969\-1975](https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ) | 4:15 | 2024-05-03 |  |
 | [Feqer Endè Krar \- Yebèqagnal](https://open.spotify.com/track/5tpY7Uhgp4IFeoJWTyQWFl) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:52 | 2018-10-05 |  |
 | [Hasabé](https://open.spotify.com/track/7I8UGMoawvaY2cHKAQtV5Z) | [Tèshomè Meteku](https://open.spotify.com/artist/4KFGKV6WLBQMoVJrxd3FRz) | [Hasabé and Others \(Ethiopiques\)](https://open.spotify.com/album/0TxMOWAvkXphdjykS4mDAq) | 3:58 | 2023-08-14 |  |

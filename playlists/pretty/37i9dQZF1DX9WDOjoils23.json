@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 41459,
+  "num_followers": 41496,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -425,6 +425,26 @@
       "url": "https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX"
     },
     {
+      "added_at": "2026-05-29 08:10:52",
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
+    },
+    {
       "added_at": "2026-05-22 11:41:53",
       "album": {
         "name": "Allah Toh Mangda",
@@ -523,26 +543,6 @@
       "duration_ms": 284487,
       "name": "Flowers Of the Same Tree",
       "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
-    },
-    {
-      "added_at": "2026-05-29 08:10:52",
-      "album": {
-        "name": "Ranjha Ranjha",
-        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Ranjha Ranjha",
-      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
     },
     {
       "added_at": "2026-05-22 11:41:53",

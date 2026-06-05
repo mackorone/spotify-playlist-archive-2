@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: KETTAMA
+> The UK's biggest dance playlist! Cover: Prospa
 
 760 songs - 1 day 15 hr 30 min
 

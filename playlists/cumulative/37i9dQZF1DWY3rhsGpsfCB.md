@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-955 songs - 2 day 1 hr 8 min
+956 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw) | 2:33 | 2022-10-28 | 2022-12-09 |
 | [Permission \- A COLORS SHOW](https://open.spotify.com/track/2aCSffIsSsS0e7y4CVLPiS) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Permission \- A COLORS SHOW](https://open.spotify.com/album/1hUr66rPGJ5efTaN4qWLWC) | 3:19 | 2023-12-15 | 2024-03-08 |
 | [Personal](https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Personal](https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi) | 2:15 | 2023-01-12 | 2023-01-20 |
-| [Personal](https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Personal](https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA) | 3:03 | 2026-03-06 |  |
+| [Personal](https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Personal](https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA) | 3:03 | 2026-03-06 | 2026-06-05 |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-11-03 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-10-01 |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-24 | 2024-08-26 |
@@ -883,6 +883,7 @@
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-05-14 |
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2023-11-17 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2024-10-13 |
+| [Track 5](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 0:00 | 2026-06-05 |  |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2023-11-24 |
 | [Treadmill](https://open.spotify.com/track/6T3HOUBEDRj4t0SvoH27MY) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Treadmill](https://open.spotify.com/album/2VpmjAt37m8FzNIOs9rtkD) | 2:27 | 2024-01-12 | 2024-01-26 |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 | 2025-05-30 |

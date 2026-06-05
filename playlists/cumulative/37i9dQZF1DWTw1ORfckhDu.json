@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "15K",
+        "url": "https://open.spotify.com/album/1hhUbx04DTretTrjeCyXh7"
+      },
+      "artists": [
+        {
+          "name": "LVRRY",
+          "url": "https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "15K",
+      "url": "https://open.spotify.com/track/0FkG18tlfLd8lcVHoP1np1"
+    },
+    {
+      "album": {
         "name": "16 ct",
         "url": "https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke"
       },
@@ -1270,6 +1288,24 @@
       "duration_ms": 157084,
       "name": "Annan sul v\u00e4h\u00e4n",
       "url": "https://open.spotify.com/track/4l7tL4uh91FBb10tVzZOuX"
+    },
+    {
+      "album": {
+        "name": "Ansaittu",
+        "url": "https://open.spotify.com/album/6AQmZjvWAOSOZya7Ah0Gnm"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Ansaittu",
+      "url": "https://open.spotify.com/track/02cd1qYwQL3ioXBu8vWq32"
     },
     {
       "album": {
@@ -4165,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Ent\u00e4 sit",
+        "url": "https://open.spotify.com/album/6NyW6WhQxqfahsxlvNM3Jx"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142711,
+      "name": "Ent\u00e4 sit",
+      "url": "https://open.spotify.com/track/466qhGCeGM3ksEajW9rJOy"
+    },
+    {
+      "album": {
         "name": "Erityisen hyv\u00e4",
         "url": "https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0"
       },
@@ -4704,6 +4758,24 @@
       "duration_ms": 288000,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/4w2x55aaWpyqsw2K2vPOxI"
+    },
+    {
+      "album": {
+        "name": "Friend like me",
+        "url": "https://open.spotify.com/album/3xxPViwJLz8gtzFyMl7ord"
+      },
+      "artists": [
+        {
+          "name": "Hukas",
+          "url": "https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159696,
+      "name": "Friend like me",
+      "url": "https://open.spotify.com/track/43WHDkrI7z3l00nTUG738f"
     },
     {
       "album": {
@@ -6622,7 +6694,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 210000,
       "name": "IS\u00c4",
       "url": "https://open.spotify.com/track/4uuLINly6RjczYYTdDBSE5"
@@ -9212,6 +9284,28 @@
       "duration_ms": 185962,
       "name": "Kran Turismo (lomalla viimeinkin)",
       "url": "https://open.spotify.com/track/4RQs4xQFfaWlEtuwcwcUs5"
+    },
+    {
+      "album": {
+        "name": "Kruisaan ja ajattelen juustoo",
+        "url": "https://open.spotify.com/album/18joyffxAzoBMeUHQOfVLf"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        },
+        {
+          "name": "Ex Tuuttiz",
+          "url": "https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109128,
+      "name": "Kruisaan ja ajattelen juustoo",
+      "url": "https://open.spotify.com/track/1RoLuCm2orWX7kYbDKLpcm"
     },
     {
       "album": {
@@ -12382,6 +12476,24 @@
       "duration_ms": 183721,
       "name": "Mi Amore (feat. Ege Zulu)",
       "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
+    },
+    {
+      "album": {
+        "name": "MI BONITA",
+        "url": "https://open.spotify.com/album/3mHebESGf5FB5j3pxu064j"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144509,
+      "name": "MI BONITA",
+      "url": "https://open.spotify.com/track/4EtTwz6FYnbe1KySXGcV82"
     },
     {
       "album": {
@@ -15988,7 +16100,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172700,
       "name": "Pelleilly",
       "url": "https://open.spotify.com/track/2eJfHgk5cCQYcHjh4om5SZ"
@@ -16980,7 +17092,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 193689,
       "name": "P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4",
       "url": "https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE"
@@ -18406,7 +18518,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 130423,
       "name": "Se ei ollu min\u00e4",
       "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
@@ -21538,7 +21650,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172875,
       "name": "Tuntematon",
       "url": "https://open.spotify.com/track/0v5ViIhOnTIipWsQtm1yw9"
@@ -22042,7 +22154,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 145191,
       "name": "t\u00e4\u00e4 ei vaan oo sulle",
       "url": "https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx"

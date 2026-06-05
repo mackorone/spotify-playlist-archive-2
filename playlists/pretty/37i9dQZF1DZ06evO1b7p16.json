@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41052,
+  "num_followers": 41056,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACjKPBennAUI3dWGG04iy+S",
+  "snapshot_id": "ah9ugAAAAABMpqV4kvXP8ndhi87U/04w",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -636,25 +652,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Summer, Man",
-      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Capital M-E",
-      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
     },
     {
       "added_at": null,
@@ -684,15 +684,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 195600,
-      "name": "New Music Friday",
-      "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
+      "duration_ms": 195733,
+      "name": "Quit Trying",
+      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
     },
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 284360,
-      "name": "Everything Must Go",
-      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Quit Trying",
-      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
+      "duration_ms": 195600,
+      "name": "New Music Friday",
+      "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
     },
     {
       "added_at": null,

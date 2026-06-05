@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: D'MASIV",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Ghea Indrawari",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -410,6 +410,28 @@
       "duration_ms": 113142,
       "name": "AKU GAS!",
       "url": "https://open.spotify.com/track/5hNbaA6PA5j5Ut13dXSKh5"
+    },
+    {
+      "album": {
+        "name": "Aku Harus Pergi",
+        "url": "https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe"
+      },
+      "artists": [
+        {
+          "name": "Whisnu Santika",
+          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Aku Harus Pergi",
+      "url": "https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm"
     },
     {
       "album": {
@@ -2316,7 +2338,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 192516,
       "name": "Can I Tell The World I Love You?",
       "url": "https://open.spotify.com/track/5qOjoHn1nUjx6iyDhLwRft"
@@ -2740,6 +2762,24 @@
       "duration_ms": 260674,
       "name": "Datang Tepat Waktu",
       "url": "https://open.spotify.com/track/2AYH3gvpjIi98i8wfQxkM5"
+    },
+    {
+      "album": {
+        "name": "RASI BINTANG",
+        "url": "https://open.spotify.com/album/3HsjsVPBsqUrND6IjjKGCs"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "DAUN DAUN",
+      "url": "https://open.spotify.com/track/2Zw0xtVTugeQIDLbkh7Yzm"
     },
     {
       "album": {
@@ -6090,7 +6130,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 221500,
       "name": "Lama Tak Bermalam Minggu",
       "url": "https://open.spotify.com/track/5EyLkB6SSiKPgDHZJE2MW3"
@@ -7492,7 +7532,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 198461,
       "name": "Menyala",
       "url": "https://open.spotify.com/track/521ou1Glbfl0JXgWhWWlBd"
@@ -11134,6 +11174,28 @@
       "duration_ms": 208970,
       "name": "Sumpah Mati",
       "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
+    },
+    {
+      "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
+      },
+      "artists": [
+        {
+          "name": "Rio Lahskart",
+          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
     },
     {
       "album": {

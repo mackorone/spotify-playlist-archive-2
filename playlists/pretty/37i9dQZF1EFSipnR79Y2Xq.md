@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 79 | [Por Si No Sabían](https://open.spotify.com/track/5JiXWzIwz574p5ha1HVMSH) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Por Si No Sabían](https://open.spotify.com/album/7kgqswkEQ6ig1otF3IDCol) | 3:14 |
 | 80 | [La Clave Está En Tomar](https://open.spotify.com/track/5fPBNjHFoZDBJhVHeeuUHW) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Clave Está En Tomar](https://open.spotify.com/album/5LwpjpxsFDcchdPLPwVwab) | 3:03 |
 | 81 | [Del 1 al 10](https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Del 1 al 10](https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM) | 3:16 |
-| 82 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
-| 83 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 82 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 83 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
 | 84 | [Último Aviso](https://open.spotify.com/track/1AAq8oRKRz1sNtK2cPXyiH) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [¿Qué Pasaría?](https://open.spotify.com/album/0vXUz7B7Oq0NsAwK27ZQyk) | 3:06 |
 | 85 | [Ya Convéncete](https://open.spotify.com/track/02hdSPNDvFWBjyJreepoLk) | [Cesar Arturo Navarro](https://open.spotify.com/artist/2Iq6ZunH7OSvgbsdFdvGSO) | [Ya Convéncete](https://open.spotify.com/album/1adWURSBFV4SgogIZfkGxb) | 2:40 |
 | 86 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 100 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 101 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcTRDgAAAAB4Hjq4HKs+7C8buAs/Dr78`
+Snapshot ID: `AcTWrgAAAABfBL8kQY7mYKtKx+rUCoBx`

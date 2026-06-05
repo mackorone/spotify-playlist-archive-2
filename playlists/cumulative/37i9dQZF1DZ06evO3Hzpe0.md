@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't Been No One Before You](https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:16 | 2025-12-18 |  |
+| [Ain't Been No One Before You](https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:16 | 2025-12-18 | 2026-06-05 |
 | [Baby I Need Your Loving \- Remix](https://open.spotify.com/track/2x84C823vh3IxX4arSlrof) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Baby I Need Your Loving \(Remix\)](https://open.spotify.com/album/5eB48OLr1RQyowxYZkb9J8) | 3:55 | 2025-12-18 |  |
 | [Bring down \- Foggy Day Mix](https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Selected Grooves, Vol\. 1 \(Special House Beats Selection\)](https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl) | 3:12 | 2025-12-18 |  |
 | [Classic Shit \(feat\. Darryl J\)](https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk) | [BANKKNOT P](https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Darryl J](https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR) | [Classic Shit \(feat\. Darryl J\)](https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD) | 3:12 | 2026-03-30 |  |
@@ -55,6 +55,6 @@
 | [Willing and Able](https://open.spotify.com/track/1SUgxQccR3O2GiCrFIblNk) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 7:28 | 2025-12-18 |  |
 | [You Times Me Plus Love](https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [You Times Me Plus Love](https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf) | 2:24 | 2025-12-18 |  |
 | [You You](https://open.spotify.com/track/48T0gxYeCMeuQDNRM3NNMw) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [You You](https://open.spotify.com/album/0GOHJR66iTPfNsAXfN7UK8) | 3:59 | 2025-12-18 |  |
-| [You've Been So Good to Me](https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:31 | 2025-12-18 | 2026-05-23 |
+| [You've Been So Good to Me](https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:31 | 2025-12-18 |  |
 
 \*This playlist was first scraped on 2025-12-18. Prior content cannot be recovered.

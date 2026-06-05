@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10709,
+  "num_followers": 10718,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACAHmv9kPMRaDJk2eMas9UJ",
+  "snapshot_id": "ah9ugAAAAADnyZHbVmhj7JzuNqu6PQDn",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soulection White Label - Monte Booker",
-        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
+        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
       },
       "artists": [
         {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
         }
       ],
-      "duration_ms": 186647,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+      "duration_ms": 153133,
+      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,
@@ -899,22 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
+        "name": "Soulection White Label - Monte Booker",
+        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
         },
         {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 153133,
-      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
+      "duration_ms": 186647,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
     },
     {
       "added_at": null,

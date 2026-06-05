@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "La Rvfleuze x Aya Nakamura au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Hamza au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -771,6 +771,32 @@
     },
     {
       "album": {
+        "name": "ATL",
+        "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163465,
+      "name": "ATL",
+      "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
+    },
+    {
+      "album": {
         "name": "AVEC MOI",
         "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
       },
@@ -1076,7 +1102,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 207991,
       "name": "Billets Mauves (feat. SDM)",
       "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
@@ -1120,6 +1146,24 @@
       "duration_ms": 173071,
       "name": "Bleu & rouge",
       "url": "https://open.spotify.com/track/3IWAqNuvaUbesKSfoXQ5Nl"
+    },
+    {
+      "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115488,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "album": {
@@ -2749,6 +2793,28 @@
     },
     {
       "album": {
+        "name": "FEU VERT",
+        "url": "https://open.spotify.com/album/36Dawe6S16jFv0DQQtS4X6"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "FEU VERT",
+      "url": "https://open.spotify.com/track/255GrZR8cTANfuF0bghnOv"
+    },
+    {
+      "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
       },
@@ -3692,7 +3758,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 167312,
       "name": "JAMAIS TOI",
       "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
@@ -4358,6 +4424,24 @@
       "duration_ms": 216973,
       "name": "Laisse-moi tranquille.",
       "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+    },
+    {
+      "album": {
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "album": {
@@ -6564,7 +6648,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 190938,
       "name": "PILIER",
       "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
@@ -8584,7 +8668,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 174135,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf"

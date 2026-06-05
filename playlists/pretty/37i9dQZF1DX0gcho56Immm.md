@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: mikey
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,181 likes - 160 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,207 likes - 160 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 80 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 |
 | 81 | [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 |
 | 82 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 |
-| 83 | [What I Aim For](https://open.spotify.com/track/7hMsmmDX2KpiGMNkRyX1B4) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [What I Aim For](https://open.spotify.com/album/1QgofWqHlzxDtpeVVnjLYT) | 3:57 |
+| 83 | [What I Aim For](https://open.spotify.com/track/7hMsmmDX2KpiGMNkRyX1B4) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo) | [What I Aim For](https://open.spotify.com/album/1QgofWqHlzxDtpeVVnjLYT) | 3:57 |
 | 84 | [Delete Forever](https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Delete Forever](https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu) | 3:32 |
 | 85 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 86 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BossMan Dlow & Megan Thee Stallion, Latto, YG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,997 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,042 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [New Ebonics](https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [New Ebonics](https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P) | 2:51 |
 | 17 | [How Did You Love Me](https://open.spotify.com/track/23Urt78VkqRMOoWInzMb2n) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [How Did You Love Me](https://open.spotify.com/album/3UeO5rrrwAl910M5jxKhWJ) | 2:57 |
 | 18 | [\#Demon \(feat\. Bryant Barnes\)](https://open.spotify.com/track/5YARzCxUKdGFbSmL8VMqVe) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [\#Demon \(feat\. Bryant Barnes\)](https://open.spotify.com/album/7vrfxEmuDGFcDoAwSuZmCG) | 3:03 |
-| 19 | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
+| 19 | [2010 \- Mr\. October](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
 | 20 | [1000 Hugs](https://open.spotify.com/track/6hal8MChrGMEpJuOaQN17D) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [GIANT](https://open.spotify.com/album/7Kqc8q1t1XsdblGaOdP6h3) | 3:12 |
 | 21 | [Dump](https://open.spotify.com/track/3dtYcPVRWDEqyTBgDnOsOv) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [Dump](https://open.spotify.com/album/7H6P0NkCQqWcTNqF0KPh6Z) | 1:22 |
 | 22 | [In My City](https://open.spotify.com/track/5GTrMgUKcnCLlQm4yVUuKY) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Foreverglades](https://open.spotify.com/album/2GgChLYxpitVsqtdFvBe58) | 2:13 |

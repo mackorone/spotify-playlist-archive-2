@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139435,
+  "num_followers": 139454,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABkWu8HglU3fEkMZyASaV6x",
+  "snapshot_id": "ah9ugAAAAAAx7gvic93vvG9nlX2qmB+Q",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 204186,
       "name": "The Lady Is A Tramp",
       "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20693,
+  "num_followers": 20699,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
+        "name": "Violence (feat. Kweku Smoke)",
+        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Violence (feat. Kweku Smoke)",
+      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
-        "name": "Violence (feat. Kweku Smoke)",
-        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Violence (feat. Kweku Smoke)",
-      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -816,7 +816,7 @@
       "added_at": "2026-05-29 00:02:08",
       "album": {
         "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -891,42 +891,6 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "sankofa",
-        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "sankofa",
-      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
         "name": "TORCHER II",
         "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
       },
@@ -943,22 +907,38 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
       "artists": [
         {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 168000,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "sankofa",
+      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -983,22 +963,42 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "Sweet Songs 4 You",
-        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
         }
       ],
-      "duration_ms": 170840,
-      "name": "meet 4 corner",
-      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+      "duration_ms": 168000,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
+        "name": "Give Up and See",
+        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Give Up and See",
+      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "Give Up and See",
-        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+        "name": "Sweet Songs 4 You",
+        "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
       },
       "artists": [
         {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         },
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 216737,
-      "name": "Give Up and See",
-      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
+      "duration_ms": 170840,
+      "name": "meet 4 corner",
+      "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
         "name": "TORCHER II",
         "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+      "duration_ms": 185660,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1163,6 +1147,38 @@
       "duration_ms": 214426,
       "name": "Put It On God",
       "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
+        "name": "Webkid (Shatta Music)",
+        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 137992,
+      "name": "Webkid (Shatta Music)",
+      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1211,22 +1227,6 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
-        "name": "Webkid (Shatta Music)",
-        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 137992,
-      "name": "Webkid (Shatta Music)",
-      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 138035,
       "name": "Agya",
       "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
       "added_at": "2026-05-29 00:02:08",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-05-29 00:02:08",
       "album": {
+        "name": "Alhaji Peter",
+        "url": "https://open.spotify.com/album/7j2pw5tiAnCDXmb6Vnon4V"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Alhaji Peter",
+      "url": "https://open.spotify.com/track/2AERAiY4aWgJphULGBvPKT"
+    },
+    {
+      "added_at": "2026-05-29 00:02:08",
+      "album": {
         "name": "Cheat On You",
         "url": "https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 201142,
       "name": "Cheat On You",
       "url": "https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50"
-    },
-    {
-      "added_at": "2026-05-29 00:02:08",
-      "album": {
-        "name": "Outside / obaa sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "obaa sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     }
   ],
   "unique_name": "Troski Rhythms",

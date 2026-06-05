@@ -2,7 +2,7 @@
 
 ### [Blues : Crossroads](https://open.spotify.com/playlist/1S3Roy5fPEnChF8lNGIsbz)
 
-> 
+> More on glitchandgold.com\. Follow @glitchandgoldmusic on Insta for interviews, Radar features and new discoveries.Submit your music on glitchandgold.com
 
 853 songs - 2 day 1 hr 23 min
 

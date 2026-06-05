@@ -4,7 +4,7 @@
 
 > 
 
-530 songs - 1 day 10 hr 18 min
+531 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Sunrise](https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Sunrise](https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf) | 2:23 | 2026-02-09 | 2026-04-04 |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 | 2023-02-22 | 2023-08-30 |
 | [Sweet Devotion](https://open.spotify.com/track/7MxsDJl8a1piNsqGwheXKS) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 5:34 | 2024-04-30 | 2024-07-16 |
+| [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 | 2026-06-04 |  |
 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-02-15 | 2024-06-12 |
 | [São Paulo](https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [1983](https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m) | 2:08 | 2026-04-17 |  |
 | [Telescope](https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Telescope](https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW) | 4:46 | 2024-05-03 | 2024-07-25 |

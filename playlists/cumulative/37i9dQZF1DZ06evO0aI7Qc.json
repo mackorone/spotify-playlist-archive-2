@@ -4489,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146104,
+      "name": "S\u00faper Snake",
+      "url": "https://open.spotify.com/track/0rhIDVKA677SU6XvdRX7Iz"
+    },
+    {
+      "album": {
         "name": "S\u00faper Snake",
         "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
       },
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 146104,
       "name": "S\u00faper Snake",
       "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"

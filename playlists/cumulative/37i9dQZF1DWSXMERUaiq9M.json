@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 196916,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 125207,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
@@ -5359,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
+    },
+    {
+      "album": {
         "name": "Goldener Raver (1995 Remix)",
         "url": "https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz"
       },
@@ -6042,6 +6060,28 @@
       "duration_ms": 283936,
       "name": "I Like",
       "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
+    },
+    {
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
     },
     {
       "album": {
@@ -7526,6 +7566,24 @@
       "duration_ms": 418003,
       "name": "Leave it to the vibe",
       "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
+    },
+    {
+      "album": {
+        "name": "Left Me For Dead",
+        "url": "https://open.spotify.com/album/342esqMBmSjMFcCC5lkJxp"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "Left Me For Dead",
+      "url": "https://open.spotify.com/track/17Rdds5FknIO35ZuUqC1q2"
     },
     {
       "album": {

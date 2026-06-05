@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-579 songs - 1 day 10 hr 15 min
+581 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 | 2026-04-02 |  |
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
 | [Jag dansade en sommar](https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Jag dansade en sommar](https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4) | 3:19 | 2025-06-26 | 2026-03-06 |
+| [Jag ger dig sommaren](https://open.spotify.com/track/4gl4Qy47LihabPCfVlRo3W) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Jag ger dig sommaren](https://open.spotify.com/album/0EZkINzN1X1yjaufrRWqHe) | 3:07 | 2026-06-04 |  |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-30 |
 | [Jag vill drömma](https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Jag vill drömma](https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8) | 3:24 | 2025-05-29 | 2025-06-01 |
@@ -288,7 +289,7 @@
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-12 | 2024-11-10 |
 | [Just Because](https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Become A Light](https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy) | 3:11 | 2025-09-25 | 2026-02-27 |
 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 | 2025-01-23 | 2026-02-13 |
-| [Just to Make You Laugh](https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Just to Make You Laugh](https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF) | 3:08 | 2025-10-02 |  |
+| [Just to Make You Laugh](https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Just to Make You Laugh](https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF) | 3:08 | 2025-10-02 | 2026-06-05 |
 | [Kaprifol](https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Kaprifol](https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP) | 3:55 | 2025-08-21 | 2026-02-17 |
 | [Keep Quiet](https://open.spotify.com/track/2VClts5OjA61Cg3QLWNNF1) | [Jenny Berggren](https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs) | [Keep Quiet](https://open.spotify.com/album/0MUwVgg7rxb6PwL4TwWli9) | 3:10 | 2024-06-27 | 2024-08-16 |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-27 | 2024-08-16 |
@@ -354,7 +355,7 @@
 | [Mitt i min stad](https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Sommar](https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu) | 2:22 | 2025-04-24 | 2025-06-08 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [More Than Words](https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc) | [Angelo Perrelli](https://open.spotify.com/artist/1v1b1VJKeXticlHnYyJDbs), [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [More Than Words](https://open.spotify.com/album/3raSM95Yq7o3qC7CcXxkzP) | 3:55 | 2025-08-07 | 2025-08-22 |
-| [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-02 |  |
+| [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-02 | 2026-06-05 |
 | [Muscle In](https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [Muscle In](https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT) | 4:04 | 2026-04-23 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Månen](https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Månen](https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2) | 2:39 | 2025-06-26 | 2026-03-15 |
@@ -576,6 +577,7 @@
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-27 | 2025-04-11 |
 | [You](https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [You](https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt) | 4:48 | 2025-11-13 |  |
 | [You](https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX) | [Sofi Bonde](https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6) | [You](https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9) | 3:44 | 2024-08-22 | 2024-10-13 |
+| [You Got The Look](https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [You Got The Look](https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R) | 3:01 | 2026-06-04 |  |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 | 2025-05-02 |
 | [You´ve Already Won](https://open.spotify.com/track/1e3N0rkz3eG9fiMauj9Y4S) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/5Hh92QEAAnv8dU71AAVm1M) | 5:30 | 2025-07-17 | 2025-08-06 |
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 | 2025-02-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP KRIT",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -870,6 +870,24 @@
       "duration_ms": 188769,
       "name": "CATCH THE NIGHT",
       "url": "https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ"
+    },
+    {
+      "album": {
+        "name": "CHAIN",
+        "url": "https://open.spotify.com/album/69L0l1Y5C8FLGgOdQKtOS9"
+      },
+      "artists": [
+        {
+          "name": "PIDE",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "CHAIN",
+      "url": "https://open.spotify.com/track/2Aea7tBi3IQ3CK9VMkfkNm"
     },
     {
       "album": {
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 226470,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180000,
       "name": "RED WINE",
       "url": "https://open.spotify.com/track/0OtCykI4JyuFBWG9dBsH0T"
@@ -5340,6 +5358,28 @@
       "duration_ms": 211500,
       "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 - End.",
       "url": "https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
+        "url": "https://open.spotify.com/album/1Xi3MXME0HgKOfxtHCofGz"
+      },
+      "artists": [
+        {
+          "name": "TLE MATIMUN",
+          "url": "https://open.spotify.com/artist/55nXVlnA6gx8ixFHPq30r6"
+        },
+        {
+          "name": "FirstOne",
+          "url": "https://open.spotify.com/artist/0VcQFPTVtUjOdJvVEkGvMP"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181551,
+      "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
+      "url": "https://open.spotify.com/track/7l5xRO0s5RsxGdCm6faQmA"
     },
     {
       "album": {
@@ -7491,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
+        "url": "https://open.spotify.com/album/28bkK3t9m7NKLWsi6ymYE8"
+      },
+      "artists": [
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
+      "url": "https://open.spotify.com/track/2885sIcSfF5cDdPv70x3l5"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
         "url": "https://open.spotify.com/album/2PgfddpUmMlUjF8J5UUvD1"
       },
@@ -8740,7 +8798,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 236062,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
@@ -11911,6 +11969,28 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Are One) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Wu \u0e2d\u0e39 The Fate Begins\"]",
+        "url": "https://open.spotify.com/album/2sqcBp44HC45RyJFBmmAC8"
+      },
+      "artists": [
+        {
+          "name": "Sky Wongravee",
+          "url": "https://open.spotify.com/artist/2s0zk4pCLLRAywVmhx20Xs"
+        },
+        {
+          "name": "Nani Hirunkit",
+          "url": "https://open.spotify.com/artist/5ci1BNb09Lt4FwhlpW483d"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193873,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Are One) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Wu \u0e2d\u0e39 The Fate Begins\"",
+      "url": "https://open.spotify.com/track/3lkv4au1eUyBODdDed7gVc"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
         "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
@@ -14198,7 +14278,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 220596,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e43\u0e14 (I See It)",
       "url": "https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU"

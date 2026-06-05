@@ -4,7 +4,7 @@
 
 > Listen to Dominique Fils\-Aimé and Canadian women at full volume!
 
-2,259 songs - 4 day 21 hr 38 min
+2,260 songs - 4 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1014,6 +1014,7 @@
 | [In Retrospect](https://open.spotify.com/track/50s7qiLWfzgpAsDqwfjS5D) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Hymns For The Bitter](https://open.spotify.com/album/3QPuVCy6FrnvYfa2hrRXEX) | 2:40 | 2025-09-03 | 2025-10-02 |
 | [In The Calm](https://open.spotify.com/track/6BxvOQ9CtW8MQTPEpHELpv) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Aamourocean](https://open.spotify.com/artist/45XImXCRH7XiKTOINsqTd1) | [In The Calm](https://open.spotify.com/album/0VYu7fpG7YAL9l73E6y9M7) | 4:50 | 2022-10-05 | 2022-11-10 |
 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 | 2024-02-07 | 2024-05-02 |
+| [In The Mirror](https://open.spotify.com/track/0oXhhzaJi5RzWoEeEBLTOz) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Colleen D'agostino](https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ) | [In The Mirror](https://open.spotify.com/album/4pP4LpGODBkVbsCUWDCfMa) | 3:01 | 2026-06-03 |  |
 | [Incognito](https://open.spotify.com/track/3B3NQiIioZIpieLvFNaOFj) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re) | [Incognito](https://open.spotify.com/album/70mtx3Au4fSrW1yFfiDnc4) | 2:33 | 2022-10-05 | 2022-11-10 |
 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 | 2023-07-05 | 2023-08-10 |
 | [Inkind](https://open.spotify.com/track/1TzQp3c2yq9G0luKUW7LU7) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Inkind](https://open.spotify.com/album/2N0JEHthdM2QBm3jinQZnL) | 3:45 | 2025-07-02 | 2025-08-07 |

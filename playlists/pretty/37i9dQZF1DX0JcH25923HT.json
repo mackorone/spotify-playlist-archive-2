@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 592446,
+  "num_followers": 592575,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "A.D.R.O.M.I.C.F.M.S. 2",
-        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Ready Pa Morir",
-      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "A.D.R.O.M.I.C.F.M.S. 2",
+        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "Ready Pa Morir",
+      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "\u00cddolo",
-        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Pa Que Brille",
-      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Arre",
         "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 168032,
       "name": "Arre",
       "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "\u00cddolo",
+        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Pa Que Brille",
+      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1943,8 +1943,8 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Fresko",
-        "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
       },
       "artists": [
         {
@@ -1952,17 +1952,13 @@
           "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
         },
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Fresko",
-      "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
+      "duration_ms": 242418,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2059,8 +2055,8 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
+        "name": "Fresko",
+        "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
       },
       "artists": [
         {
@@ -2068,13 +2064,17 @@
           "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
         },
         {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
         }
       ],
-      "duration_ms": 242418,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
+      "duration_ms": 201290,
+      "name": "Fresko",
+      "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2219,6 +2219,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Malportau",
+        "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 213471,
+      "name": "Malportau",
+      "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "My Blood Remix (feat. Julianno Sosa)",
         "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
       },
@@ -2243,26 +2263,6 @@
       "duration_ms": 252212,
       "name": "My Blood Remix (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Malportau",
-        "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 213471,
-      "name": "Malportau",
-      "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
     }
   ],
   "unique_name": "Trap viejito",

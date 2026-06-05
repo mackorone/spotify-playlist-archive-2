@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Tiwa Savage ",
-  "num_followers": 91939,
+  "num_followers": 91980,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Fire in your Eyes",
-        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Fire in your Eyes",
-      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Cash Flow (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cash Flow (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "God is working",
         "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "Merlinpiano",
         "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
       },
@@ -1055,6 +1055,30 @@
       "duration_ms": 130084,
       "name": "OFE NSALA",
       "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "ROAD TO PARATI",
+        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Jenerall",
+          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1107,30 +1131,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "ROAD TO PARATI",
-        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Jenerall",
-          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "HOLD SOMETHING",
         "url": "https://open.spotify.com/album/1CtWOlo0iZ2J9j6UQxVGeG"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
-      },
-      "artists": [
-        {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
-        },
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        },
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Kupe",
+        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
+      },
+      "artists": [
+        {
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "Kupe",
+      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "ORIGIN8A",
         "url": "https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 178407,
       "name": "Electric Energy",
       "url": "https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Kupe",
-        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
-      },
-      "artists": [
-        {
-          "name": "Teee Dollar",
-          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Kupe",
-      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
     },
     {
       "added_at": "2026-05-29 00:01:58",

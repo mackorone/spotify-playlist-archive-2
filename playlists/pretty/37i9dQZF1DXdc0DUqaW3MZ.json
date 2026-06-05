@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376312,
+  "num_followers": 376348,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
+        "name": "Mr Drummer",
+        "url": "https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z"
+      },
+      "artists": [
+        {
+          "name": "ROZZZQWEEN",
+          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
+        }
+      ],
+      "duration_ms": 146494,
+      "name": "Mr Drummer",
+      "url": "https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Mr Drummer",
-        "url": "https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z"
-      },
-      "artists": [
-        {
-          "name": "ROZZZQWEEN",
-          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
-        }
-      ],
-      "duration_ms": 146494,
-      "name": "Mr Drummer",
-      "url": "https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -891,26 +891,26 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+        "name": "Time & Time (feat. Demae) [IG Culture Remix]",
+        "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         },
         {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
         },
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "IG Culture",
+          "url": "https://open.spotify.com/artist/1aStXP3F92SgdczG1gx1Mp"
         }
       ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+      "duration_ms": 320471,
+      "name": "Time & Time (feat. Demae) [IG Culture Remix]",
+      "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -935,26 +935,26 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-        "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         },
         {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
         },
         {
-          "name": "IG Culture",
-          "url": "https://open.spotify.com/artist/1aStXP3F92SgdczG1gx1Mp"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 320471,
-      "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-      "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1079,18 +1095,26 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
         }
       ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1115,30 +1139,6 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/5VwQr7tA1L0gKA3cuzUIQB"
-      },
-      "artists": [
-        {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
-        },
-        {
-          "name": "NADIAH",
-          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
-        }
-      ],
-      "duration_ms": 174908,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 154735,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/5VwQr7tA1L0gKA3cuzUIQB"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        },
+        {
+          "name": "NADIAH",
+          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
+        }
+      ],
+      "duration_ms": 174908,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR"
     },
     {
       "added_at": "2026-05-29 12:30:42",

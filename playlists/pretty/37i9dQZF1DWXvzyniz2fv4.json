@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158634,
+  "num_followers": 158615,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -547,30 +547,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "RASTAFARI",
-        "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 127794,
-      "name": "RASTAFARI",
-      "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "RASTAFARI",
+        "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 127794,
+      "name": "RASTAFARI",
+      "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 151360,
       "name": "replay",
       "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -971,30 +971,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Ravi",
-        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "DJ Gbeats",
-          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
-        },
-        {
-          "name": "Bollivia",
-          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Ravi",
-      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -1039,22 +1015,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+        "name": "Ravi",
+        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
         },
         {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+          "name": "DJ Gbeats",
+          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
+        },
+        {
+          "name": "Bollivia",
+          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+      "duration_ms": 166440,
+      "name": "Ravi",
+      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1075,6 +1055,26 @@
       "duration_ms": 215936,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2026-05-22 03:01:19",

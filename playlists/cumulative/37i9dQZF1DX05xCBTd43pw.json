@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 215300,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
@@ -4514,7 +4514,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 149400,
       "name": "Insecurities",
       "url": "https://open.spotify.com/track/57DgKi0pW0lqzPZXRp8lEA"
@@ -4670,6 +4670,24 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
     },
     {
       "album": {
@@ -5426,7 +5444,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 176769,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD"
@@ -6238,7 +6256,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191465,
       "name": "next door neighbors",
       "url": "https://open.spotify.com/track/4m4JKoCFyQXao7pMHMLjev"
@@ -7312,7 +7330,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 264598,
       "name": "Ruth - Live in La Rochelle",
       "url": "https://open.spotify.com/track/1nk8l0xjm1duEJXnJygRGb"
@@ -7712,7 +7730,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 144373,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
@@ -9304,7 +9322,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 179348,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
@@ -9686,7 +9704,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 212426,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/2OUDuS00X3uIdcklQB1Ylv"
@@ -10065,6 +10083,24 @@
     },
     {
       "album": {
+        "name": "YOU BELIEVE IN JESUS, I BELIEVE IN PUSSY",
+        "url": "https://open.spotify.com/album/7r8tTv4JVlh8XVrixofeR9"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213828,
+      "name": "YOU BELIEVE IN JESUS, I BELIEVE IN PUSSY",
+      "url": "https://open.spotify.com/track/6U9BEtmQcQb014LbeezLjN"
+    },
+    {
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
@@ -10120,6 +10156,24 @@
       "duration_ms": 161604,
       "name": "You You You",
       "url": "https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n"
+    },
+    {
+      "album": {
+        "name": "You'll Find Me There",
+        "url": "https://open.spotify.com/album/6VR8S1WUWtjBgOCN9rLB2F"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183476,
+      "name": "You'll Find Me There",
+      "url": "https://open.spotify.com/track/0L87XLB19pHzjbqVRVkW1R"
     },
     {
       "album": {

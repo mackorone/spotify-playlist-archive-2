@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,669 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,664 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 21 | [CITGO](https://open.spotify.com/track/6hi6mxHrFH1txKD5N42EJh) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [BULLDAWG](https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH) | 3:00 |
 | 22 | [Free](https://open.spotify.com/track/5NPKSaGiPk6ErFvYv5YY0t) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR), [comfortuh](https://open.spotify.com/artist/6WAs80dSvz5MfXKo1Sd1LO) | [Final Act: Freedom](https://open.spotify.com/album/1TPy7Rwz0YtdI7FwayZaY2) | 3:18 |
 | 23 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 |
-| 24 | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
+| 24 | [2010 \- Mr\. October](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
 | 25 | [TEST ME \(feat\. JID\)](https://open.spotify.com/track/7DHS2ac4HjmfLUjo9hbva9) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BULLDAWG](https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH) | 4:16 |
 | 26 | [Time Is Money](https://open.spotify.com/track/6AsmybAFQlHLaweN82xKFU) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Time Is Money](https://open.spotify.com/album/2Xi56Mf9U5b0mUdwL3oBpQ) | 2:26 |
 | 27 | [Chester Freestyle](https://open.spotify.com/track/09s8dYj5L7MdAYHF61i2wa) | [Jay Veno](https://open.spotify.com/artist/20c3HVlnRiTRZcDFlbgJPg), [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Look We’re Flying](https://open.spotify.com/album/5xFRegCdw7PPXbBqtrF4oz) | 1:36 |

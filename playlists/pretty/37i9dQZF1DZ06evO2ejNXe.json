@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1724,
+  "num_followers": 1723,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADQO70toI3q7ZNzqVjM1R5d",
+  "snapshot_id": "ah9ugAAAAABGAxR124rXXaaIqI7yz4Lm",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Mil cartas.",
-      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 202266,
       "name": "El Suegro",
       "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Mil cartas.",
+      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 257266,
       "name": "El Reloj De Mi Corazon",
       "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Sombrero, Zarape Y Guitarra",
-      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 218466,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Sombrero, Zarape Y Guitarra",
+      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/1CRVyxds5wQM1Um03klsPE"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/4WgrBRLLELpGONqXHdZBAy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TODO MUNDO A BAILAR",
         "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 198500,
       "name": "TODO MUNDO A BAILAR",
       "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,
@@ -687,38 +719,6 @@
       "duration_ms": 200760,
       "name": "Que Bonita Te Ves",
       "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/1CRVyxds5wQM1Um03klsPE"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/4WgrBRLLELpGONqXHdZBAy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,

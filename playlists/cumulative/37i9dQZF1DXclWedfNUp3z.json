@@ -3929,6 +3929,28 @@
     },
     {
       "album": {
+        "name": "La Luce dell'Alba",
+        "url": "https://open.spotify.com/album/7HaroMYba1ucfnRvm3fBEm"
+      },
+      "artists": [
+        {
+          "name": "Jolly Mare",
+          "url": "https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO"
+        },
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "La Voce del Vento",
+      "url": "https://open.spotify.com/track/57EayPSjQEM6YmTNFFIVjx"
+    },
+    {
+      "album": {
         "name": "lake hylia",
         "url": "https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3"
       },
@@ -4374,7 +4396,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 227357,
       "name": "Make Me Feel Loved",
       "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"

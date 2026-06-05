@@ -9921,6 +9921,24 @@
     },
     {
       "album": {
+        "name": "Memory Card (June 2026)",
+        "url": "https://open.spotify.com/album/19tfJ0TQURO6qVOKEFpejJ"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197954,
+      "name": "Like Me Better",
+      "url": "https://open.spotify.com/track/4tOYk3SBI6mvxDcmp2QdZz"
+    },
+    {
+      "album": {
         "name": "Like Sunshine",
         "url": "https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1"
       },
@@ -17032,6 +17050,28 @@
       "duration_ms": 188346,
       "name": "SWEET LOVIN",
       "url": "https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142926,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
     },
     {
       "album": {

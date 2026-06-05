@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,330 songs - 2 day 9 hr 21 min
+1,332 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Don't Wake Me Up](https://open.spotify.com/track/4kl7U6Hrb03cY11RrQmIrO) | [Lundz](https://open.spotify.com/artist/08Jvhuv0QCuh3rOMvUGd5m), [Daniel Tone](https://open.spotify.com/artist/1U6QXoOGorLGHGuTrPal8h) | [Don’t Wake Me Up](https://open.spotify.com/album/2AcTcfmFoq3RHemSwqaqdm) | 3:02 | 2025-06-20 | 2025-12-22 |
 | [Don't Waste My Time](https://open.spotify.com/track/2Mpbc0ciNa7nFIctbJJDRX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Don't Waste My Time](https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7) | 2:18 | 2024-09-29 | 2025-07-07 |
 | [Don't Worry](https://open.spotify.com/track/47xY6YRnUzumNo244NH5I3) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8) | [Don't Worry](https://open.spotify.com/album/5QgWdxtc2RwxKr9tPJPufl) | 2:54 | 2025-06-01 | 2025-06-30 |
+| [Don’t Go Breaking My Heart](https://open.spotify.com/track/6IQPwU5fdstH8XKv8vVUcY) | [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [Don’t Go Breaking My Heart](https://open.spotify.com/album/2Mg6QK3Y6YRbR3K7tm7otS) | 2:27 | 2026-06-04 |  |
 | [Don’t Let Your Mama Down](https://open.spotify.com/track/6W1vp1KKV0WsXDsx25v9en) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Don’t Let Your Mama Down](https://open.spotify.com/album/6nExJSSnOdEIwkVG8UGRfV) | 2:20 | 2024-07-08 | 2024-07-22 |
 | [Down](https://open.spotify.com/track/7AHCNmBI4SZdrhYxPLBWOP) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Down](https://open.spotify.com/album/2U50dkgIGQOGeNWCRZYvVA) | 2:09 | 2023-11-26 | 2024-10-27 |
 | [down by the river](https://open.spotify.com/track/3Z4WBD0GDUyGSIEk4OtVni) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [down by the river](https://open.spotify.com/album/2BlngcHjr2DBpcRFGs1ALa) | 2:13 | 2026-05-14 |  |
@@ -1294,6 +1295,7 @@
 | [WHY?](https://open.spotify.com/track/1rQQ16ECybtuu2GrzZHeTx) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [WHY?](https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12) | 2:28 | 2025-06-29 | 2025-12-30 |
 | [Wicked Game](https://open.spotify.com/track/0MipOE6RTEx3WZL3580AIF) | [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Youkii](https://open.spotify.com/artist/03hW2M1ECvJTjoa8EXVfsn) | [Wicked Game](https://open.spotify.com/album/4VAoXA4Hed91lZYmXHkw2Q) | 2:22 | 2023-09-22 | 2025-10-13 |
 | [Wicked Game](https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Wicked Game](https://open.spotify.com/album/7bQKXzmfZjcdWmYMCr8jZH) | 2:26 | 2025-10-23 |  |
+| [Wide Awake](https://open.spotify.com/track/74zkvKv5wYOYuHZkMD8o44) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Wide Awake](https://open.spotify.com/album/22XEOw0vqcs1Go4JYxgYb2) | 2:05 | 2026-06-04 |  |
 | [Wide Blue](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Wide Blue](https://open.spotify.com/album/65Tk1jkREf6sDcafZ3S3gD) | 3:01 | 2024-06-07 | 2024-07-29 |
 | [Wild World](https://open.spotify.com/track/1d3F9C4d1H7j8qd26pCJ9k) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Wild World](https://open.spotify.com/album/0Vom7oxn5OCQKninzyvnqR) | 2:24 | 2026-05-17 |  |
 | [Will You Be Mine](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Will You Be Mine](https://open.spotify.com/album/79387ejIshaY5c4TeTlC1V) | 3:11 | 2024-04-20 | 2024-07-14 |

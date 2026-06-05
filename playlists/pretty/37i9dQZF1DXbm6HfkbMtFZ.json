@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 841241,
+  "num_followers": 841248,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Miracle Mile",
-        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "Kahlil Gibran",
-      "url": "https://open.spotify.com/track/7zXDaRvqkduUhDUGdhHsap"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Miracle Mile",
+        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 239413,
+      "name": "Kahlil Gibran",
+      "url": "https://open.spotify.com/track/7zXDaRvqkduUhDUGdhHsap"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Ghost Woman",
         "url": "https://open.spotify.com/album/7vpXyhnVVUdrln1HfdURkr"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 295786,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3P0ONdABTC2DIzAfoJydzH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Choose Your Own Adventure",
         "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 253466,
       "name": "The Conservation of Energy",
       "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Lonesome No More",
-        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
       "artists": [
         {
-          "name": "Laura Jean Anderson",
-          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 187542,
-      "name": "Love You Most",
-      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1723,6 +1707,22 @@
       "duration_ms": 233500,
       "name": "Lament for the Sky",
       "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Lonesome No More",
+        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
+      },
+      "artists": [
+        {
+          "name": "Laura Jean Anderson",
+          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
+        }
+      ],
+      "duration_ms": 187542,
+      "name": "Love You Most",
+      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Favorite Kind of People",
-        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Favorite Kind of People",
-      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 210240,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "One Evening - Remix By VV",
-      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "One Evening - Remix By VV",
+      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
     },
     {
       "added_at": "2026-05-18 19:19:44",

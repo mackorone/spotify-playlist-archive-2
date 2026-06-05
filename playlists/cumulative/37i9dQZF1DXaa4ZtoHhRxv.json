@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/39HAgzCA2FgimBHbp8U2qn"
+      },
+      "artists": [
+        {
+          "name": "Country Night",
+          "url": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
+        },
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170851,
+      "name": "45",
+      "url": "https://open.spotify.com/track/6gn4OIwAxBB5lYD7iSLU6h"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy) [Remix]",
         "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
       },

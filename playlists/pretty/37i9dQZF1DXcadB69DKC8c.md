@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,083 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,103 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 50 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
 | 51 | [Wede Harer Guzo](https://open.spotify.com/track/7Ihi6UcJKndJKlsm0A4hjZ) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/5i6yMY4F7UoOuJD6wRV6NN) | 6:35 |
 | 52 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 |
-| 53 | [Ete Endet Nesh Gedawo](https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn) | [Muluken Melesse](https://open.spotify.com/artist/6FDbzigNDaiwwFStEcKsEw) | [Muluken Melesse, Vol\. 1](https://open.spotify.com/album/0KKI4kN0mkSU1SqbPCJ9Tf) | 1:10 |
+| 53 | [Ete Endet Nesh Gedawo](https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn) | [Muluken Melesse](https://open.spotify.com/artist/6FDbzigNDaiwwFStEcKsEw) | [Muluken Melesse, Vol\. 1](https://open.spotify.com/album/0KKI4kN0mkSU1SqbPCJ9Tf) | 4:21 |
 | 54 | [Mela Mela](https://open.spotify.com/track/1YC5m4Wm66ieytGeCA72or) | [Seifu Yohannes](https://open.spotify.com/artist/7CU6ugbVgK5vYSaPFyd0fz) | [Ernesto Chahoud Presents Taitu – Soul\-Fuelled Stompers from 1960s – 1970s Ethiopia](https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y) | 4:09 |
 | 55 | [Alteleyeshegnem](https://open.spotify.com/track/547fHlns6D8pUibw6C1sJd) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Alteleyeshegnem](https://open.spotify.com/album/144ZxBBOzKl0mq8d2mVrFW) | 4:54 |
 | 56 | [Sameraye](https://open.spotify.com/track/7xCkNJI7GXy3OLJjwD0YOy) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 3:28 |

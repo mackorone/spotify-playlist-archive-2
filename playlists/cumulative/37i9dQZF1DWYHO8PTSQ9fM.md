@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Manal
+> The hottest hits right now\. Cover: Dizzy DROS
 
 554 songs - 1 day 5 hr 22 min
 

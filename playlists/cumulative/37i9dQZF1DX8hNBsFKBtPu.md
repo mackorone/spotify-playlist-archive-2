@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her 💋 Ida Laurberg på coveret
+> We got you! Den bedste nye pop er samlet her 💋 Alex Warren
 
-906 songs - 1 day 22 hr 17 min
+911 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-17 | 2025-08-29 |
 | [come here](https://open.spotify.com/track/63ms88HVjrxc1gwx4bzrmO) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [come here](https://open.spotify.com/album/6FoZy517RLSbEnvz8Znokv) | 2:52 | 2025-01-16 | 2025-03-28 |
 | [Company](https://open.spotify.com/track/6IQvWaVOykPkINlpdfULOr) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Company](https://open.spotify.com/album/6UGQ1xOA8bl8aSOqtfQk3Y) | 2:26 | 2024-06-27 | 2024-10-04 |
+| [Counterfeit](https://open.spotify.com/track/06AOUShyTSw86vuQPZbjcz) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [KATMORE](https://open.spotify.com/album/3XrVlXdr5JrwAQ0gLQtuBw) | 2:36 | 2026-06-04 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-10-04 |
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-08-29 | 2025-01-17 |
 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 | 2025-08-14 | 2025-09-19 |
@@ -240,6 +241,7 @@
 | [Eyes On You \(feat\. Ida & Annika\)](https://open.spotify.com/track/7zrpsIDtsWPzrMAW2zZeYz) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr), [Ida & Annika](https://open.spotify.com/artist/6f49Y3mRQ68px4jpR4x4ew) | [Ages](https://open.spotify.com/album/2p0BnYrZIL8fWLZ3GUaJ5z) | 3:06 | 2025-10-16 | 2025-11-22 |
 | [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-05 |  |
 | [Falder Du Så Falder Jeg \(feat\. Gobs\)](https://open.spotify.com/track/0YUWZA7DCKtJ2mJxyd64AA) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Falder Du Så Falder Jeg \(feat\. Gobs\)](https://open.spotify.com/album/1GMfPfcQUDBN2w2fNYBJv6) | 2:31 | 2026-05-29 |  |
+| [Falder I](https://open.spotify.com/track/0CkrHSJZ1lRyBWiXqJaIZW) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Falder I](https://open.spotify.com/album/1MiHPpFD45GdNIeOH3h122) | 2:28 | 2026-06-04 |  |
 | [Fall In Love With Your Life](https://open.spotify.com/track/5xdYMxd96DeE35dmrs1Oi6) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Fall In Love With Your Life](https://open.spotify.com/album/5Wd25sRzDtlh1AjPjqAHKf) | 3:24 | 2026-01-19 | 2026-02-20 |
 | [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-23 | 2026-01-15 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-17 |
@@ -291,6 +293,7 @@
 | [Førhen](https://open.spotify.com/track/1IXqxiib1lsQxXZOdTLVZz) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Førhen](https://open.spotify.com/album/0xnoyPKBHoJS9OUmVZAT3F) | 2:45 | 2025-10-02 | 2025-10-17 |
 | [Galt Med Mig](https://open.spotify.com/track/5NgJ6hUZAmgr7baIMxfNKO) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Galt Med Mig](https://open.spotify.com/album/6oUMRdYiNFCiBCS5BHIFAU) | 2:55 | 2026-03-19 |  |
 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 | 2025-04-18 |
+| [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 | 2026-06-04 |  |
 | [Gemt Dit Nummer](https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Gemt Dit Nummer](https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv) | 2:47 | 2026-04-16 |  |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-11-08 |
 | [Genfærd](https://open.spotify.com/track/0DSXSBT15E18Wzmh4JV41L) | [ANYA](https://open.spotify.com/artist/0LtICwkx09q0oc4VjuwJTT) | [Genfærd](https://open.spotify.com/album/3JwZ1Dtmuvc0rN8f02BF2Q) | 3:20 | 2025-02-20 | 2025-03-28 |
@@ -622,6 +625,7 @@
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-24 | 2025-01-17 |
 | [Paramour](https://open.spotify.com/track/02vqGrTdPJXUZe9CoKFq5I) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Paramour](https://open.spotify.com/album/3v1Vkj1eP4xIZWkt0L3VBT) | 2:31 | 2026-03-19 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-30 |
+| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-04 |  |
 | [Permanent Scars](https://open.spotify.com/track/3vCAtFMJ5w9DXecfWyLhMT) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Permanent Scars](https://open.spotify.com/album/46tPXpvVP5QdTWdC2wavPr) | 3:35 | 2025-03-06 | 2025-04-11 |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-06-27 | 2024-07-30 |
 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 | 2025-06-19 | 2025-11-14 |
@@ -811,6 +815,7 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 | 2026-02-20 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
+| [Track 10](https://open.spotify.com/track/4sYN0jmoaiQY4WzhUdu2Ua) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Ikk Gi Dig Selv Væk Før Du Føler Dig Hjemme](https://open.spotify.com/album/2yjFO6ehaMr1GmPJ2TK4TW) | 0:00 | 2026-06-04 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 | 2025-10-17 |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 |  |

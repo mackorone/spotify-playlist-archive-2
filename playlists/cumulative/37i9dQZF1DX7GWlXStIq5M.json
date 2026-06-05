@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 145927,
       "name": "Caos e Poesia",
       "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
@@ -11946,7 +11946,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 167183,
       "name": "MANIA (oi amor, bom dia)",
       "url": "https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT"
@@ -14374,7 +14374,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
@@ -14968,7 +14968,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195094,
       "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
       "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
@@ -15442,7 +15442,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 160433,
       "name": "oitava maravilha",
       "url": "https://open.spotify.com/track/6V4BwX49ZsEzuDhtZ4bSVx"
@@ -18066,7 +18066,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Pura Poesia",
       "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
@@ -19826,7 +19826,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191810,
       "name": "Sa\u00ed para ver o mar",
       "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
@@ -24204,6 +24204,32 @@
       "duration_ms": 146224,
       "name": "Voc\u00ea N\u00e3o Sabe Amar",
       "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea pra mim \u00e9",
+        "url": "https://open.spotify.com/album/7JeH4i5AYvfiqRlnT9GUlE"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Breno Duarte",
+          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+        },
+        {
+          "name": "Bia Siqueira",
+          "url": "https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Voc\u00ea pra mim \u00e9",
+      "url": "https://open.spotify.com/track/744UBIuHXHzs6nciPFBMjG"
     },
     {
       "album": {

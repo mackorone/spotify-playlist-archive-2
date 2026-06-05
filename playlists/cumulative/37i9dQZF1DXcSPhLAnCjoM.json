@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Crash\" de Joseph Kamel  est le Grand Hit de la semaine.  ",
+  "description": "\"Fr\u00e9rot\" de J\u00e9r\u00e9my Fr\u00e9rot  est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 210880,
       "name": "Avec toi",
       "url": "https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja"
@@ -630,6 +630,24 @@
       "duration_ms": 118834,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
+    },
+    {
+      "album": {
+        "name": "C'est \u00e0 qui le tour",
+        "url": "https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "C'est \u00e0 qui le tour",
+      "url": "https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N"
     },
     {
       "album": {
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Famille ou pas famille",
+        "url": "https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Famille ou pas famille",
+      "url": "https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx"
+    },
+    {
+      "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 258996,
       "name": "Karma",
       "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
@@ -4316,7 +4352,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159765,
       "name": "Millions de c\u0153urs",
       "url": "https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx"
@@ -6198,6 +6234,24 @@
       "duration_ms": 197066,
       "name": "\u00c0 force",
       "url": "https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2"
+    },
+    {
+      "album": {
+        "name": "C amir\u00b2",
+        "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "\u00c0 l'imparfaite",
+      "url": "https://open.spotify.com/track/0jRLZZLyNGdB4x2fivRfnk"
     },
     {
       "album": {

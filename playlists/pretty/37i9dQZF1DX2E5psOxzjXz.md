@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Ali Sethi
+> Explore Pakistan's thriving independent scene 🔥 Cover: Danial, Wishaal
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,515 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,516 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Room Jhoom](https://open.spotify.com/track/4aLfmpfrf9RWnOSNj1dO5U) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Gregory Rogove](https://open.spotify.com/artist/0ofyN5WkkugXvllYparXbP) | [Room Jhoom](https://open.spotify.com/album/2myOdI6BKnry6XkqLObC57) | 5:43 |
-| 2 | [Chune Ishq'en](https://open.spotify.com/track/1bDilP5sW5H0plkRnRgGdj) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Chune Ishq'en](https://open.spotify.com/album/7c6j68zoKDUQk6jyIjxUHu) | 3:26 |
-| 3 | [Museebat](https://open.spotify.com/track/1xhLzCUGuhqyjsVkCe1X51) | [Tarbooze](https://open.spotify.com/artist/2zqtCGEkCl9xl8kFYRbP0N) | [Amn Ki Asha](https://open.spotify.com/album/3kbX7FVc7slqcwpZ4W7lvX) | 2:56 |
+| 1 | [Museebat](https://open.spotify.com/track/1xhLzCUGuhqyjsVkCe1X51) | [Tarbooze](https://open.spotify.com/artist/2zqtCGEkCl9xl8kFYRbP0N) | [Amn Ki Asha](https://open.spotify.com/album/3kbX7FVc7slqcwpZ4W7lvX) | 2:56 |
+| 2 | [Room Jhoom](https://open.spotify.com/track/4aLfmpfrf9RWnOSNj1dO5U) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Gregory Rogove](https://open.spotify.com/artist/0ofyN5WkkugXvllYparXbP) | [Room Jhoom](https://open.spotify.com/album/2myOdI6BKnry6XkqLObC57) | 5:43 |
+| 3 | [Chune Ishq'en](https://open.spotify.com/track/1bDilP5sW5H0plkRnRgGdj) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Chune Ishq'en](https://open.spotify.com/album/7c6j68zoKDUQk6jyIjxUHu) | 3:26 |
 | 4 | [Your Love](https://open.spotify.com/track/44JFeplF9uHMMSjXboCoqS) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [TAKEN](https://open.spotify.com/artist/7vfZKwNrfJQZlpKmTc1BfQ) | [Your Love](https://open.spotify.com/album/3xpjefQnUE9iw8w8vPO1xt) | 3:40 |
 | 5 | [Jee?](https://open.spotify.com/track/3GikGQVGjphaJ06HZZrCcP) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU) | [Jee?](https://open.spotify.com/album/5OotuZJ1aMU2xspAnOlX2C) | 2:58 |
 | 6 | [Raastay](https://open.spotify.com/track/4uvi4t33sr6k5U3S6bl5by) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Raastay](https://open.spotify.com/album/7KK7CRKpDuOQQCpfkEwIwv) | 2:39 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [MAKE YOU MINE \(feat\. Abdul Hannan & Hasan Raheem\)](https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:08 |
 | 90 | [Dekh Sakti Hun](https://open.spotify.com/track/4XKsxIDjNxUwfqGTk5Mq9F) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:32 |
 
-Snapshot ID: `AAAAAOPY0uKQO867EEtKpWcXGUtMh0E6`
+Snapshot ID: `AAAAAHj0xobStsR0MzGfotd+423JOm/o`

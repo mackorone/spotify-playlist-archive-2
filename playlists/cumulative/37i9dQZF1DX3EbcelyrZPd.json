@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba & Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -11642,7 +11642,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 217710,
       "name": "Tamu Chungu",
       "url": "https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G"
@@ -12722,6 +12722,28 @@
       "duration_ms": 278571,
       "name": "Uta Dead",
       "url": "https://open.spotify.com/track/2GcsQMIOXPNmPLQ13wotX8"
+    },
+    {
+      "album": {
+        "name": "Utanionea",
+        "url": "https://open.spotify.com/album/0RmWTSKVOyKwdkTevxFFv2"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Utanionea",
+      "url": "https://open.spotify.com/track/03ew6T1bKkiC73ZpamiyI9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 cover: SANTI FRANCESI",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 cover: Lamante",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152000,
       "name": "A dir il vero",
       "url": "https://open.spotify.com/track/3JKnV3A1hioqP3dL6HsbXO"
@@ -7595,6 +7595,24 @@
     },
     {
       "album": {
+        "name": "DALTONIK",
+        "url": "https://open.spotify.com/album/6KQGpxbwpMmKqcIbcqduHE"
+      },
+      "artists": [
+        {
+          "name": "Pluvia",
+          "url": "https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165651,
+      "name": "DALTONIK",
+      "url": "https://open.spotify.com/track/3xIPA3DAeQQZoaalFanpvL"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91"
       },
@@ -13842,7 +13860,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 203384,
       "name": "I creatori",
       "url": "https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri"
@@ -14738,6 +14756,32 @@
       "duration_ms": 2306408,
       "name": "Il sangue \u00e8 pronto",
       "url": "https://open.spotify.com/track/0MEStrSyGJTRNv2OiPEJFO"
+    },
+    {
+      "album": {
+        "name": "La Luce dell'Alba",
+        "url": "https://open.spotify.com/album/7HaroMYba1ucfnRvm3fBEm"
+      },
+      "artists": [
+        {
+          "name": "Jolly Mare",
+          "url": "https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO"
+        },
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Francesco Bianconi",
+          "url": "https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193822,
+      "name": "Il Senso",
+      "url": "https://open.spotify.com/track/1u45G3wp94Ho4jhWUn9kon"
     },
     {
       "album": {
@@ -26842,7 +26886,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 154750,
       "name": "Ready to die",
       "url": "https://open.spotify.com/track/3TTcXb1iyxe6DdMwJbkHVw"
@@ -26990,6 +27034,28 @@
       "duration_ms": 251251,
       "name": "Requiem for TP",
       "url": "https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/6sxGET4s3izenPVmhN0SYq"
+      },
+      "artists": [
+        {
+          "name": "CanovA",
+          "url": "https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA"
+        },
+        {
+          "name": "Materazi Future Club",
+          "url": "https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165190,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/02lNZ5TOLjfZmFTaFOMMEI"
     },
     {
       "album": {

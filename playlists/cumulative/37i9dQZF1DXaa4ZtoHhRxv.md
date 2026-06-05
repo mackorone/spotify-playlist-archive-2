@@ -4,11 +4,12 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-271 songs - 14 hr 19 min
+272 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 |  |
+| [45](https://open.spotify.com/track/6gn4OIwAxBB5lYD7iSLU6h) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [45](https://open.spotify.com/album/39HAgzCA2FgimBHbp8U2qn) | 2:50 | 2026-06-05 |  |
 | [A Bar Song \(Tipsy\) \[Remix}](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah) | 2:43 | 2024-06-21 |  |
 | [After All](https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [After All](https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z) | 3:12 | 2024-05-17 | 2025-06-01 |
 | [After We Broke Up \(feat\. Frawley\) \- VAVO Remix](https://open.spotify.com/track/5I2QgxdGC5sqUhQb6deQGV) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [After We Broke Up \(feat\. Frawley\) \[VAVO Remix\]](https://open.spotify.com/album/6wyztsue0Gv37CX4qTYSzm) | 2:17 | 2024-05-17 | 2025-06-01 |

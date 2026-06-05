@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G
 
-994 songs - 2 day 4 hr 56 min
+995 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-08-12 | 2023-05-26 |
 | [Mi Plan de Vida](https://open.spotify.com/track/5MMCvfPYyHQrppkihSQA2B) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:00 | 2022-05-27 | 2023-05-26 |
 | [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 | 2022-09-01 | 2023-05-26 |
+| [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 | 2026-06-04 |  |
 | [Miami](https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Miami](https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG) | 3:45 | 2022-08-24 | 2023-05-26 |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2022-02-02 | 2023-05-26 |
 | [Miami](https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 2:54 | 2022-12-02 | 2023-06-01 |

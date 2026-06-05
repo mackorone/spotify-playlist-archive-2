@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, BIRRD, Leblanc and more",
+  "description": "With BIRRD, After Cooking, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166617,
       "name": "17 Virages",
       "url": "https://open.spotify.com/track/5aZKMNDFRNu9CIKh1C1ChH"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -1718,10 +1718,28 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
+    },
+    {
+      "album": {
+        "name": "Fior Di Macchia",
+        "url": "https://open.spotify.com/album/0IlVGap9XmNGPJcF5ScpuZ"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318719,
+      "name": "Fior Di Macchia",
+      "url": "https://open.spotify.com/track/1HKT7N5bCvuete8irgxbUj"
     },
     {
       "album": {
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 595837,
       "name": "High Seas",
       "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 256887,
       "name": "Hokan",
       "url": "https://open.spotify.com/track/6DkD4VQCHPPUwx0sqrOw4C"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 339760,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4r4eTvYnjzyQnMpWei7Qgb"
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 252866,
       "name": "Mind Map",
       "url": "https://open.spotify.com/track/3gYmDUx6cF0SwO3SyFYk0j"
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 220816,
       "name": "Portrait \u00e9questre",
       "url": "https://open.spotify.com/track/7AX2d48SmVcQShBTyY4q8B"
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 220306,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/5CRfMvnvAw7e018xbbMn4j"
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 277992,
       "name": "Resonance Frequency",
       "url": "https://open.spotify.com/track/3HSQ6i5k1CIXg2aw1gPGJj"
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 239453,
       "name": "Sans \u00e0-coups",
       "url": "https://open.spotify.com/track/4sJTtXcxqguusPFVOu6e3R"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 312000,
       "name": "Supermoon",
       "url": "https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH"
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 241573,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/1dvyFEyi0TA0yHurmzhKjV"
@@ -5028,7 +5046,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 234390,
       "name": "Wardenclyffe - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/59s4wikOZ2H0YpHVz9Bfsu"
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "YUPIK",
       "url": "https://open.spotify.com/track/4ATi8vjHseQrIjJgZ5Ot6o"

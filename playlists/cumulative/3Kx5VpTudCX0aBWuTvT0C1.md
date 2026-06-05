@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3Kx5VpTudCX0aBWuTvT0C1.md) - cumulative - [plain](/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1)
 
-### [Pop Rock \| ≠ ](https://open.spotify.com/playlist/3Kx5VpTudCX0aBWuTvT0C1)
+### [🎙️ Pop Rock \| ≠ ](https://open.spotify.com/playlist/3Kx5VpTudCX0aBWuTvT0C1)
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 

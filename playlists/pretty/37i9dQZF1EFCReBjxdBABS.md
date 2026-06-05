@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 18 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
 | 19 | [When My Baby’s In Boots](https://open.spotify.com/track/5zNMcnKplFdDiS5P5rsdNR) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:03 |
 | 20 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
-| 21 | [Raised Up](https://open.spotify.com/track/4A36Q1EDsHuKUvhtpAVh0i) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:21 |
-| 22 | [Road Runner](https://open.spotify.com/track/6wd6VSMss7ALrAsPLhfbH7) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:46 |
+| 21 | [Road Runner](https://open.spotify.com/track/6wd6VSMss7ALrAsPLhfbH7) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:46 |
+| 22 | [Raised Up](https://open.spotify.com/track/4A36Q1EDsHuKUvhtpAVh0i) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:21 |
 | 23 | [Hall of Fame](https://open.spotify.com/track/25oWLc556mMJDcbsFENDJ9) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:20 |
 | 24 | [That's You](https://open.spotify.com/track/2szGXPcHEyElm9GCL8NP6J) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [That's You](https://open.spotify.com/album/3U7EtcuzL2mqr61AgQqsuy) | 3:24 |
 | 25 | [Imma](https://open.spotify.com/track/1LetZVYRkdAxamydcnD0WA) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Country Born](https://open.spotify.com/album/0zprPpZyc5Ejc3Ng0NGFHA) | 2:54 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 27 | [3 Feet Tall](https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [3 Feet Tall](https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ) | 3:42 |
 | 28 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
 | 29 | [Last Time Last](https://open.spotify.com/track/4eq4hMZB3R4uJA9N88JNwS) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:03 |
-| 30 | [For Me](https://open.spotify.com/track/4T4L3ZJWITDQpXqGOVNraQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [For Me](https://open.spotify.com/album/3AvM39VnniWUGgHD5LD6yn) | 3:23 |
-| 31 | [Bar In Baton Rouge](https://open.spotify.com/track/3a8kDfg6wJNGM6KDmLr78p) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 5:07 |
+| 30 | [Bar In Baton Rouge](https://open.spotify.com/track/3a8kDfg6wJNGM6KDmLr78p) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 5:07 |
+| 31 | [For Me](https://open.spotify.com/track/4T4L3ZJWITDQpXqGOVNraQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [For Me](https://open.spotify.com/album/3AvM39VnniWUGgHD5LD6yn) | 3:23 |
 | 32 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 33 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 |
 | 34 | [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 116 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
 | 117 | [Wild Card](https://open.spotify.com/track/3rVY4NV3kV2QD3iS2cuGoD) | [Brea](https://open.spotify.com/artist/3XnzbnejrCHew8KOKxIh9D) | [Wild Card](https://open.spotify.com/album/5K60ZKx7ynhDXfGqzwDuNd) | 3:14 |
 | 118 | [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 |
-| 119 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
-| 120 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 119 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 120 | [Wasted Prayers](https://open.spotify.com/track/1OQo6YzO07yadjnETRL9Ba) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:17 |
 | 121 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
 | 122 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
 | 123 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcTRDgAAAACwF7b+VCcWfRJQf3i2Klwm`
+Snapshot ID: `AcTWrgAAAABBiXAqpexzwxlMnHBEf+An`

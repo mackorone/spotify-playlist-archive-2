@@ -49860,6 +49860,10 @@
         {
           "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
         }
       ],
       "date_added": "2026-05-22",
@@ -101873,7 +101877,7 @@
     },
     {
       "album": {
-        "name": "Long Story Short",
+        "name": "long story short",
         "url": "https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE"
       },
       "artists": [
@@ -101886,7 +101890,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168712,
-      "name": "Long Story Short",
+      "name": "long story short",
       "url": "https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW"
     },
     {

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23232,
+  "num_followers": 23234,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -171,26 +171,6 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "ARA",
-        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Ara (600M)",
-      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 141891,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
     },
     {
       "added_at": "2026-05-22 03:01:20",

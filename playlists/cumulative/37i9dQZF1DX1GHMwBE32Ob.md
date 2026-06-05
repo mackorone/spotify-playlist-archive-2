@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: CKay
+> From the trenches\. Through the streets.<br/>Cover: Bloody Civilian
 
 485 songs - 22 hr 9 min
 
@@ -377,7 +377,7 @@
 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-01 | 2024-01-25 |
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-02-04 |
 | [Pop \(Alcohol Alcohol\)](https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:26 | 2023-06-02 | 2023-09-29 |
-| [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 | 2024-02-16 |  |
+| [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 | 2024-02-16 | 2026-06-05 |
 | [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 | 2025-09-05 | 2025-10-10 |
 | [Port\-harcourt](https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [Port\-harcourt](https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw) | 2:50 | 2024-11-29 | 2025-02-18 |
 | [Portable \- Ogbafia](https://open.spotify.com/track/0kYQtrYwRdnRzHhR0fd2fm) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Ogbafia](https://open.spotify.com/album/3AhGL8nHH5rN3KNkNuP3aR) | 2:54 | 2023-08-17 | 2023-09-14 |

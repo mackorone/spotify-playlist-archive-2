@@ -2,9 +2,9 @@
 
 ### [هوايَهْ عراقي](https://open.spotify.com/playlist/37i9dQZF1DX657Vh1lw2BF)
 
-> أفضل الاغاني العراقية\. الغلاف:صباح محمود
+> أفضل الاغاني العراقية\. الغلاف: محمود التركي و داليا
 
-164 songs - 10 hr 17 min
+165 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Sabeh Mashyat](https://open.spotify.com/track/3zMFvFmBYTr3Hd5qPkgrRM) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [Sabeh Mashyat](https://open.spotify.com/album/0WNq9pntxjOVfIJkJQLiGA) | 2:36 | 2026-02-09 | 2026-04-15 |
 | [Safha Jdida](https://open.spotify.com/track/35TewCJeiy2uiA044iUMsL) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Safha Jdida](https://open.spotify.com/album/6a1wDMzQeup9H4tlnZEW9q) | 2:57 | 2023-12-29 |  |
 | [Shaf Rohha](https://open.spotify.com/track/2OAqzCBCLO0o77MvN3rqV5) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [Shaf Rohha](https://open.spotify.com/album/1bR9CBVAdpcjYP1JsW2oLB) | 3:26 | 2022-05-06 | 2022-07-26 |
+| [Sheno Sheno](https://open.spotify.com/track/0X14TVQhZcv7R78yNO7xpB) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7), [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Sheno Sheno](https://open.spotify.com/album/1RHowLS99M0ty7gSsnt3ZD) | 2:51 | 2026-06-04 |  |
 | [Shensa Menhom](https://open.spotify.com/track/3IPqVifbYjScga84DRtju8) | [Sabah Mahmod](https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ) | [Shensa Menhom](https://open.spotify.com/album/2vwGXebB2tYB6FcDpBR0L8) | 3:26 | 2026-04-14 |  |
 | [Shftk](https://open.spotify.com/track/344n9BZhttkQXHYPQiqscc) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Shftk](https://open.spotify.com/album/2OKBBHxc16UgYpMp7dJniH) | 2:47 | 2022-05-06 | 2022-05-26 |
 | [Shkad Helw](https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Shkad Helw](https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB) | 3:28 | 2022-05-06 | 2022-10-26 |

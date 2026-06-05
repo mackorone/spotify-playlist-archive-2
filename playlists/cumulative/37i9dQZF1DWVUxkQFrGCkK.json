@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Ashiko",
+        "url": "https://open.spotify.com/album/6crGQmkmsekQKHc49lUn8d"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ashiko",
+      "url": "https://open.spotify.com/track/5qkLwiZ6bmert9ik4qJr7c"
+    },
+    {
+      "album": {
         "name": "Head Rush",
         "url": "https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc"
       },

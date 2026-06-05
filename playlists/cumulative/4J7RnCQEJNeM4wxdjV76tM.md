@@ -4,7 +4,7 @@
 
 > old asl
 
-663 songs - 1 day 12 hr 29 min
+664 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Blicky Blicky](https://open.spotify.com/track/7DWfS2wfXCCKlt5BO14cht) | [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Blicky Blicky](https://open.spotify.com/album/2JCqq3Tf7GE9Jj86X3agpL) | 2:16 | 2023-01-17 |  |
 | [Bloody Cape](https://open.spotify.com/track/66ace8nbTVjgHTed107cDn) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:35 | 2022-04-17 |  |
 | [Blue Bills \(feat\. $NOT & Fenix Flexin\)](https://open.spotify.com/track/2ODUTBkiOWoYSUjKpGJxQE) | [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [FAMILY](https://open.spotify.com/album/7CUmEkXzsnL13LU8XQnlbC) | 1:40 | 2022-08-22 |  |
+| [Blue Velvet](https://open.spotify.com/track/23tr9MvcF8rrcxEOBtRBQe) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 4:50 | 2026-06-04 |  |
 | [Both Sides \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/2EEbsvGETiRXbma3hCsAQf) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Both Sides \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/3TrSWaCfYyjBODoSEBMMOJ) | 2:47 | 2023-08-19 |  |
 | [Bout It](https://open.spotify.com/track/4IO4BwhnPKBEyyfz7FzSXG) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU) | 3:25 | 2024-11-14 |  |
 | [Broke Opps](https://open.spotify.com/track/02XlaBr5k34zLI1lG6uCSP) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 2:37 | 2023-10-04 |  |

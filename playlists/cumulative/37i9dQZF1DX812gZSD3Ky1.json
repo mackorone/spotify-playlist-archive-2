@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JustmineNika",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Timethai",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 213236,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -7356,7 +7356,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -9192,7 +9192,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 194560,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/5xYpEeGFXmkGMBQ22NfKfO"
@@ -12765,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "ONE THING",
+        "url": "https://open.spotify.com/album/6VSY1qiEtu1jXB3kDhMzVo"
+      },
+      "artists": [
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/58uSGzTE4LVARQlME5HZkg"
+    },
+    {
+      "album": {
         "name": "One Waking Dream",
         "url": "https://open.spotify.com/album/2pKAc510fNnEIE1KBVen4T"
       },
@@ -15008,7 +15026,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -21159,6 +21177,28 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
+        "url": "https://open.spotify.com/album/1Xi3MXME0HgKOfxtHCofGz"
+      },
+      "artists": [
+        {
+          "name": "TLE MATIMUN",
+          "url": "https://open.spotify.com/artist/55nXVlnA6gx8ixFHPq30r6"
+        },
+        {
+          "name": "FirstOne",
+          "url": "https://open.spotify.com/artist/0VcQFPTVtUjOdJvVEkGvMP"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181551,
+      "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
+      "url": "https://open.spotify.com/track/7l5xRO0s5RsxGdCm6faQmA"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e41\u0e25\u0e30\u0e1a\u0e2d\u0e01\u0e25\u0e32 (English Version) - Single",
         "url": "https://open.spotify.com/album/1zsTQAGPwnikzQUzwdFj34"
       },
@@ -21275,6 +21315,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
+        "url": "https://open.spotify.com/album/28bkK3t9m7NKLWsi6ymYE8"
+      },
+      "artists": [
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
+      "url": "https://open.spotify.com/track/2885sIcSfF5cDdPv70x3l5"
+    },
+    {
+      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/15xn4XX56uZ7oKObEO6uPp"
       },
@@ -21312,6 +21370,24 @@
       "duration_ms": 233000,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (Let it Flow)",
       "url": "https://open.spotify.com/track/7IKvc0e6Lx0gP21U71cxPS"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e31\u0e48\u0e07\u0e43\u0e08\u0e1d\u0e31\u0e19 (daydream) [Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series]",
+        "url": "https://open.spotify.com/album/4UJKrtjvu11iIZp9CHQ6wa"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "\u0e14\u0e31\u0e48\u0e07\u0e43\u0e08\u0e1d\u0e31\u0e19 (daydream) - Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series",
+      "url": "https://open.spotify.com/track/7a1qkCAWSXn1YKtLPh0pbE"
     },
     {
       "album": {
@@ -21561,6 +21637,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e23\u0e31\u0e01 (Touch my heart) [From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\"]",
+        "url": "https://open.spotify.com/album/5PUAeaKKbJ49kjOZ9TwQx8"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175468,
+      "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e23\u0e31\u0e01 (Touch my heart) - From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\"",
+      "url": "https://open.spotify.com/track/4TKVN3H2T9qWF3tZknQcxs"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e\u0e25\u0e14\u0e42\u0e17\u0e29\u0e01\u0e36\u0e48\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
         "url": "https://open.spotify.com/album/2F17kjFk8JiLBO9cf4WLji"
       },
@@ -21580,6 +21674,28 @@
       "duration_ms": 258620,
       "name": "\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e\u0e25\u0e14\u0e42\u0e17\u0e29\u0e01\u0e36\u0e48\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/5TO9QdzAiAw9fBTiDpiNcg"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Are One) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Wu \u0e2d\u0e39 The Fate Begins\"]",
+        "url": "https://open.spotify.com/album/2sqcBp44HC45RyJFBmmAC8"
+      },
+      "artists": [
+        {
+          "name": "Sky Wongravee",
+          "url": "https://open.spotify.com/artist/2s0zk4pCLLRAywVmhx20Xs"
+        },
+        {
+          "name": "Nani Hirunkit",
+          "url": "https://open.spotify.com/artist/5ci1BNb09Lt4FwhlpW483d"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193873,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Are One) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Wu \u0e2d\u0e39 The Fate Begins\"",
+      "url": "https://open.spotify.com/track/3lkv4au1eUyBODdDed7gVc"
     },
     {
       "album": {
@@ -21634,7 +21750,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 237777,
       "name": "\u0e2b\u0e21\u0e49\u0e2d\u0e2b\u0e38\u0e07\u0e02\u0e49\u0e32\u0e27 (feat. \u0e1e\u0e31\u0e49\u0e19\u0e0a\u0e4c \u0e27\u0e23\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c)",
       "url": "https://open.spotify.com/track/5egkl3PdrUpoytrquX5ykt"
@@ -21768,6 +21884,24 @@
       "duration_ms": 281000,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e25\u0e32 (Original Soundtrack From \"\u0e40\u0e17\u0e2d\u0e21 4\")",
       "url": "https://open.spotify.com/track/2pPYt3e7IIbKhxFJth89ys"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e22\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (I CHOOSE ME)",
+        "url": "https://open.spotify.com/album/457kfZRLtokpYFDFVPv8Q4"
+      },
+      "artists": [
+        {
+          "name": "KLEAR",
+          "url": "https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e22\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (I CHOOSE ME)",
+      "url": "https://open.spotify.com/track/6u50hUsJ7FAbSkIabXaQ5A"
     },
     {
       "album": {

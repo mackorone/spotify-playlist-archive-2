@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,291 songs - 5 day 15 hr 17 min
+2,293 songs - 5 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Hearts of Stone](https://open.spotify.com/track/3BLWZXp6bu4FeJzCNnzHId) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hearts of Stone](https://open.spotify.com/album/6Fc2AFpa3KBMYoOe2BHaom) | 3:28 | 2025-08-11 |  |
 | [heartstealer](https://open.spotify.com/track/72PdX31kK98OHxJCiG35AI) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [dead flowers & soft lies](https://open.spotify.com/album/6OMvGIK3Wx6VmgLqwuiqkj) | 3:03 | 2026-04-28 |  |
 | [Heartt](https://open.spotify.com/track/1vfAlDF7GKLxcnI1RFxKOP) | [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX) | [Suffocate](https://open.spotify.com/album/6fJjucRK9aullYFrcHk0tj) | 2:26 | 2025-10-25 |  |
+| [Heatwave](https://open.spotify.com/track/2YxMVgmI7DysNQSqEIonLu) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Heatwave](https://open.spotify.com/album/4nWgKF90jJuAsES92kzz33) | 1:45 | 2026-06-05 |  |
 | [Heavyweight Ritual](https://open.spotify.com/track/2QLRAHZNmikPUBBFsIVpq3) | [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9) | [Basswise](https://open.spotify.com/album/66dJvyI73XslFIzYI0Lwby) | 6:42 | 2025-02-07 |  |
 | [Heavyweight Sound](https://open.spotify.com/track/4ampauNd8NdJfI1MS1cmmd) | [Sunjaman](https://open.spotify.com/artist/6XkINhGPJJRqeeR6aUULrJ), [Northical](https://open.spotify.com/artist/4heWPxOaqxdLq8fq8fD9nW) | [Outta Here](https://open.spotify.com/album/7JJsSDRjn9bxosordXhVh6) | 3:24 | 2024-03-25 |  |
 | [Heavyweight Sound Dub](https://open.spotify.com/track/7aQb047rhcSTkqFdSNIfxJ) | [Sunjaman](https://open.spotify.com/artist/6XkINhGPJJRqeeR6aUULrJ) | [Outta Here](https://open.spotify.com/album/7JJsSDRjn9bxosordXhVh6) | 3:25 | 2024-03-25 |  |
@@ -1047,6 +1048,7 @@
 | [Keep Me](https://open.spotify.com/track/4a6Teql1ahE5OcfsfLUhd7) | [Larkspur Vega](https://open.spotify.com/artist/5teFor75xkx1AdZqv8RGSY) | [Keep Me](https://open.spotify.com/album/5fDRGTYrH8AIySwA8ukX5U) | 3:49 | 2025-09-13 | 2026-04-08 |
 | [Keep Your Head Held High!](https://open.spotify.com/track/1tVaSogjGoX0hAaLKcgeWR) | [No Conscription League](https://open.spotify.com/artist/4id25mOX3NU4hrTU1GdZNQ) | [ÂME DAMNÉE, KEEP YOUR HEAD HELD HIGH!](https://open.spotify.com/album/7y2gs2bBvmIEnPpadz4Fi3) | 8:50 | 2025-03-30 |  |
 | [Kevin's Song, Pt\. 2](https://open.spotify.com/track/5nCScXcLJl3GOV1gCbnC71) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Kevin's Song, Pt\. 2](https://open.spotify.com/album/7IahdJz91ZSIOrSdX6Bc5u) | 4:14 | 2026-01-30 |  |
+| [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2026-06-04 |  |
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0NGK0ahfImvD9RSoQtKIg9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Kids On Fast\-Forward](https://open.spotify.com/album/30w4d4Gv93dtP53186lz9A) | 2:41 | 2026-05-24 |  |
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0jMY3G8clCjyx96tkQX1yC) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:41 | 2026-05-22 |  |
 | [Kindest Thing](https://open.spotify.com/track/6zlmNOc2Dw5hqvfoNC2JrS) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Ava Breeze](https://open.spotify.com/artist/0SqTm0vETKvufHb2sUmGcQ) | [Kindest Thing](https://open.spotify.com/album/4qAHhJN0GEVaNUeRZPVYq3) | 2:45 | 2025-06-29 |  |

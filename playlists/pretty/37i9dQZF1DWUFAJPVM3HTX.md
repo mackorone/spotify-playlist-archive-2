@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g?si=lj1kXYzSQr2HdW5iVK0Eaw">Gordon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,255 likes - 118 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,370 likes - 118 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 117 | [Father](https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Father](https://open.spotify.com/album/1HG8vY7XKeX57yck24riZM) | 2:55 |
 | 118 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAANvKc/29y3ok/LvovlFeLzcoey4b`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

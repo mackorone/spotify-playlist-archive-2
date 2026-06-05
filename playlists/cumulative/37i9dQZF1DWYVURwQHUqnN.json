@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Franglish x KeBlack",
+  "description": "Photo : GIMS x Gazo",
   "name": "Best Life",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152500,
       "name": "Airbnb",
       "url": "https://open.spotify.com/track/5xETgI7eqBGMjsFtbUVyJx"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 154365,
       "name": "CHIC",
       "url": "https://open.spotify.com/track/2O0PyqI1NcZaBexnZRTVph"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 200869,
       "name": "Choco Choco",
       "url": "https://open.spotify.com/track/5tI73fA7h63cAcIf3c4CBN"
@@ -2508,6 +2508,32 @@
       "duration_ms": 159562,
       "name": "CONVOI",
       "url": "https://open.spotify.com/track/1CADNs84nrrvCfGLsbX4mG"
+    },
+    {
+      "album": {
+        "name": "Copa",
+        "url": "https://open.spotify.com/album/4fekXCF2WljfNZ2SvA5Ucs"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Copa",
+      "url": "https://open.spotify.com/track/1BV2PIZpUKLG6Hu4dP56gD"
     },
     {
       "album": {
@@ -3466,7 +3492,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 175439,
       "name": "Emprise",
       "url": "https://open.spotify.com/track/1x6QQMG0G9jN8wPCMysBCr"
@@ -4310,7 +4336,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 81454,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3ZH39dQbXu9jqihvP9EAAH"
@@ -7134,7 +7160,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 174268,
       "name": "Oublie-la (feat. Jul)",
       "url": "https://open.spotify.com/track/6sLCWOVXbpwykq3pnso2Bm"
@@ -7364,6 +7390,24 @@
       "duration_ms": 182000,
       "name": "Parle Pas",
       "url": "https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5"
+    },
+    {
+      "album": {
+        "name": "Pas besoin de toi",
+        "url": "https://open.spotify.com/album/1VdP0hVjcgPUtE2bM8DUp8"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128465,
+      "name": "Pas besoin de toi",
+      "url": "https://open.spotify.com/track/5qaKyps348j6M5NkP4n6h9"
     },
     {
       "album": {
@@ -8897,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Sans stress",
+        "url": "https://open.spotify.com/album/3rMBJgPzpRR9Kvm1LFkvEs"
+      },
+      "artists": [
+        {
+          "name": "Clyy",
+          "url": "https://open.spotify.com/artist/0kH3jtZgw5OY5ueHtEMDXn"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128893,
+      "name": "Sans stress",
+      "url": "https://open.spotify.com/track/0B33WPVHg5IJ9dNxZ0CyqR"
+    },
+    {
+      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/4amqcpoxDGYH4MK5xSzS9g"
       },
@@ -9420,6 +9482,24 @@
       "duration_ms": 163038,
       "name": "Static",
       "url": "https://open.spotify.com/track/69H71YZAGEHsCxjIyEsbng"
+    },
+    {
+      "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153061,
+      "name": "S\u00e9minaire",
+      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
     },
     {
       "album": {
@@ -10265,6 +10345,28 @@
     },
     {
       "album": {
+        "name": "Triple S",
+        "url": "https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166249,
+      "name": "Triple S",
+      "url": "https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj"
+    },
+    {
+      "album": {
         "name": "Trop Bizarre",
         "url": "https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI"
       },
@@ -10310,6 +10412,28 @@
       "duration_ms": 146440,
       "name": "TROP TARD",
       "url": "https://open.spotify.com/track/4g6v0Y4KEwdfwCDii1SFob"
+    },
+    {
+      "album": {
+        "name": "ADR\u00c9NALINE, LA R\u00c9\u00c9DITION",
+        "url": "https://open.spotify.com/album/3faKicSICUWfcc1RRuy0xZ"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186771,
+      "name": "Troph\u00e9e",
+      "url": "https://open.spotify.com/track/3id6cTerbJqoX59IkjmQwN"
     },
     {
       "album": {
@@ -10536,7 +10660,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 127062,
       "name": "van cleef",
       "url": "https://open.spotify.com/track/3XXjuNt877aP0N9qFEefIr"

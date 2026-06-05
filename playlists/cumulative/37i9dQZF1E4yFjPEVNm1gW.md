@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-234 songs - 9 hr 14 min
+235 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Don’t believe it](https://open.spotify.com/track/3xNI7JDvLnnXOXaSMOBFLy) | [Lil Mon](https://open.spotify.com/artist/7m7cCJ5j8RkuYKqYUyQl3b) | [Back In Dat Mode](https://open.spotify.com/album/5sS4iDUNnAB0sEPmb5LvD5) | 3:05 | 2026-03-05 | 2026-03-10 |
 | [Don’t Know How To Feel](https://open.spotify.com/track/5pzFqoFSlmzK4toMpy78Bn) | [Jodot Kreep](https://open.spotify.com/artist/3U4mJUlN9cXxCV5hWo6XWo), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Kreeps Come Out At Night](https://open.spotify.com/album/31iWdpWYH7TTc6HMZdSSBA) | 2:17 | 2025-12-28 | 2026-01-15 |
 | [doo doo diaper](https://open.spotify.com/track/3YGe6473ByCXP4QZcTorzZ) | [newway](https://open.spotify.com/artist/2XeGO0og3X3kPUhfRT2htO) | [doo doo diaper](https://open.spotify.com/album/4K75XSzY1kmbvfYNwCm9sG) | 3:15 | 2026-03-22 | 2026-03-23 |
-| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 |  |
+| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 | 2026-06-05 |
 | [Drugs And Pretty Girls](https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS) | [babygeo](https://open.spotify.com/artist/0AanX5CfD9V7K2SZenwhsc) | [RUINS](https://open.spotify.com/album/3s637sjUEzCxplSTHOz9gW) | 3:07 | 2026-02-26 | 2026-04-24 |
 | [DUNK LIKE JAMES](https://open.spotify.com/track/2VIihA4EmIHSdlKilWexqL) | [CMTG MAK](https://open.spotify.com/artist/5k62hWigcErgeoNHuwBevZ), [CMTG LICO](https://open.spotify.com/artist/35sYcgvtNyDJjwuZNWhXOl) | [DUNK LIKE JAMES](https://open.spotify.com/album/60NkYVji2ksLZgvDUHcLqd) | 2:06 | 2026-03-17 | 2026-03-27 |
 | [Everyday!](https://open.spotify.com/track/4f6sXDJwqD4vEKqZCRHObm) | [Mwai](https://open.spotify.com/artist/7cMqRry5DjPYsDFzKUXKz4) | [Everyday!](https://open.spotify.com/album/3IUmw1OOHwCIpxPivoW8tp) | 2:28 | 2026-01-25 | 2026-01-30 |
@@ -99,7 +99,7 @@
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
-| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 | 2026-05-26 |
+| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
 | [In the mix \(be here\)](https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [In the mix \(be here\)](https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY) | 5:09 | 2026-04-14 | 2026-05-07 |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
 | [Intervals](https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9) | [Łee](https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz) | [Intervals](https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN) | 2:23 | 2026-01-15 |  |
@@ -170,9 +170,9 @@
 | [pullover](https://open.spotify.com/track/25dCnQCi1BYk3Rg3DpAeUE) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [Lost files Vol\. 2](https://open.spotify.com/album/6G62ygAvnWxyTYuindGrkC) | 3:14 | 2025-12-13 | 2025-12-19 |
 | [pullover](https://open.spotify.com/track/3sutTCSvKj2yg44bDlxeh4) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [pullover](https://open.spotify.com/album/5gPtUIQ2sWCGhiN70fpvPM) | 3:14 | 2025-12-08 | 2025-12-13 |
 | [Purple Moncler](https://open.spotify.com/track/3Pz3ulQ85wkx8upWsyN11V) | [margiela](https://open.spotify.com/artist/36l7OgMNNPtaE3GPBcAz8q) | [Purple Moncler](https://open.spotify.com/album/2ixi2G4BP0bxMyk0b3hOgN) | 3:40 | 2026-02-19 | 2026-03-13 |
-| [Purple Moncler](https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw) | [Trimskii](https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF) | [Purple Moncler](https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4) | 3:32 | 2026-03-13 |  |
+| [Purple Moncler](https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw) | [Trimskii](https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF) | [Purple Moncler](https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4) | 3:32 | 2026-03-13 | 2026-06-05 |
 | [racist](https://open.spotify.com/track/2E9IBpAAmVJ4TT0qEs5yln) | [Hapes](https://open.spotify.com/artist/67YTeu5GB7MfmwTooDX4qo) | [racist](https://open.spotify.com/album/5SIIIDo1KMhRJduTnuns9L) | 1:36 | 2026-05-01 | 2026-05-02 |
-| [Real Talk](https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Real Talk](https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ) | 2:26 | 2026-04-13 |  |
+| [Real Talk](https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Real Talk](https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ) | 2:26 | 2026-04-13 | 2026-06-05 |
 | [Regular Show \- Vanta Version](https://open.spotify.com/track/1F3WRhECuzY78VXXT10CYh) | [Khenan](https://open.spotify.com/artist/1EjaHZ1glOgzroXJNhuGLE), [IGoByTobi](https://open.spotify.com/artist/7m7JiSs7G0WVtQj9zmPepf) | [VANTAGONIST](https://open.spotify.com/album/6NxLdlhJEyKo0aNZWn0Jr9) | 3:14 | 2026-05-17 | 2026-05-24 |
 | [Ride For Me](https://open.spotify.com/track/7rEwfqQMPIXlDWktGbDI3R) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 1:58 | 2026-02-26 | 2026-03-21 |
 | [RIP Goonew](https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 2:20 | 2026-01-22 | 2026-03-18 |
@@ -207,7 +207,7 @@
 | [Tag v2](https://open.spotify.com/track/3lLDeOxmhUOkZnr4J9Qqwb) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [Tag v2](https://open.spotify.com/album/3E4YlOe4SLxhvym7yHqo1H) | 1:42 | 2026-04-13 | 2026-04-21 |
 | [Talaband Anthem, Pt\. 2](https://open.spotify.com/track/3bn2rF5MouNNY4nhzt9Jw0) | [ReallyRichDon](https://open.spotify.com/artist/1aLigTPiKQEmEYQVJt5NwZ), [Mannie2SL](https://open.spotify.com/artist/5EqyhUvnzGrkp0N7DSR3zu), [Talaband Jizzle](https://open.spotify.com/artist/53w5mR8gB6gx3Tn506foHD) | [As Long as I Make It](https://open.spotify.com/album/4FIDcOnc5qpRAITSW8fBYC) | 2:40 | 2025-12-22 | 2025-12-28 |
 | [Tap Hour](https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY) | [Ueecho](https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp) | [Tap Hour](https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT) | 2:00 | 2026-04-19 |  |
-| [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 | 2026-05-29 |
+| [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 |  |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 | 2026-02-19 |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |
 | [tempted](https://open.spotify.com/track/1Qm0FSIjb94bsiAs4KcPb6) | [Shameless](https://open.spotify.com/artist/2XMnrlg83FzaoLirkS91uP) | [tempted](https://open.spotify.com/album/3u5j1nVg9tq2vFdSWvSKnD) | 1:54 | 2026-03-30 | 2026-05-16 |
@@ -221,6 +221,7 @@
 | [Tokyo Drift](https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ) | [Ronnie Caine](https://open.spotify.com/artist/4WVnDsM7TEE05xMG0D5gUn) | [I Cant Lose](https://open.spotify.com/album/0SpaqDTVmSq6idNQac0I5X) | 2:19 | 2026-01-06 | 2026-02-03 |
 | [Trapped Out](https://open.spotify.com/track/1Xi8QYlSLfQJ1szCh3goMH) | [Fluhkunxhkos](https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU) | [Blood In Blood Out 2](https://open.spotify.com/album/1jD5f2StWQPB4YWoP1ixez) | 1:29 | 2026-03-23 | 2026-03-31 |
 | [Trifling](https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4) | [acleast](https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn) | [Trifling](https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e) | 3:31 | 2026-01-15 | 2026-05-26 |
+| [Trophies](https://open.spotify.com/track/3GIswipFfcwql6cMpYAW0e) | [MDE Tae](https://open.spotify.com/artist/7tuyMYR3AcaZ43l3viEhsX) | [Trophies](https://open.spotify.com/album/37s96wBm2Km5FClsNzP1gf) | 2:24 | 2026-06-05 |  |
 | [Tuck Blick](https://open.spotify.com/track/5KbBJjm7P3L7w2JI0hVxuB) | [ThirstyOwe3k](https://open.spotify.com/artist/1dtFF7RRzg7nFykaThgcLk), [DuseThaJoynt](https://open.spotify.com/artist/6iyl1ecyb5wUZd2Ovsfvus) | [Tuck Blick](https://open.spotify.com/album/3ISOMp3jA6STWoglv2jtF2) | 2:07 | 2026-04-14 | 2026-04-15 |
 | [U A JOKE](https://open.spotify.com/track/6WzU2cE9u9m4PSCYIBIwPd) | [nnickyp](https://open.spotify.com/artist/2Tny36sUxlxvzw0mtwiHr7) | [The Blueprint](https://open.spotify.com/album/2Lf4vt3hubKi2Cc5E7zVXI) | 1:32 | 2026-02-18 | 2026-02-21 |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |

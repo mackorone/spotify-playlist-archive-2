@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 188560,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191373,
       "name": "effy stonem",
       "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 137781,
       "name": "get better!",
       "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
@@ -3586,6 +3586,24 @@
       "duration_ms": 197374,
       "name": "Haus am See",
       "url": "https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5"
+    },
+    {
+      "album": {
+        "name": "Head In The Air",
+        "url": "https://open.spotify.com/album/5Bwx59yHFWLiVWdYNsjIWt"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Head In The Air",
+      "url": "https://open.spotify.com/track/6LnBxvMwtw57Ww0kwE3Tc8"
     },
     {
       "album": {
@@ -4534,6 +4552,24 @@
       "duration_ms": 152404,
       "name": "Jacke zu",
       "url": "https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU"
+    },
+    {
+      "album": {
+        "name": "jAGUAR",
+        "url": "https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222602,
+      "name": "jAGUAR",
+      "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
     },
     {
       "album": {
@@ -9694,6 +9730,24 @@
       "duration_ms": 204367,
       "name": "Zwei Menschen",
       "url": "https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz"
+    },
+    {
+      "album": {
+        "name": "es ist okay, dass du f\u00fchlst",
+        "url": "https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "z\u00e4hl die tage",
+      "url": "https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d"
     },
     {
       "album": {

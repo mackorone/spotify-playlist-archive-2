@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,495 likes - 120 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,518 likes - 120 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 26 | [GIVE GOD PRAISE](https://open.spotify.com/track/3Mpvk2msGzP7F9viZGU1D5) | [Liyia](https://open.spotify.com/artist/2PNfnkkF3KCEGfJQ2JbyEa), [J'SAM](https://open.spotify.com/artist/5qmfITwD5bA6hJVIEVX6jg), [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi) | [GIVE GOD PRAISE](https://open.spotify.com/album/3hmpud6vjbNqfI6MtDcSFE) | 3:45 |
 | 27 | [Before the Throne](https://open.spotify.com/track/7f5VWMSJY3XrGJNAweV3qd) | [Joseph Kwesi Kai](https://open.spotify.com/artist/4jXMIaSmhlUdpfJnVQ1WKA) | [Before the Throne](https://open.spotify.com/album/7eEiWwOCeM1BopVskGt5Xg) | 8:00 |
 | 28 | [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 |
-| 29 | [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 |
+| 29 | [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 |
 | 30 | [River River Overflow](https://open.spotify.com/track/6WRHikl9RtSgISA3ijogFY) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [River River Overflow](https://open.spotify.com/album/16p98u2Uor2eWrRuxDcYIi) | 6:26 |
 | 31 | [PRAISE THE LORD](https://open.spotify.com/track/3OJ5E5uTg5SbU8E2OrX7RG) | [IFIOK BASSEY](https://open.spotify.com/artist/2orAsBkKwUSIrmOf9oIg6y) | [PRAISE THE LORD](https://open.spotify.com/album/05dHgov1wqiKK6iJs5wM2G) | 5:00 |
 | 32 | [The King's Song](https://open.spotify.com/track/3VuVp5h4dcmr7KLomlrFpV) | [Yemi Adeyemo](https://open.spotify.com/artist/1cheaHVNKKTeCey5cteeXw), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [The King's Song](https://open.spotify.com/album/1hdbFV5uEYN447rAe1JmhE) | 13:48 |

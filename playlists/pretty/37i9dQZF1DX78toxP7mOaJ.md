@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Lina\-Mariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,864 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,912 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 |
 | 75 | [Wasted Tonight](https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Wasted Tonight](https://open.spotify.com/album/1jNhZfZpj37L6rXBq3aZiq) | 2:12 |
 
-Snapshot ID: `AAAAACCD+jKOy8aYw/rk2mjzTfcifovz`
+Snapshot ID: `AAAAANlBCtGqBdO/5vtN+ED+r1rNSA/z`

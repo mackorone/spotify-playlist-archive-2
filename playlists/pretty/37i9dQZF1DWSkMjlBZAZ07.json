@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1877473,
+  "num_followers": 1877403,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
         "name": "Good Things Happen",
         "url": "https://open.spotify.com/album/2O3NBUzy7RTLuxMAOwI7VE"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/3yw9ch231KTfNVVFx4bNT4"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 231297,
-      "name": "Big Sun",
-      "url": "https://open.spotify.com/track/52HdKUeIsk60y53MV7zGL7"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "All My Love - Spotify Singles",
         "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195680,
       "name": "Little Road",
       "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/3yw9ch231KTfNVVFx4bNT4"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 231297,
+      "name": "Big Sun",
+      "url": "https://open.spotify.com/track/52HdKUeIsk60y53MV7zGL7"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Both Can Be True",
-        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Both Can Be True",
-      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "Down In The Dirt",
         "url": "https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 298720,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -1315,38 +1331,6 @@
       "duration_ms": 274253,
       "name": "Do It All For You",
       "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
-        "name": "Like a Child",
-        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 216380,
-      "name": "Like a Child",
-      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1367,6 +1351,22 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Matter of Taste",
-        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 244366,
-      "name": "Matter of Taste",
-      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "(Looking Through) Rose Colored Glasses",
         "url": "https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
+        "name": "Matter of Taste",
+        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 244366,
+      "name": "Matter of Taste",
+      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
         "name": "Soap",
         "url": "https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 182713,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 162980,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 182713,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
     }
   ],
   "unique_name": "Happy Folk",

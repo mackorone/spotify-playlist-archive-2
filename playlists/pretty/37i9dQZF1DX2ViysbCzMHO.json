@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176664,
+  "num_followers": 176668,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Like It Ain't (Stripped)",
-        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 156690,
-      "name": "Like It Ain't - Stripped",
-      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Like It Ain't (Stripped)",
+        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Like It Ain't - Stripped",
+      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Whiskey On You (Acoustic)",
-        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 179530,
-      "name": "Whiskey On You - Acoustic",
-      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Whiskey On You (Acoustic)",
+        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 179530,
+      "name": "Whiskey On You - Acoustic",
+      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "One Percent (Acoustic)",
-        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 204900,
-      "name": "One Percent (Acoustic)",
-      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "One Percent (Acoustic)",
+        "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 204900,
+      "name": "One Percent (Acoustic)",
+      "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1347,6 +1331,22 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 185847,
       "name": "Waiting For You - Acoustic",
       "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2026-02-27 05:00:29",

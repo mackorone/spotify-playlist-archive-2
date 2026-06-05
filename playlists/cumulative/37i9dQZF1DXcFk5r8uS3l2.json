@@ -534,7 +534,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 219380,
       "name": "Antique Hearts",
       "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
@@ -2524,6 +2524,24 @@
       "duration_ms": 191124,
       "name": "Full Throttle",
       "url": "https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3"
+    },
+    {
+      "album": {
+        "name": "Fussing and Fighting",
+        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254320,
+      "name": "Fussing and Fighting",
+      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
     },
     {
       "album": {

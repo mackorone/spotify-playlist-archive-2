@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-208 songs - 9 hr 36 min
+210 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Always and Forever](https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:50 | 2023-05-24 | 2023-06-28 |
 | [Amiya](https://open.spotify.com/track/3lsozc7nWJJBDvqprtzwV7) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Arknights: PRELUDE TO DAWN Original Soundtrack](https://open.spotify.com/album/58liNr0c7Z43IiRRkXMudh) | 2:35 | 2026-03-18 | 2026-03-25 |
 | [Armored All Might](https://open.spotify.com/track/7nuX3Xc3rs0g83RucMBPU8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 3:02 | 2024-10-21 | 2025-12-15 |
-| [At the Limit](https://open.spotify.com/track/5xdFdBtd4dUfsMtDpZ9RuO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 4:34 | 2025-10-22 |  |
+| [At the Limit](https://open.spotify.com/track/5xdFdBtd4dUfsMtDpZ9RuO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 4:34 | 2025-10-22 | 2026-06-05 |
+| [At the Limit](https://open.spotify.com/track/73lIW5oxKkR64pK4wtcR1u) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 4:34 | 2026-06-05 |  |
 | [Awakening](https://open.spotify.com/track/5WpNAfttEdHhw5IYKbCppS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [SAKAMOTO DAYS Original Sound Track \(Anime original Mix Vol.2\)](https://open.spotify.com/album/5gPfWavKzSaXGWS47aTwCq) | 1:35 | 2025-10-16 | 2025-10-28 |
 | [Awakening](https://open.spotify.com/track/0AoMMPObGluADHQx7xpFiw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [SAKAMOTO DAYS Original Sound Track \(Hayashi special Mix Vol.2\)](https://open.spotify.com/album/2WNFxXXoEIKHLoXxeaNxDU) | 1:36 | 2025-10-06 | 2025-10-09 |
 | [Be a Hero](https://open.spotify.com/track/7F7VfH62AAnegriuC8jG1j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:44 | 2025-11-30 | 2026-02-11 |
@@ -25,6 +26,7 @@
 | [Black Snake](https://open.spotify.com/track/3YrNBaqexhT70IYU4EczD8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Arknights: Rise from Ember \(Original Soundtrack\)](https://open.spotify.com/album/45dQGtZR13oQg9dZd5Jq41) | 3:12 | 2026-03-25 | 2026-03-26 |
 | [Blowout loss](https://open.spotify.com/track/2WA0IaPU5cY3A2PxunoYsK) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [SAKAMOTO DAYS Original Sound Track \(Hayashi special Mix Vol.2\)](https://open.spotify.com/album/2WNFxXXoEIKHLoXxeaNxDU) | 1:53 | 2025-09-20 | 2025-11-14 |
 | [Butterfly Effect](https://open.spotify.com/track/0hBePBf2fdBee6w85kwYvU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:28 | 2025-10-22 |  |
+| [Calculated Prowess](https://open.spotify.com/track/2nC9pqY1MMQDzsBO67xkl3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録](https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ) | 2:07 | 2026-06-05 |  |
 | [Calculated Prowess](https://open.spotify.com/track/52B6mvouFX55fJ10eHPWpL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の肆](https://open.spotify.com/album/1IxnwQ5bcezPF7fLJ7l7dR) | 2:07 | 2024-08-24 | 2024-11-22 |
 | [Coast to Coast](https://open.spotify.com/track/57glf24AnERvt2SqXeLaSH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Nicholas Aquilino](https://open.spotify.com/artist/19W88XiqODfaExksbWpU86), [Shayne Holland](https://open.spotify.com/artist/31boEXN1loQ6XgSoCiiGa4) | [Coast to Coast](https://open.spotify.com/album/4QYGe28cbzf7IgQb8wDBmB) | 1:37 | 2025-05-29 | 2025-06-26 |
 | [cocoon](https://open.spotify.com/track/0zJ3BCfoyRysii4g5lC7Bc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「トライアングル」オリジナル・サウンドトラック](https://open.spotify.com/album/4hSFFTl3tmnMNu1ptHQVNE) | 4:43 | 2024-02-22 | 2024-03-21 |
@@ -128,7 +130,7 @@
 | [わくわく](https://open.spotify.com/track/7lajtKT8UFY7aoatnzlaso) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:48 | 2024-03-28 | 2024-04-20 |
 | [オール･フォー･ワン](https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:12 | 2022-12-23 | 2026-05-09 |
 | [オール･フォー･ワンの力](https://open.spotify.com/track/3OlSgkdwKFrX3kWte233Vq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:58 | 2024-06-21 | 2024-08-14 |
-| [カモメ](https://open.spotify.com/track/0dNliW8cZpIhwE9ZV1suFD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:05 | 2022-12-23 |  |
+| [カモメ](https://open.spotify.com/track/0dNliW8cZpIhwE9ZV1suFD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:05 | 2022-12-23 | 2026-06-05 |
 | [コンセプトの戦い](https://open.spotify.com/track/4ZRvNs46kXBjKJOl74tKZm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル･サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 4:02 | 2022-12-23 |  |
 | [ゴミ捨て場の決戦](https://open.spotify.com/track/1NvJCQMA5afkAn3MOCF0YA) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:28 | 2024-03-11 | 2024-05-18 |
 | [ゴミ捨て場の決戦](https://open.spotify.com/track/3dWp2zuQRoeBCkl1h588K5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 1:28 | 2024-05-22 | 2024-07-16 |

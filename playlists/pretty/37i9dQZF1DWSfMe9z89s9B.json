@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Dua Saleh",
-  "num_followers": 1319064,
+  "num_followers": 1319014,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
     },
     {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -1379,22 +1395,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
       "added_at": "2026-03-13 08:17:11",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "July",
@@ -1435,22 +1451,6 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "From Scratch",
-      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
       "added_at": "2024-08-16 04:08:50",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 258801,
-      "name": "Nearsight [SID]",
-      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
-    },
-    {
       "added_at": "2025-02-14 07:50:47",
       "album": {
         "name": "CUT UP",
@@ -1615,6 +1599,22 @@
       "duration_ms": 176785,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 258801,
+      "name": "Nearsight [SID]",
+      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
-    },
-    {
       "added_at": "2026-05-08 06:11:38",
       "album": {
         "name": "Wonder",
@@ -1681,6 +1665,22 @@
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
+    },
+    {
       "added_at": "2024-12-13 05:00:40",
       "album": {
         "name": "W1LL U L13?",
@@ -1695,6 +1695,22 @@
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -1729,20 +1745,20 @@
       "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
+      "added_at": "2024-06-28 18:42:06",
       "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 233513,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2025-05-09 04:12:41",
@@ -1763,22 +1779,6 @@
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
-    },
-    {
-      "added_at": "2024-06-28 18:42:06",
-      "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -1811,6 +1811,22 @@
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2024-06-21 07:44:39",
+      "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
       "added_at": "2026-04-17 06:06:32",
@@ -1847,22 +1863,6 @@
       "duration_ms": 220222,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
-    },
-    {
-      "added_at": "2024-06-21 07:44:39",
-      "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -1933,6 +1933,22 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "Cumulus / Memory",
+        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 407765,
+      "name": "Cumulus / Memory",
+      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+    },
+    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "All American F\u2b50\ufe0fckBoy",
@@ -1953,20 +1969,24 @@
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
+      "added_at": "2025-02-07 08:30:49",
       "album": {
-        "name": "Cumulus / Memory",
-        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 407765,
-      "name": "Cumulus / Memory",
-      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+      "duration_ms": 184227,
+      "name": "LUV IN DA 6 (with Smino)",
+      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -1999,26 +2019,6 @@
       "duration_ms": 177440,
       "name": "Pluto Baby",
       "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
-    },
-    {
-      "added_at": "2025-02-07 08:30:49",
-      "album": {
-        "name": "WONDERLOVE",
-        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 184227,
-      "name": "LUV IN DA 6 (with Smino)",
-      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
       "added_at": "2024-06-07 12:28:44",
@@ -2121,22 +2121,6 @@
       "url": "https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67"
     },
     {
-      "added_at": "2024-07-26 09:18:29",
-      "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "SCREAM MY NAME",
-      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -2177,6 +2161,22 @@
       "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
     },
     {
+      "added_at": "2024-07-26 09:18:29",
+      "album": {
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Petty Pete",
@@ -2207,22 +2207,6 @@
       "duration_ms": 160727,
       "name": "Closer Than Close",
       "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2259,6 +2243,22 @@
       "duration_ms": 194823,
       "name": "THE LAST TIME",
       "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -2325,22 +2325,6 @@
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
     },
     {
-      "added_at": "2026-03-13 08:17:11",
-      "album": {
-        "name": "I Do, I Do",
-        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "I Do, I Do",
-      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
-    },
-    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "Satellite Business 2.0",
@@ -2359,6 +2343,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2026-03-13 08:17:11",
+      "album": {
+        "name": "I Do, I Do",
+        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 135893,
+      "name": "I Do, I Do",
+      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -2493,6 +2493,22 @@
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
+      "added_at": "2024-06-14 07:30:32",
+      "album": {
+        "name": "Cruzafied",
+        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
+    },
+    {
       "added_at": "2025-11-07 07:39:57",
       "album": {
         "name": "Beck n Call",
@@ -2511,22 +2527,6 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Cruzafied",
-        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     },
     {
       "added_at": "2024-06-14 07:30:32",

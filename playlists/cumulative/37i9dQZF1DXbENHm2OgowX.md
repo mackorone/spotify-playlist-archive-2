@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-224 songs - 16 hr 47 min
+225 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 | 2025-09-05 |  |
 | [for us](https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN) | [findnothing](https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B), [hide waldo](https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH), [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P) | [if things were different](https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr) | 1:38 | 2026-05-15 |  |
 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-12-12 |  |
-| [forgiveness](https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih) | [forgiveness](https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq) | 2:08 | 2026-05-15 |  |
+| [forgiveness](https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih) | [forgiveness](https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq) | 2:08 | 2026-05-15 | 2026-06-05 |
 | [From a Convenient Grass](https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Importance of Birds](https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9) | 3:39 | 2025-11-06 |  |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-08-29 |  |
 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 | 2025-06-05 |  |
@@ -113,6 +113,7 @@
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-09 | 2023-01-10 |
 | [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 | 2025-06-20 |  |
 | [Kaiten](https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kaiten](https://open.spotify.com/album/2witCrY38mr4JAfMSDKkty) | 2:48 | 2024-05-28 | 2024-12-13 |
+| [let me climb the stars](https://open.spotify.com/track/3AgJcBWoRTnmtJ2JUSmUPj) | [lyrλmbient](https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV) | [let me climb the stars](https://open.spotify.com/album/0bzc8E4lLiJU37aUmUyUtd) | 2:37 | 2026-05-15 |  |
 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 | 2022-11-09 | 2024-04-19 |
 | [Lie Beneath the Stars](https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm) | 6:29 | 2022-02-25 | 2022-07-29 |
 | [Light Bed \(Circle 51\)](https://open.spotify.com/track/4qnsORGXJJzD5bw21ec6ck) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Light Bed \(Circle 51\)](https://open.spotify.com/album/1RmzyazHty7pPURWu2CFir) | 4:35 | 2025-03-14 |  |

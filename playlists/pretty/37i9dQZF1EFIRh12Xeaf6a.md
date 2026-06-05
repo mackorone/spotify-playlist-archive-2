@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,349 likes - 287 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,348 likes - 287 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 181 | [At This Time In My Life](https://open.spotify.com/track/3jlw35W5AE8MLHCfMgJOkX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:49 |
 | 182 | [I've Got Bonnie](https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Essential Bobby Rydell](https://open.spotify.com/album/7vRQk7uoLNZncVFT2qqG0m) | 2:27 |
 | 183 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 |
-| 184 | [Fantasy End](https://open.spotify.com/track/5uGXIo7M8pfNuLjqFkfG2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:25 |
-| 185 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 184 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 185 | [Fantasy End](https://open.spotify.com/track/5uGXIo7M8pfNuLjqFkfG2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:25 |
 | 186 | [Goin' Wild \(Original Mix\)](https://open.spotify.com/track/1VQzaPmsKdHyr3M7Ic0YQn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Right Girl](https://open.spotify.com/album/2K2xlq1o2uG1RIQcy28tAp) | 2:26 |
 | 187 | [We Are All In This Together](https://open.spotify.com/track/2Ju7lUr2tZ5HK6oxiQXwlU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:02 |
 | 188 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
@@ -272,7 +272,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 262 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
 | 263 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 264 | [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 |
-| 265 | [Echoes](https://open.spotify.com/track/4sG208ZylYAV8cgz1xhcB5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Melodies for Young Lovers](https://open.spotify.com/album/5FxoAaAW1ML9DcNHSY8FaW) | 2:48 |
+| 265 | [Echoes](https://open.spotify.com/track/0RttYH3AC8qejIH63svpoC) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Dreaming In Color](https://open.spotify.com/album/4VhgYmYwX9pu6S1O3IDEqA) | 2:48 |
 | 266 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
 | 267 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
 | 268 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 286 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 287 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcTQ5gAAAADVxQ9X9Im3bFUKoubdIKLc`
+Snapshot ID: `AcTWhgAAAACbpRHJIzlGxQ6WP0m8pJV0`

@@ -2,9 +2,9 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : Naïka
+> La BO officielle de l'été 2026 🌞 Photo : Aya Nakamura x La Rvfleuze
 
-445 songs - 22 hr 22 min
+446 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Boucan \(feat\. Franglish\)](https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Boucan \(feat\. Franglish\)](https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r) | 2:51 | 2024-07-15 | 2025-05-17 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-09-07 | 2023-03-07 |
 | [Break Your Heart](https://open.spotify.com/track/1wrVWI9VExFCUFl8c4cWKI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Break Your Heart](https://open.spotify.com/album/7kQqrcgoDVxpgEPnDXpTVh) | 3:08 | 2025-05-16 | 2026-04-04 |
-| [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-05-07 |  |
+| [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-05-07 | 2026-06-05 |
 | [Butterfly](https://open.spotify.com/track/6Ncd71fbUwqLo5N9FCVR8z) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [OK KO](https://open.spotify.com/album/3W7ssPZxdz92hFHir6g8IT) | 3:43 | 2025-07-24 | 2026-04-04 |
 | [C'est carré le S](https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 3:21 | 2023-09-05 | 2024-04-05 |
 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-05-19 | 2023-12-10 |
@@ -308,6 +308,7 @@
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-05-08 | 2026-04-04 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-22 | 2026-04-04 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-24 | 2025-06-20 |
+| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-04 |  |
 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 | 2026-05-07 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-16 | 2025-06-06 |
 | [Players \- Tokischa Remix](https://open.spotify.com/track/3CiqiUV5zVJ2f80qHMyAKZ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Players \(Tokischa Remix\)](https://open.spotify.com/album/0ifEUZF2u0CAeQOtpQIBVx) | 2:24 | 2023-04-02 | 2023-04-07 |

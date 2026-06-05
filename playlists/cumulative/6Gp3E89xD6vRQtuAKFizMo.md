@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-563 songs - 1 day 2 hr 53 min
+564 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 | 2025-04-27 |
 | [Set Me Free](https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Set Me Free](https://open.spotify.com/album/2IZk3TgT9Q6T5oXkbN6Yn2) | 2:29 | 2025-08-01 |  |
+| [Set You Free](https://open.spotify.com/track/2fPcYmdrc3xu7Z16WrH9Mj) | [Axel Knox](https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm) | [Set You Free](https://open.spotify.com/album/16p1REJdPPjQYLpduJsvOc) | 3:12 | 2026-06-05 |  |
 | [Shake That](https://open.spotify.com/track/0cTYUYY7eLjfVAH6pxmfWm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Get Down / Shake That](https://open.spotify.com/album/5fczgOy0aMutPK9HOM8m5r) | 2:06 | 2025-10-10 |  |
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 | 2025-04-27 |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 | 2025-04-27 |

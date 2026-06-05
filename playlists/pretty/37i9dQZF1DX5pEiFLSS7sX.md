@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,182 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,204 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 66 | [Forgiveness](https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f) | [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Forgiveness](https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz) | 5:12 |
 | 67 | [Wonder of Our God](https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Wonder of Our God](https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC) | 6:02 |
 | 68 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
-| 69 | [Lean Back \(Live\)](https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Dion Davis](https://open.spotify.com/artist/14jNstS0l1VyQ8S5zfCYLr) | [Kingdom Come \(Live\)](https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ) | 6:53 |
-| 70 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
+| 69 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
+| 70 | [Lean Back \(Live\)](https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Dion Davis](https://open.spotify.com/artist/14jNstS0l1VyQ8S5zfCYLr) | [Kingdom Come \(Live\)](https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ) | 6:53 |
 | 71 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 72 | [Your Glory / Nothing But The Blood \- Live](https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 8:57 |
 | 73 | [None But Jesus \- Live](https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 5:29 |

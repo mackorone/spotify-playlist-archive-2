@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Bresh sulla cover della playlist più grande in Italia 🔥
+> Ultimo sulla cover della playlist più grande in Italia 🔥
 
 343 songs - 17 hr 55 min
 

@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Fredo
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Pozer
 
-2,330 songs - 4 day 18 hr 52 min
+2,331 songs - 4 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Cerberus \(feat\. K Trap x Loski\)](https://open.spotify.com/track/0XUP048w4VaGp7SOeDHfKs) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [City Of God](https://open.spotify.com/album/1iTe0WOidFXuSNpfhWX4lT) | 2:52 | 2021-08-20 | 2021-10-01 |
 | [CHAKRa](https://open.spotify.com/track/0X8wuklQTi8fVrdeNAj6Au) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [YaTOO + CHAKRa](https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy) | 2:15 | 2024-08-22 | 2024-10-18 |
 | [Champagne Problems \(Remix\)](https://open.spotify.com/track/2okQeCCpMsrhZNC7eLoBn2) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Champagne Problems \(Remix\)](https://open.spotify.com/album/7Ccdml4YmOXbB4slYOpyGa) | 2:37 | 2023-03-08 | 2023-03-09 |
-| [CHAMPIONSHIP](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [CHAMPIONSHIP](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 | 2026-01-23 |  |
+| [CHAMPIONSHIP](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [CHAMPIONSHIP](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 | 2026-01-23 | 2026-06-05 |
 | [CHANGE](https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CHANGE](https://open.spotify.com/album/5Gwn0C6YaMhqOMIycr43H4) | 2:39 | 2026-04-02 |  |
 | [Change](https://open.spotify.com/track/6Dr6f20AZfsGZoaSucRM7m) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Change](https://open.spotify.com/album/78lL6tJbAgvIHP2plIvkVM) | 2:32 | 2021-10-09 | 2021-10-30 |
 | [Changed](https://open.spotify.com/track/3fXz9J05CLXsJtsUzWkpg7) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [DNA](https://open.spotify.com/album/3uzHRsdKQeAsINaS2RISBF) | 3:45 | 2020-11-03 | 2020-11-23 |
@@ -1710,6 +1710,7 @@
 | [Real One](https://open.spotify.com/track/0U5cs0T2m8bbWMi9YhjCbC) | [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Real One](https://open.spotify.com/album/1g1MgIqhHHmtGGhrP1xsCr) | 2:31 | 2022-04-14 | 2022-05-14 |
 | [Real One](https://open.spotify.com/track/1j1v0op0jjsrhCY4pRcQbD) | [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Causing A Scene](https://open.spotify.com/album/5IKESqNv46HD7D4cW0Jm5J) | 2:31 | 2023-03-08 | 2023-03-09 |
 | [Real Rap 1](https://open.spotify.com/track/60imHRZdX6h0aDOZKDUzCq) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Real Rap](https://open.spotify.com/album/7j2wJrb5K66O4zaGGxubpK) | 2:50 | 2024-04-11 | 2024-05-11 |
+| [REALA CHICK](https://open.spotify.com/track/7JWrr0FtcAe535GfpQaCfP) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [REALA CHICK](https://open.spotify.com/album/0ZnVuKV3KctWLr4qJspl3c) | 2:30 | 2026-06-04 |  |
 | [Realist \(feat\. Nafe Smallz and Fundz\)](https://open.spotify.com/track/5zBIDBgvsFuRQzuaMpQrYV) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Fundz](https://open.spotify.com/artist/1sbdvBsWSyPAFkq6LU83T8) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:41 | 2020-08-30 | 2020-10-16 |
 | [Realist Cuz](https://open.spotify.com/track/0vSMk9nbeXMGEO6IQtR0fS) | [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ) | [Realist Cuz](https://open.spotify.com/album/3Iy8Y1SnUBPmOSz6yVf3yK) | 3:16 | 2020-10-16 | 2020-11-03 |
 | [Really](https://open.spotify.com/track/4JWlEcJh01me0EWhbtnkD8) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [J Boy](https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb) | [Really](https://open.spotify.com/album/21C2sBWDs7k0vy4UZcTTWj) | 2:42 | 2021-09-25 | 2022-01-08 |

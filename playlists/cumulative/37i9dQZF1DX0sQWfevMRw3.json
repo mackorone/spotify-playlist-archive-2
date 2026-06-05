@@ -4737,6 +4737,36 @@
     },
     {
       "album": {
+        "name": "DADDY",
+        "url": "https://open.spotify.com/album/44yMCGhGMoH47xHHI8lHSx"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        },
+        {
+          "name": "NORDB\u00d8YZ",
+          "url": "https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y"
+        },
+        {
+          "name": "UTEN RESEPT",
+          "url": "https://open.spotify.com/artist/3qfWoIRXkdrEwnBi1ssRrh"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/4HNN9xsjKX53dou024ge2c"
+    },
+    {
+      "album": {
         "name": "DALAH\u00c4ST",
         "url": "https://open.spotify.com/album/5WjZg92rq4cMLVuSlZ0bMD"
       },
@@ -10858,6 +10888,32 @@
       "duration_ms": 139200,
       "name": "FYLLEFEST",
       "url": "https://open.spotify.com/track/6HOBsPvW5EsxzwmARQyIwl"
+    },
+    {
+      "album": {
+        "name": "Fyllegubbe",
+        "url": "https://open.spotify.com/album/1J0hdMLzeBmrtSmWji8T9w"
+      },
+      "artists": [
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        },
+        {
+          "name": "Mojnz",
+          "url": "https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161120,
+      "name": "Fyllegubbe",
+      "url": "https://open.spotify.com/track/5teJ0xoeZR3uMbjjw6pWwl"
     },
     {
       "album": {

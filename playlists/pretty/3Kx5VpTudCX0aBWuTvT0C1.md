@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain](/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3Kx5VpTudCX0aBWuTvT0C1)
 
-### [Pop Rock \| ≠ ](https://open.spotify.com/playlist/3Kx5VpTudCX0aBWuTvT0C1)
+### [🎙️ Pop Rock \| ≠ ](https://open.spotify.com/playlist/3Kx5VpTudCX0aBWuTvT0C1)
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 66 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 |
 | 67 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 |
 
-Snapshot ID: `AAACmqJgu0bOplDymbTaPgw0bE2qvxGe`
+Snapshot ID: `AAACm7udaxYKuXYmdPNOOHeREO0twoDh`

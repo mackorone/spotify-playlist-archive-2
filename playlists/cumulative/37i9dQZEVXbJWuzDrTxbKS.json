@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -10602,7 +10602,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 246960,
       "name": "Dancing in My Daydream",
       "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
@@ -13814,6 +13814,24 @@
       "duration_ms": 167213,
       "name": "Dz\u012bvot Kaifs",
       "url": "https://open.spotify.com/track/1xVDRCgA3RiMW5qvjj0wV3"
+    },
+    {
+      "album": {
+        "name": "D\u0101rznieks",
+        "url": "https://open.spotify.com/album/2IGE1al8pqRsgwttNFcL4E"
+      },
+      "artists": [
+        {
+          "name": "Viktors Buntovskis",
+          "url": "https://open.spotify.com/artist/3JqBTn5CDovFvAUSPawKBt"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "D\u0101rznieks",
+      "url": "https://open.spotify.com/track/2O200TTEi6VADZCOaQEoj9"
     },
     {
       "album": {
@@ -18912,7 +18930,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 123924,
       "name": "Gumbody",
       "url": "https://open.spotify.com/track/229Q8waMW3Ng5BZlPtDL3S"
@@ -40772,7 +40790,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -55826,7 +55844,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

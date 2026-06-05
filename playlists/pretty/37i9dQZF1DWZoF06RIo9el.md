@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,674 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,576 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 8 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 |
 | 9 | [Besos Chiquitos](https://open.spotify.com/track/4HJjTChqM6i1WdP4Wa6NXw) | [Fabio Duque](https://open.spotify.com/artist/12N3OoV3Av52c6anEEf1ab) | [Besos Chiquitos](https://open.spotify.com/album/3MidSY1JxMiMoaDk24pCuq) | 2:22 |
 | 10 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
-| 11 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 |
-| 12 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
+| 11 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
+| 12 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 |
 | 13 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 |
 | 14 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
 | 15 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 36 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 |
 | 37 | [Bingo](https://open.spotify.com/track/0Uyd7DOBuZZ1StPj3LVuPi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bingo](https://open.spotify.com/album/2V8codG8lD0YA9mHSZBmbJ) | 2:35 |
 | 38 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 |
-| 39 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
-| 40 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 |
+| 39 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 |
+| 40 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
 | 41 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
 | 42 | [I N T E N S I D A D](https://open.spotify.com/track/3sN6rhycsWyXJOQHps4K1Z) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [YA NO ME IMPORTA SI NADIE ME ESCUCHA](https://open.spotify.com/album/1HTxWm0WlxGWyOAhQWvLGg) | 2:46 |
 | 43 | [Hijos de la Tierra](https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Hijos de la Tierra](https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE) | 3:02 |

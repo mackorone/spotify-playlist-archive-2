@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,030 songs - 2 day 6 hr 52 min
+1,032 songs - 2 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 | 2024-03-21 | 2025-08-13 |
 | [LIGHTS DOWN LOW \(feat\. Sly Jr.\)](https://open.spotify.com/track/72clwH22fwZF7utiFGJ9Ho) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Sly Jr.](https://open.spotify.com/artist/4FUA8iAbHSy5nenK5nQzjB) | [LIGHTS DOWN LOW \(feat\. Sly Jr.\)](https://open.spotify.com/album/4ECs1lxBA9U5qbZdZX7a5e) | 3:14 | 2024-01-05 | 2025-08-13 |
 | [Lights Get Low](https://open.spotify.com/track/4IvxeChJXUMW9BzHRW6wei) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag), [Menningmann](https://open.spotify.com/artist/3zsgcKe2WNIWcF5NynhnWR) | [Lights Get Low](https://open.spotify.com/album/0fbUfdRIqVoO3n0g6ttFEu) | 2:47 | 2024-09-19 | 2025-08-13 |
+| [Like Me Better](https://open.spotify.com/track/4tOYk3SBI6mvxDcmp2QdZz) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Memory Card \(June 2026\)](https://open.spotify.com/album/19tfJ0TQURO6qVOKEFpejJ) | 3:17 | 2026-06-04 |  |
 | [Like Sunshine](https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Like Sunshine](https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1) | 2:43 | 2024-09-12 | 2025-08-13 |
 | [LIKE THIS](https://open.spotify.com/track/4CIKj9yEEprFLgRgAX51lZ) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk), [Jeanne Taylor](https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR) | [LIKE THIS](https://open.spotify.com/album/2GETo53JMvDGPBZGqThbSN) | 2:15 | 2024-03-14 | 2024-04-26 |
 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 | 2023-06-15 | 2024-01-06 |
@@ -841,6 +842,7 @@
 | [Sunshine \- Edit](https://open.spotify.com/track/6DF1vTNnA3G4GlNxmVT4wT) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sunshine](https://open.spotify.com/album/2nxCMCSW8cHQD1c7ZahGE1) | 2:43 | 2025-04-03 |  |
 | [Super Soaker](https://open.spotify.com/track/2gunNoDe0oRQDwfMY0dtLn) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Super Soaker](https://open.spotify.com/album/0AVmT76DrD5hTIWHNvE7lO) | 2:34 | 2025-02-27 |  |
 | [SWEET LOVIN](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [SWEET LOVIN](https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR) | 3:08 | 2025-03-20 |  |
+| [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 | 2026-06-04 |  |
 | [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 | 2026-03-26 |  |
 | [Sweet Release](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sweet Release](https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO) | 3:46 | 2024-11-28 | 2025-08-13 |
 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 | 2024-01-06 |

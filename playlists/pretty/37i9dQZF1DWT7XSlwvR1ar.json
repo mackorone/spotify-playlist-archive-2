@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118586,
+  "num_followers": 2118583,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Paranoid Cocoon",
         "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 276333,
       "name": "Blood Red Sentimental Blues",
       "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 217983,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+      "duration_ms": 321431,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 321431,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Long Limbs",
-        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 196885,
-      "name": "Long Limbs",
-      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Calm Yourself Down",
         "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 195803,
       "name": "Calm Yourself Down",
       "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Long Limbs",
+        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "Long Limbs",
+      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "My Own",
-        "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 210608,
-      "name": "My Own",
-      "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/07GDCELlGH4RDhWsHrTuGb"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 211732,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0hr6vFOusAJgPCBgIBJNDH"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "My Own",
+        "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 210608,
+      "name": "My Own",
+      "url": "https://open.spotify.com/track/7pQMGkL6LImxSxHHuqgvpe"
     },
     {
       "added_at": "2026-05-01 04:01:39",

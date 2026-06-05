@@ -88,10 +88,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 186733,
       "name": "Amor a Primera",
       "url": "https://open.spotify.com/track/43X3Wbw98bSESjtMKT2Nj7"
+    },
+    {
+      "album": {
+        "name": "Soy HUMBE",
+        "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Amor a Primera",
+      "url": "https://open.spotify.com/track/5ZO9Tl5GZwFmOFaa5ITBuX"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 241038,
       "name": "bien hecho",
       "url": "https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M"
@@ -312,6 +330,24 @@
       "duration_ms": 241038,
       "name": "bien hecho",
       "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
+    },
+    {
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/7ekh255Qq8kxNEzIHM8ZpT"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/5US5sInPRuO2KMK3IIwcsr"
     },
     {
       "album": {
@@ -352,6 +388,24 @@
     {
       "album": {
         "name": "Soy HUMBE",
+        "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
+    },
+    {
+      "album": {
+        "name": "Soy HUMBE",
         "url": "https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM"
       },
       "artists": [
@@ -362,7 +416,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/2k4MjD7I4ddpwwZKxHrONk"
@@ -918,10 +972,28 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 148266,
       "name": "novatos",
       "url": "https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe"
+    },
+    {
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/7ekh255Qq8kxNEzIHM8ZpT"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148266,
+      "name": "novatos",
+      "url": "https://open.spotify.com/track/7xXhQr9dq3jz67i2kNQ8WT"
     },
     {
       "album": {

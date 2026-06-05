@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Phantogram, Labyrinth Ear, Cocteau Twins and more
+> With Pastel Ghost, Phantogram, Mareux and more
 
 1,851 songs - 4 day 17 hr 58 min
 

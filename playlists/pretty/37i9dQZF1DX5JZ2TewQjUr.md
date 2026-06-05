@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,355 likes - 105 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,361 likes - 105 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 94 | [煩惱吃掉白日夢](https://open.spotify.com/track/05FRKsVTxx4oigV33g1dFg) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [煩惱吃掉白日夢](https://open.spotify.com/album/61GZLTgxm4d9KDkDJuxUve) | 3:50 |
 | 95 | [Dear Frosty](https://open.spotify.com/track/1zHgBwJ9tJXIewPPv8qved) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Dear Frosty](https://open.spotify.com/album/0ifg9N6mckISiaB31ppOtb) | 2:27 |
 | 96 | [Jingle Bop](https://open.spotify.com/track/1gGmwi5ZgsPEBJHTjiFBoL) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [Jingle Bop](https://open.spotify.com/album/5UgYyVKZ040MXyUjLgQRVi) | 2:57 |
-| 97 | [小豆島 Shodoshima](https://open.spotify.com/track/00c5ijgAuEUHOgzQi0wtW3) | [Prune Deer](https://open.spotify.com/artist/0V6yRXUk7qTPizan3VkUPU) | [小豆島 Shodoshima](https://open.spotify.com/album/2hsBByXVpNBHca9L8Lc5gL) | 5:18 |
+| 97 | [小豆島 Shodoshima](https://open.spotify.com/track/00c5ijgAuEUHOgzQi0wtW3) | [Prune Deer](https://open.spotify.com/artist/0V6yRXUk7qTPizan3VkUPU) | [小豆島 Shodoshima](https://open.spotify.com/album/2hsBByXVpNBHca9L8Lc5gL) | 5:19 |
 | 98 | [有時候 Sometimes](https://open.spotify.com/track/5JCRM4tFTAVqWDyChuzXoJ) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [有時候 Sometimes](https://open.spotify.com/album/4cDnYwcPI1Eq1iElWPBidy) | 4:11 |
 | 99 | [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 |
 | 100 | [Artemis](https://open.spotify.com/track/5QGBYinMzaEQzdGLEkt2VI) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Artemis \(阿提密斯\)](https://open.spotify.com/album/1rKGG0v64Kl2OBHRoDvuG6) | 2:55 |

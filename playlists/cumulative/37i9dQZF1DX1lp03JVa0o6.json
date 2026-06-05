@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Prospa, Cloonee",
+  "description": "Today's biggest dance hits! Cover: Tobiahs",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "BAD BEHAVIOUR",
+        "url": "https://open.spotify.com/album/61due0SVoUMBxlYzDd4kpr"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "BAD BEHAVIOUR",
+      "url": "https://open.spotify.com/track/0dTmdNvehhnQKXtafbGmbm"
+    },
+    {
+      "album": {
         "name": "The Afters",
         "url": "https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp"
       },
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 222608,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
@@ -9519,6 +9537,28 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
+    },
+    {
+      "album": {
         "name": "I Need A Dollar (kai.wav x Aloe Blacc)",
         "url": "https://open.spotify.com/album/2gujJ9LdCJ0mCKRfvUbuLk"
       },
@@ -12402,7 +12442,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 172000,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5sRJrpUvX7CZla5C0lQ1Kj"
@@ -13645,6 +13685,28 @@
     },
     {
       "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+    },
+    {
+      "album": {
         "name": "Hyperbolic",
         "url": "https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt"
       },
@@ -13744,6 +13806,28 @@
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "album": {
+        "name": "LIVE FAST",
+        "url": "https://open.spotify.com/album/35J4iFfqzJ8qOqMj2bGllH"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Now That I'm Falling",
+      "url": "https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH"
     },
     {
       "album": {
@@ -14830,7 +14914,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 239133,
       "name": "Plush",
       "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
@@ -17893,6 +17977,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157879,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF"
+    },
+    {
+      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -18146,7 +18248,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163661,
       "name": "Stuck In A Loop",
       "url": "https://open.spotify.com/track/7wKqk5dEyAl3IMG0JWI5i4"

@@ -1,12 +1,12 @@
 {
   "description": "Wait, have you heard of the Beaches?",
-  "num_followers": 1549128,
+  "num_followers": 1548987,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlYuSf7C6GWKcBorLGzYu/y70Cb",
+  "snapshot_id": "AAAAADhw5y2QAwB9/BYRtSm1voyvmR0Z",
   "tracks": [
     {
       "added_at": "2026-05-22 04:55:57",
@@ -23,6 +23,22 @@
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2026-06-05 04:06:16",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-05-22 04:55:57",
@@ -55,6 +71,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-06-05 04:06:16",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/2EDUEYGICz8XYZaH18yZOb"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
     },
     {
       "added_at": "2026-05-29 04:50:19",
@@ -119,6 +151,22 @@
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "added_at": "2026-06-05 04:06:16",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
     },
     {
       "added_at": "2026-05-29 04:50:19",
@@ -1429,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5kePuQb32DnG04KanvphDW"
     },
     {
-      "added_at": "2026-02-13 05:00:46",
-      "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Good Girl",
@@ -1541,22 +1573,6 @@
       "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
     },
     {
-      "added_at": "2026-01-16 05:00:42",
-      "album": {
-        "name": "Wish I Didn't",
-        "url": "https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Wish I Didn't",
-      "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
-    },
-    {
       "added_at": "2026-01-23 05:34:57",
       "album": {
         "name": "PAPERCUT",
@@ -1571,22 +1587,6 @@
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2026-01-09 05:02:38",
-      "album": {
-        "name": "Dance The Pain Away",
-        "url": "https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Dance The Pain Away",
-      "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
     },
     {
       "added_at": "2025-09-26 04:00:24",

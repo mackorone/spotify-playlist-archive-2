@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,324 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,333 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 12 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 13 | [THE VILLE](https://open.spotify.com/track/1hFPmWuwukTlzvJ8CtQ9Mx) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [JADA](https://open.spotify.com/artist/0Xljt7s05h7xt9edRtZLmx), [S14H](https://open.spotify.com/artist/1oeCKtSTQzEUklVw3VmGkC) | [THE ZENITH](https://open.spotify.com/album/28H8oQsSxrn9rS3p0U4YG3) | 3:25 |
 | 14 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
-| 15 | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October \(feat\. G Herbo\)](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
+| 15 | [2010 \- Mr\. October](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
 | 16 | [Could Be Worse](https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Could Be Worse](https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9) | 2:20 |
 | 17 | [Dynasty Freestyle](https://open.spotify.com/track/4OvbtR4FzPqgkojTCLRZuU) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Dynasty Freestyle](https://open.spotify.com/album/76RxLPm5WsLO9z1hS6Lvt5) | 2:30 |
 | 18 | [WINTER BEATER](https://open.spotify.com/track/2QQm9ZwjqyQezU1z6PZNr8) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa) | [WINTER BEATER](https://open.spotify.com/album/6odMkevTIEFWnDypTMJsq7) | 2:13 |

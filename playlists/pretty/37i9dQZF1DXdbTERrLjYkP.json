@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Hailey Picardi",
-  "num_followers": 219318,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Lexi Jayde",
+  "num_followers": 219323,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeRqfuwwrkPfYSM6aQmZeuF1tPz",
+  "snapshot_id": "AAAAAJLtJXr9imat7VACks9tBu99Zdua",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:01:05",
+      "album": {
+        "name": "you're still mine",
+        "url": "https://open.spotify.com/album/1Yi6MsmowUiIXffPDCsK9D"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "you're still mine",
+      "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
+    },
+    {
+      "added_at": "2026-06-05 04:01:05",
+      "album": {
+        "name": "Satisfied Girl",
+        "url": "https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 211184,
+      "name": "Undiscovered",
+      "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
+    },
+    {
+      "added_at": "2026-06-05 04:01:05",
+      "album": {
+        "name": "hate 2 hate u",
+        "url": "https://open.spotify.com/album/322qPfO5WjnNYmgpDcMtes"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "hate 2 hate u",
+      "url": "https://open.spotify.com/track/2xkRBMlUc4Hxy1kHFfdrWd"
+    },
+    {
+      "added_at": "2026-06-05 04:01:05",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 180347,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
+    },
     {
       "added_at": "2026-05-29 04:02:57",
       "album": {
@@ -23,22 +87,6 @@
       "duration_ms": 194020,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "17",
-      "url": "https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1"
     },
     {
       "added_at": "2026-05-26 19:15:06",
@@ -1175,54 +1223,6 @@
       "duration_ms": 240472,
       "name": "Young & Green",
       "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"
-    },
-    {
-      "added_at": "2026-01-23 05:20:59",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J"
-      },
-      "artists": [
-        {
-          "name": "Tallulah Argue",
-          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
-    },
-    {
-      "added_at": "2026-01-06 19:25:50",
-      "album": {
-        "name": "All My Songs",
-        "url": "https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "All My Songs",
-      "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
-    },
-    {
-      "added_at": "2026-02-20 04:54:06",
-      "album": {
-        "name": "Basements & Bedrooms",
-        "url": "https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK"
-      },
-      "artists": [
-        {
-          "name": "Addie Costain",
-          "url": "https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p"
-        }
-      ],
-      "duration_ms": 218131,
-      "name": "Basements & Bedrooms",
-      "url": "https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

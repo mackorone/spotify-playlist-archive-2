@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-1,685 songs - 3 day 23 hr 18 min
+1,685 songs - 3 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1308,7 +1308,7 @@
 | [寶貝 \(feat\. Lily\)](https://open.spotify.com/track/0sHhCmkw2kPiptphcn2c3t) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Lily](https://open.spotify.com/artist/4SyOeqnA6bO9xwHJf8pFoR) | [寶貝 \(feat\. Lily\)](https://open.spotify.com/album/3HMRa0x9dlizDUAPyhlvUR) | 2:51 | 2022-11-17 | 2023-03-18 |
 | [對面海](https://open.spotify.com/track/36we7aFSXI4GlOqLqe2VHe) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [黃瑋中](https://open.spotify.com/artist/7koY0czzC0JuxAjubarByG) | [對面海](https://open.spotify.com/album/6AuR7uj5UEMjZlvgZykG7A) | 4:13 | 2023-09-07 | 2023-12-01 |
 | [小調90s](https://open.spotify.com/track/2ynXtmgPZMI3wiAxZjaiRa) | [Denni N](https://open.spotify.com/artist/0yDDyHmNe83A0flHy0CalI) | [小調90s](https://open.spotify.com/album/48AWoXuNFDQeDe5LCW0FP8) | 2:07 | 2022-11-24 | 2023-02-03 |
-| [小豆島 Shodoshima](https://open.spotify.com/track/00c5ijgAuEUHOgzQi0wtW3) | [Prune Deer](https://open.spotify.com/artist/0V6yRXUk7qTPizan3VkUPU) | [小豆島 Shodoshima](https://open.spotify.com/album/2hsBByXVpNBHca9L8Lc5gL) | 5:18 | 2025-12-11 |  |
+| [小豆島 Shodoshima](https://open.spotify.com/track/00c5ijgAuEUHOgzQi0wtW3) | [Prune Deer](https://open.spotify.com/artist/0V6yRXUk7qTPizan3VkUPU) | [小豆島 Shodoshima](https://open.spotify.com/album/2hsBByXVpNBHca9L8Lc5gL) | 5:19 | 2025-12-11 |  |
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 | 2022-07-29 |
 | [少甜](https://open.spotify.com/track/0iDcvBt8SH50PaEc7ZPD5e) | [Lester Lam 藍奕持](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [少甜](https://open.spotify.com/album/14YapR2na4uJRXj5K6ljPK) | 2:43 | 2026-04-23 |  |
 | [尖沙咀P出口](https://open.spotify.com/track/30nrLOtULxN9OoqMtDcFdg) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [尖沙咀P出口](https://open.spotify.com/album/1f49qUyAIJtSb4Zli6Dg0Q) | 3:10 | 2024-03-21 | 2024-11-15 |

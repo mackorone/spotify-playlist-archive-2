@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-535 songs - 1 day 6 hr 21 min
+536 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Un Cielo Azul](https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Un Cielo Azul](https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI) | 2:57 | 2024-10-01 | 2025-06-08 |
 | [un desastre](https://open.spotify.com/track/1yp3NkKI8iQGv5Rs27aS8W) | [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [un desastre](https://open.spotify.com/album/5VDZWoJyx2LhSWK8eqWOmu) | 2:47 | 2026-02-26 | 2026-03-03 |
 | [Un Día De Estos](https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Un Día De Estos](https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL) | 2:29 | 2024-02-08 | 2024-03-05 |
+| [Un día de julio](https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52) | [CABA](https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV) | [Otro perro andaluz \(Cara A\)](https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa) | 2:46 | 2026-05-28 |  |
 | [Un grand amour](https://open.spotify.com/track/3MRCa3omM28c427BVtS99V) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Un grand amour](https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34) | 2:57 | 2024-04-11 | 2024-10-02 |
 | [Una De Vaqueros](https://open.spotify.com/track/20yAkyj81iGMv2T8ho0eCy) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Una De Vaqueros](https://open.spotify.com/album/4rQIECysbPtvjJ5diKhL57) | 3:28 | 2024-03-15 | 2024-03-23 |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-11-11 | 2024-03-18 |

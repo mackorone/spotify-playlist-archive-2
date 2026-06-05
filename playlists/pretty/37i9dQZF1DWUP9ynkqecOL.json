@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 26299,
+  "num_followers": 26304,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 233943,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Soy la lluvia",
         "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 327912,
       "name": "Soy la lluvia",
       "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 233943,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Wal\u00fcng II",
-        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
-      },
-      "artists": [
-        {
-          "name": "El Extravagante",
-          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
-        },
-        {
-          "name": "Camilo Zanetti",
-          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Baile De M\u00e1scaras",
-      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Wal\u00fcng II",
+        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
+      },
+      "artists": [
+        {
+          "name": "El Extravagante",
+          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
+        },
+        {
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Baile De M\u00e1scaras",
+      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+      },
+      "artists": [
+        {
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+        }
+      ],
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Antikuna Anqa",
         "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -883,18 +883,22 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
       },
       "artists": [
         {
           "name": "Naci\u00f3n Ekeko",
           "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 345766,
-      "name": "El Hijo del Altiplano",
-      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -967,22 +971,18 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Como la Cigarra",
-        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
       "artists": [
         {
           "name": "Naci\u00f3n Ekeko",
           "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 249970,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
+      "duration_ms": 345766,
+      "name": "El Hijo del Altiplano",
+      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
     },
     {
       "added_at": "2026-02-13 13:38:17",

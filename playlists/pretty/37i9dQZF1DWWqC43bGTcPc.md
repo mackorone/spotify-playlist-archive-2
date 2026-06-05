@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Gareth.T
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: A\-Lin
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,513 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,528 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 28 | [有我你就幸福](https://open.spotify.com/track/4O2FMLItCsuInv9CIpJLuL) | [Kew 蕎](https://open.spotify.com/artist/4zfI392alaVaMOh5zqyucJ) | [有我你就幸福](https://open.spotify.com/album/7sSeI5w80WrpjKz2u7pyNp) | 3:00 |
 | 29 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
 | 30 | [靠關係](https://open.spotify.com/track/0FnMg583fEr89brx7iss5s) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [靠關係](https://open.spotify.com/album/72p6dLDiWFSwptAt1RZAaS) | 3:54 |
-| 31 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 |
-| 32 | [清清如我 \(影视剧《逐玉》抒情主题曲\)](https://open.spotify.com/track/5efxFEdG46hIOqQm9mZNGH) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:24 |
+| 31 | [Something Went Wrong](https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Something Went Wrong](https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm) | 3:06 |
+| 32 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 |
 | 33 | [親近的陌生人](https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [親近的陌生人](https://open.spotify.com/album/7ep1F80CpaxYlIge0U7Wgv) | 4:13 |
 | 34 | [愛你敢有望](https://open.spotify.com/track/6nPjrcJDxcA3aUYANtXTfc) | [許富凱](https://open.spotify.com/artist/1cfpx67CNTohABdelcfXdL), [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [尪仔物](https://open.spotify.com/album/6Y9O8sgmbLkf7AmtfJ3kps) | 4:24 |
 | 35 | [你沒等我去的舊金山](https://open.spotify.com/track/7xAxAHpkCfd6WG1lpKJFeS) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/5qCkFMavsFt9DbLxjk8snd) | 3:49 |
 | 36 | [你就是我無可替代](https://open.spotify.com/track/1pLWeKd8aTbdRPm7Sysz9L) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [沒有翅膀的人](https://open.spotify.com/album/5XjjlLsxaIo5LsWomSm6st) | 4:14 |
-| 37 | [無神論](https://open.spotify.com/track/0R8fpH0zAdRRSmvY8ohJKM) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [無神論](https://open.spotify.com/album/5hqfckGvrZZpnyeSegMq7Y) | 3:08 |
-| 38 | [愛琴海](https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:34 |
-| 39 | [25歲該知道的事](https://open.spotify.com/track/4bYRsAeQzOsOcDJm9nc9Xl) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [25歲該知道的事](https://open.spotify.com/album/51tGhnCHi3TB6QWroAuRfN) | 3:46 |
-| 40 | [沉默那麼的痛](https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [沉默那麼的痛](https://open.spotify.com/album/2HfDCPG9U0BzOoENaf7aT0) | 3:12 |
-| 41 | [人的這一生](https://open.spotify.com/track/2Jox8DFhnUpJZJWLsVAsAR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人的這一生](https://open.spotify.com/album/15Am8vPv9e0A4z4QzvdmlH) | 4:42 |
-| 42 | [時間之歌 \- 電影《陽光女子合唱團》典藏曲](https://open.spotify.com/track/4L0qcC0VlOaEABSpzK6wWU) | [翁倩玉](https://open.spotify.com/artist/5O9ygFWAMu6K0CFjqcwjZT) | [時間之歌 \(電影《陽光女子合唱團》典藏曲\)](https://open.spotify.com/album/5xJ7VvbvHqF1gW5q6COWD9) | 3:35 |
-| 43 | [有時候我會想要傷害我的朋友](https://open.spotify.com/track/4JpflbcMZxVHo12zw9yxwr) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [有時候我會想要傷害我的朋友](https://open.spotify.com/album/0pqV8Oq5hfSnTtkuJwIaFI) | 4:12 |
-| 44 | [西岸小法咒](https://open.spotify.com/track/3CJXCELQP2I62NN6OgOyvA) | [Bu$Y](https://open.spotify.com/artist/3Q0Nfmn14Htr4eNblqA1gC) | [西岸小法咒](https://open.spotify.com/album/2YrYRpFOdYr3E4oeiVlDHT) | 2:30 |
-| 45 | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/track/2GPH6riPn4RdRTKOJON4jK) | [孫淑媚](https://open.spotify.com/artist/6yURsPRbhzMKvHc0pcNDUf) | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/album/5mtj4myH6kQBJ0y45WPpZp) | 3:41 |
-| 46 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
-| 47 | [我只想唱歌給你聽](https://open.spotify.com/track/7eL41fICdAf6nJN3vf68Lb) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [我只想唱歌給你聽](https://open.spotify.com/album/3nuFurot9aNHFTYMSD3Q5l) | 4:10 |
-| 48 | [寂寞先生 \- 滾石撞樂隊2 \(原唱:曹格\)](https://open.spotify.com/track/3mnfuq9pALDNvh15QZw6m8) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [滾石撞樂隊2 \- 寂寞先生](https://open.spotify.com/album/6i3uZiTnHHSTENjYoaxmox) | 3:22 |
-| 49 | [味道 \- 滾石撞樂隊2 \(原唱:辛曉琪\)](https://open.spotify.com/track/1w0tGjx8KWV7mTSc5I9IwL) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [滾石撞樂隊2 \- 味道](https://open.spotify.com/album/4VvqsY2Ti2IAXl6ns4p08r) | 4:33 |
-| 50 | [主角](https://open.spotify.com/track/12KGNSCmvbTO8sJaDlvf9w) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [主角](https://open.spotify.com/album/2VuSJnmlKfzLH3N4hNSWzY) | 5:00 |
+| 37 | [觀自在](https://open.spotify.com/track/4xE6SWoamipottcrBNA1TQ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [觀自在](https://open.spotify.com/album/7H3Sh1OIqvcgc3Tvl2f6Xg) | 3:37 |
+| 38 | [無神論](https://open.spotify.com/track/0R8fpH0zAdRRSmvY8ohJKM) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [無神論](https://open.spotify.com/album/5hqfckGvrZZpnyeSegMq7Y) | 3:08 |
+| 39 | [愛琴海](https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:34 |
+| 40 | [25歲該知道的事](https://open.spotify.com/track/4bYRsAeQzOsOcDJm9nc9Xl) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [25歲該知道的事](https://open.spotify.com/album/51tGhnCHi3TB6QWroAuRfN) | 3:46 |
+| 41 | [沉默那麼的痛](https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [沉默那麼的痛](https://open.spotify.com/album/2HfDCPG9U0BzOoENaf7aT0) | 3:12 |
+| 42 | [人的這一生](https://open.spotify.com/track/2Jox8DFhnUpJZJWLsVAsAR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人的這一生](https://open.spotify.com/album/15Am8vPv9e0A4z4QzvdmlH) | 4:42 |
+| 43 | [時間之歌 \- 電影《陽光女子合唱團》典藏曲](https://open.spotify.com/track/4L0qcC0VlOaEABSpzK6wWU) | [翁倩玉](https://open.spotify.com/artist/5O9ygFWAMu6K0CFjqcwjZT) | [時間之歌 \(電影《陽光女子合唱團》典藏曲\)](https://open.spotify.com/album/5xJ7VvbvHqF1gW5q6COWD9) | 3:35 |
+| 44 | [有時候我會想要傷害我的朋友](https://open.spotify.com/track/4JpflbcMZxVHo12zw9yxwr) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [有時候我會想要傷害我的朋友](https://open.spotify.com/album/0pqV8Oq5hfSnTtkuJwIaFI) | 4:12 |
+| 45 | [西岸小法咒](https://open.spotify.com/track/3CJXCELQP2I62NN6OgOyvA) | [Bu$Y](https://open.spotify.com/artist/3Q0Nfmn14Htr4eNblqA1gC) | [西岸小法咒](https://open.spotify.com/album/2YrYRpFOdYr3E4oeiVlDHT) | 2:30 |
+| 46 | [我不再想你了](https://open.spotify.com/track/1JKOzEZxRmwOipGu2ySHOW) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe), [小鼠](https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX) | [我不再想你了](https://open.spotify.com/album/7EdaFy5N9gsHgQLwAYHxqy) | 4:29 |
+| 47 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
+| 48 | [我只想唱歌給你聽](https://open.spotify.com/track/7eL41fICdAf6nJN3vf68Lb) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [我只想唱歌給你聽](https://open.spotify.com/album/3nuFurot9aNHFTYMSD3Q5l) | 4:10 |
+| 49 | [寂寞先生 \- 滾石撞樂隊2 \(原唱:曹格\)](https://open.spotify.com/track/3mnfuq9pALDNvh15QZw6m8) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [滾石撞樂隊2 \- 寂寞先生](https://open.spotify.com/album/6i3uZiTnHHSTENjYoaxmox) | 3:22 |
+| 50 | [味道 \- 滾石撞樂隊2 \(原唱:辛曉琪\)](https://open.spotify.com/track/1w0tGjx8KWV7mTSc5I9IwL) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [滾石撞樂隊2 \- 味道](https://open.spotify.com/album/4VvqsY2Ti2IAXl6ns4p08r) | 4:33 |
 
-Snapshot ID: `AAAAAMkraiL2OZZqEzd48wC5vrFojJ6M`
+Snapshot ID: `AAAAAEwhvGYHiUpOaZ5hXm8OaN+G6k9M`

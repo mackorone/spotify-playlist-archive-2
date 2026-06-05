@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Karuppu",
-  "num_followers": 749940,
+  "num_followers": 750002,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABSyIzMZHoGGe97DclpM4K8yvQNM",
+  "snapshot_id": "AAAAACHNofwljDyHmLvasbyvyubb1BJM",
   "tracks": [
     {
       "added_at": "2026-05-25 17:40:24",
@@ -183,6 +183,30 @@
       "duration_ms": 197086,
       "name": "Naanga Naalu Peru",
       "url": "https://open.spotify.com/track/2Q4O7NWY1EmqbHOMLuVbDd"
+    },
+    {
+      "added_at": "2026-06-04 16:32:27",
+      "album": {
+        "name": "Sigma Style (From \"Sigma\") (Tamil)",
+        "url": "https://open.spotify.com/album/1C1AKtI8HRr75WEshOCDsG"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Smile Tupakeys",
+          "url": "https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA"
+        },
+        {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        }
+      ],
+      "duration_ms": 206454,
+      "name": "Sigma Style (From \"Sigma\") (Tamil)",
+      "url": "https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr"
     },
     {
       "added_at": "2026-05-21 07:50:03",
@@ -1699,30 +1723,6 @@
       "duration_ms": 197000,
       "name": "Pretty Baby - Tamil",
       "url": "https://open.spotify.com/track/0feDA4mlh1Zy2ADv0OgGGm"
-    },
-    {
-      "added_at": "2026-04-01 01:06:25",
-      "album": {
-        "name": "Minnal Adikudhadi (From \"Double Occupancy\")",
-        "url": "https://open.spotify.com/album/1mkRU4pZXXaqnlGkZZ70DM"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Swetha Prabakaran",
-          "url": "https://open.spotify.com/artist/5PETiSfBpzFxjaBPfTfJo2"
-        }
-      ],
-      "duration_ms": 243157,
-      "name": "Minnal Adikudhadi (From \"Double Occupancy\")",
-      "url": "https://open.spotify.com/track/6AgQFV65pdL4RhRlikm7Xg"
     },
     {
       "added_at": "2026-03-26 12:19:57",

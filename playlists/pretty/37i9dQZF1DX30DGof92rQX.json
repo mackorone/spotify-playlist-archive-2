@@ -1,13 +1,229 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Sheheryar Rehan",
-  "num_followers": 18825,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
+  "num_followers": 18836,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4t7klKYtWWNlzhcZbrvwfisFUY",
+  "snapshot_id": "AAAAAM1qQLjdtlmd7xBKUUWrQZ8ZmGXj",
   "tracks": [
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Tu Hai Wohi",
+        "url": "https://open.spotify.com/album/5AAyhb4xNYCV97FTVtV0Xl"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "duration_ms": 149599,
+      "name": "Tu Hai Wohi",
+      "url": "https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Husna Di Sarkar",
+        "url": "https://open.spotify.com/album/1VBFZpjy5aZeIpQDnShsi0"
+      },
+      "artists": [
+        {
+          "name": "Roach Killa",
+          "url": "https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS"
+        },
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "duration_ms": 147086,
+      "name": "Husna Di Sarkar",
+      "url": "https://open.spotify.com/track/7C1tMBdoav72OBnAgqE68B"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Guzara",
+        "url": "https://open.spotify.com/album/2c13pvTJsBYxd9LsB7l395"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Guzara",
+      "url": "https://open.spotify.com/track/6KdQqhjbBgexTPtgCkfLbR"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "KHAYAL",
+        "url": "https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr"
+      },
+      "artists": [
+        {
+          "name": "rizvye",
+          "url": "https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "KHAYAL",
+      "url": "https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Tujhe Jaane Diya",
+        "url": "https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F"
+      },
+      "artists": [
+        {
+          "name": "Ad Arfeen Raza",
+          "url": "https://open.spotify.com/artist/579Sxj2PYAATl90RIZjk60"
+        },
+        {
+          "name": "Shazz-E",
+          "url": "https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1"
+        },
+        {
+          "name": "Hibara",
+          "url": "https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Tujhe Jaane Diya",
+      "url": "https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Roye (feat. Hassan Hayat Khan)",
+        "url": "https://open.spotify.com/album/66nRiu0pNSsziZJM6g0XKk"
+      },
+      "artists": [
+        {
+          "name": "Boss Menn",
+          "url": "https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz"
+        },
+        {
+          "name": "Hassan Hayat Khan",
+          "url": "https://open.spotify.com/artist/7pZvI8CG46RY4b7Wbi9I4J"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Roye (feat. Hassan Hayat Khan)",
+      "url": "https://open.spotify.com/track/3gh6DwuQALtWKLaEHqUza9"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "The Night Of Song",
+        "url": "https://open.spotify.com/album/4EdbflXbLHHdr811w4SpfQ"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Sun Yaara",
+      "url": "https://open.spotify.com/track/4ZTvMKH6oNuAFaguKsjrGf"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Chan Mahi",
+        "url": "https://open.spotify.com/album/61ihiXtfySq3pUPpg2jS6O"
+      },
+      "artists": [
+        {
+          "name": "Shokey",
+          "url": "https://open.spotify.com/artist/2wEwBichxhdvnFOMaDzWBf"
+        },
+        {
+          "name": "Sami Amiri",
+          "url": "https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP"
+        },
+        {
+          "name": "Mr Mani",
+          "url": "https://open.spotify.com/artist/7A2DOY8YaO8BWqwwG5vQT8"
+        }
+      ],
+      "duration_ms": 196756,
+      "name": "Chan Mahi",
+      "url": "https://open.spotify.com/track/2ZJrufS0gheRjFtZfkis2I"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "fine shyt",
+        "url": "https://open.spotify.com/album/2NFdPqJ8dMpepcbsfh7xsB"
+      },
+      "artists": [
+        {
+          "name": "Azan Ali",
+          "url": "https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ"
+        },
+        {
+          "name": "Sonny$",
+          "url": "https://open.spotify.com/artist/1I16Q6dCWupPDIdKNsXkOU"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "fine shyt",
+      "url": "https://open.spotify.com/track/2Q1ONyfkjQoRtcBlV6qeJj"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "O Rehnuma",
+        "url": "https://open.spotify.com/album/41ZzXwLvzr5xA61vIv4gTf"
+      },
+      "artists": [
+        {
+          "name": "Musawir Khan",
+          "url": "https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "O Rehnuma",
+      "url": "https://open.spotify.com/track/5k2Tgwg52t5mpHfEGkO9uz"
+    },
+    {
+      "added_at": "2026-06-05 03:00:12",
+      "album": {
+        "name": "Thodi Dair",
+        "url": "https://open.spotify.com/album/41YV8uHb5IKbsjunOSHU6R"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Thodi Dair",
+      "url": "https://open.spotify.com/track/1qh4bOSr4J2l6uExOMLBK7"
+    },
     {
       "added_at": "2026-05-22 10:01:19",
       "album": {
@@ -1183,30 +1399,6 @@
     {
       "added_at": "2026-05-22 10:01:19",
       "album": {
-        "name": "Chann Taara",
-        "url": "https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp"
-      },
-      "artists": [
-        {
-          "name": "Ali Raza",
-          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
-        },
-        {
-          "name": "Kinza Hashmi",
-          "url": "https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR"
-        },
-        {
-          "name": "Ali & Shjr",
-          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Chann Taara",
-      "url": "https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
         "name": "Kiwe Mukhre",
         "url": "https://open.spotify.com/album/1oCccH0SpOsF055q3mzsXy"
       },
@@ -1371,34 +1563,6 @@
     {
       "added_at": "2026-05-22 10:01:19",
       "album": {
-        "name": "Hairan Amanam (feat. Melvin Arthur)",
-        "url": "https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t"
-      },
-      "artists": [
-        {
-          "name": "Humnava",
-          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
-        },
-        {
-          "name": "Rizwan Abbas",
-          "url": "https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0"
-        },
-        {
-          "name": "Maheen Sattar",
-          "url": "https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW"
-        },
-        {
-          "name": "Melvin Arthur",
-          "url": "https://open.spotify.com/artist/3qpVwf0Xry98xc9K3hZf00"
-        }
-      ],
-      "duration_ms": 309945,
-      "name": "Hairan Amanam (feat. Melvin Arthur)",
-      "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
         "name": "Dil Sukoon",
         "url": "https://open.spotify.com/album/152qf6NRUG3O7TPbWT5qWI"
       },
@@ -1455,390 +1619,6 @@
       "duration_ms": 191418,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/3j34rJMliX9YYZlFYWX1rd"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Kya Yehi Pyar Hai",
-        "url": "https://open.spotify.com/album/4lALVLwgcZBgmCkIyvf5vX"
-      },
-      "artists": [
-        {
-          "name": "Faisal Kapadia",
-          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Kya Yehi Pyar Hai",
-      "url": "https://open.spotify.com/track/24eFHEdqC713HsVSxtk0Bu"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Neendran",
-        "url": "https://open.spotify.com/album/7CbyGQDGfDNyI5d9qaqRLI"
-      },
-      "artists": [
-        {
-          "name": "Rabi Ahmed",
-          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
-        },
-        {
-          "name": "Syed Hamza",
-          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
-        },
-        {
-          "name": "Aalehaider Gillani",
-          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
-        }
-      ],
-      "duration_ms": 154698,
-      "name": "Neendran",
-      "url": "https://open.spotify.com/track/3ZvTgtNtnLyGpXRWOnT6mV"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "birds in the trap",
-        "url": "https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y"
-      },
-      "artists": [
-        {
-          "name": "AliSoomroMusic",
-          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
-        },
-        {
-          "name": "Afusic",
-          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
-        },
-        {
-          "name": "Ali Raza",
-          "url": "https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW"
-        },
-        {
-          "name": "Azan Ali",
-          "url": "https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ"
-        }
-      ],
-      "duration_ms": 194699,
-      "name": "Yung Money",
-      "url": "https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Habibi (feat. Zoha Zuberi)",
-        "url": "https://open.spotify.com/album/4XfVilYNN5U9zbRAy755Jw"
-      },
-      "artists": [
-        {
-          "name": "Ali Allahditta",
-          "url": "https://open.spotify.com/artist/26ESxp0K50aZZForRTctle"
-        },
-        {
-          "name": "Zoha Zuberi",
-          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
-        }
-      ],
-      "duration_ms": 164658,
-      "name": "Habibi (feat. Zoha Zuberi)",
-      "url": "https://open.spotify.com/track/1jNRvKWOjotXJ7JmonNJV5"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Bas Hum Do",
-        "url": "https://open.spotify.com/album/7rrcIn8XECyCD9ChagIowq"
-      },
-      "artists": [
-        {
-          "name": "Hamzay",
-          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bas Hum Do",
-      "url": "https://open.spotify.com/track/0YM5djlXvCD6BtC3WOBc2T"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Meherban",
-        "url": "https://open.spotify.com/album/2IbmfBjzgNlzdWC4PUOStx"
-      },
-      "artists": [
-        {
-          "name": "Huma Khawaja",
-          "url": "https://open.spotify.com/artist/6zXQ4B6xtyEZOESXckFFfb"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Meherban",
-      "url": "https://open.spotify.com/track/5gSklh8rvCmevtjcFGeI7n"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Tujhe Chaahun Na",
-        "url": "https://open.spotify.com/album/7sa19rHIxAUZiEhm0Hyv1X"
-      },
-      "artists": [
-        {
-          "name": "Hamza Jahangir",
-          "url": "https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo"
-        },
-        {
-          "name": "Abdullah Kasumbi",
-          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
-        }
-      ],
-      "duration_ms": 120631,
-      "name": "Tujhe Chaahun Na",
-      "url": "https://open.spotify.com/track/1rCbzcxez9Q6TEsdKVGGTg"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "WHERE R U",
-        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
-      },
-      "artists": [
-        {
-          "name": "Alistair Alvin",
-          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
-        },
-        {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "WHERE R U",
-      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Sajna",
-        "url": "https://open.spotify.com/album/0E40p2bsKuok1ZEK9CFBFK"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "Sajna",
-      "url": "https://open.spotify.com/track/54WTXshGtMKak8yOHZwgRj"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "mera haath",
-        "url": "https://open.spotify.com/album/0m20xEsxzOlnEFWj3LRqFt"
-      },
-      "artists": [
-        {
-          "name": "Daniyaal Omar",
-          "url": "https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz"
-        },
-        {
-          "name": "Shehryar Khan",
-          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "mera haath",
-      "url": "https://open.spotify.com/track/7wFriEvCpSwkCW7YrZOG4W"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Pukaar",
-        "url": "https://open.spotify.com/album/2zIHeKUdIChVZ41CRsLw95"
-      },
-      "artists": [
-        {
-          "name": "Muaz Sattar",
-          "url": "https://open.spotify.com/artist/3wPSWZS5LyapP2x0kco8WP"
-        },
-        {
-          "name": "MRKLE",
-          "url": "https://open.spotify.com/artist/18op6e1fVPmSj6796DOeSA"
-        }
-      ],
-      "duration_ms": 182388,
-      "name": "Pukaar",
-      "url": "https://open.spotify.com/track/625QSiDIijdWIofW7tV1fk"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Faasle",
-        "url": "https://open.spotify.com/album/038cSsS1Rxk3JbmRWtgKBV"
-      },
-      "artists": [
-        {
-          "name": "AUR",
-          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
-        }
-      ],
-      "duration_ms": 324780,
-      "name": "Faasle",
-      "url": "https://open.spotify.com/track/6brtBsfzkU43KlOa8dNsKT"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Khasara",
-        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Khasara",
-      "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Bewajah",
-        "url": "https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn"
-      },
-      "artists": [
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        },
-        {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Bewajah",
-      "url": "https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Bhool Nahi",
-        "url": "https://open.spotify.com/album/3m6kRxCVzKzGNttpkpLY2v"
-      },
-      "artists": [
-        {
-          "name": "Ali Alvi",
-          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bhool Nahi",
-      "url": "https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/3SlBKAsqU0tOBjH1salewg"
-      },
-      "artists": [
-        {
-          "name": "Hamzay",
-          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
-        },
-        {
-          "name": "Mehmood J",
-          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/50d7m7QfLq1whkBzBe7Ctv"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Lover Boy <3",
-        "url": "https://open.spotify.com/album/2s8ioFadoLI0PUpE3PbZ8T"
-      },
-      "artists": [
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        }
-      ],
-      "duration_ms": 146301,
-      "name": "Lover Boy <3",
-      "url": "https://open.spotify.com/track/2Q5gyCUNYQz2EL9roBpTop"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/16B8GbRKZreDp9NZLjDEVh"
-      },
-      "artists": [
-        {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
-        },
-        {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
-        },
-        {
-          "name": "Mickey Singh",
-          "url": "https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t"
-        }
-      ],
-      "duration_ms": 173541,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/4OcA2iw5g8pt88DtkVu3x9"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "Tarpae",
-        "url": "https://open.spotify.com/album/142SdDNlHPWCS63Ouewlou"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Khan",
-          "url": "https://open.spotify.com/artist/1UGsSy3gdyrAnPSdhbh6EY"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Tarpae",
-      "url": "https://open.spotify.com/track/0ik3eFyP7Y8b1tycRCXPom"
-    },
-    {
-      "added_at": "2026-05-22 10:01:19",
-      "album": {
-        "name": "VOLUME",
-        "url": "https://open.spotify.com/album/49S4SqXG39GxNHHe34tZ6d"
-      },
-      "artists": [
-        {
-          "name": "Shamoon Ismail",
-          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
-        },
-        {
-          "name": "dotxb",
-          "url": "https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk"
-        }
-      ],
-      "duration_ms": 180082,
-      "name": "VOLUME",
-      "url": "https://open.spotify.com/track/1krjlFmoBcc5KsomLbegP7"
     }
   ],
   "unique_name": "New Pakistani Pop",

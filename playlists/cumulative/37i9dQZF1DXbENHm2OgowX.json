@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 128410,
       "name": "forgiveness",
       "url": "https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf"
@@ -2052,6 +2052,24 @@
       "duration_ms": 168327,
       "name": "Kaiten",
       "url": "https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm"
+    },
+    {
+      "album": {
+        "name": "let me climb the stars",
+        "url": "https://open.spotify.com/album/0bzc8E4lLiJU37aUmUyUtd"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157027,
+      "name": "let me climb the stars",
+      "url": "https://open.spotify.com/track/3AgJcBWoRTnmtJ2JUSmUPj"
     },
     {
       "album": {

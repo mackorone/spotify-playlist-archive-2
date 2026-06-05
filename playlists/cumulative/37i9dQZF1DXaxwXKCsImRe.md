@@ -2,13 +2,14 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:2qVi7G7OjgVXyl9zxabzTQ">Sarah Julia</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-258 songs - 13 hr 42 min
+260 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 | 2026-04-02 |  |
+| [100K Summer](https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:53 | 2026-06-04 |  |
+| [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 | 2026-04-02 | 2026-06-05 |
 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-22 | 2024-07-05 |
 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 | 2023-07-20 | 2024-07-02 |
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-05-09 | 2023-09-15 |
@@ -43,6 +44,7 @@
 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 | 2022-10-05 | 2022-10-18 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2021-12-10 | 2022-06-17 |
 | [Bowie's Pressure](https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Bowie's Pressure](https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow) | 3:12 | 2026-03-26 |  |
+| [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 | 2026-06-04 |  |
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-06-06 | 2025-01-10 |
 | [Broken](https://open.spotify.com/track/3EJ7h1f0Nvvnpt1mRNCcOz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn of the Freak](https://open.spotify.com/album/30hYMe8HUStB6y0pB0lJCd) | 4:45 | 2024-01-18 | 2024-04-19 |
 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 | 2024-01-18 | 2026-03-19 |
@@ -67,7 +69,7 @@
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-09-14 | 2024-04-11 |
 | [Daughters](https://open.spotify.com/track/0xROoITSyC7Ppcx7OC6xst) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:37 | 2026-03-25 | 2026-03-27 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-03 | 2022-07-08 |
-| [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 | 2026-03-03 |  |
+| [De Laatste Sprint](https://open.spotify.com/track/2lV0iWyn789HzZX28uqfgO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [De Laatste Sprint](https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe) | 3:31 | 2026-03-03 | 2026-06-05 |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-24 | 2023-05-10 |
 | [Ding Dong](https://open.spotify.com/track/0SSvsdk6TlKbBHGtBk4XPa) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ding Dong](https://open.spotify.com/album/1Db0UhjPxm1Xw9Q69uIBp6) | 3:16 | 2024-09-26 | 2024-11-08 |
 | [Ding Dong](https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:16 | 2024-11-07 | 2026-03-19 |

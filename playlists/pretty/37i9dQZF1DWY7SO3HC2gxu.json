@@ -1,6 +1,6 @@
 {
   "description": "Best blends of Electronic music across Africa. Cover: Sofiya Nzau",
-  "num_followers": 11102,
+  "num_followers": 11110,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,34 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3Ec2zdSBrtNwYSQRk0cvOo"
+      },
+      "artists": [
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        },
+        {
+          "name": "Breeze and The Sun",
+          "url": "https://open.spotify.com/artist/6cc71VVfi25FC7OzhblV6q"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        },
+        {
+          "name": "Phina Asa",
+          "url": "https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8"
+        }
+      ],
+      "duration_ms": 162131,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/7EEj3qZHQgYsOLBrpHvQ1j"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
         "name": "overcome.",
         "url": "https://open.spotify.com/album/22cyDrhbY4IXiwtRZtUjOn"
       },
@@ -447,34 +475,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3Ec2zdSBrtNwYSQRk0cvOo"
-      },
-      "artists": [
-        {
-          "name": "Neil Amarey",
-          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
-        },
-        {
-          "name": "Breeze and The Sun",
-          "url": "https://open.spotify.com/artist/6cc71VVfi25FC7OzhblV6q"
-        },
-        {
-          "name": "Oluwadamvic",
-          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
-        },
-        {
-          "name": "Phina Asa",
-          "url": "https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8"
-        }
-      ],
-      "duration_ms": 162131,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/7EEj3qZHQgYsOLBrpHvQ1j"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "DAWA (REMIX)",
         "url": "https://open.spotify.com/album/15wlcM2Hl8Pf8jReqmK1yt"
       },
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
+        "name": "Rundo Wiya (Reconstructed)",
+        "url": "https://open.spotify.com/album/0xJLIU6EpHAoG1yKwaHSf6"
+      },
+      "artists": [
+        {
+          "name": "bahkin",
+          "url": "https://open.spotify.com/artist/2pWUpdZQ5MnDrEpTa72988"
+        },
+        {
+          "name": "Oduh Orlando",
+          "url": "https://open.spotify.com/artist/6Fq61ssDD8RBbBDSg6aHt9"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Rundo Wiya (Reconstructed)",
+      "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
         "name": "Eminence",
         "url": "https://open.spotify.com/album/6eiY7KjUXQ0qPm1MIbjje5"
       },
@@ -539,22 +559,26 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Rundo Wiya (Reconstructed)",
-        "url": "https://open.spotify.com/album/0xJLIU6EpHAoG1yKwaHSf6"
+        "name": "Come To Me (My Love)",
+        "url": "https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M"
       },
       "artists": [
         {
-          "name": "bahkin",
-          "url": "https://open.spotify.com/artist/2pWUpdZQ5MnDrEpTa72988"
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
         },
         {
-          "name": "Oduh Orlando",
-          "url": "https://open.spotify.com/artist/6Fq61ssDD8RBbBDSg6aHt9"
+          "name": "Khandasi",
+          "url": "https://open.spotify.com/artist/4mDed0KOVrbDs2SfagQwZR"
+        },
+        {
+          "name": "TAPIWA",
+          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Rundo Wiya (Reconstructed)",
-      "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
+      "duration_ms": 327951,
+      "name": "Come To Me (My Love)",
+      "url": "https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -595,30 +619,6 @@
       "duration_ms": 259672,
       "name": "Kokareku",
       "url": "https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
-        "name": "Come To Me (My Love)",
-        "url": "https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M"
-      },
-      "artists": [
-        {
-          "name": "Charisse C",
-          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
-        },
-        {
-          "name": "Khandasi",
-          "url": "https://open.spotify.com/artist/4mDed0KOVrbDs2SfagQwZR"
-        },
-        {
-          "name": "TAPIWA",
-          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
-        }
-      ],
-      "duration_ms": 327951,
-      "name": "Come To Me (My Love)",
-      "url": "https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
+        "name": "The Gospel Vol.1",
+        "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Nkosi Amakhosi",
+      "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/09UpW1aXXZZR7jfVxxAyZf"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 226000,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/71ujJ7gVBNkfkHJm0niwBX"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
-        "name": "The Gospel Vol.1",
-        "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Nkosi Amakhosi",
-      "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -831,30 +831,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "STAY Low",
-        "url": "https://open.spotify.com/album/4m5HT26V4eIIoNqrxkMHC3"
-      },
-      "artists": [
-        {
-          "name": "Rody Joh",
-          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
-        },
-        {
-          "name": "MxCarter",
-          "url": "https://open.spotify.com/artist/26nxGJBaSxkBeD0sLwLXzN"
-        },
-        {
-          "name": "kikie dola",
-          "url": "https://open.spotify.com/artist/62cypffyqUbiZuL834Mub2"
-        }
-      ],
-      "duration_ms": 319338,
-      "name": "STAY Low",
-      "url": "https://open.spotify.com/track/0ImDT2aR2acOkHnnLNR72W"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "Kumerera",
         "url": "https://open.spotify.com/album/4JbxtNCMs66rG8q7cSUEEx"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 259000,
       "name": "Kumerera",
       "url": "https://open.spotify.com/track/7qBuTKBo4FIQfk8LNwda6G"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "STAY Low",
+        "url": "https://open.spotify.com/album/4m5HT26V4eIIoNqrxkMHC3"
+      },
+      "artists": [
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        },
+        {
+          "name": "MxCarter",
+          "url": "https://open.spotify.com/artist/26nxGJBaSxkBeD0sLwLXzN"
+        },
+        {
+          "name": "kikie dola",
+          "url": "https://open.spotify.com/artist/62cypffyqUbiZuL834Mub2"
+        }
+      ],
+      "duration_ms": 319338,
+      "name": "STAY Low",
+      "url": "https://open.spotify.com/track/0ImDT2aR2acOkHnnLNR72W"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1059,6 +1059,26 @@
       "duration_ms": 193863,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/7tozDPUM72bn5mgCtHquKK"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/2kz4eYhDPel8ax61yrg6T3"
+      },
+      "artists": [
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        },
+        {
+          "name": "Atilio Baqabo",
+          "url": "https://open.spotify.com/artist/4YPPYKMke2IKN4KI8pnGXF"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/3NZbBxhRsuPHtTo2m5Tja9"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Sondela",
-        "url": "https://open.spotify.com/album/2kz4eYhDPel8ax61yrg6T3"
-      },
-      "artists": [
-        {
-          "name": "Rody Joh",
-          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
-        },
-        {
-          "name": "Atilio Baqabo",
-          "url": "https://open.spotify.com/artist/4YPPYKMke2IKN4KI8pnGXF"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/3NZbBxhRsuPHtTo2m5Tja9"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "Likizo",
         "url": "https://open.spotify.com/album/0Te1K78U1S5Ua1CFrjE2Fb"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 129836,
       "name": "Namtaka",
       "url": "https://open.spotify.com/track/6qRGbqFWrs6TqlhSsiuWKG"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/4AUtp39A3ghxTjyfJvaWpf"
+      },
+      "artists": [
+        {
+          "name": "VG",
+          "url": "https://open.spotify.com/artist/6VtVUN99fMMMR60NUOOFkd"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6D55YglkaOhDTgTcF2zOzL"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/4AUtp39A3ghxTjyfJvaWpf"
-      },
-      "artists": [
-        {
-          "name": "VG",
-          "url": "https://open.spotify.com/artist/6VtVUN99fMMMR60NUOOFkd"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6D55YglkaOhDTgTcF2zOzL"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "My Only",
         "url": "https://open.spotify.com/album/3ImIN8JkV2xJDtw4NnqHLi"
       },
@@ -1563,6 +1563,26 @@
       "duration_ms": 171119,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/6GJVDIb1KRS2GC0SsFiZDA"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "I'm Falling Deep",
+        "url": "https://open.spotify.com/album/7dvui23ypelLCEDbOTHlrG"
+      },
+      "artists": [
+        {
+          "name": "Damian Breath",
+          "url": "https://open.spotify.com/artist/0baJehjafujdWklt7tRLWO"
+        },
+        {
+          "name": "Nick Calling",
+          "url": "https://open.spotify.com/artist/7unuOtGbZmU28A8Umt1WWu"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "I'm Falling Deep",
+      "url": "https://open.spotify.com/track/1OGDT4Auczg3cYUjg895wz"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1603,26 +1623,6 @@
       "duration_ms": 321391,
       "name": "Pilipili",
       "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
-        "name": "I'm Falling Deep",
-        "url": "https://open.spotify.com/album/7dvui23ypelLCEDbOTHlrG"
-      },
-      "artists": [
-        {
-          "name": "Damian Breath",
-          "url": "https://open.spotify.com/artist/0baJehjafujdWklt7tRLWO"
-        },
-        {
-          "name": "Nick Calling",
-          "url": "https://open.spotify.com/artist/7unuOtGbZmU28A8Umt1WWu"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "I'm Falling Deep",
-      "url": "https://open.spotify.com/track/1OGDT4Auczg3cYUjg895wz"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Wakwa",
-        "url": "https://open.spotify.com/album/0EiLlQI5fBVt2qLaytuxmm"
-      },
-      "artists": [
-        {
-          "name": "FEEZZ",
-          "url": "https://open.spotify.com/artist/6S5ZEVM2yv6IASzqIhODKM"
-        },
-        {
-          "name": "AfroQuakeR",
-          "url": "https://open.spotify.com/artist/1vyepGcSdNcblQ3kg9D5Xh"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Wakwa",
-      "url": "https://open.spotify.com/track/3epuHbFCdS8oI0LOC1n10D"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "Rumba",
         "url": "https://open.spotify.com/album/2CYxyYitggyyMzcGDCnpu5"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 188000,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/0OeUYIHgqQy4XJVnBVxlmH"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "Wakwa",
+        "url": "https://open.spotify.com/album/0EiLlQI5fBVt2qLaytuxmm"
+      },
+      "artists": [
+        {
+          "name": "FEEZZ",
+          "url": "https://open.spotify.com/artist/6S5ZEVM2yv6IASzqIhODKM"
+        },
+        {
+          "name": "AfroQuakeR",
+          "url": "https://open.spotify.com/artist/1vyepGcSdNcblQ3kg9D5Xh"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Wakwa",
+      "url": "https://open.spotify.com/track/3epuHbFCdS8oI0LOC1n10D"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1855,26 +1855,30 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Without Me (Walangako)",
-        "url": "https://open.spotify.com/album/0W5Oel7CZKFZtyHEhTzmyy"
+        "name": "Kesho Tamu (Rameff Original Remix)",
+        "url": "https://open.spotify.com/album/27J66HrCJkI4YwcchlZs0t"
       },
       "artists": [
         {
-          "name": "Zaleya",
-          "url": "https://open.spotify.com/artist/7pWQ1NNYydGqss1bgmrlOD"
+          "name": "TALULAH",
+          "url": "https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ"
         },
         {
-          "name": "Dj FKR",
-          "url": "https://open.spotify.com/artist/21qVTlbc1Kj6FtE8cTrEbF"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Tibetania",
-          "url": "https://open.spotify.com/artist/1XQ0Qe4NWEQ7FcbSA2n8eD"
+          "name": "RAMEFF",
+          "url": "https://open.spotify.com/artist/0DWY0d4hBQovhQ9hMc41tv"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
         }
       ],
-      "duration_ms": 303000,
-      "name": "Without Me (Walangako)",
-      "url": "https://open.spotify.com/track/27j3iTxcefhKZUcZe1GRyc"
+      "duration_ms": 295161,
+      "name": "Kesho Tamu - Rameff Original Remix",
+      "url": "https://open.spotify.com/track/1Fkuw99wHMgc86LHOHKrG8"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1895,6 +1899,30 @@
       "duration_ms": 253884,
       "name": "Niokire",
       "url": "https://open.spotify.com/track/6CEjm8OhBdQcqK2mU3WNvQ"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "Without Me (Walangako)",
+        "url": "https://open.spotify.com/album/0W5Oel7CZKFZtyHEhTzmyy"
+      },
+      "artists": [
+        {
+          "name": "Zaleya",
+          "url": "https://open.spotify.com/artist/7pWQ1NNYydGqss1bgmrlOD"
+        },
+        {
+          "name": "Dj FKR",
+          "url": "https://open.spotify.com/artist/21qVTlbc1Kj6FtE8cTrEbF"
+        },
+        {
+          "name": "Tibetania",
+          "url": "https://open.spotify.com/artist/1XQ0Qe4NWEQ7FcbSA2n8eD"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Without Me (Walangako)",
+      "url": "https://open.spotify.com/track/27j3iTxcefhKZUcZe1GRyc"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -1935,34 +1963,6 @@
       "duration_ms": 272000,
       "name": "Chokoza",
       "url": "https://open.spotify.com/track/5Q5QqI5QKvofmHXn27NUYn"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
-        "name": "Kesho Tamu (Rameff Original Remix)",
-        "url": "https://open.spotify.com/album/27J66HrCJkI4YwcchlZs0t"
-      },
-      "artists": [
-        {
-          "name": "TALULAH",
-          "url": "https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "RAMEFF",
-          "url": "https://open.spotify.com/artist/0DWY0d4hBQovhQ9hMc41tv"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
-        }
-      ],
-      "duration_ms": 295161,
-      "name": "Kesho Tamu - Rameff Original Remix",
-      "url": "https://open.spotify.com/track/1Fkuw99wHMgc86LHOHKrG8"
     },
     {
       "added_at": "2026-05-29 00:59:24",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2026-05-29 00:59:24",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
-      },
-      "artists": [
-        {
-          "name": "Tony Finger",
-          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Fantasize",
-      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
-    },
-    {
-      "added_at": "2026-05-29 00:59:24",
-      "album": {
         "name": "OINOBMOI (BUGI Remix)",
         "url": "https://open.spotify.com/album/4WtCnr2Q3WqoEYBpJO1T6Z"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 397751,
       "name": "Oinobmoi - BUGI Remix",
       "url": "https://open.spotify.com/track/7GnXbPpoaxtGggPFJG4fne"
+    },
+    {
+      "added_at": "2026-05-29 00:59:24",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
+      },
+      "artists": [
+        {
+          "name": "Tony Finger",
+          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Fantasize",
+      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
     },
     {
       "added_at": "2026-05-29 00:59:24",

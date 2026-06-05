@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Kurt Vile",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bedouine",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321120,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
+    },
+    {
+      "album": {
         "name": "Adelina",
         "url": "https://open.spotify.com/album/65habTsYwb8G5hO4wZeKxM"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 261226,
       "name": "Alive Inside",
       "url": "https://open.spotify.com/track/5utbr7khXeyjjeqchUsJVl"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 190550,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 181537,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
@@ -6401,6 +6419,28 @@
     },
     {
       "album": {
+        "name": "Better If Worse (with Matt Maeson)",
+        "url": "https://open.spotify.com/album/2NRRkNx48UJ6gdQXhR4fQl"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        },
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239123,
+      "name": "Better If Worse (with Matt Maeson)",
+      "url": "https://open.spotify.com/track/3TP8KZt9tJGyeBRVyDysp9"
+    },
+    {
+      "album": {
         "name": "Better in the Shade",
         "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
@@ -6868,6 +6908,28 @@
       "duration_ms": 145541,
       "name": "Billy",
       "url": "https://open.spotify.com/track/3SrNrGNX5oFZnrDlPhXSwq"
+    },
+    {
+      "album": {
+        "name": "Your Lemon",
+        "url": "https://open.spotify.com/album/1vZZTzQUxg0eCuHNs3MKF6"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251781,
+      "name": "Bird In The Hand",
+      "url": "https://open.spotify.com/track/7JglV4uE0HsRlidO90CFlV"
     },
     {
       "album": {
@@ -10014,6 +10076,24 @@
       "duration_ms": 257946,
       "name": "Can't Unsee It",
       "url": "https://open.spotify.com/track/3apOmWODYKA1UiKZEO9J3e"
+    },
+    {
+      "album": {
+        "name": "Can't You Just Hold Me?",
+        "url": "https://open.spotify.com/album/5CxHCOTssN4RF05lz5iAw2"
+      },
+      "artists": [
+        {
+          "name": "Alder Cote",
+          "url": "https://open.spotify.com/artist/0CiMpVlvx7HH7YSCczLotT"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Can't You Just Hold Me?",
+      "url": "https://open.spotify.com/track/39Faow8DQlOOfzWsKbLCS2"
     },
     {
       "album": {
@@ -13214,7 +13294,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 237493,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
@@ -23138,7 +23218,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 91178,
       "name": "Gentle Love",
       "url": "https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN"
@@ -23164,6 +23244,24 @@
       "duration_ms": 215691,
       "name": "George Jones (ft. Angela Autumn)",
       "url": "https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI"
+    },
+    {
+      "album": {
+        "name": "Georgia the Ceremonialist",
+        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276095,
+      "name": "Georgia the Ceremonialist",
+      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
     },
     {
       "album": {
@@ -23674,6 +23772,24 @@
       "duration_ms": 166340,
       "name": "Glacier Meadow",
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
+    },
+    {
+      "album": {
+        "name": "glitter",
+        "url": "https://open.spotify.com/album/79fHwR9OOWvLOXxwd3dQwF"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161304,
+      "name": "glitter",
+      "url": "https://open.spotify.com/track/2bhxKi9gJOjQg43svrjt5v"
     },
     {
       "album": {
@@ -28746,7 +28862,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 192627,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2VXMJvygwZzJsNPfFdxDN6"
@@ -31696,6 +31812,24 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
+      },
+      "artists": [
+        {
+          "name": "Haylie Davis",
+          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210517,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
     },
     {
       "album": {
@@ -36012,7 +36146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 214387,
       "name": "Kleptomaniac",
       "url": "https://open.spotify.com/track/3abBBKioYtLnqXCu4Jaa3I"
@@ -46208,7 +46342,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 276986,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/6kUneEDdD5ff11ahVluuqu"
@@ -47590,6 +47724,24 @@
       "duration_ms": 210012,
       "name": "One Stop",
       "url": "https://open.spotify.com/track/0GCUxw7uzhyMUvSph5FWpu"
+    },
+    {
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/6U4XW7tTYLKtnecGaQsB6c"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/5Jx40fAGeIzY9HtQ96j5D5"
     },
     {
       "album": {
@@ -51345,6 +51497,24 @@
     },
     {
       "album": {
+        "name": "Quick!",
+        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318274,
+      "name": "Quick!",
+      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/1WDVN86bNSZ9vuGFMVfXJ6"
       },
@@ -52796,7 +52966,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 206729,
       "name": "right by my side",
       "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
@@ -54778,6 +54948,24 @@
       "duration_ms": 220264,
       "name": "Saving Grace",
       "url": "https://open.spotify.com/track/6mj5RahkA04eSwt8exoCH4"
+    },
+    {
+      "album": {
+        "name": "say anything",
+        "url": "https://open.spotify.com/album/1KdDd6K0ZW9vtENx5yz5BA"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "say anything",
+      "url": "https://open.spotify.com/track/4JpSgH5ZQ4j8cXP2lFYzPr"
     },
     {
       "album": {
@@ -58076,7 +58264,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 222513,
       "name": "Somehow Made It Out",
       "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
@@ -60311,6 +60499,24 @@
     },
     {
       "album": {
+        "name": "A Sign In The Weather",
+        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203847,
+      "name": "Stuff",
+      "url": "https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw"
+    },
+    {
+      "album": {
         "name": "Stupid",
         "url": "https://open.spotify.com/album/5FQlINYP57lg38HzROQrlO"
       },
@@ -61406,7 +61612,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 261533,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
@@ -64816,7 +65022,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 328500,
       "name": "The Mythical",
       "url": "https://open.spotify.com/track/3XneIyAAZM1PV6356Eug4l"
@@ -66244,7 +66450,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 200058,
       "name": "Things That Most People Say",
       "url": "https://open.spotify.com/track/46ERHtznIfRW70XUEczZvh"
@@ -69004,6 +69210,24 @@
       "duration_ms": 195194,
       "name": "Ugly Faces",
       "url": "https://open.spotify.com/track/4XblwOWPMkornESGqDlYnr"
+    },
+    {
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0CA4OStr4CVs0K97J4FUJi"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253605,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/1bgcW8NZw2U1FIiYb7hvrt"
     },
     {
       "album": {
@@ -74641,6 +74865,24 @@
     },
     {
       "album": {
+        "name": "The Modern Shoe Is Ruining The Foot",
+        "url": "https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Write You Wrong",
+      "url": "https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh"
+    },
+    {
+      "album": {
         "name": "Passages: Artists in Solidarity with Immigrants, Refugees, and Asylum Seekers",
         "url": "https://open.spotify.com/album/32odQvbPoNpcSW7rqpJNUo"
       },
@@ -76208,6 +76450,24 @@
       "duration_ms": 208173,
       "name": "\u201962 Chevy",
       "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
+    },
+    {
+      "album": {
+        "name": "\uff0d \uff65\uff65\uff65\uff65 \uff65 \uff0d\uff65 \uff65\uff65 \uff0d\uff0d\uff65 \uff65\uff65\uff65\uff65 \uff0d \uff0d\uff65\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff65\uff0d \uff0d\uff65\uff65\uff65",
+        "url": "https://open.spotify.com/album/39UCEYqGTu3nkYiNNlklg1"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365331,
+      "name": "\uff0d \uff65\uff65\uff65\uff65 \uff65 \uff0d\uff65 \uff65\uff65 \uff0d\uff0d\uff65 \uff65\uff65\uff65\uff65 \uff0d \uff0d\uff65\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff65\uff0d \uff0d\uff65\uff65\uff65",
+      "url": "https://open.spotify.com/track/5Mqjo7YdfjA60fsmk3btnB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4"

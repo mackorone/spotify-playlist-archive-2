@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 496104,
+  "num_followers": 496139,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsMuf6YHyLN1Gyl+qjtf46RUV1y",
+  "snapshot_id": "AAAAAGx2a7yvDxGnO6kczdmXsv7n5YlC",
   "tracks": [
     {
       "added_at": "2026-05-28 22:00:57",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "HASENJAGD",
-        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 158135,
-      "name": "HASENJAGD",
-      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
-    },
-    {
-      "added_at": "2026-05-28 22:00:57",
-      "album": {
         "name": "Schaukelpferd",
         "url": "https://open.spotify.com/album/0W9x3dzwrx05nF5aqAzq4k"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 181448,
       "name": "Schaukelpferd",
       "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
+    },
+    {
+      "added_at": "2026-05-28 22:00:57",
+      "album": {
+        "name": "HASENJAGD",
+        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 158135,
+      "name": "HASENJAGD",
+      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
     },
     {
       "added_at": "2026-05-28 22:00:57",
@@ -1075,38 +1075,22 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "Bonnie und Clyde",
-        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+        "name": "WOW!",
+        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
       },
       "artists": [
         {
           "name": "Mia Julia",
           "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 200046,
-      "name": "Bonnie und Clyde",
-      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
-    },
-    {
-      "added_at": "2026-05-28 22:00:57",
-      "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
         },
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+      "duration_ms": 119248,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
     },
     {
       "added_at": "2026-05-28 22:00:57",
@@ -1131,6 +1115,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2026-05-28 22:00:57",
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2026-05-28 22:00:57",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "WOW!",
-        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
+        "name": "Bonnie und Clyde",
+        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
       },
       "artists": [
         {
           "name": "Mia Julia",
           "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
         }
       ],
-      "duration_ms": 119248,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
+      "duration_ms": 200046,
+      "name": "Bonnie und Clyde",
+      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
     },
     {
       "added_at": "2026-05-28 22:00:57",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
+        "name": "Popopo",
+        "url": "https://open.spotify.com/album/28H96Y0KpEI6CQ8kqNV1aI"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 144347,
+      "name": "Popopo",
+      "url": "https://open.spotify.com/track/7KAIjJz1sLTkdeXNXoLeZz"
+    },
+    {
+      "added_at": "2026-05-28 22:00:57",
+      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "Popopo",
-        "url": "https://open.spotify.com/album/28H96Y0KpEI6CQ8kqNV1aI"
-      },
-      "artists": [
-        {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
-        }
-      ],
-      "duration_ms": 144347,
-      "name": "Popopo",
-      "url": "https://open.spotify.com/track/7KAIjJz1sLTkdeXNXoLeZz"
-    },
-    {
-      "added_at": "2026-05-28 22:00:57",
-      "album": {
         "name": "Mozart (Ciao Niveau)",
         "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "Octopus (100.000 H\u00e4nde)",
-        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
+        "name": "10 von 10",
+        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
       },
       "artists": [
         {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
         }
       ],
-      "duration_ms": 225787,
-      "name": "Octopus (100.000 H\u00e4nde)",
-      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
+      "duration_ms": 134924,
+      "name": "10 von 10",
+      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
     },
     {
       "added_at": "2026-05-28 22:00:57",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-05-28 22:00:57",
       "album": {
-        "name": "10 von 10",
-        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
       },
       "artists": [
         {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
         }
       ],
-      "duration_ms": 134924,
-      "name": "10 von 10",
-      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
       "added_at": "2026-05-28 22:00:57",

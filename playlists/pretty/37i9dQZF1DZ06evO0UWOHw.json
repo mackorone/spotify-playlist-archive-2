@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 17019,
+  "num_followers": 17044,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACHz8CGBZvbiH7Iuytf0bWs",
+  "snapshot_id": "ah9ugAAAAAArfkG1iG5njQPJq7RBiIqA",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
       "duration_ms": 193250,
       "name": "Like2 - Part II (with Skillibeng & Victony)",
       "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRE$H",
+        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
     },
     {
       "added_at": null,
@@ -103,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -139,6 +135,26 @@
       "duration_ms": 176333,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5"
     },
     {
       "added_at": null,
@@ -183,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH"
       },
@@ -203,22 +235,6 @@
       "duration_ms": 205714,
       "name": "OHEMA (with Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN"
     },
     {
       "added_at": null,
@@ -263,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -299,22 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
       },
       "artists": [
         {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
         },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
     },
     {
       "added_at": null,
@@ -343,6 +339,26 @@
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": null,
@@ -403,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
       },
@@ -439,6 +435,26 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
     },
     {
       "added_at": null,
@@ -935,26 +951,6 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,

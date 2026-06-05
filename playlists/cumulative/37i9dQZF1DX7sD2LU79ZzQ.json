@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: NPD",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Whisnu Santika, Ari Lesmana",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178400,
       "name": "20 Weeks",
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
@@ -910,6 +910,28 @@
       "duration_ms": 182366,
       "name": "Aku Dah Lupa",
       "url": "https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn"
+    },
+    {
+      "album": {
+        "name": "Aku Harus Pergi",
+        "url": "https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe"
+      },
+      "artists": [
+        {
+          "name": "Whisnu Santika",
+          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Aku Harus Pergi",
+      "url": "https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm"
     },
     {
       "album": {
@@ -4911,6 +4933,28 @@
     },
     {
       "album": {
+        "name": "Cadangan (feat. F4dli)",
+        "url": "https://open.spotify.com/album/1e1o79WrRKOpux2vXJMqD3"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/2slvg7WR6GJFu2FqMHDQa2"
+        },
+        {
+          "name": "F4dli",
+          "url": "https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Cadangan (feat. F4dli)",
+      "url": "https://open.spotify.com/track/0M7FFbEDIa6JkIF2LY4NzN"
+    },
+    {
+      "album": {
         "name": "Cadanganku",
         "url": "https://open.spotify.com/album/7liD9iQrN2bwuHBbkumVAv"
       },
@@ -5512,7 +5556,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 141897,
       "name": "cinta atau dusta",
       "url": "https://open.spotify.com/track/4Llkk0cjtrMpqckOMMqxnb"
@@ -10476,10 +10520,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 212307,
       "name": "Jalan di Bawah",
       "url": "https://open.spotify.com/track/6nrvwKUf9BjnZVG9YuMh9f"
+    },
+    {
+      "album": {
+        "name": "Jalan Tengah",
+        "url": "https://open.spotify.com/album/13dflnJlj0vw1WJT7fnQji"
+      },
+      "artists": [
+        {
+          "name": "Barsena Bestandhi",
+          "url": "https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276006,
+      "name": "Jalan Tengah",
+      "url": "https://open.spotify.com/track/3aZv6K9shtmH9IYFrUpmxc"
     },
     {
       "album": {
@@ -14567,6 +14629,24 @@
     },
     {
       "album": {
+        "name": "Lost In Goodbye",
+        "url": "https://open.spotify.com/album/309phrWMkLw8ba4XYgw3MB"
+      },
+      "artists": [
+        {
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196867,
+      "name": "Lost In Goodbye",
+      "url": "https://open.spotify.com/track/5zybBaJSemuRy7kIZ5xBgo"
+    },
+    {
+      "album": {
         "name": "Lost In Motion",
         "url": "https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO"
       },
@@ -15206,7 +15286,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195333,
       "name": "Malam Yang Panjang",
       "url": "https://open.spotify.com/track/6ETu6TlbQ6vuPNvlCLn9hw"
@@ -21787,6 +21867,24 @@
     },
     {
       "album": {
+        "name": "Satu Rindu",
+        "url": "https://open.spotify.com/album/7z4iC3yXca64yZ3zGyP6dl"
+      },
+      "artists": [
+        {
+          "name": "Andezzz",
+          "url": "https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Satu Rindu",
+      "url": "https://open.spotify.com/track/1Bvda8ZsmD9khaRYWr5MsI"
+    },
+    {
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/5aXu6qbQmwLFk1f8tlEfUS"
       },
@@ -22490,6 +22588,24 @@
       "duration_ms": 295800,
       "name": "Selamanya Untukku",
       "url": "https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT"
+    },
+    {
+      "album": {
+        "name": "Selamanya, Segalanya",
+        "url": "https://open.spotify.com/album/0YnwbdLFDgqaZQMYCbeGFu"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204758,
+      "name": "Selamanya, Segalanya",
+      "url": "https://open.spotify.com/track/4DnS2QRB47w11rJFbCWrmX"
     },
     {
       "album": {
@@ -25173,6 +25289,28 @@
     },
     {
       "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
+      },
+      "artists": [
+        {
+          "name": "Rio Lahskart",
+          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
+    },
+    {
+      "album": {
         "name": "Sunda Strait",
         "url": "https://open.spotify.com/album/5LDr3yKUSs94bs9QWgZTXR"
       },
@@ -26312,7 +26450,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 184500,
       "name": "Talk To Ya",
       "url": "https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH"
@@ -28182,6 +28320,24 @@
       "duration_ms": 256521,
       "name": "Torang Indonesia",
       "url": "https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv"
+    },
+    {
+      "album": {
+        "name": "Kasablanka",
+        "url": "https://open.spotify.com/album/17woRJTyYEkN4enEZ7nebD"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/5bvAggKXGhQfB0VUMtKAUL"
     },
     {
       "album": {

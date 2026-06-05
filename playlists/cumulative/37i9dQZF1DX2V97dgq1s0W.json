@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: kwn",
+  "description": "The voices shaping R&B. Cover: Jaz Karis",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Crashing Out!",
+        "url": "https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153312,
+      "name": "Crashing Out!",
+      "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
+    },
+    {
+      "album": {
         "name": "State Of Emergency Vol 1.",
         "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
       },
@@ -2829,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
+    },
+    {
+      "album": {
         "name": "What I Didn't Tell You",
         "url": "https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz"
       },
@@ -3156,6 +3192,24 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+    },
+    {
+      "album": {
+        "name": "FAITH",
+        "url": "https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181700,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
     },
     {
       "album": {
@@ -4022,7 +4076,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 246036,
       "name": "Good Things Will Come After the Pressure",
       "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
@@ -4500,7 +4554,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 132931,
       "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
@@ -7000,7 +7054,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 221679,
       "name": "Mr. Postman",
       "url": "https://open.spotify.com/track/1mntRFhXAefGklhOwPtYMT"

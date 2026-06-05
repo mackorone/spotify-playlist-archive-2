@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! June ambassador: <a href="spotify:artist:0UMs6dTf23FC2fHc40fXNS">KI/KI</a>
 
-3,402 songs - 7 day 10 hr 52 min
+3,403 songs - 7 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 | 2022-10-04 | 2022-11-02 |
 | [4 Je Love](https://open.spotify.com/track/2iAgqPlcJuCYV6y1mrwMcN) | [Sara Ciara](https://open.spotify.com/artist/1k8p1XNKtvxEU232Uv0S46) | [4 Je Love](https://open.spotify.com/album/4Etctt2iRsDV7ZXC3j5MTK) | 2:15 | 2025-01-07 | 2025-02-05 |
 | [45 MIN](https://open.spotify.com/track/6BcmDbBenKVRgWo6iwZotu) | [Ruby Mus](https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5) | [45 MIN](https://open.spotify.com/album/0clwN2w6yXBrJVxZ7zFdbb) | 2:07 | 2025-08-05 | 2025-09-03 |
-| [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-03-03 |  |
+| [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 | 2026-03-03 | 2026-06-05 |
 | [5AM \(No.175N20\)](https://open.spotify.com/track/3878X4Ahw9D5T1F5DNeyca) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [5AM \(No.175N20\)](https://open.spotify.com/album/5lW1SL3lRiFjApN1EL17gX) | 3:25 | 2023-05-02 | 2023-06-07 |
 | [5AM \(No.175N20\)](https://open.spotify.com/track/71XAFimPDSl4LhDJsWM5J8) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Corner Cutter](https://open.spotify.com/album/2oVRCSn7HvXRlNN9f7nFtE) | 3:25 | 2023-11-29 | 2024-01-11 |
 | [6](https://open.spotify.com/track/6JHqi0GqDu5QFUDBwr2lbb) | [Lena Hessels](https://open.spotify.com/artist/6YBkOQlHylyrItGxWofF64) | [then when will it](https://open.spotify.com/album/0EbnmU75glm2LsZB3YRXV4) | 4:06 | 2022-08-02 | 2022-09-07 |
@@ -1020,6 +1020,7 @@
 | [Godsvermogen](https://open.spotify.com/track/6VXmChw7b0TSL9zrUufTcV) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Alles](https://open.spotify.com/album/6g36EIwBTEWJ70LU9oTTjc) | 2:24 | 2024-12-03 | 2025-01-08 |
 | [Goeie dag](https://open.spotify.com/track/5Y9x2NQlkHo5TnqjNUqc3w) | [Delise](https://open.spotify.com/artist/0t7pmY2GkEbpUt5vSvwCcn) | [Goeie dag](https://open.spotify.com/album/5DKAWDLVnP4520vv8oofW9) | 2:52 | 2022-09-06 | 2022-10-05 |
 | [Going Astray](https://open.spotify.com/track/5ZFBxQQazj1XAaFKLLY6uy) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Going Astray](https://open.spotify.com/album/2sBJudLlZFyaJptCjy3wHM) | 3:03 | 2025-03-04 | 2025-04-02 |
+| [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 | 2026-06-04 |  |
 | [Going to Mars](https://open.spotify.com/track/1nTFwSGY1ygMC2DmLa1CsM) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Going to Mars](https://open.spotify.com/album/5PrSHfxpwJDKC91aPYnftY) | 3:05 | 2025-07-01 | 2025-08-06 |
 | [Golden Retriever](https://open.spotify.com/track/07N6GkVfjfhONgMb7RkrEq) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Golden Retriever](https://open.spotify.com/album/2Fc5KY6Gb3DdCiZO3FCjTt) | 3:44 | 2023-10-03 | 2023-11-08 |
 | [Golden Sun](https://open.spotify.com/track/4jGh4qWS3fNstPVGNXGaxR) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Golden Sun](https://open.spotify.com/album/5be6RMj2mzfppeyNWwhOrq) | 3:29 | 2026-03-03 | 2026-04-01 |

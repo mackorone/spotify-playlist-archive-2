@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 149387,
+  "num_followers": 149418,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
+      },
+      "artists": [
+        {
+          "name": "North Point Kids",
+          "url": "https://open.spotify.com/artist/3nH0HVHrZoS3pEjkb2orWB"
+        },
+        {
+          "name": "Casey Darnell",
+          "url": "https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy"
+        }
+      ],
+      "duration_ms": 144346,
+      "name": "Your Love For Me",
+      "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Rise and Shine Give God the Glory",
         "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 138000,
       "name": "Rise and Shine Give God the Glory",
       "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd"
-      },
-      "artists": [
-        {
-          "name": "North Point Kids",
-          "url": "https://open.spotify.com/artist/3nH0HVHrZoS3pEjkb2orWB"
-        },
-        {
-          "name": "Casey Darnell",
-          "url": "https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy"
-        }
-      ],
-      "duration_ms": 144346,
-      "name": "Your Love For Me",
-      "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Capitol Kids! Hits",
-        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
-      },
-      "artists": [
-        {
-          "name": "Capitol Kids!",
-          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Philippians 4:13",
         "url": "https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 120978,
       "name": "Philippians 4:13",
       "url": "https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Capitol Kids! Hits",
+        "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
+      },
+      "artists": [
+        {
+          "name": "Capitol Kids!",
+          "url": "https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Praise God: Worship Songs for Kids",
-        "url": "https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA"
-      },
-      "artists": [
-        {
-          "name": "Sticky Kids",
-          "url": "https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD"
-        }
-      ],
-      "duration_ms": 177611,
-      "name": "The Arky Arky Song",
-      "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "I Count on You",
         "url": "https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 150595,
       "name": "Wherever Whatever",
       "url": "https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Praise God: Worship Songs for Kids",
+        "url": "https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA"
+      },
+      "artists": [
+        {
+          "name": "Sticky Kids",
+          "url": "https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD"
+        }
+      ],
+      "duration_ms": 177611,
+      "name": "The Arky Arky Song",
+      "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
+        "name": "Let My Light Shine",
+        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "duration_ms": 166709,
+      "name": "Let My Light Shine",
+      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Let My Light Shine",
-        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
+        "name": "I Could Sing Of Your Love Forever Kids",
+        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
       },
       "artists": [
         {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+          "name": "I Could Sing Kids Performers",
+          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
         }
       ],
-      "duration_ms": 166709,
-      "name": "Let My Light Shine",
-      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
+      "duration_ms": 257333,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -951,22 +967,6 @@
       "duration_ms": 168140,
       "name": "Give Me Oil In My Lamp",
       "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever Kids",
-        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
-      },
-      "artists": [
-        {
-          "name": "I Could Sing Kids Performers",
-          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "(Blessed Be) The Name of the Lord",
-      "url": "https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "You Amaze Me",
         "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 152554,
       "name": "Be Completely Changed",
       "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "(Blessed Be) The Name of the Lord",
+      "url": "https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7"
     },
     {
       "added_at": "2026-05-12 05:39:19",

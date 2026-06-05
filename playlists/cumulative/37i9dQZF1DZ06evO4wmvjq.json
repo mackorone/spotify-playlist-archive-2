@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 106933,
       "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
       "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
@@ -648,28 +648,6 @@
       "duration_ms": 447063,
       "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): VII. The Faquir",
       "url": "https://open.spotify.com/track/72CUUENa1TuPNS42P72uxZ"
-    },
-    {
-      "album": {
-        "name": "Terry Riley: Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3kNIzsxpZZfrNy9eeIXIkp"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
-      "duration_ms": 696007,
-      "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): IX. Cannabis",
-      "url": "https://open.spotify.com/track/1lY6RTlTZU4ZahbREsreS6"
     },
     {
       "album": {
@@ -1892,7 +1870,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 939866,
       "name": "Goodbye Goodtimes Blues for Millenium's Child",
       "url": "https://open.spotify.com/track/2ADdzpJNVdYWByi0CxM49T"
@@ -2138,6 +2116,28 @@
       "duration_ms": 513066,
       "name": "Island Of Never Anger",
       "url": "https://open.spotify.com/track/0l6GmdBZ9gZbMAKF979KvU"
+    },
+    {
+      "album": {
+        "name": "Terry Riley: Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3kNIzsxpZZfrNy9eeIXIkp"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696007,
+      "name": "IX. Cannabis",
+      "url": "https://open.spotify.com/track/1lY6RTlTZU4ZahbREsreS6"
     },
     {
       "album": {
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Medusa's Refrain - part 1",
       "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 520773,
       "name": "ORGANUM FOR STEFANO - III",
       "url": "https://open.spotify.com/track/3cUwHtCtuaPiuYsG2Yq8mG"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 510912,
       "name": "VIII. The War on the Poor",
       "url": "https://open.spotify.com/track/00VzUszboxrIvc8Gddsu0H"
@@ -4832,7 +4832,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"

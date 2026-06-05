@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: natori \u306a\u3068\u308a",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Vaundy",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -13558,7 +13558,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 142354,
       "name": "\u3077\u306b\u3063\u3068\u3077\u3088\u3077\u3088",
       "url": "https://open.spotify.com/track/4QuaLvP8n2YbKCBx8JTShX"
@@ -14221,6 +14221,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u4e09",
+        "url": "https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "\u30a4\u4e09",
+      "url": "https://open.spotify.com/track/1LCyQXGVdKh0UBjXhnxSdr"
+    },
+    {
+      "album": {
         "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
         "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
       },
@@ -14506,7 +14524,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 215866,
       "name": "\u30ae\u30b8\u30b3\u30a4",
       "url": "https://open.spotify.com/track/5LXD7Ku7PHYwDMifr7aGnw"
@@ -16284,6 +16302,24 @@
       "duration_ms": 163366,
       "name": "\u30dd\u30c3\u30d7\u30b3\u30fc\u30f3!!",
       "url": "https://open.spotify.com/track/4ZHsFzpBYqtnwtKIQcHKHs"
+    },
+    {
+      "album": {
+        "name": "Rooom",
+        "url": "https://open.spotify.com/album/3ZR0xze2etYIJEIb4HefUX"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212972,
+      "name": "\u30dd\u30e9\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/09GzKRrTnqE7KD4LZkOIeL"
     },
     {
       "album": {

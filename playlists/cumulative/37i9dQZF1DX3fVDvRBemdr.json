@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Raymon Hermans",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Robert van Hemert",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1156,10 +1156,32 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 175950,
       "name": "Avond voor in de Boeken",
       "url": "https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9"
+    },
+    {
+      "album": {
+        "name": "Baco In Monaco",
+        "url": "https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132824,
+      "name": "Baco In Monaco",
+      "url": "https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62"
     },
     {
       "album": {
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 160585,
       "name": "Blijf De Hele Nacht Bij Mij",
       "url": "https://open.spotify.com/track/6r8lBiqgOBC0KU9KR1hhH8"
@@ -1562,7 +1584,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 179727,
       "name": "Blijf Nog Even",
       "url": "https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
@@ -3283,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Een Dag In Een Nacht",
+        "url": "https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK"
+      },
+      "artists": [
+        {
+          "name": "Guus Doggen",
+          "url": "https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155374,
+      "name": "Een Dag In Een Nacht",
+      "url": "https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs"
+    },
+    {
+      "album": {
         "name": "Een Dag Niet Gelachen",
         "url": "https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa"
       },
@@ -4437,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Hartslag Van Je Heupen",
+        "url": "https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9"
+      },
+      "artists": [
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Hartslag Van Je Heupen",
+      "url": "https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo"
+    },
+    {
+      "album": {
         "name": "Heb Je Al Genoeg Genoten",
         "url": "https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA"
       },
@@ -4654,7 +4712,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 129843,
       "name": "Het Perfecte Plaatje",
       "url": "https://open.spotify.com/track/4VODocbKKvbazeJuly00YE"
@@ -4994,6 +5052,24 @@
       "duration_ms": 161968,
       "name": "Huisje Aan De Amstel",
       "url": "https://open.spotify.com/track/4VdawoYdoZ2IxVb4jRKd7b"
+    },
+    {
+      "album": {
+        "name": "H\u00e9 Kom Maar Op",
+        "url": "https://open.spotify.com/album/7lsoBXhIYtiPA78OCsP0uV"
+      },
+      "artists": [
+        {
+          "name": "Sam Vanvelthoven",
+          "url": "https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161814,
+      "name": "H\u00e9 Kom Maar Op",
+      "url": "https://open.spotify.com/track/1dGawRtvZwrsV9lqXIPzb7"
     },
     {
       "album": {
@@ -5690,7 +5766,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 195748,
       "name": "Ik Was Mezelf Even Kwijtgeraakt",
       "url": "https://open.spotify.com/track/5QgOJonvPznLzJG91jClTe"
@@ -6873,6 +6949,28 @@
     },
     {
       "album": {
+        "name": "Knipperlicht",
+        "url": "https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        },
+        {
+          "name": "Mikki van Wijk",
+          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156277,
+      "name": "Knipperlicht",
+      "url": "https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ"
+    },
+    {
+      "album": {
         "name": "Koekoek",
         "url": "https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0"
       },
@@ -6982,7 +7080,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 123782,
       "name": "Kouwe Kak",
       "url": "https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW"
@@ -10673,6 +10771,24 @@
     },
     {
       "album": {
+        "name": "Veel Te Lang Geduurd",
+        "url": "https://open.spotify.com/album/1HCq6EgAPe1G62eIvgfj0S"
+      },
+      "artists": [
+        {
+          "name": "Kevin Le Nuyt",
+          "url": "https://open.spotify.com/artist/74E3cdn2wI6ja2ncKQ7auO"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152929,
+      "name": "Veel Te Lang Geduurd",
+      "url": "https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd"
+    },
+    {
+      "album": {
         "name": "Veneti\u00eb",
         "url": "https://open.spotify.com/album/6cV1KgMsUuzZt2VaCgW42v"
       },
@@ -12080,6 +12196,24 @@
       "duration_ms": 171328,
       "name": "Word Nou Niet Verliefd",
       "url": "https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI"
+    },
+    {
+      "album": {
+        "name": "Zandloopster",
+        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142965,
+      "name": "Zandloopster",
+      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
     },
     {
       "album": {

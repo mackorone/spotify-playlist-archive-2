@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, Learke, sixwing and more
+> With Learke, UrvTek, STYXVII and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 657 likes - 50 songs - 2 hr 6 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [GEOCITIES](https://open.spotify.com/track/2LN7XWSdbzI5G5H00KT08I) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w) | [GEOCITIES](https://open.spotify.com/album/7vOKcuInk3NnZukDeEDyGC) | 1:45 |
 | 50 | [人気インフルエンサー☆](https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU), [Maruyama Yuki](https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 1:48 |
 
-Snapshot ID: `AAAAACrr+jByl19FsErB4rDzmVH4po+J`
+Snapshot ID: `AAAAACgb9BMXbB2ZlL/iyd5Z0CorE876`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni per una primavera non proprio felice \ud83e\udd40 cover: EMMA al MI AMI Festival (credits: Giovanni Paracini)",
+  "description": "canzoni per un'estate non proprio felice \ud83e\udd40 cover: OTTOBRE",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159493,
       "name": "Acqua Fredda",
       "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 152112,
       "name": "Bianco (feat. chaze & DOXX)",
       "url": "https://open.spotify.com/track/6PIqXyRc1YW9l2iasnQHvR"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 173080,
       "name": "Call It",
       "url": "https://open.spotify.com/track/34SP3oNVR7C4fGdKdWlgd9"
@@ -5290,7 +5290,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 214177,
       "name": "CESPUGLI DI MORE",
       "url": "https://open.spotify.com/track/63fQ9aCzAfioOIYrrRiGCg"
@@ -7992,7 +7992,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 177946,
       "name": "depressed on the internet",
       "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
@@ -8054,7 +8054,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 154583,
       "name": "DETOX (feat. Plant)",
       "url": "https://open.spotify.com/track/5twPPpgYcmmYuNccLGosTA"
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 116000,
       "name": "dipendenze",
       "url": "https://open.spotify.com/track/5EdEP4ShqnpooFkXeyXCP5"
@@ -11545,6 +11545,24 @@
     },
     {
       "album": {
+        "name": "foto",
+        "url": "https://open.spotify.com/album/6RHzgXpNAuf0ua83viMWMl"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184988,
+      "name": "foto",
+      "url": "https://open.spotify.com/track/77WhuZClSqBIzRhu4RejOm"
+    },
+    {
+      "album": {
         "name": "Fotogrammi",
         "url": "https://open.spotify.com/album/6omHHb5BZXoZaFbQSbQjsH"
       },
@@ -14508,7 +14526,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 142397,
       "name": "IN BILICO (feat. Giaime)",
       "url": "https://open.spotify.com/track/30I701J61Fx1Brg48DUTWe"
@@ -16238,7 +16256,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 165524,
       "name": "LACRIME DI FANGO",
       "url": "https://open.spotify.com/track/7wGScXI4MlpwzlryDDDGUN"
@@ -16604,7 +16622,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 121500,
       "name": "LEI",
       "url": "https://open.spotify.com/track/5AJzeQyIOiPnHkojKzYIv8"
@@ -19808,7 +19826,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 222753,
       "name": "Nobody's Coming To Save You",
       "url": "https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi"
@@ -20574,7 +20592,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 135813,
       "name": "non sto andando da nessuna parte",
       "url": "https://open.spotify.com/track/4zkZy0r72BlBOR1tZWC9qz"
@@ -21066,7 +21084,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 179815,
       "name": "O Mi Uccidi",
       "url": "https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK"
@@ -22178,7 +22196,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 171702,
       "name": "PEGGIO DI ME",
       "url": "https://open.spotify.com/track/3sSrXL7P0CY5XZ0W1FGoMb"
@@ -22842,10 +22860,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 146948,
       "name": "PICCOLO ME",
       "url": "https://open.spotify.com/track/0S564iZQcYuId4KIFVuZmo"
+    },
+    {
+      "album": {
+        "name": "piccolo mondo",
+        "url": "https://open.spotify.com/album/5LzisN7W35L2qvxh4bIja2"
+      },
+      "artists": [
+        {
+          "name": "PICCOLE EMOZIONI",
+          "url": "https://open.spotify.com/artist/63FskuwgyUygrwm8M7WzLi"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161992,
+      "name": "piccolo mondo",
+      "url": "https://open.spotify.com/track/59xlJkOdZqrh1Er7SbrS10"
     },
     {
       "album": {
@@ -24968,7 +25004,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178409,
       "name": "ricominciare tutto",
       "url": "https://open.spotify.com/track/2jmMwzzBWim9MKFrPq7xrP"
@@ -26048,7 +26084,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 163910,
       "name": "Scivola La Notte",
       "url": "https://open.spotify.com/track/4XootvI3UxnMXUvM3NueNR"
@@ -30939,6 +30975,24 @@
     },
     {
       "album": {
+        "name": "Post Trauma",
+        "url": "https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN"
+      },
+      "artists": [
+        {
+          "name": "CHANDIE",
+          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV"
+    },
+    {
+      "album": {
         "name": "Traffico Moderno",
         "url": "https://open.spotify.com/album/2a8Hbz6qzdCoXgZ3HeenqK"
       },
@@ -31200,6 +31254,28 @@
       "duration_ms": 162439,
       "name": "TU NON CAMBIERAI",
       "url": "https://open.spotify.com/track/1znAEW8WrjvFLEIC5NkIQ6"
+    },
+    {
+      "album": {
+        "name": "tulipani",
+        "url": "https://open.spotify.com/album/0keSY74W93g3NFOrsWhWwz"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "tulipani",
+      "url": "https://open.spotify.com/track/394weSN7QOcqtOqFGZPJPG"
     },
     {
       "album": {

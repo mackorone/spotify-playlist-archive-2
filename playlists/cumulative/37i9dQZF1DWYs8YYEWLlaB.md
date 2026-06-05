@@ -2,14 +2,14 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Lvbel C5 x DYSTINCT
+> viral, trend ve yükselenler\.  Kapak: BLOK3
 
-288 songs - 14 hr 40 min
+289 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#işbirliği](https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 1:59 | 2026-04-27 |  |
-| [10 NUMARA II](https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:03 | 2026-05-18 |  |
+| [10 NUMARA II](https://open.spotify.com/track/7al6zpPFXu6fU5cnoNy87N) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:03 | 2026-05-18 | 2026-06-05 |
 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 | 2025-08-28 | 2025-09-23 |
 | [Acıtır gibi severek](https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Acıtır gibi severek](https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH) | 3:45 | 2024-12-16 | 2025-04-08 |
 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 | 2026-05-18 |  |
@@ -151,6 +151,7 @@
 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 | 2025-02-18 | 2025-03-20 |
 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 | 2024-09-05 | 2024-10-08 |
 | [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-10 | 2024-11-22 |
+| [Kayıp Kalp](https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:33 | 2026-06-04 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-07-02 | 2025-01-28 |
 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 | 2025-07-08 | 2026-05-29 |
 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 | 2025-10-21 | 2026-05-02 |

@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 455838,
+  "num_followers": 455890,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "OIIA OIIA (Spinning Cat)",
-        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "OIIA OIIA (Spinning Cat)",
-      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "OIIA OIIA (Spinning Cat)",
+        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "OIIA OIIA (Spinning Cat)",
+      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1159,26 +1159,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Ameno (Techno Mix)",
-        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 150400,
-      "name": "Ameno (Techno Mix)",
-      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1199,22 +1195,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+        "name": "Ameno (Techno Mix)",
+        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+      "duration_ms": 150400,
+      "name": "Ameno (Techno Mix)",
+      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Bottle of Bubbly",
+        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 143984,
+      "name": "Bottle of Bubbly",
+      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 159483,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Bottle of Bubbly",
-        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 143984,
-      "name": "Bottle of Bubbly",
-      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
         "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 130263,
       "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
       "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
-      },
-      "artists": [
-        {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
-        }
-      ],
-      "duration_ms": 124867,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "duration_ms": 124867,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
     },
     {
       "added_at": "2025-06-26 22:00:24",

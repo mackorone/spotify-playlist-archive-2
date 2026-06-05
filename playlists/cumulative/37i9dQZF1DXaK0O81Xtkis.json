@@ -6704,7 +6704,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 151552,
       "name": "deja blues",
       "url": "https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q"
@@ -11536,6 +11536,24 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "album": {
@@ -17025,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
+    },
+    {
+      "album": {
         "name": "MESS",
         "url": "https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA"
       },
@@ -20644,7 +20680,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 164105,
       "name": "RAINFOREST",
       "url": "https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ"

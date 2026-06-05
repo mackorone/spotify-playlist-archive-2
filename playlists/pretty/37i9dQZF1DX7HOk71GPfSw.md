@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > youshouldbeaskingmeout 🇫🇮
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,707 likes - 125 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,797 likes - 125 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

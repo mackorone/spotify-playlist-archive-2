@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 712028,
+  "num_followers": 712313,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 170640,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -935,22 +935,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
       "artists": [
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
         },
         {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+          "name": "Louise Marshall",
+          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
         }
       ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+      "duration_ms": 166875,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -979,22 +979,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
       "artists": [
         {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         },
         {
-          "name": "Louise Marshall",
-          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Won't Let U Down",
-        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 251725,
-      "name": "Won't Let U Down",
-      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1115,22 +1095,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "New Highs",
-        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
+        "name": "Won't Let U Down",
+        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         },
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
         }
       ],
-      "duration_ms": 232195,
-      "name": "New Highs",
-      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
+      "duration_ms": 251725,
+      "name": "Won't Let U Down",
+      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1147,6 +1127,26 @@
       "duration_ms": 226560,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/7anQg8bMRr2qKGVYuQOljY"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "New Highs",
+        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 232195,
+      "name": "New Highs",
+      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        }
-      ],
-      "duration_ms": 767161,
-      "name": "Street Wave",
-      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        }
+      ],
+      "duration_ms": 767161,
+      "name": "Street Wave",
+      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 204366,
       "name": "Girl",
       "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1635,6 +1635,30 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
+      },
+      "artists": [
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
       },
@@ -1663,26 +1687,18 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Inferno (No. 1)",
-        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
       },
       "artists": [
         {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 296453,
-      "name": "Be The One (feat. Yung Bae)",
-      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1703,18 +1719,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Stick Together",
-        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+        "name": "So Nice To Be In Love",
+        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
         }
       ],
-      "duration_ms": 110062,
-      "name": "Stick Together",
-      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
+      "duration_ms": 154807,
+      "name": "So Nice To Be In Love",
+      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1755,26 +1775,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "So Nice To Be In Love",
-        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 154807,
-      "name": "So Nice To Be In Love",
-      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 165737,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -1911,26 +1895,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Pleasure, Joy & Happiness (musclecars remix)",
-        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        },
-        {
-          "name": "musclecars",
-          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
-        }
-      ],
-      "duration_ms": 561502,
-      "name": "Pleasure, Joy & Happiness (musclecars remix)",
-      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
@@ -1947,6 +1911,38 @@
       "duration_ms": 189190,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 165737,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -1971,18 +1967,22 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+        "name": "Pleasure, Joy & Happiness (musclecars remix)",
+        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
       },
       "artists": [
         {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
         }
       ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+      "duration_ms": 561502,
+      "name": "Pleasure, Joy & Happiness (musclecars remix)",
+      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 154979,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Simmer",
         "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 157906,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2051,6 +2051,26 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2083,26 +2103,6 @@
       "duration_ms": 184801,
       "name": "Silky, Buttery, Smooth",
       "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2026-05-22 04:01:04",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2026-05-22 04:01:04",
       "album": {
-        "name": "Confetti (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
-      },
-      "artists": [
-        {
-          "name": "Marine Neuilly",
-          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Confetti - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
-    },
-    {
-      "added_at": "2026-05-22 04:01:04",
-      "album": {
         "name": "Nothing Is Forever",
         "url": "https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9"
       },
@@ -2295,6 +2275,26 @@
       "duration_ms": 212096,
       "name": "Nothing Is Forever",
       "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
+    },
+    {
+      "added_at": "2026-05-22 04:01:04",
+      "album": {
+        "name": "Confetti (Kraak & Smaak Remix)",
+        "url": "https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9"
+      },
+      "artists": [
+        {
+          "name": "Marine Neuilly",
+          "url": "https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Confetti - Kraak & Smaak Remix",
+      "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
     },
     {
       "added_at": "2026-05-22 04:01:04",

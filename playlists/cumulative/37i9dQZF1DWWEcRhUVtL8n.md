@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,424 songs - 5 day 9 hr 10 min
+2,425 songs - 5 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,7 +992,7 @@
 | [How It Will End](https://open.spotify.com/track/7gpjFpTdE2irqRj2Odc80C) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [How It Will End](https://open.spotify.com/album/3M9aLFlvhhr8nPONBrsaOh) | 3:08 | 2021-03-14 | 2021-10-23 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-28 | 2022-04-21 |
 | [How To](https://open.spotify.com/track/0Px2SR6GUNtBz6ZEqWKbWy) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Concave](https://open.spotify.com/album/0YOmgtGqw5fMrEWxTl9Xug) | 3:26 | 2026-01-23 | 2026-03-04 |
-| [how to cry](https://open.spotify.com/track/4ilVxVq2uBqucP2zQUt91p) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [how to cry](https://open.spotify.com/album/1ZE5hNkANjRaN012WP490o) | 3:23 | 2026-05-15 |  |
+| [how to cry](https://open.spotify.com/track/4ilVxVq2uBqucP2zQUt91p) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [how to cry](https://open.spotify.com/album/1ZE5hNkANjRaN012WP490o) | 3:23 | 2026-05-15 | 2026-06-05 |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2025-11-24 |
 | [How to Lose a Friend in 10 Days](https://open.spotify.com/track/2knGz7PqFm3HGcdwLHyMEv) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [How to Lose a Friend in 10 Days](https://open.spotify.com/album/6srW3zBy4BPVa7gMDP8FnN) | 2:12 | 2022-04-29 | 2022-05-07 |
 | [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 | 2023-08-04 | 2023-10-15 |
@@ -2089,6 +2089,7 @@
 | [Tainted](https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Tainted](https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM) | 2:53 | 2026-01-23 | 2026-03-30 |
 | [Tainted Love](https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Tainted Love](https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T) | 3:21 | 2022-04-01 | 2022-08-06 |
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-12 |  |
+| [Take A Picture](https://open.spotify.com/track/1OEY00cGA1a6XOs6G5abda) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Take A Picture](https://open.spotify.com/album/3p6d7vvRTf9A5pHTXuCPIp) | 4:31 | 2026-05-25 |  |
 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 | 2024-08-09 | 2024-08-24 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-05-03 | 2021-05-08 |
 | [Take Me All The Way](https://open.spotify.com/track/1NEAm6UTITP4YfOkwUbGcO) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/6G3RTPbRId0MaaDF8L6yAF) | 2:51 | 2021-02-23 | 2021-02-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 585182,
+  "num_followers": 585256,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-05-29 00:01:56",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Lonely At The Top",
+      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "added_at": "2026-05-29 00:01:56",
+      "album": {
         "name": "BODY (danz)",
         "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 147696,
       "name": "BODY (danz)",
       "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
-    },
-    {
-      "added_at": "2026-05-29 00:01:56",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Lonely At The Top",
-      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
     },
     {
       "added_at": "2026-05-29 00:01:56",
@@ -527,30 +527,6 @@
     {
       "added_at": "2026-05-29 00:01:56",
       "album": {
-        "name": "SNOKONOKO",
-        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
-      },
-      "artists": [
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        }
-      ],
-      "duration_ms": 399314,
-      "name": "SNOKONOKO",
-      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
-    },
-    {
-      "added_at": "2026-05-29 00:01:56",
-      "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 390873,
       "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
+    },
+    {
+      "added_at": "2026-05-29 00:01:56",
+      "album": {
+        "name": "SNOKONOKO",
+        "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
+      },
+      "artists": [
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        }
+      ],
+      "duration_ms": 399314,
+      "name": "SNOKONOKO",
+      "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
     },
     {
       "added_at": "2026-05-29 00:01:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-29 00:01:56",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-05-29 00:01:56",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2026-05-29 00:01:56",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "added_at": "2026-05-29 00:01:56",

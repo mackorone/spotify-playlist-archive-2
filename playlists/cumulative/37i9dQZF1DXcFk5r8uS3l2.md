@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
 
-492 songs - 1 day 6 hr 47 min
+493 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
 | [Another Man's Tears](https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Another Man's Tears](https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6) | 3:09 | 2025-10-17 |  |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 | 2022-06-11 |
-| [Antique Hearts](https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Antique Hearts: Revisited](https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs) | 3:39 | 2026-02-13 |  |
+| [Antique Hearts](https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Antique Hearts: Revisited](https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs) | 3:39 | 2026-02-13 | 2026-06-05 |
 | [Baby What You Do](https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:52 | 2023-06-23 | 2026-02-18 |
 | [Baby Wild](https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Baby Wild](https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1) | 4:10 | 2025-01-24 | 2026-02-14 |
 | [Baby's Long Gone](https://open.spotify.com/track/708qzIZOYtob9OMFsxaDhI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Baby's Long Gone](https://open.spotify.com/album/5Y9vR6neUQGJsCG64yqxFn) | 3:16 | 2023-12-08 | 2026-02-14 |
@@ -141,6 +141,7 @@
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 | 2025-10-18 |
 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 | 2024-05-31 | 2024-07-06 |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
+| [Fussing and Fighting](https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Fussing and Fighting](https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF) | 4:14 | 2026-06-05 |  |
 | [Gathering Forces](https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E) | [Jonah Smith](https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC), [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Gathering Forces](https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF) | 3:05 | 2026-03-27 |  |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2025-03-29 |
 | [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2022-04-22 | 2024-04-19 |

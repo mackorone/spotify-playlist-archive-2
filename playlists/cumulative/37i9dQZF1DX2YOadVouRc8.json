@@ -228,7 +228,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 177087,
       "name": "4AM IN MONTPARNASSE",
       "url": "https://open.spotify.com/track/6MNXS2m92WC3CqQbjGHzNV"
@@ -11044,7 +11044,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
@@ -13439,6 +13439,24 @@
     },
     {
       "album": {
+        "name": "Sunset in Paris",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Sunset in Paris",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+    },
+    {
+      "album": {
         "name": "SUPARO (Remix)",
         "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
@@ -14388,6 +14406,24 @@
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
+    },
+    {
+      "album": {
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
     },
     {
       "album": {

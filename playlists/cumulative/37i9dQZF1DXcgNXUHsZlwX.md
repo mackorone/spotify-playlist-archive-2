@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-601 songs - 1 day 11 hr 48 min
+602 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 | 2023-09-23 |
 | [Insensible](https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Insensible](https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH) | 3:27 | 2021-01-03\* | 2022-07-29 |
-| [Interlude](https://open.spotify.com/track/2QQlnarfx0w7b0Pr4gALzP) | [Jules](https://open.spotify.com/artist/27HeDkvpG3KfBhqdokQf4M) | [Interlude](https://open.spotify.com/album/4iZhagJgey7nCu9T7qtRNe) | 1:47 | 2026-04-03 |  |
+| [Interlude](https://open.spotify.com/track/2QQlnarfx0w7b0Pr4gALzP) | [Jules](https://open.spotify.com/artist/27HeDkvpG3KfBhqdokQf4M) | [Interlude](https://open.spotify.com/album/4iZhagJgey7nCu9T7qtRNe) | 1:47 | 2026-04-03 | 2026-06-05 |
 | [Inutuulunga \- 2024 Remastered Version](https://open.spotify.com/track/0svw50fDE5pcpcqjjMVu5I) | [Taima](https://open.spotify.com/artist/49Hbj5LLNXQvttMwpApN0r) | [Inutuulunga \(2024 Remastered Version\)](https://open.spotify.com/album/7uxWJQzCCYAz1TlJe7gpi6) | 3:20 | 2024-06-21 | 2024-11-19 |
 | [Invisible](https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt) | 3:43 | 2021-01-15 | 2022-07-24 |
 | [Islands in the Stream](https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Islands in the Stream](https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8) | 3:14 | 2025-09-05 | 2026-05-21 |
@@ -229,6 +229,7 @@
 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 | 2022-11-11 | 2023-05-05 |
 | [Je reviens chez nous](https://open.spotify.com/track/172zakucirQMrMR8t0rFci) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3), [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Je n'veux pas dormir ce soir](https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX) | 3:24 | 2021-04-03 | 2021-10-02 |
 | [Je rêve](https://open.spotify.com/track/399nIYTpN4745fwu3mTUzP) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:32 | 2021-01-07 | 2021-04-30 |
+| [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:34 | 2026-06-05 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2026-05-02 |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |

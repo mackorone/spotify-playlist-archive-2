@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABm9+EgYHy0r0tPk4vmSyNp",
+  "snapshot_id": "ah9ugAAAAADJWLaRzqgcxrIL64qapP/0",
   "tracks": [
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Spoken Roses",
-      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
     },
     {
       "added_at": null,
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Adult",
-      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
     },
     {
       "added_at": null,

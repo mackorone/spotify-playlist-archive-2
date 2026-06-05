@@ -9581,6 +9581,24 @@
     },
     {
       "album": {
+        "name": "Otro perro andaluz (Cara A)",
+        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+      },
+      "artists": [
+        {
+          "name": "CABA",
+          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "Un d\u00eda de julio",
+      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
+    },
+    {
+      "album": {
         "name": "Un grand amour",
         "url": "https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34"
       },

@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> Don&\#x27;t look bottom right 👀 bottom right don&\#x27;t look 🫠 \(the boobies are back\) 😵
+> Then and only then can you actually catch the whale I think I&\#x27;m pretty sure
 
 108 songs - 13 hr 55 min
 

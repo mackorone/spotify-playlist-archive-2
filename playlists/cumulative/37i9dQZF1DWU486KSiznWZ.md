@@ -4,7 +4,7 @@
 
 > نخبة الأغاني الخليجية\. الغلاف: عايض
 
-235 songs - 16 hr 59 min
+236 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bekheel Al Wasl](https://open.spotify.com/track/1lqJwQ3hpqs1ctgLjZyPgh) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 5:28 | 2024-11-28 | 2025-07-01 |
 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 | 2024-07-24 | 2025-07-15 |
 | [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-04-26 | 2024-06-16 |
+| [Bthal Ahebak](https://open.spotify.com/track/5XCHVzgYAewli9caOntwCf) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG) | [Bthal Ahebak](https://open.spotify.com/album/5SWKcuXLO4EzbM6FKnpMqA) | 2:45 | 2026-06-04 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2022-04-07 | 2022-10-05 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-02-24 |  |
 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 | 2022-10-04 | 2024-07-25 |
@@ -206,7 +207,7 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-07-08 | 2023-03-09 |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-06-13 | 2023-10-12 |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-08 | 2022-09-09 |
-| [صبرت](https://open.spotify.com/track/24S9tChLLjvN6hjSMlBQiN) | [Bndr Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [صبرت](https://open.spotify.com/album/2LbRW0x8MTu5ULZnr3LMQ3) | 3:39 | 2026-04-14 |  |
+| [صبرت](https://open.spotify.com/track/24S9tChLLjvN6hjSMlBQiN) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [صبرت](https://open.spotify.com/album/2LbRW0x8MTu5ULZnr3LMQ3) | 3:39 | 2026-04-14 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-20 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-23 | 2025-07-01 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 | 2023-05-07 |
@@ -216,7 +217,7 @@
 | [كل ما بغيت](https://open.spotify.com/track/1aKoHSI8NrQ6oxG5aoO98J) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما بغيت](https://open.spotify.com/album/3RpdGoFAU2TsKvdz3bnGNr) | 3:20 | 2025-08-08 | 2025-10-16 |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 | 2022-10-05 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-09-07 | 2022-09-29 |
-| [كلنا أهل](https://open.spotify.com/track/2RSuZdL9sdYlaxAsfwXYRY) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [كلنا أهل](https://open.spotify.com/album/4w1bffN9okVI4io7HdWfqj) | 3:03 | 2026-02-27 |  |
+| [كلنا أهل](https://open.spotify.com/track/2RSuZdL9sdYlaxAsfwXYRY) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [كلنا أهل](https://open.spotify.com/album/4w1bffN9okVI4io7HdWfqj) | 3:03 | 2026-02-27 | 2026-06-05 |
 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 | 2023-02-14 | 2023-10-12 |
 | [ما اقدر اخونك](https://open.spotify.com/track/3iEe0l4ItrM9vgMHSnnr6t) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [ما اقدر اخونك](https://open.spotify.com/album/7uzMGbFNKS7K6koM513rjC) | 4:51 | 2022-04-07 | 2022-10-05 |
 | [ما اقدر اخونك](https://open.spotify.com/track/43Dl9rWkPaWUyL2PWhqv2D) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ما اقدر اخونك](https://open.spotify.com/album/4msahoWAf2QAhOwehV7KY9) | 4:51 | 2022-09-07 | 2022-09-30 |

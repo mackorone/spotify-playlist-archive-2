@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612345,
+  "num_followers": 612327,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Utan dina andetag - Spotify Singles",
-        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 204913,
-      "name": "Utan dina andetag - Spotify Singles",
-      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
         "name": "Genom livet",
         "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 167156,
       "name": "Genom livet",
       "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "Utan dina andetag - Spotify Singles",
+        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Utan dina andetag - Spotify Singles",
+      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 185421,
       "name": "Stockholm \u00e4r f\u00f6r stort",
       "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1099,6 +1083,22 @@
       "duration_ms": 190243,
       "name": "Penny (Akustisk) [feat. Penny]",
       "url": "https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Samma saga",
-        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "Samma saga",
-      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
         "name": "Where Am I?",
         "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 162373,
       "name": "If You Died Today",
       "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "Samma saga",
+        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "Samma saga",
+      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
         "name": "L\u00e5ngsamt (Piano Version)",
         "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 193253,
       "name": "L\u00e5ngsamt - Piano Version",
       "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1359,6 +1359,38 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2026-05-21 22:00:23",
+      "album": {
         "name": "f\u00f6r oss",
         "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
       },
@@ -1387,38 +1419,6 @@
       "duration_ms": 243760,
       "name": "R\u00f6da sten",
       "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
-    },
-    {
-      "added_at": "2026-05-21 22:00:23",
-      "album": {
-        "name": "Ellen Krauss \u2013 Acoustic Versions",
-        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 168874,
-      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
-      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Kite (Acoustic)",
-        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 149996,
-      "name": "Kite - Acoustic",
-      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
     },
     {
       "added_at": "2026-05-21 22:00:23",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2026-05-21 22:00:23",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+        "name": "Kite (Acoustic)",
+        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+      "duration_ms": 149996,
+      "name": "Kite - Acoustic",
+      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
     },
     {
       "added_at": "2026-05-21 22:00:23",

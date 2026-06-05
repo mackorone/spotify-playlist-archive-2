@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66655,
+  "num_followers": 66652,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAChgFhbgwTCUkujtuxMw/QC",
+  "snapshot_id": "ah9ugAAAAAAeaHX//CchiPaDlP0Z+A80",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/6sqyWe2roWz3gVylfXy2BM"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 463133,
       "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/5DhuUO1J5wflNCsJOvSbcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "Deus Forte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 257013,
       "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
       "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "Deus Forte (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 262664,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 496640,
-      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
     },
     {
       "added_at": null,
@@ -723,6 +703,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 496640,
+      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 294661,
-      "name": "Deus Est\u00e1 me Ensinando",
-      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 269133,
       "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Na Casa de Deus",
-      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle + Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 301280,
       "name": "Deus no Controle + Milagre (Ao Vivo)",
       "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
     },
     {
       "added_at": null,

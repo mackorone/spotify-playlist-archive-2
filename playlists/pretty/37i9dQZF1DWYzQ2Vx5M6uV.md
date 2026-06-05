@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,649 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,651 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 81 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
 | 82 | [Yeye](https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Yeye](https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U) | 2:19 |
 | 83 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
-| 84 | [coletera](https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk) | [Akos](https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy) | [coletera](https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9) | 1:37 |
+| 84 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
 | 85 | [AKI KIKI](https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [AKI KIKI](https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF) | 2:07 |
-| 86 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
-| 87 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
+| 86 | [coletera](https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk) | [Akos](https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy) | [coletera](https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9) | 1:37 |
+| 87 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
 | 88 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
 | 89 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
 | 90 | [Dolares](https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Dolares](https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 | 100 | [LLUVIA](https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [LLUVIA](https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j) | 3:37 |
 
-Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`
+Snapshot ID: `AAAAAIfqGFvwHBE3A08weRV8GLpZeYjS`

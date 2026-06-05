@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,598 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,634 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 63 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 |
 | 64 | [Ascension](https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ascension](https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ) | 2:57 |
 | 65 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
-| 66 | [Whatever We Call It](https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Whatever We Call It](https://open.spotify.com/album/4NgWz429zWjwleHCRlw5vG) | 8:03 |
+| 66 | [Whatever We Call It](https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [meera](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Whatever We Call It](https://open.spotify.com/album/4NgWz429zWjwleHCRlw5vG) | 8:03 |
 | 67 | [Maria & Julieta](https://open.spotify.com/track/39bLrXZneUTDyjxw0lJ8Dc) | [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7) | [Maria & Julieta](https://open.spotify.com/album/0taivz0rKedVaoSFLq77Up) | 5:21 |
 | 68 | [Angelina](https://open.spotify.com/track/6WxnJNfi8eAejiaOta4ZES) | [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe) | [This is Caribbean House, Vol.3](https://open.spotify.com/album/2mXqnycarsiNuGlnuyvoI7) | 4:26 |
 | 69 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28171,
+  "num_followers": 28172,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAABGeJv052X0ihAxlTVHDZ8",
+  "snapshot_id": "ah9ugAAAAABLfXuXMDGaiHjqGIlPlVBb",
   "tracks": [
     {
       "added_at": null,
@@ -123,30 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Regrets (feat. Krewella)",
-        "url": "https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "No Regrets (feat. Krewella)",
-      "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crying On The Dancefloor (Matrix & Futurebound Remix)",
         "url": "https://open.spotify.com/album/1p8NwUCRGnRQ5SPgZb9lNT"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 215172,
       "name": "Crying On The Dancefloor - Matrix & Futurebound Remix",
       "url": "https://open.spotify.com/track/5BGuQnjP0iZDQHk3AW1Hpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Regrets (feat. Krewella)",
+        "url": "https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "No Regrets (feat. Krewella)",
+      "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
     },
     {
       "added_at": null,
@@ -519,38 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/34a72beTRCPtigmNlHdy3G"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Set Yourself Free",
-      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't That Why (Skytech Remix)",
         "url": "https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Set Yourself Free",
+      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dead af",
+        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "dead af",
+      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -911,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dead af",
-        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
       "artists": [
         {
@@ -920,9 +936,25 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208000,
-      "name": "dead af",
-      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "War Forever",
+      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
     },
     {
       "added_at": null,
@@ -951,38 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "War Forever",
-      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+      "duration_ms": 219026,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     }
   ],
   "unique_name": "This Is Krewella",

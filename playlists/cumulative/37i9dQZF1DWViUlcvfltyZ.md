@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 cover: SANTI FRANCESI
+> Rock, indie e punk dall'Italia 🎸 cover: Lamante
 
-1,974 songs - 4 day 14 hr 11 min
+1,977 songs - 4 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [A Ddhu Mare Te Porta](https://open.spotify.com/track/3sW2mbGWHA4BLRIiuK0iRI) | [DDUMA](https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG) | [A Ddhu Mare Te Porta](https://open.spotify.com/album/47NIsd9A3r6XrK4AvMckPT) | 2:54 | 2026-05-28 |  |
 | [A Dead Tree Gives No Shelter](https://open.spotify.com/track/6IPHX6g0FcBp2FvJQHLYd1) | [Neko At Stella](https://open.spotify.com/artist/3Yu9iL8NwGYNAImxIOmXsV) | [A Dead Tree Gives No Shelter](https://open.spotify.com/album/3ASkaFwg373weJ4flMvzKi) | 5:35 | 2024-11-28 | 2025-01-29 |
 | [A Diosa \(Non potho reposare\)](https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [A Diosa \(Non potho reposare\)](https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f) | 10:00 | 2024-10-03 | 2024-11-15 |
-| [A dir il vero](https://open.spotify.com/track/3JKnV3A1hioqP3dL6HsbXO) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [1000%](https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9) | 2:32 | 2026-04-23 |  |
+| [A dir il vero](https://open.spotify.com/track/3JKnV3A1hioqP3dL6HsbXO) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [1000%](https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9) | 2:32 | 2026-04-23 | 2026-06-05 |
 | [A fly on the wall](https://open.spotify.com/track/1mXtND7kVenAdLJKoDTpYd) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [A fly on the wall](https://open.spotify.com/album/13VyjgC0uplNM8xjYuUDHj) | 2:38 | 2024-06-27 | 2024-09-13 |
 | [A Lie Is A Lie](https://open.spotify.com/track/1nWqcFW8v8TOr5hHaU2va8) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [A Lie Is A Lie](https://open.spotify.com/album/3gyUFMjyoLcco8QG1Hnxw8) | 2:22 | 2023-04-27 | 2023-05-26 |
 | [A Luci Spente](https://open.spotify.com/track/6JLRMYtXE2rAEomsse0uns) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [A Luci Spente](https://open.spotify.com/album/2dQE0RL9VUoGiKtqeV0UXa) | 3:31 | 2025-11-06 | 2026-01-23 |
@@ -419,6 +419,7 @@
 | [Dal tramonto all'alba \- Uomini in nero](https://open.spotify.com/track/1Wrbjeacx1OTuNbCoqYwLH) | [Alosi](https://open.spotify.com/artist/3M0xQSDicFWo1DPjkkW8gt) | [Dal tramonto all'alba \(Uomini in nero\)](https://open.spotify.com/album/3y0mYDvm0FnJNCrgRAgX1Y) | 3:09 | 2025-07-03 | 2025-08-29 |
 | [Dalla parte dell'orso](https://open.spotify.com/track/2gc3matCcrbtc4Az1sk57J) | [Caso](https://open.spotify.com/artist/0S1D8THWIwzx94QAcuqOyo) | [Dalla parte dell'orso](https://open.spotify.com/album/7xonorg7kIPXfINq1XMImT) | 2:58 | 2026-01-08 |  |
 | [Dalla stessa parte del vento](https://open.spotify.com/track/5kNZBWpQSRdTWupAq6wABK) | [Flowers For Boys](https://open.spotify.com/artist/5k4gkUZT1DaKoinKMaLtoe) | [Se questo è crescere](https://open.spotify.com/album/562Emqi1bLTnEJGK1G2lCU) | 2:45 | 2025-10-23 | 2025-11-28 |
+| [DALTONIK](https://open.spotify.com/track/3xIPA3DAeQQZoaalFanpvL) | [Pluvia](https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG) | [DALTONIK](https://open.spotify.com/album/6KQGpxbwpMmKqcIbcqduHE) | 2:45 | 2026-06-04 |  |
 | [Dance](https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Dance](https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91) | 3:06 | 2022-07-29 | 2022-09-02 |
 | [Daniel J](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [404DEI \(Errore degli Dei\)](https://open.spotify.com/album/538nuDVXhyOoEEGNCVMdYu) | 3:30 | 2025-12-11 | 2026-01-23 |
 | [DARE](https://open.spotify.com/track/2Qqwq9w4Q5puYTaaMY4hv5) | [Torba](https://open.spotify.com/artist/4kG6IAQ1p9TElT4scdn4wp) | [II](https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh) | 4:10 | 2025-01-09 | 2025-03-07 |
@@ -755,7 +756,7 @@
 | [Hyperdrive](https://open.spotify.com/track/4uSa5FEquJTsmd9nqtQCuR) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Hyperdrive](https://open.spotify.com/album/2SMTOccVOS1DSl7DlVdiFD) | 3:14 | 2023-07-06 | 2023-09-01 |
 | [I Am a Cat and I Love My Dog](https://open.spotify.com/track/7ehonCz0Cvo6exRjVo00uI) | [Animaux Formidables](https://open.spotify.com/artist/6KgDrxNpxnUNIaYFL6kK7Q) | [I Am a Cat and I Love My Dog](https://open.spotify.com/album/4pP3Ji6kXSeZODX4OMxtSE) | 2:02 | 2026-02-19 | 2026-04-10 |
 | [I Cinici](https://open.spotify.com/track/36YiEcKhYLgyoPTe7LBl60) | [Spaghetti Spezzati](https://open.spotify.com/artist/79Q0AAnEw23K4hWcQQDHWz) | [I Cinici](https://open.spotify.com/album/4mHc1xxHdjcppEyMetNVqS) | 2:50 | 2023-11-30 | 2023-12-15 |
-| [I creatori](https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri) | [Frigidaire Tango](https://open.spotify.com/artist/5TVE5Fiwqufq5eKkuuBerU) | [Modern Vintage Wave](https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A) | 3:23 | 2026-04-23 |  |
+| [I creatori](https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri) | [Frigidaire Tango](https://open.spotify.com/artist/5TVE5Fiwqufq5eKkuuBerU) | [Modern Vintage Wave](https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A) | 3:23 | 2026-04-23 | 2026-06-05 |
 | [I Do](https://open.spotify.com/track/5ee1DcMZ4lxPyNGrMQJu6v) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [I Do](https://open.spotify.com/album/7JCeYpigHOXBYNnZEUgQdk) | 2:37 | 2024-06-27 | 2024-09-13 |
 | [I don't know](https://open.spotify.com/track/71Smt8JFiuk8VwfaOciWUx) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [I don't know](https://open.spotify.com/album/4GYXHpqgZAvXJO56O32sBW) | 3:17 | 2024-08-22 | 2024-10-11 |
 | [I HATE MILANO](https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [I HATE MILANO](https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6) | 1:31 | 2026-04-16 | 2026-05-29 |
@@ -804,6 +805,7 @@
 | [Il Primo Freddo](https://open.spotify.com/track/3KSYARLWXQUO6UcEtnOaFp) | [Festa del Perdono](https://open.spotify.com/artist/15AGJcAFEtTvIp73fsbTzD) | [Società Mentale](https://open.spotify.com/album/7n3ppwZCqTQwa8nc2ZTfhd) | 2:22 | 2024-06-06 | 2024-09-13 |
 | [Il Ritorno \(feat\. Meganoidi\)](https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [Meganoidi](https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR) | [Lunganotte](https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc) | 3:42 | 2023-05-25 | 2023-10-20 |
 | [Il sangue è pronto](https://open.spotify.com/track/0MEStrSyGJTRNv2OiPEJFO) | [Neoprimitivi](https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne) | [Il sangue è pronto](https://open.spotify.com/album/6zLLXWA3RZ9QECufUhAecQ) | 38:26 | 2026-02-05 | 2026-05-01 |
+| [Il Senso](https://open.spotify.com/track/1u45G3wp94Ho4jhWUn9kon) | [Jolly Mare](https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO), [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Francesco Bianconi](https://open.spotify.com/artist/6MFdJZPZF36B0YbmvCdfTR) | [La Luce dell'Alba](https://open.spotify.com/album/7HaroMYba1ucfnRvm3fBEm) | 3:13 | 2026-06-04 |  |
 | [Il sesso tra ex](https://open.spotify.com/track/0P383GVlOQT9yG94WgyQmf) | [La Municipàl](https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L) | [Dopo tutto questo tempo](https://open.spotify.com/album/4DCqiWOCIBzRQvYZORqwRz) | 2:59 | 2024-05-23 | 2024-08-09 |
 | [Il Silenzio Che C'è](https://open.spotify.com/track/59kYapbb4BzxuL9JvhKjJ2) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Il Silenzio Che C'è](https://open.spotify.com/album/0DWa2UqQb23ym0tqKU1Gy6) | 3:41 | 2024-01-25 | 2024-03-08 |
 | [Il Tempo in Me \- Radio Edit](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Il Tempo in Me \(Radio Edit\)](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 | 2026-01-15 | 2026-05-01 |
@@ -1453,7 +1455,7 @@
 | [Rapide](https://open.spotify.com/track/0u1dTvTc1HGMOOFw1chrj6) | [Real Timpani](https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA) | [RX4XT](https://open.spotify.com/album/4dVKyxmriQC92cax9rHMpp) | 4:51 | 2024-04-25 | 2024-10-04 |
 | [Re](https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE) | [Umberto Maria Giardini](https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95) | [Re](https://open.spotify.com/album/0010d1A2rC7GUI0F9yPNCz) | 3:54 | 2023-11-16 | 2024-02-02 |
 | [RE DEL POGO](https://open.spotify.com/track/40buy3xMQENOySNMJ8oysu) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [TOMBINO](https://open.spotify.com/album/25TWQd91v1bAjSZ3DVwzIY) | 2:11 | 2025-05-01 | 2025-08-29 |
-| [Ready to die](https://open.spotify.com/track/3TTcXb1iyxe6DdMwJbkHVw) | [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [Ready to die](https://open.spotify.com/album/7N2HfzxIPyvgx3Xsmpxgk5) | 2:34 | 2026-05-07 |  |
+| [Ready to die](https://open.spotify.com/track/3TTcXb1iyxe6DdMwJbkHVw) | [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [Ready to die](https://open.spotify.com/album/7N2HfzxIPyvgx3Xsmpxgk5) | 2:34 | 2026-05-07 | 2026-06-05 |
 | [Receding Hairlines](https://open.spotify.com/track/1LoqsE92WXai4UkfSoCBzF) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [This Is How We Dance](https://open.spotify.com/album/3mUOOM6v6ZPfbYmhp0iQH0) | 3:18 | 2023-11-16 | 2023-12-22 |
 | [Record](https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Record](https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1) | 3:30 | 2022-10-27 | 2022-11-18 |
 | [Redenzione](https://open.spotify.com/track/1bO6fZPSzCK2UwE8VaviSN) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Redenzione](https://open.spotify.com/album/4DSclUxsT82DBC5up236Qx) | 2:33 | 2025-03-27 | 2025-05-16 |
@@ -1462,6 +1464,7 @@
 | [Relax I'm Fine](https://open.spotify.com/track/5tiopmXV8OjUIZo7Fhxqaf) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Relax I'm Fine](https://open.spotify.com/album/4RpP5GEvSLaTTpgrToDLo3) | 3:15 | 2024-08-08 | 2024-10-04 |
 | [Religione](https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Religione](https://open.spotify.com/album/1tagO5z43CGsbmETkOp4YN) | 2:48 | 2023-04-06 | 2023-06-16 |
 | [Requiem for TP](https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r) | [Marnero](https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N) | [Requiem for TP](https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub) | 4:11 | 2022-10-10 | 2022-11-25 |
+| [RESET](https://open.spotify.com/track/02lNZ5TOLjfZmFTaFOMMEI) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [RESET](https://open.spotify.com/album/6sxGET4s3izenPVmhN0SYq) | 2:45 | 2026-06-04 |  |
 | [Respira](https://open.spotify.com/track/2ZK5uw55jdRGjtXhL9dqq3) | [TEENROMANCE](https://open.spotify.com/artist/5HD9MOD36710UU8n0EmrV2), [Hops](https://open.spotify.com/artist/6iI2HCZNfnr2c1En9UTLHS) | [Respira](https://open.spotify.com/album/3JB5YvgyWpE8kpzyA2RoaR) | 3:10 | 2025-09-18 | 2025-10-31 |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |
 | [Resta](https://open.spotify.com/track/045ZrdHAwkC4tmeZbMRnAV) | [tatà](https://open.spotify.com/artist/4QoYQE9SrNOfQaBdb5Xt1M) | [Resta](https://open.spotify.com/album/2xBezxO3xq3mQisYOeOGdC) | 3:02 | 2024-02-28 | 2024-05-24 |

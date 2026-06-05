@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1543228,
+  "num_followers": 1543429,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -947,30 +947,6 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 170916,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/7wyv2NMXiktbhdvcFagS4G"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 177750,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 170916,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/7wyv2NMXiktbhdvcFagS4G"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "The Reason (ft. Hoobastank)",
-        "url": "https://open.spotify.com/album/2WiogSZ691TUvGzvdA4HIh"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "The Reason (ft. Hoobastank)",
-      "url": "https://open.spotify.com/track/2yI1CeXZIykYPrFLsUj4p8"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
         "name": "DON'T FKN NEED U",
         "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "The Reason (ft. Hoobastank)",
+        "url": "https://open.spotify.com/album/2WiogSZ691TUvGzvdA4HIh"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "The Reason (ft. Hoobastank)",
+      "url": "https://open.spotify.com/track/2yI1CeXZIykYPrFLsUj4p8"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 216000,
       "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
       "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2343,6 +2343,26 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
+        "name": "The Tunnel",
+        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "The Tunnel",
+      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -2363,26 +2383,6 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
-        "name": "The Tunnel",
-        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Jordan Jade",
-          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "The Tunnel",
-      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
         "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
         "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 295741,
       "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
       "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
       },
@@ -2495,18 +2511,18 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
       },
       "artists": [
         {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2547,22 +2563,6 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
       },
@@ -2575,6 +2575,26 @@
       "duration_ms": 210580,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 314348,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2599,26 +2619,6 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 314348,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2707,6 +2707,22 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
+        "name": "Nobody Likes",
+        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Nobody Likes",
+      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4Ju6Z1k6wAgqwb46FM1y7B"
       },
@@ -2727,38 +2743,6 @@
       "duration_ms": 244507,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2QcRNDG4fnBb7rjbfN4jd1"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
-        "name": "Nobody Likes",
-        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
-      },
-      "artists": [
-        {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Nobody Likes",
-      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 173516,
-      "name": "Let Yourself Go",
-      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2807,22 +2791,18 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "2 Be High",
-        "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 253714,
-      "name": "2 Be High",
-      "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
+      "duration_ms": 173516,
+      "name": "Let Yourself Go",
+      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2843,6 +2823,26 @@
       "duration_ms": 206000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "2 Be High",
+        "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "2 Be High",
+      "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
     },
     {
       "added_at": "2026-06-01 09:54:47",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2026-06-01 09:54:47",
       "album": {
-        "name": "Broken Dreams",
-        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
-      },
-      "artists": [
-        {
-          "name": "Re-Style",
-          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2026-06-01 09:54:47",
-      "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/0LL0D6ryvVY1qF5lh98Tuo"
       },
@@ -2979,6 +2959,26 @@
       "duration_ms": 173571,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
+    },
+    {
+      "added_at": "2026-06-01 09:54:47",
+      "album": {
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
     },
     {
       "added_at": "2026-06-01 09:54:47",

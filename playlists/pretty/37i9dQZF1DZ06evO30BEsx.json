@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2000,
+  "num_followers": 1999,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADdDTVpxZ5AYo9h8KNBPESJ",
+  "snapshot_id": "ah9ugAAAAACt9Fi2y9slj83ZApLrHrOe",
   "tracks": [
     {
       "added_at": null,
@@ -375,21 +375,17 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris - Un homme et une femme",
-        "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
       "artists": [
         {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+          "name": "Franz Leh\u00e1r",
+          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         },
         {
           "name": "Orchestre de chambre de Paris",
@@ -400,9 +396,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 180706,
-      "name": "Un homme et une femme",
-      "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
+      "duration_ms": 152600,
+      "name": "Heure exquise (From La Veuve joyeuse)",
+      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
     },
     {
       "added_at": null,
@@ -439,17 +435,21 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+        "name": "Destination Paris - Un homme et une femme",
+        "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
       },
       "artists": [
         {
-          "name": "Franz Leh\u00e1r",
-          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         },
         {
           "name": "Orchestre de chambre de Paris",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Heure exquise (From La Veuve joyeuse)",
-      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+      "duration_ms": 180706,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
     },
     {
       "added_at": null,
@@ -871,6 +871,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rachmaninoff & Brahms",
+        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
+      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 181197,
       "name": "Cohen / Orch. Ducros: Hallelujah",
       "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninoff & Brahms",
-        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Andreas Ottensamer",
-          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
-      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
     },
     {
       "added_at": null,
@@ -983,6 +983,62 @@
       "duration_ms": 387440,
       "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peaceful Cello",
+        "url": "https://open.spotify.com/album/6iWqbog6UwsOT6pCxL3ZvY"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/4h9aSWBZeatDiTfvir3aGZ"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Piazzolla / Orch. Ducros: Oblivion",
+      "url": "https://open.spotify.com/track/3xeDgUlEjcUvqV1LXJfHHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
+      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
     },
     {
       "added_at": null,
@@ -1067,34 +1123,6 @@
       "duration_ms": 253253,
       "name": "Over the Rainbow (From \"The Wizard of Oz\")",
       "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
-      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
     },
     {
       "added_at": null,
@@ -1327,26 +1355,6 @@
       "duration_ms": 91093,
       "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
       "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capucelli",
-        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
-        }
-      ],
-      "duration_ms": 140413,
-      "name": "Mancini: The Pink Panther",
-      "url": "https://open.spotify.com/track/2i5NkMhrVfXWpfw1kVmEql"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

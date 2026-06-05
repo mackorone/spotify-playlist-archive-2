@@ -4,7 +4,7 @@
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium.
 
-29 songs - 1 hr 16 min
+30 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Caitie Says](https://open.spotify.com/track/1vUBasmo2RUADuaTlua4Ju) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Caitie Says](https://open.spotify.com/album/3LOTuISLRqduomyWLrGaSY) | 3:04 | 2026-05-22 |  |
 | [Colors Rap](https://open.spotify.com/track/1lKMWgLjn7WzLCG3BwqV6A) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY), [Go Buster](https://open.spotify.com/artist/2PeKKRZrvBC2pDjMf3JtKx) | [Learning Colours in the Classroom](https://open.spotify.com/album/0IZ8auAE2fEdnoPFNBSDuG) | 2:00 | 2026-05-22 |  |
 | [Dinosaur Song](https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Animal Friends](https://open.spotify.com/album/4B3LWH0pMwMss4nyXAJRwl) | 3:04 | 2026-05-22 |  |
+| [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn) | 3:00 | 2026-06-05 |  |
 | [Five Little Ducks](https://open.spotify.com/track/4u70QgRBLFgexLKdcgP3GW) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Kind Be You](https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV) | 2:49 | 2026-05-22 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/5GgU04WdyhVSYA6DJe8Fiw) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Let's Have Fun! 20 Playtime Songs for Kids](https://open.spotify.com/album/7AtnBnrdRCmgrqxfogQfQV) | 1:45 | 2026-05-22 |  |
 | [Get the Wiggles Out \- Meekah and Blippi's Version](https://open.spotify.com/track/4tYtdt7ZgjDWJHCrLDtk6M) | [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3), [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Meekah's Excavator Song & More Dancing Tunes](https://open.spotify.com/album/7JK5Pu9pB6vZokUb60eKkX) | 2:17 | 2026-05-22 |  |

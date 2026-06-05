@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,460 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 21 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 |
 | 22 | [С нами или нет](https://open.spotify.com/track/0EjFAcOB12nNGnC69n1ycE) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [С нами или нет](https://open.spotify.com/album/3T9uWLA8Pco3H97Pg4klC4) | 5:56 |
 | 23 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 |
-| 24 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
+| 24 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 25 | [агентство насилия™](https://open.spotify.com/track/6W3Psuj5yAWF2EQ4xRv6Ut) | [gotlibgotlibgotlib](https://open.spotify.com/artist/60BuDy9NuubibSQWzvE3w1), [Sabu](https://open.spotify.com/artist/7sg61WJ1RMuH3Yxtysrxny) | [агентство насилия™](https://open.spotify.com/album/4X9phIzro92X1TOjmQd7QE) | 2:15 |
-| 26 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
+| 26 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 | 27 | [2L8](https://open.spotify.com/track/1D2mzBiHkPhTQSlV7Cmdvy) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [2L8](https://open.spotify.com/album/1kzLAdWWzhD8afzTevnGdT) | 2:07 |
 | 28 | [Мальборо](https://open.spotify.com/track/4xHTTxGihlPr1gSbedKtd1) | [SAYAN](https://open.spotify.com/artist/2YsmO7ux7Vmi4kwQYnsQrQ) | [Мальборо](https://open.spotify.com/album/08vglVZPKBCDOKfs8zE4Ob) | 2:02 |
 | 29 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [bedroom](https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc) | [KUDOKUSHI](https://open.spotify.com/artist/5ZqVuddwpPFnq0GHGYVDzM) | [CRY OF FEAR](https://open.spotify.com/album/1KQZraye4S3UXhL3HbF7aJ) | 1:52 |
 | 50 | [Into the Sun](https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:47 |
 
-Snapshot ID: `MbOmsAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MbTzgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

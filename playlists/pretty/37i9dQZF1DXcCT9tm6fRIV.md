@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,916 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,927 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 38 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
 | 39 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
 | 40 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
-| 41 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 |
-| 42 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
+| 41 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
+| 42 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 |
 | 43 | [Silbando](https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ) | [Aníbal Arias](https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm) | [Una Guitarra Para Gardel](https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj) | 2:12 |
 | 44 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 45 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 50 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 |
 | 51 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
 | 52 | [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 |
-| 53 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
-| 54 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
+| 53 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
+| 54 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
 | 55 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 56 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 57 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |

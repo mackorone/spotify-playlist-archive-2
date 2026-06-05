@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: OKI",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Paluch, Chris Carson",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -186,6 +186,52 @@
       "duration_ms": 292902,
       "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
       "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
+    },
+    {
+      "album": {
+        "name": "MULTIVERSE",
+        "url": "https://open.spotify.com/album/16pmd5Gavfu1HLDyX5carC"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Kostek",
+          "url": "https://open.spotify.com/artist/292ZtZEV38d87HRQwnqa1p"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        },
+        {
+          "name": "Siles",
+          "url": "https://open.spotify.com/artist/3eXp28Gf4fOTq0HH1wK2ul"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        },
+        {
+          "name": "Giu",
+          "url": "https://open.spotify.com/artist/1D2EaubipUvYL5xXqWv3h1"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        },
+        {
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140575,
+      "name": "14 CM",
+      "url": "https://open.spotify.com/track/3EPSs1dKGk0V4ziFt0EpJu"
     },
     {
       "album": {
@@ -1960,7 +2006,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 178153,
       "name": "BERLIN2026",
       "url": "https://open.spotify.com/track/2u1n5WZTfYsJHWhCD8UUub"
@@ -2038,6 +2084,28 @@
       "duration_ms": 161311,
       "name": "BEZ KITU",
       "url": "https://open.spotify.com/track/6rtHO8JBa80jHELfUcq6Sw"
+    },
+    {
+      "album": {
+        "name": "Bez Listy",
+        "url": "https://open.spotify.com/album/0xYArTCrozTdiJa0nohhdt"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "TYK",
+          "url": "https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135505,
+      "name": "Bez Listy",
+      "url": "https://open.spotify.com/track/3RVEw5Vvwsv9z1YHfoqKsR"
     },
     {
       "album": {
@@ -6043,6 +6111,28 @@
     },
     {
       "album": {
+        "name": "EFEKT KULI \u015aNIE\u017bNEJ",
+        "url": "https://open.spotify.com/album/63SCphzHgZBqLFe0ZPhlxu"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "EFEKT KULI \u015aNIE\u017bNEJ",
+      "url": "https://open.spotify.com/track/1fdZoSgh5BYJbGoXwqeHTH"
+    },
+    {
+      "album": {
         "name": "EMBASSY / AMBASADA",
         "url": "https://open.spotify.com/album/2QzbcB3H2SnY8jmpW6ec0p"
       },
@@ -8738,7 +8828,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 202325,
       "name": "INNY",
       "url": "https://open.spotify.com/track/5H7hv7dkw75V8PQ7Zm8Hoi"
@@ -11828,7 +11918,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 197538,
       "name": "Manewr",
       "url": "https://open.spotify.com/track/73Y0m6VG2fbIU88hAqJMeh"
@@ -13879,6 +13969,36 @@
     },
     {
       "album": {
+        "name": "Nibylandia",
+        "url": "https://open.spotify.com/album/4EbgzOmWmas19W8HBxd1og"
+      },
+      "artists": [
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": ".voodoo people",
+          "url": "https://open.spotify.com/artist/3Z4rxaiMpSD2nMIvfEPeqk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Nibylandia",
+      "url": "https://open.spotify.com/track/3XFjGAbs5IdGNGDTbxFcNK"
+    },
+    {
+      "album": {
         "name": "NIC DO STRACENIA",
         "url": "https://open.spotify.com/album/1dVrp8wcOOKEpJDSAM89N3"
       },
@@ -14794,6 +14914,36 @@
       "duration_ms": 129632,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
+    },
+    {
+      "album": {
+        "name": "Nigdzie si\u0119 nie wybieram (przysi\u0119gam)",
+        "url": "https://open.spotify.com/album/2Rx8khfQu0NwaL2xxel2yO"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "_na.tiii_",
+          "url": "https://open.spotify.com/artist/6WtfiDBucQTcXUicXwe8sK"
+        },
+        {
+          "name": "Fundacja Cancer Fighters",
+          "url": "https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Nigdzie si\u0119 nie wybieram (przysi\u0119gam)",
+      "url": "https://open.spotify.com/track/1o0GX1awChpeKiumxiF4S4"
     },
     {
       "album": {
@@ -16793,6 +16943,32 @@
     },
     {
       "album": {
+        "name": "PCC 3.0",
+        "url": "https://open.spotify.com/album/6gLwySNsAnEM8NisJ6JP7I"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Pi\u0119kny sen",
+      "url": "https://open.spotify.com/track/590JARAOCFq35pqfndwHSr"
+    },
+    {
+      "album": {
         "name": "Plain Jane",
         "url": "https://open.spotify.com/album/1HfaMal3Pyq9XkLc9SnnBP"
       },
@@ -17582,7 +17758,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 160000,
       "name": "PROLOG",
       "url": "https://open.spotify.com/track/2IacziADIq3nCPjFtWItH2"
@@ -19191,6 +19367,28 @@
     },
     {
       "album": {
+        "name": "SERIO",
+        "url": "https://open.spotify.com/album/6Xgtuy59R6aLCcF4JpxVBV"
+      },
+      "artists": [
+        {
+          "name": "Bary",
+          "url": "https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SERIO",
+      "url": "https://open.spotify.com/track/78bAUUxyLxhBQDCVfXb8Ov"
+    },
+    {
+      "album": {
         "name": "ostatnie dni przekl\u0119tych dni",
         "url": "https://open.spotify.com/album/5FKKMJh5wj6oVoz4MGTaLF"
       },
@@ -19408,7 +19606,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 141500,
       "name": "Skincare",
       "url": "https://open.spotify.com/track/2RnkwJU73biCm13CKPKKa0"
@@ -20778,7 +20976,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 141924,
       "name": "TO NIEODPOWIEDZIALNE",
       "url": "https://open.spotify.com/track/3gi4zIAgCG6vCiofK4Oy2h"
@@ -23648,7 +23846,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 123187,
       "name": "Znasz ich",
       "url": "https://open.spotify.com/track/7zzEWQv4LnZ090I8KzTdwe"

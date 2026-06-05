@@ -6923,6 +6923,24 @@
     },
     {
       "album": {
+        "name": "Queen They Love to Hate",
+        "url": "https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "Queen They Love to Hate",
+      "url": "https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw"
+    },
+    {
+      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S"
       },
@@ -7418,6 +7436,24 @@
       "duration_ms": 189361,
       "name": "Same blue moon",
       "url": "https://open.spotify.com/track/0uH7sby1mHUKUyQWxGe4mA"
+    },
+    {
+      "album": {
+        "name": "Same Old Conversations",
+        "url": "https://open.spotify.com/album/2W7flHMDhErPU9Or3VOEl5"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Young",
+          "url": "https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186478,
+      "name": "Same Old Conversations",
+      "url": "https://open.spotify.com/track/2kJIYwJN84JYxi57lZXYVT"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43438,
+  "num_followers": 43435,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAat5Iq3ndeRz9nkjY78YvFpdLhhWzN",
+  "snapshot_id": "AAAauCcGogyQExDeKttmO/dyfan1/UWI",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:47",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/16p1REJdPPjQYLpduJsvOc"
+      },
+      "artists": [
+        {
+          "name": "Axel Knox",
+          "url": "https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/2fPcYmdrc3xu7Z16WrH9Mj"
+    },
     {
       "added_at": "2026-05-29 04:00:47",
       "album": {

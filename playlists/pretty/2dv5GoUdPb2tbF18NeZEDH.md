@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 ### [Southern Dessert : Desert Queens](https://open.spotify.com/playlist/2dv5GoUdPb2tbF18NeZEDH)
 
-> 
+> More on glitchandgold.com\. Follow @glitchandgoldmusic on Insta for interviews, Radar features and new discoveries.Submit your music on glitchandgold.com
 
 [Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 632 likes - 12 songs - 42 min 13 sec
 
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 | 11 | [Another Time](https://open.spotify.com/track/1vAWy6PHVCfjtKNm27TSI7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mud Blood Bone](https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU) | 3:39 |
 | 12 | [Why’d Ya Do It](https://open.spotify.com/track/1ICWvOqM1GND92d3XWiNo5) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:37 |
 
-Snapshot ID: `AAAFA0viwYz9b5FG/DEsbfxfX9zYqTuJ`
+Snapshot ID: `AAAFBFMN5kqsTxHtmp/8rMgx31Ql0u3O`

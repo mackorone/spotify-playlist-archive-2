@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45501,
+  "num_followers": 45505,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACTkjdRlE7i+UGSudZrUp68",
+  "snapshot_id": "ah9ugAAAAADmMXV9HpISXFRM/Jwh3ztI",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flashlight",
+        "url": "https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Flashlight",
+      "url": "https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vamos A La Playa",
         "url": "https://open.spotify.com/album/10ZpTebByNNtpQKYVSNkwU"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 126545,
       "name": "Vamos A La Playa",
       "url": "https://open.spotify.com/track/0yspwHZDIr9AGqD2NmSNrc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flashlight",
-        "url": "https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Flashlight",
-      "url": "https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3"
     },
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
         }
       ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+      "duration_ms": 210000,
+      "name": "Yee - Extended Mix",
+      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Yee - Extended Mix",
-      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elevation EP",
+        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00f3zalo (with Deorro)",
         "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 114000,
       "name": "G\u00f3zalo (with Deorro)",
       "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Cayendo",
-      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Front To Back",
         "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 225159,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni"
+      },
+      "artists": [
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI"
     },
     {
       "added_at": null,

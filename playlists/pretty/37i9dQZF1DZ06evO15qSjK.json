@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174035,
+  "num_followers": 174032,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAAyX6QFqWWumYbfgODZkRdD",
+  "snapshot_id": "ah9ugAAAAADXXTunxBE5Yzbik+L529FJ",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 200732,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 53",
         "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 213144,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/3bsecwjX5nHQQE21IQWyR0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 200732,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024 Vol. 2",
-        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180155,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 53",
         "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 172299,
       "name": "A BOP Song (A Shaboozey Cover)",
       "url": "https://open.spotify.com/track/6QpyAtDgHA8AyD23PvfhPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180155,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Megapop",
-        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+        "name": "KIDZ BOP 51",
+        "url": "https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 185200,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
+      "duration_ms": 208379,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 51",
-        "url": "https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9"
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
       "artists": [
         {
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 208379,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 39",
-        "url": "https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF"
+      "duration_ms": 185200,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+        "name": "KIDZ BOP 39",
+        "url": "https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 142383,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
+      "duration_ms": 193040,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF"
     },
     {
       "added_at": null,
@@ -567,6 +551,38 @@
       "duration_ms": 208685,
       "name": "Happy",
       "url": "https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142383,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 53",
+        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/3ONHJBIfCYtk2s9cMXoOvE"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 116074,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 53",
-        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/3ONHJBIfCYtk2s9cMXoOvE"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 32",
-        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 201937,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2023 Vol. 2",
         "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 207461,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5HKCQNd3vNxdP6PH9GWrVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
     },
     {
       "added_at": null,

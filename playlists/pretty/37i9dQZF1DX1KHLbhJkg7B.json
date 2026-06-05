@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Bailey Zimmerman",
-  "num_followers": 136321,
+  "num_followers": 136328,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
         "name": "Only Daddy That'll Walk The Line",
         "url": "https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 157880,
       "name": "Only Daddy That'll Walk The Line",
       "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-05-29 04:02:01",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-05-29 04:02:01",
       "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+    },
+    {
+      "added_at": "2026-05-29 04:02:01",
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": "2026-05-29 04:02:01",
-      "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     },
     {
       "added_at": "2026-05-29 04:02:01",

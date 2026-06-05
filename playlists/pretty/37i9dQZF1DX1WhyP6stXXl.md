@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,293 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,270 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 17 | [Second Chance](https://open.spotify.com/track/627HaYRxcr1ak6U0witZa2) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Second Chance](https://open.spotify.com/album/0SyyjYxgxMJH09uWIPYww7) | 3:06 |
 | 18 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
 | 19 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 |
-| 20 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 20 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 21 | [The Art Of Letting Go](https://open.spotify.com/track/6CYQj4H8kuw4itjqCUdYmv) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [The Art Of Letting Go](https://open.spotify.com/album/2ctgMkO96WCiiMP5diYxqe) | 4:00 |
 | 22 | [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 |
 | 23 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 68 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
 | 69 | [Headlines](https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [AURA](https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf) | 2:41 |
 | 70 | [Jeep](https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Jeep](https://open.spotify.com/album/4ktNXlFfaU5AckDtYUmB3S) | 3:29 |
-| 71 | [EAT U ALIVE](https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [EAT U ALIVE](https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz) | 2:51 |
+| 71 | [EAT U ALIVE](https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [EAT U ALIVE](https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz) | 2:48 |
 | 72 | [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 |
 | 73 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 | 74 | [Hold On](https://open.spotify.com/track/4mDpByrqRem8G1dOGWGdcC) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/3GeowXbGqp197cmSgRN0Yz) | 3:02 |

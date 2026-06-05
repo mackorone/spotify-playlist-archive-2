@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1KDoWqpOwcW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1KDoWqpOwcW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1KDoWqpOwcW)
 
-### [EL INFIERNO X Julián Ornelas 🥵🔥👹](https://open.spotify.com/playlist/37i9dQZF1DX1KDoWqpOwcW)
+### [El Infierno x Rolling Stones 👹👅](https://open.spotify.com/playlist/37i9dQZF1DX1KDoWqpOwcW)
 
-> Una playlist a la Diabla en compañía de Julián Ornelas
+> Una playlist a la Diabla en compañía de Rolling Stones
 
-396 songs - 23 hr 53 min
+400 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [If You Want Peace..\. Prepare For War](https://open.spotify.com/track/43NEu8Y1AiHMtjsDiBS64T) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Are You Dead Yet?](https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm) | 3:57 | 2024-08-23 | 2024-09-11 |
 | [Imaginaste](https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:18 | 2024-08-02 | 2024-08-24 |
 | [Immigrant Song](https://open.spotify.com/track/7De3mHIcLi9wIpdj71rjmh) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Lightning To The Nations 2020](https://open.spotify.com/album/5UCeq2k6uEKKdvlhSa91xy) | 3:19 | 2024-08-23 | 2024-09-11 |
+| [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-06-04 |  |
 | [It Wasn't Me](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:47 | 2025-07-25 |  |
 | [Jefe](https://open.spotify.com/track/6jk5lUCH3fZtDCwYZeVcsX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:57 | 2024-08-02 | 2025-07-25 |
 | [Jinetes en el Cielo](https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Desquítate Conmigo](https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S) | 3:30 | 2022-09-07 | 2024-08-03 |
@@ -300,6 +301,7 @@
 | [Rock 'n' Roll \(Part 2\)](https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [Glitter](https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO) | 3:13 | 2022-09-07 | 2024-04-19 |
 | [Rock And Roll Part II](https://open.spotify.com/track/63W11KVHDOpSlh3XMQ7qMg) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [The Replacements \(Music From The Motion Picture\)](https://open.spotify.com/album/3qzpmMw9JdlEOn2zt9S4EV) | 3:00 | 2022-09-07 | 2022-10-31 |
 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 | 2022-09-07 | 2024-03-12 |
+| [Rough And Twisted](https://open.spotify.com/track/1ilnthAuHvDnqO5rshz0Wy) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:39 | 2026-06-04 |  |
 | [Sabor A Beisbol \- Bonus Track](https://open.spotify.com/track/1bXgUOTrdy8k1ZzV9Ih1Wy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Le Preguntaba a la Luna](https://open.spotify.com/album/6EssY5LyLpMcgJVlbzQ5qt) | 3:19 | 2022-09-07 | 2024-08-03 |
 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 | 2024-03-11 | 2024-08-03 |
 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2024-03-11 | 2024-08-03 |
@@ -315,6 +317,7 @@
 | [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 | 2022-09-07 | 2022-11-13 |
 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2024-08-02 | 2024-08-24 |
 | [Shaped by Fire](https://open.spotify.com/track/1I7yVk8T0iBMpQXWX71GPs) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:38 | 2024-08-23 | 2024-09-11 |
+| [She's A Rainbow](https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [She's A Rainbow / Dandelion / We Love You](https://open.spotify.com/album/0ZVb7BLZuvx9ZZebd9i3lu) | 4:13 | 2026-06-04 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-09-10 | 2025-07-25 |
 | [Si No Quieres No](https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Si No Quieres No](https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF) | 2:27 | 2024-04-16 | 2024-08-03 |
 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 | 2022-09-07 | 2024-04-19 |
@@ -336,6 +339,7 @@
 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:49 | 2025-07-25 |  |
 | [Superstition](https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 3:14 | 2024-08-23 | 2024-09-11 |
 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2022-09-07 | 2024-03-12 |
+| [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2026-06-04 |  |
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-04-16 | 2024-08-03 |
 | [Take Me Out To The Ball Game](https://open.spotify.com/track/4o0k0mY8nrOrVz88thqP7R) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Humpty Dumpty & More Kids Songs](https://open.spotify.com/album/77gHwppEbcPlMQnN96FJ86) | 1:31 | 2022-09-07 | 2022-11-13 |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2022-09-07 | 2024-08-03 |

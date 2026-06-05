@@ -1,13 +1,333 @@
 {
-  "description": "The best new music every Friday. Cover: ear",
-  "num_followers": 1292145,
+  "description": "The best new music every Friday. Cover: Steve Lacy",
+  "num_followers": 1292149,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBxiJJU71GB5UQJD/7IzN89qUoa",
+  "snapshot_id": "AAAAAOdn8F+Yb6yIa2GXdEtqo4Trqmcc",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "the feeling",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Difficult Love",
+      "url": "https://open.spotify.com/track/0UDEtLcKGBU73D15u5g1r3"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Canto Andino",
+        "url": "https://open.spotify.com/album/1FQJNI1hQQVPBhbfp3OxID"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 193856,
+      "name": "Canto Andino",
+      "url": "https://open.spotify.com/track/2iULzJ4RcJUHGbYRZgc54P"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Stone Over Water",
+        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Taking Solace",
+        "url": "https://open.spotify.com/album/4XCrUPIheW0eOLUJieEgoE"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Rinkside",
+      "url": "https://open.spotify.com/track/140hCQAPNHoXx3bwoC3Tta"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "point blank",
+        "url": "https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 266613,
+      "name": "point blank",
+      "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "this time it\u2019s different / snake the drain",
+        "url": "https://open.spotify.com/album/0hcgY7AenXtuY7qlWCHM4B"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "snake the drain",
+      "url": "https://open.spotify.com/track/0Si5ByBdGENpWVZ9JafxFR"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Take the Form",
+        "url": "https://open.spotify.com/album/3EXYBCg3JvAnarbl8LXtvb"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 185672,
+      "name": "Take the Form",
+      "url": "https://open.spotify.com/track/0g1j3PjSbPQVhoOR87DgWe"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "DIZZY",
+        "url": "https://open.spotify.com/album/3hdZ3GGfVKCxGO7NC8JXQi"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "DIZZY",
+      "url": "https://open.spotify.com/track/1jPb37T7KjKd97YgE4MMp9"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "She Doesn't Want Me to Exist",
+        "url": "https://open.spotify.com/album/2d1klica3y6jk7nRt413XI"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 161181,
+      "name": "She Doesn't Want Me to Exist",
+      "url": "https://open.spotify.com/track/54donuwNKWydMCljWGvJK8"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/1s5H4YryYVdu13aMJUvDbz"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 428573,
+      "name": "close your eyes",
+      "url": "https://open.spotify.com/track/1noGAR76Oa2NLjmCvZxWeU"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Planet You Forgot Me",
+        "url": "https://open.spotify.com/album/6K26qRiWiocOKgPER4nDbc"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "i\u2019m a little flower",
+      "url": "https://open.spotify.com/track/5dbnORB2uilt5tJkAgm2mE"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Singing for fun",
+        "url": "https://open.spotify.com/album/23Pu9Mmm79LEEOnORW6hwz"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "BB gun",
+      "url": "https://open.spotify.com/track/0wjjJniBp9NQXc7JwKm2iD"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/68xP2NPfSLLmVjJ6SYMT8W"
+      },
+      "artists": [
+        {
+          "name": "Asal Hazel",
+          "url": "https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Tracksuit",
+        "url": "https://open.spotify.com/album/65wgsL4qA1L6VV7lvQhDQP"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Tracksuit",
+      "url": "https://open.spotify.com/track/5uYIouXXqHxc8G8fVavWq2"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Gretchen",
+        "url": "https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 171597,
+      "name": "Gretchen",
+      "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
+    },
+    {
+      "added_at": "2026-06-05 04:00:55",
+      "album": {
+        "name": "Dead End Street",
+        "url": "https://open.spotify.com/album/76a1I00vKBm8E4fUeuTP5s"
+      },
+      "artists": [
+        {
+          "name": "Zoh Amba",
+          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
+        }
+      ],
+      "duration_ms": 167444,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/4TXtYsbr9NVejCAA7jUxxK"
+    },
     {
       "added_at": "2026-05-29 04:01:50",
       "album": {

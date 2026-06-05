@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 228040,
       "name": "Ave verum corpus, T. 92",
       "url": "https://open.spotify.com/track/3LldoWLGpIfSnyovRXAQEo"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 155306,
       "name": "Crux fidelis",
       "url": "https://open.spotify.com/track/2CnQOlh3axc0kAjsE5YHbS"
@@ -833,6 +833,40 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Ruth Holton",
+          "url": "https://open.spotify.com/artist/6pqASX91Qh5vjWHFuLAllv"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134680,
+      "name": "I. Kyrie",
+      "url": "https://open.spotify.com/track/5QD1QSasFRj2WgXj84ZHwV"
+    },
+    {
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -1024,10 +1058,36 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 188426,
       "name": "III. Sanctus",
       "url": "https://open.spotify.com/track/69Vv9R3pQUli6Blios34An"
+    },
+    {
+      "album": {
+        "name": "Lighten Our Darkness: Music for the Close of Day",
+        "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
+      },
+      "artists": [
+        {
+          "name": "John Sheppard",
+          "url": "https://open.spotify.com/artist/3zjGl5F9O605l8da8H8Dhz"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "In pace",
+      "url": "https://open.spotify.com/track/6l9SkhpnVx3eXQE3De6Pqx"
     },
     {
       "album": {
@@ -1270,7 +1330,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 120480,
       "name": "Lord, For Thy Tender Mercy's Sake",
       "url": "https://open.spotify.com/track/0OLNOvIThH5VrBqZjLKw7q"
@@ -1688,7 +1748,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 151280,
       "name": "Te lucis ante terminum",
       "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
@@ -2044,6 +2104,36 @@
       "duration_ms": 222360,
       "name": "VII. In paradisum",
       "url": "https://open.spotify.com/track/2g6ndlvmZ8RhaiHEkimAO3"
+    },
+    {
+      "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Donna Deam",
+          "url": "https://open.spotify.com/artist/2Goj7tXbZNqo9cE40rsPHz"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438400,
+      "name": "VII. Lux aeterna",
+      "url": "https://open.spotify.com/track/6L8iSepfVRALylaq5x3wsH"
     },
     {
       "album": {

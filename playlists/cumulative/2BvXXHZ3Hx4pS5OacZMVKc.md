@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-457 songs - 23 hr 30 min
+458 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |
 | [Waiting For You](https://open.spotify.com/track/1TMABbejBbBNMd49DHFHdL) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq) | [Waiting For You](https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx) | 2:45 | 2022-02-08 | 2023-08-11 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-08-10 | 2024-11-20 |
+| [wanna do](https://open.spotify.com/track/0HaoNO8eXyjzlyVazU8otv) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu) | [wanna do](https://open.spotify.com/album/30CQ6sTIIBor6L2o7BgZfE) | 3:45 | 2026-06-04 |  |
 | [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-30 | 2023-08-11 |
 | [Warrior](https://open.spotify.com/track/1vdBgZHuVCTG7YJZdY2FGr) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Warrior](https://open.spotify.com/album/2opw2lG8l1NSCREhRzT7U7) | 2:42 | 2025-10-20 |  |

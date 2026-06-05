@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-271 songs - 19 hr 16 min
+272 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 | 2022-01-21 | 2023-09-15 |
 | [Bloomsbury](https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Bloomsbury](https://open.spotify.com/album/0CkkEvImWBgGUObR3wcVdA) | 4:30 | 2024-11-01 | 2025-02-14 |
 | [Bold Courage](https://open.spotify.com/track/4GI3rZ9kWxD1h38r9cRz5l) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Bold Courage](https://open.spotify.com/album/4YsWa9b3mb4UdSmqEphUp5) | 4:03 | 2022-01-21 | 2022-06-03 |
+| [Breathe](https://open.spotify.com/track/16rIY1qbudPY5bi827Zxuz) | [Gabriella Bongo](https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68), [TJ](https://open.spotify.com/artist/6QxCZdZiwzTlKMXxKYBdGs), [Jo](https://open.spotify.com/artist/6VrrHz8WTQs0zcGVgkHRVn) | [Breathe](https://open.spotify.com/album/1SZUNedwEiJrB14TTINzO3) | 2:39 | 2026-05-29 |  |
 | [Breathless](https://open.spotify.com/track/5yrtlFT7alypdHwBCANUEk) | [Subsets](https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb), [cluda](https://open.spotify.com/artist/2DFhBkg0nVtUcB4ARPpuXh) | [Breathless](https://open.spotify.com/album/7aTRgVt1lQHLmiglouFGKD) | 3:37 | 2025-02-14 | 2025-05-28 |
 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 | 2024-05-16 | 2026-05-23 |
 | [Broken Record](https://open.spotify.com/track/2UwuJuCR6uql3oR2Lfb0qU) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Broken Record](https://open.spotify.com/album/7DhJAYwKLHi00Zb5YDx2wE) | 3:21 | 2025-08-28 | 2026-01-17 |
@@ -96,7 +97,7 @@
 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2022-10-28 | 2025-05-09 |
 | [Fine Lines](https://open.spotify.com/track/6eD6GPEiaMna96ylz395oa) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Fine Lines](https://open.spotify.com/album/0cFM1QU0I7aQRBoSDWdP85) | 3:24 | 2023-09-15 | 2024-07-27 |
 | [FIX YOUR MIND](https://open.spotify.com/track/2vQ3SdCjvWPPU8ylEkMSw1) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [FIX YOUR MIND](https://open.spotify.com/album/551xUOT8OISQfLUou8snhk) | 3:48 | 2026-05-07 |  |
-| [Flight Therapy](https://open.spotify.com/track/0IQuaHqxChuGHi8oHyPCFj) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Form, Focus](https://open.spotify.com/album/4sMzSTO9xrkHNYL3nrnnbn) | 2:55 | 2025-10-31 |  |
+| [Flight Therapy](https://open.spotify.com/track/0IQuaHqxChuGHi8oHyPCFj) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Form, Focus](https://open.spotify.com/album/4sMzSTO9xrkHNYL3nrnnbn) | 2:55 | 2025-10-31 | 2026-06-05 |
 | [Flowers](https://open.spotify.com/track/1i43YZtoIBdrtofVyZmG2Q) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Luke Truth](https://open.spotify.com/artist/0WbTHyRYTNOgr1V7vjbaSq) | [Flowers](https://open.spotify.com/album/6ETsWAjAlyex1mOXprMPGg) | 3:54 | 2025-08-28 | 2025-09-16 |
 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 | 2022-06-14 | 2024-04-19 |
 | [Freefall](https://open.spotify.com/track/77VtotY5X2jt4SKVbNBZ0d) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/3fGQ5EGXBlqDpe4DlZ8H9N) | 4:50 | 2022-01-21 | 2022-07-29 |

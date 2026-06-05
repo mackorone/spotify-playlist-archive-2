@@ -6035,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Queen They Love to Hate",
+        "url": "https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "Queen They Love to Hate",
+      "url": "https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw"
+    },
+    {
+      "album": {
         "name": "Rain Falls In The Night.",
         "url": "https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8"
       },

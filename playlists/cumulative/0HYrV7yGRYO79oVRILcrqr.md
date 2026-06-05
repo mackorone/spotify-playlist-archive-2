@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-549 songs - 1 day 10 hr 9 min
+551 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Promised Land](https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92) | [Lynn & the RattleShakes](https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig) | [Beyond Rock 'n Roll](https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg) | 4:06 | 2026-05-19 |  |
 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 | 2026-05-17 | 2026-05-26 |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
+| [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 | 2026-06-04 |  |
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 | 2026-05-26 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
@@ -410,6 +411,7 @@
 | [Rust and Ruin](https://open.spotify.com/track/3kB1rGX0EteP1IPVBXHlFU) | [The Copperhead Saints](https://open.spotify.com/artist/25r3BsZgbzPfLCarFu1zTS) | [Hymns for the Hard\-Hearted](https://open.spotify.com/album/76qFdjyzqdqGjFewTlreh2) | 5:04 | 2026-05-03 | 2026-05-26 |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-06 | 2026-03-18 |
 | [Same blue moon](https://open.spotify.com/track/0uH7sby1mHUKUyQWxGe4mA) | [Barry Postlethwaite](https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo) | [Same blue moon](https://open.spotify.com/album/1lRtROCewUhlHMR095bq0l) | 3:09 | 2026-05-31 |  |
+| [Same Old Conversations](https://open.spotify.com/track/2kJIYwJN84JYxi57lZXYVT) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Same Old Conversations](https://open.spotify.com/album/2W7flHMDhErPU9Or3VOEl5) | 3:06 | 2026-06-04 |  |
 | [Scared of Okay](https://open.spotify.com/track/07VAdJmbCNBbloWnzmNEpX) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Scared of Okay](https://open.spotify.com/album/3QByuDDlt1E7u2UwfpgbzB) | 4:15 | 2026-05-21 |  |
 | [Schutzengel \- Live 2026](https://open.spotify.com/track/5yGpfxLnzmjY3yI8zJE4fO) | [Frame Band](https://open.spotify.com/artist/4IVYWGaG93XXtfwh1SbbHu), [van HOB](https://open.spotify.com/artist/7v8PUdfmhuEtfM8WthheHS) | [Schutzengel \(Live 2026\)](https://open.spotify.com/album/0az5EtzuhcARBvkdb1CGsR) | 4:02 | 2026-05-31 |  |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAACbGGk7MUzzClnG8JXrjLy9",
+  "snapshot_id": "ah9ugAAAAAB3PeoTpdIr/TWwthtRFZvh",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 221101,
-      "name": "Open / Rain",
-      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
+      "duration_ms": 188000,
+      "name": "Listen / Season",
+      "url": "https://open.spotify.com/track/3C6KU5hZvaanvtzbWqBZDY"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Listen / Season",
-      "url": "https://open.spotify.com/track/3C6KU5hZvaanvtzbWqBZDY"
+      "duration_ms": 221101,
+      "name": "Open / Rain",
+      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 420979,
-      "name": "Hamon",
-      "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+      "duration_ms": 420979,
+      "name": "Hamon",
+      "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
     },
     {
       "added_at": null,

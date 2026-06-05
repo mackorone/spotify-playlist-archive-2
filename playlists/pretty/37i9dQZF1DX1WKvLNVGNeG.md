@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WKvLNVGNeG.md) - [plain]
 
 > Fantasy and sci\-fi books where the rules are rewritten and queer stories lead the way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAL8lIOiFFkQNixLPfet864IDntuU`
+Snapshot ID: `AAAAACNDGCfAsp9NaFguP72bMwxR1SVU`

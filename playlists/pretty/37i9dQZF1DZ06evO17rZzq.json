@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5168,
+  "num_followers": 5171,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAABSA2Laf5w5vlAY+EnVm71c",
+  "snapshot_id": "ah9ugAAAAABrpcQcIppTuqyHTq8Ki5lm",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 144984,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 140409,
       "name": "Hot Girl Maybach",
       "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 144984,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 116506,
-      "name": "Stand On It",
-      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "German Engineering Zwei",
         "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 106285,
       "name": "Big Body",
       "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "Let It Ring",
-      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
     },
     {
       "added_at": null,
@@ -859,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
       "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+      "duration_ms": 155761,
+      "name": "Let It Ring",
+      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 143020,
       "name": "Bad Little Thing (feat. Kaliii)",
       "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -975,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Results Take Time",
-        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+        "name": "Accountable Blues",
+        "url": "https://open.spotify.com/album/1drgTeQV0wkw0OFFhQe43b"
       },
       "artists": [
         {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
+          "name": "Dono",
+          "url": "https://open.spotify.com/artist/5wyWKmk8XPhoJlD6rnw0eG"
         },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 155476,
-      "name": "Street Nigga (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+      "duration_ms": 144000,
+      "name": "Good News (Remix)",
+      "url": "https://open.spotify.com/track/41gY64wTB0TJFl83GHrabM"
     }
   ],
   "unique_name": "This Is Kaliii",

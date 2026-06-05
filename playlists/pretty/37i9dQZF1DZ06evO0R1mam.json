@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12680,
+  "num_followers": 12684,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAA2NE4CfczYMAuSexU19PHG",
+  "snapshot_id": "ah9ugAAAAAAic268sNq/6Y0QhwI1S3td",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyhow",
-        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Anyhow",
-      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 334186,
       "name": "Nobody - Live",
       "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyhow",
+        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Anyhow",
+      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 130505,
+      "name": "Every Time I Turn Around - Live In Houston",
+      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fearless (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 505773,
       "name": "I Give You Glory",
       "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 130505,
-      "name": "Every Time I Turn Around - Live In Houston",
-      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
     },
     {
       "added_at": null,
@@ -879,6 +879,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Jalisa Faye",
+          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
+        },
+        {
+          "name": "Rone Grant",
+          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
+        }
+      ],
+      "duration_ms": 282888,
+      "name": "Look Up - Live In LA",
+      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church On The Moon",
         "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 301226,
       "name": "Reppin' The Kingdom (feat. J Moss, Canton Jones, Tye Tribbett & T Haddy)",
       "url": "https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Jalisa Faye",
-          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
-        },
-        {
-          "name": "Rone Grant",
-          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
-        }
-      ],
-      "duration_ms": 282888,
-      "name": "Look Up - Live In LA",
-      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

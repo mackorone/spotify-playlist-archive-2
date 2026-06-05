@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[LU MARZAN\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[It All Started In May\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,933 likes - 29 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,942 likes - 29 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [LAHAT\-LAHAT](https://open.spotify.com/track/4kh1asQLNlbmxeWBJkKGEF) | [LU MARZAN](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl) | [LAHAT\-LAHAT](https://open.spotify.com/album/3eMBs7TH8SDKaNyMSal4IU) | 4:00 |
 | 3 | [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 |
 | 4 | [fallinlove?](https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC) | [Rajondo](https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu) | [fallinlove?](https://open.spotify.com/album/4FoPGnulf0eQ04csnAN1bG) | 3:29 |
-| 5 | [Una](https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY: CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:45 |
+| 5 | [Una](https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY \- CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:45 |
 | 6 | [All That We Had](https://open.spotify.com/track/0qNYYzegUvfZ2diLfz2wg9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [Fortune Cookie](https://open.spotify.com/album/61gYOga8jq2H3C7Y3XzWQa) | 3:32 |
 | 7 | [Sampaguita](https://open.spotify.com/track/3JD2ksnyfhhkOW0z6eINx9) | [sunset blvd](https://open.spotify.com/artist/7A5DPPrvylJFzZo56wDP1r) | [Sampaguita](https://open.spotify.com/album/1CKvDvpohZBo2KQ1ZafYnf) | 5:40 |
 | 8 | [HULING PAALAM..](https://open.spotify.com/track/1wPGE9pBOuhyJYKM5fPZTh) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [HULING PAALAM..](https://open.spotify.com/album/0uFETFILIHEax2KqWYrm7h) | 3:15 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 28 | [Lambing](https://open.spotify.com/track/0ZTb7irGGjNKhRKG1sDlqD) | [LEILA](https://open.spotify.com/artist/3PuI7h8Gfqdn9YyicCb10v) | [Lambing](https://open.spotify.com/album/7tqh8yTSaDddp6p8nJV9xz) | 4:01 |
 | 29 | [Ayaw ko na sana sa Love Song](https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg) | [Eightkidd](https://open.spotify.com/artist/0vEiV0Drm050vtjUXXe0Cv) | [Ayaw ko na sana sa Love Song](https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg) | 3:29 |
 
-Snapshot ID: `AAAAAM0I+BDzsxVFsOvIowPbc2R8zPkX`
+Snapshot ID: `AAAAALdSjb22YQWowMl/qqczyYVDeU10`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers\. Cover: Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,764 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,833 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 33 | [Maak Me Gek](https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Maak Me Gek](https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT) | 3:02 |
 | 34 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 |
 | 35 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0) | 3:43 |
-| 36 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 |
-| 37 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
+| 36 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
+| 37 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 |
 | 38 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
 | 39 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
 | 40 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 60 | [Mijn Stad](https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Danny de Munk](https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle) | 3:10 |
 | 61 | [Jannes hitmedley](https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 5:08 |
 | 62 | [Vrijgezel](https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Vlinders Van De Nacht](https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC) | 3:46 |
-| 63 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
-| 64 | [De Woonboot](https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | ['n Koffer Vol Met Dromen](https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz) | 4:27 |
+| 63 | [De Woonboot](https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | ['n Koffer Vol Met Dromen](https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz) | 4:27 |
+| 64 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
 | 65 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
 | 66 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
 | 67 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 96 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 |
 | 97 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 |
 | 98 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 |
-| 99 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
-| 100 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
+| 99 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
+| 100 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 
 Snapshot ID: `AAAAAKag/hwsBufsykY7iBD7t0s8ko1g`

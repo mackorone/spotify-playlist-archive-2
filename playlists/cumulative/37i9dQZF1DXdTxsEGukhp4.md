@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 楽音
 
-590 songs - 1 day 9 hr 36 min
+591 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 | 2025-07-24 |  |
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-22 | 2024-03-22 |
+| [2時間3分](https://open.spotify.com/track/6MEe4hFAdepYsOc2vMQlSC) | [freespace](https://open.spotify.com/artist/5sRuYHUZg2rUKCkKJzw2ew) | [2時間3分](https://open.spotify.com/album/2lpcrdrUS0o5LqrJHHSsQV) | 2:20 | 2026-06-04 |  |
 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 | 2023-11-16 | 2024-03-02 |
 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-09 | 2025-08-09 |
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-08-17 | 2023-09-29 |
@@ -371,7 +372,7 @@
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-02-23 | 2023-03-31 |
 | [こころのこり](https://open.spotify.com/track/1cqKVIGbfrsy3BdQK0atQ8) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/1HFBae3WUx2X2RpKY87nEI) | 3:36 | 2023-04-27 | 2023-06-09 |
 | [この恋はスクープされない](https://open.spotify.com/track/6d2AAgZbFFDe3TSX5dGOEi) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 5:25 | 2023-09-28 | 2023-12-15 |
-| [こんなもんじゃねぇ](https://open.spotify.com/track/466oi6VJ0JQ8le1Kv9CUeN) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 4:12 | 2026-04-08 |  |
+| [こんなもんじゃねぇ](https://open.spotify.com/track/466oi6VJ0JQ8le1Kv9CUeN) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 4:12 | 2026-04-08 | 2026-06-05 |
 | [さすらい](https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd) | 3:23 | 2023-11-09 | 2024-02-16 |
 | [さよならプリンセス](https://open.spotify.com/track/3rDpUjIlqllrgvZTq1DaVQ) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [さよならプリンセス](https://open.spotify.com/album/6B41pgJt4suwcAz5cf2j5B) | 2:06 | 2023-02-09 | 2023-03-10 |
 | [しなこワールド](https://open.spotify.com/track/0BW4k4NPrQLpUFOlunogaL) | [しなこ](https://open.spotify.com/artist/0PUlKPu2HTROtFNmqCR5zX) | [しなこワールド](https://open.spotify.com/album/57zvUIRLljQWKirhWFPkXN) | 2:07 | 2024-05-16 | 2024-08-23 |

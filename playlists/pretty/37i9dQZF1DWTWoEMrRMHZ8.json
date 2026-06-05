@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Zeca Baleiro, Vicente Barreto",
-  "num_followers": 355794,
+  "num_followers": 355772,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 217824,
       "name": "Gente Aberta / Imensamente Visceral",
       "url": "https://open.spotify.com/track/125cqbgLq4WeIW65E33qNU"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "M\u00e3e Terra (Estudio)",
-        "url": "https://open.spotify.com/album/0WPRErPj7ZPVOur7jKYO8n"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 336818,
-      "name": "M\u00e3e Terra - Estudio",
-      "url": "https://open.spotify.com/track/6DdRQFjydd06RGLWB8nmm0"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
         "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 164500,
       "name": "Queria Ter Nove",
       "url": "https://open.spotify.com/track/1c0qadA7kPd7YjLAgCGqjM"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "M\u00e3e Terra (Estudio)",
+        "url": "https://open.spotify.com/album/0WPRErPj7ZPVOur7jKYO8n"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 336818,
+      "name": "M\u00e3e Terra - Estudio",
+      "url": "https://open.spotify.com/track/6DdRQFjydd06RGLWB8nmm0"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -427,6 +427,42 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Vende-se Lembran\u00e7a",
+        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tanto Voc\u00ea",
+      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Esgotada",
+        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 238608,
+      "name": "Atitude",
+      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
       },
@@ -467,26 +503,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Esgotada",
-        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 238608,
-      "name": "Atitude",
-      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "A \u00daltima M\u00fasica (Acusticamente)",
         "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Vende-se Lembran\u00e7a",
-        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tanto Voc\u00ea",
-      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Depois do Breu",
         "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 250851,
       "name": "Depois do Breu",
       "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -575,6 +591,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "1\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+        }
+      ],
+      "duration_ms": 228314,
+      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Denga (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
       },
@@ -587,22 +623,6 @@
       "duration_ms": 125306,
       "name": "Denga - Ao Vivo",
       "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Vila do Sossego",
-        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Vila do Sossego",
-      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -663,18 +683,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+        "name": "Vila do Sossego",
+        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
       "artists": [
         {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+      "duration_ms": 249798,
+      "name": "Vila do Sossego",
+      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -695,22 +715,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "1\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+        "name": "MPBossa 2",
+        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         },
         {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+          "name": "Luciano Magno",
+          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
+        },
+        {
+          "name": "Andr\u00e9 Rio",
+          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
         }
       ],
-      "duration_ms": 228314,
-      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+      "duration_ms": 200835,
+      "name": "Bossa Sempre Nova",
+      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -727,6 +751,34 @@
       "duration_ms": 223421,
       "name": "Saudades, Elder",
       "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "BEM ME QUER / MINHA FLOR",
+        "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "MINHA FLOR",
+      "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -767,54 +819,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "BEM ME QUER / MINHA FLOR",
-        "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
         }
       ],
-      "duration_ms": 242000,
-      "name": "MINHA FLOR",
-      "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "MPBossa 2",
-        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Luciano Magno",
-          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
-        },
-        {
-          "name": "Andr\u00e9 Rio",
-          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
-        }
-      ],
-      "duration_ms": 200835,
-      "name": "Bossa Sempre Nova",
-      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -831,6 +851,26 @@
       "duration_ms": 190873,
       "name": "Agudo Grave",
       "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "D'Ouro Brilhante",
+        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        },
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
+        }
+      ],
+      "duration_ms": 246802,
+      "name": "D'Ouro Brilhante",
+      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -907,46 +947,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "D'Ouro Brilhante",
-        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        },
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
-        }
-      ],
-      "duration_ms": 246802,
-      "name": "D'Ouro Brilhante",
-      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Quase",
         "url": "https://open.spotify.com/album/3PQ0ob3ei1Y7IsLhJ02BoB"
       },
@@ -999,26 +999,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Mais Simples",
-        "url": "https://open.spotify.com/album/4tG7NaYzl78h5s26Ph131n"
+        "name": "Espelhos",
+        "url": "https://open.spotify.com/album/7p91aQf6m8ol80pRgbDdhM"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        },
-        {
-          "name": "Jos\u00e9 Miguel Wisnik",
-          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
+          "name": "Plinio PB",
+          "url": "https://open.spotify.com/artist/3ZX2Y2lbxP4dF4KDo64bkQ"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Mais Simples",
-      "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
+      "duration_ms": 191040,
+      "name": "Espelhos",
+      "url": "https://open.spotify.com/track/4fkN3GR7A7SSUoVg1ZL0Zu"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1043,18 +1035,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Espelhos",
-        "url": "https://open.spotify.com/album/7p91aQf6m8ol80pRgbDdhM"
+        "name": "Mais Simples",
+        "url": "https://open.spotify.com/album/4tG7NaYzl78h5s26Ph131n"
       },
       "artists": [
         {
-          "name": "Plinio PB",
-          "url": "https://open.spotify.com/artist/3ZX2Y2lbxP4dF4KDo64bkQ"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        },
+        {
+          "name": "Jos\u00e9 Miguel Wisnik",
+          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Espelhos",
-      "url": "https://open.spotify.com/track/4fkN3GR7A7SSUoVg1ZL0Zu"
+      "duration_ms": 236000,
+      "name": "Mais Simples",
+      "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
-      },
-      "artists": [
-        {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Avi\u00e3o",
         "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
       },
@@ -1267,6 +1267,38 @@
       "duration_ms": 191330,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Minhas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Leone",
+          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Cara Limpa",
+      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1295,18 +1327,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Minhas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+        "name": "Esgotada",
+        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
       },
       "artists": [
         {
-          "name": "Gabriel Leone",
-          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 211337,
-      "name": "Cara Limpa",
-      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
+      "duration_ms": 176235,
+      "name": "Contato",
+      "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Esgotada",
-        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 176235,
-      "name": "Contato",
-      "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "O Lado B da Bossa",
         "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 148762,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-05-29 03:00:18",

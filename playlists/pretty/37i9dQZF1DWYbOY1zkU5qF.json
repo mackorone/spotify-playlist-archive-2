@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 232867,
+  "num_followers": 232951,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+        "name": "Oye Mi Amor",
+        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
       },
       "artists": [
         {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+          "name": "Anabel",
+          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
         }
       ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+      "duration_ms": 195346,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+        }
+      ],
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
         "url": "https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 234437,
       "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
       "url": "https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Oye Mi Amor",
-        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
-      },
-      "artists": [
-        {
-          "name": "Anabel",
-          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 291929,
       "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",

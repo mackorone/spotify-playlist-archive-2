@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 332697,
+  "num_followers": 332902,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-04-30 04:10:16",
       "album": {
+        "name": "Dangal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        }
+      ],
+      "duration_ms": 299325,
+      "name": "Dangal",
+      "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
+    },
+    {
+      "added_at": "2026-04-30 04:10:16",
+      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
-    },
-    {
-      "added_at": "2026-04-30 04:10:16",
-      "album": {
-        "name": "Dangal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Daler Mehndi",
-          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
-        }
-      ],
-      "duration_ms": 299325,
-      "name": "Dangal",
-      "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
     },
     {
       "added_at": "2026-04-30 04:10:16",

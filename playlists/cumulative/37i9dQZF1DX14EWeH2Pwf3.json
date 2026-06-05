@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tedua aka Ted aka Ryan aka Ryan Ted in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Artie 5ive in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -6177,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "Cuore rotto",
+        "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Cuore rotto",
+      "url": "https://open.spotify.com/track/45vry78xJDOxCzW6oPbLyN"
+    },
+    {
+      "album": {
         "name": "CUORI SPEZZATI",
         "url": "https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K"
       },
@@ -7185,6 +7203,32 @@
     },
     {
       "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "E Allora",
+      "url": "https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY"
+    },
+    {
+      "album": {
         "name": "Ultimo piano",
         "url": "https://open.spotify.com/album/18frnKzFZcE7T8NqELRzOr"
       },
@@ -8048,7 +8092,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 199874,
       "name": "FELICI A MET\u00c0 (feat. Shiva)",
       "url": "https://open.spotify.com/track/3toZJYHeqc8mxHB40CGp6f"
@@ -8662,6 +8706,28 @@
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
+    },
+    {
+      "album": {
+        "name": "Fredda come l'inferno",
+        "url": "https://open.spotify.com/album/2gFDkEMws986w8We8k5geP"
+      },
+      "artists": [
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Fredda come l'inferno",
+      "url": "https://open.spotify.com/track/7L5upZvE5pdCQveaZbvk8K"
     },
     {
       "album": {
@@ -10144,7 +10210,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170000,
       "name": "HORSES",
       "url": "https://open.spotify.com/track/4btxehYMXxYyGngPeU7kIj"
@@ -23620,7 +23686,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166451,
       "name": "Voglio Di Pi\u00f9",
       "url": "https://open.spotify.com/track/45wYm3Gs6W57fg2gCHCtxB"

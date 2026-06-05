@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290320,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/23tr9MvcF8rrcxEOBtRBQe"
+    },
+    {
+      "album": {
         "name": "Both Sides (feat. Shoreline Mafia)",
         "url": "https://open.spotify.com/album/3TrSWaCfYyjBODoSEBMMOJ"
       },

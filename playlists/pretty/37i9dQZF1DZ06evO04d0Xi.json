@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73849,
+  "num_followers": 73846,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAADH+qE4oMP9dQtUmbDl9Y6u",
+  "snapshot_id": "ah9ugAAAAADovFIgHV8lascbl/qVI9KY",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,38 @@
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/1kLk2OUiRwaZa5zJgCjO6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279289,
+      "name": "A Tua Gl\u00f3ria Faz",
+      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 234103,
+      "name": "Amo o Senhor",
+      "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
     },
     {
       "added_at": null,
@@ -147,38 +179,6 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 234103,
-      "name": "Amo o Senhor",
-      "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279289,
-      "name": "A Tua Gl\u00f3ria Faz",
-      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Meu Bem Maior",
-      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 245481,
       "name": "Cacos Pelo Ch\u00e3o",
       "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,

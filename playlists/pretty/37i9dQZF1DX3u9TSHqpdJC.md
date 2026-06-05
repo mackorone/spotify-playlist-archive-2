@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Samaera\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,596 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,604 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [There's a Bridge](https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [There's a Bridge](https://open.spotify.com/album/346sFMjZ1DUCWrRDMsYMgg) | 2:48 |
 | 75 | [Emotional Currency](https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Emotional Currency](https://open.spotify.com/album/0AJmZZ3Q48msUG8qXcDe8c) | 2:31 |
 
-Snapshot ID: `AAAAAGwmgR0QH54FrN526HVRlCPzWlA4`
+Snapshot ID: `AAAAAJ7a8FWgUqlMVijgldpXbA233SIL`

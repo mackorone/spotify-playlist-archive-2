@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1878938,
+  "num_followers": 1878859,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
+        "name": "Para Siempre (Salsa Version)",
+        "url": "https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         },
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 267130,
-      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
+      "duration_ms": 269720,
+      "name": "Para Siempre - Salsa Version",
+      "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Para Siempre (Salsa Version)",
-        "url": "https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8"
+        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 269720,
-      "name": "Para Siempre - Salsa Version",
-      "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
+      "duration_ms": 267130,
+      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "La Carrera",
-        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        },
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 220851,
-      "name": "La Carrera",
-      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 191260,
       "name": "The Reason - Latin Version",
       "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "La Carrera",
+        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        },
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 220851,
+      "name": "La Carrera",
+      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "added_at": "2026-05-08 04:03:11",

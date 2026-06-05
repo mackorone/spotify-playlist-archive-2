@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Gilla Band",
+  "description": "The UK's biggest rock playlist. Cover: Nothing But Thieves",
   "name": "The Rock List",
   "tracks": [
     {
@@ -4994,7 +4994,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 301825,
       "name": "Cryogen",
       "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
@@ -7486,7 +7486,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 303174,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
@@ -9548,7 +9548,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 191821,
       "name": "Heatin Park",
       "url": "https://open.spotify.com/track/3DFp8aDFLHhw5ybu4EZ6rE"
@@ -9818,7 +9818,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 326599,
       "name": "Hexagons",
       "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
@@ -10261,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "O'JOY!",
+        "url": "https://open.spotify.com/album/6JqFMGRvFqLkWd4RMVNWAM"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199784,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/5O6hZDPvTS31fXufypSL9d"
+    },
+    {
+      "album": {
         "name": "House Baby",
         "url": "https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia"
       },
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159315,
       "name": "I Don't Wanna Go!",
       "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
@@ -15205,6 +15223,24 @@
     },
     {
       "album": {
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
+    },
+    {
+      "album": {
         "name": "Nineteen",
         "url": "https://open.spotify.com/album/4ES63njGp43adDMGUluERR"
       },
@@ -16268,7 +16304,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 179000,
       "name": "ONLY FREE WHEN SLEEPING",
       "url": "https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy"
@@ -17331,6 +17367,24 @@
     },
     {
       "album": {
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/4fQ1aq86IGj7Qi23o3loj2"
+      },
+      "artists": [
+        {
+          "name": "Sandhouse",
+          "url": "https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182723,
+      "name": "Pollyanna",
+      "url": "https://open.spotify.com/track/32N0lqg7pTYF7DtN8ozrsH"
+    },
+    {
+      "album": {
         "name": "Pop Out",
         "url": "https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn"
       },
@@ -18360,6 +18414,24 @@
       "duration_ms": 165640,
       "name": "Return My Head",
       "url": "https://open.spotify.com/track/7hbvq2vHYcYTgRs2tJgiel"
+    },
+    {
+      "album": {
+        "name": "Rich As Fuck",
+        "url": "https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI"
     },
     {
       "album": {
@@ -23023,6 +23095,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings (Deluxe)",
+        "url": "https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
+    },
+    {
+      "album": {
         "name": "rl stine",
         "url": "https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ"
       },
@@ -24312,6 +24402,28 @@
       "duration_ms": 194611,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
+    },
+    {
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
     },
     {
       "album": {

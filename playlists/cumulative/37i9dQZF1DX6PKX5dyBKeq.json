@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
   "name": "Rap UK",
   "tracks": [
     {
@@ -9032,7 +9032,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 122159,
       "name": "CHAMPIONSHIP",
       "url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql"
@@ -35162,6 +35162,24 @@
       "duration_ms": 170666,
       "name": "Real Rap 1",
       "url": "https://open.spotify.com/track/60imHRZdX6h0aDOZKDUzCq"
+    },
+    {
+      "album": {
+        "name": "REALA CHICK",
+        "url": "https://open.spotify.com/album/0ZnVuKV3KctWLr4qJspl3c"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150968,
+      "name": "REALA CHICK",
+      "url": "https://open.spotify.com/track/7JWrr0FtcAe535GfpQaCfP"
     },
     {
       "album": {

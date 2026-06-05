@@ -2778,6 +2778,28 @@
     {
       "album": {
         "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4K0Apo6HMWaURAcA0PSd3Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177619,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/7CzHAKKjLx6AUF1u8J7SOE"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
       "artists": [
@@ -4274,7 +4296,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 202000,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/3C3KiDRo8j7K9jHVOZL6fn"
@@ -6312,6 +6334,24 @@
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
+    },
+    {
+      "album": {
+        "name": "Mile High Club",
+        "url": "https://open.spotify.com/album/37vFZU991EBptdZsgGfy4M"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211340,
+      "name": "Mile High Club",
+      "url": "https://open.spotify.com/track/78Vr8tpu5JZHOaZdwwUWi5"
     },
     {
       "album": {
@@ -8894,7 +8934,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 170074,
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 328,
+  "num_followers": 329,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKCqQAi1dIkAaXOZNVetsBTeWDjin2",
+  "snapshot_id": "AAAKDDBVlJY8k8ul5Ao52HNBo0x5sr6g",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40195,6 +40195,38 @@
       "duration_ms": 220681,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0641\u0647\u0645\u0646\u0627 ( \u0645\u0646 \u0627\u0644\u062f\u0646\u064a\u0627 \u062f\u064a \u0627\u062a\u0639\u0644\u0645\u0646\u0627 )",
       "url": "https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW"
+    },
+    {
+      "added_at": "2026-06-04 17:30:30",
+      "album": {
+        "name": "Parts Per Million",
+        "url": "https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk"
+      },
+      "artists": [
+        {
+          "name": "Mat Partridge",
+          "url": "https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Kick the Brakes off (Now We're Rollin')",
+      "url": "https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG"
+    },
+    {
+      "added_at": "2026-06-05 03:54:30",
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/4nWgKF90jJuAsES92kzz33"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "duration_ms": 105609,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/2YxMVgmI7DysNQSqEIonLu"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

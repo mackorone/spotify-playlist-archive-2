@@ -1,12 +1,12 @@
 {
   "description": "New music from Future, Latto and G Herbo.",
-  "num_followers": 15729705,
+  "num_followers": 15728508,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHt7cTY0Qpw1IDI0SBD4F/crqZp",
+  "snapshot_id": "AAAAAEzMMOx7QyQj/0YuqTLLDqY/RxwL",
   "tracks": [
     {
       "added_at": "2026-05-29 04:02:10",
@@ -163,6 +163,26 @@
       "duration_ms": 191786,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
+    },
+    {
+      "added_at": "2026-06-04 04:00:29",
+      "album": {
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+      },
+      "artists": [
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2026-05-29 04:02:10",

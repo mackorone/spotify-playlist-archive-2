@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Qing Madi",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Esoterica",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 166333,
       "name": "Big Daddy",
       "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
@@ -848,6 +848,28 @@
       "duration_ms": 184378,
       "name": "CHERIE NA NGA",
       "url": "https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157922,
+      "name": "Chippie",
+      "url": "https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu"
     },
     {
       "album": {
@@ -2064,6 +2086,24 @@
       "duration_ms": 164400,
       "name": "i think i love you 2",
       "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
+    },
+    {
+      "album": {
+        "name": "Avant God",
+        "url": "https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4"
     },
     {
       "album": {

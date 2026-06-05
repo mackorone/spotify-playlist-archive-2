@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Janisht Joshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,791 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,822 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 49 | [Aao Na](https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 5:40 |
 | 50 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 51 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
-| 52 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
-| 53 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
+| 52 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
+| 53 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 54 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
 | 55 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
 | 56 | [Le Jaa](https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr) | [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Le Jaa](https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA) | 2:34 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 62 | [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 |
 | 63 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
 | 64 | [Ishq X Ranjha](https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo) | [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Ishq X Ranjha](https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6) | 2:31 |
-| 65 | [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 |
-| 66 | [Saanjh](https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc) | [Saanjh](https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV) | 4:00 |
-| 67 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
+| 65 | [Saanjh](https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc) | [Saanjh](https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV) | 4:00 |
+| 66 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
+| 67 | [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 |
 | 68 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 |
 | 69 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Tanmay Maheshwari](https://open.spotify.com/artist/5pEYLd9VildKNA7qUa6SEs) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
 | 70 | [Bhaage Naina](https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shishir](https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220) | [Bhaage Naina](https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl) | 2:39 |

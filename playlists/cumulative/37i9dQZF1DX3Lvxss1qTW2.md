@@ -2,7 +2,7 @@
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. Up Next: Emo Grae
+> The future hits of today\. Up Next: Bloody Civilian
 
 762 songs - 1 day 11 hr 19 min
 

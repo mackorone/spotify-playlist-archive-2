@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 185526,
       "name": "Alo Alo",
       "url": "https://open.spotify.com/track/0pHJfEW7mPR6iPHxKPSzxJ"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 127346,
       "name": "Aphrodisiac",
       "url": "https://open.spotify.com/track/6PKmTjftKZT2i8MlETiVqD"
@@ -6384,7 +6384,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 151812,
       "name": "Chimpum Callao",
       "url": "https://open.spotify.com/track/1YobfGMYCLDQzibdNOFN8B"
@@ -8328,7 +8328,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 246960,
       "name": "Dancing in My Daydream",
       "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
@@ -13919,6 +13919,36 @@
     },
     {
       "album": {
+        "name": "GANAS REMIX",
+        "url": "https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326746,
+      "name": "GANAS REMIX",
+      "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
+    },
+    {
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/2zDKrnwKcP2uh9wgcbX2B2"
       },
@@ -15552,7 +15582,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -16042,7 +16072,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -17096,7 +17126,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -21230,6 +21260,24 @@
       "duration_ms": 302120,
       "name": "Mapeye",
       "url": "https://open.spotify.com/track/5dmIEM8DckZdl1T6fTaOTl"
+    },
+    {
+      "album": {
+        "name": "MES\u00d3N MAS\u00d3N",
+        "url": "https://open.spotify.com/album/2EW1VjUpqyOLoqIMoc0xt1"
+      },
+      "artists": [
+        {
+          "name": "Los Diozes",
+          "url": "https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128654,
+      "name": "MARDOSA",
+      "url": "https://open.spotify.com/track/4SL83OuGBtZBTkHznrtVys"
     },
     {
       "album": {
@@ -33232,7 +33280,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 159999,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"

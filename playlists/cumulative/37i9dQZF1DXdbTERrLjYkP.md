@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Hailey Picardi
+> Discover the next wave of talent writing their own songs\. Cover: Lexi Jayde
 
-1,080 songs - 2 day 10 hr 13 min
+1,084 songs - 2 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 | 2025-10-18 |
 | [100 sq ft](https://open.spotify.com/track/6joM1SZtTJjWFGw0iE9gvz) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [not in a dollhouse anymore](https://open.spotify.com/album/099A2jIEqmy2Mv5H7ZVxOl) | 3:12 | 2024-09-27 | 2025-03-08 |
 | [15%](https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [15%](https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL) | 3:28 | 2024-10-11 | 2024-12-07 |
-| [17](https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [17](https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI) | 2:58 | 2026-04-24 |  |
+| [17](https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [17](https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI) | 2:58 | 2026-04-24 | 2026-06-05 |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 | 2023-04-01 |
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-02-11 | 2022-09-03 |
 | [26](https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [26](https://open.spotify.com/album/02zFvHEB9r68XIMpGdKjZv) | 3:08 | 2022-06-03 | 2022-08-06 |
@@ -55,7 +55,7 @@
 | [All my favorite songs](https://open.spotify.com/track/5JG7dSDKuy5tSM77KLnCzY) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:56 | 2022-01-14 | 2022-03-05 |
 | [All My Friends Keep Dying From Drugs \- Stripped with Strings](https://open.spotify.com/track/3jjF0DlkgN3VzgSYVRmAzM) | [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39), [Pan dö Baré](https://open.spotify.com/artist/2Oo18f5jnoGHTWHyW5rOGW) | [All My Friends Keep Dying From Drugs \(Stripped with Strings\)](https://open.spotify.com/album/6l0VcWuYddnzsxSxkUr3ny) | 3:33 | 2022-04-15 | 2022-04-29 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-02-26 |
-| [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-06 |  |
+| [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-06 | 2026-06-05 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:40 | 2022-03-18 | 2022-08-06 |
 | [Almost Did](https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Almost Did](https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj) | 2:25 | 2026-01-06 | 2026-04-25 |
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2022-11-18 | 2022-12-24 |
@@ -99,7 +99,7 @@
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 | 2025-11-26 |
-| [Basements & Bedrooms](https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP) | [Addie Costain](https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p) | [Basements & Bedrooms](https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK) | 3:38 | 2026-02-20 |  |
+| [Basements & Bedrooms](https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP) | [Addie Costain](https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p) | [Basements & Bedrooms](https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK) | 3:38 | 2026-02-20 | 2026-06-05 |
 | [batman](https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [batman](https://open.spotify.com/album/5vxI5NjlQ9kTLrqxsl4GAd) | 3:25 | 2026-04-17 |  |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
@@ -399,6 +399,7 @@
 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 | 2022-03-18 | 2022-07-02 |
 | [Happy Meaning](https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Happy Meaning](https://open.spotify.com/album/1bdNZjZT7g7Z5d7Q9RyTSS) | 3:07 | 2026-03-20 |  |
 | [Happy To Be Sad](https://open.spotify.com/track/7H1v4mORwHtxbnxQJOa19F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Losing My Accent](https://open.spotify.com/album/2w9auyPckdEUdZ9Y57WE1I) | 2:36 | 2024-08-09 | 2024-09-28 |
+| [hate 2 hate u](https://open.spotify.com/track/2xkRBMlUc4Hxy1kHFfdrWd) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [hate 2 hate u](https://open.spotify.com/album/322qPfO5WjnNYmgpDcMtes) | 2:28 | 2026-06-05 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-07-09 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-11 | 2022-07-09 |
 | [HAUNTED](https://open.spotify.com/track/66mdyICh5dlCRwji650pcp) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [HAUNTED](https://open.spotify.com/album/7LIhIdxDpoVeEgFvYWhC0G) | 3:38 | 2022-10-28 | 2023-01-28 |
@@ -674,7 +675,7 @@
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 | 2026-04-03 |  |
 | [Mystery Woman](https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Mystery Woman](https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK) | 3:04 | 2025-10-17 | 2026-03-07 |
-| [Narcissist](https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4) | [Tallulah Argue](https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd) | [Narcissist](https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J) | 3:29 | 2026-01-23 |  |
+| [Narcissist](https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4) | [Tallulah Argue](https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd) | [Narcissist](https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J) | 3:29 | 2026-01-23 | 2026-06-05 |
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
@@ -924,6 +925,7 @@
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 | 2023-09-16 |
 | [tetherball](https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [tetherball](https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD) | 3:27 | 2024-03-01 | 2024-08-17 |
+| [Thank You For Loving Me](https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Growing Pains](https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE) | 3:00 | 2026-06-05 |  |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 | 2022-07-02 |
 | [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 | 2025-05-10 |
 | [The Bend](https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Bend](https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7) | 4:02 | 2025-04-18 | 2025-07-19 |
@@ -993,6 +995,7 @@
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 | 2022-12-24 |
 | [Understood](https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Understood](https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy) | 2:11 | 2023-02-17 | 2023-04-09 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 | 2026-04-29 |
+| [Undiscovered](https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Satisfied Girl](https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP) | 3:31 | 2026-06-05 |  |
 | [Unfinished Business](https://open.spotify.com/track/51Es7m0L8xBEthyJna04so) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Unfinished Business](https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K) | 3:56 | 2024-08-23 | 2025-01-18 |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 | 2022-09-28 |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |
@@ -1081,6 +1084,7 @@
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-10-07 | 2022-12-10 |
 | [you'd never know](https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 3:05 | 2022-12-23 | 2023-09-02 |
 | [You'll Be Fine](https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [You'll Be Fine](https://open.spotify.com/album/39FcPlEZ6XEqGyYuyM5mtJ) | 2:41 | 2022-01-14 | 2022-03-12 |
+| [you're still mine](https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [you're still mine](https://open.spotify.com/album/1Yi6MsmowUiIXffPDCsK9D) | 3:19 | 2026-06-05 |  |
 | [Young & Green](https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek) | [Joely](https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg) | [Young & Green](https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf) | 4:00 | 2026-02-16 |  |
 | [young wild & free](https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [young wild & free](https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L) | 2:54 | 2024-08-02 | 2025-01-18 |
 | [Younger Self](https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5) | [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Younger Self](https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe) | 3:23 | 2022-05-27 | 2022-11-05 |

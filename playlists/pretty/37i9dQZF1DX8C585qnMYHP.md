@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:47lrOrvCYsOUCEQQsj119K">Yung Singh</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,046 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,219 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Spiral Emoji](https://open.spotify.com/track/0QRfXrPB0gbOOgeLmMCi1a) | [Wordcolour](https://open.spotify.com/artist/2u75EZNS4kCa8tnldGnUbH) | [Ratios IV](https://open.spotify.com/album/5WEHqOF9EzG7w8EhFk3KER) | 5:48 |
 | 50 | [Je M'appelle Tété](https://open.spotify.com/track/58aI1ZhTgyOh9pHU0Bgd8l) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [777](https://open.spotify.com/album/0PLgkwpOBriwfUzvXs7m2m) | 2:01 |
 
-Snapshot ID: `AAAAAO+Jx8QgIlLMaSg2uRxeDhJzu/iX`
+Snapshot ID: `AAAAAI5iUBIbCebXCoUsxWnJ30kpbLNc`

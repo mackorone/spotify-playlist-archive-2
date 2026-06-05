@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-255 songs - 12 hr 41 min
+258 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-07-28 | 2023-02-03 |
 | [Europa](https://open.spotify.com/track/67KWWEkbl4RmmhLUd4drKH) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Europa](https://open.spotify.com/album/04WETNvpvGGwXYku6oLPME) | 4:35 | 2023-01-26 | 2025-01-14 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-07 |  |
+| [Ewa Safi](https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ewa Safi](https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE) | 2:23 | 2026-06-04 |  |
 | [Expres](https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Expres](https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh) | 2:17 | 2023-02-23 |  |
 | [eye/i](https://open.spotify.com/track/5CLdd5dwC917cnJpAThcrq) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [eye/i](https://open.spotify.com/album/6OoXzkufPUbjMPOs9Buei7) | 2:52 | 2023-11-04 | 2024-05-23 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-28 | 2025-11-11 |
@@ -127,6 +128,7 @@
 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 | 2023-12-20 | 2024-07-27 |
 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 | 2022-10-02 | 2023-08-17 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-07-28 | 2022-12-15 |
+| [LAMARA](https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:59 | 2026-06-04 |  |
 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-07-28 | 2023-02-03 |
 | [Le temps](https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \(Donum Novae\)](https://open.spotify.com/album/1wfBteislDojq5pAYJufME) | 3:17 | 2022-07-28 | 2023-02-03 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-14 |  |
@@ -205,6 +207,7 @@
 | [Shikidim](https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Shikidim](https://open.spotify.com/album/4nckwHAozyiuAPeiQdaBzC) | 2:08 | 2023-03-16 |  |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-07-28 | 2024-04-11 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2022-07-28 | 2025-04-17 |
+| [SKI](https://open.spotify.com/track/3JlKA8Dkov8BLFngYBmTPH) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:13 | 2026-06-04 |  |
 | [SLAUGHTER FT J HUS](https://open.spotify.com/track/1CMxMiyupGPegADyyKFvVZ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [SLAUGHTER](https://open.spotify.com/album/0rHvxA1hRowFJ2TkqwKRj9) | 2:18 | 2026-03-06 |  |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-11-21 |  |
 | [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 | 2025-10-06 |  |

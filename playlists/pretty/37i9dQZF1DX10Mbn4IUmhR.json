@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "THIRTY THR33",
-        "url": "https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz"
-      },
-      "artists": [
-        {
-          "name": "Erin Elliot",
-          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
-        }
-      ],
-      "duration_ms": 176656,
-      "name": "THIRTY THR33",
-      "url": "https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Don't Call Me Up",
         "url": "https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg"
       },
@@ -1335,18 +1319,42 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "THE GOOD LIFE",
-        "url": "https://open.spotify.com/album/2H59dpijPa8ulFwZKquwRQ"
+        "name": "THIRTY THR33",
+        "url": "https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz"
       },
       "artists": [
         {
-          "name": "December Streets",
-          "url": "https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v"
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
         }
       ],
-      "duration_ms": 166230,
-      "name": "THE GOOD LIFE",
-      "url": "https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S"
+      "duration_ms": 176656,
+      "name": "THIRTY THR33",
+      "url": "https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "Elementary 2",
+        "url": "https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y"
+      },
+      "artists": [
+        {
+          "name": "Rhedi",
+          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+        },
+        {
+          "name": "Chiddy Bang",
+          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
+        },
+        {
+          "name": "Young Chux",
+          "url": "https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Late Adolescence",
+      "url": "https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac"
     }
   ],
   "unique_name": "pop fm",

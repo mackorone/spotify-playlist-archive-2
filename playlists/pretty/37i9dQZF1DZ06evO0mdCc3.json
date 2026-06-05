@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16319,
+  "num_followers": 16324,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah4dAAAAAAA6JGVfXkrqjSFQmFCQfz5T",
+  "snapshot_id": "ah9ugAAAAAC++vkEIQnLs16VFfOOa3dr",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 352242,
       "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+      "duration_ms": 210160,
+      "name": "Sorrow I Know",
+      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Sorrow I Know",
-      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     }
   ],
   "unique_name": "This Is Kittie",

@@ -1,13 +1,85 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Anangga",
-  "num_followers": 14282,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rayi Putra, Farrel Hilal",
+  "num_followers": 14285,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6ymX+KvpHzR7DYUzH/I4AAFTTs",
+  "snapshot_id": "AAAAAP53CimjHZGQTanCBmQjPBpR5XgQ",
   "tracks": [
+    {
+      "added_at": "2026-06-04 18:00:13",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/4aNePmRNnjTOVh3PgqtNxT"
+      },
+      "artists": [
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "duration_ms": 135432,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/1ARGO5jcbNkka0uGRaIa3S"
+    },
+    {
+      "added_at": "2026-06-04 18:00:13",
+      "album": {
+        "name": "Lost In Goodbye",
+        "url": "https://open.spotify.com/album/309phrWMkLw8ba4XYgw3MB"
+      },
+      "artists": [
+        {
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
+        }
+      ],
+      "duration_ms": 196867,
+      "name": "Lost In Goodbye",
+      "url": "https://open.spotify.com/track/5zybBaJSemuRy7kIZ5xBgo"
+    },
+    {
+      "added_at": "2026-06-04 18:00:13",
+      "album": {
+        "name": "JANGAN JAUH",
+        "url": "https://open.spotify.com/album/6XrScvnCtCk6kmsp3BYtxT"
+      },
+      "artists": [
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "duration_ms": 126593,
+      "name": "JANGAN JAUH",
+      "url": "https://open.spotify.com/track/6U5ajYRHzwjtDquZ1yZFyq"
+    },
+    {
+      "added_at": "2026-06-04 18:00:13",
+      "album": {
+        "name": "Terbang",
+        "url": "https://open.spotify.com/album/5V4ZwUqnadzfO4uIjqOANt"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Soul System",
+          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
+        },
+        {
+          "name": "Bryan Renaldo",
+          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Terbang",
+      "url": "https://open.spotify.com/track/4ISuno6tJruKgP6fZQ6pIa"
+    },
     {
       "added_at": "2026-05-28 18:00:19",
       "album": {
@@ -27,26 +99,6 @@
       "duration_ms": 161333,
       "name": "bahaya",
       "url": "https://open.spotify.com/track/39SwRu8Wr8R9O0YRZd9URP"
-    },
-    {
-      "added_at": "2026-05-21 17:00:19",
-      "album": {
-        "name": "GODSENT",
-        "url": "https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1"
-      },
-      "artists": [
-        {
-          "name": "Ave",
-          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
-        },
-        {
-          "name": "Januarta",
-          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "GODSENT",
-      "url": "https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58"
     },
     {
       "added_at": "2026-05-28 18:00:19",
@@ -83,6 +135,26 @@
       "duration_ms": 225000,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/05I8BGJrpzo3vrM07nungG"
+    },
+    {
+      "added_at": "2026-05-21 17:00:19",
+      "album": {
+        "name": "GODSENT",
+        "url": "https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1"
+      },
+      "artists": [
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
+        },
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "GODSENT",
+      "url": "https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58"
     },
     {
       "added_at": "2026-05-21 22:53:42",
@@ -957,22 +1029,6 @@
       "url": "https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc"
     },
     {
-      "added_at": "2025-12-11 18:00:19",
-      "album": {
-        "name": "365 DAYS",
-        "url": "https://open.spotify.com/album/7lTvQtcfljJVbfZD4VI4Zf"
-      },
-      "artists": [
-        {
-          "name": "Dessy klement",
-          "url": "https://open.spotify.com/artist/5zubx31uKUv1nDKRA86cOe"
-        }
-      ],
-      "duration_ms": 128424,
-      "name": "365 DAYS",
-      "url": "https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO"
-    },
-    {
       "added_at": "2026-01-22 18:00:10",
       "album": {
         "name": "Ya Sudahlah",
@@ -1007,22 +1063,6 @@
       "duration_ms": 417000,
       "name": "Do Right Baby! - Live",
       "url": "https://open.spotify.com/track/1bw73MM8ML2sips7nDExzG"
-    },
-    {
-      "added_at": "2025-11-28 00:59:02",
-      "album": {
-        "name": "Harus Kemana",
-        "url": "https://open.spotify.com/album/4mcYhkSZ4PhwOaRZ7uinrL"
-      },
-      "artists": [
-        {
-          "name": "CHNCE",
-          "url": "https://open.spotify.com/artist/0Fvh2UJqvgvzWFvCr8IJTI"
-        }
-      ],
-      "duration_ms": 251544,
-      "name": "Harus Kemana",
-      "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
     },
     {
       "added_at": "2025-11-27 17:30:01",
@@ -1213,22 +1253,6 @@
       "url": "https://open.spotify.com/track/3uj8DR1LlANaJe0CixYzGc"
     },
     {
-      "added_at": "2025-10-09 17:00:23",
-      "album": {
-        "name": "Singing Again",
-        "url": "https://open.spotify.com/album/5tcpgJ1av9iWBIy8vBYQED"
-      },
-      "artists": [
-        {
-          "name": "Andrea Najla",
-          "url": "https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Singing Again",
-      "url": "https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy"
-    },
-    {
       "added_at": "2025-09-18 17:00:31",
       "album": {
         "name": "BACK 2 YOU",
@@ -1243,22 +1267,6 @@
       "duration_ms": 221428,
       "name": "BACK 2 YOU",
       "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
-    },
-    {
-      "added_at": "2025-09-18 17:00:31",
-      "album": {
-        "name": "Safe Spot",
-        "url": "https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS"
-      },
-      "artists": [
-        {
-          "name": "Annisya",
-          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
-        }
-      ],
-      "duration_ms": 232195,
-      "name": "Safe Spot",
-      "url": "https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY"
     },
     {
       "added_at": "2025-08-21 19:00:33",

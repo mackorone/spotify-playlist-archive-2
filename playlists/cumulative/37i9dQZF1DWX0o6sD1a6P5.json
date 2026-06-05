@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Tayc x Singuila",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: TRIANGLE DES BERMUDES",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 159374,
       "name": "BENGA",
       "url": "https://open.spotify.com/track/6UHD4LWiUiOE0iGFnBvkWK"
@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "En bas de chez moi",
+        "url": "https://open.spotify.com/album/0upjmp3injgq5JQc59mzFD"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "En bas de chez moi",
+      "url": "https://open.spotify.com/track/3FoX8jrM7dyXZJD5jVPih4"
+    },
+    {
+      "album": {
         "name": "AMBITION II",
         "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
       },
@@ -9635,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+    },
+    {
+      "album": {
         "name": "LA S\u00c9R\u00c9NADE",
         "url": "https://open.spotify.com/album/719ClNQ3foCLG2VnEI0Rka"
       },
@@ -12538,6 +12574,28 @@
       "duration_ms": 129306,
       "name": "No Collab",
       "url": "https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g"
+    },
+    {
+      "album": {
+        "name": "No limit",
+        "url": "https://open.spotify.com/album/61toA98KZ5urcos7uDrwGJ"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196700,
+      "name": "No limit",
+      "url": "https://open.spotify.com/track/30WZF01eBBVO29qTK4NBQ5"
     },
     {
       "album": {
@@ -16252,7 +16310,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 168204,
       "name": "SONGI SONGI",
       "url": "https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y"
@@ -17370,7 +17428,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-05",
       "duration_ms": 165884,
       "name": "Tia Na S\u00e9",
       "url": "https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh"

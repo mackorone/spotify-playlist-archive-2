@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Bobby Van Jaarsveld
+> Net die beste Afrikaanse musiek! Omslag: Demi Lee Moore
 
-386 songs - 21 hr 19 min
+387 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 | 2023-05-12 |
 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 | 2023-12-14 |  |
 | [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 | 2025-11-06 | 2026-02-28 |
+| [Daai Gevoel](https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Daai Gevoel](https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF) | 3:11 | 2026-06-04 |  |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 | 2025-11-10 |  |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Die Vlamme Dood](https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Dans Die Vlamme Dood](https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76) | 2:53 | 2025-06-13 | 2025-08-30 |
@@ -129,7 +130,7 @@
 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 | 2025-05-01 | 2025-11-21 |
 | [Haar Naam Was Somer](https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Haar Naam Was Somer](https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE) | 3:14 | 2023-11-23 | 2024-09-28 |
 | [Hakahana](https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Hakahana](https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS) | 3:05 | 2023-07-20 | 2023-12-01 |
-| [Hallo My Maatjie](https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Hallo My Maatjie](https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7) | 3:40 | 2025-11-20 |  |
+| [Hallo My Maatjie](https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Hallo My Maatjie](https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7) | 3:40 | 2025-11-20 | 2026-06-05 |
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 | 2024-07-27 |
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 | 2022-10-29 |
 | [Hanrie Visagie](https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hanrie Visagie](https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc) | 2:38 | 2024-03-21 | 2024-08-02 |
@@ -172,7 +173,7 @@
 | [Jou Lippe](https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Swaeltjies](https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V) | 3:35 | 2023-03-09 | 2024-03-01 |
 | [Jou Tipe Boer](https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Jou Tipe Boer](https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban) | 3:27 | 2024-11-27 | 2025-07-08 |
 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 | 2024-07-25 | 2024-11-15 |
-| [Juliet](https://open.spotify.com/track/1ZIHYXmGjvRyeGq40uzrtQ) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Juliet](https://open.spotify.com/album/52fuSLI5eSLzmQLishb1FA) | 2:43 | 2026-05-21 |  |
+| [Juliet](https://open.spotify.com/track/1ZIHYXmGjvRyeGq40uzrtQ) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Juliet](https://open.spotify.com/album/52fuSLI5eSLzmQLishb1FA) | 2:43 | 2026-05-21 | 2026-06-05 |
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 | 2023-09-16 |
 | [Kalahari Ferrari](https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kalahari Ferrari](https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP) | 3:22 | 2023-12-08 | 2024-08-16 |
 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 | 2024-10-03 | 2026-05-29 |
@@ -380,7 +381,7 @@
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat Ek Wil Hoor](https://open.spotify.com/track/4Ru287GBQTvVF7PJ9ydWQO) | [Ryk Kleinhans](https://open.spotify.com/artist/7Mqa0OsJfdlr4CrKGah5NV) | [Wat Ek Wil Hoor](https://open.spotify.com/album/5CAqw8LhiLMVgldhcGUU04) | 3:28 | 2025-05-01 | 2025-06-01 |
-| [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 | 2026-06-01 |
+| [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 | 2023-07-13 | 2023-12-15 |
 | [Wes Kaap](https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [God Kan](https://open.spotify.com/album/26qfyYjiOZDdHj2c5uR20y) | 2:35 | 2024-12-12 | 2025-02-21 |
