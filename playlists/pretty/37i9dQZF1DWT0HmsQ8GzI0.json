@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: H\u00e9ra Barnab\u00e1s",
-  "num_followers": 16618,
+  "num_followers": 16631,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Kontakthiba",
-        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
-      },
-      "artists": [
-        {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Kontakthiba",
-      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "AK\u00c1RKIFIA",
         "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 197511,
       "name": "Ak\u00e1rkifia",
       "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "Kontakthiba",
+        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Kontakthiba",
+      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
+        "name": "Blicc",
+        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
       },
       "artists": [
         {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
         }
       ],
-      "duration_ms": 205688,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
+      "duration_ms": 228519,
+      "name": "Blicc",
+      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -651,18 +651,26 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Blicc",
-        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
+        "name": "MR. CITYWIDE",
+        "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+          "name": "veryraredome",
+          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
+        },
+        {
+          "name": "26ckay",
+          "url": "https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv"
+        },
+        {
+          "name": "starboyrolo",
+          "url": "https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq"
         }
       ],
-      "duration_ms": 228519,
-      "name": "Blicc",
-      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
+      "duration_ms": 187849,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -691,26 +699,18 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "MR. CITYWIDE",
-        "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
       },
       "artists": [
         {
-          "name": "veryraredome",
-          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
-        },
-        {
-          "name": "26ckay",
-          "url": "https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv"
-        },
-        {
-          "name": "starboyrolo",
-          "url": "https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 187849,
-      "name": "MARIO",
-      "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
+      "duration_ms": 205688,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
         "name": "buligyilkos",
         "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 190335,
       "name": "Magam sem tudom",
       "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "heal, heal, heal",
-        "url": "https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw"
-      },
-      "artists": [
-        {
-          "name": "The Anahit",
-          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
-        }
-      ],
-      "duration_ms": 213630,
-      "name": "heal, heal, heal",
-      "url": "https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "heal, heal, heal",
+        "url": "https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "duration_ms": 213630,
+      "name": "heal, heal, heal",
+      "url": "https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
         "name": "M\u00e9g Egyszer",
         "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 198352,
       "name": "M\u00e9g Egyszer",
       "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
+        "name": "vesz\u00e9lyes utc\u00e1k",
+        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "vesz\u00e9lyes utc\u00e1k",
+      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
         "name": "Fordul\u00f3",
         "url": "https://open.spotify.com/album/0xuToQNreb5qzK9tIJ6Hj5"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 154000,
       "name": "Fordul\u00f3",
       "url": "https://open.spotify.com/track/0NkGd1MWU8TBL0jFB8TLz2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
-        "name": "vesz\u00e9lyes utc\u00e1k",
-        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "vesz\u00e9lyes utc\u00e1k",
-      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
+        "name": "Itt vagyok",
+        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 164561,
+      "name": "Itt vagyok",
+      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
         "name": "PROMETHEUS",
         "url": "https://open.spotify.com/album/7HVCjcXc6QkoeimkdKBPHq"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
-        "name": "Itt vagyok",
-        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
+        "name": "Csillagb\u00f3l f\u00e9ny",
+        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 164561,
-      "name": "Itt vagyok",
-      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
+      "duration_ms": 251423,
+      "name": "Csillagb\u00f3l f\u00e9ny",
+      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1187,22 +1203,6 @@
       "duration_ms": 228500,
       "name": "L\u00e9tezem",
       "url": "https://open.spotify.com/track/3yj2AWVUr5oBoGFYrrOwTr"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
-        "name": "Csillagb\u00f3l f\u00e9ny",
-        "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 251423,
-      "name": "Csillagb\u00f3l f\u00e9ny",
-      "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
     },
     {
       "added_at": "2026-05-14 22:01:45",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-05-14 22:01:45",
       "album": {
+        "name": "Szeg\u00e9nyk\u00e9m",
+        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Szeg\u00e9nyk\u00e9m",
+      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
+    },
+    {
+      "added_at": "2026-05-14 22:01:45",
+      "album": {
         "name": "Var\u00e1zsl\u00f3",
         "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 147000,
       "name": "Var\u00e1zsl\u00f3",
       "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
-    },
-    {
-      "added_at": "2026-05-14 22:01:45",
-      "album": {
-        "name": "Szeg\u00e9nyk\u00e9m",
-        "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Szeg\u00e9nyk\u00e9m",
-      "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
     },
     {
       "added_at": "2026-05-14 22:01:45",

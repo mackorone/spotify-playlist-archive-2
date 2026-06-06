@@ -371,6 +371,36 @@
     },
     {
       "album": {
+        "name": "110 at Midnight",
+        "url": "https://open.spotify.com/album/4lapgnNNiKbhoMmKu7d2FI"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "110 at Midnight",
+      "url": "https://open.spotify.com/track/3xvM7ox4LI1uNbonZniR7a"
+    },
+    {
+      "album": {
         "name": "A Compton Story (Director's Cut)",
         "url": "https://open.spotify.com/album/4Htph9ONzvIStrBb0aRj2t"
       },
@@ -6189,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "Beauty And A Beat",
+        "url": "https://open.spotify.com/album/7e0XjJlLm0uUgkMqzqJRFA"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227695,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/2tVnJCm2TuAfWLj5GDLY9k"
+    },
+    {
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
       },
@@ -6358,6 +6406,28 @@
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
+    },
+    {
+      "album": {
+        "name": "Sir Render",
+        "url": "https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z"
     },
     {
       "album": {
@@ -7772,6 +7842,36 @@
       "duration_ms": 214437,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/0ySTntZi8hCtA17tBELCG7"
+    },
+    {
+      "album": {
+        "name": "BLAOW! (with Herbal T & Jarv)",
+        "url": "https://open.spotify.com/album/2aTJJZ6YgdXBDqBbTK7tQo"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Herbal T",
+          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
+        },
+        {
+          "name": "Jarv",
+          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "BLAOW! (with Herbal T & Jarv)",
+      "url": "https://open.spotify.com/track/2FBQRhBavdazCraCYQigvi"
     },
     {
       "album": {
@@ -13106,7 +13206,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 210889,
       "name": "Come Clean",
       "url": "https://open.spotify.com/track/5eRIn5m7LQSPyoy8oDvFUs"
@@ -18748,7 +18848,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197681,
       "name": "Dry Spell",
       "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
@@ -18956,7 +19056,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 74613,
       "name": "Duncan Hills Coffee Jingle - Remixed & Remastered",
       "url": "https://open.spotify.com/track/0gTGaDoqPO8vPwK8z39TSr"
@@ -20159,6 +20259,28 @@
     },
     {
       "album": {
+        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
+        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        },
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
+      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
+    },
+    {
+      "album": {
         "name": "Es brennt... (The Terrible Version by Alex Terrible)",
         "url": "https://open.spotify.com/album/1IANCSge2nbbY4hDhP3LZw"
       },
@@ -20532,6 +20654,28 @@
       "duration_ms": 235006,
       "name": "EVEN THE SCORE",
       "url": "https://open.spotify.com/track/6tZ8Kg5yyOltyjuMBfN2sg"
+    },
+    {
+      "album": {
+        "name": "Every Single Weekend (feat. Jamie xx)",
+        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130133,
+      "name": "Every Single Weekend (feat. Jamie xx)",
+      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
     },
     {
       "album": {
@@ -21632,7 +21776,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 239000,
       "name": "Fat Joe (with Demrick & Kail Problems)",
       "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
@@ -22290,7 +22434,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 239120,
       "name": "FIND GOD (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU"
@@ -30191,6 +30335,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293390,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
+    },
+    {
+      "album": {
         "name": "POMPEII // UTILITY",
         "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
       },
@@ -32128,7 +32290,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 114760,
       "name": "I'm Gonna Live Till I Die",
       "url": "https://open.spotify.com/track/2fhMMMA2Ea9MjGYW2sOue3"
@@ -32416,7 +32578,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 163440,
       "name": "Ich bin von Kopf bis Fuss auf Liebe eingestellt",
       "url": "https://open.spotify.com/track/3JBPoTqkfLBUAH9HN3sad7"
@@ -44005,6 +44167,32 @@
     },
     {
       "album": {
+        "name": "Mudhole",
+        "url": "https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x"
+      },
+      "artists": [
+        {
+          "name": "Captain Murphy",
+          "url": "https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Little Snake",
+          "url": "https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153655,
+      "name": "Mudhole",
+      "url": "https://open.spotify.com/track/6measgcwVZxbpSkySsQM93"
+    },
+    {
+      "album": {
         "name": "Muggsy Bogues",
         "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
       },
@@ -44140,7 +44328,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "Murmaider - Remixed & Remastered",
       "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
@@ -47659,6 +47847,28 @@
     },
     {
       "album": {
+        "name": "CEREMONIAL",
+        "url": "https://open.spotify.com/album/0TXzjbEdlyZRKNsX4UJgzc"
+      },
+      "artists": [
+        {
+          "name": "Black Milk",
+          "url": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293839,
+      "name": "OK\u2026 Nah",
+      "url": "https://open.spotify.com/track/1rOXGKp69n4MThEPXSaNE3"
+    },
+    {
+      "album": {
         "name": "Old Habits",
         "url": "https://open.spotify.com/album/0pYNnywCq1gruqzw2DpvrR"
       },
@@ -51168,6 +51378,24 @@
       "duration_ms": 138270,
       "name": "Pierre-feuille",
       "url": "https://open.spotify.com/track/44vnhlt0FqQUE1zW2n22A6"
+    },
+    {
+      "album": {
+        "name": "8-Tracks",
+        "url": "https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214945,
+      "name": "Pigs on the Wing - 8-Track Version",
+      "url": "https://open.spotify.com/track/2v8YjRvFlvmqYRs4uZwd2W"
     },
     {
       "album": {
@@ -54855,6 +55083,24 @@
     },
     {
       "album": {
+        "name": "Taking Solace",
+        "url": "https://open.spotify.com/album/4XCrUPIheW0eOLUJieEgoE"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Rinkside",
+      "url": "https://open.spotify.com/track/140hCQAPNHoXx3bwoC3Tta"
+    },
+    {
+      "album": {
         "name": "Riots",
         "url": "https://open.spotify.com/album/2GnhBv9oglOQrwhJtnxSa0"
       },
@@ -54904,6 +55150,36 @@
       "duration_ms": 228670,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/3z0zyuRP0ayvV09c3sGC3R"
+    },
+    {
+      "album": {
+        "name": "Rise Again (Blarny Remix)",
+        "url": "https://open.spotify.com/album/5ITRGdeCHOtsuctdKetGQy"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Kayla Kelley",
+          "url": "https://open.spotify.com/artist/1JYXBwvd3qW5Yc92NGIA8C"
+        },
+        {
+          "name": "Mr Blarny",
+          "url": "https://open.spotify.com/artist/27s6KgDg6pkdEr50hPo10l"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351552,
+      "name": "Rise Again (Blarny Remix)",
+      "url": "https://open.spotify.com/track/2eTFXwhohckV569OYmkljw"
     },
     {
       "album": {
@@ -58942,7 +59218,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 153655,
       "name": "Sing Me a Swing Song (And Let Me dance)",
       "url": "https://open.spotify.com/track/008d6XYJ1fVcWOuzxcleKQ"
@@ -69402,7 +69678,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 202248,
       "name": "Torture of the Heart",
       "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
@@ -73266,7 +73542,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 153000,
       "name": "We Bring Da Monster",
       "url": "https://open.spotify.com/track/6J73u0ecsNpW5lwPRZjERm"

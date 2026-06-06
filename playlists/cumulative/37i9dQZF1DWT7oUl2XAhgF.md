@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: The Womack Sisters
+> A new take on a classic sound\. Cover: Jalen Ngonda
 
-603 songs - 1 day 12 hr 10 min
+604 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bridge of Love](https://open.spotify.com/track/4gzjWQHdsN0aLhKK1YDEqY) | [Bobby Harden & The Soulful Saints](https://open.spotify.com/artist/71Gn2qVCqTPof7twyFKasz) | [Bridge of Love](https://open.spotify.com/album/1zPVAfmWW8w5VBYpeewE6S) | 5:15 | 2023-04-07 | 2023-09-09 |
 | [Bring You A Ring](https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bring You A Ring](https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ) | 3:06 | 2023-09-08 | 2025-05-10 |
 | [Brooklyn to Brooklin](https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5) | [Brooklyn to Brooklin](https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR) | 4:34 | 2022-08-19 | 2023-02-25 |
+| [Burning Temptation](https://open.spotify.com/track/35VN6nIXJaJzOIeRzjOMkT) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a) | 3:31 | 2026-06-05 |  |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 | 2025-06-07 |
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-07-09 | 2023-01-28 |
 | [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 | 2024-01-12 | 2024-09-21 |
@@ -186,7 +187,7 @@
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2021-07-09 | 2023-02-18 |
 | [Half at Home in Love](https://open.spotify.com/track/5Fc7tNYVtof24BmrbUjVqM) | [The Commonheart](https://open.spotify.com/artist/74fgnoMTNfvWwayrEMa3lT) | [For Work or Love](https://open.spotify.com/album/6q0rhobSIHGHSxum4MbNEx) | 4:49 | 2022-09-16 | 2022-10-08 |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 | 2024-07-27 |
-| [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-17 |  |
+| [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-17 | 2026-06-06 |
 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 | 2021-07-09 | 2023-01-28 |
 | [Hard Up](https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl) | 4:15 | 2021-07-09 | 2022-07-29 |
 | [Hardest Yards](https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [DIG!](https://open.spotify.com/album/3DREa2s2CceeFKADZVyqrX) | 3:16 | 2026-04-10 |  |

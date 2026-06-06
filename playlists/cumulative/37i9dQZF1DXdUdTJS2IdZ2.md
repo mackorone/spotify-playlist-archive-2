@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Regina Song
 
-1,433 songs - 3 day 6 hr 5 min
+1,434 songs - 3 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,6 +1295,7 @@
 | [在每個宇宙相愛](https://open.spotify.com/track/3oysIo1ItJYOrg87a4cDdo) | [張惜雯](https://open.spotify.com/artist/4vh4fJ5mSmA75xWnKyA4bJ) | [在每個宇宙相愛](https://open.spotify.com/album/3NATNpWZDsuOp2HGGqiuZR) | 3:45 | 2024-09-12 | 2024-11-09 |
 | [地球與隕石](https://open.spotify.com/track/5AP8M6iR2nriu7yB93IIAP) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [地球與隕石](https://open.spotify.com/album/0dV0XQmhIAsRZ4XsUpIIXW) | 2:46 | 2026-03-26 | 2026-05-22 |
 | [坠在原点的我](https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [坠在原点的我](https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u) | 4:15 | 2024-08-22 | 2024-12-13 |
+| [塑料袋](https://open.spotify.com/track/43cvPb1VCbkxhEf6UbmTY0) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [塑料袋](https://open.spotify.com/album/26H14nLxKEMkh6CicJsRpU) | 3:24 | 2026-06-05 |  |
 | [天未放晴](https://open.spotify.com/track/34d0yLJwVCVXiALtK4dMaQ) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [天未放晴](https://open.spotify.com/album/7fxAuYTR1KpkHQx6TO6KUt) | 3:59 | 2026-03-12 | 2026-05-08 |
 | [失去你100種方式](https://open.spotify.com/track/7mSKOZA5gsW4wi1m7lSDu8) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [失去你100種方式](https://open.spotify.com/album/0IGUORBjDVGgKaGtRkly6A) | 4:16 | 2024-08-29 | 2024-11-09 |
 | [失敗主義](https://open.spotify.com/track/0vD4j2IJENyEi0l389Li18) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [在 · 哪裡](https://open.spotify.com/album/7AJowhM7jOvthbsA5lGaS0) | 4:11 | 2025-07-17 | 2025-09-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: wavvyboi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,462 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,447 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 12 | [Hold It For Her](https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Porcelain](https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw) | 3:48 |
 | 13 | [SWITCH](https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [SWITCH](https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn) | 2:41 |
 | 14 | [Doing It Wrong](https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ), [First June](https://open.spotify.com/artist/4f2GbBCjUJJDFXSvsTuyqn) | [Doing It Wrong](https://open.spotify.com/album/0ir7ane2shVWPnuBZwYCwG) | 3:56 |
-| 15 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
+| 15 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
 | 16 | [DRAG!](https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [Lagoona Aqua Pussy](https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe) | [DRAG!](https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8) | 2:15 |
 | 17 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 18 | [Golondrina y Tortolita](https://open.spotify.com/track/25cCbTeW2RD3FPPgtb4dol) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Golondrina y Tortolita](https://open.spotify.com/album/3twCHqmmqHXitnYqHlu1uA) | 3:53 |

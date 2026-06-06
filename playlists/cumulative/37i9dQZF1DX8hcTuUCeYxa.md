@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Leoniden
 
-2,945 songs - 7 day 1 hr 20 min
+2,946 songs - 7 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1365,6 +1365,7 @@
 | [Julie](https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Julie](https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ) | 4:37 | 2024-12-12 | 2025-01-17 |
 | [July](https://open.spotify.com/track/0FAGv9gD6w0ieLDwx3dAM3) | [Havington](https://open.spotify.com/artist/7zxjSp5r2J27m4U7qNZS9n) | [July](https://open.spotify.com/album/3sz9khmg75n5PGvfDOnaFj) | 2:20 | 2024-07-18 | 2024-08-16 |
 | [Jump Out](https://open.spotify.com/track/4y48UT2EzIDrdiUHEeM4J8) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Jump Out](https://open.spotify.com/album/6wPmLdKcJ7IOckaAoTk2AR) | 3:15 | 2025-03-20 | 2025-04-04 |
+| [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 | 2026-06-04 |  |
 | [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 | 2026-05-28 |  |
 | [June Gloom](https://open.spotify.com/track/3Dz648LApqLMTSTCaXfcat) | [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [June Gloom](https://open.spotify.com/album/0GR0DV5NnC6Mf6sUhcUJFg) | 3:07 | 2025-08-07 | 2025-08-22 |
 | [June Guitar](https://open.spotify.com/track/04D3vlBBu49iC0XP7ys1i5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [June Guitar](https://open.spotify.com/album/7x28LDVChhkBuYz87lTuuC) | 3:52 | 2025-06-26 | 2025-07-04 |
@@ -1935,6 +1936,7 @@
 | [People Need People](https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [People Need People](https://open.spotify.com/album/3zAyNQMIfYDCTpm5PYapi8) | 2:45 | 2025-09-05 | 2025-10-03 |
 | [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 | 2025-01-09 | 2025-02-07 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-14 | 2024-12-13 |
+| [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 | 2026-06-04 |  |
 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 | 2024-07-25 | 2024-08-23 |
 | [perfect one](https://open.spotify.com/track/3bPdBPuxl5PEumQvUgQjkz) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [perfect one](https://open.spotify.com/album/6lK5NGNeNQ8hCCELn9TnqB) | 3:07 | 2025-11-27 | 2026-01-16 |
 | [Perfect Pain](https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Biting Heels](https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy) | 2:59 | 2026-04-09 | 2026-04-24 |
@@ -2022,6 +2024,7 @@
 | [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-24 | 2024-11-22 |
 | [Quiet Life](https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Quiet Life](https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2) | 3:16 | 2025-07-10 | 2025-08-09 |
 | [Quiet Power](https://open.spotify.com/track/2RWG5cQeAaFjY6S2PJCAcW) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Lush Life EP](https://open.spotify.com/album/6HcNirfHS9cvBlUhBGew0f) | 4:05 | 2026-03-19 | 2026-04-17 |
+| [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-04 |  |
 | [Quiz Show Clue](https://open.spotify.com/track/0AZPRop6tpnPTEeWHagcTw) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Quiz Show Clue](https://open.spotify.com/album/5HDIHmiNNVAQCwNPVe7Nsy) | 4:48 | 2024-08-22 | 2024-09-20 |
 | [Rabbits Can Swim](https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Rabbits Can Swim](https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n) | 4:13 | 2026-03-19 | 2026-04-17 |
 | [Raccoons](https://open.spotify.com/track/5sLDF5I0lVyJmvVYZkIyyN) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Raccoons](https://open.spotify.com/album/1RxdlVSfOACHcfrwzOxQ5M) | 3:23 | 2026-05-21 |  |
@@ -2182,6 +2185,7 @@
 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 | 2025-05-01 | 2025-05-30 |
 | [SHE'S THE ONE](https://open.spotify.com/track/6bThmfKklvcMt6dumn6PEL) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SHE'S THE ONE](https://open.spotify.com/album/1IbW8vKO2UgRHvxerU4sfI) | 3:45 | 2024-08-22 | 2024-09-13 |
 | [Shimmy Shimmy](https://open.spotify.com/track/4KbtDEAyioeg7LtahOvzU1) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Shimmy Shimmy](https://open.spotify.com/album/0xKM7UNXM8swN6PRA9N7cY) | 2:53 | 2026-04-23 | 2026-05-22 |
+| [Shiny Apocalypse](https://open.spotify.com/track/0Us5lzdqbon4OEWw0Qen7r) | [Antonia XM](https://open.spotify.com/artist/1p9ojSgsFItNwrG18I910T) | [Watch the world end](https://open.spotify.com/album/4tacTU0ASgJpfjIsjvEJrK) | 2:42 | 2026-06-05 |  |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-16 | 2025-02-07 |
 | [Short Spell](https://open.spotify.com/track/7IWVdBB4RgfNozJSvkV9DJ) | [Anna Hauss](https://open.spotify.com/artist/3NGUdKdCdLI65sivxlSmOv) | [Short Spell](https://open.spotify.com/album/5Vnp4UpAWboiDVCre83wtY) | 3:55 | 2025-02-20 | 2025-03-07 |
 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 | 2026-04-30 | 2026-05-29 |
@@ -2658,9 +2662,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 13](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 0:00 | 2026-06-04 |  |
-| [Track 2](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 0:00 | 2026-06-04 |  |
-| [Track 2](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 0:00 | 2026-06-04 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

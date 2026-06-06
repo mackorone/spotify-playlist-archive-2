@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🧺<br/>cover: Malcolm Todd
 
-1,013 songs - 2 day 3 hr 41 min
+1,013 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 | 2025-05-22 | 2025-07-18 |
 | [Jigsaw Heart](https://open.spotify.com/track/7aHwSH7OkiP318W7b2jOeP) | [S.A.M](https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb) | [Jigsaw Heart](https://open.spotify.com/album/2b9umDQJbMYeY6YCfHNqGo) | 2:14 | 2025-05-22 | 2025-07-04 |
 | [Jimmy](https://open.spotify.com/track/1VCYGP2odcoBvdoSDz2X5X) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Jimmy](https://open.spotify.com/album/7mnUUiELC0DATi2cQoK4Rj) | 3:54 | 2025-10-31 | 2026-02-06 |
+| [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 | 2026-06-04 |  |
 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 | 2024-06-27 | 2024-09-27 |
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-27 | 2024-09-21 |
 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 | 2026-04-30 | 2026-05-29 |
@@ -697,7 +698,7 @@
 | [Pomegranate](https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Pomegranate](https://open.spotify.com/album/1Mt6MI8JFoSOkWWSP1CHJw) | 3:10 | 2025-10-10 | 2026-01-30 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 | 2025-10-03 |
 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 | 2025-08-28 | 2025-10-17 |
-| [Prettier Things](https://open.spotify.com/track/1Y5MdLY2r5PmrRUzcl2dIw) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Jenny Hollingworth](https://open.spotify.com/artist/1tqFUaegclFw5Ty6cIPK8U) | [Tell Me It's A Dream](https://open.spotify.com/album/46hJQsJ4KcnzlyqDBjpZrw) | 3:36 | 2026-06-04 |  |
+| [Prettier Things](https://open.spotify.com/track/1Y5MdLY2r5PmrRUzcl2dIw) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Tell Me It's A Dream](https://open.spotify.com/album/46hJQsJ4KcnzlyqDBjpZrw) | 3:36 | 2026-06-04 |  |
 | [pretty](https://open.spotify.com/track/7o6G7qNzrsnW0cpTjZ1erz) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [pretty](https://open.spotify.com/album/2kWk6J6FUStP7K4urQ266l) | 3:00 | 2024-06-27 | 2024-07-12 |
 | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM) | 4:37 | 2024-11-29 | 2025-05-09 |
 | [Pretty Girls](https://open.spotify.com/track/3AUpTpz3K8o54wxCHnTgDz) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Pretty Girls](https://open.spotify.com/album/6Rd08XZvsepsY6RqZ3cEyy) | 2:26 | 2025-08-01 | 2025-10-03 |
@@ -918,7 +919,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-03 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 2](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 0:00 | 2026-06-04 |  |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 | 2026-04-17 |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-23 |  |

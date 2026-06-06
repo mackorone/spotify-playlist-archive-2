@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "BadBoyHeaven",
+        "url": "https://open.spotify.com/album/2hDLG5Kn5Ivv2VltPSDg8Y"
+      },
+      "artists": [
+        {
+          "name": "It's Different",
+          "url": "https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "BadBoyHeaven",
+      "url": "https://open.spotify.com/track/4ozEsUNSSFXnpi5UjfXaUU"
+    },
+    {
+      "album": {
         "name": "Badniss",
         "url": "https://open.spotify.com/album/1krLgSqhTIvAi0T7FM3goB"
       },
@@ -2636,6 +2658,24 @@
       "duration_ms": 148474,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/27Jox9FmzQcLvDCdp0qcLw"
+    },
+    {
+      "album": {
+        "name": "EYES ON US",
+        "url": "https://open.spotify.com/album/7COqnvZea0eqCWqP45gevA"
+      },
+      "artists": [
+        {
+          "name": "2frers",
+          "url": "https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130927,
+      "name": "EYES ON US",
+      "url": "https://open.spotify.com/track/0DzHeufALfs51yaLHdNroi"
     },
     {
       "album": {

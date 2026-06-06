@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 449 songs - 22 hr 38 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 456 songs - 23 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -457,5 +457,12 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 447 | [Godlike](https://open.spotify.com/track/041ONip9aubd1MPC8xVS6h) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [GODLIKE](https://open.spotify.com/album/3Gjxc8F40U2bqu1fjXRBwr) | 3:05 |
 | 448 | [Made of Love and Light](https://open.spotify.com/track/6MWf6KIvkJEgHFpXWWOUZb) | [Low Tide Signals](https://open.spotify.com/artist/0yLzIVCnk8YeBE8UikbhFG) | [Made of Love and Light](https://open.spotify.com/album/6Ek51whd9gWkEvKaiTUukf) | 3:20 |
 | 449 | [So What If I Don't Fit In](https://open.spotify.com/track/5D4ClV0qMYsvpLbD6VcqVm) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [So What If I Don't Fit In](https://open.spotify.com/album/2FZh6fa3AM434KzmszF33d) | 2:42 |
+| 450 | [Acariciar tu pelo](https://open.spotify.com/track/5jxAQ3iRTWD8TNM7Cwacvf) | [Sergio de Malaguilla](https://open.spotify.com/artist/7CV6pQSi9tJ8tjcKt8av1D) | [Entre Cuerdas, Vol\. 1](https://open.spotify.com/album/1lleAohAsHtth90hArQlWm) | 3:22 |
+| 451 | [Hi\-De\-Ho](https://open.spotify.com/track/5P6mvyfmlUrpvKAiZnxLGF) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Hi\-De\-Ho](https://open.spotify.com/album/5172De2E44SsHzNU7mlAAd) | 4:50 |
+| 452 | [Tirando Trompos](https://open.spotify.com/track/6IlipMWsBib8ZamgFtk0hX) | [Chuy Almada](https://open.spotify.com/artist/2uel6weBjllLHfMEeJCHds), [AKA HANIBALL](https://open.spotify.com/artist/0gVWDUIPSAfkROnMSMhZOv) | [Tirando Trompos](https://open.spotify.com/album/2uSmfKPPmzWpQda7fDSF85) | 2:55 |
+| 453 | [No Tienes Corazón](https://open.spotify.com/track/0y7qP4I3DhlmG9oNsQMR3Q) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Tente](https://open.spotify.com/artist/1LAGbvUX2QG5pAtnVhwl2M) | [No Tienes Corazón](https://open.spotify.com/album/25OzAcBJtgczwMrSo33DSR) | 2:08 |
+| 454 | [Dancing into sunshine \- Feel Good Remix](https://open.spotify.com/track/7bxYg2GSM5UwhaaZ9tYO7g) | [Viaggi Sonori](https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q), [Mark Sunrise](https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw), [Jolie](https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z) | [Dancing into sunshine \(Feel Good Remix\)](https://open.spotify.com/album/09GN6GVyQlwXr3xlwZhqJ9) | 2:41 |
+| 455 | [Youngest In Charge 2](https://open.spotify.com/track/60NffZgbHJdiNjVXLKSQZ3) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Dystopia](https://open.spotify.com/album/7a9Y8otyjqsa6cbgNoTBxx) | 2:48 |
+| 456 | [story arc](https://open.spotify.com/track/5iHBZttUY54RGWYJtIpXQU) | [d4rio](https://open.spotify.com/artist/2ydB2ahNKZCU50v3tZkkj8) | [endless now](https://open.spotify.com/album/0kuv6COvqmNOOO3OXDiF5H) | 4:08 |
 
-Snapshot ID: `AAAcaZt3IBbYy4xRU3vGQkF4IdC+eWrk`
+Snapshot ID: `AAAccLJ7I2ibHl1bJHRfRgx7M+G+f+7h`

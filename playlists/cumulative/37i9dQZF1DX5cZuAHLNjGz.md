@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Arjan Dhillon
+> Ultimate 101 Punjabi Hits with Navaan Sandhu
 
 590 songs - 1 day 6 hr 0 min
 

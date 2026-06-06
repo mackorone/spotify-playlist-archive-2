@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Rvfv, Ozuna y el resto de novedades de la semana.
+> Rvfv, Ozuna, Taylor Swift y el resto de novedades de la semana.
 
-5,747 songs - 12 day 6 hr 25 min
+5,749 songs - 12 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,6 +1374,7 @@
 | [Dime Por Qué](https://open.spotify.com/track/0MEWVpMztr1rvllwB5UwFw) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Dime Por Qué](https://open.spotify.com/album/5aLNaqdZymbCyKBWFJ4j0b) | 2:26 | 2024-10-24 | 2024-11-01 |
 | [Dime que me quieres](https://open.spotify.com/track/5eKkRAGDeLbXBBdRTb9V0Z) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Dime que me quieres](https://open.spotify.com/album/4dtk1U2S0HWliFRkKm4G9d) | 2:52 | 2026-04-02 | 2026-04-10 |
 | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw) | 3:36 | 2024-12-19 | 2025-01-03 |
+| [DIME QUE TIENES UN PLAN](https://open.spotify.com/track/5gz5HYlXgeY5dzao7ArkHs) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [DIME QUE TIENES UN PLAN](https://open.spotify.com/album/369CwAcopRHsEduAuUUOi1) | 2:42 | 2026-06-05 |  |
 | [Dime qué le pasó](https://open.spotify.com/track/49CfriIh6CBghtC62v24No) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [Dime qué le pasó](https://open.spotify.com/album/6UP98LV2U34qRdFQJxW2C1) | 2:42 | 2025-07-10 | 2025-07-18 |
 | [Dime si vas a venir](https://open.spotify.com/track/2AwtVNLJj9EFWOLbklpbYg) | [R01](https://open.spotify.com/artist/1MPomO2r21x5Adhn9TGfH5), [Roi](https://open.spotify.com/artist/55e3PARQefUOrTPIDTbURW) | [Dime si vas a venir](https://open.spotify.com/album/5VYXNXqdLr9mfR5DI8FHer) | 3:12 | 2025-08-28 | 2025-09-05 |
 | [Dime Tú Si Soy Yo](https://open.spotify.com/track/10uVUnuAyMKlRxrePw5Ykn) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Dime Tú Si Soy Yo](https://open.spotify.com/album/0VFV0QzmP42w7ypEKjjb27) | 2:22 | 2025-07-10 | 2025-07-18 |
@@ -2274,6 +2275,7 @@
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-13 | 2026-02-20 |
 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 | 2026-02-05 | 2026-02-13 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-08 | 2026-01-16 |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I know](https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [I know](https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu) | 2:57 | 2024-12-06 | 2024-12-13 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-26 | 2026-04-03 |
 | [I Love It](https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [I Love It](https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId) | 2:58 | 2026-02-13 | 2026-02-20 |

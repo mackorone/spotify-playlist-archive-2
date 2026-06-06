@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Esther
 
-1,282 songs - 3 day 1 hr 43 min
+1,282 songs - 3 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,6 +859,7 @@
 | [PEACE](https://open.spotify.com/track/7xW67JpjGBWErB2LZu9v4k) | [Spleen United](https://open.spotify.com/artist/1qBqsr5kuSRxPn13aE8fnY) | [PEACE // 7 Days In The Burning Bright Sun](https://open.spotify.com/album/2sk9ihOcVRevHb6ZgCyXOf) | 4:55 | 2024-06-27 | 2024-08-02 |
 | [Peace Reign](https://open.spotify.com/track/37AnElQAdOqGpCwahotyce) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Peace Reign](https://open.spotify.com/album/0pTNyJZT9TsdWpw1x7cdg7) | 2:35 | 2025-03-20 | 2025-06-20 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-14 | 2025-02-21 |
+| [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 | 2026-06-04 |  |
 | [Personally](https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA), [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Personally](https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7) | 3:58 | 2025-07-31 | 2026-01-16 |
 | [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 | 2025-08-21 | 2026-01-16 |
 | [pianoboy](https://open.spotify.com/track/7J4ZVJuGIKZDIEml0zl6x9) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [pianoboy](https://open.spotify.com/album/7ENlSvR5BE6aFmdDAeTvG8) | 2:28 | 2026-01-29 |  |
@@ -938,6 +939,7 @@
 | [Santa Fe](https://open.spotify.com/track/1p2TGUwoOr7oimoicT8O5q) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Santa Fe](https://open.spotify.com/album/6nkpLrf14CdKLAAno5dRsl) | 3:39 | 2026-05-21 |  |
 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 | 2025-03-07 | 2025-05-16 |
 | [Satans diamanter](https://open.spotify.com/track/6Nphv8A7KEIo6lz6dH3jyv) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Satans diamanter](https://open.spotify.com/album/5EaLOg0XBcQzvxIm0Tl2Ok) | 3:26 | 2025-10-23 | 2026-05-01 |
+| [Savage Love](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 2:33 | 2026-06-04 |  |
 | [Say It's Over](https://open.spotify.com/track/2Bld0ECkYEE0Txsgdkp0hA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Say It's Over](https://open.spotify.com/album/5vTE6chsIaysIXnlqJ22zE) | 2:05 | 2025-03-27 | 2025-06-20 |
 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-20 |  |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 | 2026-01-16 |
@@ -1156,8 +1158,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 1](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 0:00 | 2026-06-04 |  |
-| [Track 13](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 0:00 | 2026-06-04 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

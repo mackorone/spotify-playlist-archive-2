@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-453 songs - 22 hr 44 min
+454 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Goodbye Don't Mean I'm Gone](https://open.spotify.com/track/2R0RZiBr3JzEJR703AkcZh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:33 | 2023-12-30 |  |
 | [Gotta Get Through Another Day](https://open.spotify.com/track/3PxezNLKAA9fwYZzVnf5hW) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:33 | 2023-12-30 |  |
 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 | 2023-12-30 |  |
-| [Halfway to Paradise](https://open.spotify.com/track/5dUBXFkqGGLkl4Cf6A3AoU) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [Halfway to Paradise](https://open.spotify.com/album/7qf9Or9xFN1cm6KJg0QGUm) | 2:27 | 2026-05-25 |  |
+| [Halfway to Paradise](https://open.spotify.com/track/5dUBXFkqGGLkl4Cf6A3AoU) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [Halfway to Paradise](https://open.spotify.com/album/7qf9Or9xFN1cm6KJg0QGUm) | 2:27 | 2026-05-25 | 2026-06-06 |
+| [Halfway to Paradise](https://open.spotify.com/track/1Kd9yDDh9rZjWkec3wA9wr) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [Twistin' Heartbeat](https://open.spotify.com/album/4n8TRauvKsK40NFWWIhNXH) | 2:31 | 2026-06-05 |  |
 | [Halfway to Paradise](https://open.spotify.com/track/3dxi3FNwJITkZTgiStD3Xr) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [Halfway to Paradise Again](https://open.spotify.com/album/4ugPDX2qiVWGphouk2oxRs) | 2:31 | 2026-04-20 | 2026-05-26 |
 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 | 2023-12-30 |  |
 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 | 2023-12-30 |  |

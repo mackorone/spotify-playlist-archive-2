@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Young Cister",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ROBI",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -5843,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "Desayuno Pa' 2",
+        "url": "https://open.spotify.com/album/4L8UibVoRQL9ofKz6nePHX"
+      },
+      "artists": [
+        {
+          "name": "Erick Brian",
+          "url": "https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208562,
+      "name": "Desayuno Pa' 2",
+      "url": "https://open.spotify.com/track/6lN0MtkSbHDaIjuNhgYxXU"
+    },
+    {
+      "album": {
         "name": "desbarat\u00e1ndome",
         "url": "https://open.spotify.com/album/1JhFONe2KrAFPeSzX6fyRp"
       },
@@ -6976,7 +6998,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
@@ -9138,7 +9160,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 154320,
       "name": "gotas - raw demo",
       "url": "https://open.spotify.com/track/54N459IAKDsbEgBALzGifR"
@@ -11256,7 +11278,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 213428,
       "name": "La Teor\u00eda",
       "url": "https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa"
@@ -12808,6 +12830,24 @@
       "duration_ms": 180720,
       "name": "MARAT\u00d3N",
       "url": "https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj"
+    },
+    {
+      "album": {
+        "name": "mariposa",
+        "url": "https://open.spotify.com/album/2Z9UBkdfRxVoGQcPmr45Ui"
+      },
+      "artists": [
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142752,
+      "name": "mariposa",
+      "url": "https://open.spotify.com/track/7efa8D5wbvY4YhykYQD7HZ"
     },
     {
       "album": {
@@ -14573,6 +14613,24 @@
     },
     {
       "album": {
+        "name": "sorry si soy GRRRIS",
+        "url": "https://open.spotify.com/album/2REZnpE59NSHnRdZHXfyzC"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "NI NA\u2019",
+      "url": "https://open.spotify.com/track/39C3rCxx20wcrWA1ACfUfI"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/1Emercc6tSRhNo13uQkyMI"
       },
@@ -14740,6 +14798,24 @@
       "duration_ms": 212038,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
+    },
+    {
+      "album": {
+        "name": "AGUACERO",
+        "url": "https://open.spotify.com/album/1Rroeh4FB6WEWoE5DgSl4z"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135510,
+      "name": "No Es Por Suerte",
+      "url": "https://open.spotify.com/track/5mQ3LPOt5L6Lvna23x6rpk"
     },
     {
       "album": {
@@ -17068,6 +17144,40 @@
       "duration_ms": 176721,
       "name": "Platicamos",
       "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
+    },
+    {
+      "album": {
+        "name": "Platillos Voladores",
+        "url": "https://open.spotify.com/album/26ypee1Jhn1kUa8rDBrGyh"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Platillos Voladores",
+      "url": "https://open.spotify.com/track/05Tx4DtAXqFy8aKpptOygo"
     },
     {
       "album": {
@@ -20480,7 +20590,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
@@ -21770,7 +21880,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 216149,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"

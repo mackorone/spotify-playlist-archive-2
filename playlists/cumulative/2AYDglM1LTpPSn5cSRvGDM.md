@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-256 songs - 14 hr 29 min
+257 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Waters](https://open.spotify.com/track/6XJg2WxvsU0GvBcuhL5jY0) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Talking Body](https://open.spotify.com/artist/0dppHiwuTHFpGBai4IrWp3), [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Waters](https://open.spotify.com/album/7dPjBbQd8m3ZIHzjiJdY2T) | 2:56 | 2026-02-06 |  |
 | [Way 2 Fly](https://open.spotify.com/track/7apDoddqvrAoADPkOXUjms) | [TomDūno](https://open.spotify.com/artist/3G9bqUzFK5SLTW1sbN28Ac), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [Way 2 Fly](https://open.spotify.com/album/5753N4avt5M9U4j36LM4z5) | 2:53 | 2025-12-05 | 2026-02-28 |
 | [Weakness](https://open.spotify.com/track/2svPUGQOkfTX3fwY7bMSlj) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Jarod Glawe](https://open.spotify.com/artist/6gzCf25nxnA68tQ3kJUEB4) | [Weakness](https://open.spotify.com/album/6n2dd68YgZ202knvld80nR) | 3:26 | 2025-07-11 |  |
+| [When I Fall](https://open.spotify.com/track/52g77qvJYejmdbCjUss8Ns) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg), [TW3LVE](https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A) | [When I Fall](https://open.spotify.com/album/0C8CLaZC5bs8p7GHkxpvTg) | 2:49 | 2026-06-05 |  |
 | [When It Kicks](https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [When It Kicks](https://open.spotify.com/album/04ybXlfPtu2JdmXOrI2yTG) | 3:20 | 2025-09-05 | 2025-09-27 |
 | [When You See Me](https://open.spotify.com/track/62FqrjyjEdnrXdsaLuabip) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [When You See Me](https://open.spotify.com/album/1saPWFKeyMCCO0taqufcUr) | 4:11 | 2025-07-11 |  |
 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 | 2026-02-27 | 2026-04-08 |

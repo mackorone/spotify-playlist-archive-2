@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: The Womack Sisters
+> A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,988 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,068 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chauffeur](https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Chauffeur](https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf) | 4:36 |
-| 2 | [Anyone](https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [Anyone](https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx) | 3:18 |
-| 3 | [I'm Just A Girl](https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP) | 2:49 |
-| 4 | [It’s A Shame](https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [It’s A Shame](https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ) | 3:41 |
-| 5 | [When You're Around](https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [When You're Around](https://open.spotify.com/album/6xllDwr0Kh9uRcDDYdeKJU) | 3:39 |
-| 6 | [Only You Do](https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Only You Do](https://open.spotify.com/album/3oDfAN8EieUpee7kMbSJUr) | 3:28 |
-| 7 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 |
+| 1 | [Burning Temptation](https://open.spotify.com/track/35VN6nIXJaJzOIeRzjOMkT) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a) | 3:31 |
+| 2 | [Chauffeur](https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Chauffeur](https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf) | 4:36 |
+| 3 | [Anyone](https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [Anyone](https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx) | 3:18 |
+| 4 | [I'm Just A Girl](https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP) | 2:49 |
+| 5 | [It’s A Shame](https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [It’s A Shame](https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ) | 3:41 |
+| 6 | [When You're Around](https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [When You're Around](https://open.spotify.com/album/6xllDwr0Kh9uRcDDYdeKJU) | 3:39 |
+| 7 | [Only You Do](https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Only You Do](https://open.spotify.com/album/3oDfAN8EieUpee7kMbSJUr) | 3:28 |
 | 8 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 |
 | 9 | [You Bring Me Joy](https://open.spotify.com/track/1FkP9zQJAPKJaW2RCR9LLg) | [Pratt & Moody](https://open.spotify.com/artist/1gz7rv5Nn1PgNg755QP2G6), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [You Bring Me Joy](https://open.spotify.com/album/3ZWCU07aShb3rpvBk6Cp8Q) | 3:51 |
 | 10 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 |
 | 100 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 |
 
-Snapshot ID: `AAAAAKFgrEgJ0WRpVvPDxbnd655FBrBk`
+Snapshot ID: `AAAAACXswBS+9fk+SYb94Sd4UdDh4rXx`

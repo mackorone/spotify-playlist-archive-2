@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Jolly Mare e i suoi synth analogici + tutto il meglio delle novità indie 🎛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,802 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,826 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 20 | [Maltempo](https://open.spotify.com/track/3H2LhTgQFKJLZmw6jKVD6D) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl), [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Maltempo](https://open.spotify.com/album/2wq6w01RZkfNBxQzFJnvLz) | 2:57 |
 | 21 | [Odore dell'Asfalto](https://open.spotify.com/track/1pQitt4nZhUwvH6Dw2CjwA) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Odore dell'Asfalto](https://open.spotify.com/album/0C27qZXpYQYPQ9RQMF0lY0) | 3:42 |
 | 22 | [Seus dedos imóveis](https://open.spotify.com/track/6S5DNyaD7DoqLSW6DcBqFz) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [Seus dedos imóveis](https://open.spotify.com/album/63MLdAub6lskLi0oiKZbLD) | 2:55 |
-| 23 | [tutta aggrovigliata](https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw), [Marco Kotov](https://open.spotify.com/artist/6PI9DQb8BqYvnL17EIuPKZ) | [ypsilon](https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1) | 4:29 |
+| 23 | [tutta aggrovigliata](https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw), [Marco Kotov](https://open.spotify.com/artist/3Jki1jwC8xuHNdT6rpbokG) | [ypsilon](https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1) | 4:29 |
 | 24 | [Robina](https://open.spotify.com/track/2xxrn3RNEILOq300esEVXE) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [Robina](https://open.spotify.com/album/7iofPm3WPwtrbdiwr7mMl0) | 3:28 |
 | 25 | [Ciao vicini, mi trasferisco da voi](https://open.spotify.com/track/7ijjc9q1t1UUsBPOTxnZBj) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Affogare in acque amiche](https://open.spotify.com/album/7m35qKKixd7o9Ru9XkHo6q) | 2:40 |
 | 26 | [ME STAJE APPENNENN' AMÒ – di Calcutta](https://open.spotify.com/track/4A7vpGCKxD5B1W3sMD6Gfp) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RADIO LIBERATO](https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6) | 3:29 |

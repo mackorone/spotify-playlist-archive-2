@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "100 % chill, 100 % Montr\u00e9al. Photo: Burgundy",
+  "description": "100 % chill, 100 % Montr\u00e9al avec Beaux L\u00e9on",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 183928,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/68vx3w8Byw0BgZsBguvAlg"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 185625,
       "name": "Caravan Song",
       "url": "https://open.spotify.com/track/3fLoUJgMcLvpq7fR7NV8hR"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 246821,
       "name": "chanson pour taupe",
       "url": "https://open.spotify.com/track/6SfO16DmXSKBahFZeYlSlR"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 150093,
       "name": "Encore une nuit",
       "url": "https://open.spotify.com/track/5ggb2gpw01Bi0topzyAbFh"
@@ -4610,6 +4610,28 @@
       "duration_ms": 183640,
       "name": "Engraisser",
       "url": "https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L"
+    },
+    {
+      "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/1yBiEvBYyelygquVueOi02"
+      },
+      "artists": [
+        {
+          "name": "lobono",
+          "url": "https://open.spotify.com/artist/5QyGe7NL0efnOCe92depss"
+        },
+        {
+          "name": "ok cam",
+          "url": "https://open.spotify.com/artist/5qWkMP3Hp4sGnRI0AgWOlt"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/43VyeXCEmE2Kq9eggkMkLq"
     },
     {
       "album": {
@@ -4678,7 +4700,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 171200,
       "name": "ergo sum",
       "url": "https://open.spotify.com/track/7wFGm3luIki5eSUOgWXYp4"
@@ -5412,7 +5434,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 233413,
       "name": "Freestyle Brooklyn",
       "url": "https://open.spotify.com/track/1pEMEX6sM4S95nf8NoQtip"
@@ -5950,7 +5972,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 207692,
       "name": "Guilt Drive",
       "url": "https://open.spotify.com/track/1akpUk38h2yvRKn3quUNNS"
@@ -6284,7 +6306,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 269322,
       "name": "Hirondelle",
       "url": "https://open.spotify.com/track/07u2B4PIbpqUdB15kqf7eo"
@@ -6320,7 +6342,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 180000,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/7nK8G1zc8hegcyZkkHqxuT"
@@ -7810,7 +7832,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 227762,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/1PLL2CDBT3rHDKuMcVHbo5"
@@ -8244,7 +8266,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 217186,
       "name": "La saison est finie",
       "url": "https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI"
@@ -10192,7 +10214,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 98402,
       "name": "Mourir ensemble",
       "url": "https://open.spotify.com/track/5cnFw5edGRri2cmWysHkuG"
@@ -10268,7 +10290,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 312140,
       "name": "m\u00e9lodie (take 3)",
       "url": "https://open.spotify.com/track/3Hs0UBTcUIGsSVofEoPVWC"
@@ -10932,7 +10954,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214906,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg"
@@ -10990,7 +11012,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 203965,
       "name": "On Time",
       "url": "https://open.spotify.com/track/5VIHl6ClOREraq2WXR4EEK"
@@ -11236,7 +11258,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 220893,
       "name": "over/over",
       "url": "https://open.spotify.com/track/2HzU4z6R1Oj7OsgJN73ep8"
@@ -11290,7 +11312,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 266047,
       "name": "Packing Away",
       "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
@@ -11752,7 +11774,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 270960,
       "name": "Phasing",
       "url": "https://open.spotify.com/track/4DMB4wFZedjkmGcnFyLwEV"
@@ -12546,7 +12568,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 252706,
       "name": "Rafale",
       "url": "https://open.spotify.com/track/4sRQRhQkdwp15Lp95m1pHQ"
@@ -13378,7 +13400,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 241870,
       "name": "Saving Face",
       "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
@@ -13678,7 +13700,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 258895,
       "name": "si je ne suis pas",
       "url": "https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x"
@@ -14787,6 +14809,24 @@
     },
     {
       "album": {
+        "name": "The birds the birds the birds",
+        "url": "https://open.spotify.com/album/4PGU7gJLUsWhOgoExfALZ9"
+      },
+      "artists": [
+        {
+          "name": "Coutchou",
+          "url": "https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158991,
+      "name": "The Birds the birds the birds",
+      "url": "https://open.spotify.com/track/1PbTXjUpz3QkVx0F7J6HEc"
+    },
+    {
+      "album": {
         "name": "The Cost of Freedom",
         "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
       },
@@ -15084,7 +15124,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 199288,
       "name": "TOI",
       "url": "https://open.spotify.com/track/5GzKPDiPtnurHMdz8ecUu9"
@@ -15858,7 +15898,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 210000,
       "name": "Valse avec elle",
       "url": "https://open.spotify.com/track/0FWWGx9egwpLM7x3136AmR"
@@ -16376,7 +16416,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 225139,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE"
@@ -16644,7 +16684,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 199424,
       "name": "Your Drug",
       "url": "https://open.spotify.com/track/0hutuRlxUnns1lLH8ZAQiU"
@@ -16724,7 +16764,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 224000,
       "name": "Your Music",
       "url": "https://open.spotify.com/track/59bznsm4D5jlntVHw2rUsN"

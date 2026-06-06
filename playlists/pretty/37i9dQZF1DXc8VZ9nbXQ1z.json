@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 222479,
+  "num_followers": 222576,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
@@ -312,12 +312,12 @@
       },
       "artists": [
         {
-          "name": "Loudr",
-          "url": "https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj"
-        },
-        {
           "name": "SOUNDS HUMAN",
           "url": "https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G"
+        },
+        {
+          "name": "Loudr",
+          "url": "https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj"
         },
         {
           "name": "Bun Xapa",

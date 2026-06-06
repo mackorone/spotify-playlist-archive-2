@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 29619,
+  "num_followers": 29649,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAACRBdt/rc9pvw1LSocvo4iJ",
+  "snapshot_id": "aiDAAAAAAAA/y7+RQcmKI394YUQtSU39",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Cashinova",
-          "url": "https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Cousins",
-      "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treat You Right",
         "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 204000,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Cashinova",
+          "url": "https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Blood Orange✨
 
-2,426 songs - 5 day 11 hr 9 min
+2,426 songs - 5 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1798,6 +1798,7 @@
 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 | 2023-02-09 | 2023-03-18 |
 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 | 2024-03-21 | 2024-03-29 |
 | [Saturnus](https://open.spotify.com/track/00prDywHwnS670dcxYZ1TP) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Shadow of the Cherry](https://open.spotify.com/album/3q39MLZ59YkeWDR6KkSfPj) | 4:52 | 2022-11-03 | 2023-02-03 |
+| [Savage Love](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 2:33 | 2026-06-04 |  |
 | [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 | 2023-08-09 | 2023-08-15 |
 | [Save My Life \- Folamour Remix](https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Save My Life \(Folamour Remix\)](https://open.spotify.com/album/7emMblwJ7MZ1ejnuBhJ9X7) | 4:53 | 2023-12-08 | 2024-01-26 |
 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 | 2025-09-25 | 2026-02-13 |
@@ -2197,7 +2198,6 @@
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-25 | 2024-08-30 |
 | [Tough Love](https://open.spotify.com/track/0jeU42hx3LbPJAytAQEEPV) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 4:16 | 2024-01-11 | 2024-04-19 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-11-18 |
-| [Track 1](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 0:00 | 2026-06-04 |  |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-08-07 | 2026-01-15 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |

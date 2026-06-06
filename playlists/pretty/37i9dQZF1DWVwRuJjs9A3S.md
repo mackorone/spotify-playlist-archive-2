@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Esther
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 263 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,237 likes - 263 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 0:00 |
-| 2 | [Track 13](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 0:00 |
+| 1 | [Savage Love](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 2:33 |
+| 2 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 |
 | 3 | [Musik för alla](https://open.spotify.com/track/1JBeE1pa5KUDXeQETRStSe) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Musik för alla](https://open.spotify.com/album/5yuu4qCXp8PieAJgGAQKUz) | 3:15 |
 | 4 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
 | 5 | [Food Shopping](https://open.spotify.com/track/6npEef5m4kQ5tgQbwZp9ky) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Food Shopping](https://open.spotify.com/album/5mYGXUCj9QOdJaQu5K2E8I) | 4:52 |

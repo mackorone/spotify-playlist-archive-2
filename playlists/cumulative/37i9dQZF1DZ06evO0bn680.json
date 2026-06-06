@@ -72,7 +72,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 191560,
       "name": "4 Miniatures for Orchestra: No. 3, Lullaby",
       "url": "https://open.spotify.com/track/3TCd5Okr9KX0VcoPgRkH7j"
@@ -231,6 +231,40 @@
     },
     {
       "album": {
+        "name": "Sing, Ye Heavens: Hymns for All Time",
+        "url": "https://open.spotify.com/album/5LZT0vxWLH6zwJ9uKczXuI"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther",
+          "url": "https://open.spotify.com/artist/7xLH9QVTsQCQxh8z0kGh0k"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "A Mighty Fortress",
+      "url": "https://open.spotify.com/track/4aXRfTFWLeDQS2Fjd8msdy"
+    },
+    {
+      "album": {
         "name": "Lighten Our Darkness: Music for the Close of Day",
         "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
@@ -332,7 +366,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 118640,
       "name": "Ave Maria, Op. 67 No. 2",
       "url": "https://open.spotify.com/track/0GEyudJgAiu3NnZPU85H1g"
@@ -860,10 +894,36 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 134680,
       "name": "I. Kyrie",
       "url": "https://open.spotify.com/track/5QD1QSasFRj2WgXj84ZHwV"
+    },
+    {
+      "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369733,
+      "name": "I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/3qsMFexjjqFxmVQO0BGBfE"
     },
     {
       "album": {
@@ -971,6 +1031,36 @@
     },
     {
       "album": {
+        "name": "John Rutter: Visions & Requiem",
+        "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Alice Halstead",
+          "url": "https://open.spotify.com/artist/6Yg8wEJvgWk1jpW8WwHoJg"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "III. Pie Jesu",
+      "url": "https://open.spotify.com/track/1bndO90NBmUw1kZD5IBIJy"
+    },
+    {
+      "album": {
         "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
       },
@@ -1058,7 +1148,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 188426,
       "name": "III. Sanctus",
       "url": "https://open.spotify.com/track/69Vv9R3pQUli6Blios34An"
@@ -1088,6 +1178,36 @@
       "duration_ms": 319493,
       "name": "In pace",
       "url": "https://open.spotify.com/track/6l9SkhpnVx3eXQE3De6Pqx"
+    },
+    {
+      "album": {
+        "name": "This Is the Day: Music on Royal Occasions",
+        "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328893,
+      "name": "IV. How lovely is thy dwelling place",
+      "url": "https://open.spotify.com/track/31PWIJbQfXIrZ2FGaQLr8H"
     },
     {
       "album": {
@@ -1152,7 +1272,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 186293,
       "name": "IV. Waltz",
       "url": "https://open.spotify.com/track/07ja5QOXSqD9h8x8bThK1H"
@@ -1226,7 +1346,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 91676,
       "name": "Lead, Kindly Light",
       "url": "https://open.spotify.com/track/0TiaU15H66bT5nzxiK37zp"
@@ -1337,6 +1457,40 @@
     },
     {
       "album": {
+        "name": "Sing, Ye Heavens: Hymns for All Time",
+        "url": "https://open.spotify.com/album/5LZT0vxWLH6zwJ9uKczXuI"
+      },
+      "artists": [
+        {
+          "name": "Rowland H. Pritchard",
+          "url": "https://open.spotify.com/artist/4KFTWoCcR5qsYzeoN9J6AU"
+        },
+        {
+          "name": "Charles Wesley",
+          "url": "https://open.spotify.com/artist/2th2VgEravL9cDXz4ce0VH"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Love Divine, All Loves Excelling",
+      "url": "https://open.spotify.com/track/2Vi7zyw5p35hLTgLiXt7Eh"
+    },
+    {
+      "album": {
         "name": "Rutter: The Gift of Life",
         "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
       },
@@ -1434,66 +1588,6 @@
       "duration_ms": 161653,
       "name": "Open Thou Mine Eyes",
       "url": "https://open.spotify.com/track/19UzNqnSqpyrBMGp7EqZ8L"
-    },
-    {
-      "album": {
-        "name": "John Rutter: Visions & Requiem",
-        "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Aurora Orchestra",
-          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "Alice Halstead",
-          "url": "https://open.spotify.com/artist/6Yg8wEJvgWk1jpW8WwHoJg"
-        }
-      ],
-      "date_added": "2025-12-28",
-      "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
-      "duration_ms": 240760,
-      "name": "Requiem: III. Pie Jesu",
-      "url": "https://open.spotify.com/track/1bndO90NBmUw1kZD5IBIJy"
-    },
-    {
-      "album": {
-        "name": "John Rutter: Visions & Requiem",
-        "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Aurora Orchestra",
-          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "Thomas Barber",
-          "url": "https://open.spotify.com/artist/73kZPuuV8CvpSMhOBblHWz"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
-      "duration_ms": 310800,
-      "name": "Requiem: VI. The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
     },
     {
       "album": {
@@ -1628,7 +1722,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197080,
       "name": "Suite Lyrique: 3. Aria",
       "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
@@ -1748,7 +1842,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 151280,
       "name": "Te lucis ante terminum",
       "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
@@ -1912,7 +2006,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 150640,
       "name": "Ubi caritas",
       "url": "https://open.spotify.com/track/4EoZ9BfM2C3sTXH7GzXcYQ"
@@ -1946,6 +2040,44 @@
       "duration_ms": 234413,
       "name": "Ubi caritas",
       "url": "https://open.spotify.com/track/1yo1OzdpMhpeLTbc9WpmoF"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "V. Agnus Dei",
+      "url": "https://open.spotify.com/track/1m3fGcDD0E8WZj29z2d2H5"
     },
     {
       "album": {
@@ -2039,6 +2171,36 @@
     },
     {
       "album": {
+        "name": "John Rutter: Visions & Requiem",
+        "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Thomas Barber",
+          "url": "https://open.spotify.com/artist/73kZPuuV8CvpSMhOBblHWz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310800,
+      "name": "VI. The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
+    },
+    {
+      "album": {
         "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
       },
@@ -2062,7 +2224,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 311600,
       "name": "VI. The Lord Is my Shepherd",
       "url": "https://open.spotify.com/track/3G6b97LZYDBzGewYbakvlI"
@@ -2216,7 +2378,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 344360,
       "name": "Wings of the Morning (Version for Mixed Choir & Orchestra)",
       "url": "https://open.spotify.com/track/2hXXEKRDDkjbqQ0lU3Ge2k"

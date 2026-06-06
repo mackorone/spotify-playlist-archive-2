@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action Mum](https://open.spotify.com/track/7xC9fST9tbRupldFMOUxgm) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Action Mum](https://open.spotify.com/album/0Uby5IBLkIqhu59u6Cwaqq) | 3:22 | 2022-04-01 |  |
-| [Bohemian Rhapsody \- Muppet version](https://open.spotify.com/track/6edptv31oI3QmAyP7iBWA5) | [Queen + The Muppets](https://open.spotify.com/artist/7snk050RNCu5ZsAHIOhfRn) | [Bohemian Rhapsody](https://open.spotify.com/album/2e6lW14FdkQeDCetGcF6tQ) | 4:37 | 2022-04-01 |  |
+| [Bohemian Rhapsody \- Muppet version](https://open.spotify.com/track/6edptv31oI3QmAyP7iBWA5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [Bohemian Rhapsody](https://open.spotify.com/album/2e6lW14FdkQeDCetGcF6tQ) | 4:37 | 2022-04-01 |  |
 | [Cool Moms](https://open.spotify.com/track/5ISxjI9FwApRseY76dAyCT) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:42 | 2022-04-01 |  |
 | [Following My Mom Around](https://open.spotify.com/track/5e7U9Zp6ciJ71UCHgVSvZM) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 | 2022-04-01 |  |
 | [Following My Mom Around](https://open.spotify.com/track/5hdF9iC9kSaLSq4bnGAxtg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 | 2022-04-01 | 2024-04-19 |

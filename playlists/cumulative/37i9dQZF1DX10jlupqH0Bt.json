@@ -1572,32 +1572,6 @@
     {
       "album": {
         "name": "Altered Perspectives",
-        "url": "https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx"
-      },
-      "artists": [
-        {
-          "name": "Altered Perspectives",
-          "url": "https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl"
-        },
-        {
-          "name": "Echoes of Starlight",
-          "url": "https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW"
-        },
-        {
-          "name": "SINES",
-          "url": "https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6"
-        }
-      ],
-      "date_added": "2024-04-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 303783,
-      "name": "See (Third Eye 852Hz)",
-      "url": "https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0"
-    },
-    {
-      "album": {
-        "name": "Altered Perspectives",
         "url": "https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI"
       },
       "artists": [
@@ -1620,6 +1594,32 @@
       "duration_ms": 303783,
       "name": "See (Third Eye 852Hz)",
       "url": "https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb"
+    },
+    {
+      "album": {
+        "name": "Altered Perspectives",
+        "url": "https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx"
+      },
+      "artists": [
+        {
+          "name": "\u00c2stra",
+          "url": "https://open.spotify.com/artist/0Br7Es1U70JYeOaAwi56z9"
+        },
+        {
+          "name": "Echoes of Starlight",
+          "url": "https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW"
+        },
+        {
+          "name": "SINES",
+          "url": "https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303783,
+      "name": "See (Third Eye 852Hz)",
+      "url": "https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0"
     },
     {
       "album": {

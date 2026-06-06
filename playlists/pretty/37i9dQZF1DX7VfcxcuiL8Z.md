@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Weezer & Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,203 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,200 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 21 | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU) | 3:04 |
 | 22 | [Young Again](https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [EI8HT](https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB) | 3:36 |
 | 23 | [THE LIVING](https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:48 |
-| 24 | [Track 2](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 0:00 |
+| 24 | [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 |
 | 25 | [For the First Time](https://open.spotify.com/track/1ZJm5SQbueTZpmEWr3TCrZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [For The First Time](https://open.spotify.com/album/6Pyf8sRGTR6UjoFxR7XswP) | 3:21 |
 | 26 | [Time Waster](https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:21 |
 | 27 | [595](https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [595](https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP) | 2:29 |

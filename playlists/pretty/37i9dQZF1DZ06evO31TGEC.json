@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55393,
+  "num_followers": 55406,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAACL2uX5tAkR7sQsZSnv3sbi",
+  "snapshot_id": "aiDAAAAAAABPbEANj0jAu15MgJRxo/lW",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Se Mueran de Envidia",
+        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Que Se Mueran de Envidia",
+      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concierto En Vivo Desde Guadalajara, Vol. 1",
         "url": "https://open.spotify.com/album/5qDSxRNIV1hnTzbSJCHM0k"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 160213,
       "name": "Regalo del Cielo",
       "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Se Mueran de Envidia",
-        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Que Se Mueran de Envidia",
-      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+      "duration_ms": 198720,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 198720,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,

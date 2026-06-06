@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-798 songs - 2 day 20 hr 41 min
+799 songs - 2 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Holy](https://open.spotify.com/track/6RgbAyvyhk8Zn9s3Q1rtLz) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:02 | 2025-05-23 | 2025-06-27 |
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
 | [Holy \(My Adoration\)](https://open.spotify.com/track/3r93TcH9pQruKXQfTqoSoQ) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Holy \(My Adoration\)](https://open.spotify.com/album/5UMTElqx0nb4a81NBrdiWy) | 3:04 | 2025-06-06 | 2025-07-31 |
+| [Holy Father](https://open.spotify.com/track/7nhZSxv9wUFsqLRBPAIFRn) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Holy Father](https://open.spotify.com/album/3rXdQN1aKdsSEEZjBwbxDA) | 6:34 | 2026-05-22 |  |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
 | [Holy Ghost](https://open.spotify.com/track/7qMtGAM3HregKdmlxslezQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [Holy Ghost](https://open.spotify.com/album/1PdYsNFHkhnqtpmDUmt5Hb) | 2:51 | 2025-07-18 | 2025-10-03 |
 | [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 | 2025-11-28 |  |
@@ -645,7 +646,7 @@
 | [Songs of Joy](https://open.spotify.com/track/7FxxEg3YNRJq1agzBQOprW) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Songs of Joy](https://open.spotify.com/album/1cFcYbpr60J707xz5MePR2) | 4:01 | 2026-01-09 | 2026-02-24 |
 | [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 | 2026-03-23 |
 | [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 |  |
-| [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 | 2025-06-27 |  |
+| [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 | 2025-06-27 | 2026-06-06 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-06-27 |
 | [Speechless \(Spanglish\)](https://open.spotify.com/track/1IBXkMbEaSIFSOE6HVmqCW) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX), [Ugo J](https://open.spotify.com/artist/34s9KNQeSEtwgxbDoUhfdO) | [Revisited: The Beginning](https://open.spotify.com/album/26xVfO9gaT9q1lz9Osyqos) | 11:06 | 2025-05-09 | 2025-07-12 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-09-15 | 2024-03-16 |

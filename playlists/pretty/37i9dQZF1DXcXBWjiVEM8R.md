@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051,763 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,836 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 | 30 | [Trouble](https://open.spotify.com/track/0JZ9TvOLtZJaGqIyC4hYZX) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 2:51 |
 | 31 | [Taste The Feeling \(Avicii Vs\. Conrad Sewell\)](https://open.spotify.com/track/70mHIUa4beJjFpBNyHYwT2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Taste The Feeling \(Avicii Vs\. Conrad Sewell\)](https://open.spotify.com/album/1s1J5Y8QLRqupnnCavGe7Z) | 3:11 |
 | 32 | [So Much Better \- Avicii Remix](https://open.spotify.com/track/6i3WMnuvd8DtczaGIMJvwC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 2:37 |
-| 33 | [The Nights \- Felix Jaehn Remix](https://open.spotify.com/track/6xNSaBtoPKlPhXsNT7ZwLd) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 3:20 |
+| 33 | [The Nights \- Felix Jaehn Remix](https://open.spotify.com/track/6xNSaBtoPKlPhXsNT7ZwLd) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 3:20 |
 | 34 | [Somewhere In Stockholm](https://open.spotify.com/track/2K1zp0p7PVmrBUQu6evtfe) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:22 |
 | 35 | [Lay Me Down](https://open.spotify.com/track/6ekvzkGg31TOQhHIFEd55x) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 5:00 |
 | 36 | [You Be Love \(feat\. Billy Raffoul\)](https://open.spotify.com/track/630svau24EHHzw1kNk0Bdq) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:27 |

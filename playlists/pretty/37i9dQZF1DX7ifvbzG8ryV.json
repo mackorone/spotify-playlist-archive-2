@@ -1,13 +1,109 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1DZ06evO4xDYrO\">Luca Eck</a>",
-  "num_followers": 5653,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:5QSfJ3Ny5A3AAmv2gg1pCk\">Bimini</a>",
+  "num_followers": 5660,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T",
+  "snapshot_id": "AAAAAMVIIzdGjmZTRxswVr/J0ASFFl+t",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:12:45",
+      "album": {
+        "name": "TANK TOP BUM BOYS",
+        "url": "https://open.spotify.com/album/3PAMPuwjGUuqiXfeIbtQZV"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "TANK TOP BUM BOYS",
+      "url": "https://open.spotify.com/track/1738FiYbv8ADWj89Jtc2qp"
+    },
+    {
+      "added_at": "2026-06-05 04:12:45",
+      "album": {
+        "name": "Let's Talk About Gender Baby",
+        "url": "https://open.spotify.com/album/6B5kRxadij4GWDN0UvJ4EU"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 288742,
+      "name": "Let's Talk About Gender Baby",
+      "url": "https://open.spotify.com/track/6DKt2dx6vdMz1iVZnHdSeP"
+    },
+    {
+      "added_at": "2026-06-05 04:12:45",
+      "album": {
+        "name": "Keep on Dancing",
+        "url": "https://open.spotify.com/album/1MjXT7An45mN6aK4XJ7RM5"
+      },
+      "artists": [
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 200735,
+      "name": "Keep on Dancing",
+      "url": "https://open.spotify.com/track/3CU5w0IJpibIGwT4t2gqcQ"
+    },
+    {
+      "added_at": "2026-06-05 04:12:45",
+      "album": {
+        "name": "IF YOU GET IT YOU GET IT",
+        "url": "https://open.spotify.com/album/4djSPd8BPMQvjRdqGCHlAG"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 105604,
+      "name": "IF YOU GET IT YOU GET IT",
+      "url": "https://open.spotify.com/track/1GB1a8tFzstmLy8uulch93"
+    },
+    {
+      "added_at": "2026-06-05 04:12:45",
+      "album": {
+        "name": "GERM (Remix)",
+        "url": "https://open.spotify.com/album/6cExbYlxRA8JEywLYYKuzJ"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 309568,
+      "name": "GERM - Remix",
+      "url": "https://open.spotify.com/track/64n96UWrANUIDZ9Y9TrcOf"
+    },
     {
       "added_at": "2026-05-01 04:00:39",
       "album": {
@@ -100,7 +196,7 @@
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
+          "name": "felix jaehn",
           "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
@@ -815,86 +911,6 @@
       "duration_ms": 196760,
       "name": "High",
       "url": "https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Ciao Adios",
-      "url": "https://open.spotify.com/track/01BC4Xj5tfsfV8DLDrma7q"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Play Date",
-      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Southern Curiosity",
-        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/2yyGpeOpi3GsXwandnuYXw"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Don't Blink",
-        "url": "https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Don't Blink",
-      "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Southern Curiosity",
-        "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc"
     }
   ],
   "unique_name": "GLOW Songwriters",

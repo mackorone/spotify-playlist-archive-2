@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 122438,
       "name": "Born to Be Me",
       "url": "https://open.spotify.com/track/1F2aGwCgkBL8iVTBXLiAwO"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 166541,
       "name": "Brush Your Teeth",
       "url": "https://open.spotify.com/track/6AS6WpntcvexcqTbuNd5Cs"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 100666,
       "name": "Clean Up Song",
       "url": "https://open.spotify.com/track/3uJprElJjcZxbx0uQlGPl7"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 163415,
       "name": "Coach Peppa's Exercise",
       "url": "https://open.spotify.com/track/5JeQkVmAUvcuXc7sma5MLl"
@@ -4198,6 +4198,28 @@
       "duration_ms": 140704,
       "name": "Dem Bones (The Skeleton Song)",
       "url": "https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83"
+    },
+    {
+      "album": {
+        "name": "Detective Hogi Song",
+        "url": "https://open.spotify.com/album/1Uh2tkY1vCMVH5IQIJBfO6"
+      },
+      "artists": [
+        {
+          "name": "Hogi",
+          "url": "https://open.spotify.com/artist/4toy7dYDw94YRovmat294n"
+        },
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39866,
+      "name": "Detective Hogi Song",
+      "url": "https://open.spotify.com/track/6p8bbjRW5yQu7NmH6OHQKr"
     },
     {
       "album": {
@@ -5833,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Five Little Dinosaurs Jumping On The Bed",
+        "url": "https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn"
+      },
+      "artists": [
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Five Little Dinosaurs Jumping On The Bed",
+      "url": "https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD"
+    },
+    {
+      "album": {
         "name": "Five Little Ducks",
         "url": "https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh"
       },
@@ -6314,6 +6354,24 @@
       "duration_ms": 274529,
       "name": "Fruit Facts",
       "url": "https://open.spotify.com/track/2Gv3ecx3duoQKDbEpmkdZa"
+    },
+    {
+      "album": {
+        "name": "Fruit Is Yummy",
+        "url": "https://open.spotify.com/album/6jlvj1gKLHVwI8k4HcvFHy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158966,
+      "name": "Fruit Is Yummy",
+      "url": "https://open.spotify.com/track/6oihTreW04W0ziZsvjSaB6"
     },
     {
       "album": {
@@ -8250,7 +8308,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 165499,
       "name": "Home Among the Gum Trees",
       "url": "https://open.spotify.com/track/4j3tart6lsCaDGiquOemPT"
@@ -9190,7 +9248,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 60339,
       "name": "I Went to the Jungle - Purple Monkey Activity Center",
       "url": "https://open.spotify.com/track/6oG21CCWL9eTWFcyEd4jKG"
@@ -9372,6 +9430,24 @@
       "duration_ms": 129882,
       "name": "I'm Happy",
       "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
+    },
+    {
+      "album": {
+        "name": "I'm Proud",
+        "url": "https://open.spotify.com/album/5mShQbQyYUGxAzZDY4nTNZ"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57626,
+      "name": "I'm Proud",
+      "url": "https://open.spotify.com/track/2eRtJQZIkPsHTXWmLpY1B1"
     },
     {
       "album": {
@@ -9880,7 +9956,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 75241,
       "name": "It Helps to Say What You're Feeling",
       "url": "https://open.spotify.com/track/6obyLzVsCgWW9fLpXkVzzg"
@@ -10087,6 +10163,24 @@
     },
     {
       "album": {
+        "name": "It's Your Birthday",
+        "url": "https://open.spotify.com/album/0AVmHjzjkGDtdFVdIdkWLK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142942,
+      "name": "It's Your Birthday",
+      "url": "https://open.spotify.com/track/1UQVfVu1RhF1kw6i1blrNe"
+    },
+    {
+      "album": {
         "name": "Disney Jr. Music: SuperKitties Su-Purr Wild (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4HlDw3O3fSHy8sFhieGwTA"
       },
@@ -10208,6 +10302,24 @@
       "duration_ms": 155055,
       "name": "JJ's Mix A Pancake Song - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/63w3kdUCWIzoBKvWIEJ01C"
+    },
+    {
+      "album": {
+        "name": "Soccer Party! Sports Songs and Stadium Chants",
+        "url": "https://open.spotify.com/album/26CJ9HTyTGGuOtXhjd9NVz"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252496,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/37Ua7CslhTi1T6aVUQUwY4"
     },
     {
       "album": {
@@ -13682,7 +13794,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 125128,
       "name": "Only In Fairylandia",
       "url": "https://open.spotify.com/track/6awYVNEUKbSOAsZK2cR80Y"
@@ -16613,6 +16725,24 @@
     },
     {
       "album": {
+        "name": "Squishy Song",
+        "url": "https://open.spotify.com/album/2nXVHO2j07tgDZzciAuUtr"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Squishy Song",
+      "url": "https://open.spotify.com/track/0phRAfBVCCD1DdHDfjin1n"
+    },
+    {
+      "album": {
         "name": "Let Love Be Your Guide",
         "url": "https://open.spotify.com/album/29YQcKWonRl02h3pypRui6"
       },
@@ -17042,6 +17172,24 @@
       "duration_ms": 140685,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P"
+    },
+    {
+      "album": {
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/4lFfiyisI5u8NONnNgH6ie"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Summer Holiday",
+      "url": "https://open.spotify.com/track/5sAtxlnufqURoGtaY64OoJ"
     },
     {
       "album": {
@@ -19231,6 +19379,28 @@
     },
     {
       "album": {
+        "name": "Thomas & Percy Learn About Emotions",
+        "url": "https://open.spotify.com/album/535kHKFfx2zoH4ZkXQTU8Q"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118732,
+      "name": "Thomas & Percy Learn About Emotions",
+      "url": "https://open.spotify.com/track/5KwGz4qcxpHSVJ0Y1tZW2H"
+    },
+    {
+      "album": {
         "name": "Thomas & Percy Learn About Shapes",
         "url": "https://open.spotify.com/album/0w9MDVDo0liTTjuzi7t4aB"
       },
@@ -19860,7 +20030,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 127963,
       "name": "Underwater Nursery",
       "url": "https://open.spotify.com/track/2JBdYcHZn8W8q7tlgm1zyL"
@@ -21210,7 +21380,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 127385,
       "name": "Where Is the Cat?",
       "url": "https://open.spotify.com/track/2DozWB0YYgMfP18IygVioV"
@@ -21272,6 +21442,24 @@
       "duration_ms": 122000,
       "name": "Wibble Wobble Jelly",
       "url": "https://open.spotify.com/track/0Lehtm9fU4uc6XowiUKfp1"
+    },
+    {
+      "album": {
+        "name": "Wiggerly Woo (Humpty Hard Boiled Remix)",
+        "url": "https://open.spotify.com/album/42oCHznsvhHTLWwffIqhMQ"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131957,
+      "name": "Wiggerly Woo - Humpty Hard Boiled Remix",
+      "url": "https://open.spotify.com/track/5s2PKiNHLQ9SMmBgiFRtuf"
     },
     {
       "album": {

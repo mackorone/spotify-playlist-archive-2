@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,145 songs - 2 day 18 hr 56 min
+1,146 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-04-04 | 2026-05-03 |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-03-10 | 2026-04-12 |
 | [Dreaming](https://open.spotify.com/track/4oanX17e4dDfaxuaVGu9ZL) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 4:21 | 2026-03-31 | 2026-04-26 |
+| [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-05 |  |
 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 | 2026-02-25 | 2026-03-25 |
 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 | 2026-06-04 |  |
 | [Dual](https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Dual](https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2) | 2:59 | 2025-12-09 | 2026-01-05 |

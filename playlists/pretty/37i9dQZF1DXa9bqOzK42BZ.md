@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,329 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,363 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 |
 | 100 | [Moyo Wangu Tulia](https://open.spotify.com/track/440P05rOe8Kcfqxctuzgo7) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Lydia Nzale](https://open.spotify.com/artist/7GgpEk927K6DNwAV2S5Cmt), [Irene Ezekiel](https://open.spotify.com/artist/6sMpXHs1ySmIwuASuFPJDX), [Hadia Komz](https://open.spotify.com/artist/4Qt8QpjrguN13aKGyEe8oZ), [Jackie Edith](https://open.spotify.com/artist/6SGl8GR1pfa28pQ7N02dyd) | [Moyo Wangu Tulia \(feat\. Lydia Nzale, Irene Ezekiel, Hadia Komz & Jackie Edith\)](https://open.spotify.com/album/6O0TmwVQb2ak4xmO6D9Hb3) | 3:37 |
 
-Snapshot ID: `AAAAANWnL+5FN66JFDIzAT7MNURbvG1h`
+Snapshot ID: `AAAAALIHZJP4gJ3Jd4kddLY2bk+4WLiM`

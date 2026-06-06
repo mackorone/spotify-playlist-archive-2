@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Alcova",
+        "url": "https://open.spotify.com/album/674W6H3kK6ttGMIxY6BaZ9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "Alcova",
+      "url": "https://open.spotify.com/track/1rrcZgdbmO10QMRo2LkQfu"
+    },
+    {
+      "album": {
         "name": "Alma Venus",
         "url": "https://open.spotify.com/album/5ncJKZNuhW3nZGxIO82pYs"
       },
@@ -2420,6 +2438,24 @@
       "duration_ms": 212066,
       "name": "Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
       "url": "https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS"
+    },
+    {
+      "album": {
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116053,
+      "name": "Baignoire",
+      "url": "https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh"
     },
     {
       "album": {
@@ -5744,6 +5780,28 @@
       "duration_ms": 223971,
       "name": "Farewell to Stromness",
       "url": "https://open.spotify.com/track/32TZt1GohBFxOVNYmwdwVU"
+    },
+    {
+      "album": {
+        "name": "Feather Theme (From \"Forrest Gump\") [Symphonic]",
+        "url": "https://open.spotify.com/album/4sjrDsSdgG7pM4p8cTEs6n"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 del Mundo",
+          "url": "https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288346,
+      "name": "Feather Theme (From \"Forrest Gump\") - Symphonic",
+      "url": "https://open.spotify.com/track/2TLMJPmFKEEkVohAwqSVmP"
     },
     {
       "album": {
@@ -11146,6 +11204,32 @@
       "duration_ms": 457373,
       "name": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/2DjduzmigRUnQz3py7IL7y"
+    },
+    {
+      "album": {
+        "name": "Munasterio 'e Santa Chiara (Arr. for Violin & Piano by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/3RCYuoSMyf4lJqoRnOTtjT"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barberis",
+          "url": "https://open.spotify.com/artist/4phoa2o2GHHah13GgHBaDA"
+        },
+        {
+          "name": "Andrea Cicalese",
+          "url": "https://open.spotify.com/artist/4F5KVGbhPL8Xla1Hss1EyJ"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115733,
+      "name": "Munasterio 'e Santa Chiara (Arr. for Violin & Piano by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/2CGID4umquhOKv9p4BKODL"
     },
     {
       "album": {

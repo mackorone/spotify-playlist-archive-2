@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1DZ06evO4xDYrO\">Luca Eck</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:5QSfJ3Ny5A3AAmv2gg1pCk\">Bimini</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
+          "name": "felix jaehn",
           "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 199773,
       "name": "Ciao Adios",
       "url": "https://open.spotify.com/track/01BC4Xj5tfsfV8DLDrma7q"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 255586,
       "name": "Forest",
       "url": "https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc"
@@ -1454,6 +1454,28 @@
       "duration_ms": 180000,
       "name": "free ride",
       "url": "https://open.spotify.com/track/6SQZ8ztei7Z7T1Q6vfS4RT"
+    },
+    {
+      "album": {
+        "name": "GERM (Remix)",
+        "url": "https://open.spotify.com/album/6cExbYlxRA8JEywLYYKuzJ"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309568,
+      "name": "GERM - Remix",
+      "url": "https://open.spotify.com/track/64n96UWrANUIDZ9Y9TrcOf"
     },
     {
       "album": {
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 245720,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/2yyGpeOpi3GsXwandnuYXw"
@@ -1873,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "IF YOU GET IT YOU GET IT",
+        "url": "https://open.spotify.com/album/4djSPd8BPMQvjRdqGCHlAG"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105604,
+      "name": "IF YOU GET IT YOU GET IT",
+      "url": "https://open.spotify.com/track/1GB1a8tFzstmLy8uulch93"
+    },
+    {
+      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -2061,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "Keep on Dancing",
+        "url": "https://open.spotify.com/album/1MjXT7An45mN6aK4XJ7RM5"
+      },
+      "artists": [
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200735,
+      "name": "Keep on Dancing",
+      "url": "https://open.spotify.com/track/3CU5w0IJpibIGwT4t2gqcQ"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Goodbye",
         "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
       },
@@ -2148,6 +2210,32 @@
       "duration_ms": 229840,
       "name": "Let's Have A Kiki",
       "url": "https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4"
+    },
+    {
+      "album": {
+        "name": "Let's Talk About Gender Baby",
+        "url": "https://open.spotify.com/album/6B5kRxadij4GWDN0UvJ4EU"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288742,
+      "name": "Let's Talk About Gender Baby",
+      "url": "https://open.spotify.com/track/6DKt2dx6vdMz1iVZnHdSeP"
     },
     {
       "album": {
@@ -2646,7 +2734,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 179867,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
@@ -3222,6 +3310,24 @@
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
+    },
+    {
+      "album": {
+        "name": "TANK TOP BUM BOYS",
+        "url": "https://open.spotify.com/album/3PAMPuwjGUuqiXfeIbtQZV"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "TANK TOP BUM BOYS",
+      "url": "https://open.spotify.com/track/1738FiYbv8ADWj89Jtc2qp"
     },
     {
       "album": {

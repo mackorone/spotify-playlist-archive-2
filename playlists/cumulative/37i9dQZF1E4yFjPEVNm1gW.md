@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-235 songs - 9 hr 16 min
+236 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Off tha Lot \- Remix](https://open.spotify.com/track/0YD65NZU1x10Qjzz9JW1PV) | [tr3nt!](https://open.spotify.com/artist/3HSZDx6CVJuM0FvRqA2RZV) | [Off tha Lot \(Remix\)](https://open.spotify.com/album/0WaUSZ42kCZAKKwwkRwKtc) | 1:54 | 2026-02-12 | 2026-02-15 |
 | [One Take](https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD) | [Young Slixe](https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG) | [One Take](https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv) | 1:59 | 2026-03-01 | 2026-05-05 |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2026-05-17 |
+| [Outcast Loyalty](https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl) | [The Outcastkid](https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt) | [Outcast Loyalty](https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9) | 2:00 | 2026-06-06 |  |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-04-12 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-05-31 |
 | [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2026-06-04 |
@@ -172,7 +173,7 @@
 | [Purple Moncler](https://open.spotify.com/track/3Pz3ulQ85wkx8upWsyN11V) | [margiela](https://open.spotify.com/artist/36l7OgMNNPtaE3GPBcAz8q) | [Purple Moncler](https://open.spotify.com/album/2ixi2G4BP0bxMyk0b3hOgN) | 3:40 | 2026-02-19 | 2026-03-13 |
 | [Purple Moncler](https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw) | [Trimskii](https://open.spotify.com/artist/5lt3g2Pk2jwy0nrZKsMdPF) | [Purple Moncler](https://open.spotify.com/album/5n67CRBoyBcsDGtMPu06I4) | 3:32 | 2026-03-13 | 2026-06-05 |
 | [racist](https://open.spotify.com/track/2E9IBpAAmVJ4TT0qEs5yln) | [Hapes](https://open.spotify.com/artist/67YTeu5GB7MfmwTooDX4qo) | [racist](https://open.spotify.com/album/5SIIIDo1KMhRJduTnuns9L) | 1:36 | 2026-05-01 | 2026-05-02 |
-| [Real Talk](https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Real Talk](https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ) | 2:26 | 2026-04-13 | 2026-06-05 |
+| [Real Talk](https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Real Talk](https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ) | 2:26 | 2026-04-13 |  |
 | [Regular Show \- Vanta Version](https://open.spotify.com/track/1F3WRhECuzY78VXXT10CYh) | [Khenan](https://open.spotify.com/artist/1EjaHZ1glOgzroXJNhuGLE), [IGoByTobi](https://open.spotify.com/artist/7m7JiSs7G0WVtQj9zmPepf) | [VANTAGONIST](https://open.spotify.com/album/6NxLdlhJEyKo0aNZWn0Jr9) | 3:14 | 2026-05-17 | 2026-05-24 |
 | [Ride For Me](https://open.spotify.com/track/7rEwfqQMPIXlDWktGbDI3R) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 1:58 | 2026-02-26 | 2026-03-21 |
 | [RIP Goonew](https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 2:20 | 2026-01-22 | 2026-03-18 |
@@ -231,7 +232,7 @@
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [VVS FLOW](https://open.spotify.com/track/1KsaA94aJwiyTVDbKlgZQP) | [Boomy2Aktive](https://open.spotify.com/artist/7DgRxHJSV2odZIGViEUf6y), [2kfxded](https://open.spotify.com/artist/4pgEDns4neOULmbLvdyD88) | [VVS FLOW](https://open.spotify.com/album/3DD0Uzy7gfRRaj9zDucuRu) | 2:01 | 2026-05-18 | 2026-06-01 |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
-| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
+| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 | 2026-06-06 |
 | [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 | 2026-02-26 |
 | [Wiseman Freestlye](https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Wiseman Freestlye](https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ) | 2:08 | 2026-05-06 | 2026-05-29 |
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
@@ -242,6 +243,6 @@
 | [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 | 2026-01-04 |
 | [Your Love](https://open.spotify.com/track/2O2p7GIYgc7C4uN4rVhcWS) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 2:24 | 2026-02-26 | 2026-02-27 |
 | [YOUTUBE](https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:03 | 2025-11-29 | 2026-02-20 |
-| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 |  |
+| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 | 2026-06-06 |
 
 \*This playlist was first scraped on 2025-11-29. Prior content cannot be recovered.

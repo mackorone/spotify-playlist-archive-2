@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,933 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,992 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Up, Say What?](https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [House Of Mirrors](https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi) | 4:04 |
-| 2 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
-| 3 | [Runnin' Hot](https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Runnin' Hot](https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT) | 3:10 |
+| 1 | [Way Back](https://open.spotify.com/track/0YOjYOSiMRdwshS6UMr37r) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Louder Than Fate](https://open.spotify.com/album/4JInPCAU6lrdzOjZ3bIIjc) | 3:07 |
+| 2 | [Hold Up, Say What?](https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [House Of Mirrors](https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi) | 4:04 |
+| 3 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
 | 4 | [Focus](https://open.spotify.com/track/4x6CF4Dc59ocDnWhlRNefD) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Focus](https://open.spotify.com/album/2SmDfED4AlTqnyDydjtRUJ) | 3:55 |
 | 5 | [Hollow Gold](https://open.spotify.com/track/5PRUvwLrYzBKcTayCFowkj) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along As One \(LP\)](https://open.spotify.com/album/0IpuT8N2S3FVcYhokRa0PQ) | 3:03 |
 | 6 | [1992 Hooters 500](https://open.spotify.com/track/57vJ2FZCAZmMrWmOeRAWVg) | [Lombardy](https://open.spotify.com/artist/0P0SonGsS5tXo0oLO62djE) | [Catch A Buzz, Not The Fuzz](https://open.spotify.com/album/5BTSeFRpYaQx6EL0OeDz20) | 2:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAJ3CkIiSO3zd13RWWO2JhBXG+Mri`
+Snapshot ID: `AAAAAHWwn2lLvUhEs323ZtvD19p95wHx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Nuovi brani di Tony Boy, Bresh, Geolier, Merk & Kremont, Ditonellapiaga e tanti altri.",
+  "description": "Nuovi brani di Tony Boy, Bresh, Taylor Swift, Geolier, Merk & Kremont, Ditonellapiaga e tanti altri.",
   "name": "New Music Friday Italia",
   "tracks": [
     {
@@ -28798,6 +28798,24 @@
       "duration_ms": 125357,
       "name": "Casa vuota",
       "url": "https://open.spotify.com/track/28m7j6q7sQf7E7mEPawK6q"
+    },
+    {
+      "album": {
+        "name": "CANESCIOLTO",
+        "url": "https://open.spotify.com/album/05XlOMQj0EuzTkfa2J02j9"
+      },
+      "artists": [
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190739,
+      "name": "casamiacasamiacasamia",
+      "url": "https://open.spotify.com/track/73xc8MyJ1u4T2sdgGlDNiC"
     },
     {
       "album": {
@@ -73207,6 +73225,24 @@
     },
     {
       "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "album": {
         "name": "I Knew We'd Talk About It One Day",
         "url": "https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y"
       },
@@ -97173,7 +97209,7 @@
     },
     {
       "album": {
-        "name": "Mannaggia A Me",
+        "name": "Mannaggia a me",
         "url": "https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL"
       },
       "artists": [
@@ -97186,7 +97222,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148293,
-      "name": "Mannaggia A Me",
+      "name": "Mannaggia a me",
       "url": "https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th"
     },
     {
@@ -143153,6 +143189,24 @@
     },
     {
       "album": {
+        "name": "Post Trauma",
+        "url": "https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN"
+      },
+      "artists": [
+        {
+          "name": "CHANDIE",
+          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128999,
+      "name": "Sei arte",
+      "url": "https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV"
+    },
+    {
+      "album": {
         "name": "SEI COME NIENTE",
         "url": "https://open.spotify.com/album/3XSpIT0WoGRZACV1fbEMSB"
       },
@@ -166835,24 +166889,6 @@
     },
     {
       "album": {
-        "name": "Post Trauma",
-        "url": "https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN"
-      },
-      "artists": [
-        {
-          "name": "CHANDIE",
-          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV"
-    },
-    {
-      "album": {
         "name": "PI\u00d9 CHE SOLIDO",
         "url": "https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT"
       },
@@ -166868,24 +166904,6 @@
       "duration_ms": 0,
       "name": "Track 3",
       "url": "https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW"
-    },
-    {
-      "album": {
-        "name": "CANESCIOLTO",
-        "url": "https://open.spotify.com/album/05XlOMQj0EuzTkfa2J02j9"
-      },
-      "artists": [
-        {
-          "name": "Lanyard",
-          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/73xc8MyJ1u4T2sdgGlDNiC"
     },
     {
       "album": {
@@ -169229,7 +169247,7 @@
         },
         {
           "name": "Marco Kotov",
-          "url": "https://open.spotify.com/artist/6PI9DQb8BqYvnL17EIuPKZ"
+          "url": "https://open.spotify.com/artist/3Jki1jwC8xuHNdT6rpbokG"
         }
       ],
       "date_added": "2026-06-04",

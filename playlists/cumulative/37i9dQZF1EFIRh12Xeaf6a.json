@@ -2198,10 +2198,28 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 147200,
       "name": "Halfway to Paradise",
       "url": "https://open.spotify.com/track/5dUBXFkqGGLkl4Cf6A3AoU"
+    },
+    {
+      "album": {
+        "name": "Twistin' Heartbeat",
+        "url": "https://open.spotify.com/album/4n8TRauvKsK40NFWWIhNXH"
+      },
+      "artists": [
+        {
+          "name": "Billy Fury",
+          "url": "https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Halfway to Paradise",
+      "url": "https://open.spotify.com/track/1Kd9yDDh9rZjWkec3wA9wr"
     },
     {
       "album": {

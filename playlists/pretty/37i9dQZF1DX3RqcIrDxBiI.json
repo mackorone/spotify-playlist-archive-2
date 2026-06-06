@@ -795,26 +795,6 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
-        "name": "Les Dix Commandements (L'int\u00e9grale)",
-        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
-      },
-      "artists": [
-        {
-          "name": "Les Dix Commandements",
-          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
-        },
-        {
-          "name": "Daniel Levi",
-          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
-        }
-      ],
-      "duration_ms": 388840,
-      "name": "L'envie d'aimer",
-      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7nEHTOQJqKCx7Dvgng3l8t"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
+        "name": "Les Dix Commandements (L'int\u00e9grale)",
+        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
+      },
+      "artists": [
+        {
+          "name": "Les Dix Commandements",
+          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
+        },
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
+        }
+      ],
+      "duration_ms": 388840,
+      "name": "L'envie d'aimer",
+      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
     },
     {
       "added_at": "2026-02-06 18:20:07",

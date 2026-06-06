@@ -12740,7 +12740,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -16170,7 +16170,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -24283,6 +24283,28 @@
     },
     {
       "album": {
+        "name": "\u0410 \u041c\u043e\u0436\u0435 \u0422\u0438 \u041c\u0435\u043d\u0435 \u041f\u043e\u043b\u044e\u0431\u0438\u0448",
+        "url": "https://open.spotify.com/album/2fJYqzFFmf1grlFiXFzSJQ"
+      },
+      "artists": [
+        {
+          "name": "DNK",
+          "url": "https://open.spotify.com/artist/5x8AWZScpQkQ4Y2iETyjun"
+        },
+        {
+          "name": "TEMRA",
+          "url": "https://open.spotify.com/artist/048afCktZI81IPV8VH37DK"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114447,
+      "name": "\u0410 \u041c\u043e\u0436\u0435 \u0422\u0438 \u041c\u0435\u043d\u0435 \u041f\u043e\u043b\u044e\u0431\u0438\u0448",
+      "url": "https://open.spotify.com/track/570TQDUDsuaWNxWObiAriC"
+    },
+    {
+      "album": {
         "name": "\u0410 \u0449\u043e?",
         "url": "https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8"
       },
@@ -27534,7 +27556,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 200000,
       "name": "\u0413\u0435\u043d\u0433\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt"
@@ -34811,6 +34833,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
+        "url": "https://open.spotify.com/album/0Uu64773JOWfqP0C332TDV"
+      },
+      "artists": [
+        {
+          "name": "ForceTx",
+          "url": "https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138057,
+      "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
+      "url": "https://open.spotify.com/track/6UzkODYaNumibboLMCyupP"
+    },
+    {
+      "album": {
         "name": "\u041e\u0431\u044b\u0447\u043d\u044b\u0439 \u043f\u0430\u0440\u0435\u043d\u044c (feat. Ivanzolo2004)",
         "url": "https://open.spotify.com/album/5wQ0hXUTgWePf3IjKi7pvO"
       },
@@ -35886,7 +35926,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 167250,
       "name": "\u041f\u0438\u0442\u0430\u043d\u044c \u043d\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/1fInP7GtqNWNjtvM7uQAmH"
@@ -40126,7 +40166,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 145942,
       "name": "\u0442\u044b \u043b\u044e\u0431\u0438\u0448\u044c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT"
@@ -40166,7 +40206,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 90000,
       "name": "\u0442\u044b \u0447\u0435 \u043e\u0431\u0438\u0434\u0435\u043b\u0430\u0441\u044c",
       "url": "https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz"

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Electric Callboy
 
-960 songs - 2 day 6 hr 26 min
+961 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [20/20 Vision](https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [20/20 Vision](https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd) | 3:47 | 2024-10-03 | 2025-02-07 |
 | [21 Demons \(Boom Boom!\)](https://open.spotify.com/track/4FGoBJ8EV9fCDmfu7EEVQa) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [21 Demons \(Boom Boom!\)](https://open.spotify.com/album/53ENzaJ0tLcBV9HBqJEx7l) | 2:33 | 2026-03-26 | 2026-04-03 |
 | [24Seven \(feat\. Melrose Avenue\)](https://open.spotify.com/track/1GcqDUHJETSMWIbN2ShwiM) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Melrose Avenue](https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b) | [24Seven \(feat\. Melrose Avenue\)](https://open.spotify.com/album/72az3xZm3NNPOVlr0miHZz) | 2:55 | 2025-05-22 | 2025-06-06 |
-| [595](https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [595](https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP) | 2:29 | 2026-03-12 |  |
+| [595](https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [595](https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP) | 2:29 | 2026-03-12 | 2026-06-06 |
 | [6 Inch LED Screen](https://open.spotify.com/track/0PRxZfA5bUIRiHCEWPVXpM) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [6 Inch LED Screen](https://open.spotify.com/album/0lzOXZ0ywI0G4NowpURSrf) | 2:40 | 2024-08-19 | 2024-08-23 |
 | [60 Ways to Forget People](https://open.spotify.com/track/0x5gbbBiPs9pr6gMLgrerX) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [60 Ways to Forget People](https://open.spotify.com/album/6ee6HzKPVb3JSkqavLMwIR) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [7 Minutes in Hell](https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [7 Minutes in Hell](https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX) | 3:06 | 2024-07-18 | 2025-04-14 |
@@ -816,6 +816,7 @@
 | [TALK BOY](https://open.spotify.com/track/2waDM6PcMHkaUReuYnAQPX) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [TALK BOY](https://open.spotify.com/album/2SPx7SnEqetUySJmfcrflD) | 2:22 | 2025-10-16 | 2025-10-24 |
 | [Teeth](https://open.spotify.com/track/6ByoE7KZTcqPmmyWGyq3hp) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Teeth](https://open.spotify.com/album/6TxVQDVix5mb1iqfeTgDmW) | 2:29 | 2025-04-10 | 2025-04-25 |
 | [TELL ME I'M NOT ALONE](https://open.spotify.com/track/0v9DEbGdh91PbdDPFGXkoG) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [TELL ME I'M NOT ALONE](https://open.spotify.com/album/6xhAwCBMZQqs95Dhry0nvO) | 3:39 | 2026-05-21 | 2026-05-29 |
+| [Tell Me When You've Had Enough](https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:19 | 2026-06-05 |  |
 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 | 2024-06-27 | 2024-07-27 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2025-08-10 |
 | [The Art Of Being Alone](https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Art Of Being Alone](https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX) | 4:19 | 2025-09-11 | 2025-09-19 |

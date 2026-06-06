@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
@@ -9982,7 +9982,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 183043,
       "name": "DFN",
       "url": "https://open.spotify.com/track/2wS7w717hzJ31zgPtCVwXm"
@@ -15860,7 +15860,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 216228,
       "name": "HRRSS",
       "url": "https://open.spotify.com/track/3nYYYtmKsf0VQ8mFyKNjSM"
@@ -24348,7 +24348,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
@@ -26702,7 +26702,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 163636,
       "name": "NO WOMAN NO CRY",
       "url": "https://open.spotify.com/track/3TPzAecCS5wIcTEzXWZgKn"
@@ -31339,6 +31339,24 @@
     },
     {
       "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154004,
+      "name": "RITUEL",
+      "url": "https://open.spotify.com/track/1ZedZC7UFCkUR8YmFwIqwE"
+    },
+    {
+      "album": {
         "name": "Rmadi",
         "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
       },
@@ -31354,6 +31372,28 @@
       "duration_ms": 228559,
       "name": "Rmadi",
       "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
+    },
+    {
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "GELLO 4031",
+          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205724,
+      "name": "ROCHE MAN (feat. GELLO 4031)",
+      "url": "https://open.spotify.com/track/52sf4ya8bqRTrPf44j1uEf"
     },
     {
       "album": {
@@ -32258,6 +32298,28 @@
       "duration_ms": 55133,
       "name": "SALGOAT (with Roi Heenok)",
       "url": "https://open.spotify.com/track/0CSUop9EXJG70Ie6m3P6rf"
+    },
+    {
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "SAMEDI (feat. Shaw)",
+      "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
     },
     {
       "album": {
@@ -33600,6 +33662,24 @@
       "duration_ms": 208782,
       "name": "Sociopath",
       "url": "https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9"
+    },
+    {
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "SOFITEL",
+      "url": "https://open.spotify.com/track/6bzqPGZr0dtVVS5y6jvABs"
     },
     {
       "album": {
@@ -40756,6 +40836,24 @@
       "duration_ms": 112901,
       "name": "Zrire9 - Intro",
       "url": "https://open.spotify.com/track/1sVMM2VoBFQ2ryq4VbEXhX"
+    },
+    {
+      "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123421,
+      "name": "ZTAYLA & FUFU",
+      "url": "https://open.spotify.com/track/6hhxc7kYtbWwJCxOPzBJsj"
     },
     {
       "album": {

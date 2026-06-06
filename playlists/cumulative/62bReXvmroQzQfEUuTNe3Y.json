@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 174750,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1"
@@ -9616,6 +9616,24 @@
       "duration_ms": 168625,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0IDGbb3NY9pJoMzfkI4Jt4"
+    },
+    {
+      "album": {
+        "name": "Stay Until the Morning",
+        "url": "https://open.spotify.com/album/5LulOkhC6IF9n2L9dJWJ5s"
+      },
+      "artists": [
+        {
+          "name": "Stoto",
+          "url": "https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159210,
+      "name": "Stay Until the Morning",
+      "url": "https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB"
     },
     {
       "album": {

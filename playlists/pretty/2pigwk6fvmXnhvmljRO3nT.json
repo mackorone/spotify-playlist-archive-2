@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAL8e4nFOg4vFFCwwhKTn0EUV65z6or",
+  "snapshot_id": "AAAL9jq6jbG9AHQLQdrJRIDKMYTO57GT",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -40149,7 +40149,7 @@
         }
       ],
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (B)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
@@ -101926,26 +101926,6 @@
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Thief in the Night (feat. Trouble)",
-      "url": "https://open.spotify.com/track/1Cyf3mwH7sUze0XOA2lFFI"
-    },
-    {
-      "added_at": "2025-01-15 00:27:03",
-      "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
       "duration_ms": 207320,
@@ -108199,22 +108179,6 @@
       "duration_ms": 192756,
       "name": "Anti-Hero (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK"
-    },
-    {
-      "added_at": "2025-03-07 01:58:40",
-      "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 177737,
-      "name": "Tunechi Rollin'",
-      "url": "https://open.spotify.com/track/4ULBkFaSgMbC5kIajMTSjP"
     },
     {
       "added_at": "2025-03-07 01:58:40",
@@ -123219,22 +123183,6 @@
       "duration_ms": 246813,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK"
-    },
-    {
-      "added_at": "2025-05-09 10:53:27",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2GzNbQgpNvnMaqT9hrCIrt"
-      },
-      "artists": [
-        {
-          "name": "Rude-\u03b1",
-          "url": "https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "LIFE",
-      "url": "https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR"
     },
     {
       "added_at": "2025-05-09 10:53:40",
@@ -149731,6 +149679,38 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2026-06-05 07:59:34",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Hank Levy",
+          "url": "https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc"
+        }
+      ],
+      "duration_ms": 115360,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm"
+    },
+    {
+      "added_at": "2026-06-05 07:59:44",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "John Wasson",
+          "url": "https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL"
+        }
+      ],
+      "duration_ms": 555000,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0"
     }
   ],
   "unique_name": "Purge",

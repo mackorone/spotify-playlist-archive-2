@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from Alex Warren, The Avalanches, Jamie XX, BOY SODA, Tobiahs, Joji, The Kid LAROI + more",
-  "num_followers": 453801,
+  "description": "Brand new music from Taylor Swift, Alex Warren, The Avalanches, Jamie XX, BOY SODA, Tobiahs, Joji, The Kid LAROI + more\n",
+  "num_followers": 454243,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPdMOV2d+7mnHu7q5x5lHjNCa7L",
+  "snapshot_id": "AAAAALvZIIcVXDn/VRt4FDcKnNSL2hKU",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:56",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
     {
       "added_at": "2026-06-04 23:00:32",
       "album": {
@@ -59,6 +75,38 @@
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-06-04 23:00:32",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "added_at": "2026-06-05 06:03:17",
+      "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/2Lwg7GlZ7nLhKtPuO0EMIQ"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 157879,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/0pLMj9wDZPXjxJ3qEKM0rZ"
     },
     {
       "added_at": "2026-06-04 14:00:41",
@@ -469,6 +517,26 @@
       "url": "https://open.spotify.com/track/0NT2cnbQnoqWi948KlsEtq"
     },
     {
+      "added_at": "2026-06-05 04:00:56",
+      "album": {
+        "name": "Destined For Greatness",
+        "url": "https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 112935,
+      "name": "Come Up Off (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Aiu5BeufZqV7d4cSpVHBX"
+    },
+    {
       "added_at": "2026-06-04 14:00:41",
       "album": {
         "name": "Don\u2019t Break Her Heart",
@@ -584,8 +652,8 @@
           "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 13",
+      "duration_ms": 171067,
+      "name": "Perfect 10",
       "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
     },
     {
@@ -652,8 +720,8 @@
           "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 178455,
+      "name": "Quiet When You\u2019re Listening",
       "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
     },
     {
@@ -1268,8 +1336,8 @@
           "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 195063,
+      "name": "IM YOUR ALIEN",
       "url": "https://open.spotify.com/track/7MFu1gxAYjKcxY45JrVAPZ"
     },
     {

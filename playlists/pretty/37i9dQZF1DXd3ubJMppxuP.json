@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87941,
+  "num_followers": 87974,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
-      },
-      "artists": [
-        {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
-        },
-        {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
     },
     {
       "added_at": "2026-05-26 11:21:38",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
+        "name": "Hey Meid (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
+      },
+      "artists": [
+        {
+          "name": "PartyfrieX",
+          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
+        },
+        {
+          "name": "Total Loss",
+          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hey Meid - Total Loss Remix",
+      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
         "name": "De Hut Verbouwen (Dr. Rude Remix)",
         "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 156692,
       "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
       "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
-        "name": "Hey Meid (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
-      },
-      "artists": [
-        {
-          "name": "PartyfrieX",
-          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
-        },
-        {
-          "name": "Total Loss",
-          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hey Meid - Total Loss Remix",
-      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
     },
     {
       "added_at": "2026-05-26 11:21:38",

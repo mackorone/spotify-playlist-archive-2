@@ -6,7 +6,7 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADtcrw7IwSgtsCgwb5e4MvFuvR9Qg8",
+  "snapshot_id": "AAADvKDadOG0XDomtWVdvIZc00qH+Fw8",
   "tracks": [
     {
       "added_at": "2026-05-15 10:15:04",
@@ -73,6 +73,30 @@
       "url": "https://open.spotify.com/track/1ilnthAuHvDnqO5rshz0Wy"
     },
     {
+      "added_at": "2026-06-05 18:32:28",
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/37JAJeWRJIQb2mNzKsoi2N"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Andrew Watt",
+          "url": "https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI"
+        },
+        {
+          "name": "Cirkut",
+          "url": "https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv"
+        }
+      ],
+      "duration_ms": 298503,
+      "name": "In The Stars - Cirkut and Andrew Watt Remix",
+      "url": "https://open.spotify.com/track/14W3MuGOhkAINlO1kVg0Rj"
+    },
+    {
       "added_at": "2026-05-08 12:13:20",
       "album": {
         "name": "Home to Us",
@@ -93,20 +117,40 @@
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
     },
     {
-      "added_at": "2026-05-15 10:16:07",
+      "added_at": "2026-06-05 16:41:40",
       "album": {
-        "name": "Eire (Outtake)",
-        "url": "https://open.spotify.com/album/74obDeOtAXpBC3qKNRBXCB"
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Eire - Outtake",
-      "url": "https://open.spotify.com/track/0sxu6iFprqQjwP9nXmUpgI"
+      "duration_ms": 175200,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p"
+    },
+    {
+      "added_at": "2026-06-05 16:41:21",
+      "album": {
+        "name": "Loose (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Promiscuous - The Josh Desi Remix",
+      "url": "https://open.spotify.com/track/4yGK6idKhXzQA2zhrhLa8U"
     },
     {
       "added_at": "2026-05-15 10:16:20",
@@ -487,6 +531,22 @@
       "duration_ms": 204233,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
+    },
+    {
+      "added_at": "2026-05-15 10:16:07",
+      "album": {
+        "name": "Eire (Outtake)",
+        "url": "https://open.spotify.com/album/74obDeOtAXpBC3qKNRBXCB"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Eire - Outtake",
+      "url": "https://open.spotify.com/track/0sxu6iFprqQjwP9nXmUpgI"
     },
     {
       "added_at": "2026-03-27 12:48:32",

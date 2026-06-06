@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-208 songs - 13 hr 53 min
+210 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Emoji](https://open.spotify.com/track/1NslSQmmWld562HPeASfst) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 4:40 | 2026-03-27 |  |
 | [EMPTY THREATS](https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [EMPTY THREATS](https://open.spotify.com/album/6EcqysNWlAXs2OqPrXnXvJ) | 2:51 | 2025-01-31 | 2026-03-17 |
 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 | 2026-02-20 |  |
+| [Evergreen](https://open.spotify.com/track/5QSHsty6a2FdYP91iiBScF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Evergreen](https://open.spotify.com/album/3TwJm2v7uoU9q8AoYLKTus) | 3:03 | 2026-06-05 |  |
 | [Faithfully \- Single Version](https://open.spotify.com/track/7FKO2mSmhkR9NzjXr82zpz) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Faithfully](https://open.spotify.com/album/3a0ksuLUOLApL6mWogz7tF) | 2:48 | 2024-05-24 |  |
 | [Fake Fix](https://open.spotify.com/track/1ISjPzPrfa4GTrf6tznM0k) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [Fake Fix](https://open.spotify.com/album/3HgvyvvE2tOMSxeB1SRxgS) | 3:39 | 2025-01-31 | 2026-03-17 |
 | [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/5JFgQswV8AjhVUznCfUYha) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:55 | 2026-01-08 |  |
@@ -127,6 +128,7 @@
 | [Loved By You](https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:03 | 2025-01-31 | 2025-09-23 |
 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-08 |  |
 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 | 2024-11-01 |  |
+| [Menace](https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Menace](https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK) | 3:21 | 2026-06-05 |  |
 | [Mercy / Tremble](https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:42 | 2025-01-31 | 2025-09-20 |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:02 | 2025-02-28 |  |
 | [Miracle](https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Miracle](https://open.spotify.com/album/7xBjfEcq2Fx5hoBhPwimsL) | 3:39 | 2025-01-31 | 2025-09-20 |

@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -8178,7 +8178,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160000,
       "name": "CATEL",
       "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
@@ -9052,7 +9052,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
@@ -11166,7 +11166,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -33473,6 +33473,24 @@
     },
     {
       "album": {
+        "name": "IDCASH",
+        "url": "https://open.spotify.com/album/2zukLJzpwHRvFCYetUv5nc"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/2os0uiO7qZQoLYqjJQ2J6v"
+    },
+    {
+      "album": {
         "name": "paradyse",
         "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
       },
@@ -34124,7 +34142,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 127187,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6wkXctZWq1e1L9p9nXYq1P"
@@ -35658,7 +35676,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "promint",
       "url": "https://open.spotify.com/track/6dK5NytefN7GX8dIvUnXmv"
@@ -38710,7 +38728,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 197845,
       "name": "Savarina",
       "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
@@ -46308,7 +46326,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 118736,
       "name": "Trag \u00een ea",
       "url": "https://open.spotify.com/track/40TCHpYkSRk6rzJfOSB9Fu"
@@ -50142,7 +50160,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 173906,
       "name": "xcx",
       "url": "https://open.spotify.com/track/07qge8MmbZbeBuhHqZrQnZ"

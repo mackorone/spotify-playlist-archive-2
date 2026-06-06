@@ -22561,6 +22561,24 @@
     },
     {
       "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "John Wasson",
+          "url": "https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555000,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -31306,7 +31324,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177043,
-      "name": "DENiM",
+      "name": "DENiM (B)",
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
@@ -74540,7 +74558,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 182093,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/5JaYaJnVZ3ZCB4VLvfs3eR"
@@ -130682,7 +130700,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 219880,
       "name": "Thief in the Night (feat. Trouble)",
       "url": "https://open.spotify.com/track/1Cyf3mwH7sUze0XOA2lFFI"
@@ -135074,7 +135092,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 177737,
       "name": "Tunechi Rollin'",
       "url": "https://open.spotify.com/track/4ULBkFaSgMbC5kIajMTSjP"
@@ -143584,6 +143602,24 @@
       "duration_ms": 93409,
       "name": "WHEW LAWD",
       "url": "https://open.spotify.com/track/2nbTq1JQ1CrteXxYF4JAGR"
+    },
+    {
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Hank Levy",
+          "url": "https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115360,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm"
     },
     {
       "album": {

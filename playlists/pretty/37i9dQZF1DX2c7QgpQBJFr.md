@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: INVERNO
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,369 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,384 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 44 | [Non è mica fantasia](https://open.spotify.com/track/3Dz2fejA93xBDDOQgOnLhA) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [Non è mica fantasia](https://open.spotify.com/album/7C6egkXWJNjlUgVBj9QfMN) | 2:37 |
 | 45 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 46 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
-| 47 | [tutta aggrovigliata](https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw), [Marco Kotov](https://open.spotify.com/artist/6PI9DQb8BqYvnL17EIuPKZ) | [ypsilon](https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1) | 4:29 |
+| 47 | [tutta aggrovigliata](https://open.spotify.com/track/6RRIGE36lI16mKi56epMBo) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw), [Marco Kotov](https://open.spotify.com/artist/3Jki1jwC8xuHNdT6rpbokG) | [ypsilon](https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1) | 4:29 |
 | 48 | [Grafite](https://open.spotify.com/track/6xD5G4nPobgMmu0CsiOP8m) | [JANAKI](https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip) | [Grafite](https://open.spotify.com/album/7hkITURNk7GvgS3hzjXrpy) | 3:52 |
 | 49 | [Hai Sonno Per Niente](https://open.spotify.com/track/4qxK8wAsQQy5NBsUCydHte) | [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [Hai Sonno Per Niente](https://open.spotify.com/album/2PJKW48pmQB4du0JlNLhRL) | 2:51 |
 | 50 | [Senza vestiti](https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [Senza vestiti](https://open.spotify.com/album/0dxz0GxUcYXloy0ClIvz9h) | 3:00 |

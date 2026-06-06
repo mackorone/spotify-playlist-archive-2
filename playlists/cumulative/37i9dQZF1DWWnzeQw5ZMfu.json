@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Treat You Better (Live From New York)",
+        "url": "https://open.spotify.com/album/09bNV1IxTmUHM7GMN1B0hM"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231075,
+      "name": "Treat You Better (Live From New York)",
+      "url": "https://open.spotify.com/track/6w2skWzmyVsIQnkjDuWN5Z"
+    },
+    {
+      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },

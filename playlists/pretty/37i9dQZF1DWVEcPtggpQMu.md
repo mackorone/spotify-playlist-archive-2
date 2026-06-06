@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Cassper Nyovest
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,394 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,439 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [FRESHER THAN YALL](https://open.spotify.com/track/1nWxZB6D5ODZxODe38Vntb) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd) | [MARK MY WORDZ](https://open.spotify.com/album/5accUrG81HTdFt59063Gjd) | 2:43 |
 | 100 | [Hermano](https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Hermano](https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo) | 3:12 |
 
-Snapshot ID: `AAAAAEkDQxe2c3eJb6UxOxxDCQKZmsqb`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

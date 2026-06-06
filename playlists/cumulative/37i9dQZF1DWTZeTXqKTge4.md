@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le rap québécois, servi tout frais tout chaud\. Photo: Fléau Dicaprio
+> Le rap québécois, servi tout frais tout chaud\. Photo: Souldia
 
-1,212 songs - 2 day 11 hr 57 min
+1,217 songs - 2 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Ciao](https://open.spotify.com/track/25akJEUvfU5BrlpcEGn0Gl) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 3:57 | 2023-11-03 | 2023-11-13 |
 | [Cinq à sept](https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 3:28 | 2023-11-03 | 2023-11-13 |
 | [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 | 2023-11-12 | 2024-02-03 |
+| [city matter](https://open.spotify.com/track/3GgUBeRpFUkiMhQ5IvwPm1) | [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [Boulet](https://open.spotify.com/album/5clkXSiF0SCSqY2CEUdrKF) | 2:24 | 2026-06-05 |  |
 | [Civilisé, Pt\. III](https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Civilisé, Pt\. III](https://open.spotify.com/album/4O12LgQbABuaxgrj0HUHze) | 3:10 | 2026-05-15 |  |
 | [Claim Your Blessings](https://open.spotify.com/track/1C2BSvWxlVgIwisrY0YTVW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Claim Your Blessings](https://open.spotify.com/album/2Fv8VDaIRl9Xh0CGgD6NIi) | 2:22 | 2026-02-13 | 2026-03-28 |
 | [COBAYE](https://open.spotify.com/track/2dqaIgv4BedNGfQZmYBtfc) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS) | [COBAYE](https://open.spotify.com/album/0VzpDVglsn7PAAc7A6QtzW) | 4:47 | 2022-05-27 | 2022-06-11 |
@@ -293,6 +294,7 @@
 | [CŒUR VERT](https://open.spotify.com/track/3w8KyVRaDjW8R85X68tXe9) | [KDS Requinzer](https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3), [JULZ](https://open.spotify.com/artist/0AeeeaLNxfB6TZ8Z6WucHQ) | [CŒUR VERT](https://open.spotify.com/album/53OIWOEVT9xGKyMbFho6VH) | 3:26 | 2025-10-31 | 2025-12-04 |
 | [D'où je viens](https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [D'où je viens](https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi) | 2:43 | 2026-05-08 |  |
 | [dal kob](https://open.spotify.com/track/7AkYc7a3Bx18FW8wuSLhEn) | [tifloccon](https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [vrai rap keb!](https://open.spotify.com/album/268JgU3VzV6wcGnGCBBQt9) | 1:56 | 2026-03-13 |  |
+| [Dame De Fer](https://open.spotify.com/track/3tu5edWklybUy0NkVjnWec) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Bob Marlich](https://open.spotify.com/artist/2hbpMFkBbWiREMmfZ6KC3T) | [Sibérie](https://open.spotify.com/album/2AYHsQAtCJDH3kAoaJNcD2) | 2:00 | 2026-06-05 |  |
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 | 2023-04-22 |
 | [Danger](https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Danger](https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs) | 2:40 | 2026-05-29 |  |
 | [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 | 2023-06-23 | 2023-11-04 |
@@ -591,6 +593,7 @@
 | [Ken Block](https://open.spotify.com/track/4ISa7PFHIyZZr1PWo9eUt1) | [Jack Layne](https://open.spotify.com/artist/6ewOvMyMCAVPqO4zsNdQQX), [Sensei H](https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN) | [Ken Block](https://open.spotify.com/album/0Z0LkvkTrxMOOKTNc4QPeH) | 3:09 | 2025-12-03 | 2026-02-21 |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-06-30 | 2023-10-14 |
 | [KESS PASS](https://open.spotify.com/track/7mMD0TlI2Dwdo9SyBkqLpS) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [METHMATICS](https://open.spotify.com/album/7GVQKmI4lh0noPeYKZRX6c) | 2:40 | 2023-11-03 | 2023-11-13 |
+| [Kesspass](https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Kesspass](https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv) | 1:18 | 2026-06-05 |  |
 | [Kesta ?!](https://open.spotify.com/track/1lYjt83B05waZfNDLmV51F) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G), [C'nee Starlette](https://open.spotify.com/artist/1Uqosoff0TdXYcw8yB7aeo) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 3:05 | 2022-02-11 | 2022-04-16 |
 | [ketama](https://open.spotify.com/track/0pAsaACBxZrY3OUFMWlezu) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Kheir](https://open.spotify.com/artist/7kaof8rwuCnCp2pWlk9yzh) | [blues beldi](https://open.spotify.com/album/6113yrCSI1S2APZjYS0RJK) | 2:20 | 2026-01-16 | 2026-03-07 |
 | [Khalass](https://open.spotify.com/track/3i6wxSnFxndFdbUlckaUBv) | [Lights058](https://open.spotify.com/artist/36MwzuH4MpuCab4p6wXSuq) | [Khalass](https://open.spotify.com/album/1fq27tOVkAkL6LrhlEK7mR) | 2:32 | 2026-02-20 | 2026-05-02 |
@@ -760,6 +763,7 @@
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-04-29 | 2022-05-28 |
 | [Monolove](https://open.spotify.com/track/4CuDF39WKMnhxjiHCXOBq9) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Monolove](https://open.spotify.com/album/1s3FfWbkHpV9uA4jZfj7B4) | 2:21 | 2024-05-10 | 2024-05-25 |
+| [Monstrueux](https://open.spotify.com/track/2TDCLfUiTEoPSrjUIAI6V7) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [MONSTRE](https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV) | 3:12 | 2026-06-05 |  |
 | [Montego Bay](https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Montego Bay](https://open.spotify.com/album/2WR2QlAGCRC5sJuJhZEUHS) | 3:02 | 2023-08-04 | 2023-10-28 |
 | [Montréal](https://open.spotify.com/track/3LhkJnY2DFmOSVlit8tuKW) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Montréal](https://open.spotify.com/album/28YignfqPwuUqODQfyt5VE) | 1:38 | 2023-09-08 | 2024-05-25 |
 | [Montréal\-Nord](https://open.spotify.com/track/41z84YtJNRPdg906pvjF1V) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Rue des saules](https://open.spotify.com/album/7l5TzPItlnnA5qb02fLgbp) | 4:32 | 2023-11-03 | 2023-11-13 |
@@ -1018,6 +1022,7 @@
 | [Sans II](https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Sans II](https://open.spotify.com/album/3hoKvPaEu9R4wk0VJ3OsWE) | 3:41 | 2023-02-03 | 2023-05-06 |
 | [sans moi](https://open.spotify.com/track/0Iz8YOutt2JvAhoAgOXEz3) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [sans moi](https://open.spotify.com/album/5MULomPuf6S1B90OfIfIJt) | 2:06 | 2024-06-14 | 2024-07-06 |
 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 | 2022-09-02 | 2023-04-15 |
+| [SATOSHI](https://open.spotify.com/track/3tn55XAdZ8EyAfYJo53y9g) | [6SIX6](https://open.spotify.com/artist/01tlG3DUicHTHqFsGYwDeg), [FAY](https://open.spotify.com/artist/3VzB446tjIMeJ1A0bYRTug), [INSa](https://open.spotify.com/artist/2sOWLpJuMr0aumqSOKqTde) | [SATOSHI](https://open.spotify.com/album/0tcEB7NR3Oi1jKS25qKwJs) | 1:23 | 2026-06-05 |  |
 | [Sauvetage](https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Sauvetage](https://open.spotify.com/album/1MAAoozfD8t7yMwJNlScOl) | 3:50 | 2023-05-19 | 2023-11-13 |
 | [Savoir Faire](https://open.spotify.com/track/0QzKhiUheuDm0et5lzKpTy) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [8ruki](https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 3:11 | 2022-02-04 | 2022-08-27 |
 | [Scellé](https://open.spotify.com/track/461bGbAcrBfCbtHV8RdP4T) | [Stone](https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Scellé](https://open.spotify.com/album/1J4n5twTGxBK1aPjyUpAhR) | 2:42 | 2022-07-22 | 2023-01-28 |

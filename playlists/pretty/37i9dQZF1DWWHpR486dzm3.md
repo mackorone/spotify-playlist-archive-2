@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,712 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,715 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 90 | [Heaven](https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heaven](https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV) | 3:52 |
 | 91 | [Elämä kiitää](https://open.spotify.com/track/2H17GpNsUIsZuaTDLer385) | [M](https://open.spotify.com/artist/3Morn5TpdjMah0L9EtAxdH) | [Elämä kiitää](https://open.spotify.com/album/38vNaRcDaSrWBGBo1nXfXZ) | 2:59 |
 | 92 | [Lesbioosi](https://open.spotify.com/track/3lueksEzK9lKJseT8CWEKl) | [Elsi Sloan](https://open.spotify.com/artist/6cazkQl74MEGMuFrbDd88e) | [Lesbioosi](https://open.spotify.com/album/1zyOilRM7o4BnXrziMrDl3) | 4:00 |
-| 93 | [Tuneto](https://open.spotify.com/track/0SkPs8QI60koYMSMOXwluc) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [Mixtape Madness Vol\. 1](https://open.spotify.com/album/2RPR4UfTKPgTU6M6YkX17X) | 2:42 |
+| 93 | [Tuneto](https://open.spotify.com/track/0SkPs8QI60koYMSMOXwluc) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [Mixtape Madness Vol.1](https://open.spotify.com/album/2RPR4UfTKPgTU6M6YkX17X) | 2:42 |
 | 94 | [BREAK PRETTY](https://open.spotify.com/track/7CBaiyIqYjKgWAPCdtFyPy) | [NEONITE](https://open.spotify.com/artist/3GcqM3cOXBm2Z6ahteBLJi), [Ocyris](https://open.spotify.com/artist/5cSyG8usm9lWXyJ5kjYfF0) | [BREAK PRETTY](https://open.spotify.com/album/3jSyDFIyzKXCof4FFN63kn) | 3:02 |
 | 95 | [Uudestaan](https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Ristiriita](https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb) | 2:57 |
 | 96 | [Sulaa laavaa](https://open.spotify.com/track/66VQ6kIvz1eOgWrNq5KwQj) | [Markus Perttula](https://open.spotify.com/artist/0KOsZUUpyfo5qbb7YNEOEv) | [Sulaa laavaa](https://open.spotify.com/album/5FvCzOSjmCpKSpux1meqjq) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 99 | [Piru](https://open.spotify.com/track/4AMZwFyeT8pcTCJDMNocJq) | [Runo](https://open.spotify.com/artist/23MrcUEMEaLznNXpyc9EGz) | [Piru](https://open.spotify.com/album/67yvAnBoIoN8Wma5fV69zA) | 2:36 |
 | 100 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
 
-Snapshot ID: `AAAAAH9ZtVI91ziXHim/h0qMtgl6pQWJ`
+Snapshot ID: `AAAAANkiVgTmz8HdrMpK7QHNWSwgq6ma`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Thee Marloes",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover:  Voxxes, Sheila Dara",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 278259,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k"
@@ -4546,6 +4546,24 @@
       "duration_ms": 195754,
       "name": "Kau Juga Semua Orang",
       "url": "https://open.spotify.com/track/1kHwwUrZcYFJEvrHXs033s"
+    },
+    {
+      "album": {
+        "name": "Fase I : Disonansi",
+        "url": "https://open.spotify.com/album/2m40Y6zQKB6o8CbyhoUtKX"
+      },
+      "artists": [
+        {
+          "name": "Turbokidz",
+          "url": "https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165639,
+      "name": "Kebosanan Usia Dini",
+      "url": "https://open.spotify.com/track/3BWtIkxLAflGxVjEdxP2uB"
     },
     {
       "album": {
@@ -9793,6 +9811,28 @@
     },
     {
       "album": {
+        "name": "Warm Weather (Live from Classic Love Songs)",
+        "url": "https://open.spotify.com/album/04E6qJ3dAOWutgEka5TQFf"
+      },
+      "artists": [
+        {
+          "name": "Voxxes",
+          "url": "https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG"
+        },
+        {
+          "name": "Sheila Dara Aisha",
+          "url": "https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Warm Weather - Live from Classic Love Songs",
+      "url": "https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz"
+    },
+    {
+      "album": {
         "name": "Wax & Feathers",
         "url": "https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc"
       },
@@ -9840,7 +9880,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197963,
       "name": "Well, dadah",
       "url": "https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp"

@@ -6253,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "Oh Come On!",
+        "url": "https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB"
+      },
+      "artists": [
+        {
+          "name": "Your Friend Death",
+          "url": "https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187385,
+      "name": "Oh Come On!",
+      "url": "https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO"
+    },
+    {
+      "album": {
         "name": "Oh, What a Sunny Day!",
         "url": "https://open.spotify.com/album/3E2NALBN9OHJH1fJlVRilk"
       },

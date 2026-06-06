@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Nicolò Filippucci
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,376 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,372 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 25 | [Mai](https://open.spotify.com/track/4VLr4Esg0hHSVoNjs19u3u) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:19 |
 | 26 | [tulipani](https://open.spotify.com/track/394weSN7QOcqtOqFGZPJPG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [tulipani](https://open.spotify.com/album/0keSY74W93g3NFOrsWhWwz) | 3:14 |
 | 27 | [Viva la Vasca](https://open.spotify.com/track/6Jssaf4jsrSLqAeP7PE58T) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm), [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [Viva la Vasca](https://open.spotify.com/album/6H8euPbHTQjaq1Hr9qJEcq) | 2:39 |
-| 28 | [Mannaggia A Me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia A Me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 |
+| 28 | [Mannaggia a me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia a me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 |
 | 29 | [Ti Soffro](https://open.spotify.com/track/2COQ6p6hLJtEZSWh7gj8SQ) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71), [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn) | [Ti Soffro](https://open.spotify.com/album/3bgOurJrrjgmOjM8w8QQ6C) | 2:39 |
 | 30 | [A ME A ME](https://open.spotify.com/track/5vQ90JpH1JiakWUwAkBH5z) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [A ME A ME](https://open.spotify.com/album/6o4UjDmPPYqhudWx1XfTL8) | 2:20 |
 | 31 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 38 | [Controcorrente](https://open.spotify.com/track/1mFKpK2i6Ls3oKPEWQDBa4) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Sogni di Vetro](https://open.spotify.com/album/4D8nX9MZqFPgFnTWGPZTeu) | 2:43 |
 | 39 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
 | 40 | [BOMBONERA](https://open.spotify.com/track/6NGCVJ4cKg0c0Je3nyvBtA) | [Blind](https://open.spotify.com/artist/5OHbkBRl9kGeloz8JjAwDP) | [BOMBONERA](https://open.spotify.com/album/2AdLhIt2fbB0jnsP1crlCM) | 2:58 |
-| 41 | [Track 3](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 0:00 |
+| 41 | [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 |
 | 42 | [Raccoglie, Chi Semina](https://open.spotify.com/track/2zANwsJz5R4jBxLL4ewXGT) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [Raccoglie, Chi Semina](https://open.spotify.com/album/1egE7ysxjKn0cRbChc2VzX) | 3:05 |
 | 43 | [Sole](https://open.spotify.com/track/4sCqHpUf19nEbpB8kgNhuH) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Sole](https://open.spotify.com/album/0JoUy6uuF2KxHnrWvEbYPM) | 2:39 |
 | 44 | [ACQUARIO](https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ACQUARIO](https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3) | 3:13 |

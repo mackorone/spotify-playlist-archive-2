@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : EPIC \- First Semester
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,694 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,727 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Prema Leela](https://open.spotify.com/track/07YBAV1GeHB5U8UAhI0KVH) | [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Prasad S](https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI), [Swaradish Dr Bharat Balvalli](https://open.spotify.com/artist/5XetFidz3lBNinSu2krac1) | [Krishnavataram \- Part 1: The Heart \(Hridayam\) \(Telugu\)](https://open.spotify.com/album/1Gh24RQ8Oac5IgXIgeFHdw) | 4:41 |
 | 50 | [Bubblegum \(From "BIKER"\)](https://open.spotify.com/track/0Ef0FwVRh4weaf5raW5n0g) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Hanuman](https://open.spotify.com/artist/6ZjXnmHm9xqXykKC98dEoX), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Sreemani](https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza) | [Bubblegum \(From "BIKER"\)](https://open.spotify.com/album/4Z1U4J1Zmrym1sdnZfstDI) | 3:11 |
 
-Snapshot ID: `AAAAAHLp+BEoKmsizcqkCLsJ7gGJXJfL`
+Snapshot ID: `AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al`

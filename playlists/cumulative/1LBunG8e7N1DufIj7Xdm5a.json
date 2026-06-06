@@ -24055,6 +24055,24 @@
     },
     {
       "album": {
+        "name": "Epic One",
+        "url": "https://open.spotify.com/album/0zBEpohA04Axtzo08uhago"
+      },
+      "artists": [
+        {
+          "name": "EverFelt",
+          "url": "https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455978,
+      "name": "Epic One",
+      "url": "https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH"
+    },
+    {
+      "album": {
         "name": "Erase",
         "url": "https://open.spotify.com/album/4KUjsdc9BglRDTAEmztYuM"
       },
@@ -37414,6 +37432,28 @@
       "duration_ms": 204759,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/0o2v8uvzdaNdKhl50rz0z0"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Don",
+        "url": "https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        },
+        {
+          "name": "Dritan Hoxhaa",
+          "url": "https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Kilos",
+      "url": "https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu"
     },
     {
       "album": {
@@ -80179,7 +80219,7 @@
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 128839,
+      "duration_ms": 128840,
       "name": "zero zero bea",
       "url": "https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD"
     },

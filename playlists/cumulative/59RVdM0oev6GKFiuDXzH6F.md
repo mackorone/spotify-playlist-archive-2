@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,159 songs - 2 day 11 hr 44 min
+1,161 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Comin' Back](https://open.spotify.com/track/3u672pLueDfjhsLBvERzKh) | [Titus1](https://open.spotify.com/artist/4dCWLsP4fsgMjs3zcNq3TU) | [Comin' Back](https://open.spotify.com/album/3HtrSJhzonB7WNfy22Dkbf) | 3:25 | 2023-04-14 | 2023-04-28 |
 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 | 2024-04-12 | 2024-04-26 |
 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-05-01 | 2023-05-24 |
+| [Contento](https://open.spotify.com/track/2lc9qi12Ruq1HEtOpDVz6x) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Contento](https://open.spotify.com/album/7uAjKjLrJxb2lvmYDR4m9R) | 2:54 | 2026-06-05 |  |
 | [Contra](https://open.spotify.com/track/404MxkOiMnqfYgiHtI7jEr) | [Jeno](https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps), [Wempe](https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW) | [Contra](https://open.spotify.com/album/3IMhAUPK3pRLIMO2Qy8I3v) | 3:02 | 2026-05-14 |  |
 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 | 2024-02-02 | 2024-09-26 |
 | [Cool 'N Calm](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Cool 'N Calm](https://open.spotify.com/album/38V1SjBIRIN2ZJtM4LowSp) | 3:35 | 2025-04-03 |  |
@@ -982,6 +983,7 @@
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2023-12-23 |
 | [Telesexo](https://open.spotify.com/track/609zzeuRVGBYi0Q1sTDpxF) | [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Telesexo](https://open.spotify.com/album/6zl8QIrWLpGE9Vl4Bnjbj9) | 3:32 | 2024-12-05 |  |
 | [Teri Marzi](https://open.spotify.com/track/4DhhsRMeQHYulFENSJZXIL) | [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Teri Marzi](https://open.spotify.com/album/6IdQN1dJYxsd7Fpi60clKB) | 3:06 | 2025-11-14 |  |
+| [Tethered](https://open.spotify.com/track/3KD6nKKXMekQ97FXsVUu4x) | [CIElll](https://open.spotify.com/artist/3QjmjyzzJuYvXi0mgvCoKT) | [Tethered](https://open.spotify.com/album/65jBf0k4viFZJ9GwqJnRvy) | 2:33 | 2026-06-05 |  |
 | [Teufel](https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [ORYMA](https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5), [danzen](https://open.spotify.com/artist/4FeLGx97hUMscWvgzmAAE9) | [Teufel](https://open.spotify.com/album/7DN6ucZjue4uXoFmJtLjQ6) | 2:52 | 2024-09-13 | 2025-01-09 |
 | [Thank You \(Not So Bad\) \- Dimitri Vegas x Piero Pirupa Remix](https://open.spotify.com/track/36sjMtIThTSVgC1iKxEiCg) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Thank You \(Not So Bad\) \[Dimitri Vegas x Piero Pirupa Remix\]](https://open.spotify.com/album/5yWiS6bIHLF416h02Z2vHn) | 3:33 | 2024-04-05 | 2024-04-26 |
 | [That Accordion Song](https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [That Accordion Song](https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa) | 2:46 | 2023-05-24 | 2023-08-02 |

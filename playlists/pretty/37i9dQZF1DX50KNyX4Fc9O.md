@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,529 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,522 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Time to Time \(Annie\)](https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Time to Time \(Annie\)](https://open.spotify.com/album/05USGegWxbTPtVePsT3oru) | 2:52 |
 | 100 | [take me under](https://open.spotify.com/track/0pI66luNEQtIYpf5WBtSDt) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [take me under](https://open.spotify.com/album/4hcozZVNufMM4ajk4JrFWr) | 2:33 |
 
-Snapshot ID: `AAAAAFQe5XV8aic0Cfw51459pmVOMp0i`
+Snapshot ID: `AAAAAMt/a0CfK0oKN7iihEQ1HWxWvGQU`

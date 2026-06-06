@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Mumuzinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,674 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,717 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Tira Ela De Mim / Insegurança \- Ao Vivo](https://open.spotify.com/track/6WRGdpvnAqS2YJqp3Mq4xb) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1), [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd) | [Coleção de Pagodes \#1: Sem Reznha](https://open.spotify.com/album/2YXqqlOuNOxUW3s9rCjUlO) | 3:04 |
 | 75 | [Não Tem Hora Nem Lugar / Sonhos E Planos \- Ao Vivo](https://open.spotify.com/track/4OFO8OHAUQTMK0erId2pl8) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Não Tem Hora Nem Lugar / Sonhos E Planos \(Ao Vivo\)](https://open.spotify.com/album/7pvPERAaD1rmTZOuY25yCV) | 4:02 |
 
-Snapshot ID: `AAAAAKqdD/llUArWTIz1y2bHPx0JyI33`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: PNAU, Maleigh Zan
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,173 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,168 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 96 | [Medicine](https://open.spotify.com/track/5JeHECMVOFQEugcBmv6VTD) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Medicine](https://open.spotify.com/album/3RAVrTaXGbi1IgnEDwHGME) | 3:20 |
 | 97 | [Crashed Into You](https://open.spotify.com/track/4vHxFjNxFLqRE3oinOUlHS) | [KSMBA](https://open.spotify.com/artist/6Mlg0F6j2vEBt6d4LqGjoS) | [Communion](https://open.spotify.com/album/0HcQ1SqVUFRLdaiyNJMn4r) | 3:24 |
 | 98 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
-| 99 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 99 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:40 |
 
 Snapshot ID: `AAAAAPSGd3J7lScK5pssZ7ch3SOqLsnf`

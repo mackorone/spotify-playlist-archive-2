@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Steve Lacy
 
-907 songs - 1 day 20 hr 18 min
+907 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [KAMNESIA](https://open.spotify.com/track/7B5X6FiC3wzImVhO1ht9Kr) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [KAMNESIA](https://open.spotify.com/album/5D1ZO32xR36zp9s6lj331G) | 2:04 | 2025-11-21 | 2025-12-05 |
 | [Keep Coming Back To You](https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Keep Coming Back To You](https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT) | 3:29 | 2026-02-27 | 2026-03-06 |
 | [Keep It Together](https://open.spotify.com/track/0PWuiDpeIQBE3bMhYCOOuB) | [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr), [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Keep It Together](https://open.spotify.com/album/44Q5nZiBOuTcoFIhAB4TEX) | 2:38 | 2026-01-30 | 2026-02-13 |
+| [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 | 2026-06-04 |  |
 | [Kill The Buddha](https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Kill The Buddha](https://open.spotify.com/album/6JmvSaDVGCo8f07S4OMbUy) | 3:33 | 2026-04-10 | 2026-04-25 |
 | [Knock It](https://open.spotify.com/track/6bfKyXysd54p5f4rMZmcvI) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Knock It](https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT) | 3:13 | 2026-05-07 | 2026-05-22 |
 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 | 2026-06-04 |  |
@@ -832,7 +833,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 5](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 0:00 | 2026-06-04 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |

@@ -1,13 +1,29 @@
 {
-  "description": "New music from Malcolm Todd, Alex Warren, Yusry, Andi Bernadee, SHINee, MAMAMOO and more!",
-  "num_followers": 74844,
+  "description": "New music from Taylor Swift, Malcolm Todd, Alex Warren, Yusry, Andi Bernadee, SHINee, MAMAMOO and more!",
+  "num_followers": 74979,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZOlFUm84qQH2obevTLSVMJtw4j",
+  "snapshot_id": "AAAAAOeivcJjdn+a5WONoPajBC6xADFa",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:04:54",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
     {
       "added_at": "2026-06-04 16:00:46",
       "album": {
@@ -59,6 +75,22 @@
       "duration_ms": 154413,
       "name": "Bluffin' (with The Kid LAROI)",
       "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
+    },
+    {
+      "added_at": "2026-06-05 12:00:24",
+      "album": {
+        "name": "Jiwa & Raga",
+        "url": "https://open.spotify.com/album/5DNGJzIUOVuHtA7VgceoDP"
+      },
+      "artists": [
+        {
+          "name": "Yusry",
+          "url": "https://open.spotify.com/artist/2iyy2sHwFQPTEFotohO3PL"
+        }
+      ],
+      "duration_ms": 248490,
+      "name": "Jiwa & Raga",
+      "url": "https://open.spotify.com/track/7KWjo769GnbUpY2IcfYUcb"
     },
     {
       "added_at": "2026-06-04 16:00:46",
@@ -204,8 +236,8 @@
           "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 224347,
+      "name": "june",
       "url": "https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA"
     },
     {
@@ -372,8 +404,8 @@
           "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 217846,
+      "name": "lucky",
       "url": "https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV"
     },
     {
@@ -565,6 +597,22 @@
       "url": "https://open.spotify.com/track/0o0yzV24yRsgFE1xstBeeV"
     },
     {
+      "added_at": "2026-06-05 08:33:58",
+      "album": {
+        "name": "\u5851\u6599\u888b",
+        "url": "https://open.spotify.com/album/26H14nLxKEMkh6CicJsRpU"
+      },
+      "artists": [
+        {
+          "name": "Homeless Scholars",
+          "url": "https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "\u5851\u6599\u888b",
+      "url": "https://open.spotify.com/track/43cvPb1VCbkxhEf6UbmTY0"
+    },
+    {
       "added_at": "2026-06-04 16:00:46",
       "album": {
         "name": "4th MINI ALBUM [NEW WAV]",
@@ -611,6 +659,22 @@
       "duration_ms": 172000,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/7q5oi1pqu8SCxeXP0WiOIf"
+    },
+    {
+      "added_at": "2026-06-05 04:04:54",
+      "album": {
+        "name": "Miss Me More",
+        "url": "https://open.spotify.com/album/6sF3ifHeZhuzBvtle2lhct"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 163917,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/1BT4DKm4C3FBJntfzxAdKI"
     },
     {
       "added_at": "2026-06-04 16:00:46",
@@ -897,7 +961,7 @@
         }
       ],
       "duration_ms": 322010,
-      "name": "Where to?",
+      "name": "Where To?",
       "url": "https://open.spotify.com/track/2YEce0jJ3nZKhdcZb91rOH"
     },
     {
@@ -973,6 +1037,26 @@
       "url": "https://open.spotify.com/track/2zHMiZkQJmKONaXotWbH3z"
     },
     {
+      "added_at": "2026-06-05 04:04:54",
+      "album": {
+        "name": "Destined For Greatness",
+        "url": "https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 112935,
+      "name": "Come Up Off (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Aiu5BeufZqV7d4cSpVHBX"
+    },
+    {
       "added_at": "2026-06-04 16:00:46",
       "album": {
         "name": "up up above",
@@ -1000,8 +1084,8 @@
           "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 13",
+      "duration_ms": 171067,
+      "name": "Perfect 10",
       "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
     },
     {
@@ -1019,6 +1103,22 @@
       "duration_ms": 183387,
       "name": "7500 Miles",
       "url": "https://open.spotify.com/track/7uBOKa3ktEqzMEZ2WJpsvY"
+    },
+    {
+      "added_at": "2026-06-05 04:04:54",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
       "added_at": "2026-06-04 16:00:46",

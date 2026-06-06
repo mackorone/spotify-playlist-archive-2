@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Neue Musik von Alex Warren, badm\u00f3mzjay, RAF Camora & vielen mehr!",
+  "description": "Neue Musik von Alex Warren, badm\u00f3mzjay, Taylor Swift, RAF Camora & vielen mehr!",
   "name": "New Music Friday Deutschland",
   "tracks": [
     {
@@ -33603,6 +33603,24 @@
     },
     {
       "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "album": {
         "name": "Cozy Girls",
         "url": "https://open.spotify.com/album/77OKR8bO2GsDlg84pEo0C8"
       },
@@ -49702,6 +49720,24 @@
       "duration_ms": 147077,
       "name": "Evermind Loner",
       "url": "https://open.spotify.com/track/5GmfTLclKGNeZld0jaXNdh"
+    },
+    {
+      "album": {
+        "name": "Promising Young Woman",
+        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Every Life",
+      "url": "https://open.spotify.com/track/3Z5MBZmAZy9Z46QPkmZZUG"
     },
     {
       "album": {
@@ -71153,6 +71189,32 @@
     },
     {
       "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        },
+        {
+          "name": "KIARABABA",
+          "url": "https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Herz an Herz (mit verifiziert & KIARABABA)",
+      "url": "https://open.spotify.com/track/6GqfbYHJi5svdPSXyfTGEW"
+    },
+    {
+      "album": {
         "name": "herz aus gold",
         "url": "https://open.spotify.com/album/6E0oCSTdBspa4Uqhf9bqVF"
       },
@@ -77440,6 +77502,24 @@
       "duration_ms": 151977,
       "name": "i kinda like how u know just how beautiful u are",
       "url": "https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -94896,6 +94976,10 @@
         {
           "name": "Stickle",
           "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         }
       ],
       "date_added": "2026-06-04",
@@ -125523,6 +125607,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings (Deluxe)",
+        "url": "https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171067,
+      "name": "Perfect 10",
+      "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
+    },
+    {
+      "album": {
         "name": "perfect one",
         "url": "https://open.spotify.com/album/6lK5NGNeNQ8hCCELn9TnqB"
       },
@@ -136078,6 +136180,32 @@
       "duration_ms": 126933,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/27dn9ZTwGj5uZjIQPulwAE"
+    },
+    {
+      "album": {
+        "name": "Run Run River (Angels Above Me)",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "Run Run River (Angels Above Me)",
+      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
     },
     {
       "album": {
@@ -154050,6 +154178,24 @@
     {
       "album": {
         "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0I9EuDhOFZQC9ZMCcPMue8"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4oDUnRSQj6zK69SkuHtQfK"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK"
       },
       "artists": [
@@ -163100,60 +163246,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "Alles nur geliehen",
-        "url": "https://open.spotify.com/album/6BfpgxqnnrCJ0a63JoMjVN"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/7s4LOxtTwnFCUDpG5FDpSQ"
-    },
-    {
-      "album": {
-        "name": "KITSCHKRIEG ZWEI",
-        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/6GqfbYHJi5svdPSXyfTGEW"
-    },
-    {
-      "album": {
-        "name": "No Hard Feelings (Deluxe)",
-        "url": "https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
     },
     {
       "album": {
@@ -174880,6 +174972,24 @@
       "duration_ms": 135015,
       "name": "Wenn ich ein Junge w\u00e4r",
       "url": "https://open.spotify.com/track/534Obfn7Jw2rIam6Bzz5Ve"
+    },
+    {
+      "album": {
+        "name": "Alles nur geliehen",
+        "url": "https://open.spotify.com/album/6BfpgxqnnrCJ0a63JoMjVN"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183910,
+      "name": "Wenn ich einmal Kinder habe",
+      "url": "https://open.spotify.com/track/7s4LOxtTwnFCUDpG5FDpSQ"
     },
     {
       "album": {

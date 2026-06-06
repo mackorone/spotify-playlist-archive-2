@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-2,175 songs - 5 day 3 hr 16 min
+2,176 songs - 5 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1692,6 +1692,7 @@
 | [Sixteen](https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Sixteen](https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i) | 3:26 | 2026-03-27 |  |
 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-08 | 2023-03-04 |
 | [Skinny Brittle Bones](https://open.spotify.com/track/14uNisaAuHwalExIW0KTMV) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Skinny Brittle Bones](https://open.spotify.com/album/2Vq4ccHKkOqcOTzYu3Jwji) | 2:48 | 2021-07-19 | 2022-04-20 |
+| [skinny dip](https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [skinny dip](https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn) | 3:12 | 2026-06-05 |  |
 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 | 2025-06-28 |
 | [Skylight](https://open.spotify.com/track/4cK3rXOwUNJAVcbrpe85pc) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Skylight](https://open.spotify.com/album/4r4q428IwjBvFixAz62e4K) | 3:04 | 2025-01-24 | 2025-05-03 |
 | [Slasher](https://open.spotify.com/track/2kzpDswNb4TzQM0fLZXeuz) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Slasher](https://open.spotify.com/album/5SZQdlSBar4oMrBmjaJQtv) | 2:41 | 2024-10-25 | 2025-02-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Kingfishr
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,874 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,875 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 |
 | 80 | [Talk Of The Town](https://open.spotify.com/track/2IJjaUdTftzHm4CFZ8sLce) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35), [Lil Skag](https://open.spotify.com/artist/78Z3VDkltCPHMYFdx8AgIs), [owin](https://open.spotify.com/artist/5pMq3WIpbsmwB9VJ7HaN4g) | [Talk Of The Town](https://open.spotify.com/album/3OPhlsiLcE1mAfG8eVZ6LD) | 2:24 |
 
-Snapshot ID: `AAAAAAfiFaNZrOAfLriXqUj0Nugsm0ua`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

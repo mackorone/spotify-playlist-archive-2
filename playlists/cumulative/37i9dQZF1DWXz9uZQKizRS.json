@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: BABIE LATO, Natalia Grosiak, BELA, Kathia",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Bovska",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "A m\u00f3g\u0142by\u015b",
+        "url": "https://open.spotify.com/album/4IPDLqfzOEDiWpPRB48Rdj"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "A m\u00f3g\u0142by\u015b",
+      "url": "https://open.spotify.com/track/6yfb88NZmXBtRmO1NrL4TI"
+    },
+    {
+      "album": {
         "name": "3,3333\u2026",
         "url": "https://open.spotify.com/album/2jd4qfOv47ts8yyyJNb5sZ"
       },
@@ -784,6 +802,28 @@
       "duration_ms": 205038,
       "name": "April I",
       "url": "https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb"
+    },
+    {
+      "album": {
+        "name": "ARGENTYNA",
+        "url": "https://open.spotify.com/album/4N7ca5rQyd2NhwWhTHUGML"
+      },
+      "artists": [
+        {
+          "name": "DOBRY",
+          "url": "https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X"
+        },
+        {
+          "name": "DARIUSZ SZPAKOWSKI",
+          "url": "https://open.spotify.com/artist/32HCuyWqE0ywKQwdLie0pe"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157605,
+      "name": "ARGENTYNA",
+      "url": "https://open.spotify.com/track/4x68dkQpyCeu5sLVsyRYMe"
     },
     {
       "album": {
@@ -1324,7 +1364,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 143118,
       "name": "BBY WAGON",
       "url": "https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P"
@@ -2424,6 +2464,36 @@
       "duration_ms": 176074,
       "name": "Brzeg",
       "url": "https://open.spotify.com/track/0wOsloGZIJf5OAhBbdGU6P"
+    },
+    {
+      "album": {
+        "name": "Brzydkie posty",
+        "url": "https://open.spotify.com/album/360hXD5rpJmKTdfY98E8tb"
+      },
+      "artists": [
+        {
+          "name": "Szymon Norkowski",
+          "url": "https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS"
+        },
+        {
+          "name": "Tw\u00f3j, Dawid",
+          "url": "https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk"
+        },
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
+        },
+        {
+          "name": "ETERNAL NOW",
+          "url": "https://open.spotify.com/artist/1trInLAiWlEn0D6HbbPUe3"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Brzydkie posty",
+      "url": "https://open.spotify.com/track/3bZIGxeDbYwYpiCxMAKrTR"
     },
     {
       "album": {
@@ -4108,7 +4178,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 138750,
       "name": "Co ci powiem ty wiesz",
       "url": "https://open.spotify.com/track/3zdzTpNm1es6rq3ek95c7d"
@@ -5455,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
+    },
+    {
+      "album": {
         "name": "Do po\u0142owy",
         "url": "https://open.spotify.com/album/3KTMXMpSZRJ8g9VtygIe0z"
       },
@@ -5968,7 +6056,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 264543,
       "name": "Duchy",
       "url": "https://open.spotify.com/track/2f0kDGtEEvs3nuvAt4VIvL"
@@ -6506,7 +6594,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 355000,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3G1eupiw1Qr6pePMeGeA7N"
@@ -9321,6 +9409,28 @@
     },
     {
       "album": {
+        "name": "Jak to jest?",
+        "url": "https://open.spotify.com/album/5lpNZbBFtiRJ7Yv5eyiioJ"
+      },
+      "artists": [
+        {
+          "name": "Linda",
+          "url": "https://open.spotify.com/artist/0kuyTWxry4ZGnRiamkFuKD"
+        },
+        {
+          "name": "bieran",
+          "url": "https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244655,
+      "name": "Jak to jest?",
+      "url": "https://open.spotify.com/track/3nyQq75twpGQsn4VU8gXYe"
+    },
+    {
+      "album": {
         "name": "jakby co, to dzwo\u0144",
         "url": "https://open.spotify.com/album/2o0THpAArDAx3lVksJ58Sn"
       },
@@ -11145,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Ko\u0142ysanka (z filmu Ch\u0142opiec na Kra\u0144cach \u015awiata)",
+        "url": "https://open.spotify.com/album/3tahuAdTUV9cPonTlG9R82"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147477,
+      "name": "Ko\u0142ysanka (z filmu Ch\u0142opiec na Kra\u0144cach \u015awiata)",
+      "url": "https://open.spotify.com/track/5AOhDOzD1S3EPPJn5b4PoL"
+    },
+    {
+      "album": {
         "name": "Popi\u00f3\u0142 i Dym (Beksi\u0144ski.Live)",
         "url": "https://open.spotify.com/album/1P1aUeS6y0R5RI3PXzfFsI"
       },
@@ -11298,6 +11426,24 @@
       "duration_ms": 348318,
       "name": "Krater",
       "url": "https://open.spotify.com/track/09ZNuR2PNSu3QorEwbPM1C"
+    },
+    {
+      "album": {
+        "name": "Krem Budyniowy o Aksamitnej Egzystencji",
+        "url": "https://open.spotify.com/album/4OG7jP5aiugoXUdoskyLhi"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Krem Budyniowy o Aksamitnej Egzystencji",
+      "url": "https://open.spotify.com/track/2BgigWAHJIpKZawikjToEh"
     },
     {
       "album": {
@@ -12621,6 +12767,28 @@
     },
     {
       "album": {
+        "name": "Lullababy",
+        "url": "https://open.spotify.com/album/5OAGkcDWrmsALrZomSiMlT"
+      },
+      "artists": [
+        {
+          "name": "SUPERNOVA",
+          "url": "https://open.spotify.com/artist/13pID0NGBQTVDqblbBcSNO"
+        },
+        {
+          "name": "SNLGHT",
+          "url": "https://open.spotify.com/artist/1Ybm8Ze0H3meOe4GP6OWCi"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Lullababy",
+      "url": "https://open.spotify.com/track/0KiJDIFEqPssbDECXXxa9I"
+    },
+    {
+      "album": {
         "name": "lunatyk",
         "url": "https://open.spotify.com/album/2P6UQ4uAnXV9FvCyOsYzjr"
       },
@@ -13318,6 +13486,28 @@
       "duration_ms": 188813,
       "name": "Ma\u0142ym palcem o pr\u00f3g",
       "url": "https://open.spotify.com/track/3o6SILJ2UlYFAt7cQrxHrr"
+    },
+    {
+      "album": {
+        "name": "Melatonina (Dzie\u0144)",
+        "url": "https://open.spotify.com/album/0T8hFzFFAVNQ4FFNhksD3v"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        },
+        {
+          "name": "Czarny HIFI",
+          "url": "https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146679,
+      "name": "Melatonina (Dzie\u0144)",
+      "url": "https://open.spotify.com/track/5ucaM6MjNqTfKRaqKGnbSN"
     },
     {
       "album": {
@@ -14928,6 +15118,24 @@
       "duration_ms": 218544,
       "name": "M\u0142odo\u015b\u0107",
       "url": "https://open.spotify.com/track/4mYR5ZHRHDBYkDkuKotVC2"
+    },
+    {
+      "album": {
+        "name": "na b\u0142ysk",
+        "url": "https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229444,
+      "name": "na b\u0142ysk",
+      "url": "https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS"
     },
     {
       "album": {
@@ -19222,7 +19430,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 170262,
       "name": "Pa\u0142ac Kultury",
       "url": "https://open.spotify.com/track/2UfSHGHfFFJGbbgWr59ib6"
@@ -20064,7 +20272,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 170920,
       "name": "Poca\u0142unki w deszczu",
       "url": "https://open.spotify.com/track/70UV5au28BP1cQFGtc3vJB"
@@ -23150,7 +23358,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 164949,
       "name": "Si\u00f3dma Sosna",
       "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
@@ -24663,6 +24871,32 @@
     },
     {
       "album": {
+        "name": "Szum",
+        "url": "https://open.spotify.com/album/2nd2FL2v81UzKmdrdY4rsE"
+      },
+      "artists": [
+        {
+          "name": "kilka czu\u0142o\u015bci",
+          "url": "https://open.spotify.com/artist/5ePKwdz8bcYGy0m2W3Dibo"
+        },
+        {
+          "name": "Agnieszka Musia\u0142",
+          "url": "https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc"
+        },
+        {
+          "name": "Hanna Wojtkowiak",
+          "url": "https://open.spotify.com/artist/2fYuQ40ebqbFBcUVxIDf3s"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278986,
+      "name": "Szum",
+      "url": "https://open.spotify.com/track/3wlSDEpTLE2s7QtvEZrovH"
+    },
+    {
+      "album": {
         "name": "Szymek",
         "url": "https://open.spotify.com/album/0uKQaDzftBhGTpDZDYzYmm"
       },
@@ -24696,7 +24930,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 155555,
       "name": "S\u00f3l na ran\u0119",
       "url": "https://open.spotify.com/track/7yw7sSGMScQryGPk3jI4NM"
@@ -24913,6 +25147,24 @@
     },
     {
       "album": {
+        "name": "Taka jak ty",
+        "url": "https://open.spotify.com/album/4fQCNtcNfgF4upBm4lnRwy"
+      },
+      "artists": [
+        {
+          "name": "MeryMaks",
+          "url": "https://open.spotify.com/artist/6Ktj597K5DEKDYyJv38nkI"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Taka jak ty",
+      "url": "https://open.spotify.com/track/0Oyu6LRiBCEVawrBzMPD7Y"
+    },
+    {
+      "album": {
         "name": "Taki czas",
         "url": "https://open.spotify.com/album/06WI2Lyn3HQOiBNMieUk00"
       },
@@ -24982,7 +25234,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 185742,
       "name": "Takie Jak Ty",
       "url": "https://open.spotify.com/track/2gcZYpILe02niCNP9NNGVf"
@@ -28536,7 +28788,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 203636,
       "name": "Woda zm\u0105cona (W kadzidla\u0144skim boru)",
       "url": "https://open.spotify.com/track/5FE07a074RetujLAg4Bhx4"
@@ -31942,7 +32194,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 200820,
       "name": "\u015awietnie",
       "url": "https://open.spotify.com/track/2W9yJOkL3YoCS4cyWhw0gG"
@@ -32192,7 +32444,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 278333,
       "name": "\u017c\u00f3\u0142te tapety",
       "url": "https://open.spotify.com/track/6rvYAaMQhhTTPqABemvXTO"

@@ -4,7 +4,7 @@
 
 > canzoni per un'estate non proprio felice 🥀 cover: OTTOBRE
 
-1,711 songs - 3 day 6 hr 33 min
+1,711 songs - 3 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1332,6 +1332,7 @@
 | [SE TU SOLO VORRAI](https://open.spotify.com/track/3gUyWHskD9TBOulf9pUuj9) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [SE TU SOLO VORRAI](https://open.spotify.com/album/6B2npQSWIXTIr6me9buDEN) | 2:50 | 2026-01-22 |  |
 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 | 2023-09-28 | 2023-11-17 |
 | [SEDIA ARMADIO](https://open.spotify.com/track/373LwiNEzQ670uPj8LGzDd) | [VOLPI](https://open.spotify.com/artist/5wmojKMSezsXJ9pRUaVUJ7) | [SEDIA ARMADIO](https://open.spotify.com/album/5UbgvZSNgfMTxr7MZpBh5P) | 2:58 | 2026-05-21 |  |
+| [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 | 2026-06-04 |  |
 | [SEI BELLA](https://open.spotify.com/track/0b74ka1v8nMD60CLOpUiFp) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR) | [SEI BELLA](https://open.spotify.com/album/7fglBhJQnxqfTa96m4W9ms) | 2:23 | 2025-07-10 | 2025-09-05 |
 | [Sei Fidanzata ?](https://open.spotify.com/track/5XeRpId3TEyhNICs6QVWxL) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [Sei Fidanzata ?](https://open.spotify.com/album/03LPXcG9tktoTMbZ8dspE0) | 2:42 | 2024-08-29 | 2024-10-04 |
 | [SEI UNA BAMBINA](https://open.spotify.com/track/6uatLMSzOTAV1FgI0xwvsf) | [NOCTA](https://open.spotify.com/artist/3bEJuQhX9UWutAXeOhojFE) | [SEI UNA BAMBINA](https://open.spotify.com/album/6jbws4e3lWW3yTolMwMrjG) | 2:38 | 2022-05-06 | 2022-05-13 |
@@ -1557,7 +1558,6 @@
 | [TOY BOY](https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [TOY BOY](https://open.spotify.com/album/668Jgd4NnnSN6kEF7Wrhlv) | 2:49 | 2023-05-04 | 2023-06-23 |
 | [TRA LE TUE BRACCIA](https://open.spotify.com/track/0N8cT6YiNauT1WzAgZmXmE) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [TRA LE TUE BRACCIA](https://open.spotify.com/album/0tApMpKF0AO7jShDQQigdq) | 2:46 | 2024-10-24 | 2025-02-21 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-12-22 | 2023-01-06 |
-| [Track 3](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 0:00 | 2026-06-04 |  |
 | [Traffico Moderno](https://open.spotify.com/track/0bMIpF2k9bNPXmGu8sLkd8) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Traffico Moderno](https://open.spotify.com/album/2a8Hbz6qzdCoXgZ3HeenqK) | 2:30 | 2024-03-28 | 2024-06-28 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-04 | 2025-12-30 |
 | [Tragica](https://open.spotify.com/track/43pWyJoQ7EH1OErVhjNoKh) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [Tragica](https://open.spotify.com/album/63r0q5KcGH1DPkpGLbZnuw) | 3:18 | 2026-03-19 | 2026-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Akshath, Charan Preet, Badshah and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,769 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,857 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Aadatan](https://open.spotify.com/track/3EurQfYtnpIsp2LCMQeSbM) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Aadatan](https://open.spotify.com/album/4DED7DzooO2MlYZtmQqvwy) | 2:34 |
 | 50 | [Sajan Re](https://open.spotify.com/track/4IY2T284jwbMvcff8LhNXi) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Sajan Re](https://open.spotify.com/album/0g3VCSdKJuAjcVlXDnvtLT) | 2:48 |
 
-Snapshot ID: `AAAAALwYI4rpQfcTxIFvC30TFpaJCftQ`
+Snapshot ID: `AAAAAJrHNQF4l3GWLwtUYeD9r+Q9khFD`

@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 136421,
       "name": "BACK OUTSIDE",
       "url": "https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0"
@@ -4036,6 +4036,28 @@
       "duration_ms": 160299,
       "name": "DEAD OR ALIVE",
       "url": "https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3"
+    },
+    {
+      "album": {
+        "name": "DEEP END",
+        "url": "https://open.spotify.com/album/64BWnmAekhO1MRorIyzvvm"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        },
+        {
+          "name": "G0NZ0",
+          "url": "https://open.spotify.com/artist/1sIrV4Oj5XUNTIOU4NDGTT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178351,
+      "name": "DEEP END",
+      "url": "https://open.spotify.com/track/3G9KWIIK0bBM0gneXE8Nyi"
     },
     {
       "album": {

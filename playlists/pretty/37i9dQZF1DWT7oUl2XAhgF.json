@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 397988,
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "num_followers": 398068,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFgrEgJ0WRpVvPDxbnd655FBrBk",
+  "snapshot_id": "AAAAACXswBS+9fk+SYb94Sd4UdDh4rXx",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:37",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "Burning Temptation",
+      "url": "https://open.spotify.com/track/35VN6nIXJaJzOIeRzjOMkT"
+    },
     {
       "added_at": "2026-05-08 04:01:02",
       "album": {
@@ -107,22 +123,6 @@
       "duration_ms": 208327,
       "name": "Only You Do",
       "url": "https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0"
-    },
-    {
-      "added_at": "2026-04-17 04:01:03",
-      "album": {
-        "name": "Hang It On The Shelf",
-        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 145786,
-      "name": "Hang It On The Shelf",
-      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
     },
     {
       "added_at": "2026-04-10 04:00:47",

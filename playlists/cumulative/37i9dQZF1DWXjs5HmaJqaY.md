@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-403 songs - 1 day 12 hr 36 min
+404 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Afrasia](https://open.spotify.com/track/3XlR81zJ5Xe7ymqOmCe8Kp) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Afrasia](https://open.spotify.com/album/4VmmvpZZisupRwK4Wyl9zV) | 4:00 | 2025-06-27 |  |
 | [After The Storm](https://open.spotify.com/track/2kWzROeeYfk3DuK0XpqO0U) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [After The Storm](https://open.spotify.com/album/5xXzENKfWiK7ISPyMXqMlh) | 6:35 | 2024-12-17 | 2025-05-30 |
 | [Algorithm](https://open.spotify.com/track/3Na1OqTOAg8rlxzhDx3x3q) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Algorithm](https://open.spotify.com/album/365zphzquUancMmfLCH0ud) | 2:58 | 2026-02-06 |  |
+| [Alicante](https://open.spotify.com/track/5IEOhfUcuMHfhEeiReQOcH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Alicante](https://open.spotify.com/album/7uZGkI9g5kylbcmc0ksZx2) | 2:39 | 2026-06-05 |  |
 | [All Smiles](https://open.spotify.com/track/1VZGcjxTvnGIEcX46BH3aw) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [All Smiles](https://open.spotify.com/album/03vjP0kuneZzx4dblhQGIX) | 3:44 | 2026-04-17 |  |
 | [Allure](https://open.spotify.com/track/70dXPHohcyh0b127wtjjw8) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Allure](https://open.spotify.com/album/5EVQE1SeWeU7fVya3uUihQ) | 3:54 | 2024-07-26 | 2025-02-15 |
 | [Amber](https://open.spotify.com/track/43cvd7nBhsfPYW1yBVVtqI) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 6:59 | 2023-03-03 | 2024-01-27 |
@@ -303,7 +304,7 @@
 | [Revolt \- Extended Mix](https://open.spotify.com/track/5UAjSVD66PU0VJVDjf0wzj) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 6:29 | 2022-09-16 | 2023-05-20 |
 | [Sapiosensual](https://open.spotify.com/track/4dI6MTMABd3ecL9cnXxIqR) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Sapiosensual](https://open.spotify.com/album/4P20LtVdYpBDkwLUpr4lYr) | 3:26 | 2025-02-14 | 2026-04-18 |
 | [Sauna](https://open.spotify.com/track/2Vmj3rizpizIu6pBrmj6GC) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sauna](https://open.spotify.com/album/3HjL5kQqOBCqTTLfiRfMNK) | 6:42 | 2025-08-08 |  |
-| [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 | 2024-09-06 |  |
+| [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 | 2024-09-06 | 2026-06-06 |
 | [Schattenkinder](https://open.spotify.com/track/4pJAUIdjUCZaN4RxNmW6J6) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Schattenkinder](https://open.spotify.com/album/4nVd6PO6kLvO0ShmrUVxEZ) | 3:55 | 2025-05-30 | 2026-04-18 |
 | [Schattenkinder](https://open.spotify.com/track/7FsOhJC7Ofb7h57oSt7Z0s) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit \(Deluxe\)](https://open.spotify.com/album/2kcUhQkrJmntQZgbDviH3o) | 3:55 | 2025-11-28 | 2026-04-18 |
 | [Scream Excess](https://open.spotify.com/track/0QIGP0fLELX6cf9LbO80T7) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 6:44 | 2024-07-26 | 2025-06-28 |

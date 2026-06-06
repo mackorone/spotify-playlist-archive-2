@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> Jobi Riccio on the cover <3
+> new Haylie Davis album has us swooning ☀️
 
-813 songs - 2 day 1 hr 2 min
+818 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Call It A Draw](https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Call It A Draw](https://open.spotify.com/album/73WJqjpUrtXfw9L7MC14F1) | 3:23 | 2025-02-21 | 2025-07-19 |
 | [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 | 2025-04-10 | 2025-09-13 |
 | [call my name](https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [call my name](https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH) | 3:24 | 2024-07-08 | 2025-05-10 |
+| [Can't You Just Hold Me?](https://open.spotify.com/track/39Faow8DQlOOfzWsKbLCS2) | [Alder Cote](https://open.spotify.com/artist/0CiMpVlvx7HH7YSCczLotT) | [Can't You Just Hold Me?](https://open.spotify.com/album/5CxHCOTssN4RF05lz5iAw2) | 4:06 | 2026-06-05 |  |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 | 2025-10-18 |
 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 | 2026-03-16 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-03 | 2024-10-19 |
@@ -263,6 +264,7 @@
 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 | 2025-02-28 | 2025-09-27 |
 | [Gentle Love](https://open.spotify.com/track/4Mp41b1Z5I45NPBkKuKMkq) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Beauty Land](https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2) | 1:31 | 2026-06-03 |  |
 | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/track/5OUGnKAiNCNxX3RXsGTcMI) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo), [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [George Jones \(ft\. Angela Autumn\)](https://open.spotify.com/album/7t5DjAvZEkYKkej5qiDDN1) | 3:35 | 2026-01-30 |  |
+| [Georgia the Ceremonialist](https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW) | [Maya Donovan](https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX) | [Georgia the Ceremonialist](https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu) | 4:36 | 2026-06-05 |  |
 | [Georgia Walks](https://open.spotify.com/track/46ewa3Cu9oEqxNnh0LRWxs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Georgia Walks](https://open.spotify.com/album/5NQ5yCqEPIP4BW3BPKXAmU) | 4:07 | 2023-10-20 | 2024-02-10 |
 | [give or take](https://open.spotify.com/track/31GzBC7eCQ4bmfuYpt66xW) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [give or take](https://open.spotify.com/album/7AqIwlTBcRNL3AVbS1FdDp) | 3:58 | 2025-04-18 | 2025-08-09 |
 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2024-02-23 | 2024-04-06 |
@@ -286,6 +288,7 @@
 | [Green](https://open.spotify.com/track/2E5BWo8mbARqmhojr34JNE) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Using You](https://open.spotify.com/album/3C03VhKOb57bOiPwJPZ6QM) | 3:15 | 2025-04-04 | 2025-09-27 |
 | [green](https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [green](https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc) | 3:06 | 2024-04-12 | 2025-01-18 |
 | [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 | 2023-12-22 | 2024-03-02 |
+| [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 | 2026-06-05 |  |
 | [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 | 2025-05-02 | 2025-12-13 |
 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 | 2025-10-24 |  |
 | [gut health](https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [gut health](https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP) | 4:03 | 2024-06-07 | 2024-07-27 |
@@ -345,6 +348,7 @@
 | [i think i had something once](https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [i think i had something once](https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao) | 3:39 | 2026-04-10 |  |
 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 | 2024-01-26 | 2024-04-06 |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 | 2025-03-13 |
+| [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 | 2026-06-05 |  |
 | [I Wasn’t There](https://open.spotify.com/track/36GforftaCASOR8kBnhqN8) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:07 | 2025-06-27 | 2026-01-24 |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-14 | 2024-03-02 |
 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 | 2023-11-10 | 2024-04-19 |
@@ -533,7 +537,7 @@
 | [Personified](https://open.spotify.com/track/4yd4nDCAiHzeu0BsetmtFN) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Personified](https://open.spotify.com/album/4QjQZhAuJUSt7busfeDsrc) | 3:09 | 2025-12-12 |  |
 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 | 2025-11-14 | 2026-01-17 |
 | [Pictures of You](https://open.spotify.com/track/4uw8eVbfUdCAjLp3yt4Woe) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Pictures of You](https://open.spotify.com/album/63DzXorHF9MwDkDZKVkfaL) | 3:34 | 2026-05-08 |  |
-| [pieces](https://open.spotify.com/track/3T75q5HwEOMfZXZgCWnstl) | [brendon b](https://open.spotify.com/artist/6hU7BmY0hzSFRIt3szp3B5) | [pieces](https://open.spotify.com/album/6kdc2r3GV5eMRucsYQLtVT) | 3:13 | 2026-02-27 |  |
+| [pieces](https://open.spotify.com/track/3T75q5HwEOMfZXZgCWnstl) | [brendon b](https://open.spotify.com/artist/6hU7BmY0hzSFRIt3szp3B5) | [pieces](https://open.spotify.com/album/6kdc2r3GV5eMRucsYQLtVT) | 3:13 | 2026-02-27 | 2026-06-06 |
 | [pink moon](https://open.spotify.com/track/7ps6k8CDGZBh9201nz6UK7) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [pink moon](https://open.spotify.com/album/6obyaef6k16jbYn4EFhCuE) | 3:21 | 2026-04-10 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-10-12 |
 | [Please Be Rude](https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz) | 3:00 | 2024-05-10 | 2024-08-27 |
@@ -800,6 +804,7 @@
 | [Wolves of Worry](https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Wolves of Worry](https://open.spotify.com/album/1jPBK8y3CHlUCM0z4sTCux) | 3:38 | 2025-08-29 | 2026-02-21 |
 | [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 | 2026-04-03 |  |
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 | 2026-02-21 |
+| [Write You Wrong](https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [The Modern Shoe Is Ruining The Foot](https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21) | 4:18 | 2026-06-05 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2023-10-06 | 2023-12-16 |
 | [Yellow House](https://open.spotify.com/track/6D0P3ZuzgP6cGBhXEDLmRA) | [Satya](https://open.spotify.com/artist/5GITUEMmJSSaCT3rr4pQXq) | [Yellow House](https://open.spotify.com/album/7B2hFfVp0IM8xcyiy635sd) | 3:50 | 2026-02-20 |  |
 | [Yoke \(with Julien Baker\)](https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Yoke \(with Julien Baker\)](https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW) | 3:53 | 2024-10-25 | 2025-07-12 |

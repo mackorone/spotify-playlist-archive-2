@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Arthur Nery
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,638 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,575 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 3 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
 | 4 | [Pwede Ka Ba?](https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Pwede Ka Ba?](https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf) | 4:58 |
 | 5 | [Multo \(Stripped Down\)](https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [The Loved One \(Original Movie Soundtrack\)](https://open.spotify.com/album/3Ro4baI6qQJeefppUAUoVw) | 4:06 |
-| 6 | [Lambing](https://open.spotify.com/track/6lka2hyRKdR9JRyhsrK3je) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lambing](https://open.spotify.com/album/21eaRBXZouSf8ZErKKUueu) | 4:03 |
-| 7 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
-| 8 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 |
-| 9 | [Since Day One](https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Since Day One](https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI) | 3:11 |
-| 10 | [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 |
-| 11 | [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 |
-| 12 | [Manatili](https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Manatili](https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg) | 3:40 |
-| 13 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 |
-| 14 | [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 |
-| 15 | [2GOOD4U](https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [2GOOD4U](https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6) | 2:50 |
-| 16 | [Listahan](https://open.spotify.com/track/5S7Deakw4SQd7FsNbtzyoe) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Listahan](https://open.spotify.com/album/1N8OwJNdnxPGKmxw0UL91t) | 4:35 |
-| 17 | [Moolah](https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [Daarth](https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3) | [Moolah](https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS) | 2:37 |
-| 18 | [Sindi](https://open.spotify.com/track/4VaeQwWLxVZEONyQlSV3ye) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Sindi](https://open.spotify.com/album/1wHNPtUMR0d94CNaSxbds1) | 3:27 |
-| 19 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
+| 6 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
+| 7 | [Lambing](https://open.spotify.com/track/6lka2hyRKdR9JRyhsrK3je) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lambing](https://open.spotify.com/album/21eaRBXZouSf8ZErKKUueu) | 4:03 |
+| 8 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
+| 9 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 |
+| 10 | [Since Day One](https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Since Day One](https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI) | 3:11 |
+| 11 | [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 |
+| 12 | [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 |
+| 13 | [Manatili](https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Manatili](https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg) | 3:40 |
+| 14 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 |
+| 15 | [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 |
+| 16 | [2GOOD4U](https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [2GOOD4U](https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6) | 2:50 |
+| 17 | [Listahan](https://open.spotify.com/track/5S7Deakw4SQd7FsNbtzyoe) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Listahan](https://open.spotify.com/album/1N8OwJNdnxPGKmxw0UL91t) | 4:35 |
+| 18 | [Moolah](https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [Daarth](https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3) | [Moolah](https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS) | 2:37 |
+| 19 | [Sindi](https://open.spotify.com/track/4VaeQwWLxVZEONyQlSV3ye) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Sindi](https://open.spotify.com/album/1wHNPtUMR0d94CNaSxbds1) | 3:27 |
 | 20 | [alon](https://open.spotify.com/track/1we7ejeeUYN2E3bau8DMkj) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [alon](https://open.spotify.com/album/1lp9u4tz7NfolKsKR2HvOU) | 3:31 |
 | 21 | [Stronger Than Before](https://open.spotify.com/track/3E3MNqDZuF62vgjqrnbC4h) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Stronger Than Before](https://open.spotify.com/album/6lthtEP5QO1stqXAFDRtqe) | 4:07 |
 | 22 | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/album/6RiqcnCb9Z6mxrXsLDEXEj) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Driftstar](https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Driftstar](https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4) | 2:51 |
 | 50 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
 
-Snapshot ID: `AAAAAPD9Jk8R2wUWBFwn6mdGAZksH5kx`
+Snapshot ID: `AAAAAMDxb6WTZfkiSbYzuHdZ5jup7Ksp`

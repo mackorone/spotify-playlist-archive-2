@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Niall Horan",
+  "description": "Sit back and relax to the chillest pop.  Cover: Kacey Musgraves",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -22265,6 +22265,24 @@
     },
     {
       "album": {
+        "name": "it\u2019s a real Cruel World",
+        "url": "https://open.spotify.com/album/7a6MlcuS6BtHHwSzIxGiH3"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "it\u2019s just White Noise",
+      "url": "https://open.spotify.com/track/390rTowRCM4fY7XNNvkwSE"
+    },
+    {
+      "album": {
         "name": "if i could just stop the time, (may 2024-may 2025)",
         "url": "https://open.spotify.com/album/24GiMxV1o2xyt5MXPrqjsh"
       },
@@ -37788,7 +37806,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 212373,
       "name": "So Many Ways",
       "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,002 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,010 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 19 | [West Window](https://open.spotify.com/track/1uBzOdar30QvxbfGPsEOvH) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [Bakerz Dozen](https://open.spotify.com/album/09MUcG45RZssbCJQb18Cyf) | 2:16 |
 | 20 | [GOLDEN](https://open.spotify.com/track/0yHYTulQZBL2kDBXUzwS9t) | [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [GOLDEN](https://open.spotify.com/album/0YHFVdWAWHACirN9BsOc2U) | 2:30 |
 | 21 | [Roses](https://open.spotify.com/track/0XC12fpa9eH99vQctgcZ0u) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Roses](https://open.spotify.com/album/0g3SL1VOmywRaha5msGcAe) | 3:27 |
-| 22 | [Track 5](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 0:00 |
+| 22 | [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 |
 | 23 | [Dust](https://open.spotify.com/track/5Mewr9f30yW3yE6KhREnCa) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7), [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [NECTAR](https://open.spotify.com/album/35UK4bQlQSU9Ai2dJvoJGp) | 3:27 |
 | 24 | [Dig Em Up](https://open.spotify.com/track/6NccmEbVSOjXLpGha4hyKN) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Dig Em Up](https://open.spotify.com/album/0Wf3GIKrS0RPvzh5CA2tiw) | 2:31 |
 | 25 | [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 |

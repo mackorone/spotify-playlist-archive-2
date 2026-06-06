@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,536 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,551 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [HORCRUXE](https://open.spotify.com/track/2ZwNJHE3wxAYlWbno8cdYR) | [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [HORCRUXE](https://open.spotify.com/album/6C2qmJMcNN4EiPlDs4d7YP) | 2:07 |
 | 40 | [Déposez vos armes](https://open.spotify.com/track/4vmzo4oNgXckV1RoyKKzd2) | [Anarchie](https://open.spotify.com/artist/5Mhk8zISlnacYDs23FsTk6) | [Déposez vos armes](https://open.spotify.com/album/6MpSlngR96rdJfKranyRCh) | 3:54 |
 
-Snapshot ID: `AAAAAMhSaq/4kzCZuNM+6MwevFbZFEni`
+Snapshot ID: `AAAAAKuGrzsQTdUHB3cEQUA7Wi5F/rZD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Taylor Swift, Robert van Hemert, KI/KI, Zoë Tauran & LUNA en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,129 likes - 93 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,551 likes - 93 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 10 | [Hola Mami](https://open.spotify.com/track/6bIUUkEBBQNWjIkMpaAMvm) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Hola Mami](https://open.spotify.com/album/0HLcsWboZ5OCjZpJsLN8ur) | 2:38 |
 | 11 | [Silence](https://open.spotify.com/track/1t0HDXFC1yeCKKxWfbZ5Go) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Silence](https://open.spotify.com/album/38YSWSX7tIOdFYyrqDA1TY) | 2:59 |
 | 12 | [Wat Moed Dat Moet](https://open.spotify.com/track/5PeC99plYN7vQLhvoWzZni) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Wat Moed Dat Moet](https://open.spotify.com/album/3GC7JQ0HiWJ8UUd9tpImlV) | 2:37 |
-| 13 | [30 Degrees](https://open.spotify.com/track/4W04kKSZ6xD6UBqD7J8Ofq) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [30 Degrees](https://open.spotify.com/album/6dOlNft80DxcEvIjCC3pxY) | 2:46 |
+| 13 | [30 Degrees](https://open.spotify.com/track/4W04kKSZ6xD6UBqD7J8Ofq) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [30 Degrees](https://open.spotify.com/album/6dOlNft80DxcEvIjCC3pxY) | 2:46 |
 | 14 | [Tastes So Good](https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:05 |
 | 15 | [Nightshift Superstar](https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Nightshift Superstar](https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm) | 4:07 |
 | 16 | [Knipperlicht](https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy), [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Knipperlicht](https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS) | 2:36 |

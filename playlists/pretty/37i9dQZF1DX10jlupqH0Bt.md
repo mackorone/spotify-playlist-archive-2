@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,457 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,552 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 55 | [852 Hz Pilgrimage of the Soul](https://open.spotify.com/track/1hUBmbVTFkyo8Ap2QtEfvB) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Pilgrimage of the Soul](https://open.spotify.com/album/4pEbRUr1EG3qqMVSVPzUHe) | 2:52 |
 | 56 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
 | 57 | [852 Hz Release](https://open.spotify.com/track/7hL171cw6hPhXsHdXWRiyC) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 |
-| 58 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx) | 5:03 |
+| 58 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0) | [Âstra](https://open.spotify.com/artist/0Br7Es1U70JYeOaAwi56z9), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx) | 5:03 |
 | 59 | [Floating Through Solfeggio 852 Hz](https://open.spotify.com/track/4fNNIfCx89oWgl974GAWfH) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 |
 | 60 | [852 Hz Way to Heaven](https://open.spotify.com/track/6sIzafjxwxzwkEcm2Qn23W) | [Revotek](https://open.spotify.com/artist/1N601SAkXZBk0x1A8NIrrD) | [852 Hz Way to Heaven](https://open.spotify.com/album/0CAXtBa1ASLi3yJJvWHNLm) | 2:30 |
 | 61 | [852Hz Clarity of the Soul](https://open.spotify.com/track/6ip5tP6v5KsRaabX5xbX1w) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [852Hz Clarity of the Soul](https://open.spotify.com/album/6ql1QniTd537KRdbGAW44f) | 2:30 |

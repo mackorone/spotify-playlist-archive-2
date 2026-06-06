@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63309,
+  "num_followers": 63315,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAAD7vnWmUwpj+B09RrC4/1VD",
+  "snapshot_id": "aiDAAAAAAABv7Gsg8Gu+Qpqn4vu7U29y",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 77346,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 233000,
       "name": "Palpite Infeliz",
       "url": "https://open.spotify.com/track/41hMxxMGTD38PTN10YMDKR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 77346,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO"
     },
     {
       "added_at": null,
@@ -507,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+      "duration_ms": 76293,
+      "name": "Cordeiro de Nan\u00e3",
+      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
     },
     {
       "added_at": null,
@@ -563,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 76293,
-      "name": "Cordeiro de Nan\u00e3",
-      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Voc\u00ea Vai Ver",
-      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Mito (Digital Edition)",
         "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 150857,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/6Ik8XZNTmccrLsDAntx9iO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Voc\u00ea Vai Ver",
+      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chega de saudade de Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 137186,
       "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
       "url": "https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
     },
     {
       "added_at": null,

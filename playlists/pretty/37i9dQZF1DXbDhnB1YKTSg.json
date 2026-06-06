@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Mommy with these family-friendly tunes.",
-  "num_followers": 1546,
+  "num_followers": 1545,
   "original_name": "I Love You, Mommy",
   "owner": {
     "name": "Spotify",
@@ -416,8 +416,12 @@
       },
       "artists": [
         {
-          "name": "Queen + The Muppets",
-          "url": "https://open.spotify.com/artist/7snk050RNCu5ZsAHIOhfRn"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
         }
       ],
       "duration_ms": 277200,

@@ -4,7 +4,7 @@
 
 > 
 
-531 songs - 1 day 10 hr 20 min
+533 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 | 2026-05-29 |  |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-06 | 2023-06-08 |
 | [Atlantis \- Model Man Remix](https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [The Learning of Urgency Remixes](https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO) | 4:31 | 2024-08-30 | 2024-11-30 |
+| [Ayewah!](https://open.spotify.com/track/699jhhlEw8rI4t35r7kTTt) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Tony Quattro](https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt) | [Ayewah!](https://open.spotify.com/album/7sWITAYpmzV4zQntcDAwnG) | 5:04 | 2026-06-05 |  |
 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 | 2022-08-03 | 2023-03-02 |
 | [Backwards](https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Backwards](https://open.spotify.com/album/2jPweadDjOnzChjjcuselh) | 2:08 | 2023-09-05 | 2023-09-27 |
 | [Backwards Remix](https://open.spotify.com/track/31WzhknzUzUGWyHgDI3lFb) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Fatboi Sharif](https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj), [Desde](https://open.spotify.com/artist/7y51W2VzenSdG12s8AetIN) | [Backwards Remix](https://open.spotify.com/album/3fYMgfLeNJ1VDi9iKlJa0d) | 3:59 | 2024-12-12 | 2025-03-05 |
@@ -383,6 +384,7 @@
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-21 | 2023-07-14 |
 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 | 2023-08-14 | 2024-04-11 |
+| [Quakin'](https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If This Is It](https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq) | 3:57 | 2026-06-05 |  |
 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-02-07 | 2024-06-06 |
 | [RECALLING](https://open.spotify.com/track/3wJNsqy5NckG3zxHSL77wu) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [RECALLING](https://open.spotify.com/album/4jnkH8gApLeaATGMVhe1AL) | 3:01 | 2025-09-09 |  |
 | [RESPEK \- CESCO REMIX](https://open.spotify.com/track/18u5yyIXATQr7QPFXlX1ds) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Ezri](https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [3RMX82](https://open.spotify.com/album/4VbdNC815EE3P5Pa40La12) | 3:08 | 2025-03-04 | 2025-09-18 |

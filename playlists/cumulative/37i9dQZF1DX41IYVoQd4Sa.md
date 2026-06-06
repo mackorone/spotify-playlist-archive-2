@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : דודו טסה
 
-403 songs - 23 hr 30 min
+403 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 | 2025-05-01 | 2025-07-15 |
 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 | 2025-05-15 | 2025-06-25 |
 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 | 2025-12-11 | 2026-04-17 |
+| [Let Your Love](https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7) | [Hope](https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY) | 2:44 | 2026-06-04 |  |
 | [Long Nails](https://open.spotify.com/track/34odfBsReyXTUAG9imPzvf) | [Gal De Paz](https://open.spotify.com/artist/77eDggSxjTCYZseu4fey1x), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke), [SHAKED MILLER](https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ) | [Long Nails](https://open.spotify.com/album/70GbvgyQT8n60pYLGFTCzG) | 3:37 | 2024-08-15 | 2024-09-13 |
 | [Maktub](https://open.spotify.com/track/0jaGaoWFKkXgKMPBpvSTSQ) | [Tair Haim](https://open.spotify.com/artist/00njTfiekrdi9mfQySPFDN) | [Maktub](https://open.spotify.com/album/6zap49PIkOqDHtjnNGWkw5) | 3:08 | 2025-12-04 | 2026-01-30 |
 | [Match](https://open.spotify.com/track/20eHfZYjCdmDG3MgGTRB0u) | [Yael S\. Copeland](https://open.spotify.com/artist/29dECJ6stIo8IpuSnIVISv) | [Match](https://open.spotify.com/album/5tm2DzrFSTO4VyvUB9XPZK) | 3:11 | 2025-03-13 | 2025-03-28 |
@@ -117,7 +118,6 @@
 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 | 2025-06-05 |  |
 | [The Player](https://open.spotify.com/track/0L22an9RKBbFR3rT1yOS3W) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg) | [The Player](https://open.spotify.com/album/57AxBAyxN8XhDkLkkcMC2S) | 3:32 | 2025-08-21 | 2025-09-06 |
 | [To Whatever End](https://open.spotify.com/track/1LVfQqLN9SK81Du4lxuzwQ) | [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [No Defenses](https://open.spotify.com/album/6TJaMzOKe7MYNvop4wOWo5) | 3:39 | 2025-11-27 | 2025-12-19 |
-| [Track 5](https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Hope](https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY) | 0:00 | 2026-06-04 |  |
 | [U GOT PAID !!!!](https://open.spotify.com/track/4AL7zQTdkSkFBr1Sk0lhDg) | [Egozi](https://open.spotify.com/artist/06FcDNksGd8xlNOgN8f04x) | [U GOT PAID !!!!](https://open.spotify.com/album/2KnPVibHGAtS1QKyDLi6qj) | 2:47 | 2026-02-19 | 2026-02-27 |
 | [Unfurling Dream](https://open.spotify.com/track/6NyGMNJTXnn3keVdHQZeZ2) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurling Dream](https://open.spotify.com/album/4jPc7jqjSca8rkAgYRuXII) | 5:48 | 2025-09-11 | 2025-10-31 |
 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 | 2024-06-27 | 2024-12-20 |

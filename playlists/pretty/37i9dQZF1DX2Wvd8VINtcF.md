@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Blood Orange✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,635 likes - 294 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,779 likes - 294 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
-| 2 | [Track 1](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 0:00 |
+| 2 | [Savage Love](https://open.spotify.com/track/6L6fIEJZx5yAGmxD3OPthh) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Fragmentality](https://open.spotify.com/album/329doV48X32tpOjHa9uoVQ) | 2:33 |
 | 3 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 |
 | 4 | [Cotton](https://open.spotify.com/track/2Dh62ulfuwM2lOWPy4TLEb) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cotton](https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj) | 3:43 |
 | 5 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |

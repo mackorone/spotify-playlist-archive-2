@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 215991,
       "name": "\u0421\u0435\u0440\u0446\u0435 \u0445\u043e\u0447\u0435 \u0440\u0430\u0434\u0438\u043a\u0430\u043b\u044c\u043d\u0438\u0445 \u0437\u043c\u0456\u043d",
       "url": "https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW"
@@ -4844,6 +4844,24 @@
       "duration_ms": 166000,
       "name": "\u0427\u0430\u0439\u043a\u0430 \u043d\u0430 \u043a\u0440\u0438\u0436\u0438\u043d\u0456",
       "url": "https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0430\u0441",
+        "url": "https://open.spotify.com/album/4lh8Avzn4gljoAHcxiSSLM"
+      },
+      "artists": [
+        {
+          "name": "U2U",
+          "url": "https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "\u0427\u0430\u0441",
+      "url": "https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa"
     },
     {
       "album": {

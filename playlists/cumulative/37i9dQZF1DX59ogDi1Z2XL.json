@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 143258,
       "name": "B2B",
       "url": "https://open.spotify.com/track/3KCiK63O5FkjAknCT76I1N"
@@ -13066,7 +13066,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 194933,
       "name": "FASHURE",
       "url": "https://open.spotify.com/track/5bZJ1ELkJM6dLWtk54T1uY"
@@ -21835,6 +21835,24 @@
     },
     {
       "album": {
+        "name": "Life Sucks",
+        "url": "https://open.spotify.com/album/2mo2IGdlVewOX0Z1vlAnBJ"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "Life Sucks",
+      "url": "https://open.spotify.com/track/6moGrfTur6vq1iTnXzwTaK"
+    },
+    {
+      "album": {
         "name": "I HOPE YOU'RE HAPPY",
         "url": "https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p"
       },
@@ -26058,6 +26076,28 @@
       "duration_ms": 123692,
       "name": "Nights On Hill",
       "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
+    },
+    {
+      "album": {
+        "name": "Nikes (Allih's Song)",
+        "url": "https://open.spotify.com/album/4pgB4t0zHsV5KhxxhYaK2E"
+      },
+      "artists": [
+        {
+          "name": "Bijaan",
+          "url": "https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY"
+        },
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Nikes (Allih's Song)",
+      "url": "https://open.spotify.com/track/08M58sYpCb1NGP8m3fFbMf"
     },
     {
       "album": {
@@ -39192,7 +39232,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 130370,
       "name": "Thotiana",
       "url": "https://open.spotify.com/track/2mL1YT1P2Avi7Mi9W19lUV"

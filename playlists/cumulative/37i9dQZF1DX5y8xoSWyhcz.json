@@ -726,7 +726,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 226676,
       "name": "A Thousand Days",
       "url": "https://open.spotify.com/track/72jDJEzOLu1vLCBqH1FB3W"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 209591,
       "name": "auburn",
       "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 152176,
       "name": "Be True",
       "url": "https://open.spotify.com/track/2ekkGkgmARQ7HfN9ZZlPKS"
@@ -5848,7 +5848,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 206530,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
@@ -7730,7 +7730,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 184020,
       "name": "Ego Collecting",
       "url": "https://open.spotify.com/track/2NAXrQEV8Ri1E15CPX9lup"
@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 212861,
       "name": "Even In The Quiet",
       "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
@@ -9728,7 +9728,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 130116,
       "name": "Funny You Should Say That",
       "url": "https://open.spotify.com/track/2fupB8S9zIsa2KEIcRysTJ"
@@ -10950,7 +10950,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
@@ -12320,6 +12320,24 @@
       "duration_ms": 232320,
       "name": "HOW WAS YOUR DAY?",
       "url": "https://open.spotify.com/track/7uUB3Ypgg4XRD1TIhGqsUE"
+    },
+    {
+      "album": {
+        "name": "How Will I Ever Fall In Love Again",
+        "url": "https://open.spotify.com/album/1b7ajqZ12QLl55apQQ7Svu"
+      },
+      "artists": [
+        {
+          "name": "Bombargo",
+          "url": "https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170680,
+      "name": "How Will I Ever Fall In Love Again",
+      "url": "https://open.spotify.com/track/3WdtzUeysX0Q06O2qFVDaY"
     },
     {
       "album": {
@@ -13960,7 +13978,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 256271,
       "name": "Imitation (how to become you)",
       "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
@@ -14406,7 +14424,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 191469,
       "name": "It's a Beautiful Life",
       "url": "https://open.spotify.com/track/21tZUSahw3fvI7Yfi8RFXK"
@@ -14518,7 +14536,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 194500,
       "name": "J'ai rougi",
       "url": "https://open.spotify.com/track/1HNfDHe3xYHoLf71tdcFtJ"
@@ -15290,7 +15308,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
@@ -16874,7 +16892,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 156253,
       "name": "Make You Smile",
       "url": "https://open.spotify.com/track/5bYui6r2OiINWTG8gpm4it"
@@ -17598,7 +17616,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
@@ -18172,7 +18190,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 172343,
       "name": "never did",
       "url": "https://open.spotify.com/track/3ZSI6HlscZTVy86ToS8HPW"
@@ -18316,7 +18334,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 283581,
       "name": "News at the Party",
       "url": "https://open.spotify.com/track/6I0YEAVEDTxo4YMflaMZMa"
@@ -18608,7 +18626,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 158222,
       "name": "No Turning",
       "url": "https://open.spotify.com/track/4GRdItwIjuS2i0NhrLYEXQ"
@@ -18720,6 +18738,24 @@
       "duration_ms": 160200,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M"
+    },
+    {
+      "album": {
+        "name": "Not Enuff",
+        "url": "https://open.spotify.com/album/4n3Ng5cfz6DgeQBcGGCICU"
+      },
+      "artists": [
+        {
+          "name": "Ankur Sinha",
+          "url": "https://open.spotify.com/artist/7mjhgSwusziNyc30mt5fYV"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Not Enuff",
+      "url": "https://open.spotify.com/track/4ztMaeZXRfGANbK8fjj5Ul"
     },
     {
       "album": {
@@ -19408,7 +19444,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 164000,
       "name": "One Foot Out",
       "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
@@ -21276,7 +21312,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 196994,
       "name": "Que je vous aime",
       "url": "https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0"
@@ -22160,7 +22196,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 225958,
       "name": "Sailor And The Sea",
       "url": "https://open.spotify.com/track/2DZ8YYJHI1rmlq9W9snWcH"
@@ -22640,7 +22676,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 142500,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
@@ -23008,7 +23044,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 215753,
       "name": "She's A Sweetheart",
       "url": "https://open.spotify.com/track/55BuEPrfvpeYx5zUkRSoAS"
@@ -23358,7 +23394,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 143113,
       "name": "SKULLY CAP",
       "url": "https://open.spotify.com/track/2HNMHJTwS2op3qRrW3CVZa"
@@ -23474,6 +23510,24 @@
       "duration_ms": 231499,
       "name": "Small Town Joan of Arc",
       "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
+    },
+    {
+      "album": {
+        "name": "Smoke Jumper",
+        "url": "https://open.spotify.com/album/0HnvTz7cUNB3NcrwpM22D4"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Smoke Jumper",
+      "url": "https://open.spotify.com/track/5JyxwFEogVuvvZOEuRs6lf"
     },
     {
       "album": {
@@ -24914,7 +24968,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 199933,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0"
@@ -25246,7 +25300,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
@@ -26060,7 +26114,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 234784,
       "name": "Take you away",
       "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
@@ -27548,7 +27602,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 95833,
       "name": "TIRED",
       "url": "https://open.spotify.com/track/1iQqrQtPfZ9fGe6vLD6hnF"
@@ -30046,7 +30100,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"

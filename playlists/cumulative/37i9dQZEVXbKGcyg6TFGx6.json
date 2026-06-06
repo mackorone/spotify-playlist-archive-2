@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 255786,
       "name": "9",
       "url": "https://open.spotify.com/track/1C7KSXR2GVxknex6I4ANco"
@@ -7278,7 +7278,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -11404,7 +11404,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 100465,
       "name": "Candles",
       "url": "https://open.spotify.com/track/02FZlgDJpYghTWCJuZc04L"
@@ -18858,7 +18858,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -21638,7 +21638,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
@@ -23870,7 +23870,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 157279,
       "name": "Genesis of Glass",
       "url": "https://open.spotify.com/track/0f2anMttyz9vqo2UIXcPNA"
@@ -30256,7 +30256,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -34369,6 +34369,28 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/7gUWtMFZMjAzt68nX57eMn"
+      },
+      "artists": [
+        {
+          "name": "Capree",
+          "url": "https://open.spotify.com/artist/2BhA4Tcj2heNL0gthDMp3v"
+        },
+        {
+          "name": "6AM",
+          "url": "https://open.spotify.com/artist/3t6I4YrxnwewdkKxNb2FMF"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1af7pCIJzlvuveotc5TWhh"
+    },
+    {
+      "album": {
         "name": "Lightz Cam Action",
         "url": "https://open.spotify.com/album/7cBnFknPT4y1Cscv0PxYjQ"
       },
@@ -35452,7 +35474,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -56328,7 +56350,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -58572,7 +58594,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -66618,6 +66640,24 @@
       "duration_ms": 334335,
       "name": "When I Think of You (Summer)",
       "url": "https://open.spotify.com/track/2tMbtYVWGUoIJjXo9kWov3"
+    },
+    {
+      "album": {
+        "name": "When the Movie Ends",
+        "url": "https://open.spotify.com/album/74T6ZThUabnAi5D8dpjiK5"
+      },
+      "artists": [
+        {
+          "name": "Gio Gomes",
+          "url": "https://open.spotify.com/artist/3A7dRjZY2kzRUOveJvwKdZ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183308,
+      "name": "When the Movie Ends",
+      "url": "https://open.spotify.com/track/2YktyCNjMTC0gwkAjYndny"
     },
     {
       "album": {

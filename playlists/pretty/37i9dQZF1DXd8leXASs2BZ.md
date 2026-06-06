@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: T\-Bobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,440 likes - 104 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,443 likes - 104 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 103 | [ドキドキ \(feat\. DAB\)](https://open.spotify.com/track/22XcCRqpGizeJ1WliuE32j) | [Gam Ball](https://open.spotify.com/artist/4BuoZTTiixgFgZxB4gCW83), [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [THE WONDERFUL WORLD of GamBall](https://open.spotify.com/album/3OxZMNkoYQ7cBJFXQoigFa) | 3:35 |
 | 104 | [BIG MONEY ONLY](https://open.spotify.com/track/6XLAGoQ4L2TLR35gkhyyua) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd) | [BIG MONEY ONLY](https://open.spotify.com/album/5BEHIqvWR5m2P38r65tP3E) | 2:34 |
 
-Snapshot ID: `AAAAAKnu7k5l1x4AtrwHGvZf2XjduAqQ`
+Snapshot ID: `AAAAABh6053eFL/Ff/KeQxXqpFWiwAan`

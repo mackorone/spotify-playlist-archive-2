@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea
 
-603 songs - 1 day 5 hr 22 min
+604 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,13 +74,14 @@
 | [Bitcoin](https://open.spotify.com/track/1hJtheYNTIKYBSOmJxUVTH) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/6KTVdXgPnJDBNTIWA77ve5) | 3:16 | 2021-12-20 | 2022-03-22 |
 | [Bitcoin](https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 | 2022-03-02 | 2023-11-18 |
 | [Bla Bla Blaa](https://open.spotify.com/track/6PcMNuV6qfijo5vJ1ZC6UW) | [New Empire](https://open.spotify.com/artist/7r3QqVtyAYWHfy8Mx5K9UI), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Bla Bla Blaa](https://open.spotify.com/album/28vAvLHQJ1dgYoQJrF9fjw) | 2:15 | 2021-12-20 | 2022-03-03 |
-| [Blaze Up](https://open.spotify.com/track/05CD2lFFr7xNxMz0cQFwjI) | [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Blaze Up](https://open.spotify.com/album/6tsulHSrNBwzOhMQAypiUL) | 2:38 | 2025-08-08 |  |
+| [Blaze Up](https://open.spotify.com/track/05CD2lFFr7xNxMz0cQFwjI) | [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Blaze Up](https://open.spotify.com/album/6tsulHSrNBwzOhMQAypiUL) | 2:38 | 2025-08-08 | 2026-06-06 |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-07-29 | 2022-09-10 |
 | [Boasty](https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Boasty](https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY) | 3:14 | 2026-04-23 |  |
 | [Bob Marley](https://open.spotify.com/track/2QWNNg9WjeZV8CfUToFLBY) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Bob Marley](https://open.spotify.com/album/5Tzyp6Q4hGCy06haWjNps2) | 2:16 | 2023-11-17 | 2024-04-26 |
 | [Bob the Builder](https://open.spotify.com/track/1K35Ej6qQciVEXD18g3OaX) | [Lady Lava](https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ) | [Bob the Builder](https://open.spotify.com/album/0GjSEtiNfPCQHWqb2wynMV) | 2:13 | 2025-05-16 |  |
 | [Body Count](https://open.spotify.com/track/4HzluSPW4Dx2ZIPDx8iLNt) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:03 | 2022-07-29 | 2022-09-10 |
 | [Body Tea](https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad) | [Body Tea](https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T) | 2:57 | 2025-08-01 |  |
+| [Bodé](https://open.spotify.com/track/6jpFUrJeLRcQN1Ek8AnQe9) | [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [Lucky lukee](https://open.spotify.com/artist/0nkpIYM3zrDKfNgveXJexG) | [Bodé](https://open.spotify.com/album/4cSabc5NWDEzGFfVN1nSWh) | 2:24 | 2026-06-05 |  |
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-05 | 2025-08-30 |
 | [Boom Body](https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Boom Body](https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN) | 3:05 | 2026-04-10 |  |
 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 | 2022-03-02 | 2023-07-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: JPEGMAFIA",
+  "description": "Genre-less. Quality first always. Cover: The Avalanches",
   "name": "POLLEN",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 167142,
       "name": "#RICHAXXHAITIAN",
       "url": "https://open.spotify.com/track/5Jl0mQEHMn82Ed0SBuEdu8"
+    },
+    {
+      "album": {
+        "name": "EXPERIMENTAL RAP",
+        "url": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135324,
+      "name": "$ (Money)",
+      "url": "https://open.spotify.com/track/0gSJ32sIBQQvGhCatvW4nO"
     },
     {
       "album": {
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
@@ -6445,6 +6463,28 @@
     },
     {
       "album": {
+        "name": "Sir Render",
+        "url": "https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z"
+    },
+    {
+      "album": {
         "name": "Belly",
         "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
       },
@@ -7102,6 +7142,24 @@
       "duration_ms": 160680,
       "name": "BITE",
       "url": "https://open.spotify.com/track/2tUqgzXUa4tqj2fRdPVtFX"
+    },
+    {
+      "album": {
+        "name": "bite",
+        "url": "https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR"
+      },
+      "artists": [
+        {
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "bite",
+      "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
     },
     {
       "album": {
@@ -16362,7 +16420,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214000,
       "name": "does it still rain?",
       "url": "https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO"
@@ -16588,7 +16646,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 285634,
       "name": "DON'T BE DUMB / TRIP BABY",
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
@@ -18308,7 +18366,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 188124,
       "name": "Electronic Eyes",
       "url": "https://open.spotify.com/track/5toBKJkz6YzVN25mXyEOSG"
@@ -19098,6 +19156,28 @@
       "duration_ms": 181314,
       "name": "Every Evening",
       "url": "https://open.spotify.com/track/3bhsmAjns3SPiTjQzQqY5X"
+    },
+    {
+      "album": {
+        "name": "Every Single Weekend (feat. Jamie xx)",
+        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130133,
+      "name": "Every Single Weekend (feat. Jamie xx)",
+      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
     },
     {
       "album": {
@@ -20952,6 +21032,32 @@
       "duration_ms": 377820,
       "name": "Find It",
       "url": "https://open.spotify.com/track/2z2akz47l8Eeri9gmFx46d"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8"
     },
     {
       "album": {
@@ -31915,6 +32021,24 @@
     },
     {
       "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+    },
+    {
+      "album": {
         "name": "Jacuzzi",
         "url": "https://open.spotify.com/album/1pkHGiBAZYMLpwq9k6jsm9"
       },
@@ -32540,7 +32664,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 187317,
       "name": "Jump Shot",
       "url": "https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX"
@@ -41424,7 +41548,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 147135,
       "name": "New Era",
       "url": "https://open.spotify.com/track/3Eh6giuzG1YSo5pk2CTaKT"
@@ -48709,6 +48833,24 @@
     },
     {
       "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
+    },
+    {
+      "album": {
         "name": "Red Hook (feat. Junior Varsity)",
         "url": "https://open.spotify.com/album/0oxdFvVtoRkycmeEjSwYm0"
       },
@@ -52090,7 +52232,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 219630,
       "name": "Shake Down - Regrette Rien Mix",
       "url": "https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk"
@@ -63075,6 +63217,24 @@
     },
     {
       "album": {
+        "name": "Vertical",
+        "url": "https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156041,
+      "name": "Vertical",
+      "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm"
       },
@@ -64392,6 +64552,24 @@
       "duration_ms": 267946,
       "name": "Wax On (Feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/13yFBO0mxphhrphW3s6dx2"
+    },
+    {
+      "album": {
+        "name": "WAX PAPER",
+        "url": "https://open.spotify.com/album/6zj9XJYbvNjJIJD5ItS4n6"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "WAX PAPER",
+      "url": "https://open.spotify.com/track/6jwFEp5K8fJ8R0yuKKPlCW"
     },
     {
       "album": {
@@ -66988,7 +67166,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197716,
       "name": "Written into Changes",
       "url": "https://open.spotify.com/track/0JmWTXLKNep8x1uza83tpE"

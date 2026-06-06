@@ -16911,6 +16911,24 @@
     },
     {
       "album": {
+        "name": "Ein Schwanz entfernt",
+        "url": "https://open.spotify.com/album/5Z48MqfwVLeEHUqirkXEoM"
+      },
+      "artists": [
+        {
+          "name": "Jenny & Joy",
+          "url": "https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138207,
+      "name": "Ein Schwanz entfernt",
+      "url": "https://open.spotify.com/track/7L8cbGhcpfiGC81dgHzgGv"
+    },
+    {
+      "album": {
         "name": "Ein Shot",
         "url": "https://open.spotify.com/album/31aysN3GSIWLOz0YUaL4DT"
       },
@@ -26353,6 +26371,32 @@
     },
     {
       "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        },
+        {
+          "name": "KIARABABA",
+          "url": "https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Herz an Herz (mit verifiziert & KIARABABA)",
+      "url": "https://open.spotify.com/track/6GqfbYHJi5svdPSXyfTGEW"
+    },
+    {
+      "album": {
         "name": "Herz f\u00fcr zwei",
         "url": "https://open.spotify.com/album/35kBiSSVF84jF6jr6Fc8VA"
       },
@@ -35630,6 +35674,10 @@
         {
           "name": "Stickle",
           "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         }
       ],
       "date_added": "2026-06-04",
@@ -47791,6 +47839,28 @@
     },
     {
       "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Pissed (mit jolle)",
+      "url": "https://open.spotify.com/track/0U2B5MgTHE3SQG38Mlr6NQ"
+    },
+    {
+      "album": {
         "name": "Pistazieneis",
         "url": "https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB"
       },
@@ -54398,7 +54468,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 157021,
       "name": "So egal",
       "url": "https://open.spotify.com/track/3diKFVG6BQVhgS8ZwdkfvD"
@@ -60586,42 +60656,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "KITSCHKRIEG ZWEI",
-        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/6GqfbYHJi5svdPSXyfTGEW"
-    },
-    {
-      "album": {
-        "name": "KITSCHKRIEG ZWEI",
-        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0U2B5MgTHE3SQG38Mlr6NQ"
     },
     {
       "album": {

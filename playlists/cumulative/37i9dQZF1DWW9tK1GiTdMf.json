@@ -26429,6 +26429,24 @@
     },
     {
       "album": {
+        "name": "Post Trauma",
+        "url": "https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN"
+      },
+      "artists": [
+        {
+          "name": "CHANDIE",
+          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128999,
+      "name": "Sei arte",
+      "url": "https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV"
+    },
+    {
+      "album": {
         "name": "SEI BELLA",
         "url": "https://open.spotify.com/album/7fglBhJQnxqfTa96m4W9ms"
       },
@@ -30972,24 +30990,6 @@
       "duration_ms": 128879,
       "name": "TRACCIA 0",
       "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
-    },
-    {
-      "album": {
-        "name": "Post Trauma",
-        "url": "https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN"
-      },
-      "artists": [
-        {
-          "name": "CHANDIE",
-          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
-        }
-      ],
-      "date_added": "2026-06-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV"
     },
     {
       "album": {

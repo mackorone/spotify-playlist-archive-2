@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Shekhinah, Taylor Swift, Thakzin & Thatohatsi, lordkez, Bryson Tiller and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,254 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,795 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 2 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 3 | [Mele Bakuzwe](https://open.spotify.com/track/3fdOEF9BWJKaO13rktiihm) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Mele Bakuzwe](https://open.spotify.com/album/3RBnpSGu5pDBJCzGpmlhSC) | 7:03 |
 | 4 | [Wena Fela \- A COLORS SHOW](https://open.spotify.com/track/0KRtFv9ocMPQLqyEH6ucgi) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Wena Fela \- A COLORS SHOW](https://open.spotify.com/album/1nAG1LrLi2ahYH9Hn9uOwq) | 3:56 |
-| 5 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
+| 5 | [Three Nations](https://open.spotify.com/track/6FLfoe2bY37X45OS7AZW6B) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:30 |
 | 6 | [daylight](https://open.spotify.com/track/3dOoBKcpWJAz039ICjn0HK) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [daylight](https://open.spotify.com/album/7FWRkjv9FYymiiHw2yGNJs) | 3:13 |
 | 7 | [Ebumnandini \(feat\. LastBornDiroba\)](https://open.spotify.com/track/7daMkBKhm9LAMlvUwIDIOK) | [DJ Tshegu](https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [LastBornDiroba](https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ) | [Ebumnandini \(feat\. LastBornDiroba\)](https://open.spotify.com/album/3iRRk8mYgveYIVT7MWRFKy) | 6:20 |
 | 8 | [Weak](https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Weak](https://open.spotify.com/album/1ZisyqUteFygp1mxrhh6pr) | 3:28 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 26 | [Black Prada Dress](https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Black Prada Dress](https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd) | 3:19 |
 | 27 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 | 28 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
-| 29 | [Fall](https://open.spotify.com/track/3ZGLEDbtQ9RERCk9NczSFc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M) | [Fall](https://open.spotify.com/album/5veFWqynkJ8Fk7n611Xvd2) | 3:01 |
+| 29 | [Fall](https://open.spotify.com/track/3ZGLEDbtQ9RERCk9NczSFc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV), [Ntsika](https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN) | [Fall](https://open.spotify.com/album/5veFWqynkJ8Fk7n611Xvd2) | 3:01 |
 | 30 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
 | 31 | [Again](https://open.spotify.com/track/0gNFw7otPPEVSBb1tFNjdO) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [4PLAY](https://open.spotify.com/album/4VY9ZQyEMm6MB3FFBqw604) | 2:51 |
 | 32 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 74 | [Jesus In Her Eyes](https://open.spotify.com/track/0vza3aGQdoxaDNADCWp0OK) | [Jacksonville](https://open.spotify.com/artist/5lHCbhzMq5D72UDS2cCr3l) | [Jesus In Her Eyes](https://open.spotify.com/album/1MC7JfLJPIpcaNs9RStxEo) | 4:15 |
 | 75 | [Binnekant](https://open.spotify.com/track/7AKTjPODcfQ5m5qLB90ehF) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Meneer Cee](https://open.spotify.com/artist/3xAQoJwSMZGIrqKWSunu7k), [Linty Lionardo](https://open.spotify.com/artist/1h37FflbdTKnByPzRG2cs4) | [Binnekant](https://open.spotify.com/album/7mv1w1pPjAm1uiPuBkBTbn) | 4:59 |
 
-Snapshot ID: `AAAAALvxt6rlEBtq4MGFPpiyeyDXQ7Wd`
+Snapshot ID: `AAAAAMAFqhnunjObWBqVHUJRsTpI7XC/`

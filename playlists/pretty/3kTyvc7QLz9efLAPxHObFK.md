@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,080 songs - 6 day 14 hr 50 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,089 songs - 6 day 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3088,5 +3088,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3078 | [BEAT GOES OFF](https://open.spotify.com/track/1ZlfW970nA8PDFMKYy2PQ6) | [Wolverave](https://open.spotify.com/artist/52tkAziCrKk8awyPXo7TnD), [RAVE HEAVEN](https://open.spotify.com/artist/5kgp9TGuY8Qt8fwwZKn1CQ), [MerkMine](https://open.spotify.com/artist/4EQUCTMYsKiUG8u7vErffU) | [BEAT GOES OFF](https://open.spotify.com/album/48wea2xOB99jzbDNy1dRH0) | 2:41 |
 | 3079 | [RAISE IT UP](https://open.spotify.com/track/7yTEODFJ1VVrZFOnptTJy7) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [RAISE IT UP](https://open.spotify.com/album/3dphEKezpA10E8ZW7lhQld) | 2:03 |
 | 3080 | [YOUR LOVE](https://open.spotify.com/track/40o7tuXx0Aik2FSGp7jZKi) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [YOUR LOVE](https://open.spotify.com/album/71TTxxtphXjDBRW9EKw628) | 2:40 |
+| 3081 | [Let Him Cook](https://open.spotify.com/track/2SeLIU7sXkIRv5WeeQdHjp) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [Let Him Cook](https://open.spotify.com/album/38PTT76tYBwsGL97M16M1I) | 2:25 |
+| 3082 | [SORRY MAMA](https://open.spotify.com/track/0SHR6X8IJXaxsRYaUt7nhg) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [SORRY MAMA](https://open.spotify.com/album/3xog9gL4XqVuAEOwLY043O) | 2:41 |
+| 3083 | [Rave All Night](https://open.spotify.com/track/16HiZvqAsjYBKWgTkKSQxS) | [DIMMA](https://open.spotify.com/artist/00i9gmQF49LMTtrBzg88aW), [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ) | [Intents Festival 2026 Rise Of Titans](https://open.spotify.com/album/4PcEvnvQV2KZFVnQGcD4Ee) | 2:09 |
+| 3084 | [F2P](https://open.spotify.com/track/0FPmo5p6kq3dXTTGLoBGgY) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [F2P](https://open.spotify.com/album/14vVES20lQrabgzAwmLYfP) | 2:38 |
+| 3085 | [Make It Break](https://open.spotify.com/track/2fDgab4o9Q1pLD1c3HkoZ8) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Make It Break](https://open.spotify.com/album/5sqs6eYPGAonyXnSojtILn) | 2:42 |
+| 3086 | [Lose My Mind](https://open.spotify.com/track/2ESZe4FgxNR1BVONbFnu9R) | [Eternate](https://open.spotify.com/artist/08M432cp5R6XCNXKMkidXB) | [Lose My Mind](https://open.spotify.com/album/7I8KYox802MzsaS2JpxrxR) | 3:16 |
+| 3087 | [Rock Tha Party \- NINE2NINE Remix](https://open.spotify.com/track/4Zn2VHxRYERRCy6vMrejHV) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [NINE2NINE](https://open.spotify.com/artist/6S5cusNLssYNUZZXUHT2K1) | [Rock Tha Party \(Remix\)](https://open.spotify.com/album/4G5nbqjoKiQPvtGHcOJCyw) | 3:29 |
+| 3088 | [In Flames](https://open.spotify.com/track/43sK2g9v9ArbvT0Op0Hvom) | [Unique](https://open.spotify.com/artist/10e2OpyOdgZ2qE359Wp6Q6), [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [In Flames](https://open.spotify.com/album/0av3XQqeZ9ykTSYXrBioLN) | 2:41 |
+| 3089 | [Rave Now](https://open.spotify.com/track/5ImfU3sVUaJZ6afoPREs91) | [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Rave Now](https://open.spotify.com/album/2ao92UCje2AYJJlUkDAcT5) | 2:42 |
 
-Snapshot ID: `AAAMYYDNYkckzkAuXsm2LmR6cy4fL/3V`
+Snapshot ID: `AAAMauAVrqAjkRJqZ/hvKN7/aBwK/1T1`

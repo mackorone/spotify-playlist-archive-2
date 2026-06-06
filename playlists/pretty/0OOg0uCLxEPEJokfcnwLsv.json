@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1044,
+  "num_followers": 1046,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGOmd7z5zewi9sjhdKnvSHer3hKHbx",
+  "snapshot_id": "AAAGO2JkThFATRUe6KX0nWo9UgZzB9fm",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1807,6 +1807,22 @@
       "duration_ms": 157840,
       "name": "Queen They Love to Hate",
       "url": "https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw"
+    },
+    {
+      "added_at": "2026-06-05 18:51:13",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj"
+      },
+      "artists": [
+        {
+          "name": "The Trespassers",
+          "url": "https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF"
+        }
+      ],
+      "duration_ms": 239606,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT"
     }
   ],
   "unique_name": "Unsigned Rock",

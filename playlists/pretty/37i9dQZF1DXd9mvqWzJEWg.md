@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Goldmax
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,158 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,198 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 49 | [Palesa](https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Khuphuka](https://open.spotify.com/album/1INdvramG7WFxxkZt1HG4c) | 4:59 |
 | 50 | [Guarana](https://open.spotify.com/track/0ieVZPwAbijEsKKHDL2SoQ) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E), [SamBeazy](https://open.spotify.com/artist/3cwPaljbfd7fVcBV4FL743) | [Dollars & White Pipes](https://open.spotify.com/album/27ZIO4P91sOLk9vK1zdGjE) | 6:39 |
 
-Snapshot ID: `AAAAABEV0iN55DBplNHs8PTpkuKLW165`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

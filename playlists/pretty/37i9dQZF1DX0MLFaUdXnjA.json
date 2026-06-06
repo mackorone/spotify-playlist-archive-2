@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Niall Horan",
-  "num_followers": 1790657,
+  "description": "Sit back and relax to the chillest pop.  Cover: Kacey Musgraves",
+  "num_followers": 1790484,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIGvnjZTykuPEjWJ90zRYhWVSwL",
+  "snapshot_id": "AAAAAGJ2wdayv10iLViRlrCE/d87RWdF",
   "tracks": [
+    {
+      "added_at": "2026-05-15 19:31:50",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-06-05 04:01:27",
+      "album": {
+        "name": "it\u2019s a real Cruel World",
+        "url": "https://open.spotify.com/album/7a6MlcuS6BtHHwSzIxGiH3"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "it\u2019s just White Noise",
+      "url": "https://open.spotify.com/track/390rTowRCM4fY7XNNvkwSE"
+    },
     {
       "added_at": "2026-05-22 04:01:51",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 180128,
       "name": "Debbie Don't Cry",
       "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
-    },
-    {
-      "added_at": "2026-05-15 19:31:50",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
       "added_at": "2026-05-29 04:02:52",
@@ -1547,22 +1563,6 @@
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-02-27 18:35:08",
-      "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC"
-      },
-      "artists": [
-        {
-          "name": "Scout Willis",
-          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"
     },
     {
       "added_at": "2025-12-05 05:05:38",

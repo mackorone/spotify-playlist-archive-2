@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 212091,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/0we0zgeUB9ARtEYfFcBhGp"
@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Bikini blanco",
+        "url": "https://open.spotify.com/album/74fpKXRkzCMIDDZ1kRxDvX"
+      },
+      "artists": [
+        {
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Bikini blanco",
+      "url": "https://open.spotify.com/track/2gZ11EgjdQMC7qFWqBKnmO"
+    },
+    {
+      "album": {
         "name": "BIOL-101",
         "url": "https://open.spotify.com/album/2WKMQLwJ93MxJZiUu9iVfD"
       },
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 159360,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
@@ -5238,6 +5256,24 @@
       "duration_ms": 187669,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6"
+    },
+    {
+      "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/0BsYBOCNCGzTQOj0x8u0Sw"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/78engVluqbP55VvbR0geaz"
     },
     {
       "album": {
@@ -6434,6 +6470,28 @@
       "duration_ms": 150986,
       "name": "Completamente Loco",
       "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
+    },
+    {
+      "album": {
+        "name": "Con Amor",
+        "url": "https://open.spotify.com/album/1xMgtwOR6k94d8QDpsFTzC"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194245,
+      "name": "Con Amor",
+      "url": "https://open.spotify.com/track/21GPNZIGbUK9OF7DtcOUzq"
     },
     {
       "album": {
@@ -8156,6 +8214,28 @@
       "duration_ms": 174251,
       "name": "Derrumb\u00e1ndome",
       "url": "https://open.spotify.com/track/3oy9KuES1OB6lUeGrA3slD"
+    },
+    {
+      "album": {
+        "name": "Desayuno Pa' 2",
+        "url": "https://open.spotify.com/album/4L8UibVoRQL9ofKz6nePHX"
+      },
+      "artists": [
+        {
+          "name": "Erick Brian",
+          "url": "https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208562,
+      "name": "Desayuno Pa' 2",
+      "url": "https://open.spotify.com/track/6lN0MtkSbHDaIjuNhgYxXU"
     },
     {
       "album": {
@@ -17128,7 +17208,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 173217,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/23aSE3I1JsuHAtnah4XELV"
@@ -20272,6 +20352,28 @@
       "duration_ms": 188586,
       "name": "NOCHE PASAJERA II",
       "url": "https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA"
+    },
+    {
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "album": {
@@ -23612,7 +23714,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 130969,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
@@ -23964,6 +24066,24 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "album": {
+        "name": "QUE CULPA TENGO YO",
+        "url": "https://open.spotify.com/album/0qXkvYgcS5nN4Kq5Dzkppw"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "QUE CULPA TENGO YO",
+      "url": "https://open.spotify.com/track/7oLpEaBgkTpxMA84DShhn1"
     },
     {
       "album": {
@@ -26801,6 +26921,28 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2DeqzcEIKAQ3LsQ4dGmjcG"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184269,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6d3A6KaxxEyZOTMaEi7CqP"
+    },
+    {
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
       },
@@ -27876,7 +28018,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 206666,
       "name": "THANK YOU BB",
       "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
@@ -29402,7 +29544,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160000,
       "name": "t\u00fa sabes q no",
       "url": "https://open.spotify.com/track/7GrS67Ip8TTsQLiVz0cglk"
@@ -29686,7 +29828,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214742,
       "name": "Un Polvito +",
       "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"

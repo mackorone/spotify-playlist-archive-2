@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,695 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,643 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Always Been You](https://open.spotify.com/track/7gWygVJ2P5CJTbSObBLy1M) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Always Been You](https://open.spotify.com/album/5HK3UlrV1IYwkxmIUMfECm) | 2:44 |
 | 100 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 
-Snapshot ID: `AAAAACDnW4eU31mhcXRMkdq1BFprlenF`
+Snapshot ID: `AAAAAPbTt6ZxvwSrjD7/qAUCvNX3unle`

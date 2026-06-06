@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-288 songs - 16 hr 32 min
+289 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Los Días Que Pasan](https://open.spotify.com/track/7eTRf5Zv9DEKWIOwizRemP) | [Bautista Stocchi](https://open.spotify.com/artist/2AxLb5luLJ38OVyBrh24VN) | [Humo](https://open.spotify.com/album/6N89nT1jqqUcwXanNtolv6) | 3:42 | 2025-08-20 | 2026-04-06 |
 | [Love lasts less than a Netflix subscription \. \- Live](https://open.spotify.com/track/0KkVeWwEBwAhHNJ4FF10mH) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 3:46 | 2025-10-24 | 2026-04-06 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-01-24 |  |
+| [Luna a Milano](https://open.spotify.com/track/65dYtGwcxkjFNXhu9BdrGc) | [Michele Tarasik](https://open.spotify.com/artist/4PO09aUamHbbNoxEyEK0vE), [Louis Moreno](https://open.spotify.com/artist/0okuclVbMLEUe1sMflRV5b) | [Luna a Milano](https://open.spotify.com/album/4GKzaY0Z4zTYcKVlMOusC6) | 3:37 | 2026-06-05 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-01-24 |  |
 | [L’IMPERATRICE](https://open.spotify.com/track/7pNEeGS8MmBiO8wnJnoijB) | [MERY DAGOSTINO](https://open.spotify.com/artist/4QsCalmAFx1uhhJo11DZTS) | [L’IMPERATRICE](https://open.spotify.com/album/78wp99iQFL04zTWQMyPf0f) | 2:15 | 2025-10-08 | 2026-04-06 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2025-01-24 |  |

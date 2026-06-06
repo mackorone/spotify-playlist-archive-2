@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,354 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,348 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 93 | [Quand j’ai embrassé le Père Noël](https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl) | [Fallenium](https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd) | [Quand j’ai embrassé le Père Noël](https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE) | 3:44 |
 | 94 | [Joyeux Noël](https://open.spotify.com/track/7JoMjFyugtJLLZuF1bxNzE) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Joyeux Noël](https://open.spotify.com/album/6KG96S8ocsbzBouNsfxcXP) | 3:07 |
 | 95 | [Chanson de Noël](https://open.spotify.com/track/5borCmWBLvd8FjYjJlbIIq) | [Rémi Chassé](https://open.spotify.com/artist/4ZHPSX8wbALZv186ysJ37P) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:13 |
-| 96 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
-| 97 | [Çà, bergers](https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:27 |
+| 96 | [Çà, bergers](https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:27 |
+| 97 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 98 | [Le Noël des petits santons](https://open.spotify.com/track/41fTjoBWFYikCoNm9chdVJ) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [Deluxe: Petit Papa Noël et les plus belles chansons de Noël](https://open.spotify.com/album/0j4GUlSnBkKxVMrIVEx4Vb) | 3:14 |
 | 99 | [Noël blanc](https://open.spotify.com/track/5wQPiG03UejeND0WSvwyVW) | [Léo Giroux](https://open.spotify.com/artist/3gfriMoTculhDU9RH3X5qi) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:38 |
 | 100 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |

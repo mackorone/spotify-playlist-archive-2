@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Rvfv, Ozuna y el resto de novedades de la semana.",
+  "description": "Rvfv, Ozuna, Taylor Swift y el resto de novedades de la semana.",
   "name": "Novedades Viernes Espa\u00f1a",
   "tracks": [
     {
@@ -27993,6 +27993,24 @@
     },
     {
       "album": {
+        "name": "DIME QUE TIENES UN PLAN",
+        "url": "https://open.spotify.com/album/369CwAcopRHsEduAuUUOi1"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162264,
+      "name": "DIME QUE TIENES UN PLAN",
+      "url": "https://open.spotify.com/track/5gz5HYlXgeY5dzao7ArkHs"
+    },
+    {
+      "album": {
         "name": "Dime qu\u00e9 le pas\u00f3",
         "url": "https://open.spotify.com/album/6UP98LV2U34qRdFQJxW2C1"
       },
@@ -46494,6 +46512,24 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {

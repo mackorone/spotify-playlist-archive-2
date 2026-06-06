@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72720,
+  "num_followers": 72716,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-05-22 03:01:26",
-      "album": {
         "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 206000,
       "name": "Vai dar Bom (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:26",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-05-22 03:01:26",

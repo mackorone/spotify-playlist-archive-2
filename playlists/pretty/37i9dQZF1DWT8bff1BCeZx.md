@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,634 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,644 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 119 | [Everyday](https://open.spotify.com/track/2nBw0ZufkPAM2x8vVj7cbE) | [Eric Hazael](https://open.spotify.com/artist/1cNoDafdMBXOouFUFkY8wZ) | [Everyday](https://open.spotify.com/album/1vCrKARVayoNh4B9DH9Izu) | 2:14 |
 | 120 | [Kuzo Muje II](https://open.spotify.com/track/6IwwQofzDmM9mgPrkYYKly) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [Kk2Nice](https://open.spotify.com/artist/6LlF36PpBue0vnRoJFPF4V), [JEHU](https://open.spotify.com/artist/2Da7skpDbYblzAWcI1msVM) | [Kuzo Muje II](https://open.spotify.com/album/2aw6gvO02HCDo72WtQyYov) | 2:45 |
 
-Snapshot ID: `AAAAABLM5xni1pdJhz0LNl3MVgmApei4`
+Snapshot ID: `AAAAAA5hXR9wuDKAoASGESbMb2algJtk`

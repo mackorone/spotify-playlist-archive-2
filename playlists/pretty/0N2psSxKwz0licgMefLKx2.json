@@ -1,13 +1,45 @@
 {
-  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
-  "num_followers": 11196,
+  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk",
+  "num_followers": 11197,
   "original_name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAm7u0sPPn2IyrlY8Q2XTM5a5TGLUSr",
+  "snapshot_id": "AAAm9TBDtdlj8ZUgvtFbF68U7xobkoEG",
   "tracks": [
+    {
+      "added_at": "2026-06-05 11:24:07",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-06-05 11:23:55",
+      "album": {
+        "name": "The Brave",
+        "url": "https://open.spotify.com/album/5Rehmfb7bWiHi1XmjqBgCv"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 222237,
+      "name": "The Brave",
+      "url": "https://open.spotify.com/track/3tOzHaf46ze3ovdxczDzB0"
+    },
     {
       "added_at": "2026-05-29 18:08:08",
       "album": {
@@ -223,6 +255,22 @@
       "duration_ms": 190550,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
+    },
+    {
+      "added_at": "2026-06-05 11:24:21",
+      "album": {
+        "name": "Half The Man",
+        "url": "https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 236721,
+      "name": "Half The Man",
+      "url": "https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy"
     },
     {
       "added_at": "2026-05-29 18:08:08",

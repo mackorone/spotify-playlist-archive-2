@@ -1,13 +1,33 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 165405,
+  "num_followers": 165426,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERG5VLbpwcDxCQTSTiO8aJ0bL5i",
+  "snapshot_id": "AAAAAK7enJla5CyflYxcyngzdXBB95pZ",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:27",
+      "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/16bNq2Wc8PTUjrl4LpznWP"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        },
+        {
+          "name": "Martin Miller",
+          "url": "https://open.spotify.com/artist/1spSxLrhsCFplRSKYdmEz2"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/4C6kLt94CCeG27waFca0HB"
+    },
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
@@ -39,54 +59,6 @@
       "duration_ms": 196552,
       "name": "LET'S DO IT",
       "url": "https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a"
-    },
-    {
-      "added_at": "2025-05-23 21:01:43",
-      "album": {
-        "name": "Slapocalypse Reborn",
-        "url": "https://open.spotify.com/album/2adrSp5rUSisnBg6RenKDU"
-      },
-      "artists": [
-        {
-          "name": "Charles Berthoud",
-          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
-        },
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Alex Hutchings",
-          "url": "https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j"
-        },
-        {
-          "name": "Tom Quayle",
-          "url": "https://open.spotify.com/artist/4RgDxIZczeVdhT1gOIdJA3"
-        },
-        {
-          "name": "Ben Romano",
-          "url": "https://open.spotify.com/artist/1IPYdDrCMmemkV00h0ddJb"
-        },
-        {
-          "name": "Danny Sapko",
-          "url": "https://open.spotify.com/artist/1NgGrppqqB4K7frhzs1RGD"
-        },
-        {
-          "name": "Kahil Ferraris",
-          "url": "https://open.spotify.com/artist/3ITfYlwQbhB7vrvCYWsLhN"
-        },
-        {
-          "name": "Marco Baldi",
-          "url": "https://open.spotify.com/artist/6JwPTOpFvE42mK3LtPL8gd"
-        },
-        {
-          "name": "Peter Luha",
-          "url": "https://open.spotify.com/artist/467JXUyvdp874McCFZGx0Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Slapocalypse Reborn",
-      "url": "https://open.spotify.com/track/1Bqwr14lwvzUmIkvXZ2Z8W"
     },
     {
       "added_at": "2025-02-14 05:00:32",

@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/429o17nGxNDexcp42affUn"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD"
+    },
+    {
+      "album": {
         "name": "Drug Infused Love",
         "url": "https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf"
       },

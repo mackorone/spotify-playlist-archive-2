@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Boy Soda
 
-384 songs - 23 hr 47 min
+385 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 | 2023-03-23 | 2023-07-07 |
 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 |  |
 | [One Wish](https://open.spotify.com/track/4v2cHBzCtmkvWVWbZ4Rilu) | [Thea](https://open.spotify.com/artist/3MofB6MnXczVVUw6i94oFN) | [Land of Nod](https://open.spotify.com/album/7rzRftiKwTlCxFhZLmdyic) | 3:54 | 2022-06-02 | 2022-09-09 |
+| [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 | 2026-05-28 |  |
 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 | 2022-06-02 | 2025-07-11 |
 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 | 2022-06-02 | 2022-11-18 |
 | [Outright Attached](https://open.spotify.com/track/2nptVrm7B91RAFXg32YLhS) | [Tiana Rosie](https://open.spotify.com/artist/2hDHgtEkmGk5LWPOI5LHYb) | [Outright Attached](https://open.spotify.com/album/13vYfMmn4M7tXTX6PiY3Fp) | 3:23 | 2022-07-21 | 2023-06-02 |
@@ -294,7 +295,7 @@
 | [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:10 | 2025-10-02 | 2026-04-17 |
 | [Selfish](https://open.spotify.com/track/1aT3C7hFnZjo5CBshVEw4R) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU) | [Selfish](https://open.spotify.com/album/1cqxkbddjrFe1vHQKbPtOT) | 3:16 | 2023-10-12 | 2024-07-24 |
 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 | 2025-07-11 | 2026-04-24 |
-| [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 | 2026-04-03 |  |
+| [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 | 2026-04-03 | 2026-06-06 |
 | [Serious](https://open.spotify.com/track/4WHJkzPajfcS2SuJ2FaheS) | [Nganeko](https://open.spotify.com/artist/4oJPE0D0YhnBErqxc65hay) | [Serious](https://open.spotify.com/album/7s94vzu0rE7y8VUdCxkLkf) | 3:27 | 2022-06-02 | 2022-10-15 |
 | [Shadow Archetype](https://open.spotify.com/track/5NUphP5OTGZpwIWJlaQscH) | [Kyoshi](https://open.spotify.com/artist/75laRCKPbEmCTnlmyGpnrN) | [Shadow Archetype](https://open.spotify.com/album/1vgQJk79WqX51zAcwCu2Gt) | 6:14 | 2022-06-02 | 2022-09-09 |
 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 | 2026-04-16 | 2026-04-24 |

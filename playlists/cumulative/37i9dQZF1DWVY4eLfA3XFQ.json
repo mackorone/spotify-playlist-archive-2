@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc77\ud83c\udffc Tech house hard workers, featuring Beltran",
+  "description": "50% techno, 50% house \ud83e\udd89 Tech house hard operator, featuring Cloonee",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 225000,
       "name": "Ain't Nobody (Goosey Remix)",
       "url": "https://open.spotify.com/track/41BP9oPAIS8sWWSH362V8Y"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 166019,
       "name": "Back Around",
       "url": "https://open.spotify.com/track/2ceFvfRsHt9xYD8llLhCF0"
@@ -16377,6 +16377,24 @@
     },
     {
       "album": {
+        "name": "Anatomy",
+        "url": "https://open.spotify.com/album/6KNfw3zhmorWlxrxSYxW3E"
+      },
+      "artists": [
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/0rCftZOyrCvVuf5o33xnJH"
+    },
+    {
+      "album": {
         "name": "EYES",
         "url": "https://open.spotify.com/album/02vJlON5DhAy9I73azuKcx"
       },
@@ -16566,7 +16584,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 183692,
       "name": "Fall In Love Again",
       "url": "https://open.spotify.com/track/351uaz0UJ7h0RYRD0e2w5V"
@@ -19807,6 +19825,24 @@
     },
     {
       "album": {
+        "name": "Get It Started EP",
+        "url": "https://open.spotify.com/album/0CGMbCXYZasZ5vrfysmtC2"
+      },
+      "artists": [
+        {
+          "name": "FINKY",
+          "url": "https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166717,
+      "name": "Get It Started",
+      "url": "https://open.spotify.com/track/4ocNjkTjziAF0HZURdM1Vy"
+    },
+    {
+      "album": {
         "name": "Get Loose",
         "url": "https://open.spotify.com/album/0q5Or2C6aM7GPJU8x5kcEn"
       },
@@ -22733,6 +22769,28 @@
     },
     {
       "album": {
+        "name": "Holla At A Player",
+        "url": "https://open.spotify.com/album/0vkWTYvO462GLTorgY7J6q"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Holla At A Player",
+      "url": "https://open.spotify.com/track/1KyEK4m4MPdnty3r3kmCfr"
+    },
+    {
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N"
       },
@@ -24309,6 +24367,28 @@
     },
     {
       "album": {
+        "name": "I Need A Sweet",
+        "url": "https://open.spotify.com/album/3HEbBu6q666xUgqUfCnXVU"
+      },
+      "artists": [
+        {
+          "name": "Gio Lucca",
+          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
+        },
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "I Need A Sweet",
+      "url": "https://open.spotify.com/track/6HbcH5iziJBmogeCXvful5"
+    },
+    {
+      "album": {
         "name": "I Need Some",
         "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
       },
@@ -24390,6 +24470,28 @@
       "duration_ms": 203520,
       "name": "I Promise You",
       "url": "https://open.spotify.com/track/4xdyhJzLpW6o1Z4DWpRnK2"
+    },
+    {
+      "album": {
+        "name": "I Rhyme Quick",
+        "url": "https://open.spotify.com/album/4AFJwTFtpywljMCSXcsAIw"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Nice & Smooth",
+          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184850,
+      "name": "I Rhyme Quick",
+      "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
     },
     {
       "album": {
@@ -25490,7 +25592,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 223384,
       "name": "Insane",
       "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
@@ -31666,7 +31768,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 179784,
       "name": "Meet The Funk",
       "url": "https://open.spotify.com/track/5QIJg5ADZY6RFFAEXRMTrb"
@@ -34316,7 +34418,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 178153,
       "name": "My Own Thang (To The Beat)",
       "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
@@ -35906,7 +36008,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 210057,
       "name": "Nothing Is (Under Control)",
       "url": "https://open.spotify.com/track/22sA4QqoxsTVSy4ftxvSMc"
@@ -38500,6 +38602,28 @@
       "duration_ms": 184651,
       "name": "Party Jumpin'",
       "url": "https://open.spotify.com/track/6R7qT58x43pw4LemDZGMrN"
+    },
+    {
+      "album": {
+        "name": "Party Over Here (feat. Detroit's Filthiest)",
+        "url": "https://open.spotify.com/album/1LjXy7lxXGESbH5JBXvm2j"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fielding",
+          "url": "https://open.spotify.com/artist/4vGZvBKumnAgz82tNuAnlh"
+        },
+        {
+          "name": "Detroit's Filthiest",
+          "url": "https://open.spotify.com/artist/3O9jHYmVyq59RNpd77g7HW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180019,
+      "name": "Party Over Here (feat. Detroit's Filthiest)",
+      "url": "https://open.spotify.com/track/43gnaKewGiyWvK4qyypoJR"
     },
     {
       "album": {
@@ -41919,6 +42043,24 @@
     },
     {
       "album": {
+        "name": "Ride On Me",
+        "url": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229845,
+      "name": "Ride On Me",
+      "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
+    },
+    {
+      "album": {
         "name": "Ride That Thang",
         "url": "https://open.spotify.com/album/586kKycnpfuAAMwO3rgyGO"
       },
@@ -44304,7 +44446,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160000,
       "name": "Sexy Sturdy",
       "url": "https://open.spotify.com/track/4AnDy5eoRWMuJCujtOvxoW"
@@ -46475,6 +46617,28 @@
     },
     {
       "album": {
+        "name": "So Hot!",
+        "url": "https://open.spotify.com/album/5fkdDzx0QudmsnHeRPoSCm"
+      },
+      "artists": [
+        {
+          "name": "Edris Omar",
+          "url": "https://open.spotify.com/artist/2J8mxO9N8VSXiaOk7A6cJE"
+        },
+        {
+          "name": "Jake Bleu",
+          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "So Hot!",
+      "url": "https://open.spotify.com/track/5Tpca7PbJGQpPUJohnFStN"
+    },
+    {
+      "album": {
         "name": "So H\u00ef",
         "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
       },
@@ -47580,7 +47744,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 145384,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/1Rjf7Dj4OcT9SMZUmASJKx"
@@ -53523,6 +53687,32 @@
     },
     {
       "album": {
+        "name": "u up?",
+        "url": "https://open.spotify.com/album/68Ii8cbl0yUWv7Bt2BbqV4"
+      },
+      "artists": [
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        },
+        {
+          "name": "charmy",
+          "url": "https://open.spotify.com/artist/5dcPJcXUrWmo0h6UaRBRta"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "u up?",
+      "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
+    },
+    {
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/2a8rKqOotCYs2kpx73VLNa"
       },
@@ -55231,6 +55421,28 @@
     },
     {
       "album": {
+        "name": "Watch Where You Walk (Sidewalk Talk)",
+        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Watch Where You Walk (Sidewalk Talk)",
+      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
+    },
+    {
+      "album": {
         "name": "Watcha Need (feat. Joy Farrukh)",
         "url": "https://open.spotify.com/album/7q97V486Eb22gpy325ya5X"
       },
@@ -56156,7 +56368,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 262153,
       "name": "Whatcha Do To Me",
       "url": "https://open.spotify.com/track/2B6NPa5xN0ktAoEFXC7Ar9"

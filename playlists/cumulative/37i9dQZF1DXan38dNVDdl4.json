@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 158941,
       "name": "Blaze Up",
       "url": "https://open.spotify.com/track/05CD2lFFr7xNxMz0cQFwjI"
@@ -1492,6 +1492,32 @@
       "duration_ms": 177696,
       "name": "Body Tea",
       "url": "https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA"
+    },
+    {
+      "album": {
+        "name": "Bod\u00e9",
+        "url": "https://open.spotify.com/album/4cSabc5NWDEzGFfVN1nSWh"
+      },
+      "artists": [
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        },
+        {
+          "name": "Lucky lukee",
+          "url": "https://open.spotify.com/artist/0nkpIYM3zrDKfNgveXJexG"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Bod\u00e9",
+      "url": "https://open.spotify.com/track/6jpFUrJeLRcQN1Ek8AnQe9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325343,
+  "num_followers": 325347,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-28 23:00:47",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 113702,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
-    },
-    {
-      "added_at": "2026-05-28 23:00:47",
-      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2026-05-28 23:00:47",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
     },
     {
       "added_at": "2026-05-28 23:00:47",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-05-28 23:00:47",
       "album": {
+        "name": "Nympho",
+        "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "My My My",
+      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
+    },
+    {
+      "added_at": "2026-05-28 23:00:47",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-05-28 23:00:47",
-      "album": {
-        "name": "Nympho",
-        "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "My My My",
-      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
     },
     {
       "added_at": "2026-05-28 23:00:47",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-05-28 23:00:47",
       "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
+      },
+      "artists": [
+        {
+          "name": "MONOH",
+          "url": "https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "duration_ms": 133842,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
+    },
+    {
+      "added_at": "2026-05-28 23:00:47",
+      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 177730,
       "name": "Back to the 305",
       "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
-    },
-    {
-      "added_at": "2026-05-28 23:00:47",
-      "album": {
-        "name": "All Of Me",
-        "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
-      },
-      "artists": [
-        {
-          "name": "MONOH",
-          "url": "https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
-        }
-      ],
-      "duration_ms": 133842,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
     },
     {
       "added_at": "2026-05-28 23:00:47",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2026-05-28 23:00:47",
       "album": {
+        "name": "Baian\u00e1 (Boa Noite)",
+        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baian\u00e1 (Boa Noite)",
+      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
+    },
+    {
+      "added_at": "2026-05-28 23:00:47",
+      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
       },
@@ -1879,42 +1899,6 @@
     {
       "added_at": "2026-05-28 23:00:47",
       "album": {
-        "name": "Baian\u00e1 (Boa Noite)",
-        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baian\u00e1 (Boa Noite)",
-      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
-    },
-    {
-      "added_at": "2026-05-28 23:00:47",
-      "album": {
-        "name": "Clubland 26",
-        "url": "https://open.spotify.com/album/6yamu4APmhOijtj3jEsRLs"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Nobody To Love - Radio Edit",
-      "url": "https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q"
-    },
-    {
-      "added_at": "2026-05-28 23:00:47",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2026-05-28 23:00:47",
+      "album": {
+        "name": "Clubland 26",
+        "url": "https://open.spotify.com/album/6yamu4APmhOijtj3jEsRLs"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Nobody To Love - Radio Edit",
+      "url": "https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q"
     }
   ],
   "unique_name": "Island Anthems",

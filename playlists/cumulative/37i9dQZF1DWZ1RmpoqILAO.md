@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> you met me at a very indie twang time in my life..\. Thomas Dollbaum on the cover
+> you met me at a very indie twang time in my life..\. Any Young Mechanic on the cover
 
-364 songs - 23 hr 24 min
+365 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 |  |
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/5b7XNPJbJV5ncuFGoh9ZJy) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:28 | 2025-10-10 |  |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-11-15 | 2026-04-11 |
+| [Write You Wrong](https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [The Modern Shoe Is Ruining The Foot](https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21) | 4:18 | 2026-06-05 |  |
 | [WTF](https://open.spotify.com/track/3YQ3oBkCkDeRiKhf11mCYQ) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [WTF](https://open.spotify.com/album/33wEfMAeQatCfZ77VgYj4T) | 3:32 | 2026-03-27 |  |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 | 2023-12-09 |

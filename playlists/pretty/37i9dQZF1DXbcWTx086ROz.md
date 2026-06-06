@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain]
 
 > Dive into '00s nostalgia with these iconic videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,615 likes - 25 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,645 likes - 25 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

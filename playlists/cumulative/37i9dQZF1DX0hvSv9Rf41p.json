@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Levity",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring GRiZ",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -616,6 +616,24 @@
       "duration_ms": 138000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
+    },
+    {
+      "album": {
+        "name": "The Sunken Cathedral",
+        "url": "https://open.spotify.com/album/0ogfeJAc1crC6HdsBzf2U1"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0NjcjKsJYZgKqiD5X3hJZi"
     },
     {
       "album": {
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 147200,
       "name": "Bass Quest",
       "url": "https://open.spotify.com/track/06kJjHf74IvAe2ux6upKq8"
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 158873,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
@@ -4782,6 +4800,28 @@
       "duration_ms": 176000,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/3H4Cu07RHqh83HigtRDYkr"
+    },
+    {
+      "album": {
+        "name": "Brackish",
+        "url": "https://open.spotify.com/album/59nTlcpGRGFsxxKbxTmgzn"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Brackish",
+      "url": "https://open.spotify.com/track/69LK77IjL8NtKTgpMmRuCB"
     },
     {
       "album": {
@@ -11484,7 +11524,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 192000,
       "name": "Eyes Cut Deeper (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
@@ -16672,7 +16712,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 154943,
       "name": "Homework (feat. Lancey Foux)",
       "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
@@ -18084,6 +18124,28 @@
       "duration_ms": 167516,
       "name": "In The Cut",
       "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
+    },
+    {
+      "album": {
+        "name": "In The Mirror",
+        "url": "https://open.spotify.com/album/4pP4LpGODBkVbsCUWDCfMa"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Colleen D'agostino",
+          "url": "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/0oXhhzaJi5RzWoEeEBLTOz"
     },
     {
       "album": {
@@ -23800,7 +23862,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 151020,
       "name": "NEXUS",
       "url": "https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW"
@@ -24160,6 +24222,36 @@
       "duration_ms": 209828,
       "name": "NO SURRENDER (No Retreat)",
       "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
+    },
+    {
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
     },
     {
       "album": {
@@ -27767,6 +27859,28 @@
     },
     {
       "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164835,
+      "name": "Rainbow Machine",
+      "url": "https://open.spotify.com/track/1tGLoKlVJksDcCTTVeTD6U"
+    },
+    {
+      "album": {
         "name": "Raise the Dead",
         "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
       },
@@ -29138,6 +29252,28 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Rump Shaker",
+      "url": "https://open.spotify.com/track/42Wg4dxXp01ii2i4odEUIl"
     },
     {
       "album": {
@@ -31621,6 +31757,28 @@
     },
     {
       "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC"
+    },
+    {
+      "album": {
         "name": "Overthrown (The Thrones of Blood Remix Album)",
         "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
       },
@@ -32624,7 +32782,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 162206,
       "name": "STFU",
       "url": "https://open.spotify.com/track/4fkKvnl1ndRKRzJBwWnCdT"
@@ -34408,7 +34566,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 218482,
       "name": "The Clock",
       "url": "https://open.spotify.com/track/0ofJud5it56rOmAUC0xGXr"
@@ -35742,7 +35900,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 160172,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
@@ -36342,6 +36500,24 @@
       "duration_ms": 212870,
       "name": "TYPE SH*T",
       "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
+    },
+    {
+      "album": {
+        "name": "U Want Me",
+        "url": "https://open.spotify.com/album/5yKgYA2Xzw3Au1GWbmnIce"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "U Want Me",
+      "url": "https://open.spotify.com/track/3ubOOFmrtp5E3lzfurjBpU"
     },
     {
       "album": {
@@ -37685,6 +37861,28 @@
     },
     {
       "album": {
+        "name": "Way Better",
+        "url": "https://open.spotify.com/album/5qSIo32WbkMEe1u8OSGSqg"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Way Better",
+      "url": "https://open.spotify.com/track/2zHMiZkQJmKONaXotWbH3z"
+    },
+    {
+      "album": {
         "name": "WDGAF",
         "url": "https://open.spotify.com/album/2X8ltfBTaQ8HuxDT7kTSpg"
       },
@@ -37832,7 +38030,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 138857,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"

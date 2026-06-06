@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-131 songs - 7 hr 44 min
+133 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,8 +105,10 @@
 | [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 |  |
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-02-09 |  |
 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
+| [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb) | 2:55 | 2026-06-05 |  |
+| [Sunny](https://open.spotify.com/track/40Jg0pluUomkkLyOf15ASw) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Sunny](https://open.spotify.com/album/2egQZgPXU5yneuJgHNhknv) | 2:11 | 2026-06-05 |  |
 | [Superbloom](https://open.spotify.com/track/0LLLu9OpHI8woWnSJrWm72) | [Carolyn Barela](https://open.spotify.com/artist/07eQgknO4HhywtQGVoW50f), [Catty.L](https://open.spotify.com/artist/68FNAoroAsIuNLoecJRIZP) | [Superbloom](https://open.spotify.com/album/32P8hqUIsWNZn0gAZAfNkm) | 3:08 | 2024-06-02 |  |
-| [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 |  |
+| [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 | 2026-06-06 |
 | [Tara](https://open.spotify.com/track/3wbfNm0iqSoV4plNLUpL8M) | [Denise Glover](https://open.spotify.com/artist/28V15gh4m18DQnV04TEVXr), [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Tara](https://open.spotify.com/album/0a8Ah1nOni4As3myEW0weF) | 3:12 | 2024-05-16 |  |
 | [Tell Me Lies](https://open.spotify.com/track/7uDwWou3CbkEtwp6YWBMvu) | [Steve Marks](https://open.spotify.com/artist/2d2IafdfrktjgsgZWdC85K) | [Tell Me Lies](https://open.spotify.com/album/2pnnjqDp1J0raq09vuftlC) | 2:38 | 2025-10-24 |  |
 | [The Black Swan Love Song](https://open.spotify.com/track/6KPkN8ogwmXIvO9N2LJHJr) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [The Black Swan Love Song](https://open.spotify.com/album/0w3vUW84HgnGNGfEBbx45g) | 4:42 | 2025-08-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Taylor Swift, Madonna, Alex Warren, Joji & The Kid LAROI and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,358 likes - 73 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,909 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 47 | [Chippie](https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:37 |
 | 48 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
 | 49 | [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 |
-| 50 | [abusadOra \(tambores\)](https://open.spotify.com/track/0mdBXuX9vk4t7H7qTMih73) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [abusadOra \(tambores\)](https://open.spotify.com/album/6NQqjn90hXl3abYuUKA8fK) | 3:09 |
+| 50 | [abusadOra \(tambores\)](https://open.spotify.com/track/0mdBXuX9vk4t7H7qTMih73) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [abusadOra \(tambores\)](https://open.spotify.com/album/6NQqjn90hXl3abYuUKA8fK) | 3:11 |
 | 51 | [Special Thanks Festival](https://open.spotify.com/track/1r1vNYidrkKQFIwDHnRfyN) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [Special Thanks Festival](https://open.spotify.com/album/0Cmt6rIRQo3mTLPUeJmidZ) | 4:10 |
 | 52 | [ワイド節](https://open.spotify.com/track/5Jn6k6dw9Lu4UOR3caRef4) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [ワイド節](https://open.spotify.com/album/1CO9jenKrMCDAMvE5NwdBv) | 4:38 |
 | 53 | [Me Without U \- Spotify Singles](https://open.spotify.com/track/2qcOgRGOYqYfPqJukUcWZr) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Me Without U \- Spotify Singles](https://open.spotify.com/album/6JeC64NyEwq3Q25BNgO9iV) | 2:17 |

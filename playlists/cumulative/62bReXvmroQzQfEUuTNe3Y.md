@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-575 songs - 1 day 7 hr 35 min
+576 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Losing Focus](https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [David Pietras](https://open.spotify.com/artist/4gzWHCBn6PjkGbWUp0kmEc) | [Losing Focus](https://open.spotify.com/album/7sXrMnaxr95R2q5ihxC4zu) | 2:30 | 2021-03-06 | 2021-04-24 |
 | [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-12 | 2024-08-03 |
 | [Losing My Way](https://open.spotify.com/track/5pvKSlcfC5LLebZQiZuNff) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Are You Real?](https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4) | 2:17 | 2026-02-06 |  |
-| [Losing You](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1) | [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg) | [Losing You](https://open.spotify.com/album/5P1uESXjGvtcUpwB8IyWsV) | 2:54 | 2024-10-04 |  |
+| [Losing You](https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1) | [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg) | [Losing You](https://open.spotify.com/album/5P1uESXjGvtcUpwB8IyWsV) | 2:54 | 2024-10-04 | 2026-06-06 |
 | [Lost](https://open.spotify.com/track/5WYNZf8enqbyPk4bKXKpou) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lost](https://open.spotify.com/album/0ksXLhcJTB8DLxoEFnV93Z) | 3:26 | 2022-02-25 | 2022-03-12 |
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-09 |  |
 | [Lost Time](https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Lost Time EP](https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX) | 3:40 | 2021-06-12 | 2021-07-17 |
@@ -461,6 +461,7 @@
 | [Stay](https://open.spotify.com/track/0Sm4Ql0BuY87bftUBH68tv) | [REVERSE](https://open.spotify.com/artist/2mP4JDbd7FikmTaymCT5tt), [NORTH26](https://open.spotify.com/artist/0VCdFnUDF3uztrIR53Jtsk) | [Stay](https://open.spotify.com/album/63Unsf2oq1OStxbdA8o29N) | 2:30 | 2021-08-21 | 2026-01-06 |
 | [Stay High \(VIP\) \[feat\. Julia Church\]](https://open.spotify.com/track/0EgrJVOPYVgsFiF5D0RKRV) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(feat\. Julia Church\) \[Zerb Remix\]](https://open.spotify.com/album/2QiJpXZC0xupQ2CAxsE5xJ) | 3:12 | 2024-02-23 | 2024-11-30 |
 | [Stay Right Here](https://open.spotify.com/track/0IDGbb3NY9pJoMzfkI4Jt4) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [Peer Pressure](https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k) | [Stay Right Here](https://open.spotify.com/album/4z2hKkEoHtzfIzJFqPw3WH) | 2:48 | 2023-06-30 | 2025-07-31 |
+| [Stay Until the Morning](https://open.spotify.com/track/1UOg16o0BdBPEjmSjlzBTB) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Stay Until the Morning](https://open.spotify.com/album/5LulOkhC6IF9n2L9dJWJ5s) | 2:39 | 2026-06-05 |  |
 | [Stay With Me](https://open.spotify.com/track/6V1vqiEYqCM9202G61gzkQ) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Stay With Me](https://open.spotify.com/album/7CHlEFrIfo1OCq7iIMQnUQ) | 3:02 | 2023-07-28 | 2023-12-14 |
 | [Steps](https://open.spotify.com/track/6BInuwLPCZt6d5Oj1reZEZ) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Steps](https://open.spotify.com/album/0t8qT7uMuOMQ27kFzZavnc) | 3:28 | 2026-05-15 |  |
 | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/track/4w6By5JzUpjc7IworHA5IB) | [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/album/6khyhgY2GMeTtIbAZ5pI5s) | 2:48 | 2021-12-04 | 2022-03-12 |

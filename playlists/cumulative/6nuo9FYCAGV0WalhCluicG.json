@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197932,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/0kWAW8wkGQwepTKyYjJTu5"
@@ -898,6 +898,24 @@
       "duration_ms": 120513,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
+    },
+    {
+      "album": {
+        "name": "cujo",
+        "url": "https://open.spotify.com/album/3UMQOYxfcHUzZM905nqX1S"
+      },
+      "artists": [
+        {
+          "name": "Tommy Saint",
+          "url": "https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130156,
+      "name": "cujo",
+      "url": "https://open.spotify.com/track/0XbtRAtWnoMMhY1gxXApDp"
     },
     {
       "album": {
@@ -2067,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Mazzaleen",
+        "url": "https://open.spotify.com/album/22gub81LW7QBIJIIK8J1gg"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227490,
+      "name": "Mazzaleen",
+      "url": "https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr"
+    },
+    {
+      "album": {
         "name": "MF Doom",
         "url": "https://open.spotify.com/album/2Dlga9Y59plTDeR7KjcOqa"
       },
@@ -2916,7 +2956,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 140800,
       "name": "Survival",
       "url": "https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij"
@@ -2964,6 +3004,24 @@
       "duration_ms": 122720,
       "name": "Ten (feat. Skepta)",
       "url": "https://open.spotify.com/track/2Zej1ZTJJNDcRj8e8iWUUo"
+    },
+    {
+      "album": {
+        "name": "8oh8",
+        "url": "https://open.spotify.com/album/4RjgLwy81UcGeVlj4MQR1R"
+      },
+      "artists": [
+        {
+          "name": "Ohmien",
+          "url": "https://open.spotify.com/artist/3tlq4OIIUWp6VbyYhdWmX1"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72180,
+      "name": "this isn\u2019t a sohng its a statement",
+      "url": "https://open.spotify.com/track/3n9pykmorDYCDYYpd3YVs1"
     },
     {
       "album": {
@@ -3052,7 +3110,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 186666,
       "name": "Too Bait - Music Inspired by the Original Series \"Bait\"",
       "url": "https://open.spotify.com/track/6e7eop8x4gRcuZAG3vBYc1"

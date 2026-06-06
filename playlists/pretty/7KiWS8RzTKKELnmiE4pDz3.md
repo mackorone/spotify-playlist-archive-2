@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 257 songs - 16 hr 13 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 258 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,5 +265,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 255 | [Up North Trip](https://open.spotify.com/track/7KQvT4YuzcmyogWg7Gq4Z5) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 4:58 |
 | 256 | [Sunshine](https://open.spotify.com/track/7JjIWXd0RopJ8wSMTIsfZr) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:55 |
 | 257 | [Sky Is Falling](https://open.spotify.com/track/5R41avlfLHAEAng87SRRbQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb) | [2nd Collection](https://open.spotify.com/album/4GWqqGqNbOwUoTiMxaBMgq) | 4:41 |
+| 258 | [I Did This To Myself](https://open.spotify.com/track/7fJM4XjW6m30iPxPxKeGpb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:30 |
 
-Snapshot ID: `AAAgWf3KdFF3vkoJX6LAYlD4FTZOXT6u`
+Snapshot ID: `AAAgWvxZbVnpXgqxREeHqhYPBJqQfNZF`

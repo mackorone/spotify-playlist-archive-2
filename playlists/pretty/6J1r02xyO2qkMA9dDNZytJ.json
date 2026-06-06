@@ -1,12 +1,12 @@
 {
   "description": "All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63334,
+  "num_followers": 63338,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAApLM/N4LeBpmJsscuF1G2CD2wEsPlP",
+  "snapshot_id": "AAApPZkjE0gHkz9hxcv7bzCx6rvxPLtv",
   "tracks": [
     {
       "added_at": "2026-05-15 09:59:54",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/7DVBNud2HvZ4C4Mfcw3v8w"
     },
     {
+      "added_at": "2026-06-05 09:30:33",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/1qTtFA2aFZw36Xo1da7c0i"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Calvin Logue",
+          "url": "https://open.spotify.com/artist/6yMiYiZl198h7j4cZrp5lr"
+        }
+      ],
+      "duration_ms": 176883,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6zvTPelXF2N1h9Mf5nGE6H"
+    },
+    {
       "added_at": "2026-05-22 13:01:41",
       "album": {
         "name": "The Pipe",
@@ -51,6 +71,42 @@
       "duration_ms": 150476,
       "name": "The Pipe",
       "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
+    },
+    {
+      "added_at": "2026-06-05 09:31:00",
+      "album": {
+        "name": "I Rhyme Quick",
+        "url": "https://open.spotify.com/album/4AFJwTFtpywljMCSXcsAIw"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Nice & Smooth",
+          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
+        }
+      ],
+      "duration_ms": 184850,
+      "name": "I Rhyme Quick",
+      "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
+    },
+    {
+      "added_at": "2026-06-05 09:39:41",
+      "album": {
+        "name": "Spin Doctor EP",
+        "url": "https://open.spotify.com/album/0tkTMnObM70fh0nxegD75r"
+      },
+      "artists": [
+        {
+          "name": "Gaba",
+          "url": "https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I"
+        }
+      ],
+      "duration_ms": 180234,
+      "name": "Spin Doctor",
+      "url": "https://open.spotify.com/track/3T6wDXinzcU67UYY0E04lx"
     },
     {
       "added_at": "2026-05-22 13:05:20",
@@ -97,20 +153,36 @@
       "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
-      "added_at": "2026-05-29 11:10:58",
+      "added_at": "2026-06-05 07:57:11",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/2M1g78NcTlCslDoqyrz9qZ"
+        "name": "The Sound Of House",
+        "url": "https://open.spotify.com/album/1CXOFnkcU9jeDm9n6oU521"
       },
       "artists": [
         {
-          "name": "Alaia & Gallo",
-          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
         }
       ],
-      "duration_ms": 197583,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/6hyQYRBReZsg3rX7uBZLcg"
+      "duration_ms": 154486,
+      "name": "The Sound Of House",
+      "url": "https://open.spotify.com/track/2i8b2J8j4qTJ8tD3XU7MSU"
+    },
+    {
+      "added_at": "2026-06-05 07:57:26",
+      "album": {
+        "name": "Help Us!",
+        "url": "https://open.spotify.com/album/1Q6V5fLPeup1gvsld36aBt"
+      },
+      "artists": [
+        {
+          "name": "FeR BR",
+          "url": "https://open.spotify.com/artist/78fAtGKcAeu68c4mPLo9Q9"
+        }
+      ],
+      "duration_ms": 202041,
+      "name": "Help Us!",
+      "url": "https://open.spotify.com/track/6gyrQVfINZ373ueaj5ihjI"
     },
     {
       "added_at": "2026-05-22 13:09:14",
@@ -173,6 +245,22 @@
       "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
     },
     {
+      "added_at": "2026-05-29 11:10:58",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/2M1g78NcTlCslDoqyrz9qZ"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "duration_ms": 197583,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/6hyQYRBReZsg3rX7uBZLcg"
+    },
+    {
       "added_at": "2026-05-08 10:18:31",
       "album": {
         "name": "Satisfy",
@@ -191,26 +279,6 @@
       "duration_ms": 186500,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
-    },
-    {
-      "added_at": "2026-05-22 06:11:59",
-      "album": {
-        "name": "Midnight Rumours",
-        "url": "https://open.spotify.com/album/2jXhcBSJWNUl3rhjGaBP42"
-      },
-      "artists": [
-        {
-          "name": "Dario Nunez",
-          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
-        },
-        {
-          "name": "Bubba Brothers",
-          "url": "https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz"
-        }
-      ],
-      "duration_ms": 181236,
-      "name": "Midnight Rumours",
-      "url": "https://open.spotify.com/track/0Y24T2ERGosqi7N20d5XK1"
     },
     {
       "added_at": "2026-05-15 10:04:09",
@@ -271,6 +339,26 @@
       "duration_ms": 180923,
       "name": "Trumpet Man",
       "url": "https://open.spotify.com/track/4ywtYcNxDcCzk8KsM6Oynj"
+    },
+    {
+      "added_at": "2026-05-22 06:11:59",
+      "album": {
+        "name": "Midnight Rumours",
+        "url": "https://open.spotify.com/album/2jXhcBSJWNUl3rhjGaBP42"
+      },
+      "artists": [
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        },
+        {
+          "name": "Bubba Brothers",
+          "url": "https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz"
+        }
+      ],
+      "duration_ms": 181236,
+      "name": "Midnight Rumours",
+      "url": "https://open.spotify.com/track/0Y24T2ERGosqi7N20d5XK1"
     },
     {
       "added_at": "2026-05-08 10:19:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 701 likes - 79 songs - 4 hr 35 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 703 likes - 81 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 77 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
 | 78 | [Something to Believe](https://open.spotify.com/track/1J4rPfNgavY56kbLpK3mEh) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Something to Believe](https://open.spotify.com/album/05cZtARQmJgtUC1SQTHbXk) | 3:29 |
 | 79 | [Timbre!](https://open.spotify.com/track/2bqcz0raQxahQ5TBxNkiXz) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto IV](https://open.spotify.com/album/0kQoR8s2OY2an9hSbeFdzn) | 3:36 |
+| 80 | [Hate Is a Drug](https://open.spotify.com/track/7rjOW14JcKKC9L3ufr7iF6) | [Strange Demons](https://open.spotify.com/artist/1voQLX4eaaC2KEb0ACbSGT) | [Hate Is a Drug](https://open.spotify.com/album/551lQlzabSmzFQjC2edsAw) | 3:24 |
+| 81 | [Negana](https://open.spotify.com/track/119wfagYJPstMFSqvIevY9) | [Twin Dive](https://open.spotify.com/artist/3s33V653y1P9c44LHIQuJ5) | [Negana](https://open.spotify.com/album/79Psl3Dc59HB9UeYTQd96a) | 5:56 |
 
-Snapshot ID: `AAADkhoVOihISb84sEeR0SqKszS01khT`
+Snapshot ID: `AAADlBQ4QN7sYbD5k+Q5PbH0ykUN0Qyb`

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G",
-  "num_followers": 52314,
+  "num_followers": 52305,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAU1q9pyHhOpDVTXW4JfJIdgeQ1v+Sk",
+  "snapshot_id": "AAAU2UGBl5/ge9DGGKv14DRGCUzW3A0T",
   "tracks": [
     {
       "added_at": "2026-05-29 13:59:07",
@@ -459,6 +459,26 @@
       "duration_ms": 151333,
       "name": "Perspectiva",
       "url": "https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju"
+    },
+    {
+      "added_at": "2026-06-05 15:31:26",
+      "album": {
+        "name": "Reina",
+        "url": "https://open.spotify.com/album/2adEYmTEjW7rnxS2OzkfOg"
+      },
+      "artists": [
+        {
+          "name": "Beni",
+          "url": "https://open.spotify.com/artist/6FD0tGJvtELivSMMrRqmE9"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        }
+      ],
+      "duration_ms": 143270,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/0LO1RZvuBOminFrXbDT7us"
     },
     {
       "added_at": "2025-11-21 18:10:08",

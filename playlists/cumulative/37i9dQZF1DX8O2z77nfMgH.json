@@ -148823,7 +148823,7 @@
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161218,
+      "duration_ms": 161209,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/4OEK89KcQId3sVFJ1tbyMC"
     },
@@ -148932,6 +148932,28 @@
       "duration_ms": 258260,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/6Mw0YPOafTwbSDYBmLPkg5"
+    },
+    {
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4wTV6sA0zY7smkgF1NrjBf"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/6vksmHF8RtdZgH0ZWYIxmY"
     },
     {
       "album": {
@@ -178870,6 +178892,24 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "album": {
+        "name": "AGUACERO",
+        "url": "https://open.spotify.com/album/1Rroeh4FB6WEWoE5DgSl4z"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135510,
+      "name": "No Es Por Suerte",
+      "url": "https://open.spotify.com/track/5mQ3LPOt5L6Lvna23x6rpk"
     },
     {
       "album": {
@@ -246157,6 +246197,28 @@
     },
     {
       "album": {
+        "name": "Suena Bien",
+        "url": "https://open.spotify.com/album/5d7yjj4dieXqxzRWq508EN"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses Del Ritmo",
+          "url": "https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj"
+        },
+        {
+          "name": "Pac\u00edfico Master Beat",
+          "url": "https://open.spotify.com/artist/4OFN61jB7BX967SP5nWZjx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Suena Bien",
+      "url": "https://open.spotify.com/track/4WhpxnmeYoYTud6TY1M3w9"
+    },
+    {
+      "album": {
         "name": "Suena El Bajo",
         "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
       },
@@ -261250,24 +261312,6 @@
       "duration_ms": 187682,
       "name": "Track 001",
       "url": "https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck"
-    },
-    {
-      "album": {
-        "name": "Suena Bien",
-        "url": "https://open.spotify.com/album/5d7yjj4dieXqxzRWq508EN"
-      },
-      "artists": [
-        {
-          "name": "Los Dioses Del Ritmo",
-          "url": "https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj"
-        }
-      ],
-      "date_added": "2026-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4WhpxnmeYoYTud6TY1M3w9"
     },
     {
       "album": {

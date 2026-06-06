@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 576,808 likes - 79 songs - 5 hr 38 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 576,993 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 60 | [夏めくころに](https://open.spotify.com/track/2cSDgoTjrVRCXlnIkWboau) | [ミノリ](https://open.spotify.com/artist/4T5UkOb45266sRPn2nY3Gy) | [夏めくころに](https://open.spotify.com/album/2vvHSHW5bekEOjxx8azX6s) | 4:04 |
 | 61 | [Mario Style](https://open.spotify.com/track/4UkESAPf2wicV63gp9uUYF) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x) | [Retro Game \(Music for Streaming Soundtrack\)](https://open.spotify.com/album/6yyHMxUrMQiip5i2rtuYgp) | 2:58 |
 | 62 | [The Great Escape](https://open.spotify.com/track/072RXqSJjwD32MQThcUeAn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 3:35 |
-| 63 | [Kyoto Rain Study Music, Moments of Calm, 60 Minutes of 3D Focus & Sleep](https://open.spotify.com/track/6lovZPDzdoT8p7InLQUAYa) | [Gentle Hours Passage](https://open.spotify.com/artist/2NGhwPsxmsgx9ZjpsHzyMV) | [Kyoto Rain Study Music, Moments of Calm, 60 Minutes of 3D Focus & Sleep](https://open.spotify.com/album/6zMD8qDXBM81LrD0gr7Uy7) | 1:00:00 |
+| 63 | [Kyoto Retreat, 60 Minute 3D Focus Mix](https://open.spotify.com/track/6lovZPDzdoT8p7InLQUAYa) | [Gentle Hours Passage](https://open.spotify.com/artist/2NGhwPsxmsgx9ZjpsHzyMV) | [Kyoto Retreat, 60 Minute 3D Focus Mix](https://open.spotify.com/album/6zMD8qDXBM81LrD0gr7Uy7) | 1:00:00 |
 | 64 | [Back Street Baddies](https://open.spotify.com/track/5PLOyAlD4FfH75qpVS8PPd) | [Bonsai Beats](https://open.spotify.com/artist/07kGD40QxF48bslkkXllSg) | [Neon Seoul](https://open.spotify.com/album/1JFGcqER2YSGd2kRGVjFMv) | 3:06 |
 | 65 | [Around this Whole Wide World](https://open.spotify.com/track/5jNb3C0l0kQhXljMuLvjTk) | [Mick Inman](https://open.spotify.com/artist/3ZHL6RI8CwdWDBibotEtav) | [Big Band Swing](https://open.spotify.com/album/0KXvNze4oVvl9nXLBFycHA) | 2:33 |
 | 66 | [La Condena del Plato](https://open.spotify.com/track/6jLhz86jG8g9UoCpKdtJqP) | [Samira Heredia](https://open.spotify.com/artist/3ShzMckDXoNoRrqCkV0X8T) | [La Condena del Plato](https://open.spotify.com/album/5SlHcrexonLdkFSKTEIp42) | 4:04 |

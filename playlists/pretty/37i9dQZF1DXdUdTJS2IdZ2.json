@@ -1,12 +1,12 @@
 {
   "description": "Rising stars and new releases from sunny Singapore. Cover: Regina Song",
-  "num_followers": 4231,
+  "num_followers": 4232,
   "original_name": "Rising 65",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6Q7D3CV2yVKHsPC9PB4bTNUQiE",
+  "snapshot_id": "AAAAAHBifQXCEEKs18JH/8vIbRutlOux",
   "tracks": [
     {
       "added_at": "2026-06-04 16:00:48",
@@ -75,6 +75,22 @@
       "duration_ms": 233956,
       "name": "Just When I Thought - Kin Leonn Remix",
       "url": "https://open.spotify.com/track/6gurX4PVdUsovT9j2Lbot8"
+    },
+    {
+      "added_at": "2026-06-05 09:23:55",
+      "album": {
+        "name": "\u5851\u6599\u888b",
+        "url": "https://open.spotify.com/album/26H14nLxKEMkh6CicJsRpU"
+      },
+      "artists": [
+        {
+          "name": "Homeless Scholars",
+          "url": "https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "\u5851\u6599\u888b",
+      "url": "https://open.spotify.com/track/43cvPb1VCbkxhEf6UbmTY0"
     },
     {
       "added_at": "2026-06-04 16:00:48",

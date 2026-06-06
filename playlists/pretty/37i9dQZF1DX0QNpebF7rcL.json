@@ -1,13 +1,45 @@
 {
-  "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 152087,
+  "description": "The best in blues right now. Cover: Ruthie Foster",
+  "num_followers": 152194,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEil6jbkzH418K5QPMsuKl48YZTb",
+  "snapshot_id": "AAAAAA5ck29OAuasj1iFidBtUHD8hJxZ",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:30",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3Hi8G5HrOGDVq61tct7zld"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 199969,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3OsPdwc8t0ReCQjGFarwvZ"
+    },
+    {
+      "added_at": "2026-06-05 04:00:30",
+      "album": {
+        "name": "Young Rell",
+        "url": "https://open.spotify.com/album/1x6GiXpqZfJHmekqhq0Dh4"
+      },
+      "artists": [
+        {
+          "name": "Harrell \"Young Rell\" Davenport",
+          "url": "https://open.spotify.com/artist/6iB5eOcGNGZoSMwTUjsEPf"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "I Be Tryin'",
+      "url": "https://open.spotify.com/track/2XsMW66v1iNZ05TcL3z3yz"
+    },
     {
       "added_at": "2026-05-29 04:00:36",
       "album": {
@@ -1649,22 +1681,6 @@
       "url": "https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "99 And 1/2 Won't Do",
@@ -1811,22 +1827,6 @@
       "duration_ms": 122266,
       "name": "A Flat City",
       "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Bayport BBQ Blues",
-        "url": "https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "River Picker",
-      "url": "https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S"
     }
   ],
   "unique_name": "Got Blues",

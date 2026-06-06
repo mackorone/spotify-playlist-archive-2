@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Victor Xamã, WillsBife
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,625 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,646 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 43 | [Cabana Terminal](https://open.spotify.com/track/46RASVE1jZ3bTavDxvnudx) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:46 |
 | 44 | [BOLA DE MEIA.](https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [BOLA DE MEIA.](https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON) | 3:33 |
 | 45 | [MUITO BRABO](https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [MUITO BRABO](https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6) | 3:39 |
-| 46 | [Cerol](https://open.spotify.com/track/63OYyLG4QD5mMPSDog7Ih2) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [VG](https://open.spotify.com/artist/5BFaLkuHLDGggRVRf0O67P), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Cerol](https://open.spotify.com/album/1AdBC5otMPuw0WEo0Gjjl6) | 3:29 |
+| 46 | [Cerol](https://open.spotify.com/track/63OYyLG4QD5mMPSDog7Ih2) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [013VG](https://open.spotify.com/artist/38Bh2cWsM0sBYg6EG5gmwc), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Cerol](https://open.spotify.com/album/1AdBC5otMPuw0WEo0Gjjl6) | 3:29 |
 | 47 | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/album/5ao8iMY0a0hONNq1EQwkSk) | 2:33 |
 | 48 | [Música pra Mc's](https://open.spotify.com/track/7MNddRTvDuICSbFXn77BSU) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 1:48 |
 | 49 | [MARATONA](https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MARATONA](https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs) | 3:22 |

@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Nanpa Básico
 
-277 songs - 14 hr 30 min
+278 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 | 2023-03-31 | 2024-02-17 |
 | [Quizás \- Remix](https://open.spotify.com/track/42549yqr1MFmRCXSPpNrXn) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Quizás \(Remix\)](https://open.spotify.com/album/1VKVdWADMgG4Lkj39E98Lr) | 3:35 | 2023-03-31 | 2023-12-09 |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2023-03-31 | 2024-06-29 |
-| [Química](https://open.spotify.com/track/64AcZ6He7dLuLGNfLDmduq) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Química](https://open.spotify.com/album/5o4QDhFf8ZMTdOJZTaSsfP) | 3:03 | 2026-02-13 |  |
+| [Química](https://open.spotify.com/track/64AcZ6He7dLuLGNfLDmduq) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Química](https://open.spotify.com/album/5o4QDhFf8ZMTdOJZTaSsfP) | 3:03 | 2026-02-13 | 2026-06-06 |
 | [Rayitos](https://open.spotify.com/track/3awJNyuaTL9mqkcjnIxZnM) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Rayitos](https://open.spotify.com/album/4afObT9dMGn4gUHJIhmbKj) | 2:26 | 2025-11-21 |  |
 | [REINA VALERA](https://open.spotify.com/track/2wgFR7Vo9aOkr1fCaLPUTl) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [REINA VALERA](https://open.spotify.com/album/7DoyvirnlARTZGdu4OLcXh) | 3:56 | 2025-06-27 | 2026-02-07 |
 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 | 2024-03-29 | 2024-07-27 |
@@ -235,6 +235,7 @@
 | [Sigo Extrañándote](https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 | 2024-08-05 |  |
 | [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 | 2025-03-21 |  |
 | [Sola En Mi Cuarto](https://open.spotify.com/track/1YBfRGZfJKVZnau5zWgGCt) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Deal, No Drama](https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz) | 2:37 | 2023-12-15 | 2024-06-15 |
+| [Sorry](https://open.spotify.com/track/6d3A6KaxxEyZOTMaEi7CqP) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Sorry](https://open.spotify.com/album/2DeqzcEIKAQ3LsQ4dGmjcG) | 3:04 | 2026-06-05 |  |
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-14 |  |
 | [Soulmate](https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4) | [Soulmate](https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU) | 3:19 | 2023-12-22 | 2024-02-10 |
 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 | 2024-11-22 | 2025-03-22 |

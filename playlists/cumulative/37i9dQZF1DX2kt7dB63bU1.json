@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "Bewitched, Bothered, And Bewildered",
+      "url": "https://open.spotify.com/track/2iRUGwPlxvbHA96jYN3mEv"
+    },
+    {
+      "album": {
         "name": "Beyond the Sea",
         "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
       },
@@ -7672,7 +7694,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 190026,
       "name": "If I Only Had A Brain",
       "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
@@ -9278,6 +9300,32 @@
       "duration_ms": 307229,
       "name": "Left Alone",
       "url": "https://open.spotify.com/track/4l9mGZ2grEUj4EPsONVKml"
+    },
+    {
+      "album": {
+        "name": "Left Over",
+        "url": "https://open.spotify.com/album/1gRIs9MiNmy2g0v9HdiXnv"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303961,
+      "name": "Left Over",
+      "url": "https://open.spotify.com/track/6OxcEYDt6HzO6gNHTnIAUK"
     },
     {
       "album": {
@@ -15102,7 +15150,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214925,
       "name": "Take this stone (feat. June McDoom & Kate Davis)",
       "url": "https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1"

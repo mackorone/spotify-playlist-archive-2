@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,287 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,282 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 45 | [Don't Worry](https://open.spotify.com/track/5eGMGG2B3c7TTDwpinXRNv) | [NIEK](https://open.spotify.com/artist/2xsUSoWl0cKfLnWuncskZY) | [Don't Worry](https://open.spotify.com/album/1lQA1bz1NctMXq6bNL9JwK) | 3:50 |
 | 46 | [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 |
 | 47 | [Spring \(But With The Snow\)](https://open.spotify.com/track/6zW0xZCyPE1sYCi7flJmHM) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Tender Superpower](https://open.spotify.com/album/2dmEJeZTuo5H5TfD3eBGTM) | 4:08 |
-| 48 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 |
+| 48 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:39 |
 | 49 | [Would You Have Stayed](https://open.spotify.com/track/3WWkQd8489tMB7f2jK77sf) | [Joanne Bird](https://open.spotify.com/artist/046f6THMcnTnUdUFzn3tUD) | [Unusual Fairytales](https://open.spotify.com/album/6svDWlTUWHOiz6EJ4ZqNQS) | 3:42 |
 | 50 | [Long Blue Light](https://open.spotify.com/track/0f3ad9J70tKjoehsC0Dbl0) | [SJ Hoffman](https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m) | [Long Blue Light](https://open.spotify.com/album/42zZDUf8aA3p7SXgayzLVO) | 3:37 |
 | 51 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |

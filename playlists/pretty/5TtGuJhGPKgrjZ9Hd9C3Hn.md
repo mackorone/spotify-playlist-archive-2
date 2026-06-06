@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,916 likes - 120 songs - 12 hr 33 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,913 likes - 120 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 4 | [Dear Old Stockholm](https://open.spotify.com/track/7koPNOlqaE7IdVGONBqayv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 1](https://open.spotify.com/album/4z4ZBpXhnvBoWFBnkHWpeo) | 4:10 |
 | 5 | [Summertime](https://open.spotify.com/track/5X52dj4XxNkwv6XXLjCuat) | [Sidney Bechet Quintet](https://open.spotify.com/artist/4fsIXnO5LtxHQEKFzRcYFG) | [Summertime](https://open.spotify.com/album/35RRHXba4wlxt5zEDIz1nm) | 4:11 |
 | 6 | ['Round Midnight](https://open.spotify.com/track/132laFkfrF8gqV0QiZp8hS) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music Volume One](https://open.spotify.com/album/3dw9k0UHKn25TfksiJuNGE) | 3:09 |
-| 7 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 |
+| 7 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 |
 | 8 | [Boogie Woogie Stomp](https://open.spotify.com/track/0cr9XDVJm4rw9FRDrD3tUi) | [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [Melancholy: Boogie Woogie & Piano Classics](https://open.spotify.com/album/6SsP1pzfufeNNpWoqjQhlC) | 3:40 |
 | 9 | [Senor Blues \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/1xobOM810o8ZwPrhYnN3OY) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver \(Remastered 1998/Rudy Van Gelder Edition\)](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 7:01 |
 | 10 | [Un Poco Loco \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:46 |

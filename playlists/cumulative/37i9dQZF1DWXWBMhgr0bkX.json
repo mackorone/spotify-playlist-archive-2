@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Emerging pop for every mood\ud83e\udee1 \ncover: Skye Newman",
+  "description": "Emerging pop for every mood\ud83e\udee1 \ncover: Holly Humberstone",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "The Veil Has Spoken",
+        "url": "https://open.spotify.com/album/6a7FVJG6wFnYINUP2uxt6f"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259233,
+      "name": "An Unfinished Love Song",
+      "url": "https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7"
+    },
+    {
+      "album": {
         "name": "And I Spiral",
         "url": "https://open.spotify.com/album/6uFX3cD3ja5L5J5V49qZ9s"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 222705,
       "name": "Aquarius Moon",
       "url": "https://open.spotify.com/track/3KHzRyveTX6EnOVCVXQtXz"
@@ -3503,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "CANDYLAND!",
+        "url": "https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "CANDYLAND!",
+      "url": "https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh"
+    },
+    {
+      "album": {
         "name": "Dolly Zoom",
         "url": "https://open.spotify.com/album/252UgdVnTPfKwiAKq5KLlx"
       },
@@ -5554,7 +5590,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 182395,
       "name": "DON'T ASK!",
       "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
@@ -9524,7 +9560,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 184026,
       "name": "How Did We Get To Midnight",
       "url": "https://open.spotify.com/track/3HuCtXA54vhYljE0SZ2Asa"
@@ -9830,7 +9866,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 139784,
       "name": "I Expect Better",
       "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
@@ -10410,7 +10446,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 179135,
       "name": "If I'm Alive",
       "url": "https://open.spotify.com/track/70V6imdMF0WHfDalSijx5w"
@@ -10468,6 +10504,28 @@
       "duration_ms": 177814,
       "name": "If You Don't Love Me",
       "url": "https://open.spotify.com/track/4bHqv1Jx79ANeHpvLV2HMf"
+    },
+    {
+      "album": {
+        "name": "if you were gone",
+        "url": "https://open.spotify.com/album/2CoYSM7kuuPTGp2SWDJ84G"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        },
+        {
+          "name": "Bob Grace",
+          "url": "https://open.spotify.com/artist/3481Q8KyNiBrhQlgiExdBg"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "if you were gone",
+      "url": "https://open.spotify.com/track/61UCIZUQLOaEXQejozebJW"
     },
     {
       "album": {
@@ -10957,6 +11015,24 @@
     },
     {
       "album": {
+        "name": "it\u2019s a real Cruel World",
+        "url": "https://open.spotify.com/album/1my50kfCWILSC6UKkEgn9q"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "it\u2019s just White Noise",
+      "url": "https://open.spotify.com/track/674Tdou1Aryr6ZUwIidbl0"
+    },
+    {
+      "album": {
         "name": "Chapters of a Heartbreak",
         "url": "https://open.spotify.com/album/5TF2ExXPrP61anpZRI0s8g"
       },
@@ -11098,6 +11174,24 @@
       "duration_ms": 284548,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3"
+    },
+    {
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/1Td8OiIRTXmB2dKkkKc7Gh"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/5HS0f6uaL4CZnOiOF4DMAL"
     },
     {
       "album": {
@@ -11768,6 +11862,24 @@
       "duration_ms": 193384,
       "name": "lew manifest",
       "url": "https://open.spotify.com/track/0CdirDwBhXNisSHgErKdme"
+    },
+    {
+      "album": {
+        "name": "Lie For Me",
+        "url": "https://open.spotify.com/album/5Yo7P1CpzmirErxjwlgMZy"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "Lie For Me",
+      "url": "https://open.spotify.com/track/3lJVDrWol8LRRCiX1kIK6h"
     },
     {
       "album": {
@@ -12920,7 +13032,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 195028,
       "name": "Meet On The Moon",
       "url": "https://open.spotify.com/track/1L3tJLkMNqmneU2wZNCwZ9"
@@ -13418,6 +13530,24 @@
       "duration_ms": 219692,
       "name": "MOVE MY BODY",
       "url": "https://open.spotify.com/track/1rneX5JnSBfJdoKlw2wN9C"
+    },
+    {
+      "album": {
+        "name": "the train where the time slows (deluxe)",
+        "url": "https://open.spotify.com/album/7By4XMbKKHqDfqDeYpdnzQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200021,
+      "name": "move, honey",
+      "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
     },
     {
       "album": {
@@ -14925,6 +15055,24 @@
     },
     {
       "album": {
+        "name": "Peculiar",
+        "url": "https://open.spotify.com/album/3qx5IAqCDxDaV0KDO45MY0"
+      },
+      "artists": [
+        {
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Peculiar",
+      "url": "https://open.spotify.com/track/0c62OX7JiVO4OlBE6FctI7"
+    },
+    {
+      "album": {
         "name": "People, Places and Things",
         "url": "https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp"
       },
@@ -16356,7 +16504,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 197333,
       "name": "Rosey",
       "url": "https://open.spotify.com/track/2iSSIqqolRbcT6VctUKo59"
@@ -19256,7 +19404,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 193437,
       "name": "Thankyou So Very Much",
       "url": "https://open.spotify.com/track/5xUDyyc1aRzn7rIVZGdJhv"
@@ -19436,7 +19584,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 289650,
       "name": "The Great Plains",
       "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
@@ -19699,6 +19847,24 @@
     },
     {
       "album": {
+        "name": "The Times",
+        "url": "https://open.spotify.com/album/0lwFKTXrGhFyGZN9EAtsRl"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "The Times",
+      "url": "https://open.spotify.com/track/6p8hnNWHjlR9zzFk0Qid6s"
+    },
+    {
+      "album": {
         "name": "The Veil Has Spoken",
         "url": "https://open.spotify.com/album/1pqPeNCujl1SXnwqvNkPww"
       },
@@ -19710,7 +19876,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 226336,
       "name": "The Veil Has Spoken",
       "url": "https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU"
@@ -21026,6 +21192,24 @@
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+    },
+    {
+      "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/6HflvcsTk8MGHctD3OwGdW"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149803,
+      "name": "White",
+      "url": "https://open.spotify.com/track/1kVBKVPXEJKNgnfvO52BKb"
     },
     {
       "album": {

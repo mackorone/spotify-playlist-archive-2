@@ -4043,6 +4043,28 @@
     },
     {
       "album": {
+        "name": "CRANK",
+        "url": "https://open.spotify.com/album/13iQ2RXrjz2SYJllvt1o8c"
+      },
+      "artists": [
+        {
+          "name": "Lektrique",
+          "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+        },
+        {
+          "name": "Epoch",
+          "url": "https://open.spotify.com/artist/0kAPihRCLbsqXsgKyPY4mv"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "CRANK",
+      "url": "https://open.spotify.com/track/5gdV6bH43J2RF690VUcrup"
+    },
+    {
+      "album": {
         "name": "Crave The Bassline",
         "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
       },
@@ -8682,6 +8704,28 @@
       "duration_ms": 184750,
       "name": "Hold Up - Nostalgix Remix",
       "url": "https://open.spotify.com/track/3SqmH3POoyQvsZlbN8w7Zl"
+    },
+    {
+      "album": {
+        "name": "Holla At A Player",
+        "url": "https://open.spotify.com/album/0vkWTYvO462GLTorgY7J6q"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Holla At A Player",
+      "url": "https://open.spotify.com/track/1KyEK4m4MPdnty3r3kmCfr"
     },
     {
       "album": {
@@ -20940,6 +20984,28 @@
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
+    },
+    {
+      "album": {
+        "name": "Watch Where You Walk (Sidewalk Talk)",
+        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Watch Where You Walk (Sidewalk Talk)",
+      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
     },
     {
       "album": {

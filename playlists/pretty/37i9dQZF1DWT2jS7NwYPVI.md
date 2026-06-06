@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,821 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,955 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Tell Me](https://open.spotify.com/track/0U21dctnJgbIk5XyRPGxPH) | [Modern Cult](https://open.spotify.com/artist/50pL5o4gSp21B1hbAmwyRY) | [Tell Me](https://open.spotify.com/album/4HmFr2hstS7jpS3RhCPEiO) | 4:11 |
 | 125 | [Obsessed](https://open.spotify.com/track/2j8XhBpDYCK7R8lyWjq3bK) | [Blu!](https://open.spotify.com/artist/1h1ibSD4qKUTkVcI7eoOPu) | [Obsessed](https://open.spotify.com/album/2VsGYV9GKnVc8cjM4ENTh5) | 2:27 |
 
-Snapshot ID: `AAAAAPY+CJCz0qNlEvCCPuN7QsuaW72v`
+Snapshot ID: `AAAAAJPmR3HEK+pU2RBqrEn20UQGWwmZ`

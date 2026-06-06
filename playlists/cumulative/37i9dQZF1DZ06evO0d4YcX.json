@@ -863,6 +863,32 @@
     },
     {
       "album": {
+        "name": "Big Wave More Fire",
+        "url": "https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3"
+      },
+      "artists": [
+        {
+          "name": "DJDS",
+          "url": "https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Marco McKinnis",
+          "url": "https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226537,
+      "name": "Trees On Fire (ft. Amber Mark and Marco McKinnis)",
+      "url": "https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe"
+    },
+    {
+      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },

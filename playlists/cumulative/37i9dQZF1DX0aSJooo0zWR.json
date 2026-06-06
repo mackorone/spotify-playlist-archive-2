@@ -813,6 +813,32 @@
     },
     {
       "album": {
+        "name": "Protocol 6",
+        "url": "https://open.spotify.com/album/4PhTGmr0tfgaIOaNp3jobH"
+      },
+      "artists": [
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        },
+        {
+          "name": "Alex Sill",
+          "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371349,
+      "name": "Code 4 Kryptos",
+      "url": "https://open.spotify.com/track/6w1hwaeAntChTW6qwpPRXW"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/1jZLSW3sm0wWumdXgHtLMG"
       },
@@ -1678,7 +1704,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 467114,
       "name": "Intrepid Traveller",
       "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"

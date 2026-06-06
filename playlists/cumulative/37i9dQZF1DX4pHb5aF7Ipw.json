@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Hip-Hop Tracks by Nirvair Pannu, Amrit Maan & more!",
+  "description": "Fresh Punjabi Hip-Hop Tracks by GAGG E, D Freek & more!",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -10735,6 +10735,28 @@
     },
     {
       "album": {
+        "name": "Hellhound",
+        "url": "https://open.spotify.com/album/3Z8T1fbw3UylZ8FntivQyW"
+      },
+      "artists": [
+        {
+          "name": "GAGG E",
+          "url": "https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R"
+        },
+        {
+          "name": "Dictator",
+          "url": "https://open.spotify.com/artist/6VXunyqKuBgrhFVsVouKLR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133638,
+      "name": "Hellhound",
+      "url": "https://open.spotify.com/track/6pSGqeDCujI6alojTZsmqa"
+    },
+    {
+      "album": {
         "name": "PRAA",
         "url": "https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis"
       },
@@ -12270,6 +12292,28 @@
       "duration_ms": 186818,
       "name": "IT'S HARD",
       "url": "https://open.spotify.com/track/6N36CAotAK2yNvYr0U9SQV"
+    },
+    {
+      "album": {
+        "name": "ITBAAR",
+        "url": "https://open.spotify.com/album/2OKua1egl5Yb4ugRl5nTpn"
+      },
+      "artists": [
+        {
+          "name": "D Freek",
+          "url": "https://open.spotify.com/artist/5b5nrb6Ts538UgBHpkU2lm"
+        },
+        {
+          "name": "PNM",
+          "url": "https://open.spotify.com/artist/1Kephmmdzn9A1498IX9u0E"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "ITBAAR",
+      "url": "https://open.spotify.com/track/6E6OnSrXLAmLEPMZt59pgb"
     },
     {
       "album": {
@@ -20798,7 +20842,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 150697,
       "name": "Same",
       "url": "https://open.spotify.com/track/5Fn6awgTbYBwMq2fqfKejl"
@@ -22810,7 +22854,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 146874,
       "name": "Superman",
       "url": "https://open.spotify.com/track/7E2bMEGuCqfSjaDd7c2MLR"

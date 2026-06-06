@@ -1,13 +1,29 @@
 {
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Sienna Spiro",
-  "num_followers": 500414,
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Niall Horan",
+  "num_followers": 500480,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSyoxHW4w4OzCGKgN7etzy4/l4h",
+  "snapshot_id": "AAAAAIim031+nqbqZq/LYNm+uyNiwTmu",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:01:26",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
+    },
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
@@ -379,22 +395,6 @@
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/7Hst7K3DBhfogOf7SFlK9d"
-    },
-    {
-      "added_at": "2025-03-07 05:00:28",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
       "added_at": "2026-04-17 16:00:24",

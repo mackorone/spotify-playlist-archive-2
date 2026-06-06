@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 111769,
+  "num_followers": 111795,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Superflu",
-        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
-      },
-      "artists": [
-        {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lucie",
-      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 211613,
       "name": "Belle-\u00cele-en-Mer, Marie-Galante",
       "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "Quand tu danses",
-      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Barbara - N\u00b02",
         "url": "https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 161786,
       "name": "G\u00f6ttingen",
       "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 265226,
+      "name": "Quand tu danses",
+      "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "On fait comme si",
-        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 251625,
-      "name": "On fait comme si",
-      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Erza Muqoli",
         "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 287037,
       "name": "Dommage",
       "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "On fait comme si",
+        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 251625,
+      "name": "On fait comme si",
+      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "Histoires vraies",
+        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Histoire vraie",
+      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "Histoires vraies",
-        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
-      },
-      "artists": [
-        {
-          "name": "chien noir",
-          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Histoire vraie",
-      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
     },
     {
       "added_at": "2026-01-21 14:43:12",

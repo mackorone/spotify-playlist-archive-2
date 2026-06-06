@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt x southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,425 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,555 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 37 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 |
 | 38 | [Work Your P…](https://open.spotify.com/track/5c7V6JuYZZsJpzemPI5FX8) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [Work Your P…](https://open.spotify.com/album/2cK9WBBNmKXdoxmq4t9Ktz) | 2:36 |
 | 39 | [Backrooms](https://open.spotify.com/track/3hP6CL5VuAqoAMldPjhOox) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Backrooms EP](https://open.spotify.com/album/55yFH03x3s0SnfEgtfTPXj) | 2:11 |
-| 40 | [wobistduhin? \- CLUBMIX](https://open.spotify.com/track/7i1oTn5SmBKbCyRmiBBarH) | [Kalte Liebe](https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe) | [wobistduhin? \(CLUBMIX\)](https://open.spotify.com/album/2nTre2s41J0aSlBkRInwdQ) | 3:12 |
+| 40 | [wobistduhin?](https://open.spotify.com/track/7i1oTn5SmBKbCyRmiBBarH) | [Kalte Liebe](https://open.spotify.com/artist/4V8AR3bBMhrLaWirYLKBEe) | [wobistduhin?](https://open.spotify.com/album/2nTre2s41J0aSlBkRInwdQ) | 3:12 |
 | 41 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 |
 | 42 | [Dynamite](https://open.spotify.com/track/7HLdCUkgj0nFznusT2xwfW) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dynamite](https://open.spotify.com/album/5xuuoIDmF4BnSoEMsxDyTu) | 2:57 |
 | 43 | [Désenchantée 3000](https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée 3000](https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ) | 3:04 |

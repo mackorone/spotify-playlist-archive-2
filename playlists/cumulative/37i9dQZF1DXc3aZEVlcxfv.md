@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-624 songs - 1 day 17 hr 59 min
+625 songs - 1 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-02-20 |
 | [Citizen](https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Citizen](https://open.spotify.com/album/2jPZbmDIJ7TCb3DMh0Fywl) | 4:59 | 2026-03-27 |  |
 | [Close to your heart](https://open.spotify.com/track/39FHha4rtCHneBKKPXTWW2) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Close to your heart](https://open.spotify.com/album/105k38qJ7nB810q8kvsBRy) | 2:33 | 2024-10-11 | 2025-02-07 |
-| [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 |  |
+| [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 | 2026-06-06 |
 | [Come & See](https://open.spotify.com/track/2A5oGxrKWwNcEoAJcnUX4d) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Come & See](https://open.spotify.com/album/3oMJySAfI9s3ZdbRnueFpa) | 3:09 | 2025-09-19 | 2026-02-27 |
 | [Come & See](https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Come & See](https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw) | 3:15 | 2025-01-31 | 2025-04-11 |
 | [Comforted](https://open.spotify.com/track/7hCfPfBRupU5PtBqbX4oYg) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt), [Barnie Michael](https://open.spotify.com/artist/0wm9JYbUUaNlGRYyHpDdDq) | [Comforted](https://open.spotify.com/album/4sYSL6DGR18zJSPUimDJ0o) | 2:54 | 2026-02-13 | 2026-02-27 |
@@ -567,6 +567,7 @@
 | [Undone](https://open.spotify.com/track/5p05uvN1kjMHcwpEieA1J5) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Undone](https://open.spotify.com/album/4FX2oBMWsTmIYAmPt0s5Ez) | 2:13 | 2025-10-17 | 2025-11-28 |
 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 | 2025-01-31 | 2025-08-29 |
 | [Upendo Overdose](https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH \(Vessels of Honor\)](https://open.spotify.com/artist/0a6TsVybI3RugXIGhPVX6w) | [Upendo Overdose](https://open.spotify.com/album/6rZsHOJvZAcQKyHxDO7ywy) | 3:38 | 2025-12-05 |  |
+| [Uweno](https://open.spotify.com/track/0JQv2uBIZBmZ55nYFcoqC1) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Uweno](https://open.spotify.com/album/6Wj8krPXKaSpxINm7TE2Sd) | 2:53 | 2026-05-15 |  |
 | [UZWAZO ME](https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [UZWAZO ME](https://open.spotify.com/album/4mEDVhMAcz8SqSGi2YxOfJ) | 4:27 | 2026-02-27 | 2026-04-30 |
 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2024-09-27 | 2025-11-28 |
 | [Victory Is My Name \- Live](https://open.spotify.com/track/1wOvQguNVaN69UO3ftvopO) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Victory Sounds \(Live\)](https://open.spotify.com/album/2Oy6IEUCepPjnfW8IUBSRp) | 7:24 | 2025-06-06 | 2025-11-28 |

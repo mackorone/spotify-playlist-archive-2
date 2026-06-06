@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285640,
+  "num_followers": 285635,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 315309,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The DeLorean Sisters",
-        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
-      },
-      "artists": [
-        {
-          "name": "The DeLorean Sisters",
-          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
-        }
-      ],
-      "duration_ms": 209895,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Closer You Get",
         "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 345058,
       "name": "Closer You Get",
       "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The DeLorean Sisters",
+        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
+      },
+      "artists": [
+        {
+          "name": "The DeLorean Sisters",
+          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
+        }
+      ],
+      "duration_ms": 209895,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "All Will Be Well",
         "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 223005,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1419,6 +1419,34 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Elderly Woman Behind the Counter in a Small Town",
+        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
+      },
+      "artists": [
+        {
+          "name": "Drunken Hearts",
+          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Silas Herman",
+          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
+        }
+      ],
+      "duration_ms": 221913,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
+      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1447,34 +1475,6 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Elderly Woman Behind the Counter in a Small Town",
-        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
-      },
-      "artists": [
-        {
-          "name": "Drunken Hearts",
-          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        },
-        {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        },
-        {
-          "name": "Silas Herman",
-          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
-        }
-      ],
-      "duration_ms": 221913,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
-      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
     },
     {
       "added_at": "2026-02-04 05:00:53",

@@ -1,12 +1,12 @@
 {
   "description": "Heia Norge \ud83c\uddf3\ud83c\uddf4\u26bd\ufe0f\ud83c\udfdf\ufe0f",
-  "num_followers": 211084,
+  "num_followers": 211181,
   "original_name": "Alt for Norge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAET5URz0kpZmVpX3Sl/mHkbnKGu0",
+  "snapshot_id": "AAAAAJp/FBAwJE+I4OGBXewUcjT2ywP0",
   "tracks": [
     {
       "added_at": "2026-06-01 08:11:39",
@@ -23,22 +23,6 @@
       "duration_ms": 174134,
       "name": "Ol\u00e9, Ol\u00e9, Ol\u00e9 (Det G\u00e5r Ned)",
       "url": "https://open.spotify.com/track/4VY17vIWTYqCGxRqGSUW99"
-    },
-    {
-      "added_at": "2026-06-01 08:11:39",
-      "album": {
-        "name": "Henda mot himmelen",
-        "url": "https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O"
-      },
-      "artists": [
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
-        }
-      ],
-      "duration_ms": 205048,
-      "name": "Henda mot himmelen",
-      "url": "https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK"
     },
     {
       "added_at": "2026-06-01 08:11:39",
@@ -73,6 +57,118 @@
       "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
     },
     {
+      "added_at": "2026-06-05 09:35:47",
+      "album": {
+        "name": "R\u00d8DT HVITT BL\u00c5TT",
+        "url": "https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 148923,
+      "name": "R\u00d8DT HVITT BL\u00c5TT",
+      "url": "https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm"
+    },
+    {
+      "added_at": "2026-06-01 08:11:39",
+      "album": {
+        "name": "Henda mot himmelen",
+        "url": "https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O"
+      },
+      "artists": [
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 205048,
+      "name": "Henda mot himmelen",
+      "url": "https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK"
+    },
+    {
+      "added_at": "2026-06-01 08:11:39",
+      "album": {
+        "name": "Ja, vi elsker",
+        "url": "https://open.spotify.com/album/3lk68Op8fiiIrdL1VLoHcp"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 74210,
+      "name": "Ja, vi elsker",
+      "url": "https://open.spotify.com/track/0HaPdi5GYozLWaF9RWOnC2"
+    },
+    {
+      "added_at": "2026-06-01 08:11:39",
+      "album": {
+        "name": "SAMMEN FOR NORGE",
+        "url": "https://open.spotify.com/album/0KJLqWTb8C9JQSLxHQr6Ub"
+      },
+      "artists": [
+        {
+          "name": "Nicolay Ramm",
+          "url": "https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue"
+        },
+        {
+          "name": "Markus Neby",
+          "url": "https://open.spotify.com/artist/7sv89W9sP0NujFoaPcurVZ"
+        },
+        {
+          "name": "Stjerner For Norge",
+          "url": "https://open.spotify.com/artist/2U9VW8fvgTHqi9SCmf9b0M"
+        }
+      ],
+      "duration_ms": 195425,
+      "name": "SAMMEN FOR NORGE",
+      "url": "https://open.spotify.com/track/4t0PYPeACGNWLJYniAqnVg"
+    },
+    {
+      "added_at": "2026-06-01 08:11:39",
+      "album": {
+        "name": "KJ\u00d8PE HELE SVERIGE",
+        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 117180,
+      "name": "KJ\u00d8PE HELE SVERIGE",
+      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
+    },
+    {
+      "added_at": "2026-06-01 08:11:39",
+      "album": {
+        "name": "Kongens Menn",
+        "url": "https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm"
+      },
+      "artists": [
+        {
+          "name": "Kongens Menn",
+          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
+        },
+        {
+          "name": "Birkelunden Mannskor",
+          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
+        }
+      ],
+      "duration_ms": 168378,
+      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+      "url": "https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P"
+    },
+    {
       "added_at": "2026-06-01 08:11:39",
       "album": {
         "name": "Nordmenn er g\u00e6rne",
@@ -91,22 +187,6 @@
       "duration_ms": 157277,
       "name": "Nordmenn er g\u00e6rne",
       "url": "https://open.spotify.com/track/3wsy0rOp60r18rSwkgDRGP"
-    },
-    {
-      "added_at": "2026-06-01 08:11:39",
-      "album": {
-        "name": "Ja, vi elsker",
-        "url": "https://open.spotify.com/album/3lk68Op8fiiIrdL1VLoHcp"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 74210,
-      "name": "Ja, vi elsker",
-      "url": "https://open.spotify.com/track/0HaPdi5GYozLWaF9RWOnC2"
     },
     {
       "added_at": "2026-06-01 08:11:39",
@@ -175,62 +255,22 @@
     {
       "added_at": "2026-06-01 08:11:39",
       "album": {
-        "name": "KJ\u00d8PE HELE SVERIGE",
-        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+        "name": "Alt for Norge / Vi heier p\u00e5 v\u00e5rt lille land",
+        "url": "https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7"
       },
       "artists": [
         {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 117180,
-      "name": "KJ\u00d8PE HELE SVERIGE",
-      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
-    },
-    {
-      "added_at": "2026-06-01 08:11:39",
-      "album": {
-        "name": "SAMMEN FOR NORGE",
-        "url": "https://open.spotify.com/album/0KJLqWTb8C9JQSLxHQr6Ub"
-      },
-      "artists": [
-        {
-          "name": "Nicolay Ramm",
-          "url": "https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue"
+          "name": "St\u00e5les menn",
+          "url": "https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX"
         },
         {
-          "name": "Markus Neby",
-          "url": "https://open.spotify.com/artist/7sv89W9sP0NujFoaPcurVZ"
-        },
-        {
-          "name": "Stjerner For Norge",
-          "url": "https://open.spotify.com/artist/2U9VW8fvgTHqi9SCmf9b0M"
+          "name": "Andreas Gjefle",
+          "url": "https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d"
         }
       ],
-      "duration_ms": 195425,
-      "name": "SAMMEN FOR NORGE",
-      "url": "https://open.spotify.com/track/4t0PYPeACGNWLJYniAqnVg"
-    },
-    {
-      "added_at": "2026-06-01 08:11:39",
-      "album": {
-        "name": "Kongens Menn",
-        "url": "https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm"
-      },
-      "artists": [
-        {
-          "name": "Kongens Menn",
-          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
-        },
-        {
-          "name": "Birkelunden Mannskor",
-          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
-        }
-      ],
-      "duration_ms": 168378,
-      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
-      "url": "https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P"
+      "duration_ms": 162954,
+      "name": "Vi heier p\u00e5 v\u00e5rt lille land",
+      "url": "https://open.spotify.com/track/3GiuNkNyJIY80035FKGqJP"
     },
     {
       "added_at": "2026-06-01 08:11:39",
@@ -299,26 +339,6 @@
       "duration_ms": 139975,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
-    },
-    {
-      "added_at": "2026-06-01 08:11:39",
-      "album": {
-        "name": "Alt for Norge / Vi heier p\u00e5 v\u00e5rt lille land",
-        "url": "https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7"
-      },
-      "artists": [
-        {
-          "name": "St\u00e5les menn",
-          "url": "https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX"
-        },
-        {
-          "name": "Andreas Gjefle",
-          "url": "https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d"
-        }
-      ],
-      "duration_ms": 162954,
-      "name": "Vi heier p\u00e5 v\u00e5rt lille land",
-      "url": "https://open.spotify.com/track/3GiuNkNyJIY80035FKGqJP"
     },
     {
       "added_at": "2026-06-01 08:11:39",

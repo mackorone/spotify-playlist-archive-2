@@ -6356,7 +6356,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 132680,
       "name": "days spent",
       "url": "https://open.spotify.com/track/2GquJbENhdzM0oz7RC4f6z"
@@ -10384,7 +10384,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 114000,
       "name": "Goldenhour",
       "url": "https://open.spotify.com/track/1TKFSYaaCQx4k9jhQ8YBjJ"
@@ -13012,6 +13012,28 @@
       "duration_ms": 51358,
       "name": "Intheflesh",
       "url": "https://open.spotify.com/track/04E08CRB9q3H298YHbG52d"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3aDt6RwGOVBoSfoeQm3NYu"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7LF4JQB1UHjcKJOe4JlJAi"
     },
     {
       "album": {
@@ -20089,6 +20111,24 @@
     },
     {
       "album": {
+        "name": "outgrowing",
+        "url": "https://open.spotify.com/album/3BAwbgEZxgnjiq2Z1IevGo"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142608,
+      "name": "outgrowing",
+      "url": "https://open.spotify.com/track/4HddQsBo7ymo2wUOTtXbhe"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4vbfjUzeZToejv0p9c5Qzd"
       },
@@ -20532,7 +20572,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 133333,
       "name": "Pastel Sky",
       "url": "https://open.spotify.com/track/68y8T4F9zItlmlZUxTelaY"
@@ -28952,6 +28992,28 @@
       "duration_ms": 150857,
       "name": "Too Lazy",
       "url": "https://open.spotify.com/track/7eiECJwwVX2oWZVjkk3Osq"
+    },
+    {
+      "album": {
+        "name": "Too Soon",
+        "url": "https://open.spotify.com/album/2LnhrY2nP9abpXsuqaveWt"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "NINETOFIVE",
+          "url": "https://open.spotify.com/artist/052vrnvcGblRwo3q3yx6Oc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Too Soon",
+      "url": "https://open.spotify.com/track/23XxUZ0tz4XfnkzKsbpFS3"
     },
     {
       "album": {

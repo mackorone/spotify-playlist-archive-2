@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, G\. Mineiro, Tony Boy, IvanBi e molti altri.
 
-7,358 songs - 13 day 12 hr 41 min
+7,359 songs - 13 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [Awe Awe](https://open.spotify.com/track/6XOy8T8tnLMPCEORc0TfMl) | [8mike](https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [Awe Awe](https://open.spotify.com/album/5kVO7Tun6K1fkG0bZW0LTe) | 2:50 | 2022-05-26 | 2022-06-10 |
 | [AWW \(feat\. yungenob\)](https://open.spotify.com/track/3aSzhV351cI09hZXt4ahiS) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg), [Brama](https://open.spotify.com/artist/2b2rgwCPsopAIsOkxLJnp2) | [AWW \(feat\. yungenob\)](https://open.spotify.com/album/1Bc6QGg3ie8aaRMlRuiuub) | 2:25 | 2024-06-06 | 2024-06-28 |
 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 | 2025-01-02 | 2025-01-30 |
+| [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 | 2026-06-04 |  |
 | [AZKABAN \(feat\. MINUR\)](https://open.spotify.com/track/0mWsVmyZy0ELsYQ2T2I2jI) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [AZKABAN \(feat\. MINUR\)](https://open.spotify.com/album/3kSzZ5xGjknv7RoowP1gvc) | 2:28 | 2026-05-28 |  |
 | [AZZURRO](https://open.spotify.com/track/04QkPabUTmbF3x3WS73ei6) | [peppebila](https://open.spotify.com/artist/3h5cIMsyAyVw60b6vcVcG3), [moondangel](https://open.spotify.com/artist/2P2KEpzGrfCCQbIjEcS9ac) | [AZZURRO](https://open.spotify.com/album/626Qxe9HOtcSroM08parLO) | 2:33 | 2024-03-14 | 2024-03-22 |
 | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/track/6QswKYGLY9kqQT3qKh6cik) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi) | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/album/3J8LaR7kSodAQLubjdowBx) | 1:45 | 2023-04-20 | 2023-05-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Bri Babineaux",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: JJ Hairston & Dante Bowe",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -1979,6 +1979,32 @@
     },
     {
       "album": {
+        "name": "Christ Our King",
+        "url": "https://open.spotify.com/album/07wyO0idlcvw77mYoFwo3k"
+      },
+      "artists": [
+        {
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Trinity Anderson",
+          "url": "https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375083,
+      "name": "Christ Our King",
+      "url": "https://open.spotify.com/track/5mKp2St38T8KnIU4GbFM2Z"
+    },
+    {
+      "album": {
         "name": "TASHA",
         "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
       },
@@ -2604,7 +2630,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 335411,
       "name": "Deliver Us",
       "url": "https://open.spotify.com/track/0uL61cbO5vQ6hA5IXH6PMd"
@@ -7652,6 +7678,28 @@
     {
       "album": {
         "name": "Jesus",
+        "url": "https://open.spotify.com/album/3wCNNSJYHTRFhh7Kc4tDYb"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494695,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4fu4P9YKVxcBLU7OyQKlAr"
+    },
+    {
+      "album": {
+        "name": "Jesus",
         "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
       },
       "artists": [
@@ -8714,7 +8762,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/396hOjvgaPh7XUfQDPsWTI"
@@ -10722,7 +10770,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 209629,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/6LhDd3AM2XpMh8rrrjH4Tr"
@@ -12180,6 +12228,28 @@
       "duration_ms": 142447,
       "name": "Send Your Rain",
       "url": "https://open.spotify.com/track/56Vp47ZiSejDdbhDqHRn5x"
+    },
+    {
+      "album": {
+        "name": "Sending Up A Praise",
+        "url": "https://open.spotify.com/album/5Bk8bNvJbRTtPUqSTUtkSp"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360840,
+      "name": "Sending Up A Praise",
+      "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
     },
     {
       "album": {

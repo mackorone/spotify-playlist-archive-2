@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 488,198 likes - 50 songs - 2 hr 32 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 488,325 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 35 | [De Ceilândia a Ceilândia](https://open.spotify.com/track/5xUmPJtc1PlbPJS7KHbu46) | [FvlCosta](https://open.spotify.com/artist/1lywcFK0OFfWzhYHfRsGc8) | [De Ceilândia a Ceilândia](https://open.spotify.com/album/6XRZpC5bdH8Gf0E40iwvMR) | 3:44 |
 | 36 | [Born Alone, Die Alone](https://open.spotify.com/track/2L8ZJflR5eCU6Vojcai8Le) | [PRLΔXX](https://open.spotify.com/artist/22gW2QAYfysd97ABDQQ5VM) | [Born Alone, Die Alone](https://open.spotify.com/album/79royANHAAOQjnVGFJFCUI) | 2:46 |
 | 37 | [FEELIN' A WAY](https://open.spotify.com/track/1dFQak7IOq2madc40wpz7J) | [SAYL3SS](https://open.spotify.com/artist/57ihFSAG9DL29uIz0OLfig), [TokyoSensei](https://open.spotify.com/artist/3taf1oAqZ1fhoG6rz8BMaD), [KelloggzWorld](https://open.spotify.com/artist/1weQyChtXBe4reoR6jefOg) | [FEELIN' A WAY](https://open.spotify.com/album/7d35kMKIR3wMZwiOqf7DQg) | 3:08 |
-| 38 | [Into You](https://open.spotify.com/track/2PiOLpJB6juHbpgMNGBaZr) | [Sofia Bellamay](https://open.spotify.com/artist/5RyqDv8YtgD0xKIByu6hVz) | [Into You](https://open.spotify.com/album/6zsssvnGRoPXo7CJEYKBEj) | 3:58 |
+| 38 | [Into You](https://open.spotify.com/track/2PiOLpJB6juHbpgMNGBaZr) | [Bellamay](https://open.spotify.com/artist/0ewByJyQHZezzErCuuUnDg) | [Into You](https://open.spotify.com/album/6zsssvnGRoPXo7CJEYKBEj) | 3:58 |
 | 39 | [Cradle 2 the Grave](https://open.spotify.com/track/07c5ywoMHO7BDQNNJL8Abl) | [Hnic Pesh](https://open.spotify.com/artist/1AVT1YTY1u4rEtd6wBpb2D), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [China White](https://open.spotify.com/album/48iUKf6Ci4Cs0aKeYA0HGC) | 4:08 |
 | 40 | [Lights Down Low](https://open.spotify.com/track/1CIy86Bd2hPNgBRmvbiByS) | [Gene Ladell](https://open.spotify.com/artist/57rl6AqLrWtMoxDKRwVgAm) | [Lights Down Low](https://open.spotify.com/album/5k7QA5UzF9YOOnRBZ01FGh) | 2:05 |
 | 41 | [King Life](https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h) | [Latin Kings Digital Music](https://open.spotify.com/artist/7rZFwelqDr2vMeDUqCkbrg) | [Kool Hec Si DJ Fuego 1](https://open.spotify.com/album/26ttBwh7CP6faUh5VIY2Gw) | 4:05 |

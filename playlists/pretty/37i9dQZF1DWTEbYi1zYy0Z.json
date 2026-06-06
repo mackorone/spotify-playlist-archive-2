@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 88168,
+  "num_followers": 88195,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF85sJx3gWFCGTJ1OUI9Im3e3w7u",
+  "snapshot_id": "AAAAAMRPRvGR6S2MWSwJclPn2bV6sdOM",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:00:27",
+      "album": {
+        "name": "I-75",
+        "url": "https://open.spotify.com/album/3a0c5wnmhIe6FzUI7oNp80"
+      },
+      "artists": [
+        {
+          "name": "Daryl Beebe",
+          "url": "https://open.spotify.com/artist/6zrrcgDcCmzyiwyFWqfpsz"
+        },
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "I-75",
+      "url": "https://open.spotify.com/track/6bSLP33BKjdNAK2W9Md221"
+    },
+    {
+      "added_at": "2026-06-05 04:00:27",
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/7fzBCAJIQH8inS7PbCZRDN"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 259320,
+      "name": "Maybe, Maybe Not",
+      "url": "https://open.spotify.com/track/6XDFEZDMny60iiiyxdZoA2"
+    },
     {
       "added_at": "2026-05-29 04:00:20",
       "album": {
@@ -91,22 +127,6 @@
       "duration_ms": 227470,
       "name": "Ventura",
       "url": "https://open.spotify.com/track/7yN2EpncCSUH8bUdXcHep7"
-    },
-    {
-      "added_at": "2026-05-01 04:00:53",
-      "album": {
-        "name": "Knock Out",
-        "url": "https://open.spotify.com/album/6byxMiZfKh37vdUBMPfGuB"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Knock Out",
-      "url": "https://open.spotify.com/track/4lvSXlzf2fmTlhOLZFsOg4"
     },
     {
       "added_at": "2026-05-01 04:00:53",
@@ -1735,26 +1755,6 @@
       "duration_ms": 179494,
       "name": "Solag",
       "url": "https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Hub City Jam",
-        "url": "https://open.spotify.com/album/0NAhhMdZDZ1p454HhztrIi"
-      },
-      "artists": [
-        {
-          "name": "Tom Braxton",
-          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
-        },
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 249827,
-      "name": "Hub City Jam",
-      "url": "https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N"
     },
     {
       "added_at": "2023-07-07 04:01:00",

@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104070,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
+    },
+    {
+      "album": {
         "name": "CRYBABY",
         "url": "https://open.spotify.com/album/4umlxMAT72AjjRpsb0D5p5"
       },
@@ -9630,7 +9648,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 149865,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7EpPewP2fk80hvZRH2kqrj"
@@ -9860,6 +9878,36 @@
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
+    },
+    {
+      "album": {
+        "name": "MALIBU",
+        "url": "https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1"
+      },
+      "artists": [
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        },
+        {
+          "name": "MAMBA.",
+          "url": "https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp"
+        },
+        {
+          "name": "2wentysixx",
+          "url": "https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E"
     },
     {
       "album": {
@@ -17704,24 +17752,6 @@
       "duration_ms": 225144,
       "name": "TOYL (Time Of Your Life)",
       "url": "https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg"
-    },
-    {
-      "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "date_added": "2026-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
     },
     {
       "album": {

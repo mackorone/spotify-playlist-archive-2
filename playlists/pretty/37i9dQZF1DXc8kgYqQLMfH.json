@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1084273,
+  "num_followers": 1084360,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
+        "name": "Outfield Light",
+        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
+      },
+      "artists": [
+        {
+          "name": "Chris Currano",
+          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
+        }
+      ],
+      "duration_ms": 131019,
+      "name": "Outfield Light",
+      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
         "name": "Dreams of Summer",
         "url": "https://open.spotify.com/album/5TViRVC0ybRDhUcnZChkga"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 116691,
       "name": "soaring summer",
       "url": "https://open.spotify.com/track/7JtFIWr0amm1sfMaTcTbyZ"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
-        "name": "Outfield Light",
-        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
-      },
-      "artists": [
-        {
-          "name": "Chris Currano",
-          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
-        }
-      ],
-      "duration_ms": 131019,
-      "name": "Outfield Light",
-      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "Ptr.",
-          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "Blume",
         "url": "https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 125076,
       "name": "bookworn",
       "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "Warm Mug",
-        "url": "https://open.spotify.com/album/4KFuIhOeomePZyJW2wmyBX"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Dor",
-          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
-        }
-      ],
-      "duration_ms": 194375,
-      "name": "Warm Mug",
-      "url": "https://open.spotify.com/track/0wU1dFdc0yZkJUMxwZoWuv"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "Through the Rain",
         "url": "https://open.spotify.com/album/4GSVk0FGRG1XJNBN7zg6LP"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 159000,
       "name": "Through the Rain",
       "url": "https://open.spotify.com/track/4yV4OoJcLydUdBoJZ03vAw"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
+        "name": "Warm Mug",
+        "url": "https://open.spotify.com/album/4KFuIhOeomePZyJW2wmyBX"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Dor",
+          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
+        }
+      ],
+      "duration_ms": 194375,
+      "name": "Warm Mug",
+      "url": "https://open.spotify.com/track/0wU1dFdc0yZkJUMxwZoWuv"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "Get Through",
-        "url": "https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8"
-      },
-      "artists": [
-        {
-          "name": "fnonose",
-          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
-        },
-        {
-          "name": "Mike Nora",
-          "url": "https://open.spotify.com/artist/5HCpJ18GNaqB4nCl6MyGBI"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Get Through",
-      "url": "https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "Cloudy Haze",
         "url": "https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl"
       },
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "my safe place",
-        "url": "https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv"
+        "name": "Get Through",
+        "url": "https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8"
       },
       "artists": [
         {
-          "name": "Hevi",
-          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "Mike Nora",
+          "url": "https://open.spotify.com/artist/5HCpJ18GNaqB4nCl6MyGBI"
         }
       ],
-      "duration_ms": 96000,
-      "name": "my safe place",
-      "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
+      "duration_ms": 118153,
+      "name": "Get Through",
+      "url": "https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
+        "name": "my safe place",
+        "url": "https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "my safe place",
+      "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "Theoretical",
-        "url": "https://open.spotify.com/album/6MAY4jpcIayBvRUd7dhfIp"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Panda",
-          "url": "https://open.spotify.com/artist/0jh6qoHguqq77wVg1XE3JA"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Theoretical",
-      "url": "https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "fireflies",
         "url": "https://open.spotify.com/album/21gKLeik1YA22MKX7OGn8a"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 148000,
       "name": "fireflies",
       "url": "https://open.spotify.com/track/6cvlgYk6lSou46r0oyBs8f"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
+        "name": "Theoretical",
+        "url": "https://open.spotify.com/album/6MAY4jpcIayBvRUd7dhfIp"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Panda",
+          "url": "https://open.spotify.com/artist/0jh6qoHguqq77wVg1XE3JA"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Theoretical",
+      "url": "https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "home again",
-        "url": "https://open.spotify.com/album/70mRj4datJu3d97V1bTw08"
-      },
-      "artists": [
-        {
-          "name": "Goson",
-          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "home again",
-      "url": "https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 166955,
       "name": "Stussy",
       "url": "https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
+        "name": "home again",
+        "url": "https://open.spotify.com/album/70mRj4datJu3d97V1bTw08"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "home again",
+      "url": "https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym"
+      },
+      "artists": [
+        {
+          "name": "Manamera",
+          "url": "https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz"
+        }
+      ],
+      "duration_ms": 125647,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
         "name": "After Glow",
         "url": "https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 160000,
       "name": "After Glow",
       "url": "https://open.spotify.com/track/0dxvB5tCP5fQp9WuZFzQI9"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym"
-      },
-      "artists": [
-        {
-          "name": "Manamera",
-          "url": "https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz"
-        }
-      ],
-      "duration_ms": 125647,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
-        "name": "play it",
-        "url": "https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE"
-      },
-      "artists": [
-        {
-          "name": "B.O Mitz",
-          "url": "https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9"
-        }
-      ],
-      "duration_ms": 152339,
-      "name": "play it",
-      "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 137600,
       "name": "Presence",
       "url": "https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
+        "name": "play it",
+        "url": "https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE"
+      },
+      "artists": [
+        {
+          "name": "B.O Mitz",
+          "url": "https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9"
+        }
+      ],
+      "duration_ms": 152339,
+      "name": "play it",
+      "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
     },
     {
       "added_at": "2026-05-29 08:52:11",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2026-05-29 08:52:11",
       "album": {
+        "name": "Finding Comfort",
+        "url": "https://open.spotify.com/album/7aD9oyG6sHAi99kU9RyhAv"
+      },
+      "artists": [
+        {
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
+        }
+      ],
+      "duration_ms": 120250,
+      "name": "Finding Comfort",
+      "url": "https://open.spotify.com/track/5mysc5FXOTidy1a4vAnH2S"
+    },
+    {
+      "added_at": "2026-05-29 08:52:11",
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 114240,
       "name": "Morning bun",
       "url": "https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS"
-    },
-    {
-      "added_at": "2026-05-29 08:52:11",
-      "album": {
-        "name": "Finding Comfort",
-        "url": "https://open.spotify.com/album/7aD9oyG6sHAi99kU9RyhAv"
-      },
-      "artists": [
-        {
-          "name": "rwethree",
-          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
-        }
-      ],
-      "duration_ms": 120250,
-      "name": "Finding Comfort",
-      "url": "https://open.spotify.com/track/5mysc5FXOTidy1a4vAnH2S"
     },
     {
       "added_at": "2026-05-29 08:52:11",

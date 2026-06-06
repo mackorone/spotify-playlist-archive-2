@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 cover: OTTOBRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,090 likes - 101 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,162 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 8 | [Tutto ciò che odio \(feat\. 18K\)](https://open.spotify.com/track/2FU3zLtHc8pgWfom7D4td7) | [SCAR](https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Esordienti 1994](https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS) | 3:13 |
 | 9 | [CHAOS PERFETTO](https://open.spotify.com/track/5tnxoaFOYSmGEaNVQDbyCF) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CHAOS PERFETTO](https://open.spotify.com/album/0s8Lqd1REuYNENvLrlIbQQ) | 2:45 |
 | 10 | [serial killer](https://open.spotify.com/track/5CPRWAPm3EXmSRBWJSjodV) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [serial killer](https://open.spotify.com/album/5InOo5AVu2KLptzV4LPAzt) | 3:00 |
-| 11 | [Track 3](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 0:00 |
+| 11 | [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 |
 | 12 | [piccolo mondo](https://open.spotify.com/track/59xlJkOdZqrh1Er7SbrS10) | [PICCOLE EMOZIONI](https://open.spotify.com/artist/63FskuwgyUygrwm8M7WzLi) | [piccolo mondo](https://open.spotify.com/album/5LzisN7W35L2qvxh4bIja2) | 2:41 |
 | 13 | [Un Bel Casino](https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Un Bel Casino](https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG) | 2:34 |
 | 14 | [Pillole](https://open.spotify.com/track/02awCaNU1SgRt1ol80wRDP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 3:16 |

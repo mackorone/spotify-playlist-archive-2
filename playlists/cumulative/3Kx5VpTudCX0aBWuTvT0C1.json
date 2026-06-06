@@ -2147,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "7 Seconds Later",
+        "url": "https://open.spotify.com/album/1V2De7aUannpYQgZPC7g11"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219544,
+      "name": "The Underdog",
+      "url": "https://open.spotify.com/track/1bc0hEk0B8trPeHKqisMvT"
+    },
+    {
+      "album": {
         "name": "It all works out in the \u2630nd",
         "url": "https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw"
       },

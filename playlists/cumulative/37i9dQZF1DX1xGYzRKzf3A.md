@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-417 songs - 1 day 0 hr 16 min
+418 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [24/7](https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5) | 3:04 | 2025-11-09 |  |
 | [99,99%](https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB) | [El Riqué](https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG) | [Scratch De Versos](https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28) | 4:19 | 2025-11-09 |  |
 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 | 2023-06-16 | 2025-11-10 |
-| [A Gozar](https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [DJ Hazel Mty](https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [La Bomba Kike Play](https://open.spotify.com/artist/0hIYNKlYxQY4O6edWnnn9Y) | [A Gozar](https://open.spotify.com/album/4ZN8AOjAkMnIlEqd0Fav9u) | 2:30 | 2025-11-09 |  |
+| [A Gozar](https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN), [DJ Hazel Mty](https://open.spotify.com/artist/40t9WzNauTKHjLkG6ok3rG), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [La Bomba Kike Play](https://open.spotify.com/artist/0hIYNKlYxQY4O6edWnnn9Y) | [A Gozar](https://open.spotify.com/album/4ZN8AOjAkMnIlEqd0Fav9u) | 2:30 | 2025-11-09 | 2026-06-06 |
 | [A La PM Puse En Alto](https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax) | 4:21 | 2025-11-09 |  |
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:08 | 2025-11-09 |  |
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-06-16 | 2025-11-10 |
@@ -235,6 +235,7 @@
 | [lo que no sabes](https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [donde quedé yo?](https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB) | 2:32 | 2025-11-09 |  |
 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 | 2023-06-16 | 2025-11-10 |
 | [Loco Tu Forma De Ser](https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Las Dos Caras De La Cumbia](https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg) | 3:49 | 2023-06-16 |  |
+| [Loko Cumbion](https://open.spotify.com/track/3NfF8KMuirIEzU1gj0bP2B) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Exitos, Vol\. 1](https://open.spotify.com/album/0uzfNsW9MclMhh7BZ8vFMb) | 4:50 | 2025-11-09 |  |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2023-06-16 | 2025-06-18 |
 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 | 2024-07-02 | 2025-11-10 |
 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 | 2025-11-09 |  |

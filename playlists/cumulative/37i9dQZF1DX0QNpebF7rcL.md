@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Joe Bonamassa
+> The best in blues right now\. Cover: Ruthie Foster
 
-567 songs - 1 day 14 hr 6 min
+569 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Hurting Side of Love](https://open.spotify.com/track/1LVigiHRdDlXSXXShqsTIz) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hurting Side of Love](https://open.spotify.com/album/1BzRU0zclhY552eafqdMbF) | 4:15 | 2025-04-04 |  |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
 | [I Aim To Please](https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [I Aim To Please](https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh) | 4:23 | 2024-01-26 | 2024-03-16 |
+| [I Be Tryin'](https://open.spotify.com/track/2XsMW66v1iNZ05TcL3z3yz) | [Harrell "Young Rell" Davenport](https://open.spotify.com/artist/6iB5eOcGNGZoSMwTUjsEPf) | [Young Rell](https://open.spotify.com/album/1x6GiXpqZfJHmekqhq0Dh4) | 4:40 | 2026-06-05 |  |
 | [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 | 2023-03-10 | 2025-03-22 |
 | [I Can’t Hold Out](https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I Can’t Hold Out](https://open.spotify.com/album/12kopSY2LCMFSGcmlVaGmv) | 2:28 | 2026-05-29 |  |
 | [I Feel So Good](https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [I Feel So Good](https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd) | 3:36 | 2021-01-15 | 2022-04-23 |
@@ -392,7 +393,7 @@
 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 | 2023-09-09 |
 | [Rise up Children](https://open.spotify.com/track/5chjzwI7qrIVedcBnfDsbd) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Rise up Children](https://open.spotify.com/album/6brcnCzpCw27Aa9Uzoz5Pb) | 3:25 | 2024-05-03 | 2026-03-21 |
 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 | 2022-09-16 | 2025-01-11 |
-| [River Picker](https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Bayport BBQ Blues](https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU) | 4:18 | 2024-06-07 |  |
+| [River Picker](https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Bayport BBQ Blues](https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU) | 4:18 | 2024-06-07 | 2026-06-06 |
 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 | 2024-08-23 | 2025-11-15 |
 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 | 2023-12-01 | 2025-09-27 |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
@@ -464,7 +465,8 @@
 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 | 2023-03-24 | 2023-07-01 |
 | [Tell Mamala](https://open.spotify.com/track/3jq1QrrDci8STyApQBHLft) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Tell Mamala](https://open.spotify.com/album/2GuHcm724OD7ANh9ZAKLdW) | 3:05 | 2021-10-22 | 2022-04-23 |
 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 | 2023-03-17 | 2023-05-13 |
-| [That's All Right](https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [That's All Right](https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R) | 2:59 | 2024-07-26 |  |
+| [Thank You](https://open.spotify.com/track/3OsPdwc8t0ReCQjGFarwvZ) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Thank You](https://open.spotify.com/album/3Hi8G5HrOGDVq61tct7zld) | 3:19 | 2026-06-05 |  |
+| [That's All Right](https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [That's All Right](https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R) | 2:59 | 2024-07-26 | 2026-06-06 |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 | 2024-01-27 |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [The Ballad of John Howard Griffin](https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6) | 5:16 | 2023-02-10 | 2023-03-27 |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 | 2023-02-10 | 2024-04-19 |

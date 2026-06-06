@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: PNAU, Maleigh Zan
 
-4,011 songs - 9 day 3 hr 26 min
+4,011 songs - 9 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1802,7 +1802,7 @@
 | [if u see kate](https://open.spotify.com/track/7xCe8Ao7u6rKd8mBwXLzNO) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [if u see kate](https://open.spotify.com/album/48p2yEieUGPxQmlgpA2Ujt) | 3:06 | 2023-02-23 | 2023-03-18 |
 | [If You](https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [If You](https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM) | 3:20 | 2026-04-16 | 2026-05-29 |
 | [If You Want](https://open.spotify.com/track/5V9wLycui0YfukF74ll54F) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [If You Want](https://open.spotify.com/album/3EKvw1vxzgJ7Eudid4Bk44) | 2:38 | 2025-03-20 | 2025-04-25 |
-| [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 | 2026-04-16 |  |
+| [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:40 | 2026-04-16 |  |
 | [ILG](https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [ILG](https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss) | 2:02 | 2023-07-06 | 2023-07-28 |
 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-28 | 2024-04-26 |
 | [Illusion](https://open.spotify.com/track/3clflEmxpG20HeeFhZpHRA) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Illusion](https://open.spotify.com/album/6uFCkzO0GjaydQUfI8nk41) | 2:26 | 2025-06-05 | 2025-08-01 |

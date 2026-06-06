@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,436 songs - 9 day 21 hr 10 min
+4,438 songs - 9 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1323,6 +1323,7 @@
 | [Enter](https://open.spotify.com/track/0ViLc69ePmKeZaXCno3bMn) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [Enter](https://open.spotify.com/album/1ng4U7FXkuVl1ys4vD3Wul) | 2:43 | 2025-06-04 |  |
 | [ENTRE CRISTALES](https://open.spotify.com/track/244xnRPePKZLHNcJC5mb67) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x) | [ENTRE CRISTALES](https://open.spotify.com/album/6z4mLjPPHQHGLz9FJFfeiS) | 2:30 | 2025-06-16 |  |
 | [Epic cinematic thriller composition \(music by AIVA\)](https://open.spotify.com/track/769ZfAqCH0E5Ehbe5k64Xs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Some creations by AIVA](https://open.spotify.com/album/0fvjVsyt7109ohDaiFyYtR) | 5:20 | 2025-05-27 |  |
+| [Epic One](https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Epic One](https://open.spotify.com/album/0zBEpohA04Axtzo08uhago) | 7:35 | 2026-06-05 |  |
 | [Erase](https://open.spotify.com/track/06tLkcT0moOvnsOoN3L5Gs) | [Stranger Noises](https://open.spotify.com/artist/6cov5FqftWImT0syIKAo9l) | [Erase](https://open.spotify.com/album/4KUjsdc9BglRDTAEmztYuM) | 4:24 | 2025-10-01 |  |
 | [Erlkoenig](https://open.spotify.com/track/5o6D0lVsCnvAULsm4T4SnL) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 2:28 | 2025-05-19 |  |
 | [Eroe per niente](https://open.spotify.com/track/0CR19CEnlcq451kw8ZAgkg) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 3:33 | 2026-02-01 |  |
@@ -2052,6 +2053,7 @@
 | [Kickflip Dreams \(another\)](https://open.spotify.com/track/3Imf3dHfe1X66M0RnkJmpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 1:49 | 2025-09-13 |  |
 | [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 | 2026-05-01 |  |
 | [Kilimanjaro](https://open.spotify.com/track/0o2v8uvzdaNdKhl50rz0z0) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Kilimanjaro](https://open.spotify.com/album/0dr2X1NMkee0OV2og9fbik) | 3:24 | 2025-08-10 |  |
+| [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 | 2026-06-05 |  |
 | [Kinfølk](https://open.spotify.com/track/6lgBD3xdcyFDxmOqa6DYaR) | [Nøyre](https://open.spotify.com/artist/3VM5a2nh6VEXEW7FpLHwEz) | [Kinfølk](https://open.spotify.com/album/1M1JCVztOBDv7W12JSEBTI) | 2:20 | 2025-03-31 |  |
 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 | 2025-11-05 |  |
 | [KINGDOM.](https://open.spotify.com/track/4kcgirhPcjpcKpy7gOT8Vn) | [Kris Russ](https://open.spotify.com/artist/4zozSGDgFZCbbZkegA48yO) | [KINGDOM.](https://open.spotify.com/album/4ExiGTdZHosO3UvIoThbgn) | 3:29 | 2025-07-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: distraction4ever
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,879 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,906 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 74 | [BD Baile](https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs) | [BD Baile](https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy) | 1:48 |
 | 75 | [Regular Looking Man](https://open.spotify.com/track/4BZhgjzRhZyqcKpViR9TaN) | [Starcrusher](https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ) | [Regular Looking Man](https://open.spotify.com/album/0A8fUT2dkywOWLnR3fz6f2) | 2:56 |
 
-Snapshot ID: `AAAAAORR8JBAWaUxQ7grIEDe8txlI9XM`
+Snapshot ID: `AAAAAJ4ZiAz/KuJlrie8Xx4ciaOZd0/2`

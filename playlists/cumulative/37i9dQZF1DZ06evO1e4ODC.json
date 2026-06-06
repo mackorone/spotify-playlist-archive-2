@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Suave Voz - En Vivo",
+      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
+    },
+    {
+      "album": {
         "name": "Colecci\u00f3n Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
       },

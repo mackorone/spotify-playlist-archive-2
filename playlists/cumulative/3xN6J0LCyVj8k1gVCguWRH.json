@@ -25122,7 +25122,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 185500,
       "name": "DIE TOGETHER",
       "url": "https://open.spotify.com/track/7lvbmgTRhnQpyrOqUw2dUc"
@@ -42410,7 +42410,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 202040,
       "name": "Havana Garden",
       "url": "https://open.spotify.com/track/2Jpt6x3uIYygD92BqGpISQ"
@@ -62141,6 +62141,24 @@
     },
     {
       "album": {
+        "name": "make it through june",
+        "url": "https://open.spotify.com/album/40nLrSKGp5nmlgBTKAU9ek"
+      },
+      "artists": [
+        {
+          "name": "Frankie June",
+          "url": "https://open.spotify.com/artist/1iJ065eotbYnz0VTjgZnwX"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179448,
+      "name": "make it through june",
+      "url": "https://open.spotify.com/track/08OJXjqdJMSqXUyGlU8X83"
+    },
+    {
+      "album": {
         "name": "The Minutehand",
         "url": "https://open.spotify.com/album/7mrbrO8aP4dVJN4X0H1TDt"
       },
@@ -67070,6 +67088,24 @@
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
+    },
+    {
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/3ufPxNcvr2CJi2IFAdL5Vn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Rhea",
+          "url": "https://open.spotify.com/artist/75KJ0sq4nnkp10z6w1qQcv"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285230,
+      "name": "My Angel",
+      "url": "https://open.spotify.com/track/1XDADIAKvrnNvs5HhWXDpI"
     },
     {
       "album": {
@@ -80030,6 +80066,24 @@
       "duration_ms": 221538,
       "name": "Quiero Ser Tu Mundo",
       "url": "https://open.spotify.com/track/7HQshlxmUqljkBZtHmadVa"
+    },
+    {
+      "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/2uRXxAqntB5yvY6g2NDkkD"
+      },
+      "artists": [
+        {
+          "name": "Amp Melo",
+          "url": "https://open.spotify.com/artist/5uTuApbs2wjqLr3ytaNhw9"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224078,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/3gqo0Le5VAspUaQh4ZWych"
     },
     {
       "album": {
@@ -108216,7 +108270,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 211498,
       "name": "Walking on Water",
       "url": "https://open.spotify.com/track/4JbOPhrDMYVFSpXZk68qnp"

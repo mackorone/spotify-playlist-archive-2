@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: VioleTT Pi",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Le Belladone",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 184993,
       "name": "Ad\u00e9la\u00efde",
       "url": "https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J"
+    },
+    {
+      "album": {
+        "name": "AFROKEB",
+        "url": "https://open.spotify.com/album/6bkiRHngNUqWoG2mDtARW0"
+      },
+      "artists": [
+        {
+          "name": "Fyore",
+          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "AFROKEB",
+      "url": "https://open.spotify.com/track/0NLl5MwUQmTh0ffWpz5OC1"
     },
     {
       "album": {
@@ -2301,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Dehors, la r\u00e9volution nous ressemble, A_",
+        "url": "https://open.spotify.com/album/2pSfshDPtWoEpT8N1zpi50"
+      },
+      "artists": [
+        {
+          "name": "JJJu",
+          "url": "https://open.spotify.com/artist/6GAgLKKBqpSrgyCYb9wB1q"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287706,
+      "name": "Dehors, la r\u00e9volution nous ressemble, A_",
+      "url": "https://open.spotify.com/track/3JRKMMmjiqYSgxZTVSxwm1"
+    },
+    {
+      "album": {
         "name": "DEMAIN JE PARS",
         "url": "https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi"
       },
@@ -2427,6 +2463,42 @@
     },
     {
       "album": {
+        "name": "Deny",
+        "url": "https://open.spotify.com/album/4IYVztFb52VYwrnaj2NEYO"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211201,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/1EC0O7DnIsevp2iaSXrlFY"
+    },
+    {
+      "album": {
+        "name": "Eucharistie",
+        "url": "https://open.spotify.com/album/5M7S4wSuqVP8uqo2zfDjry"
+      },
+      "artists": [
+        {
+          "name": "Le Belladone",
+          "url": "https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183570,
+      "name": "DIEU",
+      "url": "https://open.spotify.com/track/7MenF0tilErbDzpe3C4UOv"
+    },
+    {
+      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
       },
@@ -2478,6 +2550,24 @@
       "duration_ms": 256691,
       "name": "Dirty Hokas",
       "url": "https://open.spotify.com/track/4sIh2a474JLTxRFuc0kwDL"
+    },
+    {
+      "album": {
+        "name": "DISSONANCE",
+        "url": "https://open.spotify.com/album/5Ubd1WJFYcthcFG6BaL9W4"
+      },
+      "artists": [
+        {
+          "name": "Haliz\u00e9",
+          "url": "https://open.spotify.com/artist/45xvTR0bFEpIdEUoh9QOyu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266657,
+      "name": "DISSONANCE",
+      "url": "https://open.spotify.com/track/60RBZggu77Lxh5RnWfQzYV"
     },
     {
       "album": {
@@ -3360,7 +3450,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 294806,
       "name": "Future Ways",
       "url": "https://open.spotify.com/track/0rDPVczrCtnKqHsCVCusyv"
@@ -3450,7 +3540,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 208300,
       "name": "Glissade",
       "url": "https://open.spotify.com/track/1oQcZneuoL162DbxY4jzm6"
@@ -3912,6 +4002,24 @@
       "duration_ms": 177880,
       "name": "I Wasn\u2019t Fully Cooked",
       "url": "https://open.spotify.com/track/18Bzs5tXdAIoyPdWOqm5Kh"
+    },
+    {
+      "album": {
+        "name": "Life is a Laugh",
+        "url": "https://open.spotify.com/album/3HDfizvKh22esbFeGjHLyP"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141349,
+      "name": "I Would Live Forever if I Could",
+      "url": "https://open.spotify.com/track/5YDkohjmfZmrktCEBP2qAs"
     },
     {
       "album": {
@@ -4667,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
+        "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Bisaillon",
+          "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "l'avenir et moi",
+      "url": "https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s"
+    },
+    {
+      "album": {
         "name": "L'effondrement qui vient",
         "url": "https://open.spotify.com/album/5OoiHAaKWneLCxV17SLDFM"
       },
@@ -5370,7 +5496,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 220140,
       "name": "Lex Julia",
       "url": "https://open.spotify.com/track/2Ku1oBIgXdWNiuAdMVEhJw"
@@ -6969,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/7GAF0lfC9wJEkTWDB6qp3P"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272973,
+      "name": "Pers\u00e9ides",
+      "url": "https://open.spotify.com/track/47xeKat4c1eZVSpVfEIqVS"
+    },
+    {
+      "album": {
         "name": "Petit canari",
         "url": "https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s"
       },
@@ -6998,7 +7142,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 142800,
       "name": "Petit papillon blanc",
       "url": "https://open.spotify.com/track/6MN0IrzMfXcxq9SYL3SW8A"
@@ -7670,6 +7814,24 @@
       "duration_ms": 333976,
       "name": "Retention",
       "url": "https://open.spotify.com/track/7gVGJjTb2sET4kZQ2kySqM"
+    },
+    {
+      "album": {
+        "name": "RHINESTONES",
+        "url": "https://open.spotify.com/album/5MALVwKOXAfNQZ2hT3mkBL"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "RHINESTONES",
+      "url": "https://open.spotify.com/track/4UM2Lpu6E3GOYj2STmCisr"
     },
     {
       "album": {
@@ -8488,7 +8650,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 176307,
       "name": "stone sculpted heart",
       "url": "https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ"
@@ -8546,7 +8708,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 132923,
       "name": "SUBSTRATUM",
       "url": "https://open.spotify.com/track/34eUeC0plRGfQddzrav04N"
@@ -9148,6 +9310,24 @@
       "duration_ms": 161848,
       "name": "True Love - Alix Fernz's version",
       "url": "https://open.spotify.com/track/1cpAdmaGCbA2rhNEWEEU9A"
+    },
+    {
+      "album": {
+        "name": "two crows",
+        "url": "https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249386,
+      "name": "two crows",
+      "url": "https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q"
     },
     {
       "album": {
@@ -9872,7 +10052,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214973,
       "name": "\u00c9coute Man",
       "url": "https://open.spotify.com/track/2k4axHFbjIT8DuxnLx8Ukr"

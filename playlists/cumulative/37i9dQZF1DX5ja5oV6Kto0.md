@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Deto Black
 
-1,092 songs - 2 day 4 hr 45 min
+1,093 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [For the Mean Time](https://open.spotify.com/track/1nfEyUaqrDxPqbW47Tp870) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Could This Be Love](https://open.spotify.com/album/0VuqYK1Dsl7ecE1JA5tyf0) | 3:31 | 2025-11-14 | 2025-11-28 |
 | [For You](https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7) | [Kami Leonne](https://open.spotify.com/artist/4a07x5R0svDGlzecliVGTW) | [For You](https://open.spotify.com/album/4LeyqHYKKb08XhhU2Icocf) | 3:34 | 2024-05-24 | 2025-02-14 |
 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 | 2024-06-07 | 2025-03-15 |
+| [Format](https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Format](https://open.spotify.com/album/3iHPaIY7AqsJar6H165Wa1) | 2:28 | 2026-06-05 |  |
 | [Formula & Vim/Strangers in Accra](https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Formula & Vim/Strangers in Accra](https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp) | 5:12 | 2026-05-01 | 2026-05-29 |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 | 2021-09-16 | 2022-03-18 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-06-17 |
@@ -735,7 +736,7 @@
 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 | 2023-05-11 | 2023-11-24 |
 | [Paradise](https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 3](https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez) | 3:40 | 2023-05-04 | 2023-06-17 |
 | [Paralyzed](https://open.spotify.com/track/732V635ubhdFoit9gXMJt1) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Paralyzed](https://open.spotify.com/album/21FZqC9TeNYqgJJFEOMaRU) | 3:05 | 2022-04-21 | 2022-10-08 |
-| [Paris](https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Paris](https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1) | 3:20 | 2026-03-20 |  |
+| [Paris](https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Paris](https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1) | 3:20 | 2026-03-20 | 2026-06-06 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 | 2023-06-17 |
 | [Party Rider](https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Party Rider](https://open.spotify.com/album/7N2GQlAimFSXCuKq5lhCE6) | 2:44 | 2022-01-20 | 2023-03-18 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 | 2022-11-04 |

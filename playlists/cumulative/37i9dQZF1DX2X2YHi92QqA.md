@@ -4,7 +4,7 @@
 
 > 🧘🏼‍♀️🌻🏕️🏞️🏊🏻‍♀️🌅🌷⛰️🚴🏼‍♂️🍺🌳
 
-262 songs - 14 hr 17 min
+263 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Світ повен любві](https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Екскурсії по городу](https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd) | 4:18 | 2026-05-31 |  |
 | [Секс за містом](https://open.spotify.com/track/5zPHBlvSFtCylMC3nweTEc) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Секс за містом](https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD) | 3:49 | 2026-03-02 |  |
 | [Сенс](https://open.spotify.com/track/44R7zD0G7YcNcPyr7ZwNpy) | [Tery](https://open.spotify.com/artist/7N01QxNI9inYVGY6kTVUwt) | [Теплий Сніг \(Deluxe\)](https://open.spotify.com/album/58QTBu2Ku88K2VMq8VPQIo) | 2:17 | 2024-09-01 | 2024-10-08 |
-| [Серце хоче радикальних змін](https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Серце хоче радикальних змін](https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D) | 3:35 | 2026-04-11 |  |
+| [Серце хоче радикальних змін](https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Серце хоче радикальних змін](https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D) | 3:35 | 2026-04-11 | 2026-06-06 |
 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 | 2024-06-14 | 2024-07-13 |
 | [Скажи мені](https://open.spotify.com/track/6tMqLeK8WHbX375aYWcc22) | [Liyaa](https://open.spotify.com/artist/1UpeyGVGl95sbWnYe0ts1d) | [Скажи мені](https://open.spotify.com/album/03TzlDGGw8DPsXmYnTCFTx) | 3:11 | 2026-03-02 | 2026-04-23 |
 | [Сльози і Пісні](https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Сльози і Пісні](https://open.spotify.com/album/6hrmqnMFPmyKjLeeiPFhdc) | 2:12 | 2024-09-01 | 2024-12-21 |
@@ -263,6 +263,7 @@
 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 | 2024-07-12 | 2025-03-01 |
 | [Цілуй Мене](https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ) | [USTYM](https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ) | [Цілуй Мене](https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4) | 3:07 | 2024-06-14 | 2024-09-02 |
 | [Чайка на крижині](https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Чайка на крижині](https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP) | 2:46 | 2026-03-02 |  |
+| [Час](https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Час](https://open.spotify.com/album/4lh8Avzn4gljoAHcxiSSLM) | 3:35 | 2026-05-31 |  |
 | [Що у мене є](https://open.spotify.com/track/4Uz4itfFjdgB6Zlx7sLOGg) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [Що у мене є](https://open.spotify.com/album/1a0dfCTw5jK28TU4PJCKmc) | 3:09 | 2025-01-20 | 2025-02-25 |
 | [я не знаю що зі мною](https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [я не знаю що зі мною](https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE) | 3:17 | 2024-11-30 | 2025-01-13 |
 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 | 2024-06-14 | 2025-12-20 |

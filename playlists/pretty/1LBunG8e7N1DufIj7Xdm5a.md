@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,503 songs - 10 day 0 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,505 songs - 10 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4511,5 +4511,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4501 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 |
 | 4502 | [Turn](https://open.spotify.com/track/1ZMHbVw3RrHW3cv5EQLfsV) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Turn](https://open.spotify.com/album/63285USOAY4dxs2B7abc0g) | 4:51 |
 | 4503 | [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 |
+| 4504 | [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 |
+| 4505 | [Epic One](https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Epic One](https://open.spotify.com/album/0zBEpohA04Axtzo08uhago) | 7:35 |
 
-Snapshot ID: `AAAI0IKKJ3JUKfTuSFN8ncQXxKgSmmAp`
+Snapshot ID: `AAAI0iZFlt4ofZDH0eU4R0UssZJNI1iP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,479 likes - 29 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,576 likes - 29 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 12 | [Son of Kanku](https://open.spotify.com/track/7yCxWf9OaAWgypJRNEk0ET) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt) | [Son of Kanku EP](https://open.spotify.com/album/0IQskHfwyiilZHA0ZBMUVE) | 6:33 |
 | 13 | [Trilemma](https://open.spotify.com/track/7jOPnyBZk370lHFAiTHNwO) | [Alex Chasos](https://open.spotify.com/artist/3sjMvObopxSnKXZz9eTBXo) | [Trilemma](https://open.spotify.com/album/6I4IDcgoiIg6TZjFhk7EgX) | 3:38 |
 | 14 | [This is a Revolution \- Main Mix](https://open.spotify.com/track/4jZbfEFeU7hhFpHQBZJ73t) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Ifrika](https://open.spotify.com/artist/2bHuKD5n8qWKVhWzIJ4EjB), [ZORÉ](https://open.spotify.com/artist/2rAkr1LQkUngqmH45K5PWA) | [This is a Revolution](https://open.spotify.com/album/1W4VOwF7PNlxXkEkFiqNuT) | 5:44 |
-| 15 | [Pamoja \- Bun Xapa Remix](https://open.spotify.com/track/3damRx4wi0r3MbDoYa5FE4) | [Loudr](https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj), [SOUNDS HUMAN](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Pamoja](https://open.spotify.com/album/78AefhP5ooam2jHhSKTcZV) | 3:50 |
+| 15 | [Pamoja \- Bun Xapa Remix](https://open.spotify.com/track/3damRx4wi0r3MbDoYa5FE4) | [SOUNDS HUMAN](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [Loudr](https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Pamoja](https://open.spotify.com/album/78AefhP5ooam2jHhSKTcZV) | 3:50 |
 | 16 | [Who Do You](https://open.spotify.com/track/7KvmBT77Dq4QkIx57LtKe2) | [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [ELIŌ](https://open.spotify.com/artist/1p4hf1NrAivDUNcE8ddG1P), [Brilantin](https://open.spotify.com/artist/4Kd2TR5uOCEJZkoUvecNjS) | [Who Do You](https://open.spotify.com/album/082mcxFUvk2UdEz5uxP7JB) | 3:42 |
 | 17 | [Kuluma \- Original Mix](https://open.spotify.com/track/5CzvvbjtumR4SfBIdfFJBu) | [John Min](https://open.spotify.com/artist/677Z4fiB27n8q0KxzfWKjH) | [Kuluma](https://open.spotify.com/album/36ENmjCRO7RgkR9rPi3kQV) | 5:06 |
 | 18 | [Gora](https://open.spotify.com/track/3szZMFu9OM5Gdijz3JU5bn) | [The Siege DJ](https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1) | [Gora](https://open.spotify.com/album/1Rqw57IvNFxAE6mHg5D8jx) | 5:28 |

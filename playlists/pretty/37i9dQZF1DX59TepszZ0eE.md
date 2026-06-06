@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,409 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,436 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Solala Ngokonwaba \- Live](https://open.spotify.com/track/1qZCNkmOLC17Pvh3AoIWqb) | [Ziyanda Tshangana](https://open.spotify.com/artist/0M8zlsLqG3ODIjtZulBbNO) | [Prophetic Worship Encounter \(Live\)](https://open.spotify.com/album/0N9DkqZMv3hQmEvEHNV4V6) | 9:34 |
 | 100 | [Thina Ngemihla](https://open.spotify.com/track/1djSYJVcbrePZUcqs97eQi) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova](https://open.spotify.com/album/6Z5wKbRXQ4RuqkImPGocXY) | 7:44 |
 
-Snapshot ID: `AAAAALlJcydvbIeegN0FCxixcD6/mEOu`
+Snapshot ID: `AAAAAN1S7uYml8RnEdaxM7zdAoqwJxwR`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "All the best tracks from Pixar films, including new music from \"Hoppers,\" in theaters soon.",
+  "description": "All the best tracks from Pixar films.",
   "name": "Pixar Hits",
   "tracks": [
     {
@@ -582,6 +582,24 @@
       "duration_ms": 125786,
       "name": "I Can't Let You Throw Yourself Away",
       "url": "https://open.spotify.com/track/7tSODhfDkv0JEhkSMYSIBS"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {

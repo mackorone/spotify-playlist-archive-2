@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 112501,
+  "num_followers": 112524,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "The John Wayne",
+        "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 291636,
+      "name": "The John Wayne",
+      "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Synthetica",
         "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz"
-      },
-      "artists": [
-        {
-          "name": "Bad Books",
-          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Forest Whitaker",
-      "url": "https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "The John Wayne",
-        "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz"
       },
       "artists": [
         {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+          "name": "Bad Books",
+          "url": "https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt"
         }
       ],
-      "duration_ms": 291636,
-      "name": "The John Wayne",
-      "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"
+      "duration_ms": 220600,
+      "name": "Forest Whitaker",
+      "url": "https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R"
     },
     {
       "added_at": "2025-03-14 12:16:12",

@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31577,
+  "num_followers": 31575,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwd8VuLY4SBJtgRxS6zQDBQjO2R1oO",
+  "snapshot_id": "AAAwfkvtgii/xeG31pC/5hHGJWEAb437",
   "tracks": [
     {
       "added_at": "2026-06-04 22:00:05",
@@ -451,6 +451,78 @@
       "duration_ms": 212013,
       "name": "TimeWave Zero - Mark Sherry & Bill Neilson Remix",
       "url": "https://open.spotify.com/track/4nBrGuDxYCz4HAHvp7G27b"
+    },
+    {
+      "added_at": "2026-06-05 14:43:48",
+      "album": {
+        "name": "Run Run River (Angels Above Me)",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Run Run River (Angels Above Me)",
+      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
+    },
+    {
+      "added_at": "2026-06-05 15:05:20",
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/7uAjKjLrJxb2lvmYDR4m9R"
+      },
+      "artists": [
+        {
+          "name": "Yurie",
+          "url": "https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Contento",
+      "url": "https://open.spotify.com/track/2lc9qi12Ruq1HEtOpDVz6x"
+    },
+    {
+      "added_at": "2026-06-05 15:12:57",
+      "album": {
+        "name": "Discoball",
+        "url": "https://open.spotify.com/album/0HBEWMCs7xztKFXm7yBhY1"
+      },
+      "artists": [
+        {
+          "name": "Cloud9",
+          "url": "https://open.spotify.com/artist/0kCuh9iNZltYUJTpHh9LP6"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Discoball",
+      "url": "https://open.spotify.com/track/5QCtMPGcZjBoDSmLApToSJ"
+    },
+    {
+      "added_at": "2026-06-05 14:58:40",
+      "album": {
+        "name": "Teleport",
+        "url": "https://open.spotify.com/album/72kV77LvDJsHhWLtwLQ7cy"
+      },
+      "artists": [
+        {
+          "name": "Tony Kay",
+          "url": "https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ"
+        }
+      ],
+      "duration_ms": 228113,
+      "name": "Teleport - Radio Edit",
+      "url": "https://open.spotify.com/track/44ZZjcSPJmnoWY7u1tUy87"
     },
     {
       "added_at": "2026-06-01 13:53:19",

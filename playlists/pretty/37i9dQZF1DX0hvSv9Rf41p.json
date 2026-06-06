@@ -1,13 +1,33 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Levity",
-  "num_followers": 993907,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring GRiZ",
+  "num_followers": 994011,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/4VRQIexiaLCDnc9bcvSItvWYl",
+  "snapshot_id": "AAAAALSu42eaFjw2XHmxHm6TDnBnamEU",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Rump Shaker",
+      "url": "https://open.spotify.com/track/42Wg4dxXp01ii2i4odEUIl"
+    },
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
@@ -31,6 +51,26 @@
       "duration_ms": 243380,
       "name": "Eyes Cut Deeper - Crankdat Remix",
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC"
     },
     {
       "added_at": "2026-05-15 04:02:24",
@@ -69,6 +109,122 @@
       "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Brackish",
+        "url": "https://open.spotify.com/album/59nTlcpGRGFsxxKbxTmgzn"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Brackish",
+      "url": "https://open.spotify.com/track/69LK77IjL8NtKTgpMmRuCB"
+    },
+    {
+      "added_at": "2026-05-15 04:02:24",
+      "album": {
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Way Better",
+        "url": "https://open.spotify.com/album/5qSIo32WbkMEe1u8OSGSqg"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Way Better",
+      "url": "https://open.spotify.com/track/2zHMiZkQJmKONaXotWbH3z"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "DESTRUCTION OF A UFO",
+        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "FALL WITH ME",
+      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 164835,
+      "name": "Rainbow Machine",
+      "url": "https://open.spotify.com/track/1tGLoKlVJksDcCTTVeTD6U"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "WONKY SHIT",
+        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Plaza",
+          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "WONKY SHIT",
+      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
+    },
+    {
       "added_at": "2026-05-29 04:02:45",
       "album": {
         "name": "Thistle",
@@ -95,62 +251,6 @@
       "duration_ms": 235034,
       "name": "Thistle",
       "url": "https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "BBFL",
-        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "BBFL",
-      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:24",
-      "album": {
-        "name": "Fuck The Whole World (Subtronics Remix)",
-        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Fuck The Whole World - Subtronics Remix",
-      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "WONKY SHIT",
-        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Plaza",
-          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "WONKY SHIT",
-      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -213,6 +313,22 @@
       "url": "https://open.spotify.com/track/3PhCbTYdxv5O9nGOzDHhkV"
     },
     {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "The Sunken Cathedral",
+        "url": "https://open.spotify.com/album/0ogfeJAc1crC6HdsBzf2U1"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0NjcjKsJYZgKqiD5X3hJZi"
+    },
+    {
       "added_at": "2026-05-08 04:02:32",
       "album": {
         "name": "Good Vibrations",
@@ -227,6 +343,22 @@
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "BBFL",
+        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "BBFL",
+      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
     },
     {
       "added_at": "2026-05-08 04:02:32",
@@ -245,22 +377,6 @@
       "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
     },
     {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "DESTRUCTION OF A UFO",
-        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "FALL WITH ME",
-      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
-    },
-    {
       "added_at": "2026-05-15 04:02:24",
       "album": {
         "name": "DO AS I SAY",
@@ -277,6 +393,22 @@
       "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
     },
     {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "U Want Me",
+        "url": "https://open.spotify.com/album/5yKgYA2Xzw3Au1GWbmnIce"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "U Want Me",
+      "url": "https://open.spotify.com/track/3ubOOFmrtp5E3lzfurjBpU"
+    },
+    {
       "added_at": "2026-05-22 04:01:23",
       "album": {
         "name": "HIGHONYOU",
@@ -291,6 +423,42 @@
       "duration_ms": 166400,
       "name": "HIGHONYOU",
       "url": "https://open.spotify.com/track/6rIP9L4gBKTsGfvhNu7F1d"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "In The Mirror",
+        "url": "https://open.spotify.com/album/4pP4LpGODBkVbsCUWDCfMa"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Colleen D'agostino",
+          "url": "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/0oXhhzaJi5RzWoEeEBLTOz"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/1Xua1uf9DhUlYfNjh9rztu"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "duration_ms": 193479,
+      "name": "Broken Calculator",
+      "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
     },
     {
       "added_at": "2026-05-01 04:02:55",
@@ -321,22 +489,6 @@
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
     },
     {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/1Xua1uf9DhUlYfNjh9rztu"
-      },
-      "artists": [
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        }
-      ],
-      "duration_ms": 193479,
-      "name": "Broken Calculator",
-      "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
-    },
-    {
       "added_at": "2026-05-08 04:02:32",
       "album": {
         "name": "Original Style",
@@ -355,6 +507,34 @@
       "duration_ms": 154566,
       "name": "Original Style",
       "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "TRUE LOVE IN A MADE UP WORLD",
+        "url": "https://open.spotify.com/album/4VFU51NEgeT5It9ocFdsgJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
     },
     {
       "added_at": "2026-05-22 04:01:23",
@@ -479,26 +659,6 @@
       "duration_ms": 192000,
       "name": "Motion Detected",
       "url": "https://open.spotify.com/track/4NOsf6p2Xnqpupe3dnR4xn"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
     },
     {
       "added_at": "2026-04-24 04:02:31",
@@ -729,30 +889,6 @@
       "url": "https://open.spotify.com/track/2tMID7teo8xkyNVqHBhjXV"
     },
     {
-      "added_at": "2026-05-01 04:02:55",
-      "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 160172,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
-    },
-    {
       "added_at": "2026-04-17 04:04:06",
       "album": {
         "name": "Make You Move",
@@ -823,26 +959,6 @@
       "duration_ms": 213125,
       "name": "Internal Shell",
       "url": "https://open.spotify.com/track/2nVXgCTdJHSkouVNhM2Xca"
-    },
-    {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "The Clock",
-        "url": "https://open.spotify.com/album/7gfPNXACFuMOzlcNnvlEh7"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "The Clock",
-      "url": "https://open.spotify.com/track/0ofJud5it56rOmAUC0xGXr"
     },
     {
       "added_at": "2026-04-24 04:02:31",
@@ -1333,70 +1449,6 @@
       "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/3FIpsiZhamKYiUQ3hquB7G"
-      },
-      "artists": [
-        {
-          "name": "Malaa (Alter Ego)",
-          "url": "https://open.spotify.com/artist/23OllNLLdftM8a6HhEhAi9"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/4fkKvnl1ndRKRzJBwWnCdT"
-    },
-    {
-      "added_at": "2026-04-10 04:03:13",
-      "album": {
-        "name": "Homework (feat. Lancey Foux)",
-        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 154943,
-      "name": "Homework (feat. Lancey Foux)",
-      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "NEXUS",
-        "url": "https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ"
-      },
-      "artists": [
-        {
-          "name": "G-REX",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "NEXUS",
-      "url": "https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "A.F.B.1.",
@@ -1417,42 +1469,6 @@
       "url": "https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ"
     },
     {
-      "added_at": "2026-03-20 04:31:42",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 158873,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Bass Quest, Vol. 1",
-        "url": "https://open.spotify.com/album/1a7BvOeUvBrq1yLGFIA1BG"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Bass Quest",
-      "url": "https://open.spotify.com/track/06kJjHf74IvAe2ux6upKq8"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "Jazz Cabbage",
@@ -1471,26 +1487,6 @@
       "duration_ms": 172189,
       "name": "Jazz Cabbage",
       "url": "https://open.spotify.com/track/0WZomj99qKEzipmSQIQktM"
-    },
-    {
-      "added_at": "2026-02-06 05:00:50",
-      "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-02-13 05:00:48",

@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-41 songs - 1 hr 56 min
+44 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,14 @@
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-23 |  |
 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |
+| [Olay Mahalli](https://open.spotify.com/track/3rVQ8J2B7CjVxyRZuQKYJU) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:09 | 2026-06-05 |  |
+| [Paranoya](https://open.spotify.com/track/6J3XfN1PEtqjR6Snop9hY3) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:08 | 2026-06-05 |  |
 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 | 2025-06-27 |  |
 | [Pişmanım \- Akustik](https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Pişmanım \(Akustik\)](https://open.spotify.com/album/5Gl43bYKyhihUP94SeNJPs) | 2:15 | 2026-04-09 |  |
 | [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 | 2022-07-27 | 2025-05-07 |
 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 | 2023-01-24 |  |
 | [sadaka](https://open.spotify.com/track/1WPTVorQB3KN3tOFIfhRdc) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [sadaka](https://open.spotify.com/album/1hvfoWCce60Ymw4OwGaToA) | 2:25 | 2023-01-28 |  |
+| [Sen Bana Göre Birisin](https://open.spotify.com/track/5OSNbQuCCMYMp3itakAQBq) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 2:40 | 2026-06-05 |  |
 | [senli sevda](https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [senli sevda](https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw) | 2:17 | 2024-03-22 |  |
 | [serseri tesadüf](https://open.spotify.com/track/3lTwSeaCQWfJD2YjCZCYPs) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [serseri tesadüf](https://open.spotify.com/album/2DMpopdYjf8JNJR4HhyvCe) | 2:26 | 2022-07-27 |  |
 | [Sevda Çiçeğim](https://open.spotify.com/track/0qtIlEt4OwRDmEa1h20vVm) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Sevda Çiçeğim](https://open.spotify.com/album/1fHTjgzDEir3cw3dc7qcTy) | 4:08 | 2025-05-29 |  |

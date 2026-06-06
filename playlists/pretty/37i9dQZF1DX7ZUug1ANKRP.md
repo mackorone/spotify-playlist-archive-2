@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,852,666 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852,952 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 24 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
 | 25 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
 | 26 | [Coming Home](https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Coming Home](https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax) | 2:48 |
-| 27 | [believe in](https://open.spotify.com/track/6sfNz0FjL3AQPP3Wa39q0p) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Technoir](https://open.spotify.com/artist/34mgpkFwFAEpJxw3WFc8mi) | [believe in](https://open.spotify.com/album/2ShPesDyhmnpqto6sRi568) | 2:00 |
+| 27 | [believe in](https://open.spotify.com/track/6sfNz0FjL3AQPP3Wa39q0p) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Technoir](https://open.spotify.com/artist/34mgpkFwFAEpJxw3WFc8mi) | [believe in](https://open.spotify.com/album/2ShPesDyhmnpqto6sRi568) | 2:00 |
 | 28 | [Analog Heart](https://open.spotify.com/track/7zX9PJkUe4KtUHDsK76HQ2) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Analog Heart](https://open.spotify.com/album/5GWMWBImvvlcLOlFZap0gx) | 2:36 |
 | 29 | [Turn Up The Bass](https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA), [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE) | 2:03 |
 | 30 | [Lost in translation...](https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Lost in translation...](https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN) | 3:30 |

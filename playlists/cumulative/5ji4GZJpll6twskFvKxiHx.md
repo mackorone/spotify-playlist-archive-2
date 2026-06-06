@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F) | 3:06 | 2016-06-30 |  |
+| [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F) | 3:06 | 2016-06-30 |  |
 | [Be Right There](https://open.spotify.com/track/71EnloViXmSKrQkrkaYFxF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr) | [Be Right There](https://open.spotify.com/album/1mpg0waIJb4aR6aHdXbxF2) | 3:57 | 2016-06-30 |  |
 | [Beautiful Now](https://open.spotify.com/track/7FJP35tUJ2121EJsFpU1Gh) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [True Colors](https://open.spotify.com/album/453l82SGKWDAlOpKkUSX1u) | 3:38 | 2016-06-30 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/6RsWqX8zABZLhZydXxEFOm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN) | 3:33 | 2016-06-30 |  |

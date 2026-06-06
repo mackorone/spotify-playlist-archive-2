@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,281 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,290 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 273 | [Pompeii](https://open.spotify.com/track/6o5bXOAaufbxc3xVfYLjWb) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Yusuf Alev](https://open.spotify.com/artist/14E6R9xyo9QwdEvMgIsihe), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Pompeii](https://open.spotify.com/album/1ZL4DBLcDPnyv6Qyen2Y2V) | 2:05 |
 | 274 | [3 Nights](https://open.spotify.com/track/6RcAH7izZ1YsPde0x2CLjX) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [3 Nights](https://open.spotify.com/album/4Gwv1gBr55lL2w47Io1Lek) | 2:34 |
 | 275 | [Toxic](https://open.spotify.com/track/3naFIh0MSAIL16JR7lgnSF) | [SI US PLAU](https://open.spotify.com/artist/5Unw6xhYZ2FmUZIY6iCAbY), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Toxic](https://open.spotify.com/album/41npeOQumL5mHMs7NHwLhZ) | 2:57 |
-| 276 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 |
+| 276 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 |
 | 277 | [Put Your Records On](https://open.spotify.com/track/0fmxDbgbennJUWv8VTdJ5Z) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Put Your Records On](https://open.spotify.com/album/7I03UvMqvPGhpdHUmmXN1S) | 2:43 |
 | 278 | [Every Breath You Take](https://open.spotify.com/track/5pO2v6kaQwh8aeVISo7NYG) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Every Breath You Take](https://open.spotify.com/album/0VlhtM0WNt1WXRJXFz3Ovk) | 2:00 |
 | 279 | [Losing My Religion \(feat\. MKLA\)](https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [Aukoustics](https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT) | [Losing My Religion \(feat\. MKLA\)](https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48) | 2:48 |

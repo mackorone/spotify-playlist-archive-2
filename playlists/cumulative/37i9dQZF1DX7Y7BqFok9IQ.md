@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-415 songs - 1 day 2 hr 45 min
+416 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 | 2020-10-16 | 2026-02-28 |
 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 | 2026-02-27 |  |
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 | 2024-07-06 |
-| [Runnin' Hot](https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Runnin' Hot](https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT) | 3:10 | 2026-04-17 |  |
+| [Runnin' Hot](https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Runnin' Hot](https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT) | 3:10 | 2026-04-17 | 2026-06-06 |
 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 | 2025-09-26 |  |
 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 | 2020-10-16 | 2024-07-06 |
 | [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 | 2023-05-26 | 2026-03-14 |
@@ -395,6 +395,7 @@
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
 | [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 | 2025-05-02 | 2025-09-27 |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 | 2026-03-14 |
+| [Way Back](https://open.spotify.com/track/0YOjYOSiMRdwshS6UMr37r) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Louder Than Fate](https://open.spotify.com/album/4JInPCAU6lrdzOjZ3bIIjc) | 3:07 | 2026-06-05 |  |
 | [Way Down We Go](https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l), [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe), [ashpvnk](https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3) | [Way Down We Go](https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r) | 3:18 | 2024-05-03 |  |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 | 2023-03-04 |

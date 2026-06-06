@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAADjAK1xuwHLdEzIX1Y+M+T0",
+  "snapshot_id": "aiDAAAAAAADw3bBnggGL6VZAeE7me/PC",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "London Bridge is falling down",
-      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 96893,
       "name": "The Everlasting Guilty Crown -TV Edit-",
       "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "London Bridge is falling down",
+      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Alone With You",
+        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "All Alone With You (TV Edit) -Instrumental-",
+      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 475773,
       "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
       "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Alone With You",
-        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 350120,
-      "name": "All Alone With You -Instrumental-",
-      "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 91200,
-      "name": "All Alone With You (TV Edit) -Instrumental-",
-      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
+      "duration_ms": 350120,
+      "name": "All Alone With You -Instrumental-",
+      "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
     }
   ],
   "unique_name": "This Is EGOIST",

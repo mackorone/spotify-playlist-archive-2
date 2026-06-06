@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1446004,
+  "num_followers": 1445909,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "FUNK DE CANALHA",
+        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "pros menor da nova",
+      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "OUTRA",
         "url": "https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz"
       },
@@ -275,34 +303,6 @@
       "duration_ms": 151413,
       "name": "BOM E NOVO",
       "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "FUNK DE CANALHA",
-        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "pros menor da nova",
-      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "THE BOX MEDLEY FUNK 11",
-        "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
+        "name": "THE BOX MEDLEY 11",
+        "url": "https://open.spotify.com/album/2eZxNKX7vVsdh9OV3USOdW"
       },
       "artists": [
         {
@@ -764,37 +764,45 @@
           "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         },
         {
-          "name": "Mc Pikachu",
-          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
         },
         {
-          "name": "MC Gudan",
-          "url": "https://open.spotify.com/artist/4yZ8oMx1UD9PWn3M0SP8LS"
+          "name": "Racovi Oficial",
+          "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
         },
         {
-          "name": "Mc Binn",
-          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Bren Oficial",
+          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
         },
         {
-          "name": "Dj Saha",
-          "url": "https://open.spotify.com/artist/0FCfOFRF7IBPD1Afj53r8k"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
-      "duration_ms": 297692,
-      "name": "THE BOX MEDLEY FUNK 11",
-      "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+      "duration_ms": 253042,
+      "name": "THE BOX MEDLEY 11",
+      "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -899,8 +907,8 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "THE BOX MEDLEY 11",
-        "url": "https://open.spotify.com/album/2eZxNKX7vVsdh9OV3USOdW"
+        "name": "THE BOX MEDLEY FUNK 11",
+        "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
       "artists": [
         {
@@ -908,45 +916,61 @@
           "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         },
         {
-          "name": "Surfista",
-          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
         },
         {
-          "name": "Racovi Oficial",
-          "url": "https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX"
+          "name": "MC Gudan",
+          "url": "https://open.spotify.com/artist/4yZ8oMx1UD9PWn3M0SP8LS"
         },
         {
-          "name": "Mvk",
-          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+          "name": "Mc Binn",
+          "url": "https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE"
         },
         {
-          "name": "Bren Oficial",
-          "url": "https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB"
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         },
         {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+          "name": "Dj Saha",
+          "url": "https://open.spotify.com/artist/0FCfOFRF7IBPD1Afj53r8k"
         }
       ],
-      "duration_ms": 253042,
-      "name": "THE BOX MEDLEY 11",
-      "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
+      "duration_ms": 297692,
+      "name": "THE BOX MEDLEY FUNK 11",
+      "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1023,30 +1047,6 @@
       "duration_ms": 143488,
       "name": "XT 2",
       "url": "https://open.spotify.com/track/3ESfiJEKj4V3GdATVvHZyn"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
-      },
-      "artists": [
-        {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "2K26",
         "url": "https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce"
       },
@@ -1223,6 +1207,46 @@
       "duration_ms": 180461,
       "name": "2K26",
       "url": "https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Sem Amor",
+        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
+      },
+      "artists": [
+        {
+          "name": "SUELMK",
+          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Raul GR",
+          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Sem Amor",
+      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1255,30 +1279,6 @@
       "duration_ms": 214128,
       "name": "Ela quer de 100",
       "url": "https://open.spotify.com/track/3MiVY2AKcWWNDfkd1cOgkA"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Sem Amor",
-        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
-      },
-      "artists": [
-        {
-          "name": "SUELMK",
-          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
-        },
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
-        },
-        {
-          "name": "Raul GR",
-          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Sem Amor",
-      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
     },
     {
       "added_at": "2026-05-22 03:01:19",

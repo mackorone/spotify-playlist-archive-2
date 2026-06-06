@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: LE SSERAFIM",
-  "num_followers": 73110,
+  "description": "The sweetest bops. Cover: MEOVV",
+  "num_followers": 73139,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWag7onZ4A2bzdRtMV0LXczk6ky",
+  "snapshot_id": "AAAAAFvqBjnTd2L9qLC4PtKOYbqQ/Ctm",
   "tracks": [
+    {
+      "added_at": "2026-06-05 04:01:16",
+      "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/1d6kunWR5HXPjhzuMuRog5"
+    },
     {
       "added_at": "2026-05-22 04:01:33",
       "album": {
@@ -863,22 +879,6 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
-        "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 192467,
-      "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
     },
     {
       "added_at": "2026-04-07 02:40:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,434 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,450 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [The Way You Move](https://open.spotify.com/track/1dceabJPMFa4hmvEoT4QzV) | [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [The Way You Move](https://open.spotify.com/album/5aBWly0Pcm7I2q9l0FIn1N) | 2:29 |
 | 100 | [Holding Back](https://open.spotify.com/track/2W8YD65fAh7riLR2DEKPJ1) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Holding Back](https://open.spotify.com/album/7CS0q1E36PEuAvbhbYSRtn) | 2:56 |
 
-Snapshot ID: `AAAAAKp3/PIiVv5yNIFjFlQHQAJfKQAJ`
+Snapshot ID: `AAAAACu0h75ZWRwI0gWjzooZ0xhkZZ4F`

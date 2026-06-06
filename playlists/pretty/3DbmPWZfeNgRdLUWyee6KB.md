@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 120 songs - 6 hr 57 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 121 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 118 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 |
 | 119 | [Viagem Sertaneja](https://open.spotify.com/track/5o1umqc3t460pxyIKQGG9B) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Viagem Sertaneja](https://open.spotify.com/album/48OVByE5NVBtHdd6xARWbm) | 2:47 |
 | 120 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 |
+| 121 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 |
 
-Snapshot ID: `AAAU+JrlAvO34OfKKqO+WS+s6r3CzBQ7`
+Snapshot ID: `AAAU+QZsiO3ehmhWGa/u/DmankSbxU3R`

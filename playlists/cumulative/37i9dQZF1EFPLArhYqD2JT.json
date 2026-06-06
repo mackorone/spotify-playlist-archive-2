@@ -4728,7 +4728,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -9982,7 +9982,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 218359,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl"
@@ -10066,6 +10066,24 @@
       "duration_ms": 218738,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/5AwzancSVur811aySwxQYV"
+    },
+    {
+      "album": {
+        "name": "Twirl And Whirl",
+        "url": "https://open.spotify.com/album/6fkPzxtgUj0Q46EODhHCwW"
+      },
+      "artists": [
+        {
+          "name": "Betty Hutton",
+          "url": "https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218738,
+      "name": "You Can't Get a Man with a Gun",
+      "url": "https://open.spotify.com/track/5gjdxNiltO9rx2emIPndFn"
     },
     {
       "album": {

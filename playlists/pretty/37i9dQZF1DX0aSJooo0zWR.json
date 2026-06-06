@@ -1,18 +1,18 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 218574,
+  "num_followers": 218583,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbmS7exPABPTO7dsU74zKOs4lI+",
+  "snapshot_id": "AAAAABO0Zk3S/lp4I0YhT4JE4rJYk/PE",
   "tracks": [
     {
-      "added_at": "2026-05-15 04:00:33",
+      "added_at": "2026-06-05 04:00:30",
       "album": {
-        "name": "Intrepid Traveller",
-        "url": "https://open.spotify.com/album/65L6ZPuO7WChBvYNmBsSEI"
+        "name": "Protocol 6",
+        "url": "https://open.spotify.com/album/4PhTGmr0tfgaIOaNp3jobH"
       },
       "artists": [
         {
@@ -20,17 +20,17 @@
           "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
         },
         {
-          "name": "Phillip Whack",
-          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
-        },
-        {
           "name": "Alex Sill",
           "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
         }
       ],
-      "duration_ms": 467114,
-      "name": "Intrepid Traveller",
-      "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"
+      "duration_ms": 371349,
+      "name": "Code 4 Kryptos",
+      "url": "https://open.spotify.com/track/6w1hwaeAntChTW6qwpPRXW"
     },
     {
       "added_at": "2026-05-08 04:00:27",

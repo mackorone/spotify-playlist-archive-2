@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: The Belonging Co.",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Mitch & Steph Wong",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "The Hymns (Spotify Version)",
+        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
+    },
+    {
+      "album": {
         "name": "Songs For Sunday (Live)",
         "url": "https://open.spotify.com/album/6J4AVNtdMpn50w1u3j1HHe"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 209376,
       "name": "APPETITE",
       "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
@@ -2766,6 +2784,32 @@
       "duration_ms": 303449,
       "name": "Build an Altar (Live)",
       "url": "https://open.spotify.com/track/3qFQ8jCfC9YchuakCswQda"
+    },
+    {
+      "album": {
+        "name": "Burning Hearts",
+        "url": "https://open.spotify.com/album/3l8uhqpjdts2kncGoOQBTj"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348656,
+      "name": "Burning Hearts",
+      "url": "https://open.spotify.com/track/0fY0C9BjglHljAPwNtMwtv"
     },
     {
       "album": {
@@ -7038,7 +7082,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 258361,
       "name": "Higher Than I",
       "url": "https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8"
@@ -9682,7 +9726,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 357075,
       "name": "Jesus Is His Name",
       "url": "https://open.spotify.com/track/5JoiNcH5F8sg5Kxm0028SK"
@@ -10012,7 +10056,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 375940,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx"
@@ -11030,6 +11074,24 @@
       "duration_ms": 346071,
       "name": "Living Breath Of Heaven",
       "url": "https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of"
+    },
+    {
+      "album": {
+        "name": "LIFE IN COLOR",
+        "url": "https://open.spotify.com/album/6JlHqtfFk6YBoop6uPIsfF"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304174,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/1K9C56Gp01WnHo1Pvt1Ipa"
     },
     {
       "album": {
@@ -13483,6 +13545,24 @@
     },
     {
       "album": {
+        "name": "One More Day (Radio Version)",
+        "url": "https://open.spotify.com/album/3OnkkJGMfYKKq8oAmeytBq"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262634,
+      "name": "One More Day - Radio Version",
+      "url": "https://open.spotify.com/track/3W2FBJUYK5GTDFr14gG56y"
+    },
+    {
+      "album": {
         "name": "One Name",
         "url": "https://open.spotify.com/album/0mh8zIXLCUR0Kk02W89h5w"
       },
@@ -15696,6 +15776,28 @@
       "duration_ms": 463133,
       "name": "Send The Fire",
       "url": "https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN"
+    },
+    {
+      "album": {
+        "name": "Sending Up A Praise",
+        "url": "https://open.spotify.com/album/5Bk8bNvJbRTtPUqSTUtkSp"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360840,
+      "name": "Sending Up A Praise",
+      "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
     },
     {
       "album": {
@@ -20048,7 +20150,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 362984,
       "name": "We Pray",
       "url": "https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS"
@@ -20854,6 +20956,28 @@
       "duration_ms": 278400,
       "name": "Wondrous Cross (When I Survey)",
       "url": "https://open.spotify.com/track/4XkcQH03mFG7ofpLmLG5xP"
+    },
+    {
+      "album": {
+        "name": "IT NEEDS TO BE SAID SOME MORE",
+        "url": "https://open.spotify.com/album/1fLp14hxMusqbqM9eAwncl"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Steph Wong",
+          "url": "https://open.spotify.com/artist/3L1PkIj3jbF7jmRbKztyvd"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286956,
+      "name": "WORD OF GOD",
+      "url": "https://open.spotify.com/track/3lDzo0tVeR6nvS44hnhThS"
     },
     {
       "album": {

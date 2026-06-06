@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Nicolò Filippucci
 
-1,153 songs - 2 day 5 hr 50 min
+1,153 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-04-29 | 2024-10-11 |
 | [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 | 2023-05-24 |
 | [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-18 | 2023-06-16 |
-| [Mannaggia A Me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia A Me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 | 2026-06-04 |  |
+| [Mannaggia a me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia a me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 | 2026-06-04 |  |
 | [Mantra](https://open.spotify.com/track/5YF7DGsobUiG5SzvJ3FH7F) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Mantra](https://open.spotify.com/album/5siUBN5orlCphWK9AMxgJ9) | 2:36 | 2026-05-28 |  |
 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 | 2024-03-07 | 2024-07-19 |
 | [Marco](https://open.spotify.com/track/3gVKUlpjkWoe9GcYl3HGO8) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [Marco](https://open.spotify.com/album/59ULSxbZvExiOdCpoORivk) | 2:55 | 2025-03-13 | 2025-05-23 |
@@ -922,6 +922,7 @@
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-03-23 | 2023-07-07 |
 | [se ti amo in teoria](https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa) | [GEREMIA](https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu), [MVRZA](https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV) | [se ti amo in teoria](https://open.spotify.com/album/2LSUToMiSvYhdKfZPEzhsQ) | 2:10 | 2024-09-26 | 2024-10-04 |
 | [SEGRETO](https://open.spotify.com/track/2R92blPwwdZDGYYVXO8lPj) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [SEGRETO](https://open.spotify.com/album/2xjHYFQj5tVqgtoIjgou3R) | 2:39 | 2026-03-26 | 2026-05-29 |
+| [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 | 2026-06-04 |  |
 | [Sei la fine del mondo](https://open.spotify.com/track/2T3XBmvTu8vD4kByVzvLil) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Amami](https://open.spotify.com/album/2MovZc1VuaqbWbJ7fdY4UY) | 2:26 | 2023-06-29 | 2023-07-14 |
 | [SEI NELL'ARIA](https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [SEI NELL'ARIA](https://open.spotify.com/album/38TazBV9Xx0Ptj1e1VoFC8) | 2:15 | 2024-04-04 | 2024-04-19 |
 | [sei quel che sei](https://open.spotify.com/track/4rEqdT6srKeojcUdzK6zsT) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [sei quel che sei](https://open.spotify.com/album/0gHgtrWRHxwZ2RFNRNMThX) | 2:40 | 2025-01-30 | 2025-03-14 |
@@ -1040,7 +1041,6 @@
 | [TORNERAI](https://open.spotify.com/track/2LfKtUw3HazdlUl1k5tDcw) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [TORNERAI](https://open.spotify.com/album/7geUvKup79dU463axKiEzG) | 3:04 | 2024-03-06 | 2024-07-19 |
 | [TOUCHÉ](https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TOUCHÉ](https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y) | 2:12 | 2023-11-09 | 2024-01-05 |
 | [TRA LA GENTE](https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [UMORE 02](https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK) | 3:21 | 2023-06-08 | 2023-06-16 |
-| [Track 3](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 0:00 | 2026-06-04 |  |
 | [Tranne Te](https://open.spotify.com/track/6nxblXJhMQe4nleRxI7IAh) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Tranne Te](https://open.spotify.com/album/3WmCEz2zGK3RcrkHi9fgXE) | 2:06 | 2023-07-06 | 2023-09-15 |
 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 | 2023-09-28 | 2023-10-20 |
 | [Trasporto Eccezionale](https://open.spotify.com/track/3PANuP58O3ynFqZc13LbQc) | [Ube](https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt) | [Trasporto Eccezionale](https://open.spotify.com/album/4g0ZhSsAsEYiIDjpG0ISDY) | 2:44 | 2026-03-19 | 2026-04-17 |

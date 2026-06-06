@@ -25143,6 +25143,24 @@
     },
     {
       "album": {
+        "name": "\u5851\u6599\u888b",
+        "url": "https://open.spotify.com/album/26H14nLxKEMkh6CicJsRpU"
+      },
+      "artists": [
+        {
+          "name": "Homeless Scholars",
+          "url": "https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "\u5851\u6599\u888b",
+      "url": "https://open.spotify.com/track/43cvPb1VCbkxhEf6UbmTY0"
+    },
+    {
+      "album": {
         "name": "\u5929\u672a\u653e\u6674",
         "url": "https://open.spotify.com/album/7fxAuYTR1KpkHQx6TO6KUt"
       },

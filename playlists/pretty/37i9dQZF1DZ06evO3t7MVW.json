@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96508,
+  "num_followers": 96549,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAACSr+ao6e+bt0IHu29/Np5I",
+  "snapshot_id": "aiDAAAAAAAB4oWwAlgxS6v69PoqQlkLk",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What a Feeling",
         "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
       },
@@ -159,26 +143,6 @@
       "duration_ms": 229616,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 238810,
-      "name": "World on Fire (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
     },
     {
       "added_at": null,
@@ -203,6 +167,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
       },
@@ -223,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (with Stick Figure)",
-        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 210182,
-      "name": "Home (with Stick Figure)",
-      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Home (with Stick Figure)",
+        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
       "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+      "duration_ms": 210182,
+      "name": "Home (with Stick Figure)",
+      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
     },
     {
       "added_at": null,

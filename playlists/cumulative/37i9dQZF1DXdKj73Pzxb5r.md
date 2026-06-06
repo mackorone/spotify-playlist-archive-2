@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Thee Marloes
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Voxxes, Sheila Dara
 
-541 songs - 1 day 10 hr 26 min
+543 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [cool enough for you](https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [cool enough for you](https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF) | 3:21 | 2024-08-01 |  |
 | [Corak Di Balik Debu](https://open.spotify.com/track/2QyZG0qi1M6467e9PGBvRz) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Corak Di Balik Debu](https://open.spotify.com/album/3HB1oBjTjZ9q4fx0EF0re2) | 4:08 | 2026-04-10 |  |
 | [Cure.](https://open.spotify.com/track/0JfRbNMhTUHdUzEWwpDpvc) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Cure.](https://open.spotify.com/album/6bBpe2LGhClvlGw1giTIFL) | 2:49 | 2026-03-05 |  |
-| [Curtains](https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Merdi Simanjuntak](https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu) | [Curtains](https://open.spotify.com/album/5Rrm3or86YWiPpmf0IUalL) | 4:38 | 2026-01-08 |  |
+| [Curtains](https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Merdi Simanjuntak](https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu) | [Curtains](https://open.spotify.com/album/5Rrm3or86YWiPpmf0IUalL) | 4:38 | 2026-01-08 | 2026-06-06 |
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 | 2025-04-11 |
 | [DALAM TERANG](https://open.spotify.com/track/4iEqtH7U9TaqBiZDb5axN7) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [DALAM TERANG](https://open.spotify.com/album/5ckD1s2iX4610yR9tJ6whs) | 4:46 | 2026-05-22 |  |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 | 2025-02-14 |
@@ -248,6 +248,7 @@
 | [Kanvas Abadi](https://open.spotify.com/track/1mDKprPxJ192KWJAfhPa7j) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Kanvas Abadi](https://open.spotify.com/album/5uIPiOk9zYLhZOhA6cZElU) | 4:06 | 2025-06-12 | 2025-08-22 |
 | [Kasian](https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Kasian](https://open.spotify.com/album/6Tx905hXzlQb53nciXKlXH) | 2:37 | 2024-06-27 | 2024-09-06 |
 | [Kau Juga Semua Orang](https://open.spotify.com/track/1kHwwUrZcYFJEvrHXs033s) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Kau Juga Semua Orang](https://open.spotify.com/album/0adacAyhmRl1AxSOpKpLOc) | 3:15 | 2025-07-03 | 2025-10-03 |
+| [Kebosanan Usia Dini](https://open.spotify.com/track/3BWtIkxLAflGxVjEdxP2uB) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Fase I : Disonansi](https://open.spotify.com/album/2m40Y6zQKB6o8CbyhoUtKX) | 2:45 | 2026-06-05 |  |
 | [Kejora Cinta](https://open.spotify.com/track/7FIonsrudRfTzhSmNTAJt9) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Pekik Hening di Lantang Angan](https://open.spotify.com/album/17rIyaLllihrvHr9iMMcXv) | 3:56 | 2025-03-21 | 2025-06-13 |
 | [Kejora Walini](https://open.spotify.com/track/0IxNNrWTNviOK1rOdgIHoy) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [Kejora Walini](https://open.spotify.com/album/09OTl0I2JUUvDKwVSjCU6n) | 6:13 | 2025-07-24 | 2025-10-03 |
 | [Kekasih Kota](https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9) | [Fis Duo](https://open.spotify.com/artist/1S1HBUme1d0j93zSkkMILE) | [Kekasih Kota](https://open.spotify.com/album/2CNWRq13QMqziGrVtdjVjh) | 8:36 | 2024-06-27 | 2024-07-05 |
@@ -528,9 +529,10 @@
 | [Wahai Kau](https://open.spotify.com/track/1CDC40cmf5EBqJBwC586zi) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Wahai Kau](https://open.spotify.com/album/76BF66VPRzxHj1m8GvxFvq) | 4:08 | 2024-08-29 | 2025-10-24 |
 | [waiting game](https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [waiting game](https://open.spotify.com/album/2VzlrNdjwTkLzMocNcQwzE) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 | 2024-10-31 | 2026-03-27 |
+| [Warm Weather \- Live from Classic Love Songs](https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG), [Sheila Dara Aisha](https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh) | [Warm Weather \(Live from Classic Love Songs\)](https://open.spotify.com/album/04E6qJ3dAOWutgEka5TQFf) | 3:12 | 2026-06-05 |  |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-13 | 2024-12-14 |
 | [Wedjangan](https://open.spotify.com/track/3n6f7f6MujxaKhMBR4rfI5) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Wedjangan](https://open.spotify.com/album/66Uh7fP6lDfcQ5FycNCyzs) | 3:40 | 2024-07-25 | 2024-10-11 |
-| [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 | 2025-08-14 |  |
+| [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 | 2025-08-14 | 2026-06-06 |
 | [Wet](https://open.spotify.com/track/4u8IFN1MSABTMBOMrASpCp) | [Sampurna](https://open.spotify.com/artist/4FPCfg84YUp5CjtcSxQfv4) | [Wet](https://open.spotify.com/album/1t5jXibFF9Xk6fWRIWPSi9) | 2:38 | 2024-06-27 | 2024-07-05 |
 | [What A Fool I've Been](https://open.spotify.com/track/2esuQKEEVkOxXiusLBP7kb) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [What A Fool I've Been](https://open.spotify.com/album/5wqmR0ixQol3OrXwsrjMy0) | 4:00 | 2025-05-08 | 2025-07-04 |
 | [What I Feel](https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [What I Feel](https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8) | 4:26 | 2025-11-06 | 2026-02-13 |

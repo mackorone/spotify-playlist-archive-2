@@ -4,7 +4,7 @@
 
 > Makbet x Can Bonomo ve haftanın en iyi çıkışları!
 
-8,061 songs - 17 day 4 hr 48 min
+8,063 songs - 17 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3472,6 +3472,7 @@
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-12 | 2026-02-20 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-04-10 | 2025-04-18 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-08 | 2026-01-16 |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 | 2025-02-28 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-20 | 2025-03-28 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-26 | 2026-04-03 |
@@ -4777,6 +4778,7 @@
 | [Mi Amor](https://open.spotify.com/track/20QVNp2pqcm6EjmeXwmh4t) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [Mi Amor](https://open.spotify.com/album/1r4Nhpvilj31bfpxufuO8W) | 2:16 | 2026-01-08 | 2026-01-16 |
 | [MI AMOR](https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [MI AMOR](https://open.spotify.com/album/0LIz3jMkXG41FRhXWfdleu) | 2:32 | 2025-12-11 | 2025-12-19 |
 | [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 | 2026-06-04 |  |
+| [Mia Vita](https://open.spotify.com/track/4NGe2XJQ5rL0w9YOu2Cyem) | [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Mia Vita](https://open.spotify.com/album/2sV908suMpR735FX3JKQv4) | 3:33 | 2026-06-05 |  |
 | [Midemi Bulandıran Dünya](https://open.spotify.com/track/2zxIxC2BOLIe0KZlldGBVJ) | [Emre Çetinberk](https://open.spotify.com/artist/5BI8nCbrCbnbePspU1dgwB) | [Midemi Bulandıran Dünya](https://open.spotify.com/album/70BMJiXzc9M5U2sSUiXTIS) | 4:18 | 2025-11-27 | 2025-12-05 |
 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-04-30 | 2026-05-02 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-12 | 2025-06-20 |
@@ -6517,7 +6519,7 @@
 | [Tanana](https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Tanana / Mush](https://open.spotify.com/album/0x1oIowTSUKCbeCEiUCifA) | 3:19 | 2025-09-25 | 2025-10-04 |
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 | 2025-11-21 |
 | [TANIYORLAR İSMİ](https://open.spotify.com/track/1chLrdovCyz1euSshfbFb9) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TANIYORLAR İSMİ](https://open.spotify.com/album/4liNpUIfyijFJW2bQryD15) | 1:23 | 2025-03-13 | 2025-03-21 |
-| [TANK TANK](https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [TANK TANK](https://open.spotify.com/album/6kC5tzpLLUrz4ZxcJWIC1f) | 2:43 | 2026-06-04 |  |
+| [TANK TANK](https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [TANK TANK](https://open.spotify.com/album/6kC5tzpLLUrz4ZxcJWIC1f) | 1:47 | 2026-06-04 |  |
 | [Tanrı Misafiri](https://open.spotify.com/track/4spDNDGNgYSCnk33iNhn0j) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Tanrı Misafiri](https://open.spotify.com/album/1s1zNQla1yiG88a765Xqaa) | 3:43 | 2025-10-16 | 2025-10-24 |
 | [Tanrı Şahidim](https://open.spotify.com/track/05iZG2c93wgIZd3LSr6fl6) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Tanrı Şahidim](https://open.spotify.com/album/0wrOprvdXYjaHSsy6GhIvK) | 2:12 | 2026-03-26 | 2026-04-03 |
 | [Tanrı'dan Diledim](https://open.spotify.com/track/0EKaLYsXdhIR9SKq9Fk0KR) | [Volkan Koşar](https://open.spotify.com/artist/1vUqL89uShDw2aH6XjAHvE) | [Tanrı'dan Diledim](https://open.spotify.com/album/6Utl21mCgfQUxbfLsJ7WUV) | 3:30 | 2026-04-02 | 2026-04-10 |

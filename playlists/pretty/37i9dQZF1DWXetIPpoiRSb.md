@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Kim Petras is this week's evolving icon 🔂
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,154 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,141 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 69 | [Simple Solution](https://open.spotify.com/track/69sfdnccdv6qGt8lguf0En) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Us Forever](https://open.spotify.com/album/2eLMyVmP9ywXfYMT1PA645) | 3:32 |
 | 70 | [girls](https://open.spotify.com/track/0dZjccxMWrvVy4l3lUJUGG) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:47 |
 
-Snapshot ID: `AAAAAB7t2Kznj/AQ5uw/G7yE5DvYkq79`
+Snapshot ID: `AAAAAGpLj8l5zkc6qjt1tlG8ByQ4B5Ze`

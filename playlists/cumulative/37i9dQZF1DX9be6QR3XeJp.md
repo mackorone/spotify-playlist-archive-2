@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: thistle.
+> Discover your new favourite artists from UK&IE\. Cover: Internet Cafe
 
-358 songs - 19 hr 11 min
+359 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Lost in Therapy](https://open.spotify.com/track/0mbANhAzETyMsFjUhUOmlo) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/5HR3Q9Vg5xvAiRnpgWWgPG) | 3:39 | 2022-02-18 |  |
 | [Lost in Therapy](https://open.spotify.com/track/3WZFJI7o916wwssS5f2Lsu) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/6dIdv6wH7700qQ2D9jnPxp) | 3:39 | 2022-10-13 | 2024-04-19 |
 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 | 2022-02-18 |  |
+| [Lost Signal](https://open.spotify.com/track/2I597clj5PJWixyMR47HRi) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Lost Signal](https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ) | 2:33 | 2026-06-05 |  |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-02-18 |  |
 | [Loud](https://open.spotify.com/track/3eTH67em8ZO5qzbv3w0w1L) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/1cRWqwiwrA2cVSXbyysn94) | 4:00 | 2024-01-19 | 2024-04-19 |
 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-02-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: Lash curry",
+  "description": "Naya Hip-Hop Hindi! Cover: Bhaktaaa",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 158592,
       "name": "7 FIGURES",
       "url": "https://open.spotify.com/track/186GfJYtepvNgHpnTEGqVB"
@@ -5580,6 +5580,24 @@
       "duration_ms": 181803,
       "name": "BLACKA!",
       "url": "https://open.spotify.com/track/11eTxSL4QsmA84mPnOMGD2"
+    },
+    {
+      "album": {
+        "name": "Ab Vo Ladka Nahi",
+        "url": "https://open.spotify.com/album/6vxF1Lp5FSKrfLqG8a49iF"
+      },
+      "artists": [
+        {
+          "name": "Bhaktaaa",
+          "url": "https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181803,
+      "name": "BLACKA!",
+      "url": "https://open.spotify.com/track/2StIqOslaGoZL5GqrE0n03"
     },
     {
       "album": {
@@ -23027,6 +23045,24 @@
     },
     {
       "album": {
+        "name": "Ab Vo Ladka Nahi",
+        "url": "https://open.spotify.com/album/6vxF1Lp5FSKrfLqG8a49iF"
+      },
+      "artists": [
+        {
+          "name": "Bhaktaaa",
+          "url": "https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167268,
+      "name": "Moola, Cheese, Money",
+      "url": "https://open.spotify.com/track/5ytP6Nn8UHvitbzzCqs03u"
+    },
+    {
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8"
       },
@@ -33326,7 +33362,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 193777,
       "name": "Turiya Freeverse 2",
       "url": "https://open.spotify.com/track/2iEyQA2XHav60cutbAzom8"

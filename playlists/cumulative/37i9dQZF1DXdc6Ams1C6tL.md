@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Sam Fender and Olivia Dean continue their hot streak 🔥
+> Ariana Grande is this week's \#1 single 🌷
 
 48 songs - 2 hr 52 min
 

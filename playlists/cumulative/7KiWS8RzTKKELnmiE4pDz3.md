@@ -4,7 +4,7 @@
 
 > 
 
-1,481 songs - 3 day 7 hr 19 min
+1,482 songs - 3 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [I Can't Surf](https://open.spotify.com/track/6uPVoLWXkL9kEThwD5f220) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Liquor In The Front](https://open.spotify.com/album/6jAAhup75lBUgBlL7nz1lh) | 2:41 | 2026-01-21 | 2026-03-08 |
 | [I Choose Violence](https://open.spotify.com/track/4HiLV59Z9iCaWbbBxRregh) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [I Choose Violence](https://open.spotify.com/album/48UIGbmSKJGDOFniUwOsd1) | 2:38 | 2023-01-09 | 2023-12-14 |
 | [I Choose Violence](https://open.spotify.com/track/5n9MYzhJ3wYnxYyxCeydj4) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:39 | 2023-10-03 | 2026-02-08 |
+| [I Did This To Myself](https://open.spotify.com/track/7fJM4XjW6m30iPxPxKeGpb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:30 | 2026-06-05 |  |
 | [I Do](https://open.spotify.com/track/7kbgzSYR7X9FkzIeUFkviQ) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 5:11 | 2026-05-29 |  |
 | [I Don’t Text Back \(feat\. Yeat\)](https://open.spotify.com/track/6Gh8SC2X9tC1EmgJK6tin0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 2:11 | 2022-10-21 | 2023-05-09 |
 | [I Gotcha](https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:58 | 2025-08-19 |  |

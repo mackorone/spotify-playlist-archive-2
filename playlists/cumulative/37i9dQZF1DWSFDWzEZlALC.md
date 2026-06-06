@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MAJAN, Dilla
 
-1,805 songs - 3 day 13 hr 1 min
+1,805 songs - 3 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [abcdefg](https://open.spotify.com/track/4rWwH1O8wyPUxT2QYDPXN0) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [abcdefg](https://open.spotify.com/album/6DcG7tdGy2L5kImJdWs6wU) | 3:07 | 2023-02-13 | 2023-02-15 |
 | [abendrot](https://open.spotify.com/track/5pvDspjgrtfo9rRPE5rR5M) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [abendrot](https://open.spotify.com/album/4XTqp55fa4vT8lBIQj4Wnp) | 2:06 | 2025-02-20 | 2025-04-25 |
 | [Aber bei dir](https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Aber bei dir](https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa) | 2:26 | 2023-02-02 | 2026-02-15 |
+| [Abgebrannt \(mit Charlize, Romy & Rio Reiser\)](https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX), [Rio Reiser](https://open.spotify.com/artist/0YcKbZwjx2BEoKLzfqlmgH) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:26 | 2026-06-04 |  |
 | [Abwarten](https://open.spotify.com/track/1y9yVDYBqXIb8Z9lpUqiOk) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line](https://open.spotify.com/album/5EetiFf1iFwNbXpsDixYer) | 3:39 | 2024-11-29 | 2025-01-17 |
 | [Ach Du Liebe Zeit](https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Ach Du Liebe Zeit](https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP) | 2:24 | 2024-09-05 | 2024-11-08 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-03-30 | 2025-02-15 |
@@ -1520,8 +1521,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 3](https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 0:00 | 2026-06-04 |  |
-| [Track 5](https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [nichtsmehrda](https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU) | 0:00 | 2026-06-04 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |
@@ -1800,6 +1799,7 @@
 | [ZuuuUuuu](https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB) | [COBEE](https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8) | [ZuuuUuuu](https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X) | 2:33 | 2023-02-16 | 2023-03-03 |
 | [Zwanzigsechzehn](https://open.spotify.com/track/0EV8VS7YLmOZSScL5X3WtZ) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Zwanzigsechzehn](https://open.spotify.com/album/1MvhN2ZRDch1wMPaYFhfPW) | 2:32 | 2026-02-14 | 2026-03-27 |
 | [Zwei Menschen](https://open.spotify.com/track/391bJktdMNTV1TbKgodX8a) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 3:24 | 2026-02-12 | 2026-02-15 |
+| [zweitausendachtzehn](https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [nichtsmehrda](https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU) | 3:07 | 2026-06-04 |  |
 | [Zweite Reihe](https://open.spotify.com/track/4tE0naF1KuKH7M9ql8kPPR) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Zweite Reihe](https://open.spotify.com/album/3zeuVVy79YMiGOz3N181WL) | 2:38 | 2025-01-23 | 2025-02-07 |
 | [zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht <3](https://open.spotify.com/album/3fU8AScEC1AiQHfOSIL7hI) | 2:39 | 2023-09-07 | 2023-11-17 |
 | [zwischendrin verliebt](https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin verliebt](https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf) | 2:46 | 2024-10-18 | 2025-04-11 |

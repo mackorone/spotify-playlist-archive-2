@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,113 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,113 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 65 | [Sulhanen](https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Sulhanen](https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30) | 2:42 |
 | 66 | [Takas sun luo](https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk) | [JAMIE](https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a) | [Takas sun luo](https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E) | 2:48 |
 | 67 | [OK \(feat\. ANI\)](https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [OK \(feat\. ANI\)](https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73) | 2:29 |
-| 68 | [Talking Heads](https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Camouflage](https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo) | 3:46 |
-| 69 | [Itseni vihollinen](https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Itseni vihollinen](https://open.spotify.com/album/3ovNzQ1alSCvpfkXPn1pm5) | 3:26 |
-| 70 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
+| 68 | [Itseni vihollinen](https://open.spotify.com/track/0WXo5nX2iMUjxY9h19FijK) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Itseni vihollinen](https://open.spotify.com/album/3ovNzQ1alSCvpfkXPn1pm5) | 3:26 |
+| 69 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
+| 70 | [Talking Heads](https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Camouflage](https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo) | 3:46 |
 | 71 | [Jussi \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/0QVaSbyIo8jPzrkU5exmE0) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [2000](https://open.spotify.com/album/5lzkzJ8wSkUqUFSpiTgEDc) | 2:52 |
 | 72 | [kerro kerro kuvastin](https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [tuntuu niin paljon itkettää](https://open.spotify.com/album/2fGfEH9IlmR2QHnxTRqHbm) | 3:15 |
 | 73 | [Vasara](https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Vasara](https://open.spotify.com/album/1hCscYsfkR5SRkNo7g3ant) | 2:41 |
-| 74 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
-| 75 | [10/10](https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:56 |
-| 76 | [Aerobikki](https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9) | [Antti Paalanen](https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V) | [Aerobikki](https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC) | 2:48 |
-| 77 | [Terälehti](https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Terälehti](https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr) | 2:28 |
+| 74 | [Terälehti](https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Terälehti](https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr) | 2:28 |
+| 75 | [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 |
+| 76 | [10/10](https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:56 |
+| 77 | [Aerobikki](https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9) | [Antti Paalanen](https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V) | [Aerobikki](https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC) | 2:48 |
 | 78 | [Viimeiseen hengenvetoon](https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Viimeiseen hengenvetoon](https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ) | 3:21 |
-| 79 | [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 |
-| 80 | [Minä olin täällä](https://open.spotify.com/track/65u2hRy8N3yN9QkYTbbTPu) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Minä olin täällä](https://open.spotify.com/album/6pbFnA1tXb9DN9rDHl7q0O) | 3:33 |
+| 79 | [Minä olin täällä](https://open.spotify.com/track/65u2hRy8N3yN9QkYTbbTPu) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Minä olin täällä](https://open.spotify.com/album/6pbFnA1tXb9DN9rDHl7q0O) | 3:33 |
+| 80 | [Fuck You Money](https://open.spotify.com/track/7LYD0mKrU86HscARAfnlz4) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Fuck You Money](https://open.spotify.com/album/5orjnNDI3TXCqAEOM6hN04) | 2:15 |
 
 Snapshot ID: `AAAAADUBn6aW0CSk4EhR4CpDeB64aJik`

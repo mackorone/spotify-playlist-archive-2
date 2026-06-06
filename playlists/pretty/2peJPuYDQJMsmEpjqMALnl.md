@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 323,356 likes - 114 songs - 8 hr 12 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 323,351 likes - 114 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 113 | [Kiss](https://open.spotify.com/track/5uBOaCN5vDdk9JqsefjQSh) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:46 |
 | 114 | [Trouble in This Town](https://open.spotify.com/track/5nx6ebdf1EJE2M8zGHEoA5) | [The Bats](https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW) | [The Bats: Volume 1](https://open.spotify.com/album/19o7hrmNAdd72HiUqfc5ri) | 2:45 |
 
-Snapshot ID: `AAAFuBxhvccOrDN6Tu7SUlCywuVtudAc`
+Snapshot ID: `AAAFutBfw3roxhiYMxP+l3hG66T7g7tH`

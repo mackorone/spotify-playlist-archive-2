@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💋 Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,186 likes - 188 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,186 likes - 188 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
-| 2 | [Track 10](https://open.spotify.com/track/4sYN0jmoaiQY4WzhUdu2Ua) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Ikk Gi Dig Selv Væk Før Du Føler Dig Hjemme](https://open.spotify.com/album/2yjFO6ehaMr1GmPJ2TK4TW) | 0:00 |
+| 2 | [Bare La Dem](https://open.spotify.com/track/4sYN0jmoaiQY4WzhUdu2Ua) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Ikk Gi Dig Selv Væk Før Du Føler Dig Hjemme](https://open.spotify.com/album/2yjFO6ehaMr1GmPJ2TK4TW) | 3:14 |
 | 3 | [En Mildest Talt Elendig Samtale](https://open.spotify.com/track/7fGN0JEQtntcln3LdnjXoe) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [En Mildest Talt Elendig Samtale](https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf) | 2:53 |
 | 4 | [Bider Det I Mig](https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Sweetheart](https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz) | 2:48 |
 | 5 | [Kanten](https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Kanten](https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH) | 2:32 |

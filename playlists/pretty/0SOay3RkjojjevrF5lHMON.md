@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0SOay3RkjojjevrF5lHMON.md) - [plain]
 
 > All <a href="http://www.rammstein.com">RAMMSTEIN</a>, all the time.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 303,369 likes - 254 songs - 19 hr 24 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 303,355 likes - 254 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/0SOay3RkjojjevrF5lHMON.md) - [plain]
 | 101 | [Adieu \- RMX by Andrea Marino](https://open.spotify.com/track/3Uj4vREz90OHSmr9jkWEGC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [Andrea Marino](https://open.spotify.com/artist/3DuG56Wukk4WUH80GyVGED) | [Remixes](https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X) | 4:04 |
 | 102 | [Ausländer](https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 3:51 |
 | 103 | [Ausländer \- RMX By R3hab](https://open.spotify.com/track/1WEFD4kgh3Toem7D4kCTlm) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ausländer \(Remixes\)](https://open.spotify.com/album/3kNq2tf4Pl2vE6nlnNVAMH) | 3:49 |
-| 104 | [Ausländer \- RMX By Felix Jaehn](https://open.spotify.com/track/7zNq4uOuke0NtIHdZRvxsC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Ausländer \(Remixes\)](https://open.spotify.com/album/3kNq2tf4Pl2vE6nlnNVAMH) | 3:28 |
+| 104 | [Ausländer \- RMX By Felix Jaehn](https://open.spotify.com/track/7zNq4uOuke0NtIHdZRvxsC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Ausländer \(Remixes\)](https://open.spotify.com/album/3kNq2tf4Pl2vE6nlnNVAMH) | 3:28 |
 | 105 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
 | 106 | [Radio \- RMX By twocolors](https://open.spotify.com/track/2BU94ACH6QLdGHu2kL3IU5) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Radio](https://open.spotify.com/album/0mm3Hm8e1zYNuU2np9l2ZS) | 5:00 |
 | 107 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Becky G.",
+  "description": "Pop on the rise you should know, featuring Yorghaki.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -696,6 +696,28 @@
       "duration_ms": 208635,
       "name": "Abr\u00e1zame Fuerte",
       "url": "https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2"
+    },
+    {
+      "album": {
+        "name": "ANTES DE QUE SEA TARDE",
+        "url": "https://open.spotify.com/album/7z513StymZaeATXNoCBeDr"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "abusadOra (tambores)",
+      "url": "https://open.spotify.com/track/1thaOV3ltF9gn3if93fyRo"
     },
     {
       "album": {
@@ -1532,6 +1554,24 @@
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "album": {
+        "name": "asiasi",
+        "url": "https://open.spotify.com/album/41RTrFwZBx8T7jDe012YXj"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139180,
+      "name": "asiasi",
+      "url": "https://open.spotify.com/track/4QxMigaEbIbht0w0jHIVAr"
     },
     {
       "album": {
@@ -2558,7 +2598,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 167782,
       "name": "BRRREAK!",
       "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
@@ -11337,6 +11377,24 @@
     },
     {
       "album": {
+        "name": "sorry si soy GRRRIS",
+        "url": "https://open.spotify.com/album/2REZnpE59NSHnRdZHXfyzC"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "NI NA\u2019",
+      "url": "https://open.spotify.com/track/39C3rCxx20wcrWA1ACfUfI"
+    },
+    {
+      "album": {
         "name": "Nsqk - Spotify Sessions",
         "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
       },
@@ -16168,7 +16226,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 216149,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
@@ -16190,7 +16248,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 156970,
       "name": "Tu Gata",
       "url": "https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49"

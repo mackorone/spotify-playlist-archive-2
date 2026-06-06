@@ -4,7 +4,7 @@
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,321 songs - 7 day 3 hr 14 min
+3,322 songs - 7 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1335,6 +1335,7 @@
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-11 | 2024-07-27 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-09 | 2026-02-06 |
 | [I Just Want You](https://open.spotify.com/track/5ewja8JMIn5ntA29n8G1Ld) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [I Just Want You](https://open.spotify.com/album/0iJMOLEevjXmTfiWKxEkUa) | 3:05 | 2024-11-14 | 2024-12-13 |
+| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-26 | 2026-04-24 |
 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 | 2025-10-16 | 2025-11-07 |
 | [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-02-13 | 2026-02-27 |
@@ -1766,7 +1767,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-05 | 2025-07-04 |
 | [ManDarE TuTto All'aRIA](https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [ManDarE TuTto All'aRIA](https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv) | 2:49 | 2024-11-28 | 2025-01-10 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-08-15 |
-| [Mannaggia A Me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia A Me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 | 2026-06-04 |  |
+| [Mannaggia a me](https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Mannaggia a me](https://open.spotify.com/album/3WXUpqqXf2U0JUARTcTlQL) | 2:28 | 2026-06-04 |  |
 | [MANS?](https://open.spotify.com/track/6mTK5VOpjZY6ORqdUBusIg) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv), [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [MANS?](https://open.spotify.com/album/64qvpQg15RttpvvxV8RZVY) | 3:05 | 2026-01-09 | 2026-02-06 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2024-11-15 |
 | [Mantra](https://open.spotify.com/track/5YF7DGsobUiG5SzvJ3FH7F) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Mantra](https://open.spotify.com/album/5siUBN5orlCphWK9AMxgJ9) | 2:36 | 2026-05-28 |  |
@@ -2513,6 +2514,7 @@
 | [Seduto in riva al fosso](https://open.spotify.com/track/3GdcwYWw3EO4E2Y3sUW3Zy) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Buon compleanno Elvis Covered](https://open.spotify.com/album/4xsYVPCas1u8Lyz43qio3Q) | 5:04 | 2025-09-25 | 2025-10-17 |
 | [SEGRETO](https://open.spotify.com/track/2R92blPwwdZDGYYVXO8lPj) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [SEGRETO](https://open.spotify.com/album/2xjHYFQj5tVqgtoIjgou3R) | 2:39 | 2026-03-26 | 2026-04-17 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-23 | 2025-02-14 |
+| [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 | 2026-06-04 |  |
 | [SEI COME NIENTE](https://open.spotify.com/track/1SQQ0QGSwKmstIJmgn4jV3) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [SEI COME NIENTE](https://open.spotify.com/album/3XSpIT0WoGRZACV1fbEMSB) | 3:10 | 2026-01-29 | 2026-02-25 |
 | [Sei Dappertutto](https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 2:32 | 2024-12-12 | 2025-01-10 |
 | [sei quel che sei](https://open.spotify.com/track/4rEqdT6srKeojcUdzK6zsT) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [sei quel che sei](https://open.spotify.com/album/0gHgtrWRHxwZ2RFNRNMThX) | 2:40 | 2025-01-30 | 2025-02-14 |
@@ -3005,7 +3007,6 @@
 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-12 | 2025-03-07 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2025-01-10 |
-| [Track 3](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 0:00 | 2026-06-04 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-15 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-04-03 |
 | [Traitor](https://open.spotify.com/track/6RJUH9V6OBskrZlKhudD7p) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [MegaHits 2025 \- Die Erste](https://open.spotify.com/album/5tuEP1oRBPT1A3hsrsSkdw) | 2:28 | 2025-01-16 | 2025-02-12 |

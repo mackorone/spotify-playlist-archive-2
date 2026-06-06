@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Koriass",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Hamza",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 164719,
       "name": "49.3 COUP DE CROSS",
       "url": "https://open.spotify.com/track/4bJe4Gx68guB9bYh8kWw9P"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 165186,
       "name": "APPRIVOISER",
       "url": "https://open.spotify.com/track/6USVH1ACdXS009xZA7DbzR"
@@ -1694,6 +1694,24 @@
       "duration_ms": 173071,
       "name": "Bleu & rouge",
       "url": "https://open.spotify.com/track/3IWAqNuvaUbesKSfoXQ5Nl"
+    },
+    {
+      "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115488,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 196425,
       "name": "CARATS",
       "url": "https://open.spotify.com/track/0mcwT92UA1dnVxU2zvcy9H"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 153490,
       "name": "EXPLICIT 69",
       "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
@@ -4702,6 +4720,24 @@
       "duration_ms": 157140,
       "name": "Fusion",
       "url": "https://open.spotify.com/track/7a2IAS8wXPikqHfLdWCv86"
+    },
+    {
+      "album": {
+        "name": "FYL",
+        "url": "https://open.spotify.com/album/5qFTEABkPuMuy5pfmXpshM"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "FYL",
+      "url": "https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN"
     },
     {
       "album": {
@@ -5190,7 +5226,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 159518,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/316wiC4W2njDVib9XTEzAk"
@@ -6501,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "La Vraie Vie (Freestyle des Flammes)",
+        "url": "https://open.spotify.com/album/3YKokVCs4GaS1TCPMBJWNZ"
+      },
+      "artists": [
+        {
+          "name": "Juste Shani",
+          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "La Vraie Vie (Freestyle des Flammes)",
+      "url": "https://open.spotify.com/track/65MTKzHYUo4gBC6USD8LiI"
+    },
+    {
+      "album": {
         "name": "J'AI MENTI.",
         "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
@@ -6592,6 +6646,24 @@
       "duration_ms": 138728,
       "name": "LE GO\u00dbT D'MES 16",
       "url": "https://open.spotify.com/track/1EimszNEZIAOaKdaTE53Ee"
+    },
+    {
+      "album": {
+        "name": "LE MARATHON CONTINUE",
+        "url": "https://open.spotify.com/album/6OHOOiHJptzGMOFMhzJUzt"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163394,
+      "name": "LE MARATHON CONTINUE",
+      "url": "https://open.spotify.com/track/1iFwiJ0Bwd5nNW2OUmcpbV"
     },
     {
       "album": {
@@ -7130,6 +7202,28 @@
       "duration_ms": 109446,
       "name": "L\u00c9CHAGE",
       "url": "https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B"
+    },
+    {
+      "album": {
+        "name": "l\u00e9ger et pensif",
+        "url": "https://open.spotify.com/album/2a3j6ZGeb4q2JY2lnX1Dgj"
+      },
+      "artists": [
+        {
+          "name": "OPUS CREW x faust.opcm",
+          "url": "https://open.spotify.com/artist/25X8XWhUn6C72BVjEr0uyv"
+        },
+        {
+          "name": "Linkrust",
+          "url": "https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "l\u00e9ger et pensif",
+      "url": "https://open.spotify.com/track/3bnfha00IGe5KqDSbpDx5a"
     },
     {
       "album": {
@@ -7845,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "MONSTRE",
+        "url": "https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192771,
+      "name": "Monstrueux",
+      "url": "https://open.spotify.com/track/2TDCLfUiTEoPSrjUIAI6V7"
+    },
+    {
+      "album": {
         "name": "EXTASIA",
         "url": "https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX"
       },
@@ -8403,6 +8515,28 @@
     },
     {
       "album": {
+        "name": "SALGOAT (Vol. 2)",
+        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164567,
+      "name": "NOUVEAU FER (feat. Jolagreen23)",
+      "url": "https://open.spotify.com/track/3vHymII52Q6kMKj1UDHjXd"
+    },
+    {
+      "album": {
         "name": "Que de l'amour 2",
         "url": "https://open.spotify.com/album/4eiOL9WAb34hnjkWf6LFKW"
       },
@@ -8480,7 +8614,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI"
@@ -8838,7 +8972,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 214913,
       "name": "Parfum",
       "url": "https://open.spotify.com/track/1qDenhZaKRjBSMIfu7ZI4a"
@@ -8874,7 +9008,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 177785,
       "name": "Paris s'endort",
       "url": "https://open.spotify.com/track/4UvlNH2yV5Y6BZakTH7B5p"
@@ -10226,7 +10360,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 153767,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/0en5IGwGR7RTyUQ7JFZnOi"
@@ -10653,6 +10787,28 @@
     },
     {
       "album": {
+        "name": "SAUVAGERIE 4",
+        "url": "https://open.spotify.com/album/0QvgfruvO3HBYnu0wJ4ayJ"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160324,
+      "name": "SAUVAGERIE 4",
+      "url": "https://open.spotify.com/track/750H9wy1FAhP33A4aMzvvv"
+    },
+    {
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
@@ -10948,7 +11104,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 148139,
       "name": "Shonen",
       "url": "https://open.spotify.com/track/7crrZNAEGZnJc9ubNtOcqH"
@@ -11382,6 +11538,24 @@
       "duration_ms": 190640,
       "name": "Survivant",
       "url": "https://open.spotify.com/track/58VZurLTMH9szEdaNndfj9"
+    },
+    {
+      "album": {
+        "name": "Sylvie Vartan",
+        "url": "https://open.spotify.com/album/3ldEvtqLM6UFYDOiOPVIqB"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "Sylvie Vartan",
+      "url": "https://open.spotify.com/track/4yUzl4u1mnBRp1y5UcObxh"
     },
     {
       "album": {
@@ -12350,6 +12524,28 @@
       "duration_ms": 217846,
       "name": "Van Dijk",
       "url": "https://open.spotify.com/track/7EYQIzoZ6TNLXK9F4j04Sy"
+    },
+    {
+      "album": {
+        "name": "DRAKKAR",
+        "url": "https://open.spotify.com/album/24v0IedAru6yCDoqE3X6Th"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150213,
+      "name": "Velar",
+      "url": "https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h"
     },
     {
       "album": {

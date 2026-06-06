@@ -14539,24 +14539,6 @@
     },
     {
       "album": {
-        "name": "KiCKIN",
-        "url": "https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "date_added": "2024-10-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142146,
-      "name": "KiCKIN",
-      "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
-    },
-    {
-      "album": {
         "name": "BRAVADO + INTiMO",
         "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
       },
@@ -14572,6 +14554,24 @@
       "duration_ms": 142095,
       "name": "KiCKiN! (B)",
       "url": "https://open.spotify.com/track/2HOL1tgbwCvmrmHCkHKwkL"
+    },
+    {
+      "album": {
+        "name": "KiCKIN",
+        "url": "https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "KiCKiN! (B)",
+      "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37713,
+  "num_followers": 37711,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Take Me Dancing",
         "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 163231,
       "name": "Take Me Dancing",
       "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Cars And Things That Go",
-        "url": "https://open.spotify.com/album/6GRMHWjqfLcZg4rdHhxGPu"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Time to Shine",
         "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 163338,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Cars And Things That Go",
+        "url": "https://open.spotify.com/album/6GRMHWjqfLcZg4rdHhxGPu"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/59UM9sARVWyG9GLXOJIzoX"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -639,6 +623,22 @@
       "duration_ms": 146706,
       "name": "Never Stop the Party",
       "url": "https://open.spotify.com/track/17vOYsHvYE3YFXvAs8U9p7"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Caught",
-        "url": "https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Caught",
-      "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
       },
@@ -799,38 +783,6 @@
       "duration_ms": 157540,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Oscillare",
-        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 311641,
-      "name": "Estate torna presto",
-      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/1R3EjJGIb07JMWgV2snQwB"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "One Eighty",
-      "url": "https://open.spotify.com/track/0c2AISXmKyxzeXjw0csxfr"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -851,6 +803,38 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Oscillare",
+        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 311641,
+      "name": "Estate torna presto",
+      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Caught",
+        "url": "https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "Caught",
+      "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Don't Let Him Go",
         "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/1R3EjJGIb07JMWgV2snQwB"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "One Eighty",
+      "url": "https://open.spotify.com/track/0c2AISXmKyxzeXjw0csxfr"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Blue Light",
-        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 206755,
-      "name": "Blue Light",
-      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Type Of Way",
         "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
       },
@@ -947,22 +931,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 205755,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Shut The Door",
-        "url": "https://open.spotify.com/album/4abBmQtwJmK6UdoMzzqykF"
+        "name": "Damaged By Their Silence",
+        "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
       },
       "artists": [
         {
-          "name": "To Athena",
-          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
         }
       ],
-      "duration_ms": 170502,
-      "name": "Shut The Door",
-      "url": "https://open.spotify.com/track/0YLHoEmkIOHKUWfb3Wk78T"
+      "duration_ms": 271680,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1179,22 +1179,6 @@
       "duration_ms": 199838,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Damaged By Their Silence",
-        "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
-      },
-      "artists": [
-        {
-          "name": "Malumm\u00ed",
-          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
-        }
-      ],
-      "duration_ms": 271680,
-      "name": "Therapist",
-      "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1235,6 +1219,38 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Shut The Door",
+        "url": "https://open.spotify.com/album/4abBmQtwJmK6UdoMzzqykF"
+      },
+      "artists": [
+        {
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+        }
+      ],
+      "duration_ms": 170502,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/0YLHoEmkIOHKUWfb3Wk78T"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
@@ -1267,38 +1283,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 151250,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
+      },
+      "artists": [
+        {
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Born With A Broken Heart",
         "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 186175,
       "name": "Born With A Broken Heart",
       "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
-      },
-      "artists": [
-        {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2026-06-04 22:01:11",

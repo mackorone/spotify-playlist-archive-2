@@ -15763,6 +15763,28 @@
     },
     {
       "album": {
+        "name": "Reina",
+        "url": "https://open.spotify.com/album/2adEYmTEjW7rnxS2OzkfOg"
+      },
+      "artists": [
+        {
+          "name": "Beni",
+          "url": "https://open.spotify.com/artist/6FD0tGJvtELivSMMrRqmE9"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143270,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/0LO1RZvuBOminFrXbDT7us"
+    },
+    {
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },

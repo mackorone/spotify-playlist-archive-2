@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Joe Bonamassa",
+  "description": "The best in blues right now. Cover: Ruthie Foster",
   "name": "Got Blues",
   "tracks": [
     {
@@ -4395,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "Young Rell",
+        "url": "https://open.spotify.com/album/1x6GiXpqZfJHmekqhq0Dh4"
+      },
+      "artists": [
+        {
+          "name": "Harrell \"Young Rell\" Davenport",
+          "url": "https://open.spotify.com/artist/6iB5eOcGNGZoSMwTUjsEPf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280413,
+      "name": "I Be Tryin'",
+      "url": "https://open.spotify.com/track/2XsMW66v1iNZ05TcL3z3yz"
+    },
+    {
+      "album": {
         "name": "I Can't Stop Lovin'",
         "url": "https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb"
       },
@@ -7456,7 +7474,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 258293,
       "name": "River Picker",
       "url": "https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S"
@@ -8813,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3Hi8G5HrOGDVq61tct7zld"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199969,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3OsPdwc8t0ReCQjGFarwvZ"
+    },
+    {
+      "album": {
         "name": "That's All Right",
         "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
       },
@@ -8824,7 +8860,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 179197,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI0IKKJ3JUKfTuSFN8ncQXxKgSmmAp",
+  "snapshot_id": "AAAI0iZFlt4ofZDH0eU4R0UssZJNI1iP",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -62504,7 +62504,7 @@
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
         }
       ],
-      "duration_ms": 128839,
+      "duration_ms": 128840,
       "name": "zero zero bea",
       "url": "https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD"
     },
@@ -73431,6 +73431,42 @@
       "duration_ms": 329480,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP"
+    },
+    {
+      "added_at": "2026-06-05 10:45:14",
+      "album": {
+        "name": "Sincerely, Don",
+        "url": "https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        },
+        {
+          "name": "Dritan Hoxhaa",
+          "url": "https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Kilos",
+      "url": "https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu"
+    },
+    {
+      "added_at": "2026-06-05 12:32:42",
+      "album": {
+        "name": "Epic One",
+        "url": "https://open.spotify.com/album/0zBEpohA04Axtzo08uhago"
+      },
+      "artists": [
+        {
+          "name": "EverFelt",
+          "url": "https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX"
+        }
+      ],
+      "duration_ms": 455978,
+      "name": "Epic One",
+      "url": "https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH"
     }
   ],
   "unique_name": "playlist spotify free",

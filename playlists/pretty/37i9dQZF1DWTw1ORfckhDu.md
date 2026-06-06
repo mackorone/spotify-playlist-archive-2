@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,258 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,251 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,22 +38,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 28 | [Vegas](https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Vegas](https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO) | 2:25 |
 | 29 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
 | 30 | [HENNY](https://open.spotify.com/track/3woF4U1wkxyrczjGogDxvK) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [HENNY](https://open.spotify.com/album/37b4KnqnX3Dj64YQwf4pzy) | 2:33 |
-| 31 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
-| 32 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
-| 33 | [Boujee](https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Boujee](https://open.spotify.com/album/0kecOEPFgZ3b6Au59OKVet) | 2:30 |
-| 34 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 31 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
+| 32 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
+| 33 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 34 | [Boujee](https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Boujee](https://open.spotify.com/album/0kecOEPFgZ3b6Au59OKVet) | 2:30 |
 | 35 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
 | 36 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
 | 37 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 38 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 39 | [Lentoo](https://open.spotify.com/track/6660VtRfpFWAHYLV2M6oo1) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Lentoo](https://open.spotify.com/album/21lA51gDsHgzkxx2X5LhO2) | 2:19 |
-| 40 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
-| 41 | [TYTÖT \(feat\. VBZ\)](https://open.spotify.com/track/5U7eSZyxtnftPcVgq9C4GA) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0) | [TYTÖT \(feat\. VBZ\)](https://open.spotify.com/album/4Iw2adhkiSw1ggGxJLmLy7) | 2:40 |
-| 42 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
-| 43 | [Idari](https://open.spotify.com/track/3N2IDifmtszdBvBT894ZYn) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [69,9 FM](https://open.spotify.com/album/2TNNv7rXnha6ZJ9dgRskYv) | 2:38 |
-| 44 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
-| 45 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
-| 46 | [Riehuu rikkoo rakastaa](https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Riehuu rikkoo rakastaa](https://open.spotify.com/album/7qZf1JEx0DXwvZzHZtpqVR) | 2:55 |
+| 40 | [TYTÖT \(feat\. VBZ\)](https://open.spotify.com/track/5U7eSZyxtnftPcVgq9C4GA) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0) | [TYTÖT \(feat\. VBZ\)](https://open.spotify.com/album/4Iw2adhkiSw1ggGxJLmLy7) | 2:40 |
+| 41 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
+| 42 | [Idari](https://open.spotify.com/track/3N2IDifmtszdBvBT894ZYn) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [69,9 FM](https://open.spotify.com/album/2TNNv7rXnha6ZJ9dgRskYv) | 2:38 |
+| 43 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 44 | [Riehuu rikkoo rakastaa](https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Riehuu rikkoo rakastaa](https://open.spotify.com/album/7qZf1JEx0DXwvZzHZtpqVR) | 2:55 |
+| 45 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
+| 46 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
 | 47 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
 | 48 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
 | 49 | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/track/16XlESQD7Rp3WANPygQU7k) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/album/08pkqUJ3MZ6IhEctB6TbPL) | 2:44 |

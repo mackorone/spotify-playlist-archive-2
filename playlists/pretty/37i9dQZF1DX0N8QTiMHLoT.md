@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,405 likes - 93 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,426 likes - 93 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RUIN BAR](https://open.spotify.com/track/1gW0fic25beFAdFK2vAi0o) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR) | [RUIN BAR](https://open.spotify.com/album/6WxMxvlnVzsjBb7fXeYezZ) | 2:16 |
-| 2 | [LET'S DO IT](https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a) | [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [LET'S DO IT](https://open.spotify.com/album/67hL5JpNIboktvifSRpVS8) | 3:16 |
-| 3 | [Slapocalypse Reborn](https://open.spotify.com/track/1Bqwr14lwvzUmIkvXZ2Z8W) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Alex Hutchings](https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j), [Tom Quayle](https://open.spotify.com/artist/4RgDxIZczeVdhT1gOIdJA3), [Ben Romano](https://open.spotify.com/artist/1IPYdDrCMmemkV00h0ddJb), [Danny Sapko](https://open.spotify.com/artist/1NgGrppqqB4K7frhzs1RGD), [Kahil Ferraris](https://open.spotify.com/artist/3ITfYlwQbhB7vrvCYWsLhN), [Marco Baldi](https://open.spotify.com/artist/6JwPTOpFvE42mK3LtPL8gd), [Peter Luha](https://open.spotify.com/artist/467JXUyvdp874McCFZGx0Z) | [Slapocalypse Reborn](https://open.spotify.com/album/2adrSp5rUSisnBg6RenKDU) | 2:43 |
+| 1 | [Too Easy](https://open.spotify.com/track/4C6kLt94CCeG27waFca0HB) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91), [Martin Miller](https://open.spotify.com/artist/1spSxLrhsCFplRSKYdmEz2) | [Too Easy](https://open.spotify.com/album/16bNq2Wc8PTUjrl4LpznWP) | 2:24 |
+| 2 | [RUIN BAR](https://open.spotify.com/track/1gW0fic25beFAdFK2vAi0o) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR) | [RUIN BAR](https://open.spotify.com/album/6WxMxvlnVzsjBb7fXeYezZ) | 2:16 |
+| 3 | [LET'S DO IT](https://open.spotify.com/track/19IVRhn8g3925OeoKDPG2a) | [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [LET'S DO IT](https://open.spotify.com/album/67hL5JpNIboktvifSRpVS8) | 3:16 |
 | 4 | [New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [New Beastly](https://open.spotify.com/album/2vkO4H8COwHd3CPEtC0I4t) | 4:11 |
 | 5 | [KHAOSAN ROAD](https://open.spotify.com/track/1HuFJdZpvJtvy9rywMkJnX) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [KHAOSAN ROAD](https://open.spotify.com/album/7t9tXTc2MVAkfP2SSS2cIK) | 2:15 |
 | 6 | [Bringing It Down to the Bass](https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy), [Alex Foster](https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV) | [Bringing It Down to the Bass](https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir) | 5:34 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 92 | [Aeon](https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H) | [We Are All You \(Extended Edition\)](https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr) | 2:22 |
 | 93 | [Twilight \- Radio Edit](https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Twilight](https://open.spotify.com/album/5o1AgueoytBvJOnvd62Gi3) | 4:24 |
 
-Snapshot ID: `AAAAAERG5VLbpwcDxCQTSTiO8aJ0bL5i`
+Snapshot ID: `AAAAAK7enJla5CyflYxcyngzdXBB95pZ`

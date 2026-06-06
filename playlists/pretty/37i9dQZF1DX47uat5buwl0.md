@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Banger na banger\. Cover: Antoon 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,179 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,172 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 69 | [No Go Zone \(Remix\)](https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [No Go Zone \(Remix\)](https://open.spotify.com/album/7C3DlpFK7aOVzOjM81nHWJ) | 4:40 |
 | 70 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
 
-Snapshot ID: `AAAAADxO3FtDe5bl+W9UbvebMWEI02uo`
+Snapshot ID: `AAAAAGZn6S92/fFjwugouy1LDeoHzbPK`

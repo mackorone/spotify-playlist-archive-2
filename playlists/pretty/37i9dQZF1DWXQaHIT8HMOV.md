@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Blu 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,592 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,608 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 16 | [Mulirwana](https://open.spotify.com/track/1Y6RiKTXGrqoLU0wvYzPs1) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Mulirwana](https://open.spotify.com/album/54xRNP4YWS7dvm7k5HQmZY) | 2:51 |
 | 17 | [Uh Huh](https://open.spotify.com/track/7GxGz0fU4NdeidEVjCOk9R) | [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [Uh Huh](https://open.spotify.com/album/1xekAF0w5YzvRGwHbw0z09) | 2:13 |
 | 18 | [Barik](https://open.spotify.com/track/6ZWibgEzfhtq6qGAbv1vs8) | [Omega 256](https://open.spotify.com/artist/4fqAceCbd2x3635AFs6nmD) | [Barik](https://open.spotify.com/album/7JTDomVxxgLwGt79WaQeW6) | 2:24 |
-| 19 | [Sweet Love](https://open.spotify.com/track/10DHPa1qlle1hALfwD5cnm) | [TAREL TALA](https://open.spotify.com/artist/7kT8UnxPBFJnPrktaiTEFc), [Heavy Cane](https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY) | [Sweet Love](https://open.spotify.com/album/2j2J9yxrWobWOvI8hpC0DF) | 3:25 |
+| 19 | [Sweet Love](https://open.spotify.com/track/10DHPa1qlle1hALfwD5cnm) | [TAREL TALA](https://open.spotify.com/artist/7kT8UnxPBFJnPrktaiTEFc), [Heavy Cane](https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY) | [Sweet Love](https://open.spotify.com/album/2j2J9yxrWobWOvI8hpC0DF) | 3:26 |
 | 20 | [Habibi](https://open.spotify.com/track/0dZPHeDKSci3kF7uGEowDX) | [Expect XHAVI](https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT) | [HABIBI](https://open.spotify.com/album/5DYq6LbDRwNEuvUCNQvRhl) | 2:13 |
 | 21 | [Obukya Buziba](https://open.spotify.com/track/6ySvbriTe1oFF5G83pUTwR) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Obukya Buziba](https://open.spotify.com/album/5vCJ27NW5seuPzLG526Ler) | 3:06 |
 | 22 | [MOSQUITOES](https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0) | [Amanya](https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh) | [MOSQUITOES](https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS) | 1:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 54 | [It All Depends](https://open.spotify.com/track/4ypKU7GxAWukpDQP0yyWam) | [I\-Blade](https://open.spotify.com/artist/0ZtJYd6DVTab3LqeSGKApU), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [It All Depends](https://open.spotify.com/album/1w4U6yXrHFvY0BvkLzfc5l) | 2:52 |
 | 55 | [Kiyamba Nze](https://open.spotify.com/track/4cjOihQfvoYISv7usG7dMR) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY) | [Kiyamba Nze & Empeta](https://open.spotify.com/album/6dV7uxni6lA7iGG80xfM0n) | 2:55 |
 
-Snapshot ID: `AAAAAAIq5SI5ZvwYGQEpKIm3yIJ7s3Ld`
+Snapshot ID: `AAAAAGBfQZkpUvr5JARL2grEba71MFSM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,669 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,679 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 10 | [REAL BADMAN](https://open.spotify.com/track/6O4nlsMxQfatN8a9Mj7L7b) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Dj Yosef](https://open.spotify.com/artist/7pzhTqdHeVnzlQI7MlISVI) | [REAL BADMAN](https://open.spotify.com/album/1NHeIRyBmzcN5lSSjL6MBV) | 2:32 |
 | 11 | [Sonya](https://open.spotify.com/track/7ELeq4ReJcL4tlafps77OW) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Sonya](https://open.spotify.com/album/3csU0vNyY7fBrFnZdVYTCr) | 2:37 |
 | 12 | [Wavy](https://open.spotify.com/track/18fktEJvZ54EbjaUTFRQ1Q) | [D4vvyy](https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl), [Maxxk](https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY), [1HUNNA](https://open.spotify.com/artist/5atNT9H8UsejUwzKrmzipk) | [Wavy](https://open.spotify.com/album/1q8F8sGsY55VsihPsGS2Cf) | 2:05 |
-| 13 | [I•M•A•M pt.3](https://open.spotify.com/track/5RApfoxvYSErOQ7iGDnByK) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [I•M•A•M pt\. 3](https://open.spotify.com/album/13IuTTExCqOgyyYQfLtyjo) | 3:04 |
+| 13 | [I•M•A•M pt\. 3](https://open.spotify.com/track/5RApfoxvYSErOQ7iGDnByK) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [I•M•A•M pt\. 3](https://open.spotify.com/album/13IuTTExCqOgyyYQfLtyjo) | 3:04 |
 | 14 | [FAKKT](https://open.spotify.com/track/5P7lkkioBE0T1BhHVRkdgh) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [FAKKT](https://open.spotify.com/album/1sfvzjSsEqk73bNiWjbKtY) | 2:22 |
 | 15 | [Come4me](https://open.spotify.com/track/1Ddbdt96oAbB7RjUzBtcfr) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Come4me](https://open.spotify.com/album/0cLL4GRGMyvPgAJVzdZisE) | 2:26 |
 | 16 | [Eu Te Amo](https://open.spotify.com/track/0QH0UeDEAhRpRqgD1e7cqU) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 3:27 |

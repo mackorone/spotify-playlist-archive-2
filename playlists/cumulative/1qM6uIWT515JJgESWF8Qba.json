@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj"
+      },
+      "artists": [
+        {
+          "name": "The Trespassers",
+          "url": "https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239606,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT"
+    },
+    {
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu"
       },

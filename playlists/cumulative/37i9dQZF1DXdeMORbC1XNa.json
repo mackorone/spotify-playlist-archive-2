@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 122592,
       "name": "Anyting",
       "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
@@ -1554,6 +1554,32 @@
       "duration_ms": 190800,
       "name": "Body",
       "url": "https://open.spotify.com/track/5Wwj8vYEbA5I9NYePl9Ydm"
+    },
+    {
+      "album": {
+        "name": "Bod\u00e9",
+        "url": "https://open.spotify.com/album/4cSabc5NWDEzGFfVN1nSWh"
+      },
+      "artists": [
+        {
+          "name": "DJ SKYCEE",
+          "url": "https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        },
+        {
+          "name": "Lucky lukee",
+          "url": "https://open.spotify.com/artist/0nkpIYM3zrDKfNgveXJexG"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Bod\u00e9",
+      "url": "https://open.spotify.com/track/6jpFUrJeLRcQN1Ek8AnQe9"
     },
     {
       "album": {

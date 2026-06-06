@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Taylor Swift, Robert van Hemert, KI/KI, Zo\u00eb Tauran & LUNA en meer..",
-  "num_followers": 296129,
+  "num_followers": 296551,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -228,12 +228,12 @@
       },
       "artists": [
         {
-          "name": "Dior",
-          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
-        },
-        {
           "name": "Cristian D",
           "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
         }
       ],
       "duration_ms": 166336,

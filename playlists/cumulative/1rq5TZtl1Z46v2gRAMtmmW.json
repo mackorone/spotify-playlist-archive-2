@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Ayewah!",
+        "url": "https://open.spotify.com/album/7sWITAYpmzV4zQntcDAwnG"
+      },
+      "artists": [
+        {
+          "name": "ZAINAB",
+          "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        },
+        {
+          "name": "Tony Quattro",
+          "url": "https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304031,
+      "name": "Ayewah!",
+      "url": "https://open.spotify.com/track/699jhhlEw8rI4t35r7kTTt"
+    },
+    {
+      "album": {
         "name": "AZD SURF",
         "url": "https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR"
       },
@@ -7500,6 +7522,24 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237487,
+      "name": "Quakin'",
+      "url": "https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO"
     },
     {
       "album": {

@@ -2733,6 +2733,28 @@
     },
     {
       "album": {
+        "name": "Luna a Milano",
+        "url": "https://open.spotify.com/album/4GKzaY0Z4zTYcKVlMOusC6"
+      },
+      "artists": [
+        {
+          "name": "Michele Tarasik",
+          "url": "https://open.spotify.com/artist/4PO09aUamHbbNoxEyEK0vE"
+        },
+        {
+          "name": "Louis Moreno",
+          "url": "https://open.spotify.com/artist/0okuclVbMLEUe1sMflRV5b"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217484,
+      "name": "Luna a Milano",
+      "url": "https://open.spotify.com/track/65dYtGwcxkjFNXhu9BdrGc"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },

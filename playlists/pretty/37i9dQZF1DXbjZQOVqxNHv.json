@@ -1,6 +1,6 @@
 {
   "description": "All the Intelligent Dance Music you'll need (not necessarily to dance to). Aphex Twin on cover.",
-  "num_followers": 193096,
+  "num_followers": 193186,
   "original_name": "IDM Essentials",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Strange Cargo III",
-        "url": "https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        }
-      ],
-      "duration_ms": 341373,
-      "name": "Into The Paradise",
-      "url": "https://open.spotify.com/track/2wz0Gq4o6KrmcnwQsb5EEK"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 627200,
       "name": "In Mind - Reload Remix (The 147 Take)",
       "url": "https://open.spotify.com/track/2UxQ9A2rZBGOBMdzzDm7re"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Strange Cargo III",
+        "url": "https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        }
+      ],
+      "duration_ms": 341373,
+      "name": "Into The Paradise",
+      "url": "https://open.spotify.com/track/2wz0Gq4o6KrmcnwQsb5EEK"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Strange Cargo III",
-        "url": "https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        }
-      ],
-      "duration_ms": 302333,
-      "name": "A Touch Of The Night",
-      "url": "https://open.spotify.com/track/5OYWhhpcBLVB0hSyEBXL87"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Patashnik",
         "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 387308,
       "name": "Novelty Waves",
       "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Strange Cargo III",
+        "url": "https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        }
+      ],
+      "duration_ms": 302333,
+      "name": "A Touch Of The Night",
+      "url": "https://open.spotify.com/track/5OYWhhpcBLVB0hSyEBXL87"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Journey of the Deep Sea Dweller III",
-        "url": "https://open.spotify.com/album/2sXYCKA1FBhLyxBTmNjbAr"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 329879,
-      "name": "Aqua Worm Hole",
-      "url": "https://open.spotify.com/track/4A3XqEaU5LmlhuxHI9zcZG"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Pomme Fritz",
         "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy"
+        "name": "Journey of the Deep Sea Dweller III",
+        "url": "https://open.spotify.com/album/2sXYCKA1FBhLyxBTmNjbAr"
       },
       "artists": [
         {
-          "name": "burger/ink",
-          "url": "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
         }
       ],
-      "duration_ms": 682906,
-      "name": "Twelve Miles High",
-      "url": "https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk"
+      "duration_ms": 329879,
+      "name": "Aqua Worm Hole",
+      "url": "https://open.spotify.com/track/4A3XqEaU5LmlhuxHI9zcZG"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -731,6 +715,22 @@
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy"
+      },
+      "artists": [
+        {
+          "name": "burger/ink",
+          "url": "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+        }
+      ],
+      "duration_ms": 682906,
+      "name": "Twelve Miles High",
+      "url": "https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Richard Coleman Devine EP",
-        "url": "https://open.spotify.com/album/5964or0Bf3moPpXJPzIsSY"
-      },
-      "artists": [
-        {
-          "name": "Richard Devine",
-          "url": "https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Untitled 3",
-      "url": "https://open.spotify.com/track/6ANjGaPMsJMk6ZksJ2SZME"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Hybrids EP",
         "url": "https://open.spotify.com/album/79OajCuB8Z62Z5Dv5cekDB"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 300754,
       "name": "Mayflower",
       "url": "https://open.spotify.com/track/0OtAhCQ2qumiYP9NmIJyNA"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Richard Coleman Devine EP",
+        "url": "https://open.spotify.com/album/5964or0Bf3moPpXJPzIsSY"
+      },
+      "artists": [
+        {
+          "name": "Richard Devine",
+          "url": "https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Untitled 3",
+      "url": "https://open.spotify.com/track/6ANjGaPMsJMk6ZksJ2SZME"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -1629,20 +1629,20 @@
       "url": "https://open.spotify.com/track/0Eo8jiujfOBvAES1coR2DY"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Brothomstates EP",
-        "url": "https://open.spotify.com/album/1xIPlgbK5HoN41M8gMToSQ"
+        "name": "RU. Electronic Two",
+        "url": "https://open.spotify.com/album/3OupkRORf3783u1D9L1Wlx"
       },
       "artists": [
         {
-          "name": "Brothomstates",
-          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
+          "name": "Alexandroid",
+          "url": "https://open.spotify.com/artist/4bw43S9QJtoSibzezqicmI"
         }
       ],
-      "duration_ms": 302040,
-      "name": "Yoaoshk",
-      "url": "https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc"
+      "duration_ms": 388986,
+      "name": "For After",
+      "url": "https://open.spotify.com/track/3GbpiqEIrDG30tVCy8fzGL"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -1661,20 +1661,20 @@
       "url": "https://open.spotify.com/track/4taCY5qWWHH3jxYkr2hW7L"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
+      "added_at": "2022-04-13 23:36:29",
       "album": {
-        "name": "RU. Electronic Two",
-        "url": "https://open.spotify.com/album/3OupkRORf3783u1D9L1Wlx"
+        "name": "Brothomstates EP",
+        "url": "https://open.spotify.com/album/1xIPlgbK5HoN41M8gMToSQ"
       },
       "artists": [
         {
-          "name": "Alexandroid",
-          "url": "https://open.spotify.com/artist/4bw43S9QJtoSibzezqicmI"
+          "name": "Brothomstates",
+          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
         }
       ],
-      "duration_ms": 388986,
-      "name": "For After",
-      "url": "https://open.spotify.com/track/3GbpiqEIrDG30tVCy8fzGL"
+      "duration_ms": 302040,
+      "name": "Yoaoshk",
+      "url": "https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -1707,22 +1707,6 @@
       "duration_ms": 391373,
       "name": "You're Creeping Me Out",
       "url": "https://open.spotify.com/track/25YEqrn4jXiue47Q7vgWMB"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Ten Days Of Blue",
-        "url": "https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA"
-      },
-      "artists": [
-        {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
-        }
-      ],
-      "duration_ms": 453400,
-      "name": "Ten Days Of Blue",
-      "url": "https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1773,6 +1757,22 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Ten Days Of Blue",
+        "url": "https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "duration_ms": 453400,
+      "name": "Ten Days Of Blue",
+      "url": "https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH"
+    },
+    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Bucolique Vol.2",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Do You Ever Regret Pantomime?",
-        "url": "https://open.spotify.com/album/2qA5yOiERUs21jrwRJXKFp"
+        "name": "Audiophiliac",
+        "url": "https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4"
       },
       "artists": [
         {
-          "name": "Pub",
-          "url": "https://open.spotify.com/artist/4nQPf3rgiGFYAtwdA0f0a6"
+          "name": "7 Hurtz",
+          "url": "https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP"
         }
       ],
-      "duration_ms": 673230,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/5ILNucjBUVj0CkJAP6SIDL"
+      "duration_ms": 218302,
+      "name": "Stokers Motor",
+      "url": "https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Audiophiliac",
-        "url": "https://open.spotify.com/album/6LpGUEgwKMTbzhntGRdkK4"
+        "name": "Do You Ever Regret Pantomime?",
+        "url": "https://open.spotify.com/album/2qA5yOiERUs21jrwRJXKFp"
       },
       "artists": [
         {
-          "name": "7 Hurtz",
-          "url": "https://open.spotify.com/artist/7npiaz23AXyR8Yyh1xniZP"
+          "name": "Pub",
+          "url": "https://open.spotify.com/artist/4nQPf3rgiGFYAtwdA0f0a6"
         }
       ],
-      "duration_ms": 218302,
-      "name": "Stokers Motor",
-      "url": "https://open.spotify.com/track/2fcLQc6eWvBNx2cB5aJXHR"
+      "duration_ms": 673230,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/5ILNucjBUVj0CkJAP6SIDL"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Hybrids EP",
-        "url": "https://open.spotify.com/album/79OajCuB8Z62Z5Dv5cekDB"
-      },
-      "artists": [
-        {
-          "name": "Ross 154",
-          "url": "https://open.spotify.com/artist/7GttAya0rbCKi3boUgQXjC"
-        }
-      ],
-      "duration_ms": 426195,
-      "name": "Within You",
-      "url": "https://open.spotify.com/track/40L2JdMiYRh19pKkdh9BkR"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Untangle",
         "url": "https://open.spotify.com/album/6Y3WH8I67ItomKlIdYL9km"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 332686,
       "name": "Untangle",
       "url": "https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Hybrids EP",
+        "url": "https://open.spotify.com/album/79OajCuB8Z62Z5Dv5cekDB"
+      },
+      "artists": [
+        {
+          "name": "Ross 154",
+          "url": "https://open.spotify.com/artist/7GttAya0rbCKi3boUgQXjC"
+        }
+      ],
+      "duration_ms": 426195,
+      "name": "Within You",
+      "url": "https://open.spotify.com/track/40L2JdMiYRh19pKkdh9BkR"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2297,6 +2297,22 @@
       "url": "https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d"
     },
     {
+      "added_at": "2022-04-13 23:36:29",
+      "album": {
+        "name": "Lipswitch",
+        "url": "https://open.spotify.com/album/6oYX9Cqeod5b8xk9YDduDh"
+      },
+      "artists": [
+        {
+          "name": "Richard Devine",
+          "url": "https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Scatter Fold 28",
+      "url": "https://open.spotify.com/track/22C4cc807ceeFGrsrRqdfr"
+    },
+    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Decayed",
@@ -2377,20 +2393,20 @@
       "url": "https://open.spotify.com/track/1Hh7FoTJQo4zjDJxnAvn2M"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Lipswitch",
-        "url": "https://open.spotify.com/album/6oYX9Cqeod5b8xk9YDduDh"
+        "name": "Freefloater",
+        "url": "https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr"
       },
       "artists": [
         {
-          "name": "Richard Devine",
-          "url": "https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv"
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Scatter Fold 28",
-      "url": "https://open.spotify.com/track/22C4cc807ceeFGrsrRqdfr"
+      "duration_ms": 469240,
+      "name": "Pinkgreen",
+      "url": "https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2407,22 +2423,6 @@
       "duration_ms": 277813,
       "name": "GM Memory",
       "url": "https://open.spotify.com/track/102zS5JmV0pGRdMXZZ3K4r"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Freefloater",
-        "url": "https://open.spotify.com/album/7bcE4tey05L4qB1wrDnTzr"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        }
-      ],
-      "duration_ms": 469240,
-      "name": "Pinkgreen",
-      "url": "https://open.spotify.com/track/5XbzgsK10K48ac4UZCsVNn"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Kasm01",
-        "url": "https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V"
-      },
-      "artists": [
-        {
-          "name": "The Fear Ratio",
-          "url": "https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG"
-        }
-      ],
-      "duration_ms": 174492,
-      "name": "FRT3",
-      "url": "https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e"
-    },
-    {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
         "name": "Ru.electronic",
         "url": "https://open.spotify.com/album/05XW5eDVk2z9vC05j61ATM"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 334986,
       "name": "Izoterica",
       "url": "https://open.spotify.com/track/05SXaUnVg0TgMaz8G4Ejd6"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Kasm01",
+        "url": "https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V"
+      },
+      "artists": [
+        {
+          "name": "The Fear Ratio",
+          "url": "https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG"
+        }
+      ],
+      "duration_ms": 174492,
+      "name": "FRT3",
+      "url": "https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2833,20 +2833,20 @@
       "url": "https://open.spotify.com/track/3euakHnMLK3150TiX0Appv"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+        "name": "Geometry",
+        "url": "https://open.spotify.com/album/4HWmyaD3uOgkBRIvlZL3Rr"
       },
       "artists": [
         {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+          "name": "Jega",
+          "url": "https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
+      "duration_ms": 275760,
+      "name": "Geometry",
+      "url": "https://open.spotify.com/track/4ZSiklc2iXA6OnPzgSXw4f"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2865,20 +2865,20 @@
       "url": "https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
+      "added_at": "2022-04-13 23:36:29",
       "album": {
-        "name": "Geometry",
-        "url": "https://open.spotify.com/album/4HWmyaD3uOgkBRIvlZL3Rr"
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
       },
       "artists": [
         {
-          "name": "Jega",
-          "url": "https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx"
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 275760,
-      "name": "Geometry",
-      "url": "https://open.spotify.com/track/4ZSiklc2iXA6OnPzgSXw4f"
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2945,6 +2945,22 @@
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Surfing On Sine Waves",
+        "url": "https://open.spotify.com/album/5ZINPXbRLusUuS4olqRFR0"
+      },
+      "artists": [
+        {
+          "name": "Polygon Window",
+          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
+        }
+      ],
+      "duration_ms": 320626,
+      "name": "UT1-Dot",
+      "url": "https://open.spotify.com/track/1xzOQV6h5kTUjSFJyKQRfp"
+    },
+    {
       "added_at": "2022-04-13 23:36:29",
       "album": {
         "name": "Pin Skeeling",
@@ -2967,18 +2983,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Surfing On Sine Waves",
-        "url": "https://open.spotify.com/album/5ZINPXbRLusUuS4olqRFR0"
+        "name": "Rojo. Esee",
+        "url": "https://open.spotify.com/album/39m6TRtoJjmEuyipbOsGoV"
       },
       "artists": [
         {
-          "name": "Polygon Window",
-          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
+          "name": "Push Button Objects",
+          "url": "https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz"
         }
       ],
-      "duration_ms": 320626,
-      "name": "UT1-Dot",
-      "url": "https://open.spotify.com/track/1xzOQV6h5kTUjSFJyKQRfp"
+      "duration_ms": 426240,
+      "name": "Striffle",
+      "url": "https://open.spotify.com/track/0327v8BnZjCViV6EOgp4YK"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2995,22 +3011,6 @@
       "duration_ms": 124826,
       "name": "Why It Got To Be So Damn Tough",
       "url": "https://open.spotify.com/track/46UyS4LpzTHBRFl1vGR1Rw"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Rojo. Esee",
-        "url": "https://open.spotify.com/album/39m6TRtoJjmEuyipbOsGoV"
-      },
-      "artists": [
-        {
-          "name": "Push Button Objects",
-          "url": "https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "Striffle",
-      "url": "https://open.spotify.com/track/0327v8BnZjCViV6EOgp4YK"
     },
     {
       "added_at": "2022-04-13 23:57:14",

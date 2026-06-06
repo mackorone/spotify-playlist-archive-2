@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-954 songs - 1 day 21 hr 12 min
+955 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-10-01 | 2022-12-25 |
 | [Bacha Drill](https://open.spotify.com/track/5ClmUS0EX91calScR72J1Y) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Bacha Drill](https://open.spotify.com/album/51v88qgd9pBDcreNctPsjr) | 3:22 | 2022-02-04 | 2022-05-11 |
 | [Back n Bold \(Freestyle\)](https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Back n Bold \(Freestyle\)](https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk) | 2:19 | 2023-08-11 | 2023-11-03 |
-| [BACK OUTSIDE](https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [BACK OUTSIDE](https://open.spotify.com/album/5UrL9HgkeX2zCIdPg3Y28G) | 2:16 | 2024-10-04 |  |
+| [BACK OUTSIDE](https://open.spotify.com/track/6eRSb2uLyScpC2qvDhY5X0) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [BACK OUTSIDE](https://open.spotify.com/album/5UrL9HgkeX2zCIdPg3Y28G) | 2:16 | 2024-10-04 | 2026-06-06 |
 | [Back Then](https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:26 | 2022-04-30 | 2024-01-13 |
 | [Back Up](https://open.spotify.com/track/6ZR4fzKruDknaPo87akXs0) | [International Show](https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT), [Vanni Allan Poe](https://open.spotify.com/artist/5PmEOwR040P5oP5peAzjKb) | [Back Up](https://open.spotify.com/album/4NJ5PjFZOlVQhiD9Sny7Re) | 2:18 | 2024-10-04 | 2024-11-09 |
 | [BackFromTheDEAD](https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:35 | 2022-10-01 | 2024-01-13 |
@@ -199,6 +199,7 @@
 | [De Lo Mio](https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [De Lo Mio](https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U) | 2:55 | 2025-02-07 |  |
 | [DEAD & GONE](https://open.spotify.com/track/37HlxhHP6oao4h6csKPEvk) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [DEAD & GONE](https://open.spotify.com/album/5RSkjZ7rCI1hQ1rYrRiwrN) | 1:50 | 2026-05-01 | 2026-05-30 |
 | [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 | 2023-11-02 | 2024-02-03 |
+| [DEEP END](https://open.spotify.com/track/3G9KWIIK0bBM0gneXE8Nyi) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u), [G0NZ0](https://open.spotify.com/artist/1sIrV4Oj5XUNTIOU4NDGTT) | [DEEP END](https://open.spotify.com/album/64BWnmAekhO1MRorIyzvvm) | 2:58 | 2026-05-29 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-11 | 2024-06-08 |
 | [Diamond](https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Diamond](https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV) | 2:43 | 2024-02-02 | 2024-06-07 |
 | [Die Empty](https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Major Moves](https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz) | 4:10 | 2022-11-04 | 2023-12-02 |

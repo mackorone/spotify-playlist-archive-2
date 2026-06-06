@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MAJAN, Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,513 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,567 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Genauso allein](https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Genauso allein](https://open.spotify.com/album/6o0HGWZdCSM8K7J1buILoK) | 3:33 |
-| 2 | [Track 3](https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 0:00 |
+| 2 | [Abgebrannt \(mit Charlize, Romy & Rio Reiser\)](https://open.spotify.com/track/61ZEChbuLcmvj6HtKbM8Zm) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX), [Rio Reiser](https://open.spotify.com/artist/0YcKbZwjx2BEoKLzfqlmgH) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:26 |
 | 3 | [April](https://open.spotify.com/track/4EiJ8kbxdAare5gM8LOWf2) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [April](https://open.spotify.com/album/2BWHoufKyq6Ci5LSzffNj0) | 2:41 |
 | 4 | [schmetterlinge fangen](https://open.spotify.com/track/2iiEvGTxZ1u9XjlDC8mCTM) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [schmetterlinge fangen](https://open.spotify.com/album/40Q0rULJhusLzOLMTyHQh4) | 2:16 |
 | 5 | [Unterwegs](https://open.spotify.com/track/0GdogY09bPuNdISAwJ4eDG) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Unterwegs / Call My Manager!](https://open.spotify.com/album/3kSiTxrTSgsp9YqVKTmy0v) | 2:07 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 9 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 10 | [Aperitivo](https://open.spotify.com/track/4wRyW0Xu75ra8myP57s3du) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Aperitivo](https://open.spotify.com/album/0RRpedBxrPHeoShxRS8yuU) | 2:56 |
 | 11 | [Barcelona](https://open.spotify.com/track/0Q4wFsYNtf9nl7WkPXsb5g) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Barcelona](https://open.spotify.com/album/6M0Pkl89MLLkYwgV9OyCmr) | 3:26 |
-| 12 | [Track 5](https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [nichtsmehrda](https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU) | 0:00 |
+| 12 | [zweitausendachtzehn](https://open.spotify.com/track/6H7MtXHQWeGqOOZ04BM7Q1) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [nichtsmehrda](https://open.spotify.com/album/1YrS2Sc2QxV834GEaGrEAU) | 3:07 |
 | 13 | [Viel zu viel](https://open.spotify.com/track/1C8vx4jzvtbIIYYfmZILOf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Viel zu viel](https://open.spotify.com/album/6Fne9NbfCvPqI6qD8xPITx) | 2:18 |
 | 14 | [Ungesund](https://open.spotify.com/track/62fzqGNID3VjdNdLHypD4Z) | [LUCE](https://open.spotify.com/artist/6u460PcmxWWYqygFRNQu3w) | [Ungesund](https://open.spotify.com/album/5NIE4ZD0GxpjKJi2R4gH6f) | 2:35 |
 | 15 | [Sturzflug](https://open.spotify.com/track/12OYWJrxdrllOMltGJYUYu) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Sturzflug](https://open.spotify.com/album/614papcmSh1SiDo73Lk8p6) | 1:54 |

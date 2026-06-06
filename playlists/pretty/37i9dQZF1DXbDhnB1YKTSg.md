@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDhnB1YKTSg.md) - [plain]
 
 > Celebrate Mommy with these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDhnB1YKTSg.md) - [plain]
 | 23 | [Hip Hop Mother's Day Rock](https://open.spotify.com/track/3SCWwCtiuLBlWrN7UekGZL) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:49 |
 | 24 | [Helping Mommy In The Kitchen](https://open.spotify.com/track/0ucteKSOUuH0b9pmutT9jA) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Turn On The Music](https://open.spotify.com/album/69MEKh7ZpoGtbZOfMHotLt) | 3:38 |
 | 25 | [Happy Mother's Day Mummy](https://open.spotify.com/track/3DhjNNMYbckuVz73ieLwQc) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Happy Mother's Day Mummy](https://open.spotify.com/album/48QN4nK8kW3D9wySEf4Yh5) | 1:58 |
-| 26 | [Bohemian Rhapsody \- Muppet version](https://open.spotify.com/track/6edptv31oI3QmAyP7iBWA5) | [Queen + The Muppets](https://open.spotify.com/artist/7snk050RNCu5ZsAHIOhfRn) | [Bohemian Rhapsody](https://open.spotify.com/album/2e6lW14FdkQeDCetGcF6tQ) | 4:37 |
+| 26 | [Bohemian Rhapsody \- Muppet version](https://open.spotify.com/track/6edptv31oI3QmAyP7iBWA5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [Bohemian Rhapsody](https://open.spotify.com/album/2e6lW14FdkQeDCetGcF6tQ) | 4:37 |
 | 27 | [Mommy Takes Good Care of Me](https://open.spotify.com/track/1cjIobTjZZmnjBCyxOWeJR) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 2:03 |
 | 28 | [Mother's Day! Mother's Day!](https://open.spotify.com/track/0cB12eizJKMfiZW0bM9qun) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Mothers Day](https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa) | 1:33 |
 | 29 | [Mama Said](https://open.spotify.com/track/63Z8FhR7FQWkZ90VQOoS3F) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Blue Skies and Sunny Days](https://open.spotify.com/album/4Mme8SP7bn6b5t38PIbuDV) | 3:58 |

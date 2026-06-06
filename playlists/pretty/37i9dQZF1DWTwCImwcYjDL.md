@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Prospa & Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,921 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,908 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 |
 | 60 | [Gone Gone Gone \(feat\. Teddy Swims\) \- Hypaton Remix](https://open.spotify.com/track/3iHu9c8xnzvPf0VVqIutFX) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Hypaton Remix\]](https://open.spotify.com/album/3Wb0gsg3wbMADSAjdtFv17) | 3:01 |
 
-Snapshot ID: `AAAAAPDvOf+LCjte/VS0ZGT3rv2xfrc+`
+Snapshot ID: `AAAAAEGXUZEnA5lE6B9JPb4y6TAurkuv`

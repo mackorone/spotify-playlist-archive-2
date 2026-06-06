@@ -6,8 +6,260 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABMn96iySJTX5KKB7FVhbMRF8q9Si1W",
+  "snapshot_id": "AABMuSqDPKuYggEk6+pCGF3gvvZ+yGgE",
   "tracks": [
+    {
+      "added_at": "2026-06-05 08:11:45",
+      "album": {
+        "name": "Rotten Fruit",
+        "url": "https://open.spotify.com/album/1KGjEV77qLnisBTfq5ywzU"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        },
+        {
+          "name": "Steve Ignorant",
+          "url": "https://open.spotify.com/artist/6j2TgxYyBUVwhFg7fYaDEY"
+        }
+      ],
+      "duration_ms": 208085,
+      "name": "Rotten Fruit",
+      "url": "https://open.spotify.com/track/1ktXksDhrZ242fQKKoNzA2"
+    },
+    {
+      "added_at": "2026-06-05 08:02:43",
+      "album": {
+        "name": "Sawt El Doumouh \u0635\u0648\u062a \u0627\u0644\u062f\u0645\u0648\u0639",
+        "url": "https://open.spotify.com/album/0NmBsHbDAao0tFx30wK4Jg"
+      },
+      "artists": [
+        {
+          "name": "sandy chamoun",
+          "url": "https://open.spotify.com/artist/6ak4xtByJ4h5YNgpRoMCUx"
+        }
+      ],
+      "duration_ms": 197584,
+      "name": "Sawt El Doumouh \u0635\u0648\u062a \u0627\u0644\u062f\u0645\u0648\u0639",
+      "url": "https://open.spotify.com/track/4PBvOOHo93GU02HIkwrPY9"
+    },
+    {
+      "added_at": "2026-06-05 08:03:06",
+      "album": {
+        "name": "The Primitivist",
+        "url": "https://open.spotify.com/album/7vOiaPwepmwUqWzsNgc6qv"
+      },
+      "artists": [
+        {
+          "name": "ABADIR",
+          "url": "https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51"
+        }
+      ],
+      "duration_ms": 303703,
+      "name": "The Primitivist",
+      "url": "https://open.spotify.com/track/0ECK21Gw1FCt60NirItl5V"
+    },
+    {
+      "added_at": "2026-06-05 08:09:50",
+      "album": {
+        "name": "Dictionary",
+        "url": "https://open.spotify.com/album/5r640KQ7Ni546bNC4JY5cN"
+      },
+      "artists": [
+        {
+          "name": "The Hobknobs",
+          "url": "https://open.spotify.com/artist/4MVy6muaDxpiAfZKgYraNR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dictionary",
+      "url": "https://open.spotify.com/track/1vZJimiybpxig48CT9Wqwj"
+    },
+    {
+      "added_at": "2026-06-05 07:58:22",
+      "album": {
+        "name": "Flat Planet",
+        "url": "https://open.spotify.com/album/0rqxcsW7mz9bYY0zGwlkW8"
+      },
+      "artists": [
+        {
+          "name": "Robi Mitch",
+          "url": "https://open.spotify.com/artist/109H49pnmkDGwypTSRjliM"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "By Storm",
+      "url": "https://open.spotify.com/track/7bHZ5ZxWX344AaRKFCLXbd"
+    },
+    {
+      "added_at": "2026-06-05 08:10:10",
+      "album": {
+        "name": "The Real Life Thing",
+        "url": "https://open.spotify.com/album/3pffHmn498ulBd0JijuKh2"
+      },
+      "artists": [
+        {
+          "name": "Shooting Daggers",
+          "url": "https://open.spotify.com/artist/6Fc3dby8KyX9W4puxDLz6J"
+        },
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Loud Mouths",
+      "url": "https://open.spotify.com/track/5MOUFefxLg3u1YiDMhdgKn"
+    },
+    {
+      "added_at": "2026-06-05 07:57:58",
+      "album": {
+        "name": "We're Not Broken Sunshine",
+        "url": "https://open.spotify.com/album/1pkLgJSMA5cnxsYFXPVJl3"
+      },
+      "artists": [
+        {
+          "name": "Dez Dare",
+          "url": "https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF"
+        }
+      ],
+      "duration_ms": 296878,
+      "name": "We're Not Broken Sunshine",
+      "url": "https://open.spotify.com/track/5sJwzZ6DFuPK8bhbnJFht0"
+    },
+    {
+      "added_at": "2026-06-05 08:08:58",
+      "album": {
+        "name": "Said & Done",
+        "url": "https://open.spotify.com/album/6VUWMow1DLBGWWydFuCbdf"
+      },
+      "artists": [
+        {
+          "name": "Fitzroy Holt",
+          "url": "https://open.spotify.com/artist/1h2pgx2gX9dvcPxfAjRu75"
+        }
+      ],
+      "duration_ms": 282624,
+      "name": "Said & Done",
+      "url": "https://open.spotify.com/track/2lfVWdTAo1MpmERDb6MebV"
+    },
+    {
+      "added_at": "2026-06-05 08:10:25",
+      "album": {
+        "name": "The Sounders",
+        "url": "https://open.spotify.com/album/1elaC7Q323Td4hFjz26Tsb"
+      },
+      "artists": [
+        {
+          "name": "Moon Attendant",
+          "url": "https://open.spotify.com/artist/5gq6zB7aVeofWlRgzXgx1M"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "The Sounders",
+      "url": "https://open.spotify.com/track/1icrbIj1iz1tGCMgPcvRpO"
+    },
+    {
+      "added_at": "2026-06-05 08:10:46",
+      "album": {
+        "name": "Cranial Devastation",
+        "url": "https://open.spotify.com/album/4X72Se6MsI4oThhuqprv2c"
+      },
+      "artists": [
+        {
+          "name": "Dead Void",
+          "url": "https://open.spotify.com/artist/2lvbc1f8fB81yeZurz3UfD"
+        }
+      ],
+      "duration_ms": 346019,
+      "name": "Isolation's Hold",
+      "url": "https://open.spotify.com/track/22FN4cWa9Ppa0LoFEhTSIS"
+    },
+    {
+      "added_at": "2026-06-05 08:11:02",
+      "album": {
+        "name": "Bird on a Wire",
+        "url": "https://open.spotify.com/album/1oshfFEPPCorAUX3mtnNap"
+      },
+      "artists": [
+        {
+          "name": "Perch",
+          "url": "https://open.spotify.com/artist/31IgAY8LuXAmTTzaX98j1l"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Bird on a Wire",
+      "url": "https://open.spotify.com/track/4aMEdfT6YS1nY7OWFdDEGS"
+    },
+    {
+      "added_at": "2026-06-05 10:41:52",
+      "album": {
+        "name": "Ephus roundshot & floater",
+        "url": "https://open.spotify.com/album/3wNoiR1JTGwqiHJpPPawi1"
+      },
+      "artists": [
+        {
+          "name": "$quib",
+          "url": "https://open.spotify.com/artist/2bvw5ZYK1LmNAikReUhJOc"
+        }
+      ],
+      "duration_ms": 254815,
+      "name": "Ephus roundshot & floater",
+      "url": "https://open.spotify.com/track/1JC0t7HOWq48UWWFxA2Xgv"
+    },
+    {
+      "added_at": "2026-06-05 08:11:26",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0UQ3hUXq1kYKD4hzSH6ZJl"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Builder",
+          "url": "https://open.spotify.com/artist/6sBs6HRNREJ4BYmEtsksZk"
+        }
+      ],
+      "duration_ms": 403326,
+      "name": "CLOCKS",
+      "url": "https://open.spotify.com/track/6lTjS8vPXfxOMnVi2Q6lxm"
+    },
+    {
+      "added_at": "2026-06-05 08:12:01",
+      "album": {
+        "name": "Under A Cat",
+        "url": "https://open.spotify.com/album/2417vUK6MYcPPhJI2zkgJJ"
+      },
+      "artists": [
+        {
+          "name": "Brian Bilston",
+          "url": "https://open.spotify.com/artist/7aYKuyGAtDPXN8j46QYm2W"
+        },
+        {
+          "name": "The Catenary Wires",
+          "url": "https://open.spotify.com/artist/5vcEaZYgrEzSNAXySogywH"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "Under A Cat",
+      "url": "https://open.spotify.com/track/0vmFNiiV4vAqgy8UfxTwQv"
+    },
+    {
+      "added_at": "2026-06-05 08:12:28",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3MuQUs1qqexgNXEARBeS4M"
+      },
+      "artists": [
+        {
+          "name": "The TSG",
+          "url": "https://open.spotify.com/artist/2XPARSRB6KHyP6qkpLJk4K"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2JOVuvimPZcBXi8CKuHxgc"
+    },
     {
       "added_at": "2026-05-28 12:14:44",
       "album": {
@@ -1111,242 +1363,6 @@
       "duration_ms": 199534,
       "name": "Dragging",
       "url": "https://open.spotify.com/track/3wC8ElvoI1he2vwBtvhAGW"
-    },
-    {
-      "added_at": "2026-05-08 07:50:21",
-      "album": {
-        "name": "At The Grave / Freaky Bedbugs",
-        "url": "https://open.spotify.com/album/0yCxBTPecGBPtZiB4ENNq2"
-      },
-      "artists": [
-        {
-          "name": "Siyahkal",
-          "url": "https://open.spotify.com/artist/6BKJsWIbI5nUSTIhB5cHQB"
-        }
-      ],
-      "duration_ms": 210911,
-      "name": "At The Grave / Freaky Bedbugs",
-      "url": "https://open.spotify.com/track/6c0b8ElRG2flbuN2E7LNL3"
-    },
-    {
-      "added_at": "2026-05-08 07:49:16",
-      "album": {
-        "name": "Unlink Atlas",
-        "url": "https://open.spotify.com/album/5ZlCBGPFVgZgSqQtVJLPuL"
-      },
-      "artists": [
-        {
-          "name": "Async Figure",
-          "url": "https://open.spotify.com/artist/4Xm5ZvCGNR1g5wWLLLpTfq"
-        }
-      ],
-      "duration_ms": 255850,
-      "name": "Gridwalker",
-      "url": "https://open.spotify.com/track/1nZYBYuZmM0KNzs4EJ3RKM"
-    },
-    {
-      "added_at": "2026-05-08 07:48:54",
-      "album": {
-        "name": "Fuck U (live at Volksb\u00fchne Berlin)",
-        "url": "https://open.spotify.com/album/6tGl608MbhZkK8bXB7PiGa"
-      },
-      "artists": [
-        {
-          "name": "33",
-          "url": "https://open.spotify.com/artist/4lY7e5NKMLIIQGi5WdrKkq"
-        }
-      ],
-      "duration_ms": 412000,
-      "name": "Fuck U - live at Volksb\u00fchne Berlin",
-      "url": "https://open.spotify.com/track/1hfUyBZ7ifUa23HqOnHJrN"
-    },
-    {
-      "added_at": "2026-05-08 07:48:04",
-      "album": {
-        "name": "Soleil-N\u00e9on",
-        "url": "https://open.spotify.com/album/0hKROPOJ6PP5S2aDkXvCSh"
-      },
-      "artists": [
-        {
-          "name": "Marc Baron",
-          "url": "https://open.spotify.com/artist/5HgLy6zFjHY6KHfG3niWwB"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Soleil-N\u00e9on, Pt. 6",
-      "url": "https://open.spotify.com/track/0uBQqEU5UQNjJiOqJPntEC"
-    },
-    {
-      "added_at": "2026-05-08 07:46:58",
-      "album": {
-        "name": "Forest Mountain Forest",
-        "url": "https://open.spotify.com/album/6Q1yp1thUdddq2TQX0HX6W"
-      },
-      "artists": [
-        {
-          "name": "Simon Bromide",
-          "url": "https://open.spotify.com/artist/7s60UlgktLZK4L485TbPF3"
-        },
-        {
-          "name": "Bromide",
-          "url": "https://open.spotify.com/artist/7l4GWNPAIsXLRFSaCvC6pb"
-        }
-      ],
-      "duration_ms": 204901,
-      "name": "Forest Mountain Forest",
-      "url": "https://open.spotify.com/track/2ZwX6fQVdn8sYhsCavJ4kx"
-    },
-    {
-      "added_at": "2026-05-01 05:37:25",
-      "album": {
-        "name": "Corporeal",
-        "url": "https://open.spotify.com/album/42DlSuqFw0yPdZw3mrGBh3"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        },
-        {
-          "name": "Mythologen",
-          "url": "https://open.spotify.com/artist/6ml7DDhj1HJHigbG2ttero"
-        }
-      ],
-      "duration_ms": 411053,
-      "name": "Control - Mythologen EDM Mix",
-      "url": "https://open.spotify.com/track/2Z54NPWA2uCs24cio85KPX"
-    },
-    {
-      "added_at": "2026-05-01 05:44:55",
-      "album": {
-        "name": "\u597d\u5947 Curiosity",
-        "url": "https://open.spotify.com/album/34bMnbkI5ZzMRE2Iak8LH4"
-      },
-      "artists": [
-        {
-          "name": "Zaliva-D",
-          "url": "https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo"
-        }
-      ],
-      "duration_ms": 334285,
-      "name": "\u957f\u5f31 Long Infirmity",
-      "url": "https://open.spotify.com/track/6nE43xlFKqLoBxxf5sQGuk"
-    },
-    {
-      "added_at": "2026-05-01 05:45:26",
-      "album": {
-        "name": "Osiris",
-        "url": "https://open.spotify.com/album/0jfM9JNTcsWDzgonnX76SJ"
-      },
-      "artists": [
-        {
-          "name": "J. Zunz",
-          "url": "https://open.spotify.com/artist/31lyi66zk5a5safTLVRDVY"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Osiris",
-      "url": "https://open.spotify.com/track/6kH26wHn2RkHGi2kGDndFJ"
-    },
-    {
-      "added_at": "2026-05-01 05:38:49",
-      "album": {
-        "name": "The Grievance",
-        "url": "https://open.spotify.com/album/4egLDKgSbBhdcbbnhciOHR"
-      },
-      "artists": [
-        {
-          "name": "IRKED",
-          "url": "https://open.spotify.com/artist/4FG4piTauGVHeoqWYsoooq"
-        }
-      ],
-      "duration_ms": 114693,
-      "name": "The Grievance",
-      "url": "https://open.spotify.com/track/6QnlP9fhJaSPxxCtyfMNdj"
-    },
-    {
-      "added_at": "2026-05-01 05:41:44",
-      "album": {
-        "name": "The Medieval Drone Society III",
-        "url": "https://open.spotify.com/album/1UrHVOvCvzZYPwNSFPFMzp"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 209395,
-      "name": "A Flower Crown Procession",
-      "url": "https://open.spotify.com/track/62FDNrHnf7rbKpRDeShIvy"
-    },
-    {
-      "added_at": "2026-05-01 05:39:18",
-      "album": {
-        "name": "Designed To Fade",
-        "url": "https://open.spotify.com/album/0ZoU82ZhbuhJmpcy4SadEU"
-      },
-      "artists": [
-        {
-          "name": "Dogtablet",
-          "url": "https://open.spotify.com/artist/5IXDga5wJ2IvUR6waqkjgr"
-        },
-        {
-          "name": "Melodywhore",
-          "url": "https://open.spotify.com/artist/3cpTZFS3HR4XMfj54NPPoZ"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "World Without You",
-      "url": "https://open.spotify.com/track/2gPCcOk7t4oG2aZ8b93gTR"
-    },
-    {
-      "added_at": "2026-05-01 05:41:01",
-      "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/3sA7erYDbgCBjSygW0WAKP"
-      },
-      "artists": [
-        {
-          "name": "Cloud Studies",
-          "url": "https://open.spotify.com/artist/1Az1x0icaEQS10RRXhdbNU"
-        }
-      ],
-      "duration_ms": 163011,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/1Am52hJrT7ARlnSEEHO0KI"
-    },
-    {
-      "added_at": "2026-05-01 05:46:05",
-      "album": {
-        "name": "Since Yesterday",
-        "url": "https://open.spotify.com/album/4yjStXEx8H6y2IMBoLWKOB"
-      },
-      "artists": [
-        {
-          "name": "Radhika",
-          "url": "https://open.spotify.com/artist/1Kh102gi5R44EqUBC2prHm"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Since Yesterday",
-      "url": "https://open.spotify.com/track/0rakveimgNjWSmLo8kdocs"
-    },
-    {
-      "added_at": "2026-05-01 05:36:32",
-      "album": {
-        "name": "Insolvent Soldiers",
-        "url": "https://open.spotify.com/album/5zK04er6t3bv6c633q5dPs"
-      },
-      "artists": [
-        {
-          "name": "Dez Dare",
-          "url": "https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF"
-        }
-      ],
-      "duration_ms": 218083,
-      "name": "Insolvent Soldiers",
-      "url": "https://open.spotify.com/track/6yB2yn60ucZJAkrLqQ7mU1"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

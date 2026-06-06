@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: aja monet",
+  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4029,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bartley's DREAMWEAVER",
+          "url": "https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625946,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ"
+    },
+    {
+      "album": {
         "name": "Beat Hopper (The 3rd Session)",
         "url": "https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8"
       },
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 334800,
       "name": "Beyond The Dawn",
       "url": "https://open.spotify.com/track/0UyGgJdVrIlktu6ybISlft"
@@ -7788,6 +7806,32 @@
       "duration_ms": 255264,
       "name": "CODE",
       "url": "https://open.spotify.com/track/0ykQscPscfZzjQkRqRettF"
+    },
+    {
+      "album": {
+        "name": "Protocol 6",
+        "url": "https://open.spotify.com/album/4PhTGmr0tfgaIOaNp3jobH"
+      },
+      "artists": [
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        },
+        {
+          "name": "Alex Sill",
+          "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371349,
+      "name": "Code 4 Kryptos",
+      "url": "https://open.spotify.com/track/6w1hwaeAntChTW6qwpPRXW"
     },
     {
       "album": {
@@ -13234,7 +13278,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 457133,
       "name": "Flight",
       "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
@@ -17938,7 +17982,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 181397,
       "name": "Imvunge KaNtu",
       "url": "https://open.spotify.com/track/3zrDL5ZWEChs6NBoBfe0KG"
@@ -18534,7 +18578,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 467114,
       "name": "Intrepid Traveller",
       "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"
@@ -30921,6 +30965,32 @@
     },
     {
       "album": {
+        "name": "We Dream",
+        "url": "https://open.spotify.com/album/6ULTWL9XExl7eMKzoWatE7"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0T9wiilTLGNYM93dpA7jfU"
+    },
+    {
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/59IYbiK5tRVY1k47zX34sJ"
       },
@@ -40816,6 +40886,24 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+    },
+    {
+      "album": {
+        "name": "Unembeza",
+        "url": "https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263829,
+      "name": "Unembeza",
+      "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
     },
     {
       "album": {

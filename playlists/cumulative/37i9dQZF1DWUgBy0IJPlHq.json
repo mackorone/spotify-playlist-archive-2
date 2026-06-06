@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Cigarettes @ Sunset",
+  "description": "A new shade of Country. Cover: Bella White",
   "name": "Indigo",
   "tracks": [
     {
@@ -870,6 +870,36 @@
       "duration_ms": 190550,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
+    },
+    {
+      "album": {
+        "name": "Amabel Lee",
+        "url": "https://open.spotify.com/album/5kQpBASTAl66GQs086KFuk"
+      },
+      "artists": [
+        {
+          "name": "Brendan Forrest",
+          "url": "https://open.spotify.com/artist/1GagfJ9HKnJkkzGuRrAYy2"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Andrew Vogt",
+          "url": "https://open.spotify.com/artist/3BoHLBR1vPUOxVPzQxYcwR"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195856,
+      "name": "Amabel Lee",
+      "url": "https://open.spotify.com/track/4xevPIUHNWET3gS7bEs3I6"
     },
     {
       "album": {
@@ -2444,6 +2474,24 @@
       "duration_ms": 214440,
       "name": "Cardinal Sin (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
+    },
+    {
+      "album": {
+        "name": "As Is",
+        "url": "https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147588,
+      "name": "Carolina Heart",
+      "url": "https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg"
     },
     {
       "album": {
@@ -5314,7 +5362,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 176879,
       "name": "Going Gone",
       "url": "https://open.spotify.com/track/755YHY8NRYiOtSquUwGPX6"
@@ -5904,7 +5952,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 240800,
       "name": "Heaven Passing Through",
       "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
@@ -6364,6 +6412,24 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle",
+        "url": "https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Honeysuckle",
+      "url": "https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce"
     },
     {
       "album": {
@@ -7736,7 +7802,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 269602,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3CVZtlxfjtuVxbjrKfSVZH"
@@ -8612,6 +8678,24 @@
       "duration_ms": 157018,
       "name": "Maps",
       "url": "https://open.spotify.com/track/3Bg5QtSx6kiygR6yTaeX8x"
+    },
+    {
+      "album": {
+        "name": "Far Out Country I",
+        "url": "https://open.spotify.com/album/0Z92RSnunw9OEA2hRKXkmN"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Marco Polo I",
+      "url": "https://open.spotify.com/track/2SvFRKLN7WvCfol6VkNcIM"
     },
     {
       "album": {
@@ -12161,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "A Sign In The Weather",
+        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203847,
+      "name": "Stuff",
+      "url": "https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw"
+    },
+    {
+      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
       },
@@ -12862,7 +12964,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -12970,7 +13072,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 231146,
       "name": "The Luckier Ones",
       "url": "https://open.spotify.com/track/6XrZvjJLyv3frS0lNU9GXF"
@@ -13090,6 +13192,24 @@
       "duration_ms": 214360,
       "name": "The Neon",
       "url": "https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk"
+    },
+    {
+      "album": {
+        "name": "The Outpost",
+        "url": "https://open.spotify.com/album/5CRBX77uKSJx3llvJ2Nbpv"
+      },
+      "artists": [
+        {
+          "name": "Outpost Drive",
+          "url": "https://open.spotify.com/artist/5SD8blz2Ibqibs4tPNDNas"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325912,
+      "name": "The Outpost",
+      "url": "https://open.spotify.com/track/43Gid9sb0CEk9VilaAGbEz"
     },
     {
       "album": {
@@ -13812,7 +13932,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-06",
       "duration_ms": 195613,
       "name": "Vengeance and Grace",
       "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"

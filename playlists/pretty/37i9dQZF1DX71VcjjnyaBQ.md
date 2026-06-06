@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,911 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,932 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 58 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 |
 | 59 | [BUT BEAUTIFUL](https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [BUT BEAUTIFUL](https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq) | 3:46 |
 | 60 | [A Sinner Kissed an Angel](https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Bud Shank and Bill Perkins](https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ) | 3:20 |
-| 61 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 |
-| 62 | [Ask Me Now](https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Ask Me Now](https://open.spotify.com/album/6SUaYacR0vL0mjCPeuMUIy) | 6:39 |
+| 61 | [Ask Me Now](https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Ask Me Now](https://open.spotify.com/album/6SUaYacR0vL0mjCPeuMUIy) | 6:39 |
+| 62 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 |
 | 63 | [Love is Here to Stay](https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Love is Here to Stay](https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs) | 4:50 |
 | 64 | [They Can't Take That Away from Me](https://open.spotify.com/track/5vt4J8miM4Pfy4l3q8NeFA) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [They Can't Take That Away from Me](https://open.spotify.com/album/4ukxaPeX9MKJNRkdET7b1w) | 7:33 |
 | 65 | [Dream Dancing](https://open.spotify.com/track/76m7DuxtViu6mt6bBDrBnD) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [Dream Dancing](https://open.spotify.com/album/6YaZFZ1WhXY81TB14Keqs9) | 4:37 |

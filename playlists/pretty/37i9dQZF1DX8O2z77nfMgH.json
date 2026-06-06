@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo de toda Iberoam\u00e9rica. Foto: Ozuna",
-  "num_followers": 846137,
+  "num_followers": 846308,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,26 @@
       "duration_ms": 136944,
       "name": "EL ULTIMO BAILE",
       "url": "https://open.spotify.com/track/0rZRnl6CJORjaP4rnRiKBr"
+    },
+    {
+      "added_at": "2026-06-05 03:00:15",
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4wTV6sA0zY7smkgF1NrjBf"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/6vksmHF8RtdZgH0ZWYIxmY"
     },
     {
       "added_at": "2026-06-05 03:00:15",
@@ -940,7 +960,7 @@
           "url": "https://open.spotify.com/artist/52793bjSjKlhfFwWp3LUan"
         }
       ],
-      "duration_ms": 161218,
+      "duration_ms": 161209,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/4OEK89KcQId3sVFJ1tbyMC"
     },
@@ -1051,6 +1071,22 @@
     {
       "added_at": "2026-06-05 03:00:15",
       "album": {
+        "name": "AGUACERO",
+        "url": "https://open.spotify.com/album/1Rroeh4FB6WEWoE5DgSl4z"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 135510,
+      "name": "No Es Por Suerte",
+      "url": "https://open.spotify.com/track/5mQ3LPOt5L6Lvna23x6rpk"
+    },
+    {
+      "added_at": "2026-06-05 03:00:15",
+      "album": {
         "name": "Suena Bien",
         "url": "https://open.spotify.com/album/5d7yjj4dieXqxzRWq508EN"
       },
@@ -1058,10 +1094,14 @@
         {
           "name": "Los Dioses Del Ritmo",
           "url": "https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj"
+        },
+        {
+          "name": "Pac\u00edfico Master Beat",
+          "url": "https://open.spotify.com/artist/4OFN61jB7BX967SP5nWZjx"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 186795,
+      "name": "Suena Bien",
       "url": "https://open.spotify.com/track/4WhpxnmeYoYTud6TY1M3w9"
     },
     {

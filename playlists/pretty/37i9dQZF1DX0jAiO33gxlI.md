@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Budah
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,958 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,973 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 26 | [24hs](https://open.spotify.com/track/4XMAR4YrL2Yhygkw0YlXko) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [24hs](https://open.spotify.com/album/7CWUChdbiLrXe7ZYQH29na) | 2:22 |
 | 27 | ["MIC VIDA"](https://open.spotify.com/track/1fu6ootjbYy8xdgh1Ox4GF) | [LYONS PROD.](https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr), [FUSO!](https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq), [Siamese](https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed), [Freeda](https://open.spotify.com/artist/4rlGEW33pML5GlqS4lsWyp) | ["MIC VIDA"](https://open.spotify.com/album/2rC0nYivLDfCZQRk4S5R3P) | 2:55 |
 | 28 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
-| 29 | [Pelas Verdes, Pelas Rosas](https://open.spotify.com/track/7zNoGiJJhREM5zWb7nTPhW) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [VG](https://open.spotify.com/artist/5BFaLkuHLDGggRVRf0O67P), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Pelas Verdes, Pelas Rosas](https://open.spotify.com/album/45sUOILSdciZCy38P2lT0a) | 3:00 |
+| 29 | [Pelas Verdes, Pelas Rosas](https://open.spotify.com/track/7zNoGiJJhREM5zWb7nTPhW) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [013VG](https://open.spotify.com/artist/38Bh2cWsM0sBYg6EG5gmwc), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Pelas Verdes, Pelas Rosas](https://open.spotify.com/album/45sUOILSdciZCy38P2lT0a) | 3:00 |
 | 30 | [Bem Brasil](https://open.spotify.com/track/5ubDnmlPgdD1Ybx2HfwucK) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Bem Brasil](https://open.spotify.com/album/0mf3C3u8QVWTLzNSwhfnpV) | 3:16 |
 | 31 | [Papel e Tinta](https://open.spotify.com/track/4Nw8uLpFOWU9Zge14Z1njW) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [Papel e Tinta](https://open.spotify.com/album/6UbzdpIorBGJZuopM2cu8O) | 2:23 |
 | 32 | [Hong Kong](https://open.spotify.com/track/6eZTEYoIMLUcAENuVtkibL) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [À La Carte](https://open.spotify.com/album/7IOwUVsQ1kpxIZGKrUXtqN) | 2:32 |

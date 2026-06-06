@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 173444,
+  "num_followers": 173492,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ah9ugAAAAAD/MCWm6ARl3cM5G4DvAcPc",
+  "snapshot_id": "aiDAAAAAAADaRKICtly2Ur+swXW+WfQF",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Especially for You",
-        "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
         }
       ],
-      "duration_ms": 240892,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
+      "duration_ms": 210960,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+        "name": "Especially for You",
+        "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
         }
       ],
-      "duration_ms": 210960,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
+      "duration_ms": 240892,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 168599,
       "name": "Stateside + Kylie Minogue",
       "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
     },
     {
       "added_at": null,
