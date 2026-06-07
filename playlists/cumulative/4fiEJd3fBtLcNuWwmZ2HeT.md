@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-521 songs - 1 day 6 hr 25 min
+522 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 | 2024-11-18 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-05-06 |  |
 | [ギフト](https://open.spotify.com/track/39kz6zKYEDz4UAT3B1U5HN) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [ギフト](https://open.spotify.com/album/0BtPWvguBmKExfERM49iIa) | 3:13 | 2026-04-02 |  |
+| [グライド](https://open.spotify.com/track/1i84eCrJbu0EIP5aWToMMa) | [Lily Chou\-Chou](https://open.spotify.com/artist/2eIwiMzHBYVTZ2iTYiuacE) | [呼吸](https://open.spotify.com/album/4IVnHzCk8zgJ1ivesDoTc3) | 3:40 | 2026-06-06 |  |
 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 | 2025-09-12 |  |
 | [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-09-02 |  |
 | [ゴー・トゥ・大都会 \(feat\. GUMI\)](https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 2:50 | 2022-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,251 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,235 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 20 | [iltaset](https://open.spotify.com/track/25U7svN6Zqgf9yDCM60tYD) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [iltaset](https://open.spotify.com/album/2iZujhPCftldF5Bq6evcp3) | 3:05 |
 | 21 | [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 |
 | 22 | [Ikivanha](https://open.spotify.com/track/7h6GHjljaGskhM84n9lHYx) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Ikivanha](https://open.spotify.com/album/6KCIvh31SW7mpBW6HAhWsK) | 2:52 |
-| 23 | [Pardon Me](https://open.spotify.com/track/0a6vdHzevxC1SgbLyQ1mmO) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Pardon Me](https://open.spotify.com/album/41IBjyJdjcdZJB5D1XKK1Y) | 2:14 |
+| 23 | [Vegas](https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Vegas](https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO) | 2:25 |
 | 24 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 |
 | 25 | [Mutta millä hinnalla](https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Mutta millä hinnalla](https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp) | 2:57 |
 | 26 | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ) | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG) | 3:10 |
 | 27 | [Totuus Sattuu](https://open.spotify.com/track/42AWyhI6hD9Q4J4NLcqKdP) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 4:32 |
-| 28 | [Vegas](https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Vegas](https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO) | 2:25 |
+| 28 | [Pardon Me](https://open.spotify.com/track/0a6vdHzevxC1SgbLyQ1mmO) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Pardon Me](https://open.spotify.com/album/41IBjyJdjcdZJB5D1XKK1Y) | 2:14 |
 | 29 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
 | 30 | [HENNY](https://open.spotify.com/track/3woF4U1wkxyrczjGogDxvK) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [HENNY](https://open.spotify.com/album/37b4KnqnX3Dj64YQwf4pzy) | 2:33 |
 | 31 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
-| 32 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
-| 33 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 32 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 33 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
 | 34 | [Boujee](https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Boujee](https://open.spotify.com/album/0kecOEPFgZ3b6Au59OKVet) | 2:30 |
 | 35 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
 | 36 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |

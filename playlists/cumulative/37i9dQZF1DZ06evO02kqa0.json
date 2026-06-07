@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 191746,
       "name": "Mozart: Don Giovanni, K. 527, Act 1: \"Or sai chi l'onore\" (Donna Anna)",
       "url": "https://open.spotify.com/track/4idwfVaBLsBBpywCzD70bn"
@@ -2788,6 +2788,32 @@
       "duration_ms": 264881,
       "name": "Tosca, Act I: Dammi i colori... Recondita armonia (Sagrestano, Cavaradossi)",
       "url": "https://open.spotify.com/track/6vOwKVZSVpjao0TVPYHONx"
+    },
+    {
+      "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269635,
+      "name": "Tosca, Act I: Tre sbirri, una carrozza (Scarpia, Spoletta, Coro)",
+      "url": "https://open.spotify.com/track/04orzaC6GG62sHDURK383F"
     },
     {
       "album": {

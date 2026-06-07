@@ -7109,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "\u547c\u5438",
+        "url": "https://open.spotify.com/album/4IVnHzCk8zgJ1ivesDoTc3"
+      },
+      "artists": [
+        {
+          "name": "Lily Chou-Chou",
+          "url": "https://open.spotify.com/artist/2eIwiMzHBYVTZ2iTYiuacE"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "\u30b0\u30e9\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/1i84eCrJbu0EIP5aWToMMa"
+    },
+    {
+      "album": {
         "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8\u5f8c\u6094",
         "url": "https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o"
       },

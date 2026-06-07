@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143332,
+  "num_followers": 143334,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
-        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
-      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
+        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+      "duration_ms": 210880,
+      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
+      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
+        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
+      "duration_ms": 405497,
+      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 405497,
-      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     },
     {
       "added_at": "2026-04-15 17:00:10",

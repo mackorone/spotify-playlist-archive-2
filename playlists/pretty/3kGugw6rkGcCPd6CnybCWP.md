@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 114 songs - 6 hr 40 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 119 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 112 | [don't take this all for granted](https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi) | [rose wallace goldaline](https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD) | [don't take this all for granted](https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35) | 3:22 |
 | 113 | [That Sunshine's Mine](https://open.spotify.com/track/4YgD5fStfkqqjkfL15Tygk) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/13HsxjVBJF860WS0HcZBV7) | 2:37 |
 | 114 | [The Estranged](https://open.spotify.com/track/0IhmIWv38VW2gsEdy3bIzy) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [The Estranged](https://open.spotify.com/album/3YFMGfbbtqHJOzwe7zCesK) | 4:06 |
+| 115 | [Easy](https://open.spotify.com/track/6cPI75yJd5X6bi0vOdkfO5) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Easy](https://open.spotify.com/album/4OIswuazVrnbDh9Vm7Vg6B) | 4:35 |
+| 116 | [Walking a Wire](https://open.spotify.com/track/0DNXuf1n2DDVipLfvZ9oXN) | [Of Titans and Men](https://open.spotify.com/artist/7eCtNRHtwr5dZclVL5czVu) | [Walking a Wire](https://open.spotify.com/album/1YoCAYE9hnp8hY1gZhAbm5) | 3:26 |
+| 117 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 |
+| 118 | [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 |
+| 119 | [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 |
 
-Snapshot ID: `AAAPA9SnFayDvGCXXapOfNFZX3y07Uju`
+Snapshot ID: `AAAPCBtPMEPTvP+k/iHgI/7HAYTaLyCf`

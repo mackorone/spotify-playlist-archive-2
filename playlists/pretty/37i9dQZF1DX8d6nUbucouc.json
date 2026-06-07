@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66412,
+  "num_followers": 66428,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Winne Zonder Strijd",
-        "url": "https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4"
-      },
-      "artists": [
-        {
-          "name": "Winne",
-          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "W.I.N.N.E.",
-      "url": "https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Eigen Wereld",
         "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 197520,
       "name": "Regendans",
       "url": "https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Winne Zonder Strijd",
+        "url": "https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4"
+      },
+      "artists": [
+        {
+          "name": "Winne",
+          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "W.I.N.N.E.",
+      "url": "https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Regen Op Warm Asfalt",
-      "url": "https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Vloeistof",
         "url": "https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 286973,
       "name": "Verre Oosten",
       "url": "https://open.spotify.com/track/1GhbUw7skwCjSzLB3tWtMj"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Regen Op Warm Asfalt",
+      "url": "https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Fresku",
-        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
-      },
-      "artists": [
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Eigen Wereld",
         "url": "https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 367706,
       "name": "Gekkenhuis FT. Jawat",
       "url": "https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Fresku",
+        "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "The Opposites",
-          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Voor Dough",
-      "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Jayh.nl",
         "url": "https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 257120,
       "name": "Mijn Hossel",
       "url": "https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Voor Dough",
+      "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Stille Wateren Diepe Gronden",
+        "url": "https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW"
+      },
+      "artists": [
+        {
+          "name": "Nino",
+          "url": "https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu"
+        }
+      ],
+      "duration_ms": 247879,
+      "name": "Superheld",
+      "url": "https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Tussen Licht En Lucht",
         "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 314080,
       "name": "Wind Waait",
       "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Stille Wateren Diepe Gronden",
-        "url": "https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW"
-      },
-      "artists": [
-        {
-          "name": "Nino",
-          "url": "https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu"
-        }
-      ],
-      "duration_ms": 247879,
-      "name": "Superheld",
-      "url": "https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc"
     },
     {
       "added_at": "2024-09-09 11:56:35",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Homer El Mero Mero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,212 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,213 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cap \#3 \- Villa Caraza](https://open.spotify.com/track/0jD6ZTZgJnBkd1MR3euse4) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Cap \#3 \- Villa Caraza](https://open.spotify.com/album/2mwqCReRe5iKB6kYBPXD2I) | 2:15 |
-| 2 | [Lirica Homicida](https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Zumbiman](https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5) | [Lirica Homicida](https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR) | 4:20 |
+| 2 | [Lirica Homicida](https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Zumbiman](https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5), [Soulnastyy](https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz) | [Lirica Homicida](https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR) | 4:20 |
 | 3 | [SIEMPRE TITULAR](https://open.spotify.com/track/7mPLsi81eodaAXhI3zIX8w) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Keko Beats](https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed), [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY) | [SIEMPRE TITULAR](https://open.spotify.com/album/0ZBkoEhKfKF3o3sYABM56c) | 3:08 |
 | 4 | [ANTISISTEMA](https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [ANTISISTEMA](https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA) | 4:09 |
 | 5 | [Hijos de la Tierra](https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Hijos de la Tierra](https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
 | 100 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `AAAAAGxRP76HnGLTDdQzdqG5jCgrx1p+`
+Snapshot ID: `AAAAADK50pHImSv9j0OylkKokQhaT1Fl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,809 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,834 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [Another Way Out](https://open.spotify.com/track/6I0YSAwZMy7GpBlgfBn7Xc) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Tim Bowman Jr](https://open.spotify.com/artist/3JuIdxCPSDG9oVk9Z4kR4g), [DKG](https://open.spotify.com/artist/7zh9S0TvMk6SdbL6nyuYJ3) | [Homecoming Live in Detroit](https://open.spotify.com/album/148Fxu4RXzDl62yXs1JO7P) | 4:10 |
 | 100 | [Sweet, Sweet Spirit](https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Sweet, Sweet Spirit](https://open.spotify.com/album/7wroq6zvI9ZCAa7B0ReAoI) | 5:39 |
 
-Snapshot ID: `AAAAAC25T7VsmQLegIaSiUSaL/AHZqVi`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

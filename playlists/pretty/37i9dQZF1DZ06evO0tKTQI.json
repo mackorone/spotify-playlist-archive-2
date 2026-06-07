@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13951,
+  "num_followers": 13959,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAAADMmHBOvyMJ7M3Lt8/CWiA",
+  "snapshot_id": "aiIRgAAAAABwlXjDJPxFVmiAz6qdSJj6",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,6 @@
       "duration_ms": 178960,
       "name": "Sobred\u00f3sis De Tempra",
       "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "Before Seeing Green",
-      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
     }
   ],
   "unique_name": "This Is Bratty",

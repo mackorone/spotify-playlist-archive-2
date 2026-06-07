@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,105 likes - 111 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,104 likes - 111 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 110 | [fvn](https://open.spotify.com/track/6zaevpxrzTitJUfXmAsK8n) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl), [Goemon](https://open.spotify.com/artist/03G358lfVotZ7lIhZyWIQf) | [fvn](https://open.spotify.com/album/2w0j3GHhWTSNStQo415Zgv) | 5:25 |
 | 111 | [Music](https://open.spotify.com/track/0Zq56hN0fhA4dlR0BGGu77) | [play in stereo](https://open.spotify.com/artist/52pMoTflDmenysWghuvU5n) | [Music](https://open.spotify.com/album/6DJWbmhiO6oxxyfNZOaX7W) | 4:25 |
 
-Snapshot ID: `AAAAAJ8f9t+jNa1qwV7V+WWnva1FIQxl`
+Snapshot ID: `AAAAALRT+7wYBeDwqG0giDuevvrPhFYI`

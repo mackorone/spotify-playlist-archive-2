@@ -7562,6 +7562,24 @@
     {
       "album": {
         "name": "Volcano",
+        "url": "https://open.spotify.com/album/1yKvqiTTiiPOtc3KvV6u5O"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/7u9mre6DtWHgmvnW5sb8Gb"
+    },
+    {
+      "album": {
+        "name": "Volcano",
         "url": "https://open.spotify.com/album/5wmItckZHykA0C6PqXi4Nb"
       },
       "artists": [
@@ -7590,7 +7608,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 244506,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/5VN7DSFKLc1TjMvUOAPMAa"
@@ -7956,7 +7974,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
@@ -8130,7 +8148,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 257252,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"

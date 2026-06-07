@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop con LARA CAMPOS FT\. CHIKITOONZ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,039 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,043 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parangaricutirimícuaro](https://open.spotify.com/track/23OpFoHaSy3HPDZoaur4Zm) | [Lara Campos](https://open.spotify.com/artist/4i59SkjxpeY2MTZTVyO1QH), [Chiki Toonz](https://open.spotify.com/artist/6J3rOClUAKpQf74ZpcWddM) | [Parangaricutirimícuaro](https://open.spotify.com/album/7qB1k2iHONaNvgZJ3RfFDp) | 3:02 |
-| 2 | [Alas \- Versión 2026 \- De "Soy Luna" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 |
+| 2 | [Alas \- Versión 2026 \- De "Soy Luna: Volver a rodar" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna: Volver a rodar" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 |
 | 3 | [Rhenné](https://open.spotify.com/track/6Nk4jQx7PDDOqhs8AeRyzc) | [Lara Campos](https://open.spotify.com/artist/4i59SkjxpeY2MTZTVyO1QH) | [Rhenné](https://open.spotify.com/album/1XdzCXDcciOkah36AagwyF) | 2:56 |
 | 4 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 5 | [Tik Tok](https://open.spotify.com/track/0hnZBJrL2YIpLX0E3Bc9Us) | [Kardenas HK3](https://open.spotify.com/artist/3tmacOSHtx3qPuLzpo54Y5) | [Tik Tok](https://open.spotify.com/album/7s8q0JJIToRswzmlwpzs6w) | 2:51 |

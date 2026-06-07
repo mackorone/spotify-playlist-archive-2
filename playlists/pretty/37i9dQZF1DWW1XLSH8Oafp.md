@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,203 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,208 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [Somebody Else](https://open.spotify.com/track/5K9UgcPMw6y4PkQkLqwHu7) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Somebody Else](https://open.spotify.com/album/0OpZ6W4gMnByrUkMQIKPBS) | 2:01 |
 | 100 | [LUV IN AI <3](https://open.spotify.com/track/4xJSHMFHcppRSMvugndnII) | [BBY GOOSE](https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa) | [STARGIRL SYSTEM](https://open.spotify.com/album/5KXUQYbJdOKos13LT6LcIl) | 3:37 |
 
-Snapshot ID: `AAAAAGehDW5X1ZGu+L8L63bOc8Drt7CL`
+Snapshot ID: `AAAAAEfzyKqZ8v1wjuHixbvhYXKqSAb9`

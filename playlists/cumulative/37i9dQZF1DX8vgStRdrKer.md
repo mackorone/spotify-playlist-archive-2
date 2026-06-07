@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-799 songs - 2 day 20 hr 48 min
+800 songs - 2 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Holy](https://open.spotify.com/track/6RgbAyvyhk8Zn9s3Q1rtLz) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:02 | 2025-05-23 | 2025-06-27 |
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
 | [Holy \(My Adoration\)](https://open.spotify.com/track/3r93TcH9pQruKXQfTqoSoQ) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Holy \(My Adoration\)](https://open.spotify.com/album/5UMTElqx0nb4a81NBrdiWy) | 3:04 | 2025-06-06 | 2025-07-31 |
-| [Holy Father](https://open.spotify.com/track/7nhZSxv9wUFsqLRBPAIFRn) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Holy Father](https://open.spotify.com/album/3rXdQN1aKdsSEEZjBwbxDA) | 6:34 | 2026-05-22 |  |
+| [Holy Father](https://open.spotify.com/track/7nhZSxv9wUFsqLRBPAIFRn) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Holy Father](https://open.spotify.com/album/3rXdQN1aKdsSEEZjBwbxDA) | 6:34 | 2026-05-22 | 2026-06-07 |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
 | [Holy Ghost](https://open.spotify.com/track/7qMtGAM3HregKdmlxslezQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [Holy Ghost](https://open.spotify.com/album/1PdYsNFHkhnqtpmDUmt5Hb) | 2:51 | 2025-07-18 | 2025-10-03 |
 | [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 | 2025-11-28 |  |
@@ -443,6 +443,7 @@
 | [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 | 2025-06-20 | 2025-07-31 |
 | [Lord I believe](https://open.spotify.com/track/7Kr8B8QNOQQFPXBwoWEahG) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Lord I believe](https://open.spotify.com/album/7E0yZmCOLdc5zSjXAWiRtb) | 6:14 | 2026-02-27 | 2026-04-27 |
 | [LOUD](https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG) | [Same OG](https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [HEALING STREAMS](https://open.spotify.com/album/36XyxwnJyp6iq1qf27XcDz) | 4:26 | 2026-05-15 |  |
+| [Love Bet](https://open.spotify.com/track/68OIGx3DQ9CEK6jNFPuGBe) | [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7) | [Love Bet](https://open.spotify.com/album/19G4XuXbSJF6XefUvnZ4dD) | 2:38 | 2026-05-29 |  |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 | 2025-03-08 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 | 2026-05-22 |

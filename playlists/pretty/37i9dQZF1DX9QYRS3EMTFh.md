@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,195 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,227 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boss](https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Boss](https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4) | 2:34 |
 | 2 | [90s](https://open.spotify.com/track/4CmAasAiVnxo3WGy0PNxHA) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [90S](https://open.spotify.com/album/1lqzpBgNsPrfQLnSxcFo2Y) | 3:29 |
 | 3 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
-| 4 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
+| 4 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/2uKdwsWwPrwKzMh4pY4pb4), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
 | 5 | [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 |
 | 6 | [Booty](https://open.spotify.com/track/3CADsRP82AiKi9EGqOTtuU) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Booty](https://open.spotify.com/album/5U574HAx90WjtlppEORYGL) | 2:27 |
 | 7 | [DOUVAN](https://open.spotify.com/track/3UarFdqZ0vsVMMtbahUXnz) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY) | [DOUVAN](https://open.spotify.com/album/015Jr4evn1Ug0LGqELnjDK) | 3:04 |

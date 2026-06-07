@@ -1,6 +1,6 @@
 {
   "description": "det handler ik' om alder, men om young soundsss \ud83e\udd60",
-  "num_followers": 47162,
+  "num_followers": 47160,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Livet Er For Kort",
+        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 170738,
+      "name": "Livet Er For Kort",
+      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Hvorfor skulle jeg vide det?",
         "url": "https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 135735,
       "name": "Hvorfor skulle jeg vide det?",
       "url": "https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Livet Er For Kort",
-        "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 170738,
-      "name": "Livet Er For Kort",
-      "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Skyklapper",
         "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 173259,
       "name": "Skyklapper",
       "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -363,18 +363,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+        "name": "Troede Det Var Os",
+        "url": "https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W"
       },
       "artists": [
         {
           "name": "August H\u00f8yen",
           "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        },
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
         }
       ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+      "duration_ms": 174627,
+      "name": "Troede Det Var Os",
+      "url": "https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -431,42 +435,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Spring summer",
-        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128012,
-      "name": "Spring summer",
-      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Troede Det Var Os",
-        "url": "https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        },
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 174627,
-      "name": "Troede Det Var Os",
-      "url": "https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -483,6 +451,22 @@
       "duration_ms": 158708,
       "name": "bl\u00e5 n\u00e6tter",
       "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -519,18 +503,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "En Stor Lykkelig Familie",
-        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+        "name": "Spring summer",
+        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
       },
       "artists": [
         {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 195777,
-      "name": "En Stor Lykkelig Familie",
-      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
         }
       ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 197397,
       "name": "Mandag Til Fredag",
       "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
-      },
-      "artists": [
-        {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
-        }
-      ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
         }
       ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -679,6 +663,22 @@
       "duration_ms": 168000,
       "name": "Bider Det I Mig",
       "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -715,6 +715,38 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "H\u00e6ng En Mand",
+        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "H\u00e6ng En Mand",
+      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -747,22 +779,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "H\u00e6ng En Mand",
-        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "H\u00e6ng En Mand",
-      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Hvis jeg ku'",
         "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 229000,
       "name": "Hvis jeg ku'",
       "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
-        "name": "Venter Jo Bare",
-        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 200164,
-      "name": "Venter Jo Bare",
-      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "Bobler",
-        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Bobler",
-      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 197589,
       "name": "S\u00e6tter Alt P\u00e5 Spil",
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "sad song",
-        "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 183488,
-      "name": "sad song",
-      "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "sad song",
+        "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 183488,
+      "name": "sad song",
+      "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
     },
     {
       "added_at": "2026-06-04 22:01:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-04 22:01:11",
       "album": {
-        "name": "i'll quit quitting",
-        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
-      },
-      "artists": [
-        {
-          "name": "Thea Dora",
-          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
-        }
-      ],
-      "duration_ms": 198810,
-      "name": "i'll quit quitting",
-      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
-    },
-    {
-      "added_at": "2026-06-04 22:01:11",
-      "album": {
         "name": "Kraftidiot",
         "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 227037,
       "name": "Ind I Solen",
       "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+    },
+    {
+      "added_at": "2026-06-04 22:01:11",
+      "album": {
+        "name": "i'll quit quitting",
+        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "duration_ms": 198810,
+      "name": "i'll quit quitting",
+      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
     },
     {
       "added_at": "2026-06-04 22:01:11",

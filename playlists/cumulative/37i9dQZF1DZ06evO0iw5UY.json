@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 219026,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
@@ -1508,6 +1508,24 @@
       "duration_ms": 279160,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
+    },
+    {
+      "album": {
+        "name": "Something Sacred",
+        "url": "https://open.spotify.com/album/69VqvgJmhI2M7C8c1REEmj"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275309,
+      "name": "Something Sacred",
+      "url": "https://open.spotify.com/track/6gXUbbYtO1yBdNzXuzSRD9"
     },
     {
       "album": {

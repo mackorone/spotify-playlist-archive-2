@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,332 songs - 2 day 9 hr 25 min
+1,333 songs - 2 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Blessed](https://open.spotify.com/track/4rWAXBV9x9OO4kTuLsikWa) | [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy) | [Blessed](https://open.spotify.com/album/0mhMSAF9WHbYV3J0SiAty2) | 2:44 | 2025-10-26 | 2025-12-15 |
 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 | 2023-09-22 | 2024-04-15 |
 | [Blinding Lights](https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Blinding Lights](https://open.spotify.com/album/1RinMQThKCHcrk6hMf6QiN) | 2:56 | 2023-09-22 | 2026-02-02 |
+| [Bloom](https://open.spotify.com/track/77Sm1oar22gMXxGBJHB5HI) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Bloom](https://open.spotify.com/album/7t8IzmWt47BIXX4NFbPT8s) | 2:15 | 2026-06-06 |  |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2023-09-22 |  |
 | [Bloom](https://open.spotify.com/track/3xk45uMMCK1SOlLbehld94) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Bloom](https://open.spotify.com/album/2kQ5pYczsUNNjop2gz4j4u) | 2:44 | 2025-11-09 | 2026-03-30 |
 | [Blue & Orange](https://open.spotify.com/track/3IvJL6XExEr7e4c9goxviC) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [Blue & Orange](https://open.spotify.com/album/0U0EWpLaDte2PuXJ0Sbu6V) | 2:12 | 2025-05-30 | 2025-08-04 |

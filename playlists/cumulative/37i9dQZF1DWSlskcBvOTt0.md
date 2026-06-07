@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,131 songs - 3 day 20 hr 23 min
+1,132 songs - 3 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-01-21 | 2022-10-28 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-04-21 | 2022-04-23 |
 | [Ahora Todo Va \- Gorgon City Remix](https://open.spotify.com/track/0KkseucFbIhvQQI7SJMwcx) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Ahora Todo Va](https://open.spotify.com/album/5bMPgYIWxZut8L5k9FVslo) | 4:43 | 2021-06-04 | 2022-04-23 |
-| [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-30 |  |
+| [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-30 | 2026-06-07 |
 | [Aitne \- Monkey Safari Remix](https://open.spotify.com/track/7vzybiTEICEwnewA8KqU57) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Aitne](https://open.spotify.com/album/4Or0QJZ9FFfFkyDJOdsk28) | 8:25 | 2021-04-21 | 2022-07-27 |
 | [AKABAR \- Radio Edit](https://open.spotify.com/track/2dF2E1UMEiUU7k6io0bfLc) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [ASKI V1](https://open.spotify.com/album/77uFvnkZJIAMeQCyuasRv9) | 4:44 | 2025-11-21 | 2026-02-14 |
 | [Akasha](https://open.spotify.com/track/6DWdME78eFV3pNa7JKUHIM) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [Elements Of Africa](https://open.spotify.com/album/4Nw0kWUYq7GzkL1o6VIktz) | 3:41 | 2025-09-12 | 2026-04-25 |
@@ -154,6 +154,7 @@
 | [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 | 2024-01-04 |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 | 2023-03-11 |
 | [Blomst](https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Blomst](https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP) | 9:13 | 2024-05-17 | 2024-07-27 |
+| [Blower](https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK) | [JANAKEY](https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx), [Cem Seckin](https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4) | [Blower](https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE) | 3:28 | 2026-05-29 |  |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 | 2023-07-12 |
 | [Body Language](https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Body Language](https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf) | 2:59 | 2025-07-11 |  |

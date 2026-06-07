@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Julia Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,578 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,579 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 69 | [Right Hand to God](https://open.spotify.com/track/1nmR9nOziOaVohX2qCkIpU) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Right Hand to God](https://open.spotify.com/album/7iVlDKsdWH0hwblWES6qAP) | 2:13 |
 | 70 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
 
-Snapshot ID: `AAAAAJwI2jeUdZjQzWpXX1F0Yx8X9f+R`
+Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`

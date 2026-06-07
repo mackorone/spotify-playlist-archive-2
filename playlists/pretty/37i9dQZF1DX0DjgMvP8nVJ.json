@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 32876,
+  "num_followers": 32908,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Alright, Still (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 196893,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Holding Onto Strings Better Left To Fray",
-        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 224067,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Holding Onto Strings Better Left To Fray",
+        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 224067,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+        "name": "Bishop Briggs",
+        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+      "duration_ms": 243213,
+      "name": "The Way I Do",
+      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Bishop Briggs",
-        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
       "artists": [
         {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 243213,
-      "name": "The Way I Do",
-      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Streets Of Gold",
-        "url": "https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R"
-      },
-      "artists": [
-        {
-          "name": "3OH!3",
-          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Double Vision",
-      "url": "https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Playing the Angel (Deluxe)",
         "url": "https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 229666,
       "name": "Suffer Well",
       "url": "https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Streets Of Gold",
+        "url": "https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Double Vision",
+      "url": "https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Not Your Fault",
-      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 323973,
       "name": "Time to Run",
       "url": "https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "All At Once",
         "url": "https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 200053,
       "name": "Changing",
       "url": "https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Sleep Talking",
-        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Sleep Talking",
-      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Insomniatic",
         "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 175920,
       "name": "Chemicals React - Remix",
       "url": "https://open.spotify.com/track/7vOjTY220BqIttYDbwshED"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Sleep Talking",
+        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Sleep Talking",
+      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Bone Palace Ballet: Grand Coda",
-        "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Is It Progression If a Cannibal Uses a Fork?",
-      "url": "https://open.spotify.com/track/7n70qPKhBy60qTgvTgTZ7g"
+      "duration_ms": 206733,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5"
     }
   ],
   "unique_name": "The Sims Official Playlist",

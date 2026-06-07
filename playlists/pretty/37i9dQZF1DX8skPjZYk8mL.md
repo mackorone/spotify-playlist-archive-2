@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,865 likes - 250 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,983 likes - 250 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 249 | [Sandscape](https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX) | [Teddy Gorbella](https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3) | [Sandscape](https://open.spotify.com/album/6w3fhKFE4kStSReKTyHUCn) | 1:29 |
 | 250 | [Buttercup](https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Buttercup](https://open.spotify.com/album/0Q3YP5gmFJMQO2HqL3Becv) | 1:38 |
 
-Snapshot ID: `AAAAAIt0Y+qiSgY0ecdvuiF119HzQTjA`
+Snapshot ID: `AAAAAMmBEjcxNir0A0/Rp7YK44Ov1JH0`

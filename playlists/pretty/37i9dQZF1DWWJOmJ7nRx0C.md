@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Greta Van Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,151 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,114 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [Kill The Light](https://open.spotify.com/track/11lSODTR9IuEnnMB7zAvL9) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Shadow Work / Light Work](https://open.spotify.com/album/4eLTNt2AN4tWUArHUWyHxh) | 2:49 |
 | 100 | [Underrated](https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Underrated](https://open.spotify.com/album/1sI5zExyPAZDiL4GYrKeGC) | 3:29 |
 
-Snapshot ID: `AAAAAJ2A6FsUss8ISJxGeCxHPm3uZWhC`
+Snapshot ID: `AAAAAHkPTx34DOEoutVPVWVvApF7QMu2`

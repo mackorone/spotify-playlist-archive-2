@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,406 likes - 65 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,465 likes - 65 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 64 | [Holy](https://open.spotify.com/track/6raQx5tTTQLTPU7MnvfMqc) | [KVLI](https://open.spotify.com/artist/1WdO2u0qgGGr8EzQprXZLI), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Holy](https://open.spotify.com/album/7eSnxAt47qvbnDuqcOItCy) | 4:13 |
 | 65 | [Lift Your Hands](https://open.spotify.com/track/1CdiJrMij4OBmxY7d0bIDv) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Lift Your Hands](https://open.spotify.com/album/0FkV7kAd2G1D3GnrUjjTqJ) | 6:07 |
 
-Snapshot ID: `AAAAAMtd2LigaKZc284lQC5GCQW73xFh`
+Snapshot ID: `AAAAAMoHvqGrhG9ef7U6Z1a4lhlhj17s`

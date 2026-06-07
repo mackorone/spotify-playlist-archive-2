@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 703 likes - 81 songs - 4 hr 44 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 704 likes - 81 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 65 | [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 |
 | 66 | [Lunacy](https://open.spotify.com/track/7DtuvDVcRivrUi3APqZGV4) | [Fawn Breaks](https://open.spotify.com/artist/4mknVe62YqncX0zyrabvaP) | [Ram](https://open.spotify.com/album/5szsh2mU4FCxvelrOBiLyY) | 3:15 |
 | 67 | [Just Kids](https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Just Kids](https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8) | 3:46 |
-| 68 | [dying](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 |
+| 68 | [dying \- Demo Version](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying \(Demo Version\)](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 |
 | 69 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 |
 | 70 | [Baby Girl \(likes to lie\)](https://open.spotify.com/track/40Ewc7646VmyGrrpFf7o4r) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Baby Girl \(likes to lie\)](https://open.spotify.com/album/4dvAjPjQbA4PZMFXzguwHc) | 2:51 |
 | 71 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, G\. Mineiro, Tony Boy, IvanBi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,566 likes - 109 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,575 likes - 109 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

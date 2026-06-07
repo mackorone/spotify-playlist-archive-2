@@ -3259,6 +3259,28 @@
     },
     {
       "album": {
+        "name": "SUBMERSA",
+        "url": "https://open.spotify.com/album/0M8UV6rOW3i4xXoAPK5t0O"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169111,
+      "name": "SUBMERSA",
+      "url": "https://open.spotify.com/track/3Tkuyl3Et3umkqpuTrNPQi"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Jorge Guerreiro (Dub)",
         "url": "https://open.spotify.com/album/6nf33JPhD5L65e3NH0lKfb"
       },

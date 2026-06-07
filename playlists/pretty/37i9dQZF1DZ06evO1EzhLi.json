@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 181069,
+  "num_followers": 181083,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAAAQDSCXdHFLmY9JQ3AjFYy6",
+  "snapshot_id": "aiIRgAAAAAArH1Ooxp3BLMAWfSo8Bbo1",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Life Of My Own",
-      "url": "https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY"
+      "duration_ms": 230600,
+      "name": "Duck And Run",
+      "url": "https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+        "name": "Seventeen Days",
+        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 161946,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/6cJRjKolnLTz0Q0TbwJaSv"
+      "duration_ms": 259160,
+      "name": "Behind Those Eyes",
+      "url": "https://open.spotify.com/track/4QOTzEsuoZaBxtaS32VRNz"
     },
     {
       "added_at": null,
@@ -412,15 +412,15 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Duck And Run",
-      "url": "https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX"
+      "duration_ms": 238400,
+      "name": "Life Of My Own",
+      "url": "https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Days",
-        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 259160,
-      "name": "Behind Those Eyes",
-      "url": "https://open.spotify.com/track/4QOTzEsuoZaBxtaS32VRNz"
+      "duration_ms": 161946,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/6cJRjKolnLTz0Q0TbwJaSv"
     },
     {
       "added_at": null,

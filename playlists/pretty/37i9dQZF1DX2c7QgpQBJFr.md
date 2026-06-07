@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: INVERNO
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,384 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,386 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 53 | [VAFFA\*AMORE](https://open.spotify.com/track/64OZcsJXegk5359S2nCe9D) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [VAFFA\*AMORE](https://open.spotify.com/album/46jdR3PctmC8zIu06hpvt8) | 2:54 |
 | 54 | [Sole](https://open.spotify.com/track/4sCqHpUf19nEbpB8kgNhuH) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Sole](https://open.spotify.com/album/0JoUy6uuF2KxHnrWvEbYPM) | 2:39 |
 | 55 | [Rimbalzo](https://open.spotify.com/track/5hZ7VsIgALNs9aVl7OZISx) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [In Tasca](https://open.spotify.com/album/6gTFu7dApUecpvjzew5dy2) | 3:20 |
-| 56 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:45 |
+| 56 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:52 |
 | 57 | [XXVERSO \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/3NKxl6qavXHzq5J0WIIYhL) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [SONO UN GRANDE \(DELUXE\)](https://open.spotify.com/album/1FK4nC17c2Qg5qFjtu8WSf) | 3:00 |
 | 58 | [Sabato sbagliato](https://open.spotify.com/track/5FHOC3qB1iamppzVEuOD9L) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Sabato sbagliato](https://open.spotify.com/album/4Bl4KdCSJoY8efrgfQYz9T) | 2:43 |
 | 59 | [24/7](https://open.spotify.com/track/0B0Zfc6F9TXAwb9y8Zix6B) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [24/7](https://open.spotify.com/album/5wLTEEwgrfC3jtQ7PYjOQX) | 2:37 |

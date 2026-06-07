@@ -1,13 +1,29 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 897,
+  "num_followers": 900,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD4zvyXdQkE95Vwm40IZUT4qEFoQVP",
+  "snapshot_id": "AAAD5ttS9DTMm7DNAH/G8gg/cG9lA6dE",
   "tracks": [
+    {
+      "added_at": "2026-06-05 18:13:27",
+      "album": {
+        "name": "Rubber Mask of Holy Wrath",
+        "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Owen",
+          "url": "https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm"
+        }
+      ],
+      "duration_ms": 511173,
+      "name": "Rubber Mask of Holy Wrath",
+      "url": "https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K"
+    },
     {
       "added_at": "2026-05-09 15:40:27",
       "album": {
@@ -1205,20 +1221,36 @@
       "url": "https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5"
     },
     {
-      "added_at": "2026-06-05 18:13:27",
+      "added_at": "2026-06-06 20:39:54",
       "album": {
-        "name": "Rubber Mask of Holy Wrath",
-        "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq"
       },
       "artists": [
         {
-          "name": "Robert Owen",
-          "url": "https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm"
+          "name": "Lime",
+          "url": "https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB"
         }
       ],
-      "duration_ms": 511173,
-      "name": "Rubber Mask of Holy Wrath",
-      "url": "https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K"
+      "duration_ms": 273560,
+      "name": "The Last Thing That I Do",
+      "url": "https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF"
+    },
+    {
+      "added_at": "2026-06-06 20:41:42",
+      "album": {
+        "name": "Would Be Better",
+        "url": "https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH"
+      },
+      "artists": [
+        {
+          "name": "Luan Luan",
+          "url": "https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG"
+        }
+      ],
+      "duration_ms": 234529,
+      "name": "Would Be Better",
+      "url": "https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

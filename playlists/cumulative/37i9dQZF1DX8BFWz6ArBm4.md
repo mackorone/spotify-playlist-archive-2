@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Aspa
 
-285 songs - 16 hr 2 min
+286 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Ftaio Ego](https://open.spotify.com/track/6EKc3fM6YJd92sGLXPCvYs) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Ftaio Ego](https://open.spotify.com/album/4lMLR7QgwRvz5aMXBW3J2V) | 3:09 | 2024-11-28 | 2025-01-13 |
 | [Fyllo Kai Ftero](https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Fyllo Kai Ftero](https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4) | 3:02 | 2024-06-27 | 2024-10-18 |
 | [Gia Mena](https://open.spotify.com/track/1VmTEkRCztvb2ubRcH1Gs9) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Itan Na Vrethoume](https://open.spotify.com/album/4McNW9nL6Y58uXk8Xcu8Jd) | 3:31 | 2026-05-28 | 2026-06-05 |
-| [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 | 2025-04-24 |  |
+| [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 | 2025-04-24 | 2026-06-07 |
+| [Gia Tin Epomeni](https://open.spotify.com/track/3TIKWISOKMf12koBZjfAfE) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/45Og4woUGkRvl93FUpsTTP) | 2:48 | 2026-06-04 |  |
 | [Gia Tsigara Tha Vgo](https://open.spotify.com/track/7IhQvFh302NEazF4Bqn2vu) | [Zafeiris Melas](https://open.spotify.com/artist/2poZNBfEMf8mVK7qZZDFeE) | [Gia Tsigara Tha Vgo](https://open.spotify.com/album/2wsA6wD6wWy47tpji5MQZw) | 2:46 | 2026-02-26 | 2026-03-13 |
 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 | 2024-10-03 | 2025-10-17 |
 | [Grand Hotel \- Pame Na Pioume Ena Asteri](https://open.spotify.com/track/0Cw5apeuG3eEIMSIzAWinG) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Nicos Terzis](https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j), [Yiannis Kotsiras](https://open.spotify.com/artist/6waWR57xXsgtWztHX1v8TB) | [Grand Hotel \- Pame Na Pioume Ena Asteri \(Original TV Series Soundtrack\)](https://open.spotify.com/album/1rZBggATCY2QxfiZQTXo3L) | 4:17 | 2025-02-27 | 2025-03-14 |

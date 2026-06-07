@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Skye Newman",
-  "num_followers": 85881,
+  "num_followers": 85883,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
+        "name": "\u8981\u9084",
+        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "\u8981\u9084",
+      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
         "name": "escuch\u00e1ndote",
         "url": "https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 136840,
       "name": "escuch\u00e1ndote",
       "url": "https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
-        "name": "\u8981\u9084",
-        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
-      },
-      "artists": [
-        {
-          "name": "CONSTANCE",
-          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "\u8981\u9084",
-      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
+        "name": "Barzin, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
+      },
+      "artists": [
+        {
+          "name": "Bruna Lipiani",
+          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Porteira Fechada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
         "name": "Vekhi Jaava",
         "url": "https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 121026,
       "name": "Vekhi Jaava",
       "url": "https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
-        "name": "is anybody home!?",
-        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 257561,
-      "name": "clear blue!",
-      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Barzin, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
+        "name": "is anybody home!?",
+        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
       },
       "artists": [
         {
-          "name": "Bruna Lipiani",
-          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 178356,
-      "name": "Porteira Fechada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
+      "duration_ms": 257561,
+      "name": "clear blue!",
+      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
-        "url": "https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS"
-      },
-      "artists": [
-        {
-          "name": "the ge",
-          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
-        }
-      ],
-      "duration_ms": 174895,
-      "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
-      "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
-    },
-    {
-      "added_at": "2026-05-15 13:00:30",
-      "album": {
         "name": "\u590f\u5915\u590f\u666f",
         "url": "https://open.spotify.com/album/3OpwHtAUbWjZuyjO4lZ0HQ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 150600,
       "name": "\u590f\u5915\u590f\u666f",
       "url": "https://open.spotify.com/track/5kwmL31ZEZBu4stW6WKG6W"
+    },
+    {
+      "added_at": "2026-05-15 13:00:30",
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+        "url": "https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "duration_ms": 174895,
+      "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+      "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
     },
     {
       "added_at": "2026-05-15 13:00:30",

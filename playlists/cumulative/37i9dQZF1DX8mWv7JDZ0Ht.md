@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Gabi Melim
 
-943 songs - 1 day 23 hr 8 min
+944 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [O Amor é uma Loucura](https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM) | [Manu Ramalho](https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw) | [O Amor é uma Loucura](https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw) | 3:29 | 2024-10-11 | 2026-03-07 |
 | [O Dia De Amanhã \- Ao Vivo](https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:24 | 2023-09-29 | 2023-12-02 |
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-09-24 |
+| [O MUNDO É DETALHE PRA NÓS](https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS) | [Duh Marinho](https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ventos Favoráveis](https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0) | 2:41 | 2026-06-05 |  |
 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 | 2024-12-20 | 2025-06-21 |
 | [O Pássaro e o Diamante](https://open.spotify.com/track/6HTH0CTtSz0qzAmXKMFYIZ) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [O Pássaro e o Diamante](https://open.spotify.com/album/6k8CfbckxXsinhYMDIhOks) | 2:29 | 2022-10-26 | 2022-11-04 |
 | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/track/6Rt0yn8luPG73Yp7yiESyc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/album/12PaS2qZIHeuwWbL6owjQl) | 2:45 | 2022-05-13 | 2022-06-04 |
@@ -792,7 +793,7 @@
 | [SUDAMÉRICA](https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [ROLIDEI](https://open.spotify.com/album/4RMCtuuCtPCxRHJCNuOEtT) | 3:08 | 2026-04-10 |  |
 | [Sumido](https://open.spotify.com/track/1lalcRBPVD5XJT1lQHcgoE) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Vitória](https://open.spotify.com/album/3xL7lEKuL1icXn7LjVudx0) | 3:09 | 2024-10-11 | 2024-11-09 |
 | [Sustentar](https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi), [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [Sustentar](https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF) | 2:27 | 2023-07-28 | 2023-09-30 |
-| [São Paulo É uma Mãe](https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [São Paulo É uma Mãe](https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB) | 2:11 | 2026-05-22 |  |
+| [São Paulo É uma Mãe](https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [São Paulo É uma Mãe](https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB) | 2:11 | 2026-05-22 | 2026-06-07 |
 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 | 2025-02-14 | 2026-01-31 |
 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2025-09-02 |
 | [Só Pra Te Falar](https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Só Pra Te Falar](https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK) | 2:41 | 2022-11-18 | 2023-01-28 |

@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -8178,7 +8178,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "CATEL",
       "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
@@ -10839,6 +10839,28 @@
     },
     {
       "album": {
+        "name": "C\u00e2nt\u0103 l\u0103utare",
+        "url": "https://open.spotify.com/album/36kPX5dqZG1J3LNhRxynA6"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        },
+        {
+          "name": "Manele VTM",
+          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173144,
+      "name": "C\u00e2nt\u0103 l\u0103utare",
+      "url": "https://open.spotify.com/track/6GbmRPRbFkxasxrC2ee67E"
+    },
+    {
+      "album": {
         "name": "ATIPIC",
         "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
       },
@@ -11166,7 +11188,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -19286,7 +19308,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "Hai la mine in BMWU",
       "url": "https://open.spotify.com/track/6Ga4vojgiRyVjkiPqQvo19"
@@ -19544,7 +19566,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -22666,7 +22688,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 170738,
       "name": "ishh",
       "url": "https://open.spotify.com/track/24acrQtUSgDEIsuzGtjREy"
@@ -33484,7 +33506,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 211013,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/2os0uiO7qZQoLYqjJQ2J6v"
@@ -35676,7 +35698,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 183000,
       "name": "promint",
       "url": "https://open.spotify.com/track/6dK5NytefN7GX8dIvUnXmv"
@@ -45977,6 +45999,28 @@
     },
     {
       "album": {
+        "name": "Toreador",
+        "url": "https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Toreador",
+      "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
+    },
+    {
+      "album": {
         "name": "Il ballo della vita",
         "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
       },
@@ -49018,7 +49062,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"
@@ -50160,7 +50204,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 173906,
       "name": "xcx",
       "url": "https://open.spotify.com/track/07qge8MmbZbeBuhHqZrQnZ"

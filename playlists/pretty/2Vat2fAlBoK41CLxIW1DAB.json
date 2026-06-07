@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEKhgMDgh2tN+lTL3QreKKZ3gABp7h",
+  "snapshot_id": "AAAEMMn3l3w9dzQ2asJ97Z60Lclf6o+Z",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -14927,7 +14927,7 @@
     {
       "added_at": "2026-03-06 09:35:22",
       "album": {
-        "name": "dying",
+        "name": "dying (Demo Version)",
         "url": "https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA"
       },
       "artists": [
@@ -14937,7 +14937,7 @@
         }
       ],
       "duration_ms": 178744,
-      "name": "dying",
+      "name": "dying - Demo Version",
       "url": "https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh"
     },
     {
@@ -16967,6 +16967,106 @@
       "duration_ms": 299666,
       "name": "OK",
       "url": "https://open.spotify.com/track/40Xl7Z0IzFWT2R9koXjfWM"
+    },
+    {
+      "added_at": "2026-06-06 18:09:07",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC"
+      },
+      "artists": [
+        {
+          "name": "Echoeswave",
+          "url": "https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ"
+    },
+    {
+      "added_at": "2026-06-06 18:09:09",
+      "album": {
+        "name": "The Vision",
+        "url": "https://open.spotify.com/album/5oWV4RkkOCjWe577NByopU"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        }
+      ],
+      "duration_ms": 216947,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/4vW7O1J1BeWSCbQJ7Jv3V9"
+    },
+    {
+      "added_at": "2026-06-06 18:09:11",
+      "album": {
+        "name": "I Keep Standing Above the Clouds",
+        "url": "https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 187946,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu"
+    },
+    {
+      "added_at": "2026-06-06 18:09:14",
+      "album": {
+        "name": "New World Disorder",
+        "url": "https://open.spotify.com/album/5VQCZ6Isa1vU2713QOiZiZ"
+      },
+      "artists": [
+        {
+          "name": "Intruder X",
+          "url": "https://open.spotify.com/artist/2E8VDadqw9XWUxyggxNUch"
+        },
+        {
+          "name": "Within Shadows",
+          "url": "https://open.spotify.com/artist/0h6y5s8dNwgfvGFrAXzD13"
+        }
+      ],
+      "duration_ms": 206125,
+      "name": "New World Disorder",
+      "url": "https://open.spotify.com/track/6wVSfiqid6s1ylZ7jqHTAR"
+    },
+    {
+      "added_at": "2026-06-06 18:09:14",
+      "album": {
+        "name": "The Great Nothing",
+        "url": "https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8"
+      },
+      "artists": [
+        {
+          "name": "Set to Change",
+          "url": "https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "The More I Know You (The Less I Feel Being a Part of It)",
+      "url": "https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF"
+    },
+    {
+      "added_at": "2026-06-06 18:09:22",
+      "album": {
+        "name": "Part of the Deal",
+        "url": "https://open.spotify.com/album/0hspMmrXzAYpwBTP3TGs3a"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Part of the Deal",
+      "url": "https://open.spotify.com/track/0hsnlQNXNSqKjFnO6Oj0Jv"
     }
   ],
   "unique_name": "Rock Square",

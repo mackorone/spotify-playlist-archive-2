@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,614 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,559 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 69 | [SILHOUETTE](https://open.spotify.com/track/5DkoUIMteaXpHncWUjZILJ) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [SILHOUETTE](https://open.spotify.com/album/3E6j663E4ImUvaRh3gXfII) | 2:38 |
 | 70 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 |
 
-Snapshot ID: `AAAAAP8QAIxxSQtXT+eOKrg/XwBCrgau`
+Snapshot ID: `AAAAAF0Cgws9bX27HjikGcahZIpb794f`

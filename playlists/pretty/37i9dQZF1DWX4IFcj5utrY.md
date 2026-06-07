@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: !Sooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,970 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,004 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Sinatanale \- Thakzin Remix](https://open.spotify.com/track/3YwmwvHOaSb88O9bWMrEai) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale \(Thakzin Remix\)](https://open.spotify.com/album/1ogMXpQmOhWRkswqMsKHyd) | 4:32 |
 | 50 | [Tsama \(Radio\)](https://open.spotify.com/track/0BSzX91ykyr6jlgOU3PHC6) | [Sebastian Grub](https://open.spotify.com/artist/09U60QG6eDkb4tBRRddJGq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Basti Grub Production](https://open.spotify.com/artist/3dbcAt3JDZfPSIQEle3eK8) | [Tsama \(Radio\)](https://open.spotify.com/album/2zbumbLUhNZfGL8ap98klv) | 2:44 |
 
-Snapshot ID: `AAAAAICqU1dz8+QhOeWv9+OFIla73TYK`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

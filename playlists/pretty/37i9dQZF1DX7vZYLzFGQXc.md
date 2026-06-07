@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 권소정\(Kwon so jeong\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,347 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,349 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 3 | [Stay For A While](https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Stay For A While](https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv) | 2:49 |
 | 4 | [haze \(Feat\. AIDEN\)](https://open.spotify.com/track/04xdME0Sx2SfWrmYZIba9r) | [JUN0](https://open.spotify.com/artist/41VKO9q17DB78oNMqV4edC), [AIDEN](https://open.spotify.com/artist/0BJ4EunjfS8DEbwl8Hhzfn) | [focal point](https://open.spotify.com/album/5BfvtmiX1ACBnj5LQEPk5j) | 2:57 |
 | 5 | [Barbie ♥ Money](https://open.spotify.com/track/7AD0p5fIRW7wItVBQStZVw) | [Rosy Barbie](https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT) | [Barbie World](https://open.spotify.com/album/3tlDiORWyg54Z9b0CVsdmT) | 1:36 |
-| 6 | [Lovefi](https://open.spotify.com/track/77mDY2RkX6fgOat5jIMO33) | [hvvn](https://open.spotify.com/artist/0TjLee69wcEyQQsDKOVGSM) | [hvvning](https://open.spotify.com/album/2UbyZe627WJlPYF74LpQwq) | 3:21 |
+| 6 | [Lovefi](https://open.spotify.com/track/77mDY2RkX6fgOat5jIMO33) | [hvvn](https://open.spotify.com/artist/0TjLee69wcEyQQsDKOVGSM) | [hvving](https://open.spotify.com/album/2UbyZe627WJlPYF74LpQwq) | 3:21 |
 | 7 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 |
 | 8 | [Sanha Express](https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [SANHA EXPRESS](https://open.spotify.com/album/08zCoQcNilJ7QZfn42gGtJ) | 2:59 |
 | 9 | [Time Stop Button \(feat\. Minjeong\)](https://open.spotify.com/track/5hZKcq4GLoSn33VkuJkgls) | [Raw Rabbit](https://open.spotify.com/artist/1qbZrnGjCA0tFdph91kuaQ), [Minjeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Time Stop Button](https://open.spotify.com/album/41213rNKebJwXdJIQVr9T1) | 3:03 |

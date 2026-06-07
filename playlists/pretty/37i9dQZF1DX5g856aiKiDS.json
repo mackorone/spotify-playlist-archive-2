@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518183,
+  "num_followers": 518190,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "5.2 (feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
+        "name": "5.2 (feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "lost in you",
-        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "lost in you",
-      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
         "name": "It's Raining",
         "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
+        "name": "lost in you",
+        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "lost in you",
+      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
     },
     {
       "added_at": "2026-04-20 02:25:39",

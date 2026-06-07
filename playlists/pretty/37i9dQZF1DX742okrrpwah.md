@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Taylor Swift, GIMS x Gazo, Aya Nakamura et Charlotte Cardin au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,163 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,155 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 67 | [9 Club](https://open.spotify.com/track/1s5zwn8HPMvJW4Pb1tGfHE) | [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [9 Club](https://open.spotify.com/album/5wc2ytjhsGpyDZUP5tPAtq) | 3:24 |
 | 68 | [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 |
 | 69 | [SAUVAGERIE 4](https://open.spotify.com/track/750H9wy1FAhP33A4aMzvvv) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [SAUVAGERIE 4](https://open.spotify.com/album/0QvgfruvO3HBYnu0wJ4ayJ) | 2:40 |
-| 70 | [Paroles… Paroles…](https://open.spotify.com/track/3Xs9byArw9113cN8ln4Ujt) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Paroles Paroles](https://open.spotify.com/album/65R12FwdR1uuGt1t1PNCek) | 4:04 |
+| 70 | [Paroles Paroles](https://open.spotify.com/track/3Xs9byArw9113cN8ln4Ujt) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Paroles Paroles](https://open.spotify.com/album/65R12FwdR1uuGt1t1PNCek) | 4:04 |
 | 71 | [Comme mes potos](https://open.spotify.com/track/0FWn2hNMK3kZUdDxz3DxBE) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Commes mes potos](https://open.spotify.com/album/5kYo5df2I7O1uACKDaiRyJ) | 2:14 |
 | 72 | [Made Up](https://open.spotify.com/track/2INcQxE95SmBgBbQI4UH1B) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Made Up](https://open.spotify.com/album/4MGr1KapA6OnLaXdJNdIl4) | 3:01 |
 | 73 | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 96 | [Hard Liquor and Soft Rock](https://open.spotify.com/track/7lsUqpco8LB7sP0GisVDGM) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Hard Liquor and Soft Rock](https://open.spotify.com/album/7BkwaYH9IGDnE2nWHcwVH3) | 2:40 |
 | 97 | [Vilhaine!](https://open.spotify.com/track/3JmmyqgtlODVYojNSz0WT4) | [VICTOR](https://open.spotify.com/artist/70KXknOC7uHe5dw3KTmMED) | [Standard](https://open.spotify.com/album/17uhwD3jfBAtgtp7pZvwjv) | 3:01 |
 | 98 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |
-| 99 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
+| 99 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/2uKdwsWwPrwKzMh4pY4pb4), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
 
 Snapshot ID: `AAAAACbsx5dz9XrXfyCSJ249cZ/EMhqQ`

@@ -7155,6 +7155,24 @@
     },
     {
       "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "PORTALS",
+      "url": "https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov"
+    },
+    {
+      "album": {
         "name": "Post Con Depression",
         "url": "https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ditonellapiaga in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,404 likes - 149 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,409 likes - 149 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 105 | [BABY RED HOT](https://open.spotify.com/track/4VejoE0TRIFFy4sZWNFzUL) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Outrun](https://open.spotify.com/artist/42nNTwCQV8v6S33yqQYqXO), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [BABY RED HOT](https://open.spotify.com/album/3r1sVTQwY13BNaPFxjXdGK) | 2:55 |
 | 106 | [Senza di me \(with Eddie Brock\)](https://open.spotify.com/track/3YbqbIyq7q02zWYLwaiTlM) | [Frida Martini](https://open.spotify.com/artist/5hzkKQNYwjgbzqMiZnU1Th), [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Maledette canzoni d'amore](https://open.spotify.com/album/2xh7iHpso8wznrMBb74KmX) | 3:32 |
 | 107 | [Niente da nascondere](https://open.spotify.com/track/3dblhkUhhLRENJsWH5UCYo) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [From The Rooftop 3](https://open.spotify.com/album/0TjiNUKREridHmUdlUiTaA) | 3:36 |
-| 108 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:45 |
+| 108 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:52 |
 | 109 | [LUNEDÌ NERO](https://open.spotify.com/track/06GjvENosCIhAzglC4bmOb) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [LUNEDÌ NERO](https://open.spotify.com/album/71wajF3ZJL5YVPdD6gVPl4) | 2:21 |
 | 110 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 | 111 | [Daydreamin’](https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL \(Deluxe\)](https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM) | 2:58 |

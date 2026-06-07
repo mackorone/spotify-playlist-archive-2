@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,696 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,703 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 25 | [Desacreditar Jamais \- Ao Vivo](https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Desacreditar Jamais \(Ao Vivo\)](https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq) | 3:45 |
 | 26 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 |
 | 27 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 |
-| 28 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
-| 29 | [Festa no Deserto \- Ao Vivo](https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Festa no Deserto \(Ao Vivo\)](https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC) | 3:47 |
+| 28 | [Festa no Deserto \- Ao Vivo](https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Festa no Deserto \(Ao Vivo\)](https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC) | 3:47 |
+| 29 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
 | 30 | [Um Conselho](https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Um Conselho](https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ) | 2:27 |
 | 31 | [Alegria \- Ao Vivo](https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Alegria \(Ao Vivo\)](https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p) | 4:58 |
 | 32 | [Não É Só um Rolê](https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo) | [Gabriel Vilhena](https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc), [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Não É Só um Rolê](https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc) | 4:09 |

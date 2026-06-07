@@ -6,7 +6,7 @@
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGO2JkThFATRUe6KX0nWo9UgZzB9fm",
+  "snapshot_id": "AAAGPTv1h0CAvqKT9hgsgGf0dDyd6vhH",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1823,6 +1823,38 @@
       "duration_ms": 239606,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT"
+    },
+    {
+      "added_at": "2026-06-06 17:18:02",
+      "album": {
+        "name": "Screamin' My Name",
+        "url": "https://open.spotify.com/album/2Exfjw6PxyqsezGMChKZTR"
+      },
+      "artists": [
+        {
+          "name": "Celina Rescott",
+          "url": "https://open.spotify.com/artist/1IPJQoIPovq22uQFKnX4V1"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Screamin' My Name",
+      "url": "https://open.spotify.com/track/7L8C8wcnRF6zXkBb0qMtA5"
+    },
+    {
+      "added_at": "2026-06-06 17:29:07",
+      "album": {
+        "name": "Maldito cobarde",
+        "url": "https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt"
+      },
+      "artists": [
+        {
+          "name": "mediopelo",
+          "url": "https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU"
+        }
+      ],
+      "duration_ms": 179744,
+      "name": "Maldito cobarde",
+      "url": "https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3"
     }
   ],
   "unique_name": "Unsigned Rock",

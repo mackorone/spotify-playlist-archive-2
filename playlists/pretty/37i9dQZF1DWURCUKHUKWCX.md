@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,128 likes - 204 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,157 likes - 204 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 203 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 |
 | 204 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ) | 3:38 |
 
-Snapshot ID: `AAAAAMhGOy8oBvLDlVRzYrxahvCAnC3S`
+Snapshot ID: `AAAAAP+rPr3KVYveBXAtVXtkHgsvdkah`

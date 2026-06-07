@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,861 likes - 100 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,894 likes - 100 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
 | 100 | [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 |
 
-Snapshot ID: `AAAAAIELjtQfSEKkx/8+5578yXRi88JQ`
+Snapshot ID: `AAAAAKCjLnlCaEEf+nfkhyk56Ddlf40x`

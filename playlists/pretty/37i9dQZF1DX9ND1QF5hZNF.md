@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,422 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,489 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [it felt different](https://open.spotify.com/track/10lN8OKZbEG2OFFY1Jfwog) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [solaene](https://open.spotify.com/artist/3AAaJfj11EA5UDXCOELup1), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [it felt different](https://open.spotify.com/album/1XMpNsY9cDAcTImWSwfOpU) | 3:39 |
 | 60 | [On My Mind](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [On My Mind](https://open.spotify.com/album/1JsWPuCub4zigHwKxlGAxI) | 4:19 |
 
-Snapshot ID: `AAAAABK9L/P/Ii75tJaZ72mxBj+D1hMB`
+Snapshot ID: `AAAAAJRr1hYn7BP78TZh4UP0Z/BW764a`

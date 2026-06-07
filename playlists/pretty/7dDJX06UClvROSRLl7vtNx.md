@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 111,730 likes - 232 songs - 9 hr 57 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 111,957 likes - 233 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,5 +240,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 230 | [Illusion](https://open.spotify.com/track/2LieJ0JcPygJdQuX0D0BJY) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Illusion](https://open.spotify.com/album/4u2e6y0k8Wi0fI7MWkzO1E) | 2:46 |
 | 231 | [Too Late Now](https://open.spotify.com/track/3S0lvq4rYAEJtrdjtKZBsO) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [Too Late Now](https://open.spotify.com/album/4bq6Q1qL7RLh6Y9ykLfY2V) | 2:19 |
 | 232 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 233 | [Bloom](https://open.spotify.com/track/77Sm1oar22gMXxGBJHB5HI) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [Bloom](https://open.spotify.com/album/7t8IzmWt47BIXX4NFbPT8s) | 2:15 |
 
-Snapshot ID: `AABS4g0UpddrVCf8cmb4jCpHM4DKg4So`
+Snapshot ID: `AABS41+E6dv380ffexF2akbKUXVfvOfK`

@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154867,
+      "name": "XIX",
+      "url": "https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y"
+    },
+    {
+      "album": {
         "name": "Ya Coron\u00f3 La Vuelta",
         "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
       },

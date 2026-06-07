@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 50 | [Picture Perfect \(Angry with the Right\)](https://open.spotify.com/track/2dWmED5s7kPwBhZC23EcEV) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Picture Perfect \(Angry with the Right\)](https://open.spotify.com/album/1sgIdHD5VzTvVkhBLNXhFh) | 2:50 |
 | 51 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
 | 52 | [Bleed](https://open.spotify.com/track/4U0yFMPR9ibgt92xZxCt79) | [Keyawna Nikole](https://open.spotify.com/artist/1lSj9S0kfy7AtuqxPv11Gk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Bleed](https://open.spotify.com/album/1VQWF8mZdJm4fhUSmkC9F0) | 3:27 |
-| 53 | [Take Your Sweet Time](https://open.spotify.com/track/5VrPsFCxaWL2wMIhdFuOUc) | [Carter Benjamin](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [Take Your Sweet Time](https://open.spotify.com/album/3jkAsaKzm7Ac7T28q40vll) | 3:29 |
+| 53 | [TAKE YOUR SWEET TIME](https://open.spotify.com/track/5VrPsFCxaWL2wMIhdFuOUc) | [Carter Benjamin](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [TAKE YOUR SWEET TIME](https://open.spotify.com/album/3jkAsaKzm7Ac7T28q40vll) | 3:29 |
 | 54 | [Monochrome](https://open.spotify.com/track/2YAZEyMTGG5T0bnCvdj02o) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Monochrome](https://open.spotify.com/album/585fmGPcfDitwps5X44ljB) | 2:32 |
 | 55 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 56 | [SPLIT](https://open.spotify.com/track/5svPvPQD4H5K63QLmbYsYf) | [PUNCHING BAG](https://open.spotify.com/artist/1N0ACznriUeiiOJWN8hHC7) | [GYM RAT](https://open.spotify.com/album/6FOwNOdQKHQswNhOmSPmVY) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 74 | [Silence](https://open.spotify.com/track/56KHcZ1DEkj3ixRCoxOean) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [Silence](https://open.spotify.com/album/439nkD5urLMoeNQfkIEEYx) | 2:20 |
 | 75 | [taste like candlesticks](https://open.spotify.com/track/2TT0XKIWFIYNCLGscnwxcp) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [It's just a fantasy...](https://open.spotify.com/album/4UzqTezEZpRr7WBdyRkjIF) | 2:20 |
 
-Snapshot ID: `AAAAACr/YNDLqWXl7ponsk5YEHYktOoP`
+Snapshot ID: `AAAAAGkAXHTgU0pbteyWvhV9IoGrcxH+`

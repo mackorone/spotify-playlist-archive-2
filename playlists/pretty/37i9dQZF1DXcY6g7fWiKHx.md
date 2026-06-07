@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,445 likes - 324 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,456 likes - 324 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -333,4 +333,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 323 | [Black Majik](https://open.spotify.com/track/2brOYVbPEl8c6F0sAK4Nb7) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:19 |
 | 324 | [Coeur](https://open.spotify.com/track/5CwG9TTuRWEKtNwSl5qWlC) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Joker](https://open.spotify.com/album/4pMmWhrzk3PdHEcSLAHzvK) | 4:19 |
 
-Snapshot ID: `AAAAAILVpbFSywN9dPFo+xn9bHPDtylc`
+Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`

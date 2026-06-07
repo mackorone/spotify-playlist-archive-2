@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R, Ryan Castro, De La Rose & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,003 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,046 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [1y1000](https://open.spotify.com/track/5eKR2HZLPLBCvYEd7RbI0Y) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1) | [1y1000](https://open.spotify.com/album/1dzsGQaUwIn2PJLjUfSBaB) | 4:18 |
 | 100 | [G\-LATINA](https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [G\-LATINA](https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr) | 2:26 |
 
-Snapshot ID: `AAAAAKfERgao54H9BdZtxoGMcb3s6eTB`
+Snapshot ID: `AAAAADk1He+GzQttZc25snBs3Av4NK65`

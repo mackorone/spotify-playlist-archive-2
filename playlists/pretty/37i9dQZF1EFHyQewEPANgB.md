@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 80 | [January 1st/ ManiGoat \(interlude\)](https://open.spotify.com/track/7BN2T2fvAYz5fcIXslY9Qc) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:20 |
 | 81 | [FIX](https://open.spotify.com/track/3eqimgbvktxMnoGyVw61zB) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 2:19 |
 | 82 | [STILL GRIND](https://open.spotify.com/track/2NGi1vhgh3vgfJEMtiU2sW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:43 |
-| 83 | [Ballin'](https://open.spotify.com/track/4oBs09u0OqeiZqZLQOweIl) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 3:19 |
-| 84 | [PIMP](https://open.spotify.com/track/6CU674dU99aobDlo0BVTlO) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:24 |
-| 85 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 83 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 84 | [Ballin'](https://open.spotify.com/track/4oBs09u0OqeiZqZLQOweIl) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 3:19 |
+| 85 | [PIMP](https://open.spotify.com/track/6CU674dU99aobDlo0BVTlO) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:24 |
 | 86 | [Burning Sage](https://open.spotify.com/track/0tv7NHSqrC88FrJ4eYGzqK) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:29 |
 | 87 | [Buy U Some](https://open.spotify.com/track/5LhJpUKYBJ48QhJJyaNvpR) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 1:23 |
 | 88 | [Pussy Dope](https://open.spotify.com/track/6BPAlg2QgrOT6cu2NnNozM) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:31 |
 | 89 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 90 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AcTcJgAAAAClWSZMcwx3B1VKHrsfIe01`
+Snapshot ID: `AcThxgAAAADas8GwIb7Pv5T4ugR55/oG`

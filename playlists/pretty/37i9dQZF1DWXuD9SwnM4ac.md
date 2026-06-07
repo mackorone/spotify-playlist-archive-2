@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Serebii
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,311 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,304 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 |
 | 100 | [Perfect Pain](https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Biting Heels](https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy) | 2:59 |
 
-Snapshot ID: `AAAAALbcMu2hDP8zyhvq5S6lpuaTTMxx`
+Snapshot ID: `AAAAAJYTxn5ZACNv9TWomtxrwp6IjE20`

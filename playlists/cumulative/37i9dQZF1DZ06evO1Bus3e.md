@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 9 min
+44 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh) | 3:17 | 2024-05-04 |  |
 | [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/7nrKBVgFKN7HXleWGEXZZG) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/17Gm64gV3PyK5WR5S3d9yG) | 3:17 | 2024-01-29 | 2024-05-04 |
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
+| [XIX](https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Trap Romantix](https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7) | 2:34 | 2026-06-07 |  |
 | [Ya Coronó La Vuelta](https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg) | [Josue](https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Ya Coronó La Vuelta](https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg) | 2:31 | 2026-02-01 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

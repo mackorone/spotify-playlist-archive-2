@@ -12731,6 +12731,28 @@
     },
     {
       "album": {
+        "name": "One Accord",
+        "url": "https://open.spotify.com/album/5sNUOz1lV1ztXrPr9s57DK"
+      },
+      "artists": [
+        {
+          "name": "RESEY",
+          "url": "https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304"
+        },
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185065,
+      "name": "One Accord",
+      "url": "https://open.spotify.com/track/0xSfb2NBVIH8xHXc35AKlK"
+    },
+    {
+      "album": {
         "name": "No Church In A While",
         "url": "https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ"
       },
@@ -17136,7 +17158,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 187272,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"

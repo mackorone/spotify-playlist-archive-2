@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "PIIKA",
+        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
+      },
+      "artists": [
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "10!",
+      "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
+    },
+    {
+      "album": {
         "name": "Gasoo Ei Breikkei",
         "url": "https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF"
       },
@@ -882,6 +904,24 @@
       "duration_ms": 220004,
       "name": "4AM IN IBIZA",
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
+    },
+    {
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156683,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd"
     },
     {
       "album": {
@@ -4856,7 +4896,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -11881,6 +11921,24 @@
     },
     {
       "album": {
+        "name": "Ent\u00e4 sit",
+        "url": "https://open.spotify.com/album/6NyW6WhQxqfahsxlvNM3Jx"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142711,
+      "name": "Ent\u00e4 sit",
+      "url": "https://open.spotify.com/track/466qhGCeGM3ksEajW9rJOy"
+    },
+    {
+      "album": {
         "name": "En\u00e4\u00e4",
         "url": "https://open.spotify.com/album/29EjE15BMazLGWaxy4xOaI"
       },
@@ -18198,7 +18256,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 187760,
       "name": "H\u00e4iss\u00e4 (feat. M\u00e4rk\u00e4-Simo)",
       "url": "https://open.spotify.com/track/6aHVPCIzIovTCYyOEvJu7K"
@@ -18580,6 +18638,24 @@
       "duration_ms": 263641,
       "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -19176,7 +19252,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/0MAn9fS281plpvCfbr9QNk"
@@ -24922,6 +24998,28 @@
       "duration_ms": 186885,
       "name": "Kipee",
       "url": "https://open.spotify.com/track/5WqcldHALjODfcnDAVpvm3"
+    },
+    {
+      "album": {
+        "name": "Kipee",
+        "url": "https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf"
+      },
+      "artists": [
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+        },
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188519,
+      "name": "Kipee",
+      "url": "https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph"
     },
     {
       "album": {
@@ -33051,6 +33149,24 @@
     },
     {
       "album": {
+        "name": "MI BONITA",
+        "url": "https://open.spotify.com/album/3mHebESGf5FB5j3pxu064j"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144509,
+      "name": "MI BONITA",
+      "url": "https://open.spotify.com/track/4EtTwz6FYnbe1KySXGcV82"
+    },
+    {
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/1Cq1JOw3l9ypcKGx4EX9K2"
       },
@@ -37605,6 +37721,28 @@
     },
     {
       "album": {
+        "name": "Nelisilm\u00e4",
+        "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
+      },
+      "artists": [
+        {
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120900,
+      "name": "Nelisilm\u00e4",
+      "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
+    },
+    {
+      "album": {
         "name": "Rastat / Nelson Mandela (feat. Jukka Poika)",
         "url": "https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H"
       },
@@ -39688,6 +39826,24 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "album": {
+        "name": "Ongelma",
+        "url": "https://open.spotify.com/album/0JKvn5KPA8bI3nGsWjwYtg"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180238,
+      "name": "Ongelma",
+      "url": "https://open.spotify.com/track/3vTBt1CbmrCvxLLuAZ3xop"
     },
     {
       "album": {
@@ -44951,6 +45107,24 @@
     },
     {
       "album": {
+        "name": "Rakkauden kes\u00e4",
+        "url": "https://open.spotify.com/album/7cxRcXTrS6bAJBAXGGSxZ7"
+      },
+      "artists": [
+        {
+          "name": "Vet Pillows",
+          "url": "https://open.spotify.com/artist/3suATO6V6YnR4k27Diek4w"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Rakkauden kes\u00e4",
+      "url": "https://open.spotify.com/track/4RlQieXGRH234YRgldxoiP"
+    },
+    {
+      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/6YcVweYg5emxFkYGTBbQhB"
       },
@@ -47878,7 +48052,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 176000,
       "name": "Satumaa",
       "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
@@ -48382,7 +48556,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -51104,7 +51278,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -55438,7 +55612,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 168760,
       "name": "Tilttaamaan",
       "url": "https://open.spotify.com/track/71eG4ZupmvZFW5YICD7o67"
@@ -56220,7 +56394,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/5D5wXQy4MpnTS5ZOPW5v94"
@@ -57404,7 +57578,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 133301,
       "name": "Tyhj\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH"
@@ -58342,7 +58516,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 159000,
       "name": "T\u00e4\u00e4 tunne",
       "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
@@ -64672,6 +64846,24 @@
       "duration_ms": 227520,
       "name": "\u00c4l\u00e4 l\u00e4nkyt\u00e4",
       "url": "https://open.spotify.com/track/2Qlh2PMdGPR4FkVAi6S47g"
+    },
+    {
+      "album": {
+        "name": "\u00c4l\u00e4 mee",
+        "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "\u00c4l\u00e4 mee",
+      "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 9 min
+37 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [California Paradise](https://open.spotify.com/track/6FuB23mAkJHWLileCU2hqC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:54 | 2026-03-07 |  |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2026-03-07 |  |
 | [Dead End Justice](https://open.spotify.com/track/4DliRSOmpVNHoPc60wUmUD) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 7:00 | 2026-03-07 |  |
-| [Don't Abuse Me \- Live](https://open.spotify.com/track/3YmmycSjF846YLmaKn206n) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live Cleveland 1976](https://open.spotify.com/album/3V5QioDWzXLeVhsyrheCoe) | 3:33 | 2026-03-07 |  |
+| [Don't Abuse Me \- Live](https://open.spotify.com/track/62aAPkyyAoI5muhig0aLD4) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 3:29 | 2026-06-07 |  |
+| [Don't Abuse Me \- Live](https://open.spotify.com/track/3YmmycSjF846YLmaKn206n) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live Cleveland 1976](https://open.spotify.com/album/3V5QioDWzXLeVhsyrheCoe) | 3:33 | 2026-03-07 | 2026-06-07 |
 | [Don't Go Away](https://open.spotify.com/track/2kuEjhcmLdBcUt8Ph4junl) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:32 | 2026-03-07 |  |
 | [Eight Days A Week](https://open.spotify.com/track/6wP9WjxkPu7ccEyIXBruaE) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:32 | 2026-03-07 |  |
 | [Gettin' Hot \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/1AJLqpX8ik2TgIAizuz1Q5) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:58 | 2026-03-07 |  |

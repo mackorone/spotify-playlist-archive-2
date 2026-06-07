@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,576 likes - 29 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,648 likes - 29 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 28 | [Bad Boy](https://open.spotify.com/track/5dS7IjDzZj5lb8K1rTx5nP) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [ÜDORĀ](https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq) | [Bad Boy](https://open.spotify.com/album/2hu793vBJWIMCb9pW85Uke) | 5:39 |
 | 29 | [Ndaterera](https://open.spotify.com/track/61EpBQutVCFmlZHQYeoOVT) | [Nettle DJ](https://open.spotify.com/artist/5MwIVwLo9wKNJZ34OdCLph), [Audius](https://open.spotify.com/artist/4tSISQMMvrkdPABVc3eGO3) | [Ndaterera](https://open.spotify.com/album/6wR14AAT0jvtYq1ecA5mxq) | 4:43 |
 
-Snapshot ID: `AAAAAF+fo/xH/AG7j5wKMc13jeo54MXf`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

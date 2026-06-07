@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Future & Tyla ⚽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,366 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,372 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 2 | [Come Up Off \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5Aiu5BeufZqV7d4cSpVHBX) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 1:52 |
 | 3 | [Cotton](https://open.spotify.com/track/2Dh62ulfuwM2lOWPy4TLEb) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cotton](https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj) | 3:43 |
 | 4 | [Dive In It](https://open.spotify.com/track/2KhHLKBLKDs4AuItwQqNky) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Dive In It](https://open.spotify.com/album/18cLwr1RQTKOlDhcnjpEWK) | 1:52 |
-| 5 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 5 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 6 | [Rituals](https://open.spotify.com/track/3bewwYBhlM3VNe3trzGIs3) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Rituals](https://open.spotify.com/album/3W5RkcDR5Xk5rMZCHhppsU) | 2:10 |
 | 7 | [Life Sucks](https://open.spotify.com/track/6moGrfTur6vq1iTnXzwTaK) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Life Sucks](https://open.spotify.com/album/2mo2IGdlVewOX0Z1vlAnBJ) | 3:42 |
 | 8 | [Nikes \(Allih's Song\)](https://open.spotify.com/track/08M58sYpCb1NGP8m3fFbMf) | [Bijaan](https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Nikes \(Allih's Song\)](https://open.spotify.com/album/4pgB4t0zHsV5KhxxhYaK2E) | 4:30 |

@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 333202,
+  "num_followers": 333288,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Die Sch\u00f6nsten Melodien Der Welt",
         "url": "https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 124240,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Al Caiola",
-        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Temas Prohibidos del Cine",
         "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216800,
       "name": "Amore Grande Amore Libero",
       "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Al Caiola",
+        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1399,6 +1399,82 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Before The Rain",
+        "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Romantique",
+        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "duration_ms": 157986,
+      "name": "Ballade Pour Adeline",
+      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Concierto De Aranjuez (Slidepack)",
+        "url": "https://open.spotify.com/album/4I0UtJya3m3usd91RB3EJU"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Orquesta De Cadaques",
+          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
+        },
+        {
+          "name": "Edmon Colomer",
+          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
+        }
+      ],
+      "duration_ms": 692373,
+      "name": "Concierto De Aranjuez: 2. Adagio - Instrumental",
+      "url": "https://open.spotify.com/track/5VlfofwGTSDVOHqLSQHlEx"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Classical Chillout",
         "url": "https://open.spotify.com/album/5gGoL7HQZvclBKLMGPrByW"
       },
@@ -1540,25 +1616,9 @@
           "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Before The Rain",
-        "url": "https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg"
-      },
-      "artists": [
-        {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
-        }
-      ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM"
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1583,22 +1643,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Romantique",
-        "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
-      },
-      "artists": [
-        {
-          "name": "Richard Clayderman",
-          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Ballade Pour Adeline",
-      "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Avengers and Other Top Sixties Themes",
         "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
       },
@@ -1611,22 +1655,6 @@
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1823,34 +1851,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Concierto De Aranjuez (Slidepack)",
-        "url": "https://open.spotify.com/album/4I0UtJya3m3usd91RB3EJU"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        },
-        {
-          "name": "Joaqu\u00edn Rodrigo",
-          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
-        },
-        {
-          "name": "Orquesta De Cadaques",
-          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
-        },
-        {
-          "name": "Edmon Colomer",
-          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
-        }
-      ],
-      "duration_ms": 692373,
-      "name": "Concierto De Aranjuez: 2. Adagio - Instrumental",
-      "url": "https://open.spotify.com/track/5VlfofwGTSDVOHqLSQHlEx"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX"
       },
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 150333,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Wonderland Archive '60 (Stereo)",
-        "url": "https://open.spotify.com/album/2mtSKDt7Tnk6iSoUrSo9hI"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/2B8noBQPOHP87eWqpdAp4S"
     }
   ],
   "unique_name": "Golden Instrumentals",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Paycheque\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,314 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,233 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Hold On](https://open.spotify.com/track/0kOLNHOf6TH9gWegm42dRR) | [Phoenix James](https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP) | [Hold On](https://open.spotify.com/album/6qFFDnRPtBsDLD1ULFI3sa) | 1:56 |
 | 100 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 
-Snapshot ID: `AAAAAOAAyRmWrfX5XjYWPcfkfg49a0zK`
+Snapshot ID: `AAAAALM2g2/jOWaDCbIuAsHvZay3Mbhg`

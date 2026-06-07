@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,505 songs - 10 day 0 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,506 songs - 10 day 0 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3839,7 +3839,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3829 | [Mister B](https://open.spotify.com/track/3Nf6MGcIZEFOULezd4lJpw) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Mister B](https://open.spotify.com/album/6tTmt9YBr54Z9rqHkdQWXw) | 1:54 |
 | 3830 | [Eins, zwei, drei… PROST!](https://open.spotify.com/track/2ku2pmw8xz2wFjHSkw5TLl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Eins, zwei, drei… PROST!](https://open.spotify.com/album/0GGL99juAuKOzqbT2gTPJi) | 2:05 |
 | 3831 | [Open Road Stomp](https://open.spotify.com/track/7uqljQa68Hgj6ZXRVaEpZj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 |
-| 3832 | [zero zero bea](https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [zero zero bea](https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM) | 2:08 |
+| 3832 | [Zero Zero Bea](https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zero Zero Bea](https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM) | 2:08 |
 | 3833 | [Sound from Tide](https://open.spotify.com/track/4ahKRHIOPEQAQAjOXFXAVY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Sound from Tide](https://open.spotify.com/album/3ZC7LZ0ltm5svIucV0Qp4V) | 2:51 |
 | 3834 | [Siempre Tú](https://open.spotify.com/track/7fLw5K3VyOCVbGybBvEMtM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ DODY](https://open.spotify.com/artist/0y1hN8B09taNHRu4nQnW6g), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [Siempre Tú](https://open.spotify.com/album/7dxPaACWSsPxhQVL7x7t45) | 2:52 |
 | 3835 | [una luce dentro me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 |
@@ -4513,5 +4513,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4503 | [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 |
 | 4504 | [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 |
 | 4505 | [Epic One](https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Epic One](https://open.spotify.com/album/0zBEpohA04Axtzo08uhago) | 7:35 |
+| 4506 | [Chalet](https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr) | [SpaceBlankZero](https://open.spotify.com/artist/2tP1jzPPZ5EAehmL0PjFKd) | [Chalet](https://open.spotify.com/album/4Q8KpPk5MLXvIMigNNoiwi) | 4:21 |
 
-Snapshot ID: `AAAI0iZFlt4ofZDH0eU4R0UssZJNI1iP`
+Snapshot ID: `AAAI00OKyeC79nhvhKWTtz3W13AnU9dY`

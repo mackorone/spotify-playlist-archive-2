@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 820593,
+  "num_followers": 820659,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWDo8x7eWCNJaqUOth6iReWppOl",
+  "snapshot_id": "AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX",
   "tracks": [
     {
       "added_at": "2026-05-29 20:56:30",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Con Otra (En Vivo)",
-        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Con Otra - En Vivo",
-      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Quisiera que esta noche (En Vivo)",
         "url": "https://open.spotify.com/album/5l3EyOH5X3F51PwvJQEMB3"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 175745,
       "name": "Quisiera que esta noche - En Vivo",
       "url": "https://open.spotify.com/track/0hGGy0Lw6EABqURYlgZRlx"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Con Otra (En Vivo)",
+        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Con Otra - En Vivo",
+      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Imag\u00ednate (En Vivo)",
+        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Imag\u00ednate - En Vivo",
+      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/15FN3Y2aTgjTnsTxsNWwWj"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 150092,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/1jG6XJkyLl0TlmD0xoyheI"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Imag\u00ednate (En Vivo)",
-        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Imag\u00ednate - En Vivo",
-      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 207843,
       "name": "Si Fuera Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+        "name": "Antologia Carlitos La Mona Jimenez",
+        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
         }
       ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+      "duration_ms": 245053,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Dejarnos Ir",
         "url": "https://open.spotify.com/album/4blgi7a5EMVZT2vnpRObV1"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 148653,
       "name": "Dejarnos Ir",
       "url": "https://open.spotify.com/track/4897DeNh6RkeVG4YTsM0Ee"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1915,8 +1915,8 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
       "artists": [
         {
@@ -1924,9 +1924,9 @@
           "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 201876,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN"
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
     },
     {
       "added_at": "2026-05-29 20:56:30",

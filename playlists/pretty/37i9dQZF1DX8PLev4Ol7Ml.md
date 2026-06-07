@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 櫻坂46
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,249 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,254 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [名のない日々に名前をつけて](https://open.spotify.com/track/2DnNeAdzRvhSH8cjLLE7y3) | [ルルネージュ](https://open.spotify.com/artist/1SxUvi7RCuleQIC6FwSWoh) | [名のない日々に名前をつけて](https://open.spotify.com/album/4LxOrPRhQ8y7rk3NEE6dJJ) | 4:43 |
 | 50 | [未来の空](https://open.spotify.com/track/0Qff8M0HGcAHyPTyWpfTjX) | [ドラマチックレコード](https://open.spotify.com/artist/6ejhQtN5xfBEBeO93sDkmz) | [未来の空](https://open.spotify.com/album/22XgXvaSf7RDeygnqDxpvw) | 3:06 |
 
-Snapshot ID: `AAAAACh1iOgo4jQWkEb6VoYA0UWN447G`
+Snapshot ID: `AAAAANlXgI5OeBNTRDEed644BapcfRXk`

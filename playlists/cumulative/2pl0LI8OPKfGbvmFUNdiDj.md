@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-493 songs - 1 day 3 hr 42 min
+495 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 | 2025-12-20 | 2026-01-15 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |
+| [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-06-06 |  |
 | [The Narrative](https://open.spotify.com/track/2C5l4za8s1jMgUVhQnrt7U) | [DroCole](https://open.spotify.com/artist/1ULNRteGwjrrsPZ5SURVlX), [Pokoaya](https://open.spotify.com/artist/0dSM49bxZ52Bu3DbogQUbK) | [The Narrative](https://open.spotify.com/album/4rzoePKxuaie9M3VGCdtuI) | 2:16 | 2025-11-01 | 2025-12-01 |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2025-11-03 | 2025-12-01 |
 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-27 | 2026-05-26 |
@@ -484,6 +485,7 @@
 | [Witness](https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Witness](https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8) | 2:20 | 2026-05-19 |  |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-03 | 2025-12-01 |
 | [WORK](https://open.spotify.com/track/1oq5IzU37F61XVioGL0DC4) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [WORK](https://open.spotify.com/album/25RS5VNu5tyuusZN8stDpE) | 5:03 | 2025-11-08 | 2025-12-01 |
+| [Would Be Better](https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Would Be Better](https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH) | 3:54 | 2026-06-06 |  |
 | [Would You Even Care](https://open.spotify.com/track/1Kj5ue4WKfvkN2OdvRhhQ0) | [CuLP \- Copper Legion Privateers](https://open.spotify.com/artist/6YYAH4jmUPm0Tplnr5ETYF) | [Would You Even Care](https://open.spotify.com/album/5jpoea7gLlGq65YO5vHsO2) | 2:46 | 2025-11-08 | 2025-12-01 |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-12-30 | 2026-01-25 |
 | [xxx$.Eden.$xxx](https://open.spotify.com/track/09OWD6ngk05M1vaXzVobGT) | [A Gxd Named Gawd](https://open.spotify.com/artist/4zoT5ZrAVFrTeRe1vNlQ2q) | [xxx$.Eden.$xxx](https://open.spotify.com/album/6swDrSNbu4RHkopK5qULq5) | 2:50 | 2025-12-25 | 2026-01-15 |

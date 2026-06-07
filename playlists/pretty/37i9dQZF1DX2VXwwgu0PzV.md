@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,375 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,387 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 109 | [Tell You About Jesus](https://open.spotify.com/track/5KtxdE2oK8vDD7vleQ3i6o) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Tell You About Jesus](https://open.spotify.com/album/4wkkRILeb9boBfL96ymXgZ) | 3:02 |
 | 110 | [EYEZ ON ME](https://open.spotify.com/track/7gugFbtzuXzLtsn9rWikUF) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Tomi Abdon](https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux) | [EYEZ ON ME](https://open.spotify.com/album/5FcU1ren3ebJ0BIOb9eZNe) | 2:48 |
 
-Snapshot ID: `AAAAAGDzHo5XsNbEiaBIwX+voFOhBjqd`
+Snapshot ID: `AAAAAE1tDcURP9hmrD55rpjArblxk2gC`

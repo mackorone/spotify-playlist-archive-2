@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 909751,
+  "num_followers": 909872,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 180021,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
+      },
+      "artists": [
+        {
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
-      },
-      "artists": [
-        {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -987,22 +971,18 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
       "artists": [
         {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1019,6 +999,26 @@
       "duration_ms": 235560,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Where's My People",
         "url": "https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 171840,
       "name": "Where's My People",
       "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2026-04-06 12:35:10",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2026-04-06 12:35:10",
-      "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
       "added_at": "2026-04-06 12:35:10",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2026-04-06 12:35:10",
       "album": {
-        "name": "K\u2019in Tuun",
-        "url": "https://open.spotify.com/album/3Xr2PaTLmVudrkdYGLNaVM"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
       },
       "artists": [
         {
-          "name": "Bahri Bekil",
-          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
         },
         {
-          "name": "R\u00dcKIN",
-          "url": "https://open.spotify.com/artist/01Ey4GfEPWZBQVFyAdcXaq"
+          "name": "Amonita",
+          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
         }
       ],
-      "duration_ms": 180093,
-      "name": "K\u2019in Tuun",
-      "url": "https://open.spotify.com/track/2uhluQrSPTK4rkU9aZOiYE"
+      "duration_ms": 478764,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     }
   ],
   "unique_name": "Org\u00e1nica",

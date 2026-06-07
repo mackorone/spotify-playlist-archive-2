@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > 100% rock brasileiro\. Foto: BAD LUV
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,560 likes - 55 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,498 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 54 | [Um Doce](https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:15 |
 | 55 | [CORDÃO DE OURO](https://open.spotify.com/track/4iQFYw9jAh2xascHyHH9eX) | [RANCORE](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [BRIO](https://open.spotify.com/album/0mUcHag1CtYrJ2EC8BpB80) | 3:11 |
 
-Snapshot ID: `AAAAAAsb1UQKfuM9uWc1Idk+jq9neC03`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

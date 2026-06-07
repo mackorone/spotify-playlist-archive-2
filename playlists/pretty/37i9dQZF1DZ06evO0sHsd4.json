@@ -1,13 +1,29 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22634,
+  "num_followers": 22655,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAAD5d8qicd0ChtGkZEwSWrMv",
+  "snapshot_id": "aiIRgAAAAAAKWBmbnz5eXqnZdAbmzdck",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobo Me Tienes / Suave",
+        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 180130,
+      "name": "Bobo Me Tienes",
+      "url": "https://open.spotify.com/track/6ctnraVtRAZQiL10tuSpl4"
+    },
     {
       "added_at": null,
       "album": {

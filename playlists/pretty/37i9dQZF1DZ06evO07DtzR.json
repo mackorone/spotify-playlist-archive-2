@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41273,
+  "num_followers": 41275,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAADw3bBnggGL6VZAeE7me/PC",
+  "snapshot_id": "aiIRgAAAAABd/eypN8FoPNH7WXI2GsMJ",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 367573,
-      "name": "Planetes",
-      "url": "https://open.spotify.com/track/1GUnIBiLhgEwSQJzGNuUrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 367573,
+      "name": "Planetes",
+      "url": "https://open.spotify.com/track/1GUnIBiLhgEwSQJzGNuUrk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 176481,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u7d76\u4f53\u7d76\u547d",
+        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 262705,
+      "name": "\u7d76\u4f53\u7d76\u547d",
+      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 262705,
-      "name": "\u7d76\u4f53\u7d76\u547d",
-      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
         "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 254706,
       "name": "\u6c38\u9060",
       "url": "https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to the *fam",
+        "url": "https://open.spotify.com/album/46PkELmjCUUhWBXW2a3vuz"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 230654,
+      "name": "Welcome to the *fam",
+      "url": "https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extra terrestrial Biological Entities",
         "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to the *fam",
-        "url": "https://open.spotify.com/album/46PkELmjCUUhWBXW2a3vuz"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 230654,
-      "name": "Welcome to the *fam",
-      "url": "https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
         "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Alone With You",
         "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 250893,
       "name": "elbadaernU",
       "url": "https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra terrestrial Biological Entities",
-        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 257986,
       "name": "\u30ab\u30ca\u30c7\u30ca\u30eb",
       "url": "https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extra terrestrial Biological Entities",
+        "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Alone With You",
-        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 91200,
-      "name": "All Alone With You (TV Edit) -Instrumental-",
-      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 475773,
       "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
       "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Alone With You",
+        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "All Alone With You (TV Edit) -Instrumental-",
+      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
     },
     {
       "added_at": null,

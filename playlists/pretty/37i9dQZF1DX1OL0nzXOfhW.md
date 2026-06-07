@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2026 RADAR登場！持續發掘香港未來新聲！Cover: The Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,871 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,873 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 42 | [給月亮的情書](https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [給月亮的情書](https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1) | 3:20 |
 | 43 | [doll](https://open.spotify.com/track/4f9i8PcyIjIFtHV0Sy2PbM) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [doll](https://open.spotify.com/album/3HkgkY7W5bjOkYeVlDa9T8) | 2:59 |
 
-Snapshot ID: `AAAAACy9Pzth0Z7DexEMowoTBdhtRNAq`
+Snapshot ID: `AAAAAEmtwbVI8kfa0O8HFtfyK4OvrF+B`

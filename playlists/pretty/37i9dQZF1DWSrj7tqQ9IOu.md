@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,311 likes - 34 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,291 likes - 34 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 4 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 5 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 6 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
-| 7 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 7 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 8 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 9 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
 | 10 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 18 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 |
 | 19 | [Les roses](https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Les roses](https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i) | 4:37 |
 | 20 | [CŒUR DE PIRATE](https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [DISCO INFERNO](https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl) | 3:53 |
-| 21 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
-| 22 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
-| 23 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
-| 24 | [Comète](https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Comète](https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp) | 2:43 |
-| 25 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
+| 21 | [Maman](https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Maman](https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw) | 2:47 |
+| 22 | [Anomalie](https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Jade Mansion](https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O) | [Anomalie](https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7) | 3:41 |
+| 23 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
+| 24 | [Jeunes et cons](https://open.spotify.com/track/2Rr4xbCfYjJKQ5qdezU2N3) | [Shades](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Jeunes et cons](https://open.spotify.com/album/25IsT97AyumsVb8MLT6ccg) | 3:09 |
+| 25 | [Comète](https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Comète](https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp) | 2:43 |
 | 26 | [Voicetrack Generation](https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa), [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A) | [Voicetrack Generation](https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm) | 4:13 |
 | 27 | [With You](https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [With You](https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG) | 3:49 |
 | 28 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |

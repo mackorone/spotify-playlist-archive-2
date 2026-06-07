@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 112547,
+  "num_followers": 112567,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Um Lugar \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+        }
+      ],
+      "duration_ms": 240569,
+      "name": "Um Lugar \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Como eu Te Amo Deus",
         "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 232606,
       "name": "Quando Ele Me Encontrou",
       "url": "https://open.spotify.com/track/2nLqsRDvELrDP36sFHg3bh"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Um Lugar \u00e0 Mesa",
-        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 240569,
-      "name": "Um Lugar \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 254000,
       "name": "Oliveira Verdadeira",
       "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Lugar Secreto",
         "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226269,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-02-27 03:01:13",

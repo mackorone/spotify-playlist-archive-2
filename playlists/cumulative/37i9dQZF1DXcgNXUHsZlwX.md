@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-602 songs - 1 day 11 hr 53 min
+603 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* | 2025-12-01 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 |  |
+| [Emmène\-moi \- version Ensemble doux](https://open.spotify.com/track/0Z8Td8av7oliNp1m1Qj3vr) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Ensemble doux](https://open.spotify.com/album/2cIThJvODqTXIoccHQPl1V) | 3:34 | 2026-06-05 |  |
 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* | 2025-10-18 |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |
 | [Endormi](https://open.spotify.com/track/4vRsjs1ghb4gAX53TNWDGr) | [Vincent Appelby](https://open.spotify.com/artist/17fj6giCERZTjNptKA9BZY) | [Nocturne](https://open.spotify.com/album/1GGqEpssTMppq3LPZYUSdd) | 2:38 | 2025-10-17 | 2025-10-25 |
@@ -168,7 +169,7 @@
 | [freedom](https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [freedom](https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc) | 3:38 | 2026-05-15 |  |
 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 | 2023-03-10 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
-| [Funhouse](https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Funhouse](https://open.spotify.com/album/4iT1efgAiiiGwjHpFsibJc) | 5:00 | 2026-04-17 |  |
+| [Funhouse](https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC) | [Hush](https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk) | [Funhouse](https://open.spotify.com/album/4iT1efgAiiiGwjHpFsibJc) | 5:00 | 2026-04-17 | 2026-06-07 |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 | 2023-07-01 |
 | [Girouette](https://open.spotify.com/track/7fBzPwiKk8GvRKiCwQ3NFr) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 3:19 | 2021-01-03\* | 2022-07-29 |

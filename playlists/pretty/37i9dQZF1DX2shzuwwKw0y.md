@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Los Alegres del Barranco, Edgardo Nuñez y Los Farmerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,449,209 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,449,097 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
 | 75 | [El Baúl de los Recuerdos](https://open.spotify.com/track/3bcmJ3VFuTKnbU5RI6TGZG) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [El Baúl de los Recuerdos](https://open.spotify.com/album/4DoWUEZAatO4tRbglVpY0i) | 2:40 |
 
-Snapshot ID: `AAAAAAIjRtPrPpYlh7mZmtRmtlunX2aF`
+Snapshot ID: `AAAAAGdmT4MFzFBVY5YAJwbLUD5xfYgo`

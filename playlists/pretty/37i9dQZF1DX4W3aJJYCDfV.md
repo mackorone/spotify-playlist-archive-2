@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift, ROLE MODEL, Madonna, Niall Horan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,630 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,652 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 22 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 |
 | 23 | [Burning Temptation](https://open.spotify.com/track/79E2zH4KV1qyXqsT5xxJcd) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Burning Temptation](https://open.spotify.com/album/46mmzxXIthz1rvA53mQsY1) | 3:31 |
 | 24 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
-| 25 | [Dirty Rumours](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [Dirty Rumours](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
+| 25 | [DIRTY RUMOURS](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [DIRTY RUMOURS](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
 | 26 | [Don't Play With Me](https://open.spotify.com/track/0Ti6MgIB9cmwpGW3wFugxj) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Birds Fly In](https://open.spotify.com/album/04IXrvc1SU1x1uMZ3dSXOt) | 3:48 |
 | 27 | [REALA CHICK](https://open.spotify.com/track/7JWrr0FtcAe535GfpQaCfP) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [REALA CHICK](https://open.spotify.com/album/0ZnVuKV3KctWLr4qJspl3c) | 2:30 |
 | 28 | [Crowns Of England](https://open.spotify.com/track/7rr27EeXrSQmYX7NqdDMzC) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [Crowns Of England](https://open.spotify.com/album/7gY0nKhyaTEjSTjJNyfM4U) | 3:25 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 38 | [Satalanaaa](https://open.spotify.com/track/16Rw2320t2aLHgmcYp5cbC) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Satalanaaa](https://open.spotify.com/album/6ufHkDXSap5scn0CK9MOQk) | 2:06 |
 | 39 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
 | 40 | [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 |
-| 41 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
+| 41 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/2uKdwsWwPrwKzMh4pY4pb4), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 |
 | 42 | [Hurracane](https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Hurracane](https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4) | 3:05 |
 | 43 | [CANDYLAND!](https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [CANDYLAND!](https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO) | 3:15 |
 | 44 | [Phone, Keys, Wallet](https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY) | 2:52 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Dig Em Up](https://open.spotify.com/track/6NccmEbVSOjXLpGha4hyKN) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Dig Em Up](https://open.spotify.com/album/0Wf3GIKrS0RPvzh5CA2tiw) | 2:31 |
 | 99 | [A Rebel Song](https://open.spotify.com/track/7ui03S6nI13GXczVGsPGsO) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Hate That I Care](https://open.spotify.com/album/2NSzTwvlPxzsTKfuf0U2jC) | 3:12 |
 
-Snapshot ID: `AAAAAJ9VYLodb8jTWOVxdp6t1aL+tA7Y`
+Snapshot ID: `AAAAAMtYeO1L/jr8gaiqmw3jJZa9IOjS`

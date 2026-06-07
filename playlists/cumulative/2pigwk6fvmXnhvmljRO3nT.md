@@ -4,7 +4,7 @@
 
 > 
 
-8,639 songs - 22 day 0 hr 21 min
+8,640 songs - 22 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2561,6 +2561,7 @@
 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 | 2025-01-15 |  |
 | [GOT ME GEEKED](https://open.spotify.com/track/65xcchkTcVBAWiIR6f9mMU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 2:32 | 2025-01-03 |  |
 | [Got Money](https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:04 | 2025-03-07 |  |
+| [Gotoubun no Kimochi](https://open.spotify.com/track/3XaDR0Rz5FBCB6TdMDEiKP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/3qf1Z6azFzTUlghCyPWfSX) | 3:42 | 2026-06-06 |  |
 | [Gotta Eat](https://open.spotify.com/track/3UZH1lr5vx7S19ilecUtwj) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 3:24 | 2025-01-04 |  |
 | [GOTTA RAP](https://open.spotify.com/track/6BktHfgC3lb8szkKoy5lk9) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 4:03 | 2024-12-05 |  |
 | [Government Cheese](https://open.spotify.com/track/7DyXmACKTAzZX7Jujc1dG9) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 2:45 | 2025-01-15 |  |

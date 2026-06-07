@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Day1
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,097 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,093 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Hit For The Summer](https://open.spotify.com/track/1C0Jze7rETmEE4KHiI0DiK) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Hit For The Summer](https://open.spotify.com/album/5Dji7CbPfY7EO87fl2oLlz) | 3:02 |
 | 100 | [COP CAR](https://open.spotify.com/track/1UR9ItBdaMz6JqVS7Hxu91) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2), [Burd Brain](https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG), [Castro](https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG) | [COP CAR](https://open.spotify.com/album/3p6o6WtDHeN9bgirZUsoKR) | 3:36 |
 
-Snapshot ID: `AAAAAJas4B1CJAbqn/DMJbmZC473M9BF`
+Snapshot ID: `AAAAADCLtSJaypz49RmIrkHO7/VcMmx/`

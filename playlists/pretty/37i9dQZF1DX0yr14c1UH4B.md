@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🍓<br/>cover: Strawberry Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,833 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,835 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [better without me.](https://open.spotify.com/track/5EngqDwTf0sZ9v70mueRdI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [better without me.](https://open.spotify.com/album/36yJOEUq5FtaO6ArH1LyuM) | 3:08 |
 | 100 | [Otherside](https://open.spotify.com/track/27dzGiTmNPRGkdLo80GZdo) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Suddenly, Everything’s Changing](https://open.spotify.com/album/1rzTiIXtXoyXQuVgiahpT6) | 3:51 |
 
-Snapshot ID: `AAAAAG82GsfDR/FDLDppbZOFvCVNwYZK`
+Snapshot ID: `AAAAAE/d7ldsrh3IJ3BlgmV/9roU/Yq8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,919 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,898 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 98 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
 | 99 | [Wau Du](https://open.spotify.com/track/7Fk30x5iF0MPaqTe1VfOIZ) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Tee Den](https://open.spotify.com/album/4rLrkxsAKKzFDrAjsl8xZw) | 3:14 |
 
-Snapshot ID: `AAAAAM1NA+4BDpUezbE78QGT8Z3f1UXw`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

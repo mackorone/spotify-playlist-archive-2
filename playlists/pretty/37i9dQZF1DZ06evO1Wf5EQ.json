@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 812,
+  "num_followers": 814,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAADbr798LYg5kpqmBXzvd2Wg",
+  "snapshot_id": "aiIRgAAAAACVQP1HJH7b2kwRkxnZieuW",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "David Stal",
+          "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
+        }
+      ],
+      "duration_ms": 104546,
+      "name": "You Always Let Me Down",
+      "url": "https://open.spotify.com/track/0Ody3WBpj9lmh3rDFHUaqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Department Q (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 36448,
       "name": "Department Q",
       "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        },
-        {
-          "name": "David Stal",
-          "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
-        }
-      ],
-      "duration_ms": 104546,
-      "name": "You Always Let Me Down",
-      "url": "https://open.spotify.com/track/0Ody3WBpj9lmh3rDFHUaqu"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 120946,
       "name": "Getting Late Night",
       "url": "https://open.spotify.com/track/3OTeopQuiNsNLR2fonFZlU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 86546,
-      "name": "You Lost Your Shadow, Bill",
-      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hacks: Season 1 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 77822,
       "name": "Unhoused Residents - Ava's Theme - Alternate",
       "url": "https://open.spotify.com/track/4cWL6iAoBFVMcjBBdzFXEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
     },
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "David Stal",
+          "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
+        }
+      ],
+      "duration_ms": 87440,
+      "name": "Ava's Idea",
+      "url": "https://open.spotify.com/track/1eyAJikmJQaEqbwt0vr5WC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -312,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Mcnue Leaves",
-      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
       "added_at": null,

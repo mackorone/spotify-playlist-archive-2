@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Zeca Baleiro, Vicente Barreto",
-  "num_followers": 355745,
+  "num_followers": 355733,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
-        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 208607,
-      "name": "Semeia",
-      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 230679,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
+        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 208607,
+      "name": "Semeia",
+      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "M\u00e3e Terra (Estudio)",
-        "url": "https://open.spotify.com/album/0WPRErPj7ZPVOur7jKYO8n"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 336818,
-      "name": "M\u00e3e Terra - Estudio",
-      "url": "https://open.spotify.com/track/6DdRQFjydd06RGLWB8nmm0"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Nas Profundezas Da Onda",
         "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
       },
@@ -423,22 +407,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "G\u00e9rbera",
-        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
+        "name": "M\u00e3e Terra (Estudio)",
+        "url": "https://open.spotify.com/album/0WPRErPj7ZPVOur7jKYO8n"
       },
       "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
         {
           "name": "Jorge Vercillo",
           "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 166236,
-      "name": "G\u00e9rbera",
-      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
+      "duration_ms": 336818,
+      "name": "M\u00e3e Terra - Estudio",
+      "url": "https://open.spotify.com/track/6DdRQFjydd06RGLWB8nmm0"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -463,22 +443,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "A vida se revela",
-        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
+        "name": "G\u00e9rbera",
+        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
       },
       "artists": [
         {
-          "name": "O Teatro M\u00e1gico",
-          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         },
         {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 216153,
-      "name": "A vida se revela",
-      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+      "duration_ms": 166236,
+      "name": "G\u00e9rbera",
+      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -495,6 +475,42 @@
       "duration_ms": 228778,
       "name": "A \u00daltima M\u00fasica (Acusticamente)",
       "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "A vida se revela",
+        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
+      },
+      "artists": [
+        {
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "A vida se revela",
+      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -519,22 +535,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "1\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
       },
@@ -551,6 +551,30 @@
       "duration_ms": 228314,
       "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
       "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "MPBossa 2",
+        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Luciano Magno",
+          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
+        },
+        {
+          "name": "Andr\u00e9 Rio",
+          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
+        }
+      ],
+      "duration_ms": 200835,
+      "name": "Bossa Sempre Nova",
+      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -591,26 +615,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -643,18 +647,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Denga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
       "artists": [
         {
-          "name": "Giovani Cidreira",
-          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
         }
       ],
-      "duration_ms": 125306,
-      "name": "Denga - Ao Vivo",
-      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -679,26 +687,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "MPBossa 2",
-        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
+        "name": "Denga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Luciano Magno",
-          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
-        },
-        {
-          "name": "Andr\u00e9 Rio",
-          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
         }
       ],
-      "duration_ms": 200835,
-      "name": "Bossa Sempre Nova",
-      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
+      "duration_ms": 125306,
+      "name": "Denga - Ao Vivo",
+      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
         "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
       },
@@ -751,6 +771,26 @@
       "duration_ms": 223421,
       "name": "Saudades, Elder",
       "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "D'Ouro Brilhante",
+        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        },
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
+        }
+      ],
+      "duration_ms": 246802,
+      "name": "D'Ouro Brilhante",
+      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -819,62 +859,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "D'Ouro Brilhante",
-        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        },
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
-        }
-      ],
-      "duration_ms": 246802,
-      "name": "D'Ouro Brilhante",
-      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Minha Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4FWLl1pS44LvnwLe5C51tE"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Pra Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
       "artists": [
         {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        },
-        {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
         }
       ],
-      "duration_ms": 227066,
-      "name": "Pra Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -943,6 +923,26 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Pra Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Pra Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Mais Simples",
-        "url": "https://open.spotify.com/album/4tG7NaYzl78h5s26Ph131n"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        },
-        {
-          "name": "Jos\u00e9 Miguel Wisnik",
-          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Mais Simples",
-      "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Entre Amores e Danos",
         "url": "https://open.spotify.com/album/4ruqOYj0aotFUurQDz00qz"
       },
@@ -1079,18 +1055,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+        "name": "Mais Simples",
+        "url": "https://open.spotify.com/album/4tG7NaYzl78h5s26Ph131n"
       },
       "artists": [
         {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        },
+        {
+          "name": "Jos\u00e9 Miguel Wisnik",
+          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
         }
       ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+      "duration_ms": 236000,
+      "name": "Mais Simples",
+      "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Minhas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
       },
       "artists": [
         {
-          "name": "Gabriel Leone",
-          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
         }
       ],
-      "duration_ms": 231201,
-      "name": "\u00cata N\u00f3is",
-      "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Minhas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Leone",
+          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "\u00cata N\u00f3is",
+      "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 247847,
       "name": "Onde Deus possa me ouvir - Ao vivo",
       "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "duration_ms": 191330,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 191330,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
-        "name": "Minhas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Leone",
-          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
-        }
-      ],
-      "duration_ms": 211337,
-      "name": "Cara Limpa",
-      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
         "name": "Esgotada",
         "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 176235,
       "name": "Contato",
       "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
+        "name": "Minhas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Leone",
+          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Cara Limpa",
+      "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
     },
     {
       "added_at": "2026-05-29 03:00:18",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-05-29 03:00:18",
       "album": {
+        "name": "Do Acaso Ao Cais (Vol.1)",
+        "url": "https://open.spotify.com/album/1FpNlCWjuvn9PAwmhzU2jH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Sp\u00ednola",
+          "url": "https://open.spotify.com/artist/1FB9SuCKEILso41rs4eG6S"
+        }
+      ],
+      "duration_ms": 219034,
+      "name": "Voa - Feat. Ivan Lins",
+      "url": "https://open.spotify.com/track/65o5NMspKyMwnXVEMRB3iO"
+    },
+    {
+      "added_at": "2026-05-29 03:00:18",
+      "album": {
         "name": "Capit\u00e3o Kirk",
         "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 189144,
       "name": "Capit\u00e3o Kirk",
       "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
-    },
-    {
-      "added_at": "2026-05-29 03:00:18",
-      "album": {
-        "name": "Do Acaso Ao Cais (Vol.1)",
-        "url": "https://open.spotify.com/album/1FpNlCWjuvn9PAwmhzU2jH"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Sp\u00ednola",
-          "url": "https://open.spotify.com/artist/1FB9SuCKEILso41rs4eG6S"
-        }
-      ],
-      "duration_ms": 219034,
-      "name": "Voa - Feat. Ivan Lins",
-      "url": "https://open.spotify.com/track/65o5NMspKyMwnXVEMRB3iO"
     },
     {
       "added_at": "2026-05-29 03:00:18",

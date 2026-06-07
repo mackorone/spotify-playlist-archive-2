@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,096 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,094 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 69 | [CHUCK THE MONEY](https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [CHUCK THE MONEY](https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm) | 2:44 |
 | 70 | [スイセン](https://open.spotify.com/track/6xYMs7s8z8iUAjzY4w2OWV) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [スイセン](https://open.spotify.com/album/1h9ordNS27mx2QCyQDz1t2) | 4:14 |
 
-Snapshot ID: `AAAAAHe3qIQ1jgQFcys6NRL5ROUM7spA`
+Snapshot ID: `AAAAAJKiwfKF2taMbs9g5I4ZaMWmcoKW`

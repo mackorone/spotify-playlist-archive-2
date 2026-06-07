@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,12 +176,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 166 | [Little One](https://open.spotify.com/track/2oUFrWYfTsAXWuwj5xIbRd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [BD Music Presents Louis Armstrong](https://open.spotify.com/album/4jGrxHkL35fItwjJskNw3p) | 2:31 |
 | 167 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
 | 168 | [I've a Shooting Box in Scotland](https://open.spotify.com/track/6XJqexx95u0u8mdu60DGAK) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete London Sessions](https://open.spotify.com/album/4XUw4vYdv0WK92ukrR2KaV) | 3:26 |
-| 169 | [Veneno Para El Corazon \- \(It's The Lovely\)](https://open.spotify.com/track/2gxSxY8f3oesNXIngMtwjM) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Veneno Para El Corazón](https://open.spotify.com/album/7tNKTunZlNnOx9gaUnOghX) | 3:05 |
-| 170 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 169 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 170 | [Veneno Para El Corazon \- \(It's The Lovely\)](https://open.spotify.com/track/2gxSxY8f3oesNXIngMtwjM) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Veneno Para El Corazón](https://open.spotify.com/album/7tNKTunZlNnOx9gaUnOghX) | 3:05 |
 | 171 | [I'm a Gigolo](https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:26 |
 | 172 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 173 | [IF I LOVED YOU TRULY](https://open.spotify.com/track/67EtAPxT1gtSdfdmIxBz0M) | [The Starlite Orchestra & Singers](https://open.spotify.com/artist/2cAOIxdet17VPqKd8PODGs) | [THE MUSICAL \- CAN\-CAN](https://open.spotify.com/album/4U62OD0a6q36Yw0q6aHnOs) | 2:20 |
-| 174 | [So Near And Yet So Far](https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 3:21 |
+| 174 | [So Near And Yet So Far](https://open.spotify.com/track/6WhfrYgAxts0SKxwoECztB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays Cole Porter](https://open.spotify.com/album/4RNHCcbAPJDPppHDX2uSsG) | 3:21 |
 | 175 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 |
 | 176 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/7LbGdrrQ6NiO1sql721qAx) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV) | 2:31 |
 | 177 | [I'm Going in for Love](https://open.spotify.com/track/6GzVz91Fk34wEVdTwnkXq3) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
@@ -387,8 +387,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 377 | [C'est si facile de vous aimer \(Easy to Love\)](https://open.spotify.com/track/6sPAZooZny9UycKZt7Vgkl) | [Marc Fosset Trio](https://open.spotify.com/artist/2XJm4YgjpQdlnbVcj14I5L) | [I Want to Be Happy](https://open.spotify.com/album/0I52fHQ0GcrlTVIuDWQHJf) | 3:44 |
 | 378 | [Du bist Schuld daran](https://open.spotify.com/track/188X6WD8Bu0Sb7U4AsW4Vc) | [Caroline Kiesewetter](https://open.spotify.com/artist/72Rbr2DX6hUSA5KuyILAxd) | [Mal laut, mal leise](https://open.spotify.com/album/08EDCfCpdlA6uuafwGpJLk) | 3:08 |
 | 379 | [The Extra Man](https://open.spotify.com/track/5EQvtVMJO3vvi0NldcKn90) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's My Man: Songs of Gay Love, Lust, Loss, And Longing...](https://open.spotify.com/album/1UkxPhynW5HPhPANlVx9Mm) | 2:38 |
-| 380 | [Wir Sind Mädchen Typisch Für Paris \(Maidens Typical Of France\) \(From Can\-Can\)](https://open.spotify.com/track/1ziahFa8dPe7yBSzPH1H9c) | [Musical Company](https://open.spotify.com/artist/5f4z9OMBKdBn67jXFTZ7hP) | [Soundtrack Masters: Wilkommen](https://open.spotify.com/album/1qoa6atQwIYiplXoZjlA8I) | 2:20 |
-| 381 | [When the Summer Moon Comes 'Long](https://open.spotify.com/track/5qTaBWzWOMdYfaUZRBuW7r) | [Steve Ross](https://open.spotify.com/artist/7rBcOJleNppinAuzR8S3ZX) | [Steve Ross & Cole Porter \- Close](https://open.spotify.com/album/6oU8VYiIchZhnmkTfKWuP1) | 2:43 |
+| 380 | [When the Summer Moon Comes 'Long](https://open.spotify.com/track/5qTaBWzWOMdYfaUZRBuW7r) | [Steve Ross](https://open.spotify.com/artist/7rBcOJleNppinAuzR8S3ZX) | [Steve Ross & Cole Porter \- Close](https://open.spotify.com/album/6oU8VYiIchZhnmkTfKWuP1) | 2:43 |
+| 381 | [Wir Sind Mädchen Typisch Für Paris \(Maidens Typical Of France\) \(From Can\-Can\)](https://open.spotify.com/track/1ziahFa8dPe7yBSzPH1H9c) | [Musical Company](https://open.spotify.com/artist/5f4z9OMBKdBn67jXFTZ7hP) | [Soundtrack Masters: Wilkommen](https://open.spotify.com/album/1qoa6atQwIYiplXoZjlA8I) | 2:20 |
 | 382 | [When I Was A Little Cuckoo](https://open.spotify.com/track/3hucaRW0QgCTAaih6PtU23) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/4ppiu14KbWmJ0bICpNQyRP) | 2:27 |
 | 383 | [Pirouette](https://open.spotify.com/track/4mHW6l1Gymgqs6QUb4ZhyC) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Born To Dance](https://open.spotify.com/album/4S93XaKrdpFN1eZ2M5lNrX) | 4:00 |
 | 384 | [Wedding Cake Walk](https://open.spotify.com/track/5mJTMq8pB7xXuy21vXtk7V) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 5:19 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcTcJgAAAACHIS3CR2Yi+bUOJ1wlg1J+`
+Snapshot ID: `AcThxgAAAADG1D5XjhiJxgCsD/KrQb7/`

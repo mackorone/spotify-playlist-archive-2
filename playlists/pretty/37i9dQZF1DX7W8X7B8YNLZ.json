@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 127529,
+  "num_followers": 127560,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Ce n'est rien",
+      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 245666,
       "name": "Paroles\u2026 paroles\u2026",
       "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Ce n'est rien",
-      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "20eme anniversaire",
-        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 206866,
       "name": "Ma pr\u00e9f\u00e9rence",
       "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "La Derniere S\u00e9ance",
-        "url": "https://open.spotify.com/album/4dXFPlxD8HLFgPGjHQfmnq"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "La derni\u00e8re s\u00e9ance",
-      "url": "https://open.spotify.com/track/1LMMoxkBJe9NfGEQikGK0B"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Sentimentale",
         "url": "https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 183413,
       "name": "L'oiseau et l'enfant",
       "url": "https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "La Derniere S\u00e9ance",
+        "url": "https://open.spotify.com/album/4dXFPlxD8HLFgPGjHQfmnq"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "La derni\u00e8re s\u00e9ance",
+      "url": "https://open.spotify.com/track/1LMMoxkBJe9NfGEQikGK0B"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
+        "name": "Comme un boomerang",
+        "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Sea, Sex And Sun",
+      "url": "https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
         "name": "Pour me comprendre (40 titres)",
         "url": "https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 136386,
       "name": "\u00c7a balance pas mal \u00e0 Paris - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
-        "name": "Comme un boomerang",
-        "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Sea, Sex And Sun",
-      "url": "https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R"
     },
     {
       "added_at": "2025-12-28 17:29:00",

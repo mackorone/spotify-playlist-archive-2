@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Franglish & KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,268 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,267 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 69 | [MOOD](https://open.spotify.com/track/4muz46ngOdNVg6rv8VSw4m) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [MOOD](https://open.spotify.com/album/5iCxQViVyVD6f4Cd3ecIbf) | 3:05 |
 | 70 | [ONLY US](https://open.spotify.com/track/5RrlCVoQC6h5lzLNLPVOLd) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN), [Hos](https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo) | [ONLY US](https://open.spotify.com/album/1TBVplPQkq25ackvDgHeoY) | 3:02 |
 
-Snapshot ID: `AAAAAByPKMa7YgmfKGr6UFJVb654W85Y`
+Snapshot ID: `AAAAAM+Q2Es/pjzFpXevPrGUT/+pMwDu`

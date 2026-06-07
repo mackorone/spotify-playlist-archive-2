@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,638 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,683 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 4 | [Veo en ti la luz](https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:37 |
 | 5 | [En Mi Corazón Estarás](https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Merche Macaria](https://open.spotify.com/artist/3EpcaEm4CiGeEAhHymp7TV) | [Tarzan \(Banda Sonora Original\)](https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm) | 1:39 |
 | 6 | [Cuán lejos voy](https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS) | [Sara Paula Gómez Arias](https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:44 |
-| 7 | [Alas \- Versión 2026 \- De "Soy Luna" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 |
+| 7 | [Alas \- Versión 2026 \- De "Soy Luna: Volver a rodar" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna: Volver a rodar" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 |
 | 8 | [Recuérdame](https://open.spotify.com/track/3f3eX1P1jcRAmnBggOCRo3) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:43 |
 | 9 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 |
 | 10 | [De nada](https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2) | [Beto Castillo](https://open.spotify.com/artist/7zpbcFMqrJCTQDuasYKXCC) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Esta selección \(de rolitas\) sí podrían pasar al quinto partido\. Dharius en portadha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,583 likes - 63 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,236 likes - 63 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 21 | [FKU](https://open.spotify.com/track/6acngtmZomwDxEurq8OlAB) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [FKU](https://open.spotify.com/album/4YkA8MnqY14HDjulbI6si7) | 2:27 |
 | 22 | [Madrugada](https://open.spotify.com/track/6vksmHF8RtdZgH0ZWYIxmY) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Madrugada](https://open.spotify.com/album/4wTV6sA0zY7smkgF1NrjBf) | 2:58 |
 | 23 | [614](https://open.spotify.com/track/083DL8Y89fToLnKKgOonUK) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [614](https://open.spotify.com/album/5yQDZx7Mm5qaZYN73GE5wp) | 2:44 |
-| 24 | [Gol](https://open.spotify.com/track/2CI7QPyJoJR7TzH7QZocl4) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Gol](https://open.spotify.com/album/6vSxOkwE2oAmxqUaqAutPE) | 2:30 |
+| 24 | [Gol, Mundial 26](https://open.spotify.com/track/2CI7QPyJoJR7TzH7QZocl4) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Gol, Mundial 26](https://open.spotify.com/album/6vSxOkwE2oAmxqUaqAutPE) | 2:31 |
 | 25 | [Quién Te Dio Permiso](https://open.spotify.com/track/4Nmy0vXfjEgVX2WbHnd1dc) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Quién Te Dio Permiso](https://open.spotify.com/album/50W2q8uYQPSya1nyUVGnQ4) | 2:48 |
 | 26 | [Bobo Me Tienes](https://open.spotify.com/track/6ctnraVtRAZQiL10tuSpl4) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bobo Me Tienes / Suave](https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M) | 3:00 |
 | 27 | [Lluvias de Mayo](https://open.spotify.com/track/6aN0bvEPRhM5miPa6z6vNq) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lluvias de Mayo](https://open.spotify.com/album/2MkmrYEEfUHsKu3Ho1cEIm) | 5:08 |

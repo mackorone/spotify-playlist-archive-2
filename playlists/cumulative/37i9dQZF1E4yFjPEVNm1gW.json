@@ -884,7 +884,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 136045,
       "name": "Disagree",
       "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
@@ -1500,6 +1500,24 @@
       "duration_ms": 152611,
       "name": "GO",
       "url": "https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh"
+    },
+    {
+      "album": {
+        "name": "Karmic Pt. I",
+        "url": "https://open.spotify.com/album/17T3OYjaaUTZPxd7IAMHDM"
+      },
+      "artists": [
+        {
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170177,
+      "name": "God Made It",
+      "url": "https://open.spotify.com/track/2En3Lfa3fqExSPrFOuD4Q8"
     },
     {
       "album": {
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -4281,6 +4299,28 @@
     },
     {
       "album": {
+        "name": "V8",
+        "url": "https://open.spotify.com/album/3Hu2Vp0UjU5wn0ptgoIdLW"
+      },
+      "artists": [
+        {
+          "name": "Mannystotle",
+          "url": "https://open.spotify.com/artist/6r7MEdqqFQTkbCwqHA1BW6"
+        },
+        {
+          "name": "Blaxian",
+          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160912,
+      "name": "V8",
+      "url": "https://open.spotify.com/track/25Dp8uX1Jn71Zy2x0x77qo"
+    },
+    {
+      "album": {
         "name": "vetements jeans",
         "url": "https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9"
       },
@@ -4448,7 +4488,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 128079,
       "name": "Wiseman Freestlye",
       "url": "https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU"

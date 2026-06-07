@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Bruna Lipiani, Taylor Swift,  Skrillex, Elba Ramalho, Os Barões Da Pisadinha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,654 likes - 72 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,629 likes - 72 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

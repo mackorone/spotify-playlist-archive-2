@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🧺<br/>cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,272 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,245 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 2 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 3 | [the kill 2](https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87) | [Lex Amarni](https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID), [2muchmotion](https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw) | [the kill 2](https://open.spotify.com/album/2bXAxRwdbZlT0mdIQlKQbn) | 2:01 |
 | 4 | [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 |
-| 5 | [Dirty Rumours](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [Dirty Rumours](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
+| 5 | [DIRTY RUMOURS](https://open.spotify.com/track/3IZIkPVcsfqbpfTg7gc1SN) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [DIRTY RUMOURS](https://open.spotify.com/album/3pb7TEfOUjkeKv8heapI6n) | 2:35 |
 | 6 | [Handle](https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Handle](https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0) | 3:06 |
 | 7 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 8 | [Start at the End](https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Behind The Wings](https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON) | 3:18 |

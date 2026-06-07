@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,401 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,432 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Obiaa Nte Mase](https://open.spotify.com/track/30a0k5w2WkXeqsIdXCiwNk) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Obiaa Nte Mase](https://open.spotify.com/album/2AHcKhDSVatchekMAEZGET) | 2:42 |
 | 85 | [Dance With You](https://open.spotify.com/track/13LJmsj0UnvhVpIa5ne5Pb) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Dance With You](https://open.spotify.com/album/6YgeKfh6ZsGp2E4WwWEOeG) | 2:33 |
 
-Snapshot ID: `AAAAAEJ9dG6HWr4Zhl7iUaoi1OgE7TYL`
+Snapshot ID: `AAAAAHFqtBfbRbYaV7W4PfOnGYxxsFIQ`

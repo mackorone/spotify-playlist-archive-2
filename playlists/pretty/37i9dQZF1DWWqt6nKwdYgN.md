@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Pielroja en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,403 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,410 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cap \#3 \- Villa Caraza](https://open.spotify.com/track/0jD6ZTZgJnBkd1MR3euse4) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Cap \#3 \- Villa Caraza](https://open.spotify.com/album/2mwqCReRe5iKB6kYBPXD2I) | 2:15 |
 | 2 | [ANTISISTEMA](https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [ANTISISTEMA](https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA) | 4:09 |
-| 3 | [Lirica Homicida](https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Zumbiman](https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5) | [Lirica Homicida](https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR) | 4:20 |
+| 3 | [Lirica Homicida](https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Zumbiman](https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5), [Soulnastyy](https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz) | [Lirica Homicida](https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR) | 4:20 |
 | 4 | [SOFXX](https://open.spotify.com/track/5cgNQYXKPhQ71L34G7RDrW) | [Kuervo Negro](https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz), [Diego Loudness](https://open.spotify.com/artist/6fMsyy8ToMlOsZD5IKU3gE) | [SOFXX](https://open.spotify.com/album/4cDw0FmQFO748XAhKu0PnR) | 2:29 |
 | 5 | [ÁREA](https://open.spotify.com/track/5zTggS7h0iX4KOeujG66Xw) | [Ana Milagros](https://open.spotify.com/artist/4TGvzenBbWpfCsNf5S4WyI), [Yul0](https://open.spotify.com/artist/7oIzXBybUtW6yVeoIOC79r), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [INSIDE DESIGN](https://open.spotify.com/album/5nQ5sM0w18nno3UHs8YNX5) | 3:54 |
 | 6 | [SIEMPRE TITULAR](https://open.spotify.com/track/7mPLsi81eodaAXhI3zIX8w) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Keko Beats](https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed), [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY) | [SIEMPRE TITULAR](https://open.spotify.com/album/0ZBkoEhKfKF3o3sYABM56c) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Business](https://open.spotify.com/track/3KAMDyO5ljEIKB67SUcOP1) | [DRZUPREEME](https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF) | [Ondulados](https://open.spotify.com/album/0Jj4WNJJMdQiBc8EP8IKzJ) | 2:51 |
 | 50 | [Campeones](https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Mellow Man Ace](https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H) | [Campeones](https://open.spotify.com/album/07RvDCTEmwPoC0YTMmbuyv) | 3:48 |
 
-Snapshot ID: `AAAAAHgajRn8YLXl6Zs2kbaWwcZu/f7z`
+Snapshot ID: `AAAAAFBQacU7B/Ku0qX+mAI/wcufXCX1`

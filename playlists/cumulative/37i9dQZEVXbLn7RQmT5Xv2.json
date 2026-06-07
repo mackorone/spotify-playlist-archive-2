@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
@@ -8708,7 +8708,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 160004,
       "name": "LEH",
       "url": "https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR"
@@ -13387,6 +13387,28 @@
     },
     {
       "album": {
+        "name": "SEBY NAFSEK KHALES",
+        "url": "https://open.spotify.com/album/6JcLDIgrEHF8u6D1K95acY"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        },
+        {
+          "name": "HatemBas",
+          "url": "https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191149,
+      "name": "SEBY NAFSEK KHALES",
+      "url": "https://open.spotify.com/track/7dR4nnWzcUDpcW67jnOTfs"
+    },
+    {
+      "album": {
         "name": "Ramy Sabry Collection",
         "url": "https://open.spotify.com/album/1flhdVIthDKRZLuic50exZ"
       },
@@ -17168,7 +17190,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 196812,
       "name": "\u0627\u0644\u062c\u0627\u0649 \u0628\u062a\u0627\u0639\u0649",
       "url": "https://open.spotify.com/track/2EzXzEvgdT4a0ARx526brr"
@@ -21408,7 +21430,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 284499,
       "name": "\u0643\u0644 \u0645\u0627 \u0627\u0641\u0648\u0642 \u0627\u0646\u0627 \u0644\u062d\u0627\u0644\u064a ( \u0642\u0627\u0644\u0648 \u0628\u0642\u064a \u062a\u0627\u062c\u0631 \u0645\u0646 \u0627\u0644\u0627\u0634\u0631\u0627\u0631 )",
       "url": "https://open.spotify.com/track/4KZsmZahAQe1V57PeLeoM2"
@@ -22738,7 +22760,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 207609,
       "name": "\u0646\u062e\u0628\u0649 \u0644\u064a\u0647",
       "url": "https://open.spotify.com/track/3I76xQ1eSBTZRQKQToms4h"

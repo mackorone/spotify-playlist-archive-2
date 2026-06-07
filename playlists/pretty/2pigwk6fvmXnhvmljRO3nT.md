@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,428 songs - 21 day 11 hr 27 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,429 songs - 21 day 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8436,5 +8436,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8426 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 8427 | [Whiplash](https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm) | [Hank Levy](https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 1:55 |
 | 8428 | [Caravan](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0) | [John Wasson](https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 9:15 |
+| 8429 | [Gotoubun no Kimochi](https://open.spotify.com/track/3XaDR0Rz5FBCB6TdMDEiKP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/3qf1Z6azFzTUlghCyPWfSX) | 3:42 |
 
-Snapshot ID: `AAAL9jq6jbG9AHQLQdrJRIDKMYTO57GT`
+Snapshot ID: `AAAL92nHiAdpsrEIKgqgTSrWDk+FXd5i`

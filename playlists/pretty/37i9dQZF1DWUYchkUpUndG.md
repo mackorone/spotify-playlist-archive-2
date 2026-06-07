@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,610 likes - 120 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,621 likes - 120 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 119 | [The Same](https://open.spotify.com/track/2cUomcU3rMuZKFDx4Wk9ZG) | [VERSHIMA](https://open.spotify.com/artist/1lRfozJnBGOUUVcgJ1wFHu) | [The Same](https://open.spotify.com/album/2I8hZ1AmXofj6sKAy9Z5Mt) | 2:28 |
 | 120 | [My life \(feat\. Cheebuzor\)](https://open.spotify.com/track/7gtwFGyCi5eaXt6AKKB9px) | [Real yungcee](https://open.spotify.com/artist/5O7zIvliE4wbsXUUO8kcjb), [Cheebuzor](https://open.spotify.com/artist/2tm5fUoch0oJlKopRW5OHK) | [My life \(feat\. Cheebuzor\)](https://open.spotify.com/album/5aG6hxKchqamTnjW0hCLkn) | 3:06 |
 
-Snapshot ID: `AAAAALZ20MbhIMRU22WPABCxW33FQfoj`
+Snapshot ID: `AAAAAKZjSgdNSsqFZk1J59EMGhyQmgAh`

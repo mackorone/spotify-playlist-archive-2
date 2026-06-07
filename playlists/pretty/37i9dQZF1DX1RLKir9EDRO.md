@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Selen Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,022 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,020 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Ilık Kış](https://open.spotify.com/track/3YDsxeTutqsi2C4ME78J13) | [Can Artsan](https://open.spotify.com/artist/4V97EwFBVuXfAAjLrqC2jt) | [Ilık Kış](https://open.spotify.com/album/5cIf9q6H1cE0KRglAFJIqo) | 3:21 |
 | 49 | [Neden Olmasın?](https://open.spotify.com/track/6UZ6JKdBcEiHKUuC58AaHF) | [Mehmet Koç](https://open.spotify.com/artist/3sF1qG39dapQsJBDGlpuHI) | [Neden Olmasın?](https://open.spotify.com/album/5S3VV8u5ZBgQkK9hyf8xZv) | 3:31 |
 
-Snapshot ID: `AAAAAKUa+35TnIIWCJnhGu8j8rTOnhqC`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

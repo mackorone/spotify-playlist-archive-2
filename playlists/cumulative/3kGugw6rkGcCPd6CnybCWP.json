@@ -95,6 +95,32 @@
     },
     {
       "album": {
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp"
+      },
+      "artists": [
+        {
+          "name": "Loni Lila",
+          "url": "https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy"
+        },
+        {
+          "name": "Konsum",
+          "url": "https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD"
+        },
+        {
+          "name": "Y\u00dc\u00dcP",
+          "url": "https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g"
+    },
+    {
+      "album": {
         "name": "Not All Eyes Are Green",
         "url": "https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ"
       },
@@ -1948,6 +1974,24 @@
       "duration_ms": 172800,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/4OIswuazVrnbDh9Vm7Vg6B"
+      },
+      "artists": [
+        {
+          "name": "ORA BLU",
+          "url": "https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6cPI75yJd5X6bi0vOdkfO5"
     },
     {
       "album": {
@@ -5009,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Recita",
+        "url": "https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH"
+      },
+      "artists": [
+        {
+          "name": "LEUCA",
+          "url": "https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169067,
+      "name": "Recita",
+      "url": "https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm"
+    },
+    {
+      "album": {
         "name": "Hard to Get Out",
         "url": "https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs"
       },
@@ -5312,6 +5374,24 @@
       "duration_ms": 168888,
       "name": "sidewalk",
       "url": "https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS"
+    },
+    {
+      "album": {
+        "name": "Sinking Into The Ocean",
+        "url": "https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc"
+      },
+      "artists": [
+        {
+          "name": "Maia and the Squires",
+          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Sinking Into The Ocean",
+      "url": "https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx"
     },
     {
       "album": {
@@ -6574,6 +6654,24 @@
       "duration_ms": 98686,
       "name": "wakingup",
       "url": "https://open.spotify.com/track/61IzD2tH1liMWYuvxleKUm"
+    },
+    {
+      "album": {
+        "name": "Walking a Wire",
+        "url": "https://open.spotify.com/album/1YoCAYE9hnp8hY1gZhAbm5"
+      },
+      "artists": [
+        {
+          "name": "Of Titans and Men",
+          "url": "https://open.spotify.com/artist/7eCtNRHtwr5dZclVL5czVu"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206020,
+      "name": "Walking a Wire",
+      "url": "https://open.spotify.com/track/0DNXuf1n2DDVipLfvZ9oXN"
     },
     {
       "album": {

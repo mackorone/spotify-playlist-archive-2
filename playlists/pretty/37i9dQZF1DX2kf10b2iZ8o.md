@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,431 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,429 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 37 | [The 1st Movement ～未来のための二重奏～](https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 4:56 |
 | 38 | [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 |
 | 39 | [Flowing Freedom](https://open.spotify.com/track/3AFe98j9NnfmhQ9ewFb5l6) | [北村想楽 \(CV.汐谷文康\)](https://open.spotify.com/artist/6gLPEzlIMIN8WZwdSd4kmN) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:14 |
-| 40 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
+| 40 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |
 | 41 | [RULE～牙ヲ穿テヨ～](https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk) | [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/0WDJ6ittFP69OvaKvNX9Dz) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:43 |
 | 42 | [永遠なる四銃士](https://open.spotify.com/track/6VlBEK2mjUroFSCwzUHicF) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa), [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L), [紅井朱雀 \(CV.益山武明\)](https://open.spotify.com/artist/4dR8nTAHp1SZQ6l7i7pljW), [葛之葉雨彦 \(CV.笠間 淳\)](https://open.spotify.com/artist/33cngtLDScW5CGypwJrpbN) | [THE IDOLM@STER SideM WORLD TRE@SURE 01](https://open.spotify.com/album/6YWvzl8ZCQ0xCsnlJs3S5n) | 4:14 |
-| 43 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |
+| 43 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
 | 44 | [ミュージアムジカ](https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 3:53 |
 | 45 | [ALOHA! HAPPY CREATOR!](https://open.spotify.com/track/10UEvm0LZb8dZs4GKVyXol) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/0SOZQEEUmzX3VAtAAApU2q), [姫野かのん \(CV.村瀬 歩\)](https://open.spotify.com/artist/6iwwou4dCBVUQEZPAgxhHW), [舞田 類 \(CV.榎木淳弥\)](https://open.spotify.com/artist/3I60yHBjKRDuGBcDsW3S98) | [THE IDOLM@STER SideM WORLD TRE@SURE 05](https://open.spotify.com/album/02Ppn2Q2dEIOHEMBtrdVVj) | 4:16 |
 | 46 | [Growing Smiles！](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles！](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 71 | [Time Before Time](https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 3:40 |
 | 72 | [Pavé Étoiles](https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:07 |
 | 73 | [BRAND NEW FIELD](https://open.spotify.com/track/1NxXF8uyBimRd8uSiutGts) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM ST@RTING LINE\-01 Jupiter](https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1) | 6:02 |
-| 74 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 |
-| 75 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
+| 74 | [Yell Song](https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R) | [秋月 涼 \(CV.三瓶由布子\)](https://open.spotify.com/artist/1TwIAjt19YsW6wStKDfzcY) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 4:05 |
+| 75 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 |
 
 Snapshot ID: `AAAAAIf4zWJE6LkgCRHZ1EXEVGwFeCst`

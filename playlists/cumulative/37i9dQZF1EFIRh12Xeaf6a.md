@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-454 songs - 22 hr 46 min
+455 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,9 +237,10 @@
 | [Let's Twist Again](https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [It's Pony Time/Let's Twist Again](https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0) | 2:17 | 2025-11-22 | 2026-04-21 |
 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 | 2023-12-30 |  |
 | [Long Way To Be Happy](https://open.spotify.com/track/6rS2B0RwdfPLcMWHuugcoY) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 | 2023-12-30 |  |
-| [Look Down](https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:29 | 2023-12-30 |  |
+| [Look Down](https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:29 | 2023-12-30 | 2026-06-07 |
 | [Look Down](https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Only Love Me](https://open.spotify.com/album/0HfnGYuGW980ynBFAUKEqi) | 2:29 | 2024-12-15 | 2025-12-18 |
 | [Look Down](https://open.spotify.com/track/1v3Lu8QaUWxniD9munjJ0l) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Hurt in the Night](https://open.spotify.com/album/0vZTWZ4DvSiTkDkW2Rdl18) | 2:29 | 2026-03-18 | 2026-05-26 |
+| [Look Down](https://open.spotify.com/track/2JTDO5Y6K4aLA1SgpWidjq) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Tears In The Rain](https://open.spotify.com/album/4vW1xVntgPAxyw0a1pVtzP) | 2:29 | 2026-06-06 |  |
 | [Look Down](https://open.spotify.com/track/5EZYa9RIfSKDM0M94DhCqs) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [My Sweetheart](https://open.spotify.com/album/4rwNgYNiywIXL6gWp1zYta) | 2:29 | 2026-01-16 | 2026-03-09 |
 | [Love Eyes \- Remastered](https://open.spotify.com/track/5qJeIzaoIodrrKSOeugESh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 1:58 | 2023-12-30 |  |
 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 | 2023-12-30 | 2026-04-21 |

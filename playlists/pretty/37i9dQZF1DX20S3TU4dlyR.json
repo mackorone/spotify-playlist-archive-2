@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 75653,
+  "num_followers": 75663,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 198238,
       "name": "Uma Brasileira",
       "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+      "duration_ms": 283400,
+      "name": "La Clave",
+      "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1263,22 +1259,18 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Rastone (En Vivo en el Teatro de Flores)",
-        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+        "name": "Torito",
+        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
       },
       "artists": [
         {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        },
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Rastone (En Vivo en el Teatro de Flores)",
-      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+      "duration_ms": 196000,
+      "name": "Torito",
+      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1299,22 +1291,6 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Torito",
-        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Torito",
-      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
         "name": "Tenia Tanto Para Darte",
         "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
       },
@@ -1327,6 +1303,26 @@
       "duration_ms": 263144,
       "name": "Tenia Tanto Para Darte",
       "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+      },
+      "artists": [
+        {
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1415,26 +1411,6 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Doce Amor (Dulce Amor)",
-        "url": "https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        },
-        {
-          "name": "Vibra\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
-        }
-      ],
-      "duration_ms": 312676,
-      "name": "Doce Amor (Dulce Amor)",
-      "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1471,6 +1447,26 @@
       "duration_ms": 159892,
       "name": "Dimelo Ayer",
       "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
+        "name": "Doce Amor (Dulce Amor)",
+        "url": "https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        },
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "duration_ms": 312676,
+      "name": "Doce Amor (Dulce Amor)",
+      "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
     },
     {
       "added_at": "2026-05-22 03:00:32",
@@ -1523,22 +1519,6 @@
     {
       "added_at": "2026-05-22 03:00:32",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        }
-      ],
-      "duration_ms": 205059,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
-    },
-    {
-      "added_at": "2026-05-22 03:00:32",
-      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -1555,6 +1535,22 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2026-05-22 03:00:32",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        }
+      ],
+      "duration_ms": 205059,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz"
     },
     {
       "added_at": "2026-05-22 03:00:32",

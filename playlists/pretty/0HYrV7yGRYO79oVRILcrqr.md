@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,834 likes - 126 songs - 8 hr 11 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,841 likes - 131 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 124 | [Hemen eta orain](https://open.spotify.com/track/1bE21zBzAvyD6jGZyIzANb) | [Aingeru](https://open.spotify.com/artist/0gkmeBApb5kPC4iV1pX9FL) | [Hemen eta orain](https://open.spotify.com/album/4FpcOFHpBINY7xLrUQbwAd) | 3:36 |
 | 125 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 |
 | 126 | [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 |
+| 127 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 |
+| 128 | [Dime](https://open.spotify.com/track/3SZ6y7If8OhjTKfEkfFjbv) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [No Hay Un Lugar a la Vista](https://open.spotify.com/album/2m0JDTrXLnMxq6FP2q8o8l) | 5:09 |
+| 129 | [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 |
+| 130 | [Desastre](https://open.spotify.com/track/5kREwbnFgF4JT0gvZBzDmM) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [Desastre](https://open.spotify.com/album/3Tx7kwS4LYWTtO71spYXIa) | 2:12 |
+| 131 | [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 |
 
-Snapshot ID: `AAALpAHPoCUYLZlC+ijTfl5KkFCgDDE6`
+Snapshot ID: `AAALqRiYkbwmahSS32EraW1D2uRsY44k`

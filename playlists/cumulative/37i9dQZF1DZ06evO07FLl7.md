@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-168 songs - 10 hr 17 min
+169 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Sinfonia da Revolução](https://open.spotify.com/track/250R8yJ0p2fIIEQH9PGSbC) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Aori](https://open.spotify.com/artist/42aKmFNXt0KKWbnYVl2mhp), [Lívia Cruz](https://open.spotify.com/artist/3BsGMZHoIcDTLtElPgYf0t), [Nego E](https://open.spotify.com/artist/1fUbetTMvYDcBvNRwMJxKU), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sinfonia da Revolução](https://open.spotify.com/album/11Qt56dPZX6u5IHbk1lUD8) | 6:52 | 2023-09-18 |  |
 | [Sociedade de Consumo](https://open.spotify.com/track/0vuZHiLnCcFvbiX0wRpV4Y) | [Dö Mc](https://open.spotify.com/artist/3ZUnv9j8nKS09bTDzTuYVB), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Sociedade de Consumo](https://open.spotify.com/album/0rXFMbbeqgQ0rKeU1RTxa6) | 3:45 | 2025-05-11 | 2025-07-23 |
 | [Sol Maior](https://open.spotify.com/track/4KYvaHNOEKfrStmnwVVzGd) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:54 | 2024-09-11 | 2025-11-17 |
+| [SUBMERSA](https://open.spotify.com/track/3Tkuyl3Et3umkqpuTrNPQi) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [SUBMERSA](https://open.spotify.com/album/0M8UV6rOW3i4xXoAPK5t0O) | 2:49 | 2026-06-07 |  |
 | [São Jorge Guerreiro \(Dub\)](https://open.spotify.com/track/4v8e4IjnkinkuevNr0Oqbu) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Victor Rice](https://open.spotify.com/artist/4U5EfF2PUDRP0TVvgsePQ5) | [São Jorge Guerreiro \(Dub\)](https://open.spotify.com/album/6nf33JPhD5L65e3NH0lKfb) | 2:56 | 2024-11-26 | 2024-12-10 |
 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 | 2023-09-18 | 2026-05-22 |
 | [Só um Tempo](https://open.spotify.com/track/47Vu1IEQTToaiRTNu7hsQS) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Só um Tempo](https://open.spotify.com/album/7LPxkiO8nRJEOA2GFGTNcP) | 3:44 | 2024-09-11 | 2024-09-13 |

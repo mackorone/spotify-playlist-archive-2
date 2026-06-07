@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 131988,
+  "num_followers": 132014,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-09-09 06:43:08",
       "album": {
-        "name": "M\u0101ori Ki Te Ao",
-        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 200734,
-      "name": "M\u0101ori Ki Te Ao",
-      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
-    },
-    {
-      "added_at": "2025-09-09 06:43:08",
-      "album": {
         "name": "Nothing To Hide",
         "url": "https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 245933,
       "name": "Darling Angel",
       "url": "https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH"
+    },
+    {
+      "added_at": "2025-09-09 06:43:08",
+      "album": {
+        "name": "M\u0101ori Ki Te Ao",
+        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 200734,
+      "name": "M\u0101ori Ki Te Ao",
+      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
     },
     {
       "added_at": "2025-09-09 06:43:08",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-11 02:18:36",
       "album": {
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+    },
+    {
+      "added_at": "2026-05-11 02:18:36",
+      "album": {
         "name": "Mama Don't Cry",
         "url": "https://open.spotify.com/album/7lubqAJW6Lj4CV9255FkaD"
       },
@@ -817,20 +833,20 @@
       "url": "https://open.spotify.com/track/1vqgV0o8TX1m1QAiTB3ka8"
     },
     {
-      "added_at": "2026-05-11 02:18:36",
+      "added_at": "2025-09-09 06:43:08",
       "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+        "name": "Sensitive To A Smile",
+        "url": "https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "Herbs",
+          "url": "https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA"
         }
       ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+      "duration_ms": 259106,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC"
     },
     {
       "added_at": "2025-09-09 06:43:08",
@@ -851,22 +867,6 @@
       "duration_ms": 244680,
       "name": "Come Over - Radio Version",
       "url": "https://open.spotify.com/track/2aDH6OBWFOHDt1OSz2IwBt"
-    },
-    {
-      "added_at": "2025-09-09 06:43:08",
-      "album": {
-        "name": "Sensitive To A Smile",
-        "url": "https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg"
-      },
-      "artists": [
-        {
-          "name": "Herbs",
-          "url": "https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA"
-        }
-      ],
-      "duration_ms": 259106,
-      "name": "Long Ago",
-      "url": "https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC"
     },
     {
       "added_at": "2025-09-09 06:43:08",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-09-09 06:43:08",
       "album": {
-        "name": "Paua",
-        "url": "https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1"
-      },
-      "artists": [
-        {
-          "name": "PAUA",
-          "url": "https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C"
-    },
-    {
-      "added_at": "2025-09-09 06:43:08",
-      "album": {
         "name": "One Man Band",
         "url": "https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194210,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS"
+    },
+    {
+      "added_at": "2025-09-09 06:43:08",
+      "album": {
+        "name": "Paua",
+        "url": "https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1"
+      },
+      "artists": [
+        {
+          "name": "PAUA",
+          "url": "https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C"
     },
     {
       "added_at": "2025-09-09 06:43:08",

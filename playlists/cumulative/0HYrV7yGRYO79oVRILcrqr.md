@@ -4,10 +4,11 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-552 songs - 1 day 10 hr 18 min
+557 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 | 2026-06-06 |  |
 | [5am Concrete Floor](https://open.spotify.com/track/4SUtQ1LsaQfA61CUuBuPMo) | [Father's Love Never In Contempt](https://open.spotify.com/artist/5B3BM4VcsFv1U5qZUaJjDv) | [5am Concrete Floor](https://open.spotify.com/album/31XosuzrD8Osj85f2COxd9) | 4:40 | 2026-03-15 |  |
 | [9/11 Dinamite](https://open.spotify.com/track/2ZfSQw1PBEyBt3YQZgZPEV) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 3:08 | 2025-10-22 | 2025-11-28 |
 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 | 2026-03-31 | 2026-04-21 |
@@ -125,9 +126,11 @@
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2025-10-04 | 2025-11-28 |
 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 | 2025-11-22 | 2025-12-17 |
 | [Derinden](https://open.spotify.com/track/0vyrR0lIMW3Kwa9h8BMSgv) | [Smile Dawn](https://open.spotify.com/artist/6AyJiWjRpLlU9bqvkRJaHG) | [Derinden](https://open.spotify.com/album/5fwIEgnXEy3taaBzGYKYbL) | 4:05 | 2025-11-03 | 2025-12-17 |
+| [Desastre](https://open.spotify.com/track/5kREwbnFgF4JT0gvZBzDmM) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [Desastre](https://open.spotify.com/album/3Tx7kwS4LYWTtO71spYXIa) | 2:12 | 2026-06-06 |  |
 | [Desperate Love](https://open.spotify.com/track/4aulyKvga3asNzCNW0zWe6) | [Rick S\. Rose](https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO) | [Desperate Love](https://open.spotify.com/album/7rVuju4acx7WthJiMxx6bK) | 2:56 | 2025-09-21 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-21 |
 | [Die Zeit, die uns bleibt](https://open.spotify.com/track/6z1iaDb6x0eFQwvW2jph8e) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:24 | 2025-10-28 | 2025-12-17 |
+| [Dime](https://open.spotify.com/track/3SZ6y7If8OhjTKfEkfFjbv) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [No Hay Un Lugar a la Vista](https://open.spotify.com/album/2m0JDTrXLnMxq6FP2q8o8l) | 5:09 | 2026-06-06 |  |
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2026-04-14 |  |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Do You Think You Are ...](https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Do You Think You Are ...](https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo) | 3:53 | 2026-04-12 |  |
@@ -386,6 +389,7 @@
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 | 2026-06-04 |  |
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 | 2026-05-26 |
+| [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 |  |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
@@ -436,6 +440,7 @@
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-01-02 | 2026-03-18 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-19 | 2025-12-17 |
 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 | 2025-11-22 | 2025-12-17 |
+| [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 | 2026-06-06 |  |
 | [Soak It Up in Soap Lake](https://open.spotify.com/track/2qulAVfQ7s8GUg9XposEFw) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Soak It Up in Soap Lake](https://open.spotify.com/album/29cVnImqP6FSLlVJ9nU0Po) | 3:12 | 2025-12-29 | 2026-03-18 |
 | [Sol de plata](https://open.spotify.com/track/1dlknX8icptmcv1OLzcVne) | [Por Si Dicen Que Caí](https://open.spotify.com/artist/23LRY8EOOefJ8VsihBF6lM) | [Sol de plata](https://open.spotify.com/album/4bIfqEsGgT61ZNbnfSwqsV) | 5:21 | 2026-01-12 | 2026-03-18 |
 | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/track/2E01jh8rrkNapzVyFyQWzw) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/album/4Atk8Qt7icDaCPFcRbM76v) | 3:27 | 2025-09-01 |  |

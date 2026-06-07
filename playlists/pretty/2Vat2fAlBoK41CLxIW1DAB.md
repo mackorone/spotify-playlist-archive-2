@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,027 songs - 2 day 16 hr 48 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,033 songs - 2 day 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -909,7 +909,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 899 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 |
 | 900 | [Frozen Lusters of Shattered Purity](https://open.spotify.com/track/7s4A4kjY9ZEqioiu08jPyU) | [Trails of Anguish](https://open.spotify.com/artist/6LUo6fHv3BDFWskGqljGlP) | [Frozen Lusters of Shattered Purity](https://open.spotify.com/album/7wk0cRINe5xCLEIb3zzb3h) | 4:24 |
 | 901 | [Devil's Tritone](https://open.spotify.com/track/3iPRRYGK6HDcxWNMebuc60) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Devil's Tritone](https://open.spotify.com/album/2rd9CGbE1VFveckWCmPptu) | 3:06 |
-| 902 | [dying](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 |
+| 902 | [dying \- Demo Version](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying \(Demo Version\)](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 |
 | 903 | [Weak and Tired](https://open.spotify.com/track/0hSQV5d5boeEhXtQ1tzQX7) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 3:07 |
 | 904 | [Amara](https://open.spotify.com/track/7JGWW6ja1OceuBXIYIE6IH) | [B.J Starink](https://open.spotify.com/artist/6tBJu6bwF9iKth36fU4QqB) | [Amara](https://open.spotify.com/album/6aSJ504UDWQm5K8Qz4uvRN) | 2:31 |
 | 905 | [Control Room Lullaby](https://open.spotify.com/track/1qskFetHVqLUEMcnnQAjMl) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:26 |
@@ -1035,5 +1035,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1025 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
 | 1026 | [Selection](https://open.spotify.com/track/73QgeFPtGEvsZyq44q6sdE) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Selection](https://open.spotify.com/album/6smzkuQH1bt4CaQeOsLTjM) | 3:26 |
 | 1027 | [OK](https://open.spotify.com/track/40Xl7Z0IzFWT2R9koXjfWM) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [OK](https://open.spotify.com/album/16AqHuMfOuAtpPHLwi5xZm) | 4:59 |
+| 1028 | [Horizon](https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ) | [Echoeswave](https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P) | [Horizon](https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC) | 3:27 |
+| 1029 | [Running](https://open.spotify.com/track/4vW7O1J1BeWSCbQJ7Jv3V9) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [The Vision](https://open.spotify.com/album/5oWV4RkkOCjWe577NByopU) | 3:36 |
+| 1030 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 |
+| 1031 | [New World Disorder](https://open.spotify.com/track/6wVSfiqid6s1ylZ7jqHTAR) | [Intruder X](https://open.spotify.com/artist/2E8VDadqw9XWUxyggxNUch), [Within Shadows](https://open.spotify.com/artist/0h6y5s8dNwgfvGFrAXzD13) | [New World Disorder](https://open.spotify.com/album/5VQCZ6Isa1vU2713QOiZiZ) | 3:26 |
+| 1032 | [The More I Know You \(The Less I Feel Being a Part of It\)](https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF) | [Set to Change](https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U) | [The Great Nothing](https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8) | 3:54 |
+| 1033 | [Part of the Deal](https://open.spotify.com/track/0hsnlQNXNSqKjFnO6Oj0Jv) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Part of the Deal](https://open.spotify.com/album/0hspMmrXzAYpwBTP3TGs3a) | 3:32 |
 
-Snapshot ID: `AAAEKhgMDgh2tN+lTL3QreKKZ3gABp7h`
+Snapshot ID: `AAAEMMn3l3w9dzQ2asJ97Z60Lclf6o+Z`

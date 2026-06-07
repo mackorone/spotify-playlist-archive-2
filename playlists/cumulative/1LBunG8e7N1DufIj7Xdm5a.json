@@ -10769,6 +10769,24 @@
     },
     {
       "album": {
+        "name": "Chalet",
+        "url": "https://open.spotify.com/album/4Q8KpPk5MLXvIMigNNoiwi"
+      },
+      "artists": [
+        {
+          "name": "SpaceBlankZero",
+          "url": "https://open.spotify.com/artist/2tP1jzPPZ5EAehmL0PjFKd"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261765,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr"
+    },
+    {
+      "album": {
         "name": "VANO SSWIM",
         "url": "https://open.spotify.com/album/5fbvYtvVRVIJbneWM3zIS0"
       },
@@ -80207,7 +80225,7 @@
     },
     {
       "album": {
-        "name": "zero zero bea",
+        "name": "Zero Zero Bea",
         "url": "https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM"
       },
       "artists": [
@@ -80220,7 +80238,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 128840,
-      "name": "zero zero bea",
+      "name": "Zero Zero Bea",
       "url": "https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD"
     },
     {

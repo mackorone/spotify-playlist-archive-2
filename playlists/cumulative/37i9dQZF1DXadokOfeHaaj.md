@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: 1\-800 GIRLS
 
-466 songs - 1 day 5 hr 9 min
+467 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 | 2025-06-06 |
 | [Swim](https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Swim](https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC) | 4:20 | 2025-05-29 | 2026-02-13 |
 | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/track/04vGc65ydCvfyeV9E4vs2l) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel), [Benson](https://open.spotify.com/artist/6XVEZ5mTWp5DpfuFPn1QCz), [Isis Salam](https://open.spotify.com/artist/3bYWS9Hq4G2gF2Cb6rnRb2) | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/album/5m4FJKUGhqsL6OqoxAlqzQ) | 3:09 | 2026-03-13 | 2026-04-17 |
+| [SWITCH](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9), [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 2:44 | 2026-05-29 |  |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
 | [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 | 2026-05-08 |  |
 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 | 2026-02-13 |  |
@@ -460,7 +461,7 @@
 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-05-24 | 2025-09-28 |
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-21 | 2025-02-23 |
 | [We Could Start a War \(Le Boom Remix\)](https://open.spotify.com/track/2YfiKA1LQqzNQSBbMzbYwT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1), [Le Boom](https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp) | [We Could Start a War \(Le Boom Remix\)](https://open.spotify.com/album/0Hz5pB74TFcO0QZDbRTZx6) | 4:00 | 2021-10-28 | 2024-03-01 |
-| [We Go So Good Together](https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [We Go So Good Together](https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI) | 2:49 | 2026-04-30 |  |
+| [We Go So Good Together](https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [We Go So Good Together](https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI) | 2:49 | 2026-04-30 | 2026-06-07 |
 | [Welcome Home](https://open.spotify.com/track/6X4vGx2XIFYFTmeOm142cr) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Welcome Home](https://open.spotify.com/album/2IUiHvXFWEacS7YCnmbvRx) | 3:12 | 2024-03-22 | 2025-02-14 |
 | [Wendy's Yard](https://open.spotify.com/track/50vGM1YiEN3aWv8zLsfqXF) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Wendy's Yard](https://open.spotify.com/album/2Wi2GBAUEzcwlq5pqnx2fk) | 3:35 | 2021-10-28 | 2024-03-02 |
 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 | 2026-03-13 |  |

@@ -51291,6 +51291,24 @@
     },
     {
       "album": {
+        "name": "Gotoubun no Kimochi",
+        "url": "https://open.spotify.com/album/3qf1Z6azFzTUlghCyPWfSX"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Gotoubun no Kimochi",
+      "url": "https://open.spotify.com/track/3XaDR0Rz5FBCB6TdMDEiKP"
+    },
+    {
+      "album": {
         "name": "Lupe Fiasco's The Cool",
         "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
       },

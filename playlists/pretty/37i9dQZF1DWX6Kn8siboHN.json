@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1018922,
+  "num_followers": 1019290,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Ave Cautiva",
-      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Necesito M\u00e1s De Ti",
         "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183653,
       "name": "Sentimientos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Ave Cautiva",
+      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Ayer La Vi Por La Calle",
+      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 192173,
       "name": "Avi\u00e9ntame",
       "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Ayer La Vi Por La Calle",
-      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Dos Coronas a Mi Madre",
-      "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 143426,
       "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Dos Coronas a Mi Madre",
+      "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Desde Hoy",
         "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 181893,
       "name": "Desde Hoy",
       "url": "https://open.spotify.com/track/7i2quJtt4WoI5yE91Cqi7R"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2008,9 +2008,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 153785,
-      "name": "Caricatura",
-      "url": "https://open.spotify.com/track/6VYBAVZUIuUUZbRHEX4mqj"
+      "duration_ms": 142686,
+      "name": "Papalotito",
+      "url": "https://open.spotify.com/track/5xpVSQ3GWrYiwI7ZAHTYXq"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2092,9 +2092,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 142686,
-      "name": "Papalotito",
-      "url": "https://open.spotify.com/track/5xpVSQ3GWrYiwI7ZAHTYXq"
+      "duration_ms": 153785,
+      "name": "Caricatura",
+      "url": "https://open.spotify.com/track/6VYBAVZUIuUUZbRHEX4mqj"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2867,22 +2867,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
@@ -2895,6 +2879,22 @@
       "duration_ms": 193440,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 145986,
-      "name": "La Pera Madura",
-      "url": "https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 264546,
       "name": "T\u00fa como si nada",
       "url": "https://open.spotify.com/track/46VJjtQLa0ZuVYu3UaZCJY"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 145986,
+      "name": "La Pera Madura",
+      "url": "https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2995,8 +2995,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Amor Vaquero",
-        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
+        "name": "Seis Rosas Amarillas",
+        "url": "https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf"
       },
       "artists": [
         {
@@ -3004,9 +3004,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+      "duration_ms": 141200,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/5pXmkweVbVGC5q7X6jxO0Z"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3075,8 +3075,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Seis Rosas Amarillas",
-        "url": "https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf"
+        "name": "Amor Vaquero",
+        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
       },
       "artists": [
         {
@@ -3084,9 +3084,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 141200,
-      "name": "No Porque Seas T\u00fa",
-      "url": "https://open.spotify.com/track/5pXmkweVbVGC5q7X6jxO0Z"
+      "duration_ms": 224360,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3447,18 +3447,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Otro Mexico",
-        "url": "https://open.spotify.com/album/6mmUfMH1cvixYvevGDPoO0"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/2ZKVSbsJbwb3P74z5KdDnV"
+      "duration_ms": 170733,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6ocILC6CtzRafliMZyPIcm"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3495,18 +3495,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "El Otro Mexico",
+        "url": "https://open.spotify.com/album/6mmUfMH1cvixYvevGDPoO0"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 170733,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6ocILC6CtzRafliMZyPIcm"
+      "duration_ms": 175440,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/2ZKVSbsJbwb3P74z5KdDnV"
     },
     {
       "added_at": "2026-03-10 01:04:29",

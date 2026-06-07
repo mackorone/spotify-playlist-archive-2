@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,438 songs - 9 day 21 hr 21 min
+4,439 songs - 9 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2025-11-03 |  |
 | [Chains of Oblivion](https://open.spotify.com/track/0zt3mMu7GEWQotPxHoJTQ2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:54 | 2025-09-10 |  |
 | [Chakra Sacro \(Donde El Deseo Canta\)](https://open.spotify.com/track/4AFoPljV5M0rQ74WQBWbmt) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Sacro \(Donde El Deseo Canta\)](https://open.spotify.com/album/6Cjo3cVtHQhpaHSiYxC9Rx) | 2:36 | 2025-12-29 |  |
+| [Chalet](https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr) | [SpaceBlankZero](https://open.spotify.com/artist/2tP1jzPPZ5EAehmL0PjFKd) | [Chalet](https://open.spotify.com/album/4Q8KpPk5MLXvIMigNNoiwi) | 4:21 | 2026-06-06 |  |
 | [chances](https://open.spotify.com/track/7EKCmSaglanEVHI9dCJsgd) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx) | [VANO SSWIM](https://open.spotify.com/album/5fbvYtvVRVIJbneWM3zIS0) | 2:18 | 2025-05-16 |  |
 | [Change](https://open.spotify.com/track/0EiXA1gHsXasUgR9GxhjeE) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Change](https://open.spotify.com/album/4Nyh55xw3K3VvNDiBcJlt6) | 3:11 | 2025-07-02 |  |
 | [Chaos](https://open.spotify.com/track/6Bmrr7zo03wZaRW55eDMRX) | [Mugen Le Nomade](https://open.spotify.com/artist/3HBiBPZkPgI0k1pIByD4OK), [Styf](https://open.spotify.com/artist/28Cfn7vhER9jT7Uo7IoJFs), [SKZ Magora](https://open.spotify.com/artist/30rUoTwmb83nqQpOiOcDR3) | [Yuugure](https://open.spotify.com/album/0RjnHZlQ2uCG4kFOoGNRWt) | 3:34 | 2025-06-04 |  |
@@ -4389,7 +4390,7 @@
 | [Zen Koan](https://open.spotify.com/track/4SaANCmIfG3eYDzJ7aVLet) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Zazen Meditation](https://open.spotify.com/album/6wu0bKtuotQ0bV8N3Y1ieR) | 6:57 | 2025-06-04 |  |
 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 | 2025-12-10 |  |
 | [Zero Gravity](https://open.spotify.com/track/1zC8uIXdYnicDve8VmXga0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 2:49 | 2025-09-12 |  |
-| [zero zero bea](https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [zero zero bea](https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM) | 2:08 | 2025-12-10 |  |
+| [Zero Zero Bea](https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zero Zero Bea](https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM) | 2:08 | 2025-12-10 |  |
 | [Ziamla](https://open.spotify.com/track/0sf039XhHo3xCOJo19hhQJ) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Ziamla](https://open.spotify.com/album/6b8QcWX9LtTQ7CKwnkIsai) | 4:43 | 2025-09-10 |  |
 | [Zigga‑Zigga Night Bite](https://open.spotify.com/track/0RLb9JlWVTqVyXg9jz0AbA) | [NEON VIPERS](https://open.spotify.com/artist/3cjnOyasWuvHhm4ULWKbyg) | [Zigga‑Zigga Night Bite](https://open.spotify.com/album/51swdvcBBbPEzRWtKz9OMo) | 3:45 | 2026-01-14 |  |
 | [Zip Code Blues](https://open.spotify.com/track/0LDkJG5xMCeB9O7EnjIZ7U) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:06 | 2026-04-13 |  |

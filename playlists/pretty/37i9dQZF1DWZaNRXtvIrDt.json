@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Surusinghe",
-  "num_followers": 129692,
+  "num_followers": 129688,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
     },
     {
+      "added_at": "2026-05-21 14:00:31",
+      "album": {
+        "name": "Spiralen",
+        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 437809,
+      "name": "Spiralen",
+      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Leave Your Life",
@@ -675,22 +691,6 @@
       "duration_ms": 126998,
       "name": "Lazy Haze",
       "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
-    },
-    {
-      "added_at": "2026-05-21 14:00:31",
-      "album": {
-        "name": "Spiralen",
-        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 437809,
-      "name": "Spiralen",
-      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
     },
     {
       "added_at": "2026-05-06 00:22:41",

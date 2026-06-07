@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAL9jq6jbG9AHQLQdrJRIDKMYTO57GT",
+  "snapshot_id": "AAAL92nHiAdpsrEIKgqgTSrWDk+FXd5i",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149711,6 +149711,22 @@
       "duration_ms": 555000,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0"
+    },
+    {
+      "added_at": "2026-06-06 07:36:56",
+      "album": {
+        "name": "Gotoubun no Kimochi",
+        "url": "https://open.spotify.com/album/3qf1Z6azFzTUlghCyPWfSX"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Gotoubun no Kimochi",
+      "url": "https://open.spotify.com/track/3XaDR0Rz5FBCB6TdMDEiKP"
     }
   ],
   "unique_name": "Purge",

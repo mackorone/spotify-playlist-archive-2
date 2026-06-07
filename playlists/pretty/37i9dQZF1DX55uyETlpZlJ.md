@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Gubbi \- Sumanth Shetty
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,029 likes - 82 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,035 likes - 82 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 81 | [Pappi Kodabek Anisaithi](https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs) | [Shivu Bhergi](https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Pappi Kodabek Anisaithi](https://open.spotify.com/album/51n3dJlCVjis0ESErlmLuQ) | 4:24 |
 | 82 | [Laka Laka Holital](https://open.spotify.com/track/2xV18yzxS5hKV6Deyw8H6C) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Laka Laka Holital](https://open.spotify.com/album/3UY814OvTq1TeUJExox6g5) | 5:08 |
 
-Snapshot ID: `AAAAAE1v/7uMeh+lRfvIhow9+l+rWsKs`
+Snapshot ID: `AAAAAFnduPcTH7BuwOd6r9KOoDWfIo3M`

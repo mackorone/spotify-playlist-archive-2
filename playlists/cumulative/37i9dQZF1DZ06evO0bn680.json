@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 228040,
       "name": "Ave verum corpus, T. 92",
       "url": "https://open.spotify.com/track/3LldoWLGpIfSnyovRXAQEo"
@@ -474,32 +474,6 @@
       "duration_ms": 261120,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/7BDaiPnlCrpW6wfa8tixpe"
-    },
-    {
-      "album": {
-        "name": "Faire Is the Heaven: Music Of the English Church",
-        "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
-      },
-      "artists": [
-        {
-          "name": "William Byrd",
-          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "date_added": "2026-01-03",
-      "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
-      "duration_ms": 231160,
-      "name": "Cantiones sacrae II: Miserere mei",
-      "url": "https://open.spotify.com/track/12Sd37QDsmHzFjXJnuKEbr"
     },
     {
       "album": {
@@ -1148,7 +1122,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 188426,
       "name": "III. Sanctus",
       "url": "https://open.spotify.com/track/69Vv9R3pQUli6Blios34An"
@@ -1491,6 +1465,32 @@
     },
     {
       "album": {
+        "name": "Faire Is the Heaven: Music Of the English Church",
+        "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Miserere mei",
+      "url": "https://open.spotify.com/track/12Sd37QDsmHzFjXJnuKEbr"
+    },
+    {
+      "album": {
         "name": "Rutter: The Gift of Life",
         "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
       },
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 153520,
       "name": "Tantum ergo, Op. 65 No. 2",
       "url": "https://open.spotify.com/track/7kDrBMGLGAvipsuXfZ2lY5"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 151280,
       "name": "Te lucis ante terminum",
       "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 311600,
       "name": "VI. The Lord Is my Shepherd",
       "url": "https://open.spotify.com/track/3G6b97LZYDBzGewYbakvlI"

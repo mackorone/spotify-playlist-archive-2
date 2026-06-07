@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,450 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,491 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [NNA \(New National Anthem\)](https://open.spotify.com/track/2bW3qn062loP8qjOdZiieQ) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Sparkle T](https://open.spotify.com/artist/0UCb8sjEsbGms7ePMyJuwo), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [NNA \(New National Anthem\)](https://open.spotify.com/album/3lhqKsksuP6CKHpLd0QHUE) | 2:37 |
 | 60 | [Orishirishi](https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Pick 2](https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7) | 3:19 |
 
-Snapshot ID: `AAAAAEJ/mSXKXC7B6aog06Ntkxsa7fjy`
+Snapshot ID: `AAAAAAxi/GRtf1oaljEQ8mSivLMFtjm7`

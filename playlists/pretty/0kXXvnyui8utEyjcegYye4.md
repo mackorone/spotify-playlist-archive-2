@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 358 songs - 21 hr 10 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 359 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -366,5 +366,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 356 | [desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/1MLE2PAPlgYvN9yKfbzcCN) | 3:50 |
 | 357 | [Give You Up \(feat\. Alex Clare\)](https://open.spotify.com/track/692ysOUhsvSSQcoeXcel7l) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Home \(10th Anniversary Edition\)](https://open.spotify.com/album/3k5awyxfflQsiCRuwUfbm3) | 5:01 |
 | 358 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
+| 359 | [Tout donner \- Guitar](https://open.spotify.com/track/0Uxpnw7kUWQQ8TtXle4riq) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3) | [Tout donner \(Guitar\)](https://open.spotify.com/album/4FeLL5CvqtuWHzb2l2KH01) | 2:22 |
 
-Snapshot ID: `AAADojSK1224GC2+3i4PclgKXJiRG5Ok`
+Snapshot ID: `AAADpdFMJaC0i/I2/6ejlJ4v0b5pVSGw`

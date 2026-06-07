@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,386 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,407 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [i can see ur progress from here](https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Briana Bene](https://open.spotify.com/artist/2BYw0kqiNbjtp1clFthnGe) | [i can see ur progress from here](https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn) | 4:00 |
 | 80 | [Praise](https://open.spotify.com/track/6Iw6zKLGUzZajXl8NFuZQf) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Praise](https://open.spotify.com/album/7q5Ok4Iz4Z4UfNPrlh3xQL) | 2:18 |
 
-Snapshot ID: `AAAAAE4uyPnKgw9mDCruT64GANIf33Qu`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

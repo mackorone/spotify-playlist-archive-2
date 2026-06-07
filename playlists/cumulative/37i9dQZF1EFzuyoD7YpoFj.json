@@ -9956,10 +9956,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 201000,
       "name": "So Near And Yet So Far",
       "url": "https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson Plays Cole Porter",
+        "url": "https://open.spotify.com/album/4RNHCcbAPJDPppHDX2uSsG"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "So Near And Yet So Far",
+      "url": "https://open.spotify.com/track/6WhfrYgAxts0SKxwoECztB"
     },
     {
       "album": {

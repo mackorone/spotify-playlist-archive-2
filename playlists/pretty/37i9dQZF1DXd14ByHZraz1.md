@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Knorst
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,966 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,894 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Go Back](https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Go Back](https://open.spotify.com/album/4hB27f2YOy4SLCk71mm2r5) | 2:44 |
 | 50 | [Empurra](https://open.spotify.com/track/4WMZgxtddABWMvqpRqXdsN) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Guilherme Rossi](https://open.spotify.com/artist/7qYHSpBovO9VuKmQtpEHsh) | [Empurra](https://open.spotify.com/album/11deGutI6A6LfMKcgQ9ftV) | 2:49 |
 
-Snapshot ID: `AAAAABzLrEH1wRkF8oWOUV77AH7uHk5g`
+Snapshot ID: `AAAAAAazSyPLmw4rzz66jBMkd7y2+oTS`

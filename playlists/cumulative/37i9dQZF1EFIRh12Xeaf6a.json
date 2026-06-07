@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 149400,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG"
@@ -4234,6 +4234,24 @@
       "duration_ms": 149440,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/1v3Lu8QaUWxniD9munjJ0l"
+    },
+    {
+      "album": {
+        "name": "Tears In The Rain",
+        "url": "https://open.spotify.com/album/4vW1xVntgPAxyw0a1pVtzP"
+      },
+      "artists": [
+        {
+          "name": "Timi Yuro",
+          "url": "https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "Look Down",
+      "url": "https://open.spotify.com/track/2JTDO5Y6K4aLA1SgpWidjq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus and Tasch\u00e9",
-  "num_followers": 27805,
+  "num_followers": 27812,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "My Huis",
-        "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
       "artists": [
         {
-          "name": "Van Der Aven",
-          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 210092,
-      "name": "My Huis",
-      "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -467,18 +463,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+        "name": "My Huis",
+        "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
       },
       "artists": [
         {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+      "duration_ms": 210092,
+      "name": "My Huis",
+      "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 166031,
       "name": "Gatvol",
       "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-04-24 09:03:29",

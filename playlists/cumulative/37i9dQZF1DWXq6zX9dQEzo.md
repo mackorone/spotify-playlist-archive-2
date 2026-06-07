@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-955 songs - 1 day 21 hr 15 min
+956 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [On Point](https://open.spotify.com/track/0HzyRWnahxFFPpZtuJFSIU) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On Point](https://open.spotify.com/album/5Z5S2eo9G2DBDwBFYlLhdm) | 2:32 | 2022-03-11 | 2022-03-24 |
 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 | 2022-05-28 | 2024-01-13 |
 | [On The Move](https://open.spotify.com/track/18WFulRBbY7YarGcqcf1kU) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [On The Move](https://open.spotify.com/album/3Z560AcJBJdBmI7WZ75kz1) | 2:12 | 2025-11-07 |  |
+| [One Accord](https://open.spotify.com/track/0xSfb2NBVIH8xHXc35AKlK) | [RESEY](https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304), [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh) | [One Accord](https://open.spotify.com/album/5sNUOz1lV1ztXrPr9s57DK) | 3:05 | 2026-05-29 |  |
 | [One Call](https://open.spotify.com/track/1mZCwJiRpLc0Jv0941ixvo) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:29 | 2022-02-04 | 2023-08-12 |
 | [ONE FOR THE BOOKS](https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [ONE FOR THE BOOKS](https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc) | 2:49 | 2025-04-04 | 2026-05-01 |
 | [One of Them Ones](https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [One of Them Ones](https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5) | 2:17 | 2025-08-07 |  |
@@ -828,7 +829,7 @@
 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 | 2022-12-16 | 2024-01-13 |
 | [The Way](https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [The Way](https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi) | 2:15 | 2025-07-18 |  |
 | [The Way You Act](https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The Way You Act](https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9) | 2:10 | 2024-03-20 | 2024-11-09 |
-| [Theme Music](https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Theme Music](https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr) | 3:07 | 2024-11-08 |  |
+| [Theme Music](https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Theme Music](https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr) | 3:07 | 2024-11-08 | 2026-06-07 |
 | [THESE DAYS](https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [THESE DAYS](https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN) | 3:35 | 2022-08-06 | 2022-11-05 |
 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 | 2022-04-30 | 2023-08-12 |
 | [Third Day \(feat\. Ty Brasel\)](https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:09 | 2023-11-02 | 2024-02-03 |

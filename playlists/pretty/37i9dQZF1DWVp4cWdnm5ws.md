@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: VVINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,638 likes - 38 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,640 likes - 38 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

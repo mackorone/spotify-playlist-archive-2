@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 28475,
+  "num_followers": 28525,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-30 05:02:38",
       "album": {
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+      },
+      "artists": [
+        {
+          "name": "TESTSET",
+          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "Dry Action Pump",
+      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
+    },
+    {
+      "added_at": "2026-05-30 05:02:38",
+      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
-    },
-    {
-      "added_at": "2026-05-30 05:02:38",
-      "album": {
-        "name": "ALL HAZE",
-        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
-      },
-      "artists": [
-        {
-          "name": "TESTSET",
-          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "Dry Action Pump",
-      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
     },
     {
       "added_at": "2026-05-30 05:02:38",

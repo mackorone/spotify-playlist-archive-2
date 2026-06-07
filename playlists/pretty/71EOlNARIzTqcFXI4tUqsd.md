@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71EOlNARIzTqcFXI4tUqsd.md) - [plain]
 
 > A playlist for yoga, mindfulness and meditation.
 
-[Above & Beyond](https://open.spotify.com/user/aboveandbeyondofficial) - 27,415 likes - 40 songs - 2 hr 48 min
+[Above & Beyond](https://open.spotify.com/user/aboveandbeyondofficial) - 27,414 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/71EOlNARIzTqcFXI4tUqsd.md) - [plain]
 | 22 | [In The Stillness Of Time And Space, Truth And Love Still Reside](https://open.spotify.com/track/6xyJA4S2kXq3yMubZt84M7) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Epilogue / One Year Later](https://open.spotify.com/album/2lmhJy48slUr9dgNLGIE6x) | 5:34 |
 | 23 | [tides](https://open.spotify.com/track/1CSUy5CyCyJztKpjoXJ4lt) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 8:29 |
 | 24 | [Ethereal \- Rework](https://open.spotify.com/track/0QQ7w1maDYxm53x6Q8D3P1) | [Samyula](https://open.spotify.com/artist/6fP1wfaVmYOX7XY3VCIAFd), [Joan Arnau Pàmies](https://open.spotify.com/artist/6fYYhFSY6QIsuCZNG29SYb) | [Ethereal](https://open.spotify.com/album/1xGevBVaTRlcwO2nZOzgvL) | 3:10 |
-| 25 | [Interlude](https://open.spotify.com/track/1AiJuiV2Skc6iQ5ODaUHDH) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Longing EP](https://open.spotify.com/album/1JN4XsXhTnQ6WmNkAVvh5j) | 2:24 |
+| 25 | [Interlude](https://open.spotify.com/track/1AiJuiV2Skc6iQ5ODaUHDH) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Longing EP](https://open.spotify.com/album/1JN4XsXhTnQ6WmNkAVvh5j) | 2:24 |
 | 26 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 |
 | 27 | [The Light Is Still There](https://open.spotify.com/track/6PvzSHb1sm2Mkq1mq9xPfq) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 4:07 |
 | 28 | [Close](https://open.spotify.com/track/3CNUqBMySkCZFabLlTknXe) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 2:03 |

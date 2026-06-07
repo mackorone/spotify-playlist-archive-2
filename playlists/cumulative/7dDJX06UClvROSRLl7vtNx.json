@@ -2622,6 +2622,24 @@
     {
       "album": {
         "name": "Bloom",
+        "url": "https://open.spotify.com/album/7t8IzmWt47BIXX4NFbPT8s"
+      },
+      "artists": [
+        {
+          "name": "Le Jardin Secret",
+          "url": "https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135995,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/77Sm1oar22gMXxGBJHB5HI"
+    },
+    {
+      "album": {
+        "name": "Bloom",
         "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
       },
       "artists": [

@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Ensemble doux",
+        "url": "https://open.spotify.com/album/2cIThJvODqTXIoccHQPl1V"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Emm\u00e8ne-moi - version Ensemble doux",
+      "url": "https://open.spotify.com/track/0Z8Td8av7oliNp1m1Qj3vr"
+    },
+    {
+      "album": {
         "name": "En attendant l'aube",
         "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 300640,
       "name": "Funhouse",
       "url": "https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC"

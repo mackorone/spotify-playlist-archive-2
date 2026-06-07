@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Cashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,286 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,264 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Questão de Tempo](https://open.spotify.com/track/6BCy8MRzxlyYe0m1QPXrVa) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Questão de Tempo](https://open.spotify.com/album/4q2tM1I0t2rodhMNHS8FLO) | 2:06 |
 | 75 | [SUPERMAN](https://open.spotify.com/track/10FWJykEOpRlob3hKXFX8t) | [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Yoko](https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH), [bwhatudoin](https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR) | [VETIIIN & PSIIIKO](https://open.spotify.com/album/6oCtv8Id0TnwocJ47PJ44U) | 2:14 |
 
-Snapshot ID: `AAAAADFUmMVRIlmMlXmX0Xph7lwPapJX`
+Snapshot ID: `AAAAAEK+lmFmw2uSwx1K6W+lgz9XAnut`

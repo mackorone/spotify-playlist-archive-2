@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-537 songs - 1 day 4 hr 19 min
+538 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Pop Rocks](https://open.spotify.com/track/2s7CHkCAkTKVPhRWiPcOa6) | [Cherry Hencefox](https://open.spotify.com/artist/75vbeFCGdoCdbK6M8aBVta) | [Pop Rocks](https://open.spotify.com/album/2FEABvDtGdO5nhUVFQGbiE) | 3:12 | 2024-10-11 | 2026-03-01 |
 | [POP! THAT! POOLTOY! \- WONDER MIX](https://open.spotify.com/track/4x4tUMqjPl8UHS13pMybbm) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [camelCase](https://open.spotify.com/album/7FVvGt3r2POOmQDdNbBv3n) | 1:33 | 2026-01-19 |  |
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
+| [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 | 2026-06-06 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
 | [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 | 2025-11-01 |  |

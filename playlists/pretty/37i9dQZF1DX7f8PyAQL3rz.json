@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1445909,
+  "num_followers": 1445817,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "BOM E NOVO",
+      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "OUTRA",
         "url": "https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz"
       },
@@ -287,26 +307,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "BOM E NOVO",
-      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
         "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
       },
@@ -327,6 +327,38 @@
       "duration_ms": 157612,
       "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
       "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -375,38 +407,6 @@
       "duration_ms": 206017,
       "name": "Bolad\u00e3o Escutando Orochi",
       "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Pacman de Panicat",
-        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 251539,
-      "name": "Pacman de Panicat",
-      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -671,34 +671,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "S\u00f3 Lazer",
-        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "S\u00f3 Lazer",
-      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
       },
@@ -723,6 +695,34 @@
       "duration_ms": 210000,
       "name": "Particular",
       "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "S\u00f3 Lazer",
+        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "S\u00f3 Lazer",
+      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -975,6 +975,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
+      },
+      "artists": [
+        {
+          "name": "DJ VINI DA ZO",
+          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
+        },
+        {
+          "name": "Authentic Records",
+          "url": "https://open.spotify.com/artist/7Fu0G22HFwOPgE2P3PISz7"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Procedimento",
+      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
-      },
-      "artists": [
-        {
-          "name": "DJ VINI DA ZO",
-          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
-        },
-        {
-          "name": "Authentic Records",
-          "url": "https://open.spotify.com/artist/7Fu0G22HFwOPgE2P3PISz7"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Procedimento",
-      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
     },
     {
       "added_at": "2026-05-22 03:01:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Chand Mera Dil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,123 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,270 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Tumne Dil Diya Nahi](https://open.spotify.com/track/25ktnBHg9q8moprzrRLYTP) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Tumne Dil Diya Nahi](https://open.spotify.com/album/17h3MEQjqHtbgp5Eq4X1J4) | 3:05 |
 | 75 | [Haathon Ki Dawa](https://open.spotify.com/track/2YPSC3zuWiqbZ9w3d38BpC) | [Arjun Tanwar](https://open.spotify.com/artist/4zTNA5UtD8nSTJtWvty6DX), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Devendra Dangi](https://open.spotify.com/artist/00Rd0QgyKTupYWGE2eVoqd) | [Haathon Ki Dawa](https://open.spotify.com/album/3P0jLy3mOh0vJDhtaUXL6A) | 3:57 |
 
-Snapshot ID: `AAAAABevhAcZRmyBZD+PUdIBpVsJ9v0R`
+Snapshot ID: `AAAAAOnvoGSoilWdRkeAVFdPmBUaqSNd`

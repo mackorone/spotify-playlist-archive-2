@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Morro Fuji
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,267 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,085 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [Me Pede](https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC) | [Karla Hill](https://open.spotify.com/artist/06OHroQpGdXwvdSJIfJdMC) | [Me Pede](https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad) | 2:59 |
 | 72 | [Sabo](https://open.spotify.com/track/0ABwGonw1WbL4BouDlRgeO) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top), [Sessões Selo Sesc](https://open.spotify.com/artist/5UAhmzty3dTzxnMzn1aWuU) | [Sabo](https://open.spotify.com/album/2bW3OKawZMlsEwunwtWjAk) | 8:05 |
 
-Snapshot ID: `AAAAADQaSTUaiiqGGJN3r86NwaAEDedu`
+Snapshot ID: `AAAAAFIWlb96Js4wnY0CtG6dy8Z6i+sz`

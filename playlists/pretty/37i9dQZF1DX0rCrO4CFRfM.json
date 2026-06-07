@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1092559,
+  "num_followers": 1092683,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "duration_ms": 237369,
+      "name": "Crash Land",
+      "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
-      },
-      "artists": [
-        {
-          "name": "Twin Atlantic",
-          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
-        }
-      ],
-      "duration_ms": 237369,
-      "name": "Crash Land",
-      "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
     },
     {
       "added_at": "2026-04-08 19:46:17",

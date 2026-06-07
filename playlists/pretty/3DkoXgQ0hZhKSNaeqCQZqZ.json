@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFVpgiWMuv735Cl1YA4oSHB61cmtNQ",
+  "snapshot_id": "AAAFV9AyVgl8oEpvGPgb0QdPmo0B0HJP",
   "tracks": [
+    {
+      "added_at": "2026-06-06 05:39:31",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7"
+      },
+      "artists": [
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "PORTALS",
+      "url": "https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov"
+    },
     {
       "added_at": "2026-05-30 20:49:39",
       "album": {

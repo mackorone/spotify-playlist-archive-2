@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 54 min
+106 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Shovel In Hand \- 2025 Remaster](https://open.spotify.com/track/2scLfUCdzBYORZSL2dHQNV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 3:35 | 2025-04-13 | 2025-04-15 |
 | [Sing Your Praise To The Lord](https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:17 | 2023-04-02 |  |
 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 | 2024-03-23 | 2025-12-25 |
+| [Somewhere Down The Road](https://open.spotify.com/track/63VewBt9Bbb4QntRb7mZ9S) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 5:09 | 2026-06-07 |  |
 | [Somewhere Somehow](https://open.spotify.com/track/52wbWBHEdMoGwO0zBo9FLS) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Change Your World](https://open.spotify.com/album/4e09Ygjp2WiHzqXqV1J1HR) | 4:15 | 2023-04-02 |  |
 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 | 2023-04-02 |  |
 | [Takes A Little Time](https://open.spotify.com/track/7hrwRUVE2exQkdZWjWl46i) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 4:32 | 2023-04-02 | 2023-04-16 |
@@ -100,7 +101,7 @@
 | [This Is My Father's World](https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:05 | 2023-04-02 |  |
 | [Thy Word](https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:20 | 2023-04-02 |  |
 | [Thy Word](https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tranquility](https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC) | 3:59 | 2024-04-15 | 2026-06-05 |
-| [Til We Get It Right](https://open.spotify.com/track/1yI5MqoPyDuWhG8EJZssQJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:18 | 2026-05-11 |  |
+| [Til We Get It Right](https://open.spotify.com/track/1yI5MqoPyDuWhG8EJZssQJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:18 | 2026-05-11 | 2026-06-07 |
 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-04-02 | 2024-07-11 |
 | [Trees We'll Never See \- 2025 Remaster](https://open.spotify.com/track/0K8WlmlJH688TSXqHq6ch6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:06 | 2025-04-11 | 2025-04-25 |
 | [We Believe In God](https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 3:42 | 2024-03-25 | 2024-07-27 |

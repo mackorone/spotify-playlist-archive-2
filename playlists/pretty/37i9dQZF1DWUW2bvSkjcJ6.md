@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Alex Warren, badmómzjay, Taylor Swift, RAF Camora & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,104 likes - 89 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,070 likes - 89 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

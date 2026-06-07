@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 | 49 | [You Are My Stillness](https://open.spotify.com/track/0JRc9eCSQodC7Pq0Tjc5j5) | [Nilo Arden](https://open.spotify.com/artist/0xiYjInACyyeQFz5MMYYXI) | [You Are My Stillness](https://open.spotify.com/album/7B1L6FeA2UdWLJQFTyD2qb) | 2:28 |
 | 50 | [Oregon](https://open.spotify.com/track/4mUy6zIjxgGNgQlb30OSu9) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Oregon](https://open.spotify.com/album/2HEky0wIcjbSnYvo0kbyMh) | 2:06 |
 
-Snapshot ID: `AAAAAJWLO+s33wjq35nULiL/839Zs053`
+Snapshot ID: `AAAAAOMgeviUIbsV6FECks57Dhcj7lmU`

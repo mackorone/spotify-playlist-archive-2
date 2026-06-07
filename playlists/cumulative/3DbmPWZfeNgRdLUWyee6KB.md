@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,146 songs - 2 day 18 hr 59 min
+1,147 songs - 2 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Ritmo magnetico solare](https://open.spotify.com/track/5xTFotBEtNDdDirTt0JvDb) | [Humanoira](https://open.spotify.com/artist/3NSB6J5aWZa6QiVy31fjeg) | [Ritmo magnetico solare](https://open.spotify.com/album/2rmopc5Y9DONiFrF56F8k9) | 3:02 | 2026-05-11 |  |
 | [Ritorno dove sei](https://open.spotify.com/track/6OMcPolvYS6yR3PldGmJV9) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [Ritorno dove sei](https://open.spotify.com/album/5kLBuU4Hf2x0TYRBFem4TD) | 2:32 | 2026-02-19 | 2026-03-25 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-01-14 | 2026-02-20 |
+| [River](https://open.spotify.com/track/412EkWJlA3JvXKoLFNNEOC) | [Espiica](https://open.spotify.com/artist/3vSv3lvd46wOI2TuMnJEIo) | [You will find me](https://open.spotify.com/album/77yXoXeAtEELY8z5nUFNxz) | 3:49 | 2026-06-06 |  |
 | [roaches.](https://open.spotify.com/track/47kdMhdwMkt16EAbeLcU9a) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [roaches.](https://open.spotify.com/album/4DvKJrvA1W9faFzLljxIOk) | 3:25 | 2026-04-04 | 2026-05-03 |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 | 2026-03-15 |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |

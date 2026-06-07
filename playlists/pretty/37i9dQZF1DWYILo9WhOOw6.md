@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,725 likes - 148 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,073 likes - 148 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 74 | [Delta Dream Waves 92\-93 Hz](https://open.spotify.com/track/3u6RsS3J0W1RI8UWglidfL) | [Gilbert Frost](https://open.spotify.com/artist/2uyHDj3s1k5eEG46b0pj3h) | [Delta Dream Waves 92\-93 Hz](https://open.spotify.com/album/3FtpjvD02zagd5oAYvT9jl) | 2:35 |
 | 75 | [Calm Body \(Delta Binaural\)](https://open.spotify.com/track/4JTKJY41QWzUkbPKl8iMCx) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Calm Body \(Delta Binaural\)](https://open.spotify.com/album/6jVgqv97W8bopZZNf0RyBF) | 3:02 |
 | 76 | [Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/3yvLiFaVGniTSJkBK9P5VS) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Beatwaves](https://open.spotify.com/album/21Knlncq1KCJSkGyKbMIle) | 3:36 |
-| 77 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
+| 77 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
 | 78 | [Serene Delta Sleep 87 Hz \- 89 Hz](https://open.spotify.com/track/6QAj5dBVnrM3gkSf7x1hz6) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 |
 | 79 | [Binaural Beats \(Delta Waves\)](https://open.spotify.com/track/2dsPYdcL9KKG0ZI2FStaWL) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 2:00 |
 | 80 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/55pBir93rpXVpVy66IFwcZ) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 108 | [Delta Scribe](https://open.spotify.com/track/5neKlqSv2txl3ai2OTWJfl) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Delta Scribe \(model 2.58\)](https://open.spotify.com/album/0rrkOPWPNrvM79MPzSuJSw) | 2:58 |
 | 109 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0aCtkobwvfX2RcSQxh4gam) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 |
 | 110 | [Abyssal Hibernation \(Delta Drone L144Hz R147Hz\)](https://open.spotify.com/track/7jhb9dcIOBSghyCuhHGfV1) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:12 |
-| 111 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
+| 111 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
 | 112 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 |
 | 113 | [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 |
 | 114 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/1AfGmFpuMLBOHl2nWCqjYt) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 |

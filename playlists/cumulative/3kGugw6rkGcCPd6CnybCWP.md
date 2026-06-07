@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-396 songs - 22 hr 57 min
+401 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 | 2026-04-20 |  |
 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 | 2026-02-28 | 2026-04-16 |
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 | 2026-04-16 |
+| [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 | 2026-06-06 |  |
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 | 2026-04-16 |
 | [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 | 2026-04-18 |  |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
@@ -115,6 +116,7 @@
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2026-02-07 | 2026-03-29 |
 | [Dusty](https://open.spotify.com/track/5hWvpIKz06G3iKvQaU2zXT) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Dusty](https://open.spotify.com/album/2JedsFcyYV4MxfQPjRHFBA) | 3:10 | 2026-04-12 |  |
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-10-30 | 2025-12-02 |
+| [Easy](https://open.spotify.com/track/6cPI75yJd5X6bi0vOdkfO5) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Easy](https://open.spotify.com/album/4OIswuazVrnbDh9Vm7Vg6B) | 4:35 | 2026-06-06 |  |
 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-04-29 |  |
 | [Emily's Song](https://open.spotify.com/track/5x8AB0H9SrB2BDY05o8iqv) | [Ventrelles](https://open.spotify.com/artist/7JTOVfG953bnJ6u3l815qh) | [Emily's Song](https://open.spotify.com/album/0pbmJH13H4RYEca7gUZ9E8) | 3:27 | 2025-11-02 | 2026-01-17 |
 | [ENERGY 2](https://open.spotify.com/track/26Q4qA2QVYisQ6IopZW8y5) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [ENERGY 2](https://open.spotify.com/album/6GtP13hzBJ5ZXygoiWbq2A) | 2:20 | 2026-02-08 | 2026-03-29 |
@@ -282,6 +284,7 @@
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 | 2026-02-07 |
 | [Raus](https://open.spotify.com/track/2Luvadk0jM5Y0B7OHNbayv) | [FeurigSeinPeter](https://open.spotify.com/artist/3fRgqO0ZWF9QIrecV5gRnE) | [Raus](https://open.spotify.com/album/2OMxNLz9muDtVN280h3FEf) | 2:53 | 2026-03-26 | 2026-04-21 |
 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 | 2026-03-18 | 2026-04-21 |
+| [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 | 2026-06-06 |  |
 | [Red Stain](https://open.spotify.com/track/1B9QyAQ7n93w9d39YxdIac) | [9VOLT](https://open.spotify.com/artist/1yGIUUNxhETK7t4ccYvaIF) | [Hard to Get Out](https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs) | 1:54 | 2026-04-20 |  |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 | 2026-05-27 |  |
@@ -299,6 +302,7 @@
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |
 | [Sick of Myself](https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Sick of Myself](https://open.spotify.com/album/5Z7he63upehCw75oRrZvuN) | 4:16 | 2026-05-10 |  |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 | 2026-03-20 |
+| [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 | 2026-06-06 |  |
 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 | 2026-02-08 | 2026-03-29 |
 | [Soapbox](https://open.spotify.com/track/5dF2so4iVS7MjyUaqoeSkD) | [Spensir](https://open.spotify.com/artist/67aFZmd5O1su4iCxh5z3UN) | [Soapbox](https://open.spotify.com/album/6AxHeLtZC6Vsc4sF0lfFBt) | 4:05 | 2026-02-25 | 2026-04-16 |
 | [Softly](https://open.spotify.com/track/3AJZARxMi3iPi6vPQxPTKN) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [INFINITY MIRROR](https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B) | 3:41 | 2025-10-26 | 2025-12-12 |
@@ -368,6 +372,7 @@
 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 | 2026-05-07 |  |
 | [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 | 2026-04-15 |  |
 | [wakingup](https://open.spotify.com/track/61IzD2tH1liMWYuvxleKUm) | [aerial.aiff](https://open.spotify.com/artist/56xvmBfz3DGvEjJKVi3JWg) | [wakingup](https://open.spotify.com/album/5r0O467KLIqvvKlufXYYI0) | 1:38 | 2025-11-04 | 2026-01-17 |
+| [Walking a Wire](https://open.spotify.com/track/0DNXuf1n2DDVipLfvZ9oXN) | [Of Titans and Men](https://open.spotify.com/artist/7eCtNRHtwr5dZclVL5czVu) | [Walking a Wire](https://open.spotify.com/album/1YoCAYE9hnp8hY1gZhAbm5) | 3:26 | 2026-06-06 |  |
 | [Waste My Time](https://open.spotify.com/track/0AqnRH9UZihcBNyNR2ig0I) | [Burnside](https://open.spotify.com/artist/5QTKzZAlVEB7bDRbls3Saf) | [Waste My Time](https://open.spotify.com/album/0ujvM076fa316cZxoI9QLC) | 3:38 | 2025-10-30 | 2025-12-02 |
 | [Watch It Burn](https://open.spotify.com/track/4LAenkX9J3bQiVDyuRQdzp) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Watch It Burn](https://open.spotify.com/album/0Cq6PROpzgFHc5V9YpynL1) | 2:45 | 2026-03-10 | 2026-04-16 |
 | [Watching me die](https://open.spotify.com/track/014TM0V1g6SxlK8WVrqaOG) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Watching me die](https://open.spotify.com/album/1o8pP3cIBos5fVo6UumVWW) | 3:12 | 2026-01-16 | 2026-02-20 |

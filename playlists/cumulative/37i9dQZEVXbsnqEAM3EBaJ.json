@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 336413,
       "name": "Apogee - Original Drums",
       "url": "https://open.spotify.com/track/4uLKNEgYVN7ILCSRGSOupz"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 198546,
       "name": "Arrogant Boy",
       "url": "https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y"
@@ -7912,7 +7912,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 221000,
       "name": "Bloodlust",
       "url": "https://open.spotify.com/track/1feTAxYiB2GVNLY2q552aK"
@@ -8102,7 +8102,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 262616,
       "name": "Boombap en el Adn",
       "url": "https://open.spotify.com/track/76E2XTADWGKpewuugTOLv8"
@@ -13549,6 +13549,24 @@
     },
     {
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/16fi2TyeOAUZq5jcR6g2yW"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196497,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/1TZEsvP0l9ZSPUZuizqBi2"
+    },
+    {
+      "album": {
         "name": "Life's Paranoia (Live)",
         "url": "https://open.spotify.com/album/6MSAeQ4rdIdX16O23oTIqI"
       },
@@ -16834,7 +16852,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 303888,
       "name": "Empire Of Lies",
       "url": "https://open.spotify.com/track/6rb5Jyvo6TM1KBBiHXgK2O"
@@ -18692,7 +18710,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 255424,
       "name": "FALLING BELOW (2026)",
       "url": "https://open.spotify.com/track/50qrr04sLcKFxFNIeiBvJR"
@@ -21072,7 +21090,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 343076,
       "name": "Getting Away with Murder (Power Glove Remix)",
       "url": "https://open.spotify.com/track/4VRzI21tT0pvL6dcPrsYLR"
@@ -24926,7 +24944,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dgdCcjRVJk4MonhSzyqro"
@@ -27753,6 +27771,32 @@
     },
     {
       "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/37JAJeWRJIQb2mNzKsoi2N"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Andrew Watt",
+          "url": "https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI"
+        },
+        {
+          "name": "Cirkut",
+          "url": "https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298503,
+      "name": "In The Stars - Cirkut and Andrew Watt Remix",
+      "url": "https://open.spotify.com/track/14W3MuGOhkAINlO1kVg0Rj"
+    },
+    {
+      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0DaqN9VLqYWDmVafEaNyWl"
       },
@@ -27860,7 +27904,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 256911,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
@@ -31925,6 +31969,28 @@
     },
     {
       "album": {
+        "name": "Let The Good Times Roll (feat. The Offspring)",
+        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210913,
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
+    },
+    {
+      "album": {
         "name": "TANZNEID",
         "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
       },
@@ -31940,7 +32006,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 210913,
       "name": "Let The Good Times Roll (feat. The Offspring)",
       "url": "https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6"
@@ -34788,7 +34854,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 217672,
       "name": "Madrugadas de nada",
       "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
@@ -34806,7 +34872,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 202392,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
@@ -36293,6 +36359,24 @@
     },
     {
       "album": {
+        "name": "Power Rangers Theme Songs, Pt. 1",
+        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237350,
+      "name": "Mighty Morphin Power Rangers",
+      "url": "https://open.spotify.com/track/4Ny1W1E3BqgA8k7KcMn3eN"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/2ZorQPU6oagsyA5WYjkMI1"
       },
@@ -37072,7 +37156,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 130479,
       "name": "Morning Peace",
       "url": "https://open.spotify.com/track/52TcA4qJjHNGlNCBaBKUqL"
@@ -37690,7 +37774,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 196888,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na) - Recorded For BBC Radio 1",
       "url": "https://open.spotify.com/track/0HabheX67vkJHbmqB3XDUW"
@@ -37828,6 +37912,24 @@
       "duration_ms": 223551,
       "name": "Naked",
       "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
+    },
+    {
+      "album": {
+        "name": "Nancy Boy (RE:CREATED VERSION)",
+        "url": "https://open.spotify.com/album/1ReSN8RHAzS9Yne8vzEwmC"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Nancy Boy - RE:CREATED VERSION",
+      "url": "https://open.spotify.com/track/17IQNAFccW7yC8EvWZXyib"
     },
     {
       "album": {
@@ -40458,6 +40560,28 @@
       "duration_ms": 333750,
       "name": "One Last Breath - Jojo Lorenzo Remix",
       "url": "https://open.spotify.com/track/0oSjvM4Q8kxRvixGI0vGxL"
+    },
+    {
+      "album": {
+        "name": "ONE MIC (2026)",
+        "url": "https://open.spotify.com/album/0JHzQKxB332JIXq2Yxe3n4"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310762,
+      "name": "ONE MIC (2026)",
+      "url": "https://open.spotify.com/track/72DjqkcBkGZPAI2TU7wXYB"
     },
     {
       "album": {
@@ -43264,7 +43388,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 116387,
       "name": "Power Rangers Time Force",
       "url": "https://open.spotify.com/track/06SbvHwcGhASyxx1zmabhr"
@@ -46486,7 +46610,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 206293,
       "name": "Roses & Rotting Corpses",
       "url": "https://open.spotify.com/track/5rnyv9rngYQjobMUExlExu"
@@ -49782,7 +49906,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 236800,
       "name": "Slave to the Rithm - Ray Volpe Remix",
       "url": "https://open.spotify.com/track/0LPuTDd2JdOjyyNi9J5wX1"
@@ -49812,6 +49936,32 @@
       "duration_ms": 229200,
       "name": "Slave to the Rithm - Sullivan King Remix",
       "url": "https://open.spotify.com/track/5SjhJVYAxIqori0wbYqAQE"
+    },
+    {
+      "album": {
+        "name": "Slave to the Rithm (Remixes)",
+        "url": "https://open.spotify.com/album/2lNuFgzWuFS0XAqdaQKeca"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292965,
+      "name": "Slave to the Rithm - VLCN Remix",
+      "url": "https://open.spotify.com/track/1wOxKQd28j0cJbMkua2cuu"
     },
     {
       "album": {
@@ -50060,7 +50210,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 162335,
       "name": "Smoke and Traces",
       "url": "https://open.spotify.com/track/1ebqse2PvUDVhW1b6IK0Cl"
@@ -50640,7 +50790,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 208947,
       "name": "Something Wicked",
       "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
@@ -52167,6 +52317,24 @@
     },
     {
       "album": {
+        "name": "I Built You A Tower",
+        "url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+    },
+    {
+      "album": {
         "name": "Stone Over Water",
         "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
       },
@@ -52178,7 +52346,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 194225,
       "name": "Stone Over Water",
       "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
@@ -54860,7 +55028,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 182244,
       "name": "The Bard",
       "url": "https://open.spotify.com/track/5uJOBP0XEFnRJaSVkCb2QY"
@@ -59448,7 +59616,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 332186,
       "name": "Too Old To Rock 'N' Roll - Live at Hammersmith Odeon, 1984",
       "url": "https://open.spotify.com/track/0EVvbU2933Ul9QWIqd5yaw"
@@ -64774,10 +64942,32 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 205987,
       "name": "Wine into Water (feat. Elton John)",
       "url": "https://open.spotify.com/track/39mBzzyygou7Xc3ydMZFgZ"
+    },
+    {
+      "album": {
+        "name": "Wine into Water (feat. Elton John)",
+        "url": "https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205987,
+      "name": "Wine into Water (feat. Elton John)",
+      "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
     },
     {
       "album": {
@@ -66536,6 +66726,28 @@
       "duration_ms": 200338,
       "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
       "url": "https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB"
+    },
+    {
+      "album": {
+        "name": "Anenoa",
+        "url": "https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY"
+      },
+      "artists": [
+        {
+          "name": "Matias Aguayo",
+          "url": "https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "\u00bfNo ves?",
+      "url": "https://open.spotify.com/track/7z598XmMJYKMG7U2OaifNY"
     },
     {
       "album": {

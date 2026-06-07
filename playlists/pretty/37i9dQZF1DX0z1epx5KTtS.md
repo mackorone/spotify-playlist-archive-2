@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,199 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,266 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Kolo Kolo](https://open.spotify.com/track/7AfXxreayzJaxxXAADKZkW) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Kolo Kolo](https://open.spotify.com/album/1aakaROZQUBca5tPJUAyXl) | 2:18 |
 | 40 | [LA PUISSANCE](https://open.spotify.com/track/0fOPSfQBIxDwJabh6NmfhB) | [GUEDRIJO H24](https://open.spotify.com/artist/449DXoiACmoNomUkW4MFEH), [Mr Alex](https://open.spotify.com/artist/75Vq95baZ1lUaHDUMPC8dI) | [LA PUISSANCE](https://open.spotify.com/album/0wkj4rtoTmnNbUe61A1Yyr) | 2:42 |
 
-Snapshot ID: `AAAAAKtD13Bi7W4chAf7Ke2JncwOfWVK`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Arlo Parks",
-  "num_followers": 57961,
+  "num_followers": 57962,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-09 17:39:46",
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
+      },
+      "artists": [
+        {
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
+        }
+      ],
+      "duration_ms": 150908,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
+    },
+    {
+      "added_at": "2026-02-09 17:39:46",
+      "album": {
         "name": "i cant tell (love my money)",
         "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 163062,
       "name": "i cant tell (love my money)",
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
-    },
-    {
-      "added_at": "2026-02-09 17:39:46",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
-      },
-      "artists": [
-        {
-          "name": "Tunde Adebimpe",
-          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
-        }
-      ],
-      "duration_ms": 150908,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
     },
     {
       "added_at": "2026-02-09 17:39:46",

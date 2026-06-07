@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 101787,
+  "num_followers": 101821,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
+      },
+      "artists": [
+        {
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+        },
+        {
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
+        }
+      ],
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "TSAKO PITORI",
         "url": "https://open.spotify.com/album/3HD2SIKgXESHomVKjLA5LH"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 220518,
       "name": "Wadi wave from Ghana",
       "url": "https://open.spotify.com/track/6VV3PMcOUXksNX7RYN5yp1"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Ka Valungu",
-        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
-      },
-      "artists": [
-        {
-          "name": "Tebza De DJ",
-          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
-        },
-        {
-          "name": "DJ Nomza The King",
-          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
-        }
-      ],
-      "duration_ms": 300302,
-      "name": "Ka Valungu",
-      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Monate Mogwanti",
-        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
-      },
-      "artists": [
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 327868,
-      "name": "Monate Mogwanti",
-      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Pure Bliss",
         "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
       },
@@ -1279,22 +1263,50 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Roba Letheka (AmaPiano Remix)",
-        "url": "https://open.spotify.com/album/7eTzelrwkx02RTznHbQJCJ"
+        "name": "Monate Mogwanti",
+        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
       },
       "artists": [
         {
-          "name": "Ishmael",
-          "url": "https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08"
-        },
-        {
-          "name": "Jay Music",
-          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
         }
       ],
-      "duration_ms": 324700,
-      "name": "Roba Letheka (AmaPiano Remix)",
-      "url": "https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4"
+      "duration_ms": 327868,
+      "name": "Monate Mogwanti",
+      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Sihamba Sonke",
+        "url": "https://open.spotify.com/album/4ghwUAsbM38i8zcDRiflmX"
+      },
+      "artists": [
+        {
+          "name": "Kammu Dee",
+          "url": "https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Rhythm Tee",
+          "url": "https://open.spotify.com/artist/3JCdOs3M7ygPSMQAqFZUfE"
+        }
+      ],
+      "duration_ms": 416653,
+      "name": "Sihamba Sonke",
+      "url": "https://open.spotify.com/track/79lSg4HBwmulMQmKieeCU6"
     },
     {
       "added_at": "2026-02-20 01:43:11",

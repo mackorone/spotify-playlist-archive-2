@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,289 songs - 4 day 22 hr 47 min
+2,290 songs - 4 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,6 +1002,7 @@
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-04-18 | 2024-04-21 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
 | [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 | 2023-02-24 |
+| [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 | 2026-06-05 |  |
 | [In Your Eyes](https://open.spotify.com/track/3790LbDpXDMZ3o6Vw9nYd8) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [In Your Eyes](https://open.spotify.com/album/3USx28iCRWm5wwssFpvim4) | 2:50 | 2024-05-23 | 2024-06-21 |
 | [Indifferent](https://open.spotify.com/track/7GqOFY5GBH32vUU95WYxIZ) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Indifferent](https://open.spotify.com/album/1iKf6UyEwVRwqB9vqPOnoz) | 3:41 | 2022-09-15 | 2022-09-19 |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-03-28 |
@@ -1627,7 +1628,7 @@
 | [Rosor & champagne](https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 4:08 | 2023-09-21 | 2024-01-19 |
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
-| [Ruin & Reason](https://open.spotify.com/track/4axbfS64t1fReQG7IuXUsd) | [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Ruin & Reason](https://open.spotify.com/album/6BB9PVPYDlAi5U2zjPnlFX) | 2:56 | 2026-04-23 |  |
+| [Ruin & Reason](https://open.spotify.com/track/4axbfS64t1fReQG7IuXUsd) | [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Ruin & Reason](https://open.spotify.com/album/6BB9PVPYDlAi5U2zjPnlFX) | 2:56 | 2026-04-23 | 2026-06-07 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-03-10 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |

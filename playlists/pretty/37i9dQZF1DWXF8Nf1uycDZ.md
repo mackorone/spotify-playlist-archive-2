@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: Summer is here! ☀️ Cover: Girls Aloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,298 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,238 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 | 49 | [Hot, Hot, Hot](https://open.spotify.com/track/2WnuZrTT5RMz8NQLE4stuV) | [The Merrymen](https://open.spotify.com/artist/72ecQ6NCi63MfEszwzIi4S) | [Beautiful Barbados](https://open.spotify.com/album/3KV47w5YPnOC6NNX6kANoW) | 5:27 |
 | 50 | [Summertime Sadness](https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:25 |
 
-Snapshot ID: `AAAAAOxWZyXxe2RKwwd2vuZagJFduZOW`
+Snapshot ID: `AAAAAAcJ9ZvwSJR6/wQzKx+V3HvzEYyM`

@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 46393,
+  "num_followers": 46397,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
-      },
-      "artists": [
-        {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
         "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 115853,
       "name": "In-a-Gadda-da-Vida",
       "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "El Rollo de la Fresa \u00c1cida",
-        "url": "https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG"
+        "name": "Volumen II",
+        "url": "https://open.spotify.com/album/3hYovPMqkpuPJTyC8CQBLS"
       },
       "artists": [
         {
-          "name": "La Fresa \u00c1cida",
-          "url": "https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp"
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Flores en Tu Pelo (Sn. Francisco \"Flowers In Your Hair\")",
-      "url": "https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN"
+      "duration_ms": 577053,
+      "name": "La Pobreza",
+      "url": "https://open.spotify.com/track/74xLbMcYBC6nCn4KU7WS8i"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

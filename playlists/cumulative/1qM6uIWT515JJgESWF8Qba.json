@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Two Hours On Delay",
+        "url": "https://open.spotify.com/album/31AcmtoYuJ6TbsOPgA97ql"
+      },
+      "artists": [
+        {
+          "name": "Black Kanyon",
+          "url": "https://open.spotify.com/artist/54UZzpSfWxcX54oMl2lBzV"
+        }
+      ],
+      "date_added": "2026-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "An Hour On Delay",
+      "url": "https://open.spotify.com/track/3GC3JnqOwc5uV0A6s42o66"
+    },
+    {
+      "album": {
         "name": "Another Road",
         "url": "https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88934,
+  "num_followers": 88937,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 169172,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1047,22 +1063,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 169172,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u9f13\u52d5",
-        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
-      },
-      "artists": [
-        {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
-        }
-      ],
-      "duration_ms": 161720,
-      "name": "\u9f13\u52d5",
-      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "duration_ms": 161720,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1519,30 +1519,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Your Light",
-        "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
-      },
-      "artists": [
-        {
-          "name": "8WHAT",
-          "url": "https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i"
-        },
-        {
-          "name": "Alisara Arial",
-          "url": "https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP"
-        },
-        {
-          "name": "YiDD",
-          "url": "https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ"
+      },
+      "artists": [
+        {
+          "name": "8WHAT",
+          "url": "https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i"
+        },
+        {
+          "name": "Alisara Arial",
+          "url": "https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP"
+        },
+        {
+          "name": "YiDD",
+          "url": "https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "duration_ms": 298194,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "APOLLO (feat. \u6843\u5b50A1J)",
         "url": "https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 244465,
       "name": "APOLLO (feat. \u6843\u5b50A1J)",
       "url": "https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
-      },
-      "artists": [
-        {
-          "name": "AVOCADO BOYS",
-          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
-        }
-      ],
-      "duration_ms": 298194,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
     }
   ],
   "unique_name": "Mid Tempo Magic",

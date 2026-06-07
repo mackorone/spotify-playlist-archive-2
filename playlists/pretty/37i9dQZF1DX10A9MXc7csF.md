@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Juan Freer 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,450 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,469 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 79 | [Mi Todo Que Dar](https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Todo Que Dar](https://open.spotify.com/album/62J67rBV8L9rVZSLppm6aH) | 3:00 |
 | 80 | [ALTAR](https://open.spotify.com/track/3hcY5rLPNGs1HV4oxlMAFn) | [Martin Beltran](https://open.spotify.com/artist/7oKwuamCT99LkJECNqSUtR) | [ALTAR](https://open.spotify.com/album/52TSCOj0T7HiqVwE3FXrW1) | 2:51 |
 
-Snapshot ID: `AAAAAJxyo6Oy7wfwU9+hG3vmJAMu4uZn`
+Snapshot ID: `AAAAAP7a+YlHbqWaVsN124JWut2IO+sD`

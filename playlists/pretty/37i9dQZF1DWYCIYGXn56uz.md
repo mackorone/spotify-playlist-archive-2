@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Nicolò Filippucci
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,372 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,351 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 3 | [Bossa Nostra](https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Bossa Nostra](https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS) | 3:16 |
 | 4 | [LE RAGAZZE](https://open.spotify.com/track/2YVIDa7ZPLtce3VLGNcxvv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [LE RAGAZZE](https://open.spotify.com/album/5dGbct1c1422HZRyViiNR0) | 2:59 |
 | 5 | [ROMANTICA](https://open.spotify.com/track/3jG1o72wNvvjQn2kDoNsIu) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ROMANTICA](https://open.spotify.com/album/10y0yFd5imPOaVmDIQ2lP1) | 3:13 |
-| 6 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:45 |
+| 6 | [Via Santini](https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/5xvdlEpjMfGcfLGydA5Dvj) | 2:52 |
 | 7 | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/57KzV95Th155vud4KmLqLN) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok) | 2:44 |
 | 8 | [FLAMENCO PARANOIA](https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:44 |
 | 9 | [Ricordi \(con Elisa\)](https://open.spotify.com/track/1FiQPrDtOkxBMuNYsJSPmW) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 4:37 |

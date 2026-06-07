@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,374 likes - 219 songs - 11 hr 52 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,376 likes - 227 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,5 +227,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 217 | [The Rainfall](https://open.spotify.com/track/1EFG3uPtGu85qejhDazi7v) | [J\. Daniel Thompson](https://open.spotify.com/artist/4n5dCVABMWGynGyPyGDNJB) | [Search the Galaxy](https://open.spotify.com/album/6VNZ7EzcHqZZtlXhP6I743) | 4:30 |
 | 218 | [Did No Wrong](https://open.spotify.com/track/77uajU3qKWghQzXmxwxCNm) | [Ro Barrett](https://open.spotify.com/artist/2VzzPkO46cP3cZwpYudyFX) | [Did No Wrong](https://open.spotify.com/album/2jnDp7cN8fH8vh4sZl7VT1) | 3:22 |
 | 219 | [Up and Over](https://open.spotify.com/track/2U7MYhK3yhusDnn0qLBt5k) | [Grio and the Architects](https://open.spotify.com/artist/3w0rOqTQMNfGxdeGdMWRE6) | [More Love](https://open.spotify.com/album/6FhiP7Y2ebXoOl4ynLRixh) | 3:40 |
+| 220 | [Archons \(No Loosh\)](https://open.spotify.com/track/3cxAPe3Fk2H5sxdlJHxoSa) | [Archangel Radio](https://open.spotify.com/artist/5wq1jJ9NruVSEBnvxBlP87) | [Archons](https://open.spotify.com/album/2g48O9ZpbSAOvfRLyG82Xc) | 2:49 |
+| 221 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 |
+| 222 | [I Wrote a Song](https://open.spotify.com/track/025ZgWk9JN4rBPlvqBXg1j) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [Funnier! Punkier! Bandier!](https://open.spotify.com/album/6iSRjEVreAuf770OPqkRC1) | 2:08 |
+| 223 | [Cardinal](https://open.spotify.com/track/2FQTh0b2MOFAdsXiNQ4RWF) | [Matty Ram](https://open.spotify.com/artist/7okMGHsN4e4C6EMzepEqHy) | [Cardinal](https://open.spotify.com/album/788x4d1plhsMl6LrGRlTkV) | 3:58 |
+| 224 | [Never again](https://open.spotify.com/track/0bLyheZSeaj4dS6ELpk4Gb) | [IronObit](https://open.spotify.com/artist/7jCUqBnzcxgZN5YnkD6u39) | [Never again](https://open.spotify.com/album/3UsUuqbLbkqNDUsGGKWPeS) | 4:38 |
+| 225 | [A Message From Your CEO](https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N) | 2:59 |
+| 226 | [Freak Show](https://open.spotify.com/track/1R2Lu3lQwsLJ2miXykxQxU) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [The Morning After Pills: Live Session](https://open.spotify.com/album/2NJUBsPUHGBvt0ZhyswmeI) | 2:52 |
+| 227 | [The Bee Kid \- No Hive Remix](https://open.spotify.com/track/2IS0E7jDVyqXOLS4I56YSx) | [MaxVerse](https://open.spotify.com/artist/6ClwxLhqdr8Vekwt1XLcVD) | [The Bee Kid \(No Hive Remix\)](https://open.spotify.com/album/0Js59iVWBhEM9uZg6YKu98) | 3:46 |
 
-Snapshot ID: `AAAQRd5Yk887byvJb8zH3YLKWsKcSf8I`
+Snapshot ID: `AAAQTT7EBI6VB6V/V08/DJnWkcmHg0vV`

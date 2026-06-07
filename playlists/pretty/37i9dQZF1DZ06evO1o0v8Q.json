@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 47986,
+  "num_followers": 48004,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiDAAAAAAADd8LZWHO/7YcdacUMnAIvn",
+  "snapshot_id": "aiIRgAAAAADyZ586F/HFvShpZtS6xV/o",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 118541,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+      "duration_ms": 118541,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Budah
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,973 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,968 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Rap Não](https://open.spotify.com/track/5LxjQe4oR1rQ8HleCjiUxC) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [All4n](https://open.spotify.com/artist/4iwliJFcHIDmlHmdTSso3W) | [Imundo](https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop) | 2:14 |
 | 75 | [Problemas de Confiança](https://open.spotify.com/track/1w5LpElyaousSCY05SN2kL) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Dionso](https://open.spotify.com/artist/1YfEWRgGZKnHjgW0bwuFxc), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Problemas de Confiança](https://open.spotify.com/album/29ZYtO1WK0DWySMRgH4X38) | 1:59 |
 
-Snapshot ID: `AAAAAFc3jY77OiD8xJsb6EBhH7HZCjiC`
+Snapshot ID: `AAAAAD4wUrXblZRj7XZyss1yAxDEryd3`

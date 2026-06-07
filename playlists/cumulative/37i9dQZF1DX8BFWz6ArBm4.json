@@ -1646,10 +1646,28 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-07",
       "duration_ms": 168500,
       "name": "Gia Tin Epomeni",
       "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
+    },
+    {
+      "album": {
+        "name": "To Diko Mou DNA",
+        "url": "https://open.spotify.com/album/45Og4woUGkRvl93FUpsTTP"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Gia Tin Epomeni",
+      "url": "https://open.spotify.com/track/3TIKWISOKMf12koBZjfAfE"
     },
     {
       "album": {

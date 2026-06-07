@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Gloria Groove
 
-505 songs - 1 day 2 hr 13 min
+506 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Coração Pisciano](https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Rapha Renó](https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh) | [Coração Pisciano](https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK) | 2:01 | 2023-02-04 | 2023-07-08 |
 | [Cores](https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Cores](https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt) | 2:28 | 2023-12-08 | 2024-01-20 |
 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 | 2026-05-22 |  |
-| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 |  |
+| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 | 2026-06-07 |
 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 | 2024-03-08 | 2024-10-12 |
 | [CÉU](https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 4:26 | 2024-07-26 | 2024-09-14 |
 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 | 2022-09-02 | 2022-09-21 |
@@ -209,6 +209,7 @@
 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-09-20 | 2023-07-15 |
 | [Incompreensível](https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi) | [André Rossi](https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA) | [Incompreensível](https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM) | 3:00 | 2022-10-14 | 2022-12-03 |
 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 | 2025-03-28 |  |
+| [insisto em você](https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [Tirado](https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D) | [insisto em você](https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU) | 2:15 | 2026-06-05 |  |
 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 | 2024-03-08 | 2025-04-26 |
 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 | 2023-06-16 |  |
 | [Joga Menino](https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Dj Paulo Beck](https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb) | [Joga Menino](https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B) | 3:35 | 2023-01-20 | 2023-04-01 |

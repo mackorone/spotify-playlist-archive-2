@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143669,
+  "num_followers": 143686,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
-      },
-      "artists": [
-        {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 211973,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 200466,
       "name": "The Wandering",
       "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
-        "name": "Moi je t'aime",
-        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 177556,
-      "name": "Moi je t'aime",
-      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "I'll Stand in the Doorway",
-        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I'll Stand in the Doorway",
-      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
         "name": "Surface Tension",
         "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+        "name": "I'll Stand in the Doorway",
+        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
         }
       ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+      "duration_ms": 240000,
+      "name": "I'll Stand in the Doorway",
+      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -851,6 +835,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Cloudless Sky Of None",
-        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Korovo",
-          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 206574,
-      "name": "Cloudless Sky Of None",
-      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "Cloudless Sky Of None",
+        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Korovo",
+          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+      "duration_ms": 206574,
+      "name": "Cloudless Sky Of None",
+      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Entre Beyrouth et L\u00e9vis",
-        "url": "https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h"
-      },
-      "artists": [
-        {
-          "name": "Yasmina L\u00e9veill\u00e9",
-          "url": "https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui"
-        }
-      ],
-      "duration_ms": 212218,
-      "name": "Flavie s'en va",
-      "url": "https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
+        "name": "Entre Beyrouth et L\u00e9vis",
+        "url": "https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h"
+      },
+      "artists": [
+        {
+          "name": "Yasmina L\u00e9veill\u00e9",
+          "url": "https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui"
+        }
+      ],
+      "duration_ms": 212218,
+      "name": "Flavie s'en va",
+      "url": "https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 217879,
       "name": "R\u00eave am\u00e9ricain",
       "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
-        "name": "River Run (with Lila Dupont)",
-        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        },
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 205959,
-      "name": "River Run (with Lila Dupont)",
-      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
     },
     {
       "added_at": "2026-06-05 04:02:45",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2026-06-05 04:02:45",
+      "album": {
         "name": "Quel tourment !",
         "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
       },
@@ -1659,34 +1675,18 @@
     {
       "added_at": "2026-06-05 04:02:45",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+        "name": "Ensemble doux",
+        "url": "https://open.spotify.com/album/2cIThJvODqTXIoccHQPl1V"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
         }
       ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2026-06-05 04:02:45",
-      "album": {
-        "name": "Funhouse",
-        "url": "https://open.spotify.com/album/4iT1efgAiiiGwjHpFsibJc"
-      },
-      "artists": [
-        {
-          "name": "Hush",
-          "url": "https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk"
-        }
-      ],
-      "duration_ms": 300640,
-      "name": "Funhouse",
-      "url": "https://open.spotify.com/track/2bUrHv30fXpdhsDReW9GUC"
+      "duration_ms": 214760,
+      "name": "Emm\u00e8ne-moi - version Ensemble doux",
+      "url": "https://open.spotify.com/track/0Z8Td8av7oliNp1m1Qj3vr"
     },
     {
       "added_at": "2026-06-05 04:02:45",

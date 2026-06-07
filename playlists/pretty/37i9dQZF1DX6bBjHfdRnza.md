@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring Delilah\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,721 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,761 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 74 | [Nothing Left to Say \- Radio Edit](https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2) | [Sebastian Konrad](https://open.spotify.com/artist/1I7cqwyb1cKU55oVbvQ66C) | [Nothing Left to Say](https://open.spotify.com/album/003d8yyAwXiYHTEUNkXoIO) | 3:48 |
 | 75 | [Heart](https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu) | [Kenta204](https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Heart](https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy) | 3:59 |
 
-Snapshot ID: `AAAAABwykdYZDBavfUzJfbJoUFw1Ih/M`
+Snapshot ID: `AAAAAEYVP5nYqV3FHiMusfRDz/2+1F6K`
