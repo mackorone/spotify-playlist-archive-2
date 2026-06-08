@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77516,
+  "num_followers": 77517,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Lucidez - Ao Vivo",
+      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215005,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Lucidez - Ao Vivo",
-      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
     },
     {
       "added_at": "2025-09-17 15:00:09",

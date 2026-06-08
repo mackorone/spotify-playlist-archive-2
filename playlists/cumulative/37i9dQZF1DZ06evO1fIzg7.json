@@ -182,10 +182,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 231413,
       "name": "Crying at the Discotheque",
       "url": "https://open.spotify.com/track/48n09PfulQQGKMoTKTxi7w"
+    },
+    {
+      "album": {
+        "name": "Crying at the Discotheque",
+        "url": "https://open.spotify.com/album/1HQIdv060nKGqvYqz8h14d"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "Crying at the Discotheque",
+      "url": "https://open.spotify.com/track/6HJe1B6k8va9NghVQQKW5H"
     },
     {
       "album": {

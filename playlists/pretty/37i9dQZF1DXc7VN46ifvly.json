@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21180,
+  "num_followers": 21181,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "BANDIT",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
-    },
-    {
-      "added_at": "2026-06-03 14:07:43",
-      "album": {
         "name": "Show Me The Money 12 Episode 1",
         "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 230000,
       "name": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/3m08yeqLjXsqblRU3KXPAp"
+    },
+    {
+      "added_at": "2026-06-03 14:07:43",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "added_at": "2026-06-03 14:07:43",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
+    },
+    {
+      "added_at": "2026-06-03 14:07:43",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-03 14:07:43",
-      "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 180022,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
     },
     {
       "added_at": "2026-06-03 14:07:43",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 306477,
-      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
-      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
-    },
-    {
-      "added_at": "2026-06-03 14:07:43",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -1795,26 +1775,22 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
-        "name": "NOVA (feat. Gaeko & Royal 44)",
-        "url": "https://open.spotify.com/album/5U5jWaaftyPBNoXMSlRxiL"
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
       },
       "artists": [
         {
-          "name": "MINGI",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
         },
         {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         }
       ],
-      "duration_ms": 170854,
-      "name": "NOVA (feat. Gaeko & Royal 44)",
-      "url": "https://open.spotify.com/track/7dibrsiKT2BiZHvuVtBqdY"
+      "duration_ms": 306477,
+      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
     },
     {
       "added_at": "2026-06-03 14:07:43",
@@ -1843,6 +1819,30 @@
       "duration_ms": 189016,
       "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
       "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+    },
+    {
+      "added_at": "2026-06-03 14:07:43",
+      "album": {
+        "name": "NOVA (feat. Gaeko & Royal 44)",
+        "url": "https://open.spotify.com/album/5U5jWaaftyPBNoXMSlRxiL"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 170854,
+      "name": "NOVA (feat. Gaeko & Royal 44)",
+      "url": "https://open.spotify.com/track/7dibrsiKT2BiZHvuVtBqdY"
     },
     {
       "added_at": "2026-06-03 14:07:43",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 283298,
-      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
-    },
-    {
-      "added_at": "2026-06-03 14:07:43",
-      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 211000,
       "name": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/3MC7fwjrvN8Qz4Ky9L45qy"
+    },
+    {
+      "added_at": "2026-06-03 14:07:43",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 283298,
+      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
     },
     {
       "added_at": "2026-06-03 14:07:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 296863,
+  "num_followers": 296903,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAD+KjH0ip8PZ23XCyUb4/ym",
+  "snapshot_id": "aiNjAAAAAABSY8n9GduzCBdDyczF8CN6",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama Said (Deluxe)",
         "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 268786,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/51fEz8VT1OlCYjU8ItAgQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
     },
     {
       "added_at": null,

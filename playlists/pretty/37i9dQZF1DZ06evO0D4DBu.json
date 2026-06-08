@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211150,
+  "num_followers": 211149,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAArN7VIGA8dEU1s8+5RqPoj",
+  "snapshot_id": "aiNjAAAAAABYw8BETqsmUKfelGMMBUNV",
   "tracks": [
     {
       "added_at": null,
@@ -794,11 +794,15 @@
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         }
       ],
-      "duration_ms": 210562,
-      "name": "Chain Smoker",
-      "url": "https://open.spotify.com/track/10vDX9vpFk4VZEFczgqoOg"
+      "duration_ms": 272562,
+      "name": "Smoke Again",
+      "url": "https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI"
     },
     {
       "added_at": null,

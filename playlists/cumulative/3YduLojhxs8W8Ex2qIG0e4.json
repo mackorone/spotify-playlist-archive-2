@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Rubber Mask of Holy Wrath",
+        "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Owen",
+          "url": "https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511173,
+      "name": "Rubber Mask of Holy Wrath",
+      "url": "https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K"
+    },
+    {
+      "album": {
         "name": "Sadness in their Eyes",
         "url": "https://open.spotify.com/album/1XEJbrQVR5Htt6fAawyL9f"
       },

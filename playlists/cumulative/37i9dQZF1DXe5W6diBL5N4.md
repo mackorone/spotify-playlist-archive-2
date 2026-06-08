@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SHINee\(샤이니\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,194 songs - 38 day 11 hr 19 min
+16,196 songs - 38 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7597,6 +7597,7 @@
 | [lilac](https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beomjune \(January 2026\) – Lilac](https://open.spotify.com/album/5K8owHEoj8fLGzxpflJ9xU) | 3:16 | 2026-02-01 | 2026-02-12 |
 | [Lilac](https://open.spotify.com/track/0DIaeRuEDjfbGWkzoKktUF) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Love Your Enemy OST Part 4](https://open.spotify.com/album/0YckFILj6HaSO5VclL9lun) | 3:05 | 2024-12-09 | 2025-01-02 |
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2022-05-22 | 2022-06-10 |
+| [limbo \(feat\. pH\-1\)](https://open.spotify.com/track/76EKnjtcSKSimeANeExgaU) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [limbo \(feat\. pH\-1\)](https://open.spotify.com/album/69i8NW7etANT3g3Q411Eiz) | 3:06 | 2026-06-08 |  |
 | [LIMBO \(feat\. Swervy\)](https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [BOBO](https://open.spotify.com/album/4WS73BYKxWkfs30vPUhcuj) | 2:15 | 2022-12-19 | 2022-12-28 |
 | [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 | 2022-09-23 | 2022-11-07 |
 | [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-06 | 2022-12-22 |
@@ -12443,6 +12444,7 @@
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-07-05 |
 | [SUGAR \(feat\. Secret Man\)](https://open.spotify.com/track/1oFtYf6OLW4qz3cFlKxVlS) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs), [Secret man](https://open.spotify.com/artist/2Cvys68dg8rnjD8PbWH8jH) | [SUGAR \(feat\. Secret Man\)](https://open.spotify.com/album/3PSMK3x5WWfr7Hk6XBim7h) | 3:05 | 2023-04-17 | 2023-05-03 |
 | [Sugar Free](https://open.spotify.com/track/4eMqclFYcvKUpBeHNj7JyK) | [Idle](https://open.spotify.com/artist/4i0U4pU6Z1huiBPw0QMWoW) | [X](https://open.spotify.com/album/2rXWL1Zmag2rOsMyKj4loK) | 2:46 | 2022-07-18 | 2022-08-10 |
+| [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 | 2026-06-08 |  |
 | [Sugar Pie](https://open.spotify.com/track/4sCb4VFZ62Az2O0Jy9ngJn) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [Sugar Pie](https://open.spotify.com/album/1ZMZwAEckQCxawleAmHBNL) | 2:23 | 2026-03-04 | 2026-03-14 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 | 2023-02-15 |
 | [Sugar talk](https://open.spotify.com/track/1nKaeA6KSJzgzLBdbEMGST) | [Yeo Jin](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Lv1](https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko) | 2:12 | 2026-03-10 | 2026-03-23 |

@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 205282,
       "name": "Colours",
       "url": "https://open.spotify.com/track/3q2zWRbuRQfvWst5geq7DB"
@@ -6600,6 +6600,28 @@
       "duration_ms": 151678,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0llLMn5vshxTKeD3AH3vkf"
+    },
+    {
+      "album": {
+        "name": "Eileen",
+        "url": "https://open.spotify.com/album/5qI6YSOXAtzKIGWf42KrOh"
+      },
+      "artists": [
+        {
+          "name": "Hechmann",
+          "url": "https://open.spotify.com/artist/47EbO9KG9g9bIa3ZXn0pwk"
+        },
+        {
+          "name": "Luke Alvin",
+          "url": "https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "Eileen",
+      "url": "https://open.spotify.com/track/0vzoHOYliDo966frCgXUPF"
     },
     {
       "album": {
@@ -9619,6 +9641,28 @@
     },
     {
       "album": {
+        "name": "Goodbye's Overrated",
+        "url": "https://open.spotify.com/album/5R031yp69LmRhbmznyEWo2"
+      },
+      "artists": [
+        {
+          "name": "Braaten",
+          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
+        },
+        {
+          "name": "Raphael DeLove",
+          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Goodbye's Overrated",
+      "url": "https://open.spotify.com/track/0py1KAzN4yuwyuRgK4FB7w"
+    },
+    {
+      "album": {
         "name": "Got This Feeling",
         "url": "https://open.spotify.com/album/63j7UJjoJaYpFLKD53Je3a"
       },
@@ -10526,7 +10570,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 149498,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/5ZHcuIlAiJOiVBOj4iW1cT"
@@ -16390,7 +16434,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 181303,
       "name": "lovely",
       "url": "https://open.spotify.com/track/3Ffylm2TTZ0hzLINtNzrLe"
@@ -17134,6 +17178,32 @@
       "duration_ms": 117600,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/3efWEdQrAdIFvvjzby1I22"
+    },
+    {
+      "album": {
+        "name": "Million Years Ago",
+        "url": "https://open.spotify.com/album/6tRgsjvCUCxWXlbuzqeQYt"
+      },
+      "artists": [
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        },
+        {
+          "name": "Polux",
+          "url": "https://open.spotify.com/artist/7xlYnInKi4qbUURqPRabJg"
+        },
+        {
+          "name": "Sophia Heart",
+          "url": "https://open.spotify.com/artist/0XZ3wgy4l204C8YHczBCeM"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144713,
+      "name": "Million Years Ago",
+      "url": "https://open.spotify.com/track/1hlQmn1Z2uWtTFcC0oXOUc"
     },
     {
       "album": {
@@ -18294,7 +18364,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 134027,
       "name": "never felt like this before",
       "url": "https://open.spotify.com/track/1gBbiAbv4a6Q9IfnvNWSw6"
@@ -22854,7 +22924,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 182000,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd"
@@ -23240,7 +23310,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 186000,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm"
@@ -24250,6 +24320,28 @@
       "duration_ms": 156426,
       "name": "Stress You",
       "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
+    },
+    {
+      "album": {
+        "name": "Strobe Lights",
+        "url": "https://open.spotify.com/album/1NRagc0gU3g9zFTr8sYQ09"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Angie Robba",
+          "url": "https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Strobe Lights",
+      "url": "https://open.spotify.com/track/5DGKPS4iLbaOJDcgiFiSMw"
     },
     {
       "album": {
@@ -25520,7 +25612,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 167142,
       "name": "Take Me Somewhere (Warm)",
       "url": "https://open.spotify.com/track/5LpFSrFNgTFFi5LRKiUF03"
@@ -30034,7 +30126,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 141062,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/4hsCbTUVbSjEKaO2ckGgho"

@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Satisfied Girl",
+        "url": "https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211184,
+      "name": "Undiscovered",
+      "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
+    },
+    {
+      "album": {
         "name": "Future Dust",
         "url": "https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke"
       },

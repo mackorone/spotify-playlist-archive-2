@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 320933,
+  "num_followers": 320967,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAABf9RK5pZndNsB8c0n60BNs",
+  "snapshot_id": "aiNjAAAAAAC7yY/B79BzIpTsVVthxYSm",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Lucretia",
-      "url": "https://open.spotify.com/track/1n538MfKDtkS4GTAaWN25H"
+      "duration_ms": 342826,
+      "name": "Five Magics",
+      "url": "https://open.spotify.com/track/1aSGE7H6pkelrCmdzMquEg"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 342826,
-      "name": "Five Magics",
-      "url": "https://open.spotify.com/track/1aSGE7H6pkelrCmdzMquEg"
+      "duration_ms": 238173,
+      "name": "Lucretia",
+      "url": "https://open.spotify.com/track/1n538MfKDtkS4GTAaWN25H"
     },
     {
       "added_at": null,

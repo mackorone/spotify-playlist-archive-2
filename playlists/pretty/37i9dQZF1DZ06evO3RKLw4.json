@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50662,
+  "num_followers": 50664,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAC0Xn2vcf2rve/2LRFa+wdf",
+  "snapshot_id": "aiNjAAAAAAAsTsbdmBtRK6J2x1xSrOwN",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 173103,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
+      "duration_ms": 121029,
+      "name": "Side Kick",
+      "url": "https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 121029,
-      "name": "Side Kick",
-      "url": "https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh"
+      "duration_ms": 173103,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 251260,
-      "name": "Arrested in Shanghai",
-      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 89666,
       "name": "It's Quite Alright",
       "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 251260,
+      "name": "Arrested in Shanghai",
+      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 129973,
-      "name": "Evil's My Friend",
-      "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 78733,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 129973,
+      "name": "Evil's My Friend",
+      "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Detroit",
-      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
       "artists": [
         {
@@ -632,57 +616,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Corazon De Oro",
-      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 117426,
-      "name": "Collision Course",
-      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 70933,
-      "name": "Antennas",
-      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+      "duration_ms": 144400,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
     },
     {
       "added_at": null,
@@ -703,6 +639,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 117426,
+      "name": "Collision Course",
+      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 157643,
       "name": "New American",
       "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
       "artists": [
         {
@@ -760,9 +760,25 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Dominoes Fall",
-      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+      "duration_ms": 96053,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 124600,
       "name": "Sex & Death",
       "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "Back Where I Belong",
-      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
     }
   ],
   "unique_name": "This Is Rancid",

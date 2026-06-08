@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Watch <a href="spotify:episode:5oG3OBikHqGgz7WkzqOdZp">Billions Club Live with Olivia Rodrigo: A Concert Film</a> on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,334 likes - 1,293 songs - 3 day 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,636 likes - 1,293 songs - 3 day 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

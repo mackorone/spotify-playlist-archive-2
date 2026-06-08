@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349186,
+      "name": "I Know It's Over - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+    },
+    {
+      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
       },
@@ -2892,6 +2910,28 @@
       "duration_ms": 82146,
       "name": "I Will Always Think of You",
       "url": "https://open.spotify.com/track/3OrqExOwr13y6UCI1LGhA4"
+    },
+    {
+      "album": {
+        "name": "Helluva Boss: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1HDR0biM8Zkob6kAv4ojuz"
+      },
+      "artists": [
+        {
+          "name": "Helluva Boss",
+          "url": "https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7"
+        },
+        {
+          "name": "Barrett Wilbert Weed",
+          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168304,
+      "name": "I Will Be Okay",
+      "url": "https://open.spotify.com/track/0kY2WYLYXGPkmx8SqwHOWn"
     },
     {
       "album": {

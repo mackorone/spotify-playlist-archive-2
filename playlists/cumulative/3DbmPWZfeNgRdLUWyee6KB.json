@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "'O Viandante",
+        "url": "https://open.spotify.com/album/4tc1M4U51P22LczCxMMQRM"
+      },
+      "artists": [
+        {
+          "name": "apokalypto fusion",
+          "url": "https://open.spotify.com/artist/10pz2NMMZ5DDuQEySorub2"
+        },
+        {
+          "name": "rod frequencies",
+          "url": "https://open.spotify.com/artist/4rVXyp77Xbl0jWjkJA7xUk"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204959,
+      "name": "'O Viandante",
+      "url": "https://open.spotify.com/track/3MMrv7z89SLgyILabY9rGX"
+    },
+    {
+      "album": {
         "name": "Arsura",
         "url": "https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV"
       },
@@ -622,6 +644,24 @@
       "duration_ms": 168919,
       "name": "A Luz Do Luar",
       "url": "https://open.spotify.com/track/10WPN7B7VCLghDLNps9FJa"
+    },
+    {
+      "album": {
+        "name": "A Luz Do Luar",
+        "url": "https://open.spotify.com/album/2FImaPJxu0tEBImHlaQyUl"
+      },
+      "artists": [
+        {
+          "name": "Henry Key",
+          "url": "https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168919,
+      "name": "A Luz Do Luar",
+      "url": "https://open.spotify.com/track/6QUlQlRXtX2HZnhmZAMjgg"
     },
     {
       "album": {
@@ -4140,6 +4180,24 @@
       "duration_ms": 201898,
       "name": "Desert Roll",
       "url": "https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA"
+    },
+    {
+      "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C"
+      },
+      "artists": [
+        {
+          "name": "Federico Secondulfo",
+          "url": "https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191176,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7"
     },
     {
       "album": {
@@ -12970,6 +13028,24 @@
       "duration_ms": 255240,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4wO1fussauPYP4KdZlo2Qn"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D"
+      },
+      "artists": [
+        {
+          "name": "Glorification",
+          "url": "https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163995,
+      "name": "Obscure Word",
+      "url": "https://open.spotify.com/track/1lfjefopFaFjKRtdyEaEhm"
     },
     {
       "album": {

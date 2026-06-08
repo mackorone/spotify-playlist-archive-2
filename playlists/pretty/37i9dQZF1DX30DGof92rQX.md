@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,992 likes - 79 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,052 likes - 79 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 2 | [Husna Di Sarkar](https://open.spotify.com/track/7C1tMBdoav72OBnAgqE68B) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Husna Di Sarkar](https://open.spotify.com/album/1VBFZpjy5aZeIpQDnShsi0) | 2:27 |
 | 3 | [Guzara](https://open.spotify.com/track/6KdQqhjbBgexTPtgCkfLbR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Guzara](https://open.spotify.com/album/2c13pvTJsBYxd9LsB7l395) | 2:45 |
 | 4 | [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 |
-| 5 | [Tujhe Jaane Diya](https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct) | [Ad Arfeen Raza](https://open.spotify.com/artist/579Sxj2PYAATl90RIZjk60), [Shazz\-E](https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1), [Hibara](https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf) | [Tujhe Jaane Diya](https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F) | 3:34 |
+| 5 | [Tujhe Jaane Diya](https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct) | [Ad](https://open.spotify.com/artist/4ldvEYM1XaAPCtyyWqeZ6v), [Arfeen Raza](https://open.spotify.com/artist/2un6oSRbi6B3MEma7cVYpf), [Shazz\-E](https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1), [Hibara](https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf) | [Tujhe Jaane Diya](https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F) | 3:34 |
 | 6 | [Roye \(feat\. Hassan Hayat Khan\)](https://open.spotify.com/track/3gh6DwuQALtWKLaEHqUza9) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Hassan Hayat Khan](https://open.spotify.com/artist/7pZvI8CG46RY4b7Wbi9I4J) | [Roye \(feat\. Hassan Hayat Khan\)](https://open.spotify.com/album/66nRiu0pNSsziZJM6g0XKk) | 2:26 |
 | 7 | [Sun Yaara](https://open.spotify.com/track/4ZTvMKH6oNuAFaguKsjrGf) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [The Night Of Song](https://open.spotify.com/album/4EdbflXbLHHdr811w4SpfQ) | 5:10 |
 | 8 | [Chan Mahi](https://open.spotify.com/track/2ZJrufS0gheRjFtZfkis2I) | [Shokey](https://open.spotify.com/artist/2wEwBichxhdvnFOMaDzWBf), [Sami Amiri](https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP), [Mr Mani](https://open.spotify.com/artist/7A2DOY8YaO8BWqwwG5vQT8) | [Chan Mahi](https://open.spotify.com/album/61ihiXtfySq3pUPpg2jS6O) | 3:16 |

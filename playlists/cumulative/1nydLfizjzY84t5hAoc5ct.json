@@ -3793,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "The Blue Dark",
+        "url": "https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag"
+      },
+      "artists": [
+        {
+          "name": "Acolyte",
+          "url": "https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288173,
+      "name": "The Blue Dark",
+      "url": "https://open.spotify.com/track/2X2RhWLZ1yV0PHXAEtDvCv"
+    },
+    {
+      "album": {
         "name": "The Dreamer",
         "url": "https://open.spotify.com/album/00O1ouk8SZeJAPHlTjiSf3"
       },
@@ -4126,6 +4144,24 @@
       "duration_ms": 180096,
       "name": "Walk Of Shame",
       "url": "https://open.spotify.com/track/1omqJvBW6elx8A4O3neTXJ"
+    },
+    {
+      "album": {
+        "name": "The Blue Dark",
+        "url": "https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag"
+      },
+      "artists": [
+        {
+          "name": "Acolyte",
+          "url": "https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Warm Days In December",
+      "url": "https://open.spotify.com/track/3MSazpukrmtC31wP1DoDv5"
     },
     {
       "album": {

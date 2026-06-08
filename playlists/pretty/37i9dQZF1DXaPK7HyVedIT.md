@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: VINNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,784 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,651 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 80 | [Wish I Didn't Miss You](https://open.spotify.com/track/6xMxBUj1l5MlsHt3clei1Z) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Wish I Didn't Miss You](https://open.spotify.com/album/4us9roUqXMVHurHz5Qwt9x) | 3:48 |
 | 81 | [Vem Comigo](https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Olive Anguz](https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Vem Comigo](https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX) | 3:27 |
 
-Snapshot ID: `AAAAAKvGk1ljha9DV87a2i2OlhJxGzFF`
+Snapshot ID: `AAAAAHNkXu78bIqEXi1NjnZCAGgzI2xz`

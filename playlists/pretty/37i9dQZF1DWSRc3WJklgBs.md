@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,692 likes - 192 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,661 likes - 192 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 191 | [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 |
 | 192 | [north star](https://open.spotify.com/track/4RjJWMbeijZfnLlkpHVqQX) | [glittr](https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ), [sunbreather](https://open.spotify.com/artist/7G1VXGABzXWI1DEZ8iDImS) | [north star](https://open.spotify.com/album/09rlM00CJL0s1Er5PJifP8) | 3:41 |
 
-Snapshot ID: `AAAAADySQry16A0YoPxVjPgs1G0Rwcri`
+Snapshot ID: `AAAAAJTA50ksnktNamzmGZEHiIWJpFWD`

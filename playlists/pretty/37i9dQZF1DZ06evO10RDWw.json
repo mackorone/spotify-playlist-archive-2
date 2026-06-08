@@ -1,29 +1,13 @@
 {
   "description": "This is Saosin. The essential tracks, all in one playlist.",
-  "num_followers": 10577,
+  "num_followers": 10584,
   "original_name": "This Is Saosin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAADY48IFgmhykI/B5s8jUKhx",
+  "snapshot_id": "aiNjAAAAAACW7HCeuddZGIgMWjiwAiaQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "I Keep Secrets Safe",
-      "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "I Keep Secrets Safe",
+      "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Nothing Is What It Seems",
-      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 234546,
       "name": "It's Far Better To Learn",
       "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Nothing Is What It Seems",
+      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 171827,
       "name": "Sleepers",
       "url": "https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 195186,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "The Worst of Me",
-      "url": "https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 189213,
       "name": "Finding Home",
       "url": "https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "The Worst of Me",
+      "url": "https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 159053,
-      "name": "Why Can't You See",
-      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f"
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
       },
       "artists": [
         {
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 197888,
-      "name": "Pitiful - Live",
-      "url": "https://open.spotify.com/track/5ebNBO5QrgmQLczRlp1rly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "The Stutter Says A Lot",
-      "url": "https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b"
+      "duration_ms": 159053,
+      "name": "Why Can't You See",
+      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
     },
     {
       "added_at": null,
@@ -475,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "The Stutter Says A Lot",
+      "url": "https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176386,
       "name": "New Angel",
       "url": "https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 197888,
+      "name": "Pitiful - Live",
+      "url": "https://open.spotify.com/track/5ebNBO5QrgmQLczRlp1rly"
     },
     {
       "added_at": null,

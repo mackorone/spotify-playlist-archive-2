@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 442336,
+  "num_followers": 442367,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
         "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
-        "name": "brb",
-        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "brb",
-      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 204706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 357956,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
         "name": "Ave de Paso",
         "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 230588,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 357956,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "le f*llen al miedo",
         "url": "https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 130174,
       "name": "HAY UN MURO ENTRE LOS DOS",
       "url": "https://open.spotify.com/track/42MTWtkwwLEXGsTkUbGnHP"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "Atanor",
+        "url": "https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Notre-Dame",
+      "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "No tenemos tiempo",
         "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "El Acabose/Ah! Ah! Ah!",
-        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 211272,
-      "name": "El Acabose",
-      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "El Acabose/Ah! Ah! Ah!",
+        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "El Acabose",
+      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "La quiero a morir",
         "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 255096,
       "name": "La quiero a morir",
       "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "Atanor",
-        "url": "https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Notre-Dame",
-      "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
-        "name": "Espejito espejito",
-        "url": "https://open.spotify.com/album/1qUOfmhKltvfzgMmVxsTKN"
-      },
-      "artists": [
-        {
-          "name": "BARIRI",
-          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Espejito espejito",
-      "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
         "name": "Pictures",
         "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
+        "name": "Espejito espejito",
+        "url": "https://open.spotify.com/album/1qUOfmhKltvfzgMmVxsTKN"
+      },
+      "artists": [
+        {
+          "name": "BARIRI",
+          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Espejito espejito",
+      "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
-        "name": "Algo Fugaz",
-        "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
-      },
-      "artists": [
-        {
-          "name": "John Squalo",
-          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
-        },
-        {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
-        }
-      ],
-      "duration_ms": 137101,
-      "name": "Algo Fugaz",
-      "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
         "name": "surub\u00ed",
         "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 186737,
       "name": "1 Dolor",
       "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
+        "name": "Algo Fugaz",
+        "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
+      },
+      "artists": [
+        {
+          "name": "John Squalo",
+          "url": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
+        },
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "duration_ms": 137101,
+      "name": "Algo Fugaz",
+      "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
-        "name": "El final",
-        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
-      },
-      "artists": [
-        {
-          "name": "Verde Prato",
-          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
-        }
-      ],
-      "duration_ms": 198995,
-      "name": "La ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
+        "name": "El final",
+        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
+      },
+      "artists": [
+        {
+          "name": "Verde Prato",
+          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "La ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
     },
     {
       "added_at": "2026-05-28 22:00:06",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2026-05-28 22:00:06",
       "album": {
+        "name": "No quiero olvidar",
+        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 201441,
+      "name": "No quiero olvidar",
+      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2026-05-28 22:00:06",
+      "album": {
         "name": "Barco Fantasma",
         "url": "https://open.spotify.com/album/3Zf2SAk5W1TJgiq7BSUDTJ"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 194520,
       "name": "Coidar doutras colmeas",
       "url": "https://open.spotify.com/track/3bEXHiZLhoQSYrAUyv6uV3"
-    },
-    {
-      "added_at": "2026-05-28 22:00:06",
-      "album": {
-        "name": "No quiero olvidar",
-        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 201441,
-      "name": "No quiero olvidar",
-      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
     },
     {
       "added_at": "2026-05-28 22:00:06",

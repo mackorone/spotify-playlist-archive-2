@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,864 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,792 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 |
 | 100 | [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F) | 3:41 |
 
-Snapshot ID: `AAAAAMLpCWLP60E7L2jcBVkYBZEDGtyS`
+Snapshot ID: `AAAAABzdBjaYv7E8LjMOpDF2783QLRwx`

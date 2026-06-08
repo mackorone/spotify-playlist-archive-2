@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 10 min
+128 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,12 +127,13 @@
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [1100 Bel Air Place](https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn) | 3:33 | 2023-04-28 |  |
 | [Tumbleweeds and Chewing Gum](https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tumbleweeds and Chewing Gum](https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl) | 2:39 | 2026-03-24 | 2026-04-10 |
 | [Uncertain, TX \(feat\. Willie Nelson\)](https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:33 | 2026-05-03 |  |
+| [We'd Make A Good Movie](https://open.spotify.com/track/293CdrhhfzsjNB7xdlNr1R) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 3:32 | 2026-06-08 |  |
 | [We'd Make A Good Movie](https://open.spotify.com/track/54hGrZ6lgi51YYnsfTRIaF) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [We'd Make A Good Movie](https://open.spotify.com/album/3lpVPRuaulx4hl0JzjteU1) | 3:32 | 2026-04-19 | 2026-06-07 |
 | [Welcome To Hazeville](https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 3:01 | 2023-04-28 |  |
 | [What If I'm Out Of My Mind](https://open.spotify.com/track/44YzCXsGhUaN82i8EAyO0C) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:57 | 2024-06-07 | 2024-06-24 |
 | [When I Sang My Last Hillbillie Song](https://open.spotify.com/track/146YqofwHQVo0Xt1AG3zZN) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sarg](https://open.spotify.com/artist/5ByC3fs2apahS0UY3eaA1K) | [When I Sang My Last Hillbillie Song b/w A Storm Is Just Begun](https://open.spotify.com/album/41fzw6X1B8SQda46MIrjA7) | 2:08 | 2026-02-28 | 2026-03-27 |
 | [Whiskey River](https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:07 | 2023-04-28 |  |
-| [Whiskey Wants Me To](https://open.spotify.com/track/2jRClbfRe2YF7eE0V3lLiZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 2:15 | 2026-06-05 |  |
+| [Whiskey Wants Me To](https://open.spotify.com/track/2jRClbfRe2YF7eE0V3lLiZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 2:15 | 2026-06-05 | 2026-06-08 |
 | [Workin' Man Blues](https://open.spotify.com/track/2toNxoxpnIjDqHozpOpmm3) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Workin' Man Blues](https://open.spotify.com/album/0t9ceMJd6kciqcTwNDRWcc) | 5:15 | 2025-09-06 | 2025-10-07 |
 | [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/2zMuGPbl3pgxbbO3ayqoQE) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [You Left Me A Long, Long Time Ago](https://open.spotify.com/album/10pIXX2E1ZNIWFBGQDlMXt) | 4:18 | 2023-06-23 | 2023-08-05 |
 

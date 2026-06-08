@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,658 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,644 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Night Cruising](https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs), [5OW](https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164) | [Night Cruising](https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0) | 1:32 |
 | 100 | [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 |
 
-Snapshot ID: `AAAAAEc3l8kQAh7Q5FcLyMUNaYu23Ssb`
+Snapshot ID: `AAAAAG0mDr5RnP0NdplH9EjWR/DgXDeM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,533 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,572 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [EUPHORIA](https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA) | [Certified Sampson](https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm), [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [EUPHORIA](https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g) | 3:24 |
 | 100 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
 
-Snapshot ID: `AAAAAFFzXGqfjegMK5D696GhuL7ZOHV0`
+Snapshot ID: `AAAAAHkPPndI570nG19y2rFTIoBzET4F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > We highly recommend Los Angeles DJ A/S/L 🔥🐀 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,395 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,354 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Our Home](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Mydnight](https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe) | 3:33 |
 | 100 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAADIDi/uTnXRJqzF7/R/2FuCx8np8`
+Snapshot ID: `AAAAAOTZqKa8AZYJfwUSXqtHJjDt+hHk`

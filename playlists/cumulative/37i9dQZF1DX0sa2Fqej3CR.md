@@ -4,7 +4,7 @@
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-523 songs - 1 day 6 hr 33 min
+524 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2026-05-31 |  |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-12-26 | 2026-06-01 |
 | [Red Devils](https://open.spotify.com/track/4tlLvWKnTyXNKk1NAxoW2j) | [피아](https://open.spotify.com/artist/0Fxv9zwau5n1luu2adbZp2) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 3:15 | 2026-05-31 |  |
+| [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 | 2026-06-08 |  |
 | [Reds, Go Together](https://open.spotify.com/track/7wBY3AMJTftdA5qcp7Vl63) | [버즈](https://open.spotify.com/artist/0ekkC4Hy7Ki03yVHhTWiws) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 4:02 | 2026-05-31 |  |
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-07-04 | 2022-12-05 |
 | [Reflection \- From "Mulan"](https://open.spotify.com/track/0w3rgvi520T6gLn4PQKFrD) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Reflection \(From "Mulan"\)](https://open.spotify.com/album/6RcZ2wIvWPeLv6SRU1P9Rq) | 3:39 | 2025-01-06 | 2026-06-01 |

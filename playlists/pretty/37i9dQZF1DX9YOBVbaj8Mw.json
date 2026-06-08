@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20489,
+  "num_followers": 20486,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Obywatelka K.L.",
-        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Sexy doll",
-      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tak jak tutaj stoj\u0119",
         "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 159018,
       "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
       "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Obywatelka K.L.",
+        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Sexy doll",
+      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "ZA DU\u017bO GITAR",
-        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
-      },
-      "artists": [
-        {
-          "name": "Jacko Brango",
-          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
-        }
-      ],
-      "duration_ms": 207232,
-      "name": "ZE SPRITE'EM",
-      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Ramen",
         "url": "https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 237631,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "ZA DU\u017bO GITAR",
+        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
+      },
+      "artists": [
+        {
+          "name": "Jacko Brango",
+          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "ZE SPRITE'EM",
+      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Razorblade Psalm",
+        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
+      },
+      "artists": [
+        {
+          "name": "Hostia",
+          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "An Empty Grave Is Just A Hole In The Ground",
+      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Pianorizon",
         "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 203000,
       "name": "W \u017byciu Bywa Jak W Piosence",
       "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Razorblade Psalm",
-        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
-      },
-      "artists": [
-        {
-          "name": "Hostia",
-          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "An Empty Grave Is Just A Hole In The Ground",
-      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
     },
     {
       "added_at": "2026-05-26 09:05:26",

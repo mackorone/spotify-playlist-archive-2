@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 293173,
       "name": "A Mighty Fortress",
       "url": "https://open.spotify.com/track/4aXRfTFWLeDQS2Fjd8msdy"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 232866,
       "name": "Libera nos, salva nos",
       "url": "https://open.spotify.com/track/6WKCZ5tkvmu7Y0YaZnanI8"
@@ -1458,10 +1458,86 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 225800,
       "name": "Love Divine, All Loves Excelling",
       "url": "https://open.spotify.com/track/2Vi7zyw5p35hLTgLiXt7Eh"
+    },
+    {
+      "album": {
+        "name": "Rutter: Mass of the Children & Other Works",
+        "url": "https://open.spotify.com/album/0aqriz82R7vS5pLf3HvO8x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Joanne Lunn",
+          "url": "https://open.spotify.com/artist/2kbvqcZOJwj0a536bZ4Rjf"
+        },
+        {
+          "name": "Roderick Williams",
+          "url": "https://open.spotify.com/artist/3AgfuptJ2ldYrLv5O6lkuJ"
+        },
+        {
+          "name": "Cantate Youth Choir",
+          "url": "https://open.spotify.com/artist/0ErHftkWeggL51Ij0UfB7J"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449760,
+      "name": "Mass of the Children: II. Gloria",
+      "url": "https://open.spotify.com/track/5YKcWaHJF0He7zklBIhKsu"
+    },
+    {
+      "album": {
+        "name": "Rutter: Mass of the Children & Other Works",
+        "url": "https://open.spotify.com/album/0aqriz82R7vS5pLf3HvO8x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Joanne Lunn",
+          "url": "https://open.spotify.com/artist/2kbvqcZOJwj0a536bZ4Rjf"
+        },
+        {
+          "name": "Roderick Williams",
+          "url": "https://open.spotify.com/artist/3AgfuptJ2ldYrLv5O6lkuJ"
+        },
+        {
+          "name": "Cantate Youth Choir",
+          "url": "https://open.spotify.com/artist/0ErHftkWeggL51Ij0UfB7J"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432320,
+      "name": "Mass of the Children: III. Sanctus - Benedictus",
+      "url": "https://open.spotify.com/track/6x4Xw3rwsnP7bSabnIgvJY"
     },
     {
       "album": {
@@ -1492,6 +1568,32 @@
     {
       "album": {
         "name": "Rutter: The Gift of Life",
+        "url": "https://open.spotify.com/album/3XHVdko9yBfIOUbXiRyUlA"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379680,
+      "name": "No. 2, The Tree of Life",
+      "url": "https://open.spotify.com/track/05vPs4DW3lDNkfew15Xzac"
+    },
+    {
+      "album": {
+        "name": "Rutter: The Gift of Life",
         "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
       },
       "artists": [
@@ -1510,7 +1612,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 379680,
       "name": "No. 2, The Tree of Life",
       "url": "https://open.spotify.com/track/0lQptRsY9U4asQGeIx8Nps"
@@ -1722,7 +1824,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 197080,
       "name": "Suite Lyrique: 3. Aria",
       "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
@@ -1961,6 +2063,32 @@
     },
     {
       "album": {
+        "name": "Rutter: Mass of the Children & Other Works",
+        "url": "https://open.spotify.com/album/0aqriz82R7vS5pLf3HvO8x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370960,
+      "name": "To Every Thing There Is a Season (Version for Mixed Choir & Orchestra)",
+      "url": "https://open.spotify.com/track/38oE5rxqBknRMBNUwuXnas"
+    },
+    {
+      "album": {
         "name": "This Is the Day: Music on Royal Occasions",
         "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
       },
@@ -1980,10 +2108,36 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 93840,
       "name": "Touch Her Soft Lips and Part (From \"Henry V\")",
       "url": "https://open.spotify.com/track/7nKbQqjyTQ6GDqh2JDmgXj"
+    },
+    {
+      "album": {
+        "name": "This Is the Day: Music on Royal Occasions",
+        "url": "https://open.spotify.com/album/7gYaIlPziwQg0dZLoJa34n"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99516,
+      "name": "Touch Her Soft Lips and Part (From \"Henry V\")",
+      "url": "https://open.spotify.com/track/3AyBxuHEDJrZtvYWCIY9cI"
     },
     {
       "album": {
@@ -2074,7 +2228,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 321000,
       "name": "V. Agnus Dei",
       "url": "https://open.spotify.com/track/1m3fGcDD0E8WZj29z2d2H5"
@@ -2168,6 +2322,36 @@
       "duration_ms": 382000,
       "name": "VI. Esurientes",
       "url": "https://open.spotify.com/track/5xKwXfP8ZDt6uBR13HAfTw"
+    },
+    {
+      "album": {
+        "name": "Rutter: Fancies",
+        "url": "https://open.spotify.com/album/0zfQc7xWWnexxPfE0tBy1x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Duke Dobing",
+          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "VI. Rondeau",
+      "url": "https://open.spotify.com/track/6TiRcgT12wUdFKSSJaKS7p"
     },
     {
       "album": {

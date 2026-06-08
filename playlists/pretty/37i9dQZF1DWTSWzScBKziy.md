@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Cochren & Co.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,440 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,448 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Rushing](https://open.spotify.com/track/7b0FkHlN93w2hyW8bBDgd7) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Rushing](https://open.spotify.com/album/2B2cpJbsP8Rx52InsAwqQk) | 1:46 |
 | 100 | [ANOTHER WAY \- 26th Junction Remix](https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA) | [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD), [Kaégan](https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam), [26th Junction](https://open.spotify.com/artist/5HpnylF7vghXmoSK1LmVc5) | [ANOTHER WAY \(26th Junction Remix\)](https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz) | 2:37 |
 
-Snapshot ID: `AAAAAB5VcfeYg+t6E2S73Ep+sWneDK2s`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

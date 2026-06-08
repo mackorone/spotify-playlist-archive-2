@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,511 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,522 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Devolva a Minha Igrejinha \- Oração Acústica](https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq) | [Calmará](https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV) | [Devolva a Minha Igrejinha \- Oração Acústica](https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e) | 5:55 |
 | 50 | [No Avesso da História](https://open.spotify.com/track/4V7Y5eXPzGkxXMasrZZcVU) | [Gissela](https://open.spotify.com/artist/06psOTkZWYCfnfn4ZjxFkf) | [Em Teu Olhar](https://open.spotify.com/album/7IAO7DRVgyMu3bTtbsnF5p) | 3:20 |
 
-Snapshot ID: `AAAAAOZPbtwhc1z07SV4iZdbwNX5qmG+`
+Snapshot ID: `AAAAAOM0b4eXbhYacN/OSPdHdj99gDi1`

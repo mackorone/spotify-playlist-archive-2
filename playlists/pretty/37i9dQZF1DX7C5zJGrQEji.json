@@ -1,13 +1,101 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 14539,
+  "num_followers": 14562,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPa2HoVXwg0eFE3l6l0LbZNfCG6",
+  "snapshot_id": "AAAAAHbsFEWaXxOkyZVMo5QGzJJh3RZu",
   "tracks": [
+    {
+      "added_at": "2026-06-08 00:27:39",
+      "album": {
+        "name": "Sound of Blue (Nature Version)",
+        "url": "https://open.spotify.com/album/4ojkJ7nJRNJUllQVGHg2V3"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 217553,
+      "name": "Sound of Blue - Nature Version",
+      "url": "https://open.spotify.com/track/2VIcKGitYNDO562dMasWYT"
+    },
+    {
+      "added_at": "2026-06-08 00:27:39",
+      "album": {
+        "name": "GO SLOW (the shoreline version)",
+        "url": "https://open.spotify.com/album/5qjzRuDKgtHTvhvlcBG37Q"
+      },
+      "artists": [
+        {
+          "name": "Mr Bruce",
+          "url": "https://open.spotify.com/artist/2PzvM2s5ds69VVbNtJNo4E"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Alex Batchelor",
+          "url": "https://open.spotify.com/artist/1X4MLuh6p2tGdVQ4n4Evr1"
+        }
+      ],
+      "duration_ms": 246371,
+      "name": "GO SLOW - the shoreline version",
+      "url": "https://open.spotify.com/track/7BOuKswDcifPqQMMJpXfNi"
+    },
+    {
+      "added_at": "2026-06-08 00:27:39",
+      "album": {
+        "name": "A Different World",
+        "url": "https://open.spotify.com/album/58SK9T5kY14CC69JpUxb81"
+      },
+      "artists": [
+        {
+          "name": "Jason Singh",
+          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "A Different World",
+      "url": "https://open.spotify.com/track/2VZVYmxvW3E8pxFPULwiJd"
+    },
+    {
+      "added_at": "2026-06-08 00:27:39",
+      "album": {
+        "name": "Passing Through, Half Asleep",
+        "url": "https://open.spotify.com/album/6THHpR3ATdyzeEuoM5hNaP"
+      },
+      "artists": [
+        {
+          "name": "Anton Pearson",
+          "url": "https://open.spotify.com/artist/3wBccw9HDqo4aliT76tNHM"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 267187,
+      "name": "Passing Through, Half Asleep",
+      "url": "https://open.spotify.com/track/3t0YDfMkU0WVBC2EhHbVcs"
+    },
     {
       "added_at": "2026-04-17 11:08:17",
       "album": {
@@ -75,26 +163,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Cello, City, Sky",
-        "url": "https://open.spotify.com/album/48tULXQ4uUuXHGIQGobWJh"
-      },
-      "artists": [
-        {
-          "name": "The Wong Janice",
-          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Cello, City, Sky",
-      "url": "https://open.spotify.com/track/2wIXQkG9ZTCkjATHaK79mT"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Like Real People Do (feat. NATURE)",
         "url": "https://open.spotify.com/album/6of1wza1AE9KmiY1RLc8iP"
       },
@@ -111,46 +179,6 @@
       "duration_ms": 201000,
       "name": "Like Real People Do (feat. NATURE)",
       "url": "https://open.spotify.com/track/06qMEP66rkjgsCoie3WeQl"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Shelter Me (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Sturgeon",
-          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 254975,
-      "name": "Shelter Me (feat. NATURE)",
-      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Chronograph (feat. NATURE)",
-        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Thorne",
-          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 373514,
-      "name": "Chronograph (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -179,22 +207,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Morning Prayer (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4QnSttjqwSU7s9ivvebHEW"
+        "name": "Cello, City, Sky",
+        "url": "https://open.spotify.com/album/48tULXQ4uUuXHGIQGobWJh"
       },
       "artists": [
         {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+          "name": "The Wong Janice",
+          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Morning Prayer (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6ugmJyfpjNXTKUP59KAz3c"
+      "duration_ms": 204500,
+      "name": "Cello, City, Sky",
+      "url": "https://open.spotify.com/track/2wIXQkG9ZTCkjATHaK79mT"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -391,6 +419,26 @@
       "duration_ms": 282442,
       "name": "This Isn't It (feat. NATURE)",
       "url": "https://open.spotify.com/track/1cysjajx4kclT34bOVU74T"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Morning Prayer (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4QnSttjqwSU7s9ivvebHEW"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Morning Prayer (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6ugmJyfpjNXTKUP59KAz3c"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -651,6 +699,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Shelter Me (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
+      },
+      "artists": [
+        {
+          "name": "Jenny Sturgeon",
+          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 254975,
+      "name": "Shelter Me (feat. NATURE)",
+      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "All We Are (feat. NATURE)",
         "url": "https://open.spotify.com/album/7INNPDLpph0YxtMFsZFH9p"
       },
@@ -715,30 +783,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Life Goes On (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3vOOrWRwuomA8OIE53YRsP"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Fancy Fingers",
-          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Life Goes On (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7nQXaKlRB587FSC5JftWcN"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Shifting Shalestones (Felicia Douglass Remix)",
         "url": "https://open.spotify.com/album/7dQFDJHoQYlUz5vPSThvuv"
       },
@@ -763,6 +807,30 @@
       "duration_ms": 241242,
       "name": "Shifting Shalestones - Felicia Douglass Remix",
       "url": "https://open.spotify.com/track/0PuGvLwgBmEIkhiQW0j3tx"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Life Goes On (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3vOOrWRwuomA8OIE53YRsP"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Life Goes On (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7nQXaKlRB587FSC5JftWcN"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -831,26 +899,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Kata Matin (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6MDinpspaeLTAN3nVRIKkj"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 254867,
-      "name": "Kata Matin (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0yq1LOKzXinaEaFWk4N9S0"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Nature's Healing Symphonies",
         "url": "https://open.spotify.com/album/1FCZ3W7mfw5FBq1UIHxFNj"
       },
@@ -867,6 +915,46 @@
       "duration_ms": 220363,
       "name": "Reborn in the Rainforest (Sarayuku, Amazon)",
       "url": "https://open.spotify.com/track/3ertepO7FZ27eYC8UNrGQh"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Chronograph (feat. NATURE)",
+        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Thorne",
+          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 373514,
+      "name": "Chronograph (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Kata Matin (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6MDinpspaeLTAN3nVRIKkj"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 254867,
+      "name": "Kata Matin (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0yq1LOKzXinaEaFWk4N9S0"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1099,6 +1187,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "We Can't Walk Away (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
+      },
+      "artists": [
+        {
+          "name": "Dirty Vegas",
+          "url": "https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl"
+        },
+        {
+          "name": "Storeys",
+          "url": "https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "We Can't Walk Away (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Naima (feat. NATURE)",
         "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
       },
@@ -1167,30 +1279,6 @@
       "duration_ms": 298720,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/3PEKolpJBZNKo1zMROP0pV"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "We Can't Walk Away (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Vegas",
-          "url": "https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl"
-        },
-        {
-          "name": "Storeys",
-          "url": "https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "We Can't Walk Away (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -2127,90 +2215,6 @@
       "duration_ms": 195361,
       "name": "Drumming With The Birds (feat. NATURE)",
       "url": "https://open.spotify.com/track/2AJC2lX4uSIhSCET0j5oUr"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Noah (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4aJ61ha1wgTPFeS6tXdjeu"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Noah (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1A0xG6GikvDRtQbC2oAztI"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Lalelani (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0BQ9N3pe7uQj18ekIoPlUC"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Phila Dlozi",
-          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
-        }
-      ],
-      "duration_ms": 437454,
-      "name": "Lalelani (feat. NATURE)",
-      "url": "https://open.spotify.com/track/5HuZsoh9FMweL6QkhwhVJQ"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "The Natural World (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1DsGQJHhUuJIqNTIyQ8rRX"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
-        },
-        {
-          "name": "Compost Compost Compost",
-          "url": "https://open.spotify.com/artist/7qRBrTDuofTOZyULiXgbzv"
-        }
-      ],
-      "duration_ms": 205492,
-      "name": "The Natural World (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4re1NCFEWeDYSp37DdMulR"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "RESTORE (444 Hz)",
-        "url": "https://open.spotify.com/album/4DEHHezUuibFPhmgLp6VVx"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "RESTORE (444 Hz)",
-      "url": "https://open.spotify.com/track/5FWAGAk1A5m57K4Z97PKiT"
     }
   ],
   "unique_name": "feat. NATURE",

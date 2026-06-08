@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,270 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,283 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 |
 | 50 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
 
-Snapshot ID: `AAAAAHLBEAw0eMwX9oHoyEDL1Kz3i2xc`
+Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

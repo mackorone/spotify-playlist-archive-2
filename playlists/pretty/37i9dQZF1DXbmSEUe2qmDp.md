@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,020 likes - 84 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,045 likes - 84 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 83 | [Telha Véia \(Acusticasso\#8\) \- Ao Vivo](https://open.spotify.com/track/3XLyzBUjOzTNU2rAk1qi7d) | [William Santos](https://open.spotify.com/artist/6P8kyx8CHky00iuxUaI7Zb), [João Villa e Rafael](https://open.spotify.com/artist/0l14qMX6fxj4nURl6BglTU) | [Telha Véia \(Acusticasso\#8\) \[Ao Vivo\]](https://open.spotify.com/album/2Hn7Z1rKM3YpLIPkDH40gI) | 2:33 |
 | 84 | [Spoiler](https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg) | [Augusto Dávila](https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF) | [Não é por acaso](https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT) | 2:52 |
 
-Snapshot ID: `AAAAAEnV6y+ypID9NvX0YNWMtUXstTSf`
+Snapshot ID: `AAAAAAUyYrL8JB0Y8kRvQbD0LmDs66Mj`

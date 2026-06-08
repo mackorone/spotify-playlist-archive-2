@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: 1\-800 GIRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,493 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,496 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 70 | [SWITCH](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9), [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 2:44 |
 
-Snapshot ID: `AAAAAGjx6OWtakz+hH4kbUkfPY79mdWe`
+Snapshot ID: `AAAAAGhT3Q0teX5m1LwE22rYvmIzGobo`

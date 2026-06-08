@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 8171,
+  "num_followers": 8172,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAAzsbD78pvk947r59yl9hVf",
+  "snapshot_id": "aiNjAAAAAACc0zVyxFxT3LWNyvropcm6",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 195746,
-      "name": "Death Comes To Us All",
-      "url": "https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE"
+      "duration_ms": 142106,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/5moy9F2AxTQhmavYBe0qlw"
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170720,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/3Wzo0fhut2bV4QMSABptss"
+      "duration_ms": 217373,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 142106,
-      "name": "Spine",
-      "url": "https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au"
+      "duration_ms": 195746,
+      "name": "Death Comes To Us All",
+      "url": "https://open.spotify.com/track/0MJn8Vh5vsk7Cujs7upeoE"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/64WTjCulN3svPjeVgujYsb"
+      "duration_ms": 209346,
+      "name": "Damned If You Do, Dead If You Don't",
+      "url": "https://open.spotify.com/track/3Uzu6CiAddGPdV6dxCxoWC"
     },
     {
       "added_at": null,
@@ -699,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter and Verse (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "You've Got A Bad Case Of The Religions",
+      "url": "https://open.spotify.com/track/5ioXaKBEbaoXK5uAH5ipA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/5moy9F2AxTQhmavYBe0qlw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3Wzo0fhut2bV4QMSABptss"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Ways To Scream Your Name",
         "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 153333,
       "name": "Art Of American Football",
       "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Damned If You Do, Dead If You Don't",
-      "url": "https://open.spotify.com/track/3Uzu6CiAddGPdV6dxCxoWC"
     },
     {
       "added_at": null,
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 158360,
-      "name": "You've Got A Bad Case Of The Religions",
-      "url": "https://open.spotify.com/track/5ioXaKBEbaoXK5uAH5ipA3"
+      "duration_ms": 179719,
+      "name": "Pencil Pusher",
+      "url": "https://open.spotify.com/track/5rnTTRSV6pSNSuK4faIHKk"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 202813,
       "name": "To Die Like Mouchette",
       "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter and Verse (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08yfDfdvG31NTTmsDROzBA"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "Pencil Pusher",
-      "url": "https://open.spotify.com/track/5rnTTRSV6pSNSuK4faIHKk"
     },
     {
       "added_at": null,

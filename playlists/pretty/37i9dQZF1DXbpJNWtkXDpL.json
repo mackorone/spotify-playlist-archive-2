@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92455,
+  "num_followers": 92466,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACUCQGMB+P9nYrzEQLgh5DMCpAsJ",
+  "snapshot_id": "AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe",
   "tracks": [
     {
       "added_at": "2026-05-29 06:00:07",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 124878,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -395,6 +395,38 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "se subio alatorre",
+        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 133827,
+      "name": "se subio alatorre",
+      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
         "name": "C\u00ednico",
         "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
       },
@@ -427,22 +459,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "se subio alatorre",
-        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 133827,
-      "name": "se subio alatorre",
-      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "pa que",
         "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 196946,
       "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "le hablo a la luna de ti",
-      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -531,6 +515,42 @@
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        },
+        {
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+        }
+      ],
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "le hablo a la luna de ti",
+      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -555,22 +575,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "Victoria Miller",
         "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
       },
@@ -587,22 +591,18 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
       "artists": [
         {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Cuenta mis pasos",
-        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
-      },
-      "artists": [
-        {
-          "name": "The Space Ocean",
-          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
-        }
-      ],
-      "duration_ms": 217473,
-      "name": "Cuenta mis pasos",
-      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
         "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 192000,
       "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
       "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "Cuenta mis pasos",
+        "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "duration_ms": 217473,
+      "name": "Cuenta mis pasos",
+      "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
         "name": "buttermilk 2",
         "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "Ring Ring ft. Malo & Japanix",
-        "url": "https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq"
-      },
-      "artists": [
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        },
-        {
-          "name": "Japanix",
-          "url": "https://open.spotify.com/artist/0EexJOTm3efMnsUpWXRvRi"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
-        }
-      ],
-      "duration_ms": 124511,
-      "name": "Ring Ring ft. Malo & Japanix",
-      "url": "https://open.spotify.com/track/2agAnbaCqiwuEA0CF1xSfI"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "TUTSI POP",
         "url": "https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 202823,
       "name": "TUTSI POP",
       "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "Ring Ring ft. Malo & Japanix",
+        "url": "https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq"
+      },
+      "artists": [
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        },
+        {
+          "name": "Japanix",
+          "url": "https://open.spotify.com/artist/0EexJOTm3efMnsUpWXRvRi"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
+        }
+      ],
+      "duration_ms": 124511,
+      "name": "Ring Ring ft. Malo & Japanix",
+      "url": "https://open.spotify.com/track/2agAnbaCqiwuEA0CF1xSfI"
     },
     {
       "added_at": "2026-05-29 06:00:07",

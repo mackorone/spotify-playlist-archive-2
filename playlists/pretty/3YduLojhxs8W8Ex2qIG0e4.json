@@ -6,7 +6,7 @@
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJnU3kA7lvGr9GDNOjW55cezfMcA4V",
+  "snapshot_id": "AAAJn+/9rt+qXofDeto3tvim41OEfPhG",
   "tracks": [
     {
       "added_at": "2025-12-05 06:07:41",
@@ -23,6 +23,22 @@
       "duration_ms": 273771,
       "name": "Guilty of Murder",
       "url": "https://open.spotify.com/track/2pTVCo3HSGQO2x75b1k5PS"
+    },
+    {
+      "added_at": "2026-06-07 05:19:59",
+      "album": {
+        "name": "Rubber Mask of Holy Wrath",
+        "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Owen",
+          "url": "https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm"
+        }
+      ],
+      "duration_ms": 511173,
+      "name": "Rubber Mask of Holy Wrath",
+      "url": "https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K"
     },
     {
       "added_at": "2026-05-18 15:06:53",

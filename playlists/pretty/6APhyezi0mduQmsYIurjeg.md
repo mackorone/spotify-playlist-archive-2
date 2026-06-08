@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 557 songs - 1 day 9 hr 40 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 565 songs - 1 day 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -565,5 +565,13 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 555 | [Till i die](https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Till i die](https://open.spotify.com/album/2VLenjFE6X34XheGOSKfHo) | 2:16 |
 | 556 | [Feeling \- Radio Edit](https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B) | [Chavez Cartel](https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4) | [Feeling](https://open.spotify.com/album/419aOHm534nssVUrGdDr7U) | 4:20 |
 | 557 | [O Tanto Que Eu Vi](https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [O Tanto Que Eu Vi](https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr) | 4:09 |
+| 558 | [Greedy Bastards](https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Greedy Bastards](https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA) | 3:33 |
+| 559 | [O Meri Jana](https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk) | [sarkar\_1](https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5) | [O Meri Jana](https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY) | 3:46 |
+| 560 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 |
+| 561 | [Ninguém Te Ama Mais Que Eu](https://open.spotify.com/track/6EgThbL7n9QNKun777sFGc) | [Disco Morto](https://open.spotify.com/artist/2eaTNZnUi7KEjlrEmZQ8Gv) | ["Denovo"](https://open.spotify.com/album/37lbdw6Jgsb46uFccyBsiy) | 2:40 |
+| 562 | [Unseen](https://open.spotify.com/track/7JlIobxcyxqVEcix7RtcyV) | [Glenn Joseph Beats](https://open.spotify.com/artist/6CNGJJVoEwfqmLwq2HDLGc) | [Unseen Pieces \(Dual\)](https://open.spotify.com/album/6GCqWMNKGeLyywhUIaIsVw) | 3:38 |
+| 563 | [Hazlo Por Vos!](https://open.spotify.com/track/2yKlOSUKyZoBl8UwPYbdvb) | [Prieto](https://open.spotify.com/artist/5uipQ4Dyh3xSyPlTxjrcgW) | [Apenas Metros Da Estrada](https://open.spotify.com/album/4fuvp9GZh0Sd3NzwjCB30F) | 4:14 |
+| 564 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 |
+| 565 | [Top Of Your Game](https://open.spotify.com/track/55Owb4O3KxNTJZlCwx3NdK) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Top Of Your Game](https://open.spotify.com/album/0BU9Cq93XQfzuj0vR2vdF6) | 3:55 |
 
-Snapshot ID: `AAACwolQ+dRA4gR9aoMVijn7vDH58F2E`
+Snapshot ID: `AAACyhMPvsXy/bO/PvlbYlSrbklKkgml`

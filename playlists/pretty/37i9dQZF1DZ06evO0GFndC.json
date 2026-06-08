@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64133,
+  "num_followers": 64139,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAADje6af3iXa+kOQjLrfww0m",
+  "snapshot_id": "aiNjAAAAAADW5Tef9c3yoWfOIkvAThS5",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 179600,
-      "name": "TRX",
-      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
+      "duration_ms": 190966,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 190966,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
+      "duration_ms": 179600,
+      "name": "TRX",
+      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 190544,
+      "name": "Porte Fino - En Vivo",
+      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En la Ciudad",
         "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 186589,
       "name": "En la Ciudad",
       "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 190544,
-      "name": "Porte Fino - En Vivo",
-      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,
@@ -819,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
       "artists": [
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 219301,
-      "name": "Mi C\u00edrculo Vicioso",
-      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 185156,
       "name": "En las Calles Aprendi - En Vivo",
       "url": "https://open.spotify.com/track/05qxEdJG2iRHDP20f4pMpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
+      },
+      "artists": [
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 219301,
+      "name": "Mi C\u00edrculo Vicioso",
+      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
     },
     {
       "added_at": null,

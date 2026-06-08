@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 326644,
+  "num_followers": 326656,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAD/5lSyOr1+wnq4Qd58hP3F",
+  "snapshot_id": "aiNjAAAAAABkGLXUKKUfsNCNOLd6kXZm",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smaxk Or Die (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i"
-      },
-      "artists": [
-        {
-          "name": "Fatt Smaxk",
-          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 125360,
-      "name": "Smaxk Or Die - feat. Playboi Carti",
-      "url": "https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 166234,
       "name": "Over",
       "url": "https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smaxk Or Die (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Smaxk Or Die - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
-      },
-      "artists": [
-        {
-          "name": "Ethereal",
-          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
     },
     {
       "added_at": null,

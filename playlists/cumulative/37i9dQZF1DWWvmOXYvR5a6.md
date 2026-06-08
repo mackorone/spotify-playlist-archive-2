@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Brian Chase\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BANG YONGGUK\(방용국\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-831 songs - 1 day 20 hr 23 min
+832 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,11 +341,12 @@
 | [I'm Fine](https://open.spotify.com/track/2VxGghBQ7dapjd4klCSsIk) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I'm Fine](https://open.spotify.com/album/3r9GmelOBdg4Qz6UaU0Ca1) | 4:08 | 2022-05-03 | 2022-07-22 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-05-05 | 2022-06-20 |
 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 | 2022-04-21 | 2022-07-25 |
+| [If tomorrow never comes](https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [If tomorrow never comes](https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao) | 2:34 | 2026-06-08 |  |
 | [If you want](https://open.spotify.com/track/4kLQEmMSAZsfIYcXXFEWG8) | [STEN](https://open.spotify.com/artist/2SHWnUGXAM1IByZCvRFlnE), [noahjooda](https://open.spotify.com/artist/5MnVIg8khTLdt3CgVDWcNE), [Douner](https://open.spotify.com/artist/2FH3T1tSDKwxwdukRzux0L) | [If you want](https://open.spotify.com/album/3Q4iDAbeOmZXBm1raUDiu9) | 2:47 | 2022-07-09 | 2022-07-12 |
 | [iffy \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Dingo X H1GHR MUSIC](https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX) | 4:19 | 2022-07-24 |  |
 | [IIII](https://open.spotify.com/track/0U7bTv1s1bTVFDumtnM81H) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [IIII](https://open.spotify.com/album/0pZZCpIEQcr52yFXtL6UuS) | 2:55 | 2022-07-07 | 2022-07-23 |
 | [illa illa](https://open.spotify.com/track/02UxgpMd5uzA9h39tN7v3x) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:25 | 2022-07-24 | 2024-04-19 |
-| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2022-04-01 |  |
+| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2022-04-01 | 2026-06-08 |
 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 | 2023-05-05 | 2023-06-12 |
 | [Independent Music](https://open.spotify.com/track/7Jin5db4i7evTFvtGU1Am1) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Independent Music](https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU) | 3:10 | 2022-05-11 | 2022-07-24 |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-08-25 | 2023-12-05 |

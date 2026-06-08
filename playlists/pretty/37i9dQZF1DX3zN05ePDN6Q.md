@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Victor Xamã, WillsBife
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,650 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,657 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 75 | [antes do extermínio](https://open.spotify.com/track/5LbHBIuW9bst67saOofo8a) | [Brasileiro](https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4), [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [antes do extermínio](https://open.spotify.com/album/5Z83UofTAxo7akeEHNdxkP) | 3:14 |
 | 76 | [Block Party](https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Zander Zel](https://open.spotify.com/artist/0BoltRO9bTiqSLCSogpkS5), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [4F](https://open.spotify.com/album/3AREmsVJLjOkE6WquTIw7g) | 2:09 |
 
-Snapshot ID: `AAAAABaZDsuc02ka9XKVORDm3FaHQljf`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

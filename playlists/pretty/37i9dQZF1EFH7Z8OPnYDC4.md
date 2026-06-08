@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 339 songs - 19 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 664 likes - 339 songs - 19 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 198 | [The Man Who Has Everything](https://open.spotify.com/track/5Ga4cvsdRPYfXsfeCaFvPP) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [The Complete Jazz Sessions, 1962](https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC) | 5:58 |
 | 199 | [Plant You Now, Dig You Later](https://open.spotify.com/track/4DKZi2P6gIRPtqXuWk8Ubi) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 2:01 |
 | 200 | [I Must Love You](https://open.spotify.com/track/22mHFCaNFZ3KmtBI7fDqt1) | [Melvin Davis](https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH) | [Detroit Soul Ambassador](https://open.spotify.com/album/32mGVAOcuZRKw8AHXtArMS) | 2:37 |
-| 201 | [Do I Hear a Waltz](https://open.spotify.com/track/3GSwYMNHtGsI5NUvIMuOg3) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Sammy's Back On Broadway](https://open.spotify.com/album/1IbSivbOygwUjO4YmAq7YX) | 2:44 |
-| 202 | [Allies on the March \- 1992 Remastered](https://open.spotify.com/track/6HRpFbe2yK4d89i6layssz) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 5:14 |
+| 201 | [Allies on the March \- 1992 Remastered](https://open.spotify.com/track/6HRpFbe2yK4d89i6layssz) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 5:14 |
+| 202 | [Do I Hear a Waltz](https://open.spotify.com/track/3GSwYMNHtGsI5NUvIMuOg3) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Sammy's Back On Broadway](https://open.spotify.com/album/1IbSivbOygwUjO4YmAq7YX) | 2:44 |
 | 203 | [Symphonic Scenario \- 1992 Remastered](https://open.spotify.com/track/3b80F0zGAL0E6rBRo8PrjB) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 10:34 |
 | 204 | [Take Him](https://open.spotify.com/track/4JJvvDbogeINnTM88sfkDe) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Pal Joey](https://open.spotify.com/album/6go0aOcQ4LPiH1w8QR9td5) | 3:39 |
 | 205 | [Pal Joey](https://open.spotify.com/track/7IlJrHM843aQ0qgtuRlw3l) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 1:41 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 338 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 339 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AcThxgAAAADEqRfuaw0AykHAV+Kz+q4I`
+Snapshot ID: `AcTnXAAAAADbtsfg+naJhF4v9qzZP4cH`

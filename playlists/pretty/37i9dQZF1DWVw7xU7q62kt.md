@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,002 likes - 200 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,048 likes - 200 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 199 | [deep in it](https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [deep in it](https://open.spotify.com/album/7ElbJht6FB0z3ykuVKEh1L) | 2:34 |
 | 200 | [flygawd](https://open.spotify.com/track/1GVk47Cvw4gRGMpex3zZUp) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [flygawd](https://open.spotify.com/album/5SPbet9NmIrjo2YuvbH8wA) | 2:05 |
 
-Snapshot ID: `AAAAALiOWUMz14iRUX1m0VVHu2pwfxRH`
+Snapshot ID: `AAAAANBccpeblMGfp2wH8gELMZKhPNmR`

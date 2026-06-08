@@ -4230,6 +4230,24 @@
     {
       "album": {
         "name": "Zombie",
+        "url": "https://open.spotify.com/album/744ZStb6NXiYQW39S3D72H"
+      },
+      "artists": [
+        {
+          "name": "Nitemayor",
+          "url": "https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175245,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/77fdDHA04LaLC0A5jtyd4P"
+    },
+    {
+      "album": {
+        "name": "Zombie",
         "url": "https://open.spotify.com/album/6OpYReQjMFsWyIJnkTdGCy"
       },
       "artists": [
@@ -4240,7 +4258,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 175245,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7HJ4JM7lxa3GthnRJZMmdD"

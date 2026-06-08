@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 207990,
       "name": "24 TOMMUR",
       "url": "https://open.spotify.com/track/7dx6iDysKE7LuFXvXoatcr"
@@ -5930,7 +5930,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 160003,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ObtUJspNmBoU4gwm2e8Xr"
@@ -7080,6 +7080,28 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Lili Marlene",
+        "url": "https://open.spotify.com/album/2EHaw0jlguDv6oq32p1Pwy"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        },
+        {
+          "name": "Das Kapital",
+          "url": "https://open.spotify.com/artist/7voWN7BzHYsDjd6FPNmv5q"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281565,
+      "name": "Blindsker",
+      "url": "https://open.spotify.com/track/5u4qckaQYkKqx9jtdDbv7P"
     },
     {
       "album": {
@@ -11784,7 +11806,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 246960,
       "name": "Dancing in My Daydream",
       "url": "https://open.spotify.com/track/2hWWtotFnboeQrcxSS9ACa"
@@ -16772,7 +16794,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 167903,
       "name": "Erase Me",
       "url": "https://open.spotify.com/track/2Flhhxplc5XtSvs83vBrKx"
@@ -19035,6 +19057,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3l r\u00eds 1980\u20132020",
+        "url": "https://open.spotify.com/album/3k5VHbW7X75eqd72GHxwOW"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        },
+        {
+          "name": "Eg\u00f3",
+          "url": "https://open.spotify.com/artist/69fBMmYs9SDJ5cUmikwrWQ"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Fj\u00f6llin hafa vaka\u00f0",
+      "url": "https://open.spotify.com/track/0lLUgQk3B3mcry7S0jUaNj"
+    },
+    {
+      "album": {
         "name": "\u00cd mynd (S\u00e9r\u00fatg\u00e1fa)",
         "url": "https://open.spotify.com/album/5TM6ZJOcJaDErjRRqIss1r"
       },
@@ -20244,7 +20288,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -22078,7 +22122,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -22096,7 +22140,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -27580,7 +27624,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
@@ -29012,6 +29056,24 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "album": {
+        "name": "Isn't It Magic",
+        "url": "https://open.spotify.com/album/6trbLh74BmXs7GKnxYlr7t"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "Isn't It Magic",
+      "url": "https://open.spotify.com/track/5wuh1rHjgpLxA9bIXHFPVp"
     },
     {
       "album": {
@@ -40528,7 +40590,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -45607,6 +45669,24 @@
     },
     {
       "album": {
+        "name": "Regnbogans str\u00e6ti",
+        "url": "https://open.spotify.com/album/1PIpdn1Pg79mZs0GQAirGy"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345986,
+      "name": "Regnbogans str\u00e6ti",
+      "url": "https://open.spotify.com/track/0wOjo5JP9fYW4OyFGVsxmz"
+    },
+    {
+      "album": {
         "name": "Reign of Disease",
         "url": "https://open.spotify.com/album/4QVTzSncEemikmZAAFY1Ev"
       },
@@ -50332,7 +50412,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -52461,6 +52541,24 @@
     },
     {
       "album": {
+        "name": "\u00cdsbjarnarbl\u00fas (S\u00e9r\u00fatg\u00e1fa)",
+        "url": "https://open.spotify.com/album/1x9je4JnswCzf5FgIMaDVg"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107972,
+      "name": "St\u00e1l og hn\u00edfur",
+      "url": "https://open.spotify.com/track/7HO9xGZBitDNFWuhW2ZiG9"
+    },
+    {
+      "album": {
         "name": "2011-2012 CATALOG (REMASTERED)",
         "url": "https://open.spotify.com/album/7GcF6Ta9juI7Ojz0fuu7N1"
       },
@@ -52902,6 +53000,32 @@
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
+    },
+    {
+      "album": {
+        "name": "Svefnvana",
+        "url": "https://open.spotify.com/album/3RauZLYUFjVaUFM8XqOINs"
+      },
+      "artists": [
+        {
+          "name": "GCD",
+          "url": "https://open.spotify.com/artist/4rOaQg3fasbihPVR4Qft1M"
+        },
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        },
+        {
+          "name": "R\u00fanar J\u00fal\u00edusson",
+          "url": "https://open.spotify.com/artist/5H97alXxCid4JxUE0WPfZ7"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251332,
+      "name": "Sumari\u00f0 er t\u00edminn",
+      "url": "https://open.spotify.com/track/53PYwY9eUAETGgIVlnrx6t"
     },
     {
       "album": {
@@ -53764,7 +53888,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 190790,
       "name": "S\u00e1rab\u00f3t",
       "url": "https://open.spotify.com/track/3A6TPHkokIZzg4yNnh6Jjq"
@@ -54748,7 +54872,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 235216,
       "name": "Talk To Me About",
       "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"

@@ -1,15 +1,67 @@
 {
   "description": "Enjoy exclusive live performance videos from K-Pop artists produced by Spotify! (\uc2a4\ud3ec\ud2f0\ud30c\uc774\uac00 \ud504\ub85c\ub4c0\uc2f1\ud55c \ucf00\uc774\ud31d \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ud2b9\ubcc4\ud55c \ub77c\uc774\ube0c \ud37c\ud3ec\uba3c\uc2a4 \ube44\ub514\uc624\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 780,
+  "num_followers": 785,
   "original_name": "K-Pop Performance Video by Spotify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5ygbYiPurtZgLUOjxxke+THrUt",
+  "snapshot_id": "AAAAALtNrGLE/eyTCqNGbw9r9uDuCUoK",
   "tracks": [
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
+      "album": {
+        "name": "CRAZY (at PURE FLOWERS LIVE) l Presented by Spotify",
+        "url": "https://open.spotify.com/album/7rckq7pX7XmzgPNgSOaXMP"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 172553,
+      "name": "CRAZY (at PURE FLOWERS LIVE) l Presented by Spotify",
+      "url": "https://open.spotify.com/track/4KhF3kOe5u8eS27G8DEJI9"
+    },
+    {
+      "added_at": "2026-06-08 02:01:42",
+      "album": {
+        "name": "SPAGHETTI (at PURE FLOWERS LIVE) l Presented by Spotify",
+        "url": "https://open.spotify.com/album/7gDr60IgMn4LaVnKgafFV0"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 138931,
+      "name": "SPAGHETTI (at PURE FLOWERS LIVE) l Presented by Spotify",
+      "url": "https://open.spotify.com/track/2qWaY57V2DowqqMJFF8VYS"
+    },
+    {
+      "added_at": "2026-06-08 02:01:42",
+      "album": {
+        "name": "CELEBRATION (at PURE FLOWERS LIVE) l Presented by Spotify",
+        "url": "https://open.spotify.com/album/4tCfiJGGbg4EFwikgi84Sf"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 172318,
+      "name": "CELEBRATION (at PURE FLOWERS LIVE) l Presented by Spotify",
+      "url": "https://open.spotify.com/track/0bCr0rDZR3egGRYhD14PkJ"
+    },
+    {
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Sonder (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Creatures (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA"
@@ -41,7 +93,7 @@
       "url": "https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo"
@@ -57,7 +109,7 @@
       "url": "https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "SWIM (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
@@ -73,7 +125,7 @@
       "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "2.0 (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
@@ -89,7 +141,7 @@
       "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
@@ -105,7 +157,7 @@
       "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT"
@@ -121,7 +173,7 @@
       "url": "https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Beat It Up | Spotify Performance Video",
         "url": "https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y"
@@ -137,7 +189,7 @@
       "url": "https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "O.O Pt. 1 (Baila)",
         "url": "https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB"
@@ -153,7 +205,7 @@
       "url": "https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "O.O Part 1 (Baila)",
         "url": "https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7"
@@ -169,7 +221,7 @@
       "url": "https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Star Eyes (Spotify Live Version)",
         "url": "https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F"
@@ -185,7 +237,7 @@
       "url": "https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Star Eyes (Spotify Live Version)",
         "url": "https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V"
@@ -201,7 +253,7 @@
       "url": "https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "oops!",
         "url": "https://open.spotify.com/album/53P9gkabZ0sup2pTa0ySJs"
@@ -217,7 +269,7 @@
       "url": "https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "oops!",
         "url": "https://open.spotify.com/album/5tpi5cegn37C5Eb5inSESa"
@@ -233,7 +285,7 @@
       "url": "https://open.spotify.com/track/0rY7KVfZoLlUHVpCD7KEAm"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Upside Down Kiss",
         "url": "https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Upside Down Kiss",
         "url": "https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq"
@@ -265,7 +317,7 @@
       "url": "https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk"
@@ -281,7 +333,7 @@
       "url": "https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob"
@@ -329,7 +381,7 @@
       "url": "https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Loose (Korean Ver.)",
         "url": "https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm"
@@ -377,7 +429,7 @@
       "url": "https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx"
     },
     {
-      "added_at": "2026-06-01 03:00:06",
+      "added_at": "2026-06-08 02:01:42",
       "album": {
         "name": "Loose (Korean Ver.)",
         "url": "https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661"

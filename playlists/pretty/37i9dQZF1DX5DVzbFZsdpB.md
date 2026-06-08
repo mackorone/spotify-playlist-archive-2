@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 9 | [\#260 \- Xander McGuire \- Australian Media's Fastest Rising Star & Inside the McGuire Household](https://open.spotify.com/episode/3G2p5aJRJTwBRVFXrSGZGL) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:04:45 |
 | 10 | [\#254 \- Lauren Phillips \- Australia's Golden Girl](https://open.spotify.com/episode/4X1JGAJAY6z1eo4YsmDU9S) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 58:07 |
 
-Snapshot ID: `AAAAAC6msJBGuShUU2EK5muLXl3S5J6S`
+Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`

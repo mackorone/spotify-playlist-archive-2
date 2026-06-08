@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,588 likes - 100 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,676 likes - 100 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [EMMANUEL](https://open.spotify.com/track/42ZTYHCMSifp9Ie7QA8Rud) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh), [Pst\. Philip Olubakin](https://open.spotify.com/artist/74pp9axkqLkKoCiIMQJkXx), [Toju Egharegbemi](https://open.spotify.com/artist/3RwlTq4ZFTpltOJyuMpk3o) | [EMMANUEL](https://open.spotify.com/album/4WQBzGzQGdsvEA9qi1BR1c) | 13:28 |
 | 100 | [Miracle No Dey Tire Jesus II](https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Miracle No Dey Tire Jesus II](https://open.spotify.com/album/22dCKvtEeDtDQFM00sRe7u) | 7:46 |
 
-Snapshot ID: `AAAAAMawg+6DWw3Z4DY8/tUHLXzdAJs6`
+Snapshot ID: `AAAAAEjK+ZIA55eDsEi+2U9tfEYJnhyC`

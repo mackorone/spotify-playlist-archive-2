@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,444 likes - 99 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,563 likes - 99 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 98 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 |
 | 99 | [Singabantwana \- Live at Isibaya Casino](https://open.spotify.com/track/4aY18WykQoaNIJPqYB4qga) | [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH) | [Singabantwana \(Live at Isibaya Casino\)](https://open.spotify.com/album/49hkVpI50FfeWHeqeLKpSg) | 7:27 |
 
-Snapshot ID: `AAAAAKmCjbxzu3YB3MO+nqdO4two71z2`
+Snapshot ID: `AAAAAOSwb5YwSbqGQvrxLgc8UxTK41A2`

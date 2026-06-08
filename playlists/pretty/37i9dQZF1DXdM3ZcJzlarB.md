@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Jay de Lys
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,132 likes - 100 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,137 likes - 100 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Trama \- MAUFONK Remix](https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q) | [Closed I](https://open.spotify.com/artist/7IKZu4j5vGyS3nKWVj3qoy), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1), [MAUFONK](https://open.spotify.com/artist/1kq71DoWxjCGR4FZu8JGEo) | [Trama EP \(THE REMIXES\)](https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX) | 5:39 |
 | 100 | [Auch](https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Auch](https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P) | 5:12 |
 
-Snapshot ID: `AAAAADUFiMfZQbLCojcSDcNiJiDbZQqj`
+Snapshot ID: `AAAAAGFfWbpf+Tx/aL2JOn3X/pQKa48d`

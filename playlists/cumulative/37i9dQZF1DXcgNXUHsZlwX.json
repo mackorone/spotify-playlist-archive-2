@@ -8342,7 +8342,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 202821,
       "name": "Quel tourment !",
       "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
@@ -9376,6 +9376,24 @@
       "duration_ms": 233898,
       "name": "Tabarnouche",
       "url": "https://open.spotify.com/track/4ATXCgzqPn4YfkNOOCXDlF"
+    },
+    {
+      "album": {
+        "name": "TABLE DU FOND",
+        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Delage",
+          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157750,
+      "name": "TABLE DU FOND",
+      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
     },
     {
       "album": {

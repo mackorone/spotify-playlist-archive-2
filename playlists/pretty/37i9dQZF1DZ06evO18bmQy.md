@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,248 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,239 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 50 | [HOMO SACER](https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [ONIB](https://open.spotify.com/artist/6P8KnEUcgY8qUBzJvhWcw8) | [TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES](https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A) | 3:48 |
 
-Snapshot ID: `aiIRgAAAAAAf6ccguODTCr5jXYJPowRq`
+Snapshot ID: `aiNjAAAAAABDh+u/qxAN9q/IEAi4Nfdk`

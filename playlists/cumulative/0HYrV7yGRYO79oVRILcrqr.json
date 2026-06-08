@@ -6995,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "The Circle and the Stone",
+        "url": "https://open.spotify.com/album/3R1XzgDWQ4Geeyl3YQeQTQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Postlethwaite",
+          "url": "https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265795,
+      "name": "Put your love away",
+      "url": "https://open.spotify.com/track/2nBW7kWB6Tkln9MLeP7Rj4"
+    },
+    {
+      "album": {
         "name": "Queen They Love to Hate",
         "url": "https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC"
       },

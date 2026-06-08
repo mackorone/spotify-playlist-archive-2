@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Rian Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,370 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,377 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 |
 | 75 | [Crutch](https://open.spotify.com/track/1dS0XYWVtLNrkfyG8VAfEa) | [lil ket](https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7), [David Grey](https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC) | [Crutch](https://open.spotify.com/album/4zyDCy2bDu6BZKYcDIYlOl) | 2:31 |
 
-Snapshot ID: `AAAAADN/Wfn8TmwgzWQBKuo4DmZkf/BH`
+Snapshot ID: `AAAAADIAgaUkXqjASmK+/tfqp6jIcDBM`

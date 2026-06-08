@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-230 songs - 14 hr 18 min
+232 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Taste](https://open.spotify.com/track/4XV1TmHa8raGK34SZv4wJE) | [Michy Tree](https://open.spotify.com/artist/6IyOI1zh5l4XVk3H8WPjDi) | [Phases](https://open.spotify.com/album/6QXJtaPo6mjhcfwSwnpLr5) | 2:53 | 2025-11-16 | 2025-11-24 |
 | [That's What Won't Stop Torturing Me](https://open.spotify.com/track/4co7zpcuZXZ3XEX8lvkHEb) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [That's What Won't Stop Torturing Me](https://open.spotify.com/album/0CAmXlMBKOwpjZyAVj00Xe) | 2:34 | 2025-11-16 | 2026-02-02 |
 | [The Best](https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3) | [The Suite](https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4) | [The Best](https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV) | 2:18 | 2025-11-16 | 2025-12-01 |
+| [The Blue Dark](https://open.spotify.com/track/2X2RhWLZ1yV0PHXAEtDvCv) | [Acolyte](https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX) | [The Blue Dark](https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag) | 4:48 | 2026-06-07 |  |
 | [The Dreamer](https://open.spotify.com/track/21GNvaS4AaXlsWAhpknOUE) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [The Dreamer](https://open.spotify.com/album/00O1ouk8SZeJAPHlTjiSf3) | 3:20 | 2026-02-08 |  |
 | [The Garden](https://open.spotify.com/track/2rw809tUXjwDiYK9v3tU2m) | [Niamh Corkey](https://open.spotify.com/artist/6hIG8JTGYyqA0wYOykcHQf) | [The Garden](https://open.spotify.com/album/0H0eLf3AaVdtE950aSFWJB) | 3:18 | 2026-02-15 | 2026-02-27 |
 | [The Light](https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath) | [Myshkin's Ruby Warblers](https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF) | [The Light](https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88) | 3:09 | 2026-02-08 | 2026-05-04 |
@@ -226,6 +227,7 @@
 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 | 2025-11-16 | 2026-02-02 |
 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 | 2026-02-22 | 2026-05-04 |
 | [Walk Of Shame](https://open.spotify.com/track/1omqJvBW6elx8A4O3neTXJ) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [Walk Of Shame](https://open.spotify.com/album/51JkU9PDbOr0NPKjokIYjs) | 3:00 | 2026-03-21 |  |
+| [Warm Days In December](https://open.spotify.com/track/3MSazpukrmtC31wP1DoDv5) | [Acolyte](https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX) | [The Blue Dark](https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag) | 4:21 | 2026-06-07 |  |
 | [Warm/Safe](https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Warm/Safe](https://open.spotify.com/album/5ewK2wWp6uFddofEn3x9bO) | 2:55 | 2025-12-18 |  |
 | [When Did You Stop Dancing?](https://open.spotify.com/track/5TpbMuAVWV9u48WsnsJVer) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 4:26 | 2026-01-03 | 2026-02-02 |
 | [Where Did the Time Go](https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt) | [Ellyn Oliver](https://open.spotify.com/artist/5b5vgWOGZ4uQYYb5eWk9Tl) | [Where Did the Time Go](https://open.spotify.com/album/4DSfBuovOzfL54pgqRwV95) | 4:06 | 2025-11-16 | 2025-12-01 |

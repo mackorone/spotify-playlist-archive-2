@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 19 likes - 357 songs - 22 hr 49 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 19 likes - 359 songs - 22 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,5 +365,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 355 | [My Castle Town](https://open.spotify.com/track/6g0y8cpi8c9eCPfz5XvW5T) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapter 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/7DAiPXN3HdbktwwFzQXqrZ) | 2:07 |
 | 356 | [white noise.](https://open.spotify.com/track/4pMRw05NXRMuO6EYfXWsf1) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 2:12 |
 | 357 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
+| 358 | [I Know It's Over \- 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 5:49 |
+| 359 | [I Will Be Okay](https://open.spotify.com/track/0kY2WYLYXGPkmx8SqwHOWn) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz) | [Helluva Boss: Season Two \(Original Soundtrack\)](https://open.spotify.com/album/1HDR0biM8Zkob6kAv4ojuz) | 2:48 |
 
-Snapshot ID: `AAAERDc3+ZUNkKXXJMd3vLG7XyO7Xw31`
+Snapshot ID: `AAAERscNATP9vunUrW6N01KDnitFb2g7`

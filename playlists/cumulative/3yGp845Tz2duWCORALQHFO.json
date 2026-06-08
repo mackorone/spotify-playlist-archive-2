@@ -51511,6 +51511,32 @@
     },
     {
       "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/5qPnxyUvCXfUFS3i3qqoQq"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "SON.",
+          "url": "https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264375,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/39kHDCMZOcNfXJj9LJnPIH"
+    },
+    {
+      "album": {
         "name": "Joya (Radio)",
         "url": "https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2"
       },

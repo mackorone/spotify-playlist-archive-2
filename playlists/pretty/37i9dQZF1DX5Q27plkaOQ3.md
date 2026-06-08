@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 featuring Moody Good
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,664 likes - 200 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,633 likes - 200 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [March of the Machine](https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [The Machine](https://open.spotify.com/album/2ZSZcFH7PKIhGlmEvELLFg) | 4:07 |
 | 200 | [Space Whip](https://open.spotify.com/track/3ImEoNEyJXzpqkAwITnXCh) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Space Whip](https://open.spotify.com/album/4pil9OvSbry2tBPvhkmG4W) | 2:50 |
 
-Snapshot ID: `AAAAAHPTV6lgeD+xpOP4ENynvkzqjqTv`
+Snapshot ID: `AAAAAISH5UQsU0De4C99Ek8tPJbhFcGz`

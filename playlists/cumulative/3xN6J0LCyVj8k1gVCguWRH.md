@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,122 songs - 14 day 6 hr 15 min
+6,123 songs - 14 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [AWAY](https://open.spotify.com/track/2TdrO07XOUUGM0IrPiTeEO) | [4she](https://open.spotify.com/artist/4W78r25JeHO39Bwrtmli7t) | [AWAY](https://open.spotify.com/album/54SRHN8HmTjqgiX2fYfIzI) | 2:40 | 2024-04-05 | 2024-04-20 |
 | [Axis](https://open.spotify.com/track/5Wp7CChb0lfhB2Ol499gqn) | [JAN3T](https://open.spotify.com/artist/6151zA6z4sbiwQZX5POHc6) | [\-\-\->>>holy](https://open.spotify.com/album/0xNdxtmvlAbsl1hrllirbe) | 3:27 | 2024-07-17 | 2024-07-29 |
 | [Ay Amor a 4 Guitarras \- en vivo](https://open.spotify.com/track/2BaeJokduzqeR5dKSUdDXi) | [Alexis Venegas](https://open.spotify.com/artist/3JiStihkFwbEuL4nGuHWlM) | [Ay Amor a 4 Guitarras \(en vivo\)](https://open.spotify.com/album/0oAVdOI0NoQiP77KFYcWEf) | 4:25 | 2025-02-03 | 2025-02-15 |
+| [Ayakata](https://open.spotify.com/track/0eLi7ImxSjGGUx9PEo5AoN) | [Azeez Sanusi](https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi) | [Ayakata](https://open.spotify.com/album/0Y9nw0MLg5mGJeVn2Tgt6e) | 3:12 | 2026-06-08 |  |
 | [Azules](https://open.spotify.com/track/5ZWpidWRGBeMCtL5k5mRwc) | [Marta Luque](https://open.spotify.com/artist/5p986xumU59cCDxFAfmqbv) | [Azules](https://open.spotify.com/album/2cvVW3I0Wub3ppZQ59UlXE) | 1:42 | 2023-07-30 | 2023-08-10 |
 | [Aún Me Esperas](https://open.spotify.com/track/3Y1S2EDVKClhgUTKw3XOPd) | [WhiteCrazy](https://open.spotify.com/artist/2oxTpo5iYqY2zKO5iab7n4) | [Aún Me Esperas](https://open.spotify.com/album/7oNQKh868bRA8Z4Sz0aDlR) | 3:31 | 2026-03-22 | 2026-04-03 |
 | [B.D.E.](https://open.spotify.com/track/0eBKIMvX8DBHESnyBdK8fp) | [Will Wess](https://open.spotify.com/artist/5RGuXOz6v2CzxDTeCR2MBM) | [B.D.E.](https://open.spotify.com/album/2963FJ3pPSJiiHwk2tH0j0) | 3:43 | 2024-02-17 | 2024-02-28 |

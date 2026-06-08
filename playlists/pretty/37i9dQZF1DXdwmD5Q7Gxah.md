@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Malcolm Todd stans to the front 🫧  <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,360 likes - 155 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,323 likes - 155 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

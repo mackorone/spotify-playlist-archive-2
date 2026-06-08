@@ -5464,7 +5464,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 135090,
       "name": "Fuck You Money",
       "url": "https://open.spotify.com/track/7LYD0mKrU86HscARAfnlz4"
@@ -8668,6 +8668,24 @@
       "duration_ms": 245800,
       "name": "J\u00e4\u00e4vuorii",
       "url": "https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t"
+    },
+    {
+      "album": {
+        "name": "Kaaos",
+        "url": "https://open.spotify.com/album/3Oh5cPkBCiBiEQU5ZdXEzp"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Kaaos",
+      "url": "https://open.spotify.com/track/2a3LeExjHj6AbfaVIUGret"
     },
     {
       "album": {

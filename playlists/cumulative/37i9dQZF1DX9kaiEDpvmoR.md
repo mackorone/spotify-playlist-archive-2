@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-582 songs - 1 day 10 hr 25 min
+583 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Nothing's Gonna Change My Love For You](https://open.spotify.com/track/0nSid5s9n10MPfIwOkcef6) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Nothing’s Gonna Change My Love for You](https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN) | 3:30 | 2025-06-19 | 2026-02-13 |
 | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy) | 2:54 | 2024-08-15 | 2025-04-04 |
 | [Nu när vi ändå talar om döden \- Mauro Scocco Remix](https://open.spotify.com/track/3M0Mg0TNCRegl84z83T8oW) | [Svart Tulpan](https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u), [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Nu när vi ändå talar om döden \- Mauro Scocco Remix](https://open.spotify.com/album/5reJwNJz4dDbftlyrrxyX0) | 3:34 | 2024-09-12 | 2024-09-20 |
+| [Nu är det sommar](https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Nu är det sommar](https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA) | 3:07 | 2026-06-04 |  |
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 | 2025-04-04 |
 | [När änglar dör](https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [När änglar dör](https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN) | 3:11 | 2026-02-12 | 2026-03-27 |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
@@ -520,7 +521,7 @@
 | [Two Of Us](https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4) | [Ola Salo](https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1), [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Two Of Us](https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB) | 3:25 | 2025-06-12 | 2026-01-23 |
 | [Tänd hela himlen](https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Tänd hela himlen](https://open.spotify.com/album/60e3dAefZyr9y6FosBHqiT) | 3:13 | 2025-04-17 | 2025-04-23 |
 | [Tänker nästan jämt på dig](https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Göteborg sjunger Alf](https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT) | 3:47 | 2026-05-08 |  |
-| [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 | 2025-10-09 |  |
+| [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 | 2025-10-09 | 2026-06-08 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Unsatisfied Heart](https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 5:45 | 2025-06-26 | 2026-04-10 |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-04-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,908,196 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,908,009 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [blinded](https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [blinded](https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM) | 4:19 |
 | 100 | [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 |
 
-Snapshot ID: `AAAAAMOpitRRz1SqDS//deTDuCKBPxVe`
+Snapshot ID: `AAAAAODVM1SI9F64jI1syx718XZQj0eW`

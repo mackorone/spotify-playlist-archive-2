@@ -7795,6 +7795,24 @@
     },
     {
       "album": {
+        "name": "Ayakata",
+        "url": "https://open.spotify.com/album/0Y9nw0MLg5mGJeVn2Tgt6e"
+      },
+      "artists": [
+        {
+          "name": "Azeez Sanusi",
+          "url": "https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192278,
+      "name": "Ayakata",
+      "url": "https://open.spotify.com/track/0eLi7ImxSjGGUx9PEo5AoN"
+    },
+    {
+      "album": {
         "name": "Azules",
         "url": "https://open.spotify.com/album/2cvVW3I0Wub3ppZQ59UlXE"
       },

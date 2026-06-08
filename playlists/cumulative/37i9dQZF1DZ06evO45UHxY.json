@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 151458,
       "name": "El Gato Del Vecindario",
       "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
@@ -1540,6 +1540,24 @@
       "duration_ms": 138480,
       "name": "La chispa",
       "url": "https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n"
+    },
+    {
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2e4LFOqCxSSi96lqETyvyQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212096,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/5HGE00IBzT3waC280zixtr"
     },
     {
       "album": {

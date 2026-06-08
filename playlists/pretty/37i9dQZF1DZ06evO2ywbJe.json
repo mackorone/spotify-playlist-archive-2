@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8370,
+  "num_followers": 8381,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAC79xVg0Nn48r4r//DIGc08",
+  "snapshot_id": "aiNjAAAAAACdQigD8RXaf7+MCTfb7koS",
   "tracks": [
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bolanle",
+        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
+      },
+      "artists": [
+        {
+          "name": "IVD",
+          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173712,
+      "name": "Bolanle",
+      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TE WO II",
         "url": "https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 141025,
       "name": "TE WO II",
       "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolanle",
-        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
-      },
-      "artists": [
-        {
-          "name": "IVD",
-          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173712,
-      "name": "Bolanle",
-      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
     },
     {
       "added_at": null,

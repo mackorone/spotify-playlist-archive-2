@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101579,
+  "num_followers": 101580,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAADL3/XPwaIspPeR166np6ZK",
+  "snapshot_id": "aiNjAAAAAAAIFu0AgMgplYpK1h2TUXVz",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Beg For Your Love",
-      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 172533,
       "name": "To The Men That Love Women After Heartbreak",
       "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Beg For Your Love",
+      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 204106,
       "name": "First Time Again",
       "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F"
     },
     {
       "added_at": null,

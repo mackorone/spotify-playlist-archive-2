@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, numa edição especial co curada com Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,372 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,375 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 8 | [Mudar A Canção](https://open.spotify.com/track/7mqB9kLgxTuG3ACCOyNJtI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Carlão](https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA), [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulo de Carvalho](https://open.spotify.com/artist/7KZq6Dnxz9nVtLg45UMGEJ), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Simone de Oliveira](https://open.spotify.com/artist/6RNXZUrWCDL7SK75TkFStj) | [Mudar A Canção](https://open.spotify.com/album/7hwcdnuYalAEqFbLGYGFKl) | 3:07 |
 | 9 | [Na Ri Na](https://open.spotify.com/track/7h2XODFTIeYbfqGkSqcpt2) | [Lura](https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc) | [Di Korpu Ku Alma](https://open.spotify.com/album/1hFyvT1foSyvkSweWwBqyf) | 3:39 |
 | 10 | [Manga](https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Manga](https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9) | 2:50 |
-| 11 | [Ponte de Luz](https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/2dmW4NVAqxEamemXzCppBs) | 4:25 |
+| 11 | [Ponto De Luz](https://open.spotify.com/track/3GILmlmzkVB6ztrLvqjUTF) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Xinti](https://open.spotify.com/album/30XUQP4eHCi0gGvVFRZCD0) | 4:27 |
 | 12 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
 | 13 | [Rapariga \(feat\. Amália Rodrigues\)](https://open.spotify.com/track/12FmYEHJy6B13Mg1THQoAG) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Lusa: ato II](https://open.spotify.com/album/7kDPFNG3yYCLjhIElwAWJh) | 2:50 |
 | 14 | [ÉPOCA DE CAÇA ∆](https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:43 |

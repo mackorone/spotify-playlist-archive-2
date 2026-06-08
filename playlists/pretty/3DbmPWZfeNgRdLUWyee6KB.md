@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 122 songs - 7 hr 4 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 126 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 120 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 |
 | 121 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 |
 | 122 | [River](https://open.spotify.com/track/412EkWJlA3JvXKoLFNNEOC) | [Espiica](https://open.spotify.com/artist/3vSv3lvd46wOI2TuMnJEIo) | [You will find me](https://open.spotify.com/album/77yXoXeAtEELY8z5nUFNxz) | 3:49 |
+| 123 | [Obscure Word](https://open.spotify.com/track/1lfjefopFaFjKRtdyEaEhm) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 2:43 |
+| 124 | ['O Viandante](https://open.spotify.com/track/3MMrv7z89SLgyILabY9rGX) | [apokalypto fusion](https://open.spotify.com/artist/10pz2NMMZ5DDuQEySorub2), [rod frequencies](https://open.spotify.com/artist/4rVXyp77Xbl0jWjkJA7xUk) | ['O Viandante](https://open.spotify.com/album/4tc1M4U51P22LczCxMMQRM) | 3:24 |
+| 125 | [A Luz Do Luar](https://open.spotify.com/track/6QUlQlRXtX2HZnhmZAMjgg) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [A Luz Do Luar](https://open.spotify.com/album/2FImaPJxu0tEBImHlaQyUl) | 2:48 |
+| 126 | [Deserto](https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Deserto](https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C) | 3:11 |
 
-Snapshot ID: `AAAU+sCmQNeqobuFtzlUj0trlhHnPxSU`
+Snapshot ID: `AAAU/rG1cvQ43f9sNebIci1gxMQQnNoN`

@@ -4,13 +4,15 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-26 songs - 1 hr 30 min
+29 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
 | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-11-19 |  |
 | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo) | 3:02 | 2026-05-29 |  |
+| [CELEBRATION \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/0bCr0rDZR3egGRYhD14PkJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/4tCfiJGGbg4EFwikgi84Sf) | 2:52 | 2026-06-08 |  |
+| [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4KhF3kOe5u8eS27G8DEJI9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/7rckq7pX7XmzgPNgSOaXMP) | 2:52 | 2026-06-08 |  |
 | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 | 2026-06-01 |  |
 | [Freestyle](https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw) | 2:59 | 2025-11-19 |  |
 | [Freestyle](https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa) | 2:59 | 2025-11-19 |  |
@@ -27,6 +29,7 @@
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf) | 4:10 | 2025-11-19 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d) | 4:10 | 2025-11-19 |  |
 | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W) | 2:51 | 2026-06-01 |  |
+| [SPAGHETTI \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/2qWaY57V2DowqqMJFF8VYS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/7gDr60IgMn4LaVnKgafFV0) | 2:18 | 2026-06-08 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F) | 4:24 | 2025-11-19 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V) | 4:24 | 2025-11-19 |  |
 | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD) | 2:42 | 2026-04-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87992,
+  "num_followers": 88011,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
         "name": "Outsiders Remix EP",
         "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
       },
@@ -723,22 +703,22 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
       },
       "artists": [
         {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
         },
         {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-05-26 11:21:38",
@@ -763,6 +743,26 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
     },
     {
       "added_at": "2026-05-26 11:21:38",

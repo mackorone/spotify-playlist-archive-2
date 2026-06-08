@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265125,
+      "name": "Novembro",
+      "url": "https://open.spotify.com/track/0wWNe5cJaTOzBehjhKbxBT"
+    },
+    {
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
       },
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 209546,
       "name": "Seja o Centro",
       "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"

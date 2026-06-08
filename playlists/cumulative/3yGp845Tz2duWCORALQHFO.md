@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,277 songs - 12 day 0 hr 41 min
+5,278 songs - 12 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2401,6 +2401,7 @@
 | [Jet Setter](https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au) | [Jet Setter](https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U) | 2:54 | 2024-09-26 | 2024-10-05 |
 | [Jetsetter](https://open.spotify.com/track/1ngjPnoeRNLB922MFkFUjq) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Jetsetter](https://open.spotify.com/album/00SdOGtnnrEIbRnRO2w19F) | 2:49 | 2025-01-31 | 2025-02-07 |
 | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Diss Reaction](https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6) | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/album/78QmadtrN5axEatsJPecBR) | 2:39 | 2026-06-05 |  |
+| [Joy Is Coming](https://open.spotify.com/track/39kHDCMZOcNfXJj9LJnPIH) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [Joy Is Coming](https://open.spotify.com/album/5qPnxyUvCXfUFS3i3qqoQq) | 4:24 | 2026-06-07 |  |
 | [Joya \- Radio](https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [Joya \(Radio\)](https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2) | 4:03 | 2025-10-10 | 2025-10-18 |
 | [Joyenergizer \(Sander van Doorn 2025 Remix\)](https://open.spotify.com/track/4boz4oEimOWDtIbGs4FBDr) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Joyenergizer \(Sander van Doorn 2025 Remix\)](https://open.spotify.com/album/6gUghn3PvhlLfGxLiRuRCd) | 3:19 | 2025-08-22 | 2025-08-30 |
 | [Juice](https://open.spotify.com/track/5Z4fVgbRNz1aPy6bdf2jca) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Juice](https://open.spotify.com/album/2iY3g0sYtGjooe98tq46MB) | 3:22 | 2025-03-21 | 2025-03-29 |

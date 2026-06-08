@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-603 songs - 1 day 11 hr 57 min
+604 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [Quand vient le soir](https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Quand vient le soir](https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R) | 3:45 | 2026-05-08 |  |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 | 2026-06-04 |
-| [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-05-01 |  |
+| [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-05-01 | 2026-06-08 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 | 2025-11-13 |
 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2025-08-30 |
@@ -511,6 +511,7 @@
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |
 | [Tabarnouche](https://open.spotify.com/track/4ATXCgzqPn4YfkNOOCXDlF) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Tabarnouche](https://open.spotify.com/album/3X97tveuhYkqB9H4wVP0lV) | 3:53 | 2021-01-03\* | 2021-09-24 |
+| [TABLE DU FOND](https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj) | [Marc\-Antoine Delage](https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS) | [TABLE DU FOND](https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82) | 2:37 | 2026-06-05 |  |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 | 2023-10-20 | 2025-03-13 |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-04-28 | 2023-10-24 |
 | [Talk of the town \(feat\. Sophia Bel\)](https://open.spotify.com/track/7cnJEGjMIKOSxcpFnENxZJ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Cicada](https://open.spotify.com/album/2gWBjcvwjEUALOhl1PKYwQ) | 2:37 | 2026-05-15 |  |

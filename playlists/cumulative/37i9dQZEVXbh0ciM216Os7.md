@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,480 songs - 9 day 0 hr 45 min
+3,481 songs - 9 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1497,7 +1497,8 @@
 | [In The Joy \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6pXgWCfqkaYY7XsCs5JfOH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [In The Joy \(feat\. Anderson .Paak\)](https://open.spotify.com/album/7jf5ctiKWBPBQ6vNrRTI7B) | 3:17 | 2023-04-07 | 2023-04-15 |
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 | 2024-07-19 | 2024-08-03 |
 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-09 | 2026-05-31 |
-| [In The Stars \- Cirkut and Andrew Watt Remix](https://open.spotify.com/track/14W3MuGOhkAINlO1kVg0Rj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Andrew Watt](https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI), [Cirkut](https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/37JAJeWRJIQb2mNzKsoi2N) | 4:58 | 2026-06-07 |  |
+| [In The Stars \- Cirkut and Andrew Watt Remix](https://open.spotify.com/track/14W3MuGOhkAINlO1kVg0Rj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Andrew Watt](https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI), [Cirkut](https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/37JAJeWRJIQb2mNzKsoi2N) | 4:58 | 2026-06-07 | 2026-06-08 |
+| [In The Stars \- Cirkut and Andrew Watt Remix](https://open.spotify.com/track/6XR2w5VZaUc3OO1pFoaVV8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Andrew Watt](https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI), [Cirkut](https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 4:58 | 2026-06-08 |  |
 | [In This World \- Resound NYC Version](https://open.spotify.com/track/5pSMxWIyMrXeGA4YoTSzdH) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Marisha Wallace](https://open.spotify.com/artist/5lJBW5kGx5upWCxF8ziEmi), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [In This World \(Resound NYC Version\)](https://open.spotify.com/album/2ICuN4YYh9ElukLUKgVGSY) | 4:33 | 2023-02-10 | 2023-02-18 |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-04 | 2023-08-12 |
 | [In Your Love \- Live From Radio City Music Hall](https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love \(Live From Radio City Music Hall\)](https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9) | 4:02 | 2023-09-01 | 2023-09-09 |

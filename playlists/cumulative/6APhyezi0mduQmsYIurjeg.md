@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-551 songs - 1 day 9 hr 17 min
+559 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Grave Wave](https://open.spotify.com/track/3rRmXs7FZe8SO81G79DHgV) | [eyenote](https://open.spotify.com/artist/3imvMhuoWgqWyvAQu2hhYV) | [Underground Flowers](https://open.spotify.com/album/1DIBuAVjWfjT4vnam3ZEQ0) | 3:18 | 2024-11-18 |  |
 | [Gray Hand](https://open.spotify.com/track/4hAKwRmTQ0Ifmu7M44wxqS) | [clearvvater](https://open.spotify.com/artist/4jxL2Wm2OoE5fl0b5tFjfN) | [Gray Hand](https://open.spotify.com/album/6Pte9dPeB7qtYmYLGLtRtI) | 4:58 | 2023-04-19 |  |
 | [Great Big Love](https://open.spotify.com/track/0tW1IXCbVq5mmYPmVjTeSV) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Great Big Love](https://open.spotify.com/album/6fdqe2r0xYrEmc0Rt5DP8L) | 4:11 | 2024-10-03 |  |
+| [Greedy Bastards](https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Greedy Bastards](https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA) | 3:33 | 2026-06-07 |  |
 | [Grow](https://open.spotify.com/track/4ZNeUmFWYsaMkV8TYoX7LB) | [New Exhibit](https://open.spotify.com/artist/1K5vj83CCgJxO26oFnZX8E) | [Grow](https://open.spotify.com/album/6nT5Woi7ELzacEnxRq0ACq) | 4:57 | 2023-03-13 |  |
 | [HAHAHA\-MALE](https://open.spotify.com/track/1JAs0kroTc4E0MFbbL8Ret) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HAHAHA\-MALE](https://open.spotify.com/album/7nds5UPmp9SO4Lw6TgHRpT) | 3:02 | 2026-05-05 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-05 |  |
@@ -189,6 +190,7 @@
 | [Hard Black Suit](https://open.spotify.com/track/43NEDSideoTC6sDgQnZdE7) | [BROMANCE](https://open.spotify.com/artist/0whucButfgPVav2sHX88OY) | [Bromance](https://open.spotify.com/album/6yQ0TErz4DoNEyWPirYyrR) | 4:06 | 2023-03-25 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2023-01-10 |  |
 | [Harder Boy](https://open.spotify.com/track/0Zw2D8swjwxg67uv0ErZnN) | [Don't Tell John](https://open.spotify.com/artist/3jOxFGJf9LSJpuZ4q7BVb7) | [Harder Boy](https://open.spotify.com/album/24LCuSPbMO6Zu1rx3gLklH) | 2:19 | 2025-01-07 |  |
+| [Hazlo Por Vos!](https://open.spotify.com/track/2yKlOSUKyZoBl8UwPYbdvb) | [Prieto](https://open.spotify.com/artist/5uipQ4Dyh3xSyPlTxjrcgW) | [Apenas Metros Da Estrada](https://open.spotify.com/album/4fuvp9GZh0Sd3NzwjCB30F) | 4:14 | 2026-06-08 |  |
 | [Head Up](https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:49 | 2023-01-10 |  |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2023-01-11 |  |
 | [Heart Strings](https://open.spotify.com/track/4yDBnB588shXbaElTG0vHz) | [Key Flight Captains](https://open.spotify.com/artist/6FmBGR1zJ09n7wNx8hFOji) | [Heart Strings](https://open.spotify.com/album/5zeKu75b5vwgketgGyotHF) | 4:17 | 2024-07-23 |  |
@@ -245,6 +247,7 @@
 | [It's Only Rock 'n' Roll \(But I Like It\)](https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Ain't Dead Yet](https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ) | 4:28 | 2025-11-05 |  |
 | [It's Only Rock 'n' Roll \(But I Like It\) \- Live](https://open.spotify.com/track/1FW6PF2gswtHqcsjnDx5H1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'n' Roll \(But I Like It\) \[Live\]](https://open.spotify.com/album/1Es6jHVmRXPWcpMFz6exT4) | 4:37 | 2023-01-10 |  |
 | [J.E.S.U.S](https://open.spotify.com/track/0D1HgKvMBzRbmZbEsB7w04) | [The Bootleggers Music Group](https://open.spotify.com/artist/7Dx4tmAblNoknxnrIbS2Xc) | [Jesus Is to Be Praised](https://open.spotify.com/album/3uO8qytExPKsioY0PCi1yl) | 3:52 | 2023-12-18 |  |
+| [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 | 2026-06-08 |  |
 | [Jetzt kommt die Kür](https://open.spotify.com/track/4OCOBdWeDwokcLRC0w51HT) | [ralfP](https://open.spotify.com/artist/6pt9BideY02funvFu49gTp) | [Jetzt kommt die Kür](https://open.spotify.com/album/1bsK3og95DuwqcAberenzo) | 3:24 | 2025-02-19 |  |
 | [Jobseeker](https://open.spotify.com/track/7KZ7TZQVDT72JGrNVvuRqC) | [ASTRO TV](https://open.spotify.com/artist/6YHsETlnkidZsGL9kKHCRQ) | [Dog's Breakfast](https://open.spotify.com/album/2p7iLQWgzqF61G3t16OvA1) | 4:07 | 2024-02-26 |  |
 | [Joseph Courtney](https://open.spotify.com/track/61gwq8JQUvDjWdM7hCDZ7l) | [Fencer](https://open.spotify.com/artist/27lqKE6Ddo4SeCKBoVlMSu) | [Fencer](https://open.spotify.com/album/2ocq4B6baRQ1Ip1EgP4dg6) | 3:56 | 2023-04-21 |  |
@@ -328,6 +331,7 @@
 | [New World](https://open.spotify.com/track/4DbSxlUp8VLpVK3qXUErnL) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Dead Inside](https://open.spotify.com/album/64Hubj31lado0iFnbpAEi4) | 4:52 | 2024-10-25 |  |
 | [Nicotine](https://open.spotify.com/track/31IlqjLM6vvtWZH3b0piwU) | [Algae](https://open.spotify.com/artist/6CgvyjyUDQD4tM0tcWxitq) | [Nicotine](https://open.spotify.com/album/0Ukzk9Xh2gJU4lOkyq3Rbj) | 3:08 | 2024-02-10 |  |
 | [Nina de Tokio](https://open.spotify.com/track/66fUSXxEjOdawdOCKEBd2C) | [YOKO.T](https://open.spotify.com/artist/0owpiSKDES7JkZqJScsB9l) | [Nina de Tokio](https://open.spotify.com/album/4fR51sKwdOUanYBTdATLiD) | 4:19 | 2025-01-07 |  |
+| [Ninguém Te Ama Mais Que Eu](https://open.spotify.com/track/6EgThbL7n9QNKun777sFGc) | [Disco Morto](https://open.spotify.com/artist/2eaTNZnUi7KEjlrEmZQ8Gv) | ["Denovo"](https://open.spotify.com/album/37lbdw6Jgsb46uFccyBsiy) | 2:40 | 2026-06-07 |  |
 | [No Gambits](https://open.spotify.com/track/34VPuY2ne8y02T07qADYUW) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [No Gambits](https://open.spotify.com/album/7F6aLS5mkSZtEK6DvLw0xt) | 3:23 | 2024-10-08 |  |
 | [No Idea](https://open.spotify.com/track/4uaQmGXcv7enD9isEcbGZW) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [I Have No Legs](https://open.spotify.com/album/0xxsEy17UxM9oMRdKxGACA) | 3:28 | 2023-05-26 |  |
 | [No lo veras](https://open.spotify.com/track/0twXLWCt9tUND21xC0ZxdB) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No lo veras](https://open.spotify.com/album/5zileJReTroRBBgpil3gNL) | 3:42 | 2024-12-31 |  |
@@ -339,6 +343,7 @@
 | [Nutshell](https://open.spotify.com/track/3LF6H0kgMEBlLwxcURmmX6) | [Starfsh](https://open.spotify.com/artist/0i8fjbjJ3wek1a601PeV8g), [Nikki Manos](https://open.spotify.com/artist/277PrHYGwOzkNgxDgsfEA6) | [Nutshell](https://open.spotify.com/album/7jOqOgVXhUH1uw0zyYnykG) | 4:10 | 2024-07-11 |  |
 | [Nuvens](https://open.spotify.com/track/2JxjXp07kpFEzUoOCJoDJ0) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Nuvens](https://open.spotify.com/album/3C1HY9c0kkV56ByTlKf3Wq) | 2:59 | 2025-03-31 |  |
 | [Náufrago en el Mar](https://open.spotify.com/track/5Q73dKAkaDlvsaSWz1XAtE) | [Carlos frias & Circulo Social](https://open.spotify.com/artist/685vc5M8paQhjzonRPcea7), [Genilda Arvelo](https://open.spotify.com/artist/5czB8ftMpapBRL5hSL9kTN) | [Aprendiz de Poeta](https://open.spotify.com/album/05Xbp1Ln8yK7NGTHIKRAmr) | 5:36 | 2025-03-31 |  |
+| [O Meri Jana](https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk) | [sarkar\_1](https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5) | [O Meri Jana](https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY) | 3:46 | 2026-06-07 |  |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-11-03 |  |
 | [O Tanto Que Eu Vi](https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [O Tanto Que Eu Vi](https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr) | 4:09 | 2026-05-14 |  |
 | [Oh My](https://open.spotify.com/track/2Ha8mt7gvGYB4rGxPRFoT5) | [JAXL](https://open.spotify.com/artist/1XVAQjGPOTYKTfqiHWIEpe) | [Oh My](https://open.spotify.com/album/5heoBj6Z0Y9K13JZKildWA) | 3:40 | 2023-02-22 |  |
@@ -451,6 +456,7 @@
 | [Straight to the Ground](https://open.spotify.com/track/1lyEWZhmqTfS8WI0duPylD) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Everything Seductive](https://open.spotify.com/album/0NbGqZr8kJqKqso5dYVcVa) | 3:34 | 2025-02-20 |  |
 | [STRANGE](https://open.spotify.com/track/36fWp44bIAzUSQeoH9MZpG) | [Ruebi](https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9) | [STRANGE](https://open.spotify.com/album/4iR9TA5SdfBwPjltnsW9rh) | 3:21 | 2023-04-24 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-10-28 |  |
+| [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2026-06-07 |  |
 | [Street Stage Show](https://open.spotify.com/track/1pdHBhPmWl07wjTsq5njDY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Street Stage Show](https://open.spotify.com/album/48qESzJLlP7XmVij4lrVqw) | 3:31 | 2024-12-26 |  |
 | [Sueños](https://open.spotify.com/track/0Aki3a0rP66G8sCistpgvM) | [Insomnica](https://open.spotify.com/artist/1WGqXSVmEIk0KwwobbUUiV) | [Sueños](https://open.spotify.com/album/0tkDmIkp2BrNeI3ewzy94A) | 3:45 | 2024-01-25 |  |
 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-03-15 |  |
@@ -504,6 +510,7 @@
 | [Tomorrow](https://open.spotify.com/track/3nBY5Dt2vFW9EvhWolwlmZ) | [McKay](https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp) | [McKay](https://open.spotify.com/album/7yIZebAltM732wcvH6plzd) | 3:37 | 2024-10-03 |  |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 |  |
 | [Too Much To Ask](https://open.spotify.com/track/1egMfw3gmcdUscngyDtSwU) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [Too Much To Ask](https://open.spotify.com/album/26SXkpCq2G2RwEutBFlko8) | 3:24 | 2024-06-15 |  |
+| [Top Of Your Game](https://open.spotify.com/track/55Owb4O3KxNTJZlCwx3NdK) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Top Of Your Game](https://open.spotify.com/album/0BU9Cq93XQfzuj0vR2vdF6) | 3:55 | 2026-06-08 |  |
 | [Travel The World](https://open.spotify.com/track/0NVMnYPBrEGWdGItxqHC5s) | [Bradzbaby](https://open.spotify.com/artist/5RxS8uxGlmuyEnu7WXwPOP) | [Travel The World](https://open.spotify.com/album/7jhzPMEUNLcT70j77Ne92M) | 3:12 | 2023-08-20 |  |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-03 |  |
 | [Tripping](https://open.spotify.com/track/5IfL4S6UDRQW92p2LupRg2) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It?](https://open.spotify.com/album/1p3UCtpOE0i0L2uIV6lyBs) | 4:26 | 2024-11-18 |  |
@@ -519,6 +526,7 @@
 | [Un poco más](https://open.spotify.com/track/1rQOsYaHwLc53Cv0cxifjz) | [Abril Nikitoff](https://open.spotify.com/artist/5US4a2IaxqvO65IRr7Kl95) | [Un poco más](https://open.spotify.com/album/5eapa02lc1DixMqV27MtqC) | 3:23 | 2024-11-25 |  |
 | [Undecided Heart](https://open.spotify.com/track/7GLIn95KD25EEgK9wilhCj) | [Jade Reverie](https://open.spotify.com/artist/7AcULqEcN5KTiFLcbR4wxR) | [Undecided Heart](https://open.spotify.com/album/3FGijsQztiyxgYYLzex8gU) | 3:33 | 2024-12-31 |  |
 | [Under the Moon](https://open.spotify.com/track/2X0SFnu4naoCePitcJtbph) | [The Docs](https://open.spotify.com/artist/39X2CTpM9FClOtUz0TQ6yZ) | [Under the Moon](https://open.spotify.com/album/0a2fQqn3e3Ei641KSJLoJq) | 3:31 | 2023-04-21 |  |
+| [Unseen](https://open.spotify.com/track/7JlIobxcyxqVEcix7RtcyV) | [Glenn Joseph Beats](https://open.spotify.com/artist/6CNGJJVoEwfqmLwq2HDLGc) | [Unseen Pieces \(Dual\)](https://open.spotify.com/album/6GCqWMNKGeLyywhUIaIsVw) | 3:38 | 2026-06-08 |  |
 | [Viernes](https://open.spotify.com/track/7nlK8sV7FUC6BaKcvL7hYU) | [Jonatan Ulises](https://open.spotify.com/artist/0c6eLKC7ent1tYp7iXlMgn) | [Viernes](https://open.spotify.com/album/2DkNkTpuTf14wpHHzd8tFB) | 2:22 | 2024-12-20 |  |
 | [Vodka soda](https://open.spotify.com/track/06Dz7mteBrSTJ9QDMa5BpB) | [Camping Lagon](https://open.spotify.com/artist/5FUG0uZPhmWPMRo0ztzgBH) | [Vodka soda](https://open.spotify.com/album/3iCMVBrLCJmdXDdSdKSTd0) | 2:48 | 2025-03-16 |  |
 | [Waiting For It](https://open.spotify.com/track/4APidGIaSMpkIQCNJx2I26) | [Hucksters](https://open.spotify.com/artist/2YIuxsSEfrQeWq3ispbQ7G) | [Better Late Than Never](https://open.spotify.com/album/6SXCtYDzyKU6Wuv3RhsHWF) | 3:01 | 2024-12-31 |  |

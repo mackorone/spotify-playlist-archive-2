@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,715 likes - 32 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,721 likes - 32 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 31 | [Mong chúng ta hạnh phúc](https://open.spotify.com/track/4PPwOSiHrv4TnfS1O0ABli) | [Quang Vinh](https://open.spotify.com/artist/0IMvyEWySP665zddlejaSm), [Jin Ju](https://open.spotify.com/artist/5EZYHlogo0AymBkrVkDwPb) | [Mong chúng ta hạnh phúc](https://open.spotify.com/album/5fl92zABUdxe5HoKUAzfnn) | 3:46 |
 | 32 | [Thương Em \(feat\. Andiez\)](https://open.spotify.com/track/63Fzv8Tmynr8GsZXznOUbM) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ), [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [Thương Em \(feat\. Andiez\)](https://open.spotify.com/album/6Qh3LdfP0RHUjjKddzDa0Z) | 4:10 |
 
-Snapshot ID: `AAAAAJc6wyj+kICoMk1VCVTgj5SCAROT`
+Snapshot ID: `AAAAADkmlHetMm9VJ0CvhReAMPbpSpyr`

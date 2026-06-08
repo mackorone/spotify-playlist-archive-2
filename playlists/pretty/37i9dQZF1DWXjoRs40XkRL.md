@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,630 likes - 100 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,638 likes - 100 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 99 | [Rangi Saari](https://open.spotify.com/track/6eeGohvQ306B3TNUeSGaxQ) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Rangi Saari](https://open.spotify.com/album/4OO59v0mS6n4XPmypvb8gJ) | 3:45 |
 | 100 | [Main Vari Vari Jaungi](https://open.spotify.com/track/55nUHGqicMkA0wK36rk5pF) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Main Vari Vari Jaungi](https://open.spotify.com/album/5WtcnQajr7dTUbzV2P77yo) | 4:13 |
 
-Snapshot ID: `AAAAAIGabwfJwYHZ7qrFXKYrxwn5mbVt`
+Snapshot ID: `AAAAAGRQ3n4jWCS7wVRQlSwL99+O0REf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga, Manuel Turizo 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,563 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,584 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Pa' Adelante Voy](https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [Pa' Adelante Voy](https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6) | 2:44 |
 | 100 | [Las Mañanitas](https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Las Mañanitas](https://open.spotify.com/album/56Z39rIzLEuaC0NLsuiCAZ) | 2:11 |
 
-Snapshot ID: `AAAAAOxncUrvPLYX4l0OfJDaAAO6/LYz`
+Snapshot ID: `AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm`

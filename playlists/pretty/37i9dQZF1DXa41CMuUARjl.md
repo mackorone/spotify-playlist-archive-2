@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Skrillex, Prospa, horsegiirL, DJ Seinfeld, GRiZ, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,723 likes - 115 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,755 likes - 115 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

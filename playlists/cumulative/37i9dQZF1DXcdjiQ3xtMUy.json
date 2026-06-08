@@ -108,10 +108,32 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 176947,
       "name": "A'ti",
       "url": "https://open.spotify.com/track/3jBba6wuPZwclW44byHwlg"
+    },
+    {
+      "album": {
+        "name": "A'ti",
+        "url": "https://open.spotify.com/album/2E20oS6CL02F7LCsBgGygQ"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176947,
+      "name": "A'ti",
+      "url": "https://open.spotify.com/track/7Clubijy1Q8TYfFsS8GLMF"
     },
     {
       "album": {

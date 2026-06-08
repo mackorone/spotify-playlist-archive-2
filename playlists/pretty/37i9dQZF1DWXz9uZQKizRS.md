@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Bovska
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,006 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,009 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 23 | [Mam nadzieję](https://open.spotify.com/track/38DWD30XnDQ7ue5kNbXi1M) | [Maja Kleszcz](https://open.spotify.com/artist/3i9lbUfrdHKmGe5CJz2XjA), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mam nadzieję](https://open.spotify.com/album/4WDtmCu86ZAV6C7Lvk4Bsk) | 3:53 |
 | 24 | [Szum](https://open.spotify.com/track/3wlSDEpTLE2s7QtvEZrovH) | [kilka czułości](https://open.spotify.com/artist/5ePKwdz8bcYGy0m2W3Dibo), [Agnieszka Musiał](https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc), [Hanna Wojtkowiak](https://open.spotify.com/artist/2fYuQ40ebqbFBcUVxIDf3s) | [Szum](https://open.spotify.com/album/2nd2FL2v81UzKmdrdY4rsE) | 4:38 |
 | 25 | [Tak ma być](https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Tak ma być](https://open.spotify.com/album/3SbTCoBrCfFQOKuiAgP7yQ) | 4:45 |
-| 26 | [ARGENTYNA](https://open.spotify.com/track/4x68dkQpyCeu5sLVsyRYMe) | [DOBRY](https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X), [DARIUSZ SZPAKOWSKI](https://open.spotify.com/artist/32HCuyWqE0ywKQwdLie0pe) | [ARGENTYNA](https://open.spotify.com/album/4N7ca5rQyd2NhwWhTHUGML) | 2:37 |
+| 26 | [Argentyna](https://open.spotify.com/track/4x68dkQpyCeu5sLVsyRYMe) | [DOBRY](https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X), [DARIUSZ SZPAKOWSKI](https://open.spotify.com/artist/32HCuyWqE0ywKQwdLie0pe) | [Argentyna](https://open.spotify.com/album/4N7ca5rQyd2NhwWhTHUGML) | 2:37 |
 | 27 | [Piękne mam sny](https://open.spotify.com/track/17e2dI0wgBggtAT2ywsBI3) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Piękne mam sny](https://open.spotify.com/album/0Rdv2kwSDqFqw1J2kl37ZP) | 3:48 |
 | 28 | [Taka jak ty](https://open.spotify.com/track/0Oyu6LRiBCEVawrBzMPD7Y) | [MeryMaks](https://open.spotify.com/artist/6Ktj597K5DEKDYyJv38nkI) | [Taka jak ty](https://open.spotify.com/album/4fQCNtcNfgF4upBm4lnRwy) | 2:54 |
 | 29 | [Siedem życzeń \- Radio Edit](https://open.spotify.com/track/5uhKi57yfS7pojet6PTecC) | [LemON](https://open.spotify.com/artist/3B4XG3HanBgkVOybc89Q3T), [Wanda i Banda](https://open.spotify.com/artist/1PIZDmfLkhmYb8TbyY2HeF) | [Siedem życzeń \(Radio Edit\)](https://open.spotify.com/album/4YLJupnVQVhV2rSuZQXviQ) | 3:24 |

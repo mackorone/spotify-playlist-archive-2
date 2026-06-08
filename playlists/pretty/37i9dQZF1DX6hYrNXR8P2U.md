@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Trucha en portada ★
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,788 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,795 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
 | 100 | [HOY](https://open.spotify.com/track/6y39mILscFJKcjlWn3lB8O) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Manu Calmet](https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [HOY](https://open.spotify.com/album/4t4Hhfd3wsle7IGTgdZfUn) | 2:48 |
 
-Snapshot ID: `AAAAABm5e7mSQNMiJCJ2HvNVbldhPgIy`
+Snapshot ID: `AAAAAEJXXDK+LJN9P3Mz37hX1WQrArwX`

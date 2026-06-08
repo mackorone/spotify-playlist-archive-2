@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Gilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 20 | [Klemme](https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Klemme](https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv) | 2:16 |
 | 21 | [Money Rain](https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod) | [BigBobbyBitch](https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe) | [Money Rain](https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M) | 2:23 |
 | 22 | [lOvE](https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl) | [Lola Louii](https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1) | [lOvE](https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ) | 2:18 |
-| 23 | [Himel Iepen](https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5) | [MAYTE](https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj) | [Himel Iepen](https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3) | 4:27 |
-| 24 | [Gebruiksaanwijzing](https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE) | [Marieke Schenk](https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb) | [Gebruiksaanwijzing](https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7) | 2:42 |
+| 23 | [Gebruiksaanwijzing](https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE) | [Marieke Schenk](https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb) | [Gebruiksaanwijzing](https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7) | 2:42 |
+| 24 | [Himel Iepen](https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5) | [MAYTE](https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj) | [Himel Iepen](https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3) | 4:27 |
 | 25 | [Into pieces](https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ) | [Imme](https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV) | [Into pieces](https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J) | 3:23 |
 | 26 | [Looking At You](https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG) | [Loeck](https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk) | [Looking At You](https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj) | 2:36 |
 | 27 | [No Profit](https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO) | [MAHA](https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4) | [No Profit](https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R) | 2:31 |

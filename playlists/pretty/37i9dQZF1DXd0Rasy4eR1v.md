@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rizwan Abbas, Maheen Sattar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,319 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,327 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 5 | [Qataghani \(feat\. Blaise Merlin\)](https://open.spotify.com/track/54AD3vjfr1hmmOzpP0B9LP) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [4 Rubabs](https://open.spotify.com/artist/0hYtHrQp6lRVc552ldI2Bu), [Gray Contrast](https://open.spotify.com/artist/0B4S4TDGMI80EkBnPJYN3M), [Blaise Merlin](https://open.spotify.com/artist/1QXWD6eigu3Sy44qx002z7) | [Qataghani \(feat\. Blaise Merlin\)](https://open.spotify.com/album/6KWXZglxi8wgLqy0UuBZWK) | 6:22 |
 | 6 | [konay](https://open.spotify.com/track/5eKNTz4i1DSznSgQROdrCO) | [Ibrahim Chandna](https://open.spotify.com/artist/5EnIGv5v8ONYfWQ6j1l6pi) | [konay](https://open.spotify.com/album/2GvhPzVOBh9JIZxQNzpaPO) | 3:03 |
 | 7 | [Milo Na](https://open.spotify.com/track/1Cpl0L1Zzw0iz3nGPkkdzj) | [Ahmed Khan](https://open.spotify.com/artist/49w12XrOuzUevVP12bgfge) | [Milo Na](https://open.spotify.com/album/7JW37eFY8pNsJphydCGcIe) | 3:10 |
-| 8 | [Tujhe Jaane Diya](https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct) | [Ad Arfeen Raza](https://open.spotify.com/artist/579Sxj2PYAATl90RIZjk60), [Shazz\-E](https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1), [Hibara](https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf) | [Tujhe Jaane Diya](https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F) | 3:34 |
+| 8 | [Tujhe Jaane Diya](https://open.spotify.com/track/6Rr7svtdopFeE6gOYmqxct) | [Ad](https://open.spotify.com/artist/4ldvEYM1XaAPCtyyWqeZ6v), [Arfeen Raza](https://open.spotify.com/artist/2un6oSRbi6B3MEma7cVYpf), [Shazz\-E](https://open.spotify.com/artist/0iWvzjzGeXANooCF5EzjE1), [Hibara](https://open.spotify.com/artist/4NIXDr9dOJrAV4cs3d6VQf) | [Tujhe Jaane Diya](https://open.spotify.com/album/7vPS3esSMdWmASMcEeQo6F) | 3:34 |
 | 9 | [Yeh Saza](https://open.spotify.com/track/0ULIHuZhqgDhyjN1v1pDN6) | [Adnan Ali Khan](https://open.spotify.com/artist/2caxBkzOgEzVWroMsWgQoh) | [Yeh Saza](https://open.spotify.com/album/580QAZN2KP3EYXPpu4Pd4S) | 4:56 |
 | 10 | [Rattiyan](https://open.spotify.com/track/0AnOr3TZJt1n71CDSCgJgr) | [Hamzah](https://open.spotify.com/artist/3HVC8Oh5aU1Y4yChpCWFfM), [Mordrez](https://open.spotify.com/artist/6t7WH6Cjdw9XQpzruqFwbf) | [Rattiyan](https://open.spotify.com/album/73PcLkvdam43p4aEVOVF1C) | 3:04 |
 | 11 | [Raegaan](https://open.spotify.com/track/5v2XLc8ZUPwhIsJVShFAcb) | [Ubada Abbasi](https://open.spotify.com/artist/1Tkkb8jrIaotS0rKwgzqiS), [MAB](https://open.spotify.com/artist/4UonCV2mOCrKD4na8gnVoW) | [Raegaan](https://open.spotify.com/album/2TK8ho0FafT6LVg3boyd7r) | 4:10 |

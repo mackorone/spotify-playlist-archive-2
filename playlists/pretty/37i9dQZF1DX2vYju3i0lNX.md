@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,807 likes - 200 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,887 likes - 200 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 199 | [Lost in Your Eyes](https://open.spotify.com/track/10UuAnxcgOAxFpIU8FIo6a) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Lost in Your Eyes](https://open.spotify.com/album/028GLMoConGrx3IUxzdTBI) | 3:30 |
 | 200 | [What about us?](https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [What about us?](https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ) | 2:49 |
 
-Snapshot ID: `AAAAAPCWPEy9FUgnkvEPcAVd4pxwp/8Y`
+Snapshot ID: `AAAAAItXA+giTWG+NQfZNXl0R2c8WpDB`

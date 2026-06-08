@@ -4,11 +4,12 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,147 songs - 2 day 19 hr 3 min
+1,151 songs - 2 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5) | 0:00 | 2026-01-26 | 2026-02-17 |
+| ['O Viandante](https://open.spotify.com/track/3MMrv7z89SLgyILabY9rGX) | [apokalypto fusion](https://open.spotify.com/artist/10pz2NMMZ5DDuQEySorub2), [rod frequencies](https://open.spotify.com/artist/4rVXyp77Xbl0jWjkJA7xUk) | ['O Viandante](https://open.spotify.com/album/4tc1M4U51P22LczCxMMQRM) | 3:24 | 2026-06-07 |  |
 | ['Un c'è](https://open.spotify.com/track/092B5XNgZPmLNEcsBal5Vx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:56 | 2023-04-20 | 2025-11-29 |
 | [...and mama was a belly dancer \- Remastered 2023](https://open.spotify.com/track/4oGRS78FLKzY1yVdEedoXk) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:14 | 2023-11-16 | 2025-11-29 |
 | [10 Sigarette](https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy) | [Kaloxs](https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ) | [10 Sigarette](https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM) | 2:54 | 2026-01-20 | 2026-02-20 |
@@ -40,6 +41,7 @@
 | [A lot of loneliness](https://open.spotify.com/track/33MDj2laCrr9NQCeN4Jc86) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [A Single Multitude \- The Jazz Side](https://open.spotify.com/album/54BWMqqoETDvufz2VkbSTQ) | 3:18 | 2025-06-05 | 2026-01-05 |
 | [A Love That's Real](https://open.spotify.com/track/3m2KYkCC9SVAfvPlpwK9Qv) | [Eggmen Road](https://open.spotify.com/artist/58VvtUuNlV1hC5t0lOvyvE) | [Love Finds a Way](https://open.spotify.com/album/3ArJCAmCb2ho4K7TYtlWQj) | 2:29 | 2026-02-25 | 2026-04-12 |
 | [A Luz Do Luar](https://open.spotify.com/track/10WPN7B7VCLghDLNps9FJa) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [A Luz Do Luar](https://open.spotify.com/album/6u0bzUyQsA4chEgUQYQSjo) | 2:48 | 2026-03-14 | 2026-04-12 |
+| [A Luz Do Luar](https://open.spotify.com/track/6QUlQlRXtX2HZnhmZAMjgg) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [A Luz Do Luar](https://open.spotify.com/album/2FImaPJxu0tEBImHlaQyUl) | 2:48 | 2026-06-07 |  |
 | [A Night in Tunisia](https://open.spotify.com/track/09jf8MIpTR78RsaR7TZvj4) | [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [A Night in Tunisia](https://open.spotify.com/album/67GwDavJ4mrJCX253N7Wwc) | 2:48 | 2025-06-21 | 2025-12-21 |
 | [A Pit Stop, Not A Home](https://open.spotify.com/track/59B7NkkjSn8Gjbauh9CgXa) | [Suhendra Balada](https://open.spotify.com/artist/3yradc9hnbQk2ejmsrljFZ) | [A Pit Stop, Not A Home](https://open.spotify.com/album/14T5E9auTa0CU6AuiOIeFA) | 3:10 | 2026-03-22 | 2026-04-22 |
 | [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 | 2026-02-10 | 2026-03-15 |
@@ -221,6 +223,7 @@
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-03-16 | 2026-04-12 |
+| [Deserto](https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Deserto](https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C) | 3:11 | 2026-06-07 |  |
 | [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 | 2026-04-22 |
 | [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 | 2026-05-14 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-12 |
@@ -686,6 +689,7 @@
 | [O Trem](https://open.spotify.com/track/1QV9CBitaoB6ko0wwXrfD5) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7) | [O Trem](https://open.spotify.com/album/7to52ejPeUd8tMeQ1an0p6) | 2:47 | 2026-01-26 | 2026-02-28 |
 | [O Êxito](https://open.spotify.com/track/597QLYVs0628cj7Ti8uijf) | [Di Amorim](https://open.spotify.com/artist/7tJMteCM3INmxqN9vTIlUI) | [VOZ & VIOLÃO vol\. 1](https://open.spotify.com/album/0h8Xsr3RbBPX3VhhtXLLL1) | 2:58 | 2026-01-15 | 2026-02-20 |
 | [Oblivion](https://open.spotify.com/track/4wO1fussauPYP4KdZlo2Qn) | [GRÜNHEIDT](https://open.spotify.com/artist/5CttYXn1RdgC5tiEJwl6LK) | [Oblivion](https://open.spotify.com/album/0yMf686tNVh08Rqzs0sc9R) | 4:15 | 2025-12-17 | 2026-01-15 |
+| [Obscure Word](https://open.spotify.com/track/1lfjefopFaFjKRtdyEaEhm) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 2:43 | 2026-06-07 |  |
 | [Ocaso](https://open.spotify.com/track/659i2zCINZi4ABiJsQCjHp) | [Los Insólitos](https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX) | [Ocaso](https://open.spotify.com/album/2pDD1wX3qLYX0qK6j6nukM) | 3:51 | 2026-02-17 | 2026-03-15 |
 | [Occhi D’argento](https://open.spotify.com/track/55nblVZZIYbeY9GlxPPywW) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Occhi D’argento](https://open.spotify.com/album/134GhHxVhYsy7Wt0N7MNC1) | 2:41 | 2026-03-27 | 2026-04-22 |
 | [Odesa Child](https://open.spotify.com/track/7Ehjt2zrbn6xwIg4uMfajX) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Odesa Child](https://open.spotify.com/album/35qW8UqO9ouKHDH7VEZUqR) | 4:50 | 2026-02-15 | 2026-03-15 |

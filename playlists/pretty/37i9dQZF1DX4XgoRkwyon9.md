@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Mujeres a todo volumen, ahora en video\. Sólo para usuarios Premium\. BLAIR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,551 likes - 23 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,540 likes - 23 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 22 | [¿ARDIDA QUIÉN?\- EQUAL En Vivo CDMX](https://open.spotify.com/track/2yDUsvdsnN78ALkqJdfNXs) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?\- EQUAL En Vivo CDMX](https://open.spotify.com/album/4ZDuphSCaQ7gcG8dRzIDMk) | 2:29 |
 | 23 | [Pausa \- EQUAL En Vivo CDMX \- En vivo](https://open.spotify.com/track/6IJkUmjxUrGjt1l3BqbKXY) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Pausa \- EQUAL En Vivo CDMX](https://open.spotify.com/album/3qcp9mOOAexlxfV4QLY5HW) | 3:13 |
 
-Snapshot ID: `AAAAAMGd5ottdBRYDfviXMBVO/tUbPvy`
+Snapshot ID: `AAAAAEQMudTr7d3n4Jge6skTUK2vUWbP`

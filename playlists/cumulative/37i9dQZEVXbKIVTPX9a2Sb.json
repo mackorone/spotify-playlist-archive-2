@@ -10084,7 +10084,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -12038,7 +12038,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
@@ -12056,7 +12056,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -16660,7 +16660,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -17846,7 +17846,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -20162,7 +20162,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
@@ -22010,7 +22010,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -23684,7 +23684,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 163626,
       "name": "KENPACHI&YACHIRU",
       "url": "https://open.spotify.com/track/6QRyVEroDCbxGnFsnEgJl5"
@@ -30514,7 +30514,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 249933,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/3aCpawvHOSIfMQEOYUXy56"
@@ -31574,7 +31574,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 211040,
       "name": "Nehaj tak",
       "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
@@ -32916,7 +32916,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 149538,
       "name": "nikto ako my",
       "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
@@ -32982,7 +32982,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -42520,8 +42520,8 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
-      "duration_ms": 189266,
+      "date_removed": null,
+      "duration_ms": 188838,
       "name": "Siln\u00fd refr\u00e9n",
       "url": "https://open.spotify.com/track/6wnc03soJZURZVtyAbK81X"
     },
@@ -47696,7 +47696,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -51870,7 +51870,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 142000,
       "name": "Vyl\u00edzan\u00fd",
       "url": "https://open.spotify.com/track/7DWLLv5Y9S38T7f0NsePfC"
@@ -56476,6 +56476,28 @@
       "duration_ms": 186000,
       "name": "\u017eijem BEST \u017eivot",
       "url": "https://open.spotify.com/track/5XvtDxap6sqGLoKXWb28KM"
+    },
+    {
+      "album": {
+        "name": "\u017dijeme len raz Mixtape",
+        "url": "https://open.spotify.com/album/3qXXb4ziYXpbdBzomaOfaf"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Robert Burian",
+          "url": "https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205780,
+      "name": "\u017dijeme len raz",
+      "url": "https://open.spotify.com/track/3vjZjq1a1kCmt4FWuDIiOJ"
     },
     {
       "album": {

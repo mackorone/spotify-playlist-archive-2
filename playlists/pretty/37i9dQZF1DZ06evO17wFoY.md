@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,859 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,863 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Feed the Birds \(From "Mary Poppins"\)](https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A) | 4:21 |
 | 2 | [Ave Maria, S\. 558/12](https://open.spotify.com/track/2VM3HhUnmswDIm3aILbrpd) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 6:31 |
 | 3 | [Reflection \- From "Mulan" \(Feat\. Guo Gan\)](https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Guo Gan \- Chinese Erhu Master](https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1) | 4:14 |
-| 4 | [The Well\-Tempered Clavier I, Prelude & Fugue No\. 1 in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 |
-| 5 | [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 |
+| 4 | [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 |
+| 5 | [The Well\-Tempered Clavier I, Prelude & Fugue No\. 1 in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 |
 | 6 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 |
 | 7 | [Für Elise, Bagatelle in A Minor, WoO 59](https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Beethoven: Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx) | 3:23 |
 | 8 | [Klavierstück in F Major, K\. 33b](https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Magic](https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk) | 0:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Herz und Mund und Tat und Leben, BWV 147: Chorale\. Jesus bleibet meine Freude \(Arr\. for Piano\)](https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Gran Turismo 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy) | 4:28 |
 | 50 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 
-Snapshot ID: `aiIRgAAAAADlKDldkT7ggiuqNYVQOUQq`
+Snapshot ID: `aiNjAAAAAACgdUlffhufYA2g2arvSqka`

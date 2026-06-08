@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-72 songs - 4 hr 14 min
+73 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [place like this](https://open.spotify.com/track/59Rdu7urHtobFHhNjgiFJX) | [Arthrn](https://open.spotify.com/artist/0DP8DbgAJb9IJNOFUxVIJA) | [place like this](https://open.spotify.com/album/4EL0qFotnSpRBV2j6tD359) | 3:11 | 2025-08-20 |  |
 | [Prekiss Eyes](https://open.spotify.com/track/6L7b093TlSSEzJjJaNXfWz) | [Stell and the Comedown Club](https://open.spotify.com/artist/5Q4VyNJwQcK9rOPZwyOPUK) | [Prekiss Eyes](https://open.spotify.com/album/1gbvCsiQPMOaJ14rPmDYMK) | 3:16 | 2025-10-06 |  |
 | [Quicksand](https://open.spotify.com/track/6cdh4A1tOMs68th4F6AqOu) | [Jonathan Andrew Rysdon](https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0), [Taylor Rysdon](https://open.spotify.com/artist/3AGR0F2PajIMcAHikSliuq), [Kevin Michael Ozias](https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV) | [Holding On To You](https://open.spotify.com/album/7jQVM10PhJbMJ3hnQ8Y9sF) | 2:50 | 2024-07-07 | 2025-12-11 |
+| [Rubber Mask of Holy Wrath](https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Rubber Mask of Holy Wrath](https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV) | 8:31 | 2026-06-07 |  |
 | [Sadness in their Eyes](https://open.spotify.com/track/6Ohsk1FZoVGIPWF3VFckGI) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Sadness in their Eyes](https://open.spotify.com/album/1XEJbrQVR5Htt6fAawyL9f) | 4:02 | 2025-07-27 |  |
 | [Schnee](https://open.spotify.com/track/2GAqt1gzIvx5LEIbjVXrQ7) | [juii](https://open.spotify.com/artist/7rJOU9thBiM4SmA6vSwHYw) | [Schnee](https://open.spotify.com/album/6QgWyqrVf0K7Kv1Lfxl7DU) | 3:12 | 2024-12-31 |  |
 | [Sharks](https://open.spotify.com/track/1dlPsBtdV689Ep9by2141f) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Sharks](https://open.spotify.com/album/1kFvoiPJ2i63gQriNBgEPG) | 4:25 | 2025-02-09 | 2025-12-11 |

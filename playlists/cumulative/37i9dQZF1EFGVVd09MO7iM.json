@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 207184,
       "name": "Hot Thing (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3JxDy5oyoxfjDZQBcuQErB"
@@ -14096,10 +14096,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-08",
       "duration_ms": 195063,
       "name": "Outside",
       "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
+    },
+    {
+      "album": {
+        "name": "Therapy Wasn't Enough",
+        "url": "https://open.spotify.com/album/3awpPQ7V7c9kcT3JSg3nyQ"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195063,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1mLUrWCfNo1oeuMQ4d1AOp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108516,
+  "num_followers": 108518,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiIRgAAAAAC9G/IPGLH+xzKQ82Upw2V+",
+  "snapshot_id": "aiNjAAAAAAA8cFGjFb9rbt+KnNWihU3U",
   "tracks": [
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zonder Zorgen",
-        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+        "name": "Want Ik Hou Van Jou",
+        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194426,
-      "name": "De Wereld Is Van Ons Allemaal",
-      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+      "duration_ms": 227000,
+      "name": "Want Ik Hou Van Jou",
+      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Ik Hou Van Jou",
-        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
+        "name": "Zonder Zorgen",
+        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Want Ik Hou Van Jou",
-      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
+      "duration_ms": 194426,
+      "name": "De Wereld Is Van Ons Allemaal",
+      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
     },
     {
       "added_at": null,

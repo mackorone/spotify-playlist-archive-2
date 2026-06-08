@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 31912,
+  "num_followers": 31927,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -863,34 +863,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Violin Concerto Op. 47; Serenades; Humoresque",
-        "url": "https://open.spotify.com/album/6I0GCSp5tfBr4jizdLNT6s"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Anne-Sophie Mutter",
-          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 396000,
-      "name": "Two Serenades, Op. 69: I. Andante assai, Op. 69 No. 1 - In D Major",
-      "url": "https://open.spotify.com/track/0bk3EI4K9b5y02cIkw2zQQ"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Sibelius",
         "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
       },
@@ -935,6 +907,34 @@
       "duration_ms": 417000,
       "name": "Two Serenades, Op. 69: II. Lento assai, Op. 69 No. 2 - In G Minor",
       "url": "https://open.spotify.com/track/2LtUSaRryjweRz2yOwoWRL"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Violin Concerto Op. 47; Serenades; Humoresque",
+        "url": "https://open.spotify.com/album/6I0GCSp5tfBr4jizdLNT6s"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 396000,
+      "name": "Two Serenades, Op. 69: I. Andante assai, Op. 69 No. 1 - In D Major",
+      "url": "https://open.spotify.com/track/0bk3EI4K9b5y02cIkw2zQQ"
     },
     {
       "added_at": "2025-12-15 12:16:59",

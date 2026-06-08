@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Red Rocks Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,067 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,071 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [How Great Thou Art \- Spotify Single](https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [How Great Thou Art \- Spotify Single](https://open.spotify.com/album/4qYJjN3CJviygsXChaHYSL) | 3:55 |
 | 100 | [Forever \- Spotify Singles](https://open.spotify.com/track/4VxhqjS0hkg4osZsObZikY) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Forever \- Spotify Singles](https://open.spotify.com/album/1WohfzE4ivo1HUxXQCBCtd) | 5:36 |
 
-Snapshot ID: `AAAAAEiqIte29uFVp2Cfh/F/H9h5E7cU`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`
