@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Rayi Putra, Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,293 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,297 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-1,002 songs - 1 day 22 hr 7 min
+1,003 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 | 2024-01-24 | 2024-03-15 |
 | [About You Now \(How I Feel\)](https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [About You Now \(How I Feel\)](https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp) | 2:42 | 2023-09-20 | 2024-02-01 |
 | [Acid Base Reaction](https://open.spotify.com/track/1pA4Zl7rTjekmEdaMTjErv) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Acid Base Reaction](https://open.spotify.com/album/3JTtFu9a2sN1GkCIBWts64) | 3:27 | 2025-07-10 | 2025-09-04 |
-| [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-04-29 |  |
+| [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-04-29 | 2026-06-09 |
 | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/track/6XBjUSSBhUyWwcXZPNhyTE) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Adagio For Strings \(Bulletproof\)](https://open.spotify.com/album/1XlbyHxgU1ijE5HwApbLXe) | 2:27 | 2024-07-11 | 2024-09-17 |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-03 | 2024-06-23 |
 | [Addiction \(feat\. KEL\)](https://open.spotify.com/track/7GgpGxQmLLLEPj1c556hdP) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Addiction \(feat\. KEL\)](https://open.spotify.com/album/7kZtUDcUxaXy8oDoprzzFK) | 2:36 | 2025-01-27 | 2025-02-14 |
@@ -432,6 +432,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/0wf7vSVmz0BhRcDyBOZizC) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Ambrella](https://open.spotify.com/artist/68CfXqtT0KypmHDww7HeoJ) | [I Gotta Feeling](https://open.spotify.com/album/6YQcXiDZRtciSy0VaxEEm1) | 2:18 | 2026-03-19 | 2026-06-01 |
 | [I Like](https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [I Like](https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF) | 2:31 | 2022-06-15 | 2022-07-29 |
 | [I Like](https://open.spotify.com/track/3F7JkvI31gWw0ifIA553X5) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [I Like](https://open.spotify.com/album/5W3ngAppnDgT0px27YkXNI) | 2:31 | 2022-07-27 | 2022-12-01 |
+| [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 | 2026-06-08 |  |
 | [I Like to Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/track/7uJuYDboY3fmKBmG80K4YH) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Still Loud](https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [I Like to Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/album/3j8g9iuYJWzXfk6dLkkaeS) | 2:28 | 2024-09-02 | 2025-03-21 |
 | [I Like U](https://open.spotify.com/track/0OukqYh1kgvROXX98hqsd1) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [I Like U](https://open.spotify.com/album/3iVzUUmc3UOehgORoRuXay) | 2:32 | 2022-02-09 | 2022-05-19 |
 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 | 2026-05-12 |  |

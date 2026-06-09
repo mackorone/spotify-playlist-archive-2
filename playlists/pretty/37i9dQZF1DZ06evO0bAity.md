@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 7 | [Total Meltdown](https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:04 |
 | 8 | [Rock Star \- triple j Like a Version](https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rock Star \(triple j Like a Version\)](https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6) | 4:06 |
 | 9 | [Easing Out Of Control](https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:34 |
-| 10 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
+| 10 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 |
 | 11 | [Less Out Of Sync](https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:07 |
-| 12 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 |
+| 12 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
 | 13 | [Demolition](https://open.spotify.com/track/0ei1UjbzNN37t9cL9rDSyA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:24 |
 | 14 | [Kerosene](https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:35 |
 | 15 | [Keep Myself on Edge](https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:34 |
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 17 | [Skyline](https://open.spotify.com/track/5wOGKM4hlkT91thxZEePtI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:21 |
 | 18 | [Fired Up](https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Fired Up](https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4) | 3:11 |
 | 19 | [Reflective Skull](https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
-| 20 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
+| 20 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 |
 | 21 | [Sideways](https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:41 |
-| 22 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 |
+| 22 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
 | 23 | [Ocean Exploder](https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 4:04 |
 | 24 | [Afterglow](https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:30 |
 | 25 | [Pissing In The Breeze](https://open.spotify.com/track/2H7RTRdSWfqfVlu6V1vGTD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:11 |
 | 26 | [King B](https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:20 |
-| 27 | [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
+| 27 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 |
 | 28 | [Front Row Hustle](https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Briggs](https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu), [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai) | [Front Row Hustle](https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk) | 3:43 |
-| 29 | [Ordinary Life](https://open.spotify.com/track/2howizZ9AlI3wgWViIkclu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:04 |
-| 30 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 |
+| 29 | [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
+| 30 | [Ordinary Life](https://open.spotify.com/track/2howizZ9AlI3wgWViIkclu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:04 |
 | 31 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 |
 | 32 | [High](https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:24 |
 | 33 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 46 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
 | 47 | [Shadow Walk](https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:16 |
 | 48 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
+| 49 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 
-Snapshot ID: `aiNjAAAAAACKwb+9MZj6jrXn/scs/V33`
+Snapshot ID: `aiS0gAAAAADE/bSOxUKYyXFlUyIcylK9`

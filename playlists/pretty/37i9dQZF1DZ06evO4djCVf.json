@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 484,
+  "num_followers": 487,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADv6/fqkX4csM4YxKqPw4zZ",
+  "snapshot_id": "aiS0gAAAAACbtGDWJIVexzPY1RsmW+Lx",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nooit Meer Regen",
-        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 200717,
-      "name": "Nooit Meer Regen",
-      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 176396,
-      "name": "Iemand Van Vroeger",
-      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2"
     },
     {
       "added_at": null,
@@ -471,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liefde Voor Muziek 2024",
-        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
       "artists": [
         {
@@ -480,9 +464,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Liefde Gegeven - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI"
+      "duration_ms": 176396,
+      "name": "Iemand Van Vroeger",
+      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 211550,
       "name": "'t Geeft Niet",
       "url": "https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Liefde Gegeven - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liefde Voor Muziek 2024",
-        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Als Ik Mezelf Verlies - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171237,
       "name": "Straks Is Het Te Laat",
       "url": "https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Als Ik Mezelf Verlies - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+        "name": "Glass House Sessions",
+        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
       },
       "artists": [
         {
@@ -592,25 +592,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Andersom Net Zo",
-      "url": "https://open.spotify.com/track/1Efkb09IhyVIekTVjwu4fI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liefde Voor Muziek 2024",
-        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "Passie - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA"
+      "duration_ms": 162768,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "Passie - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liefde Voor Muziek 2022",
         "url": "https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 162760,
       "name": "Waarom - Uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/0BqpBJqJSuWOFfZG87qSYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glass House Sessions",
-        "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM"
     },
     {
       "added_at": null,

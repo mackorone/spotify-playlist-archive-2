@@ -4,7 +4,7 @@
 
 > summer isn't over yet  ☀️🐬✨
 
-1,678 songs - 3 day 16 hr 27 min
+1,679 songs - 3 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Da' Dip](https://open.spotify.com/track/76YDsWGWezclVy9Z6sDGhf) | [Freak Nasty](https://open.spotify.com/artist/0LthCv77K8NqLKr8B6266a) | [Controversee…That's Life…and That's the Way It Is](https://open.spotify.com/album/1tiBNNEW1WPa59sVZ71Ers) | 3:57 | 2025-01-07 |  |
 | [Dame Tu Cosita](https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dame Tu Cosita](https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT) | 2:32 | 2025-06-24 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 | 2025-01-08 |
+| [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 | 2026-06-08 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-05-19 | 2025-01-08 |
 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 | 2023-04-13 | 2025-01-08 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-05-19 | 2025-01-08 |

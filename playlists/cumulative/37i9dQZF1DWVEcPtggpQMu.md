@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Cassper Nyovest
+> Only the hottest South African rap\. <br/>Cover: Mellow Don Picasso
 
 1,126 songs - 2 day 11 hr 33 min
 

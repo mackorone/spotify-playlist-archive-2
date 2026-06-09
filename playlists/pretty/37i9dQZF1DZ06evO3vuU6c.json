@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1438269,
+  "num_followers": 1438280,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAKD2a1poyQxanj4G/DuEhr",
+  "snapshot_id": "aiS0gAAAAABrfdhoiVDSqT49sUM702I9",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "She Wolf (Falling to Pieces) [feat. Sia]",
-      "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "She Wolf (Falling to Pieces) [feat. Sia]",
+      "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
     },
     {
       "added_at": null,

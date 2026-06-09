@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Kacey Musgraves",
-  "num_followers": 43558,
+  "num_followers": 43559,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Stay in Your Lane",
-        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
-      },
-      "artists": [
-        {
-          "name": "Bronson Diamond",
-          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
-        },
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 209417,
-      "name": "Stay in Your Lane",
-      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Stay in Your Lane",
+        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
+      },
+      "artists": [
+        {
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 209417,
+      "name": "Stay in Your Lane",
+      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
     },
     {
       "added_at": "2026-04-17 10:59:38",

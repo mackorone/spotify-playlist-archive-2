@@ -243,6 +243,28 @@
     },
     {
       "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
+    },
+    {
+      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
       },
@@ -1852,7 +1874,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 222439,
       "name": "Astralis",
       "url": "https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO"

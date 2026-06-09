@@ -4,7 +4,7 @@
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 42 min
+77 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2023-08-08 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:31 | 2023-08-08 |  |
 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 | 2023-12-13 |  |
-| [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 | 2024-09-08 |  |
+| [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 | 2024-09-08 | 2026-06-09 |
+| [Rey Sin Reina](https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:30 | 2026-06-09 |  |
 | [Safo En El Amor](https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:19 | 2025-08-09 | 2026-04-02 |
 | [Safo En El Amor](https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:19 | 2024-09-09 | 2025-08-09 |
 | [Te Dije](https://open.spotify.com/track/7nqb9Lio1yARXuEdlkNOJW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:23 | 2023-12-13 |  |

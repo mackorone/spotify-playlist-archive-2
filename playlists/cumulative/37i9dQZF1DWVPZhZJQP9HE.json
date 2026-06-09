@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183000,
       "name": "Aayiram",
       "url": "https://open.spotify.com/track/0C082Q1AZAUGfYzGHrlk0Y"
@@ -9789,6 +9789,40 @@
     },
     {
       "album": {
+        "name": "Nee Enbathey",
+        "url": "https://open.spotify.com/album/543D8tWJcfjbruhoPEDfxx"
+      },
+      "artists": [
+        {
+          "name": "Pravin Saivi",
+          "url": "https://open.spotify.com/artist/3g6Rl18EhUhnSBEv20h8U0"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "Derick McArthur",
+          "url": "https://open.spotify.com/artist/1Oalr8ufvpZWi7SmM9c4yL"
+        },
+        {
+          "name": "Roshan Sebastian",
+          "url": "https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193381,
+      "name": "Nee Enbathey",
+      "url": "https://open.spotify.com/track/4XfUN7YvKTxHstqJ9KwLkN"
+    },
+    {
+      "album": {
         "name": "Nee Mattum (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/2vagld4YbwNZ7n4iCzugb3"
       },
@@ -10036,6 +10070,32 @@
       "duration_ms": 237843,
       "name": "Neeye Oli",
       "url": "https://open.spotify.com/track/4TZb8HB5VEIRphX4CV7qXj"
+    },
+    {
+      "album": {
+        "name": "Neeye Pirai (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/5waJpOUVftiYA3AysbLEpi"
+      },
+      "artists": [
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        },
+        {
+          "name": "Navin Kannan",
+          "url": "https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Neeye Pirai (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/79ofmDwd5EY9joMICaxCEc"
     },
     {
       "album": {
@@ -11078,6 +11138,32 @@
       "duration_ms": 158701,
       "name": "Oorukaaran",
       "url": "https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo"
+    },
+    {
+      "album": {
+        "name": "Oorvasi",
+        "url": "https://open.spotify.com/album/2owQPYGoJkmRgMDwsm8EKH"
+      },
+      "artists": [
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        },
+        {
+          "name": "OJ Da Tamil Rapper",
+          "url": "https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C"
+        },
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Oorvasi",
+      "url": "https://open.spotify.com/track/0Rj7HxwijxQEydIca9Jdja"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: 정국\)
 
-209 songs - 11 hr 21 min
+212 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 | 2026-02-04 | 2026-03-04 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-12-04 | 2026-02-05 |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-12-04 | 2026-02-05 |
+| [Goddess](https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 4:27 | 2026-06-08 |  |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-05-06 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-12-04 | 2026-02-05 |
 | [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 | 2025-12-04 | 2026-02-05 |
@@ -134,12 +135,14 @@
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 | 2026-05-06 |  |
 | [Make Me Wonder](https://open.spotify.com/track/1uHZMrbvOHTmMBDrnu4UBg) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Make Me Wonder](https://open.spotify.com/album/0AoL7HrfWRz6fDeYn15V19) | 3:52 | 2026-02-04 | 2026-03-04 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-12-04 | 2026-02-05 |
+| [me & u](https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:00 | 2026-06-08 |  |
 | [mee6](https://open.spotify.com/track/6g2jDSdrpoCr81GDx1rBUk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [mee6](https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi) | 2:19 | 2025-12-04 | 2026-02-05 |
 | [MIRO](https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq) | [Kani](https://open.spotify.com/artist/1tBCub2evxGX1rUso7eveJ) | [MIRO](https://open.spotify.com/album/0X7Pul2W2tFNUPBYZ9foQl) | 2:54 | 2026-02-04 | 2026-03-04 |
 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-12-04 | 2026-02-05 |
 | [miss u so](https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [Nam Gijun](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [miss u so](https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg) | 3:35 | 2026-03-03 | 2026-04-30 |
 | [MOJO](https://open.spotify.com/track/5b7MBEIT0Yga74gESfKMbk) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 3:43 | 2026-02-25 | 2026-03-04 |
 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 | 2026-02-04 | 2026-03-04 |
+| [Mood \(Remix Version\)](https://open.spotify.com/track/0yaZ9OdbH88UgfSHOC1C4B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Mood \(Remix Version\)](https://open.spotify.com/album/2uvk8zgcB1d9z57nRYzubO) | 3:23 | 2026-06-08 |  |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2026-05-25 |  |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2026-03-03 | 2026-04-30 |
 | [MUSEUM](https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:14 | 2026-03-24 | 2026-04-30 |

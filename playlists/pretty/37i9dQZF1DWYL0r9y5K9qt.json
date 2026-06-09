@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: Chole Qisha",
-  "num_followers": 629074,
+  "num_followers": 629041,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-29 06:57:51",
       "album": {
-        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
-        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
-      },
-      "artists": [
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
-    },
-    {
-      "added_at": "2026-05-29 06:57:51",
-      "album": {
         "name": "Shake!",
         "url": "https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
+    },
+    {
+      "added_at": "2026-05-29 06:57:51",
+      "album": {
+        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
+        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
     }
   ],
   "unique_name": "poses",

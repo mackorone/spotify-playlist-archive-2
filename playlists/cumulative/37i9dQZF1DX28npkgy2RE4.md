@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-461 songs - 1 day 4 hr 22 min
+462 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,12 +156,13 @@
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-11-12 |  |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-11-12 |  |
 | [Follow Me Down](https://open.spotify.com/track/5yGDfeuXOeKJ8IRnljxNEC) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Deep the Habit](https://open.spotify.com/album/1YcF0UtmIRkhVpxAKpzpdK) | 4:12 | 2022-04-01 | 2022-04-17 |
+| [Forever Had to End](https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Forever Had to End](https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW) | 3:42 | 2025-02-07 |  |
 | [Forever Half Mast](https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u) | 4:02 | 2023-06-30 | 2024-04-19 |
 | [Forever Half Mast](https://open.spotify.com/track/3yAg2gIwcElgEyypgG0YVZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/2jV9k0kdnMxl1yXiHjGA82) | 4:02 | 2021-11-12 | 2022-07-26 |
 | [Francis](https://open.spotify.com/track/1ymNYpCCZqXdGG5mpBSWJF) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/14kZDlSzNecMAegiHWES5R) | 2:03 | 2021-11-12 | 2022-07-29 |
 | [Francis](https://open.spotify.com/track/4NSK5gHAFbeD0CGkEjaouz) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III \(Fifth Anniversary Edition\)](https://open.spotify.com/album/5uXGkExjP5WJdeaGeBQ8hm) | 2:03 | 2023-10-27 | 2024-04-19 |
 | [Francis](https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz) | 2:03 | 2022-07-11 | 2023-11-27 |
-| [Freak \- Radio Edit](https://open.spotify.com/track/4AWI4fVE4KEqZQUN0H8j3z) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Freak \(Radio Edit\)](https://open.spotify.com/album/0DcBUia357dYCXDYFv1vyx) | 3:39 | 2021-11-12 |  |
+| [Freak \- Radio Edit](https://open.spotify.com/track/4AWI4fVE4KEqZQUN0H8j3z) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Freak \(Radio Edit\)](https://open.spotify.com/album/0DcBUia357dYCXDYFv1vyx) | 3:39 | 2021-11-12 | 2026-06-09 |
 | [Free Around You](https://open.spotify.com/track/30yJQQCrgPsoIMd8qYRrVo) | [The Dove & the Wolf](https://open.spotify.com/artist/3GXHx6w51K9F5Xvzp9vFo6) | [Free Around You](https://open.spotify.com/album/5Zj53IK8jTEhd3PTgchP7I) | 3:40 | 2021-11-12 | 2022-07-28 |
 | [Fresh Water in an Empty Vase](https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0) | [Natalie Schepman](https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG) | [Fresh Water in an Empty Vase](https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA) | 2:59 | 2021-11-12 | 2025-02-26 |
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-11-12 |  |

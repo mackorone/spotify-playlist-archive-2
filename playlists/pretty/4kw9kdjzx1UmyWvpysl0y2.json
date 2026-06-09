@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123846,
+  "num_followers": 123838,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVdLlhWy6021hiwmjUGXOI6RS/YAM5",
+  "snapshot_id": "AAAVdSdVk+JgTrlXpHiq2RBLzEFFxjy9",
   "tracks": [
+    {
+      "added_at": "2026-06-08 14:11:44",
+      "album": {
+        "name": "FLUTTER / STEP OUT",
+        "url": "https://open.spotify.com/album/3wYw808RXboatWPT5ksOT9"
+      },
+      "artists": [
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        },
+        {
+          "name": "FADENT",
+          "url": "https://open.spotify.com/artist/6f5AzOjOcVck70QRfBhxvK"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "FLUTTER",
+      "url": "https://open.spotify.com/track/3qgaPjS5fA89Ebx3sIpMyI"
+    },
     {
       "added_at": "2026-06-05 14:28:39",
       "album": {

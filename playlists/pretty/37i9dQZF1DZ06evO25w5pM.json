@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19694,
+  "num_followers": 19700,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABGCnX0cst1jkJpCoaC5u8u",
+  "snapshot_id": "aiS0gAAAAAAhwa0MZlP7rw+FkKasdn3W",
   "tracks": [
     {
       "added_at": null,
@@ -519,38 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -571,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Time",
-        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -580,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 367046,
-      "name": "Moving Seagrass",
-      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -596,9 +564,25 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 367046,
+      "name": "Moving Seagrass",
+      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
     },
     {
       "added_at": null,
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiritual Healing",
         "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 493139,
       "name": "Wind in Bamboo",
       "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
     },
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Blue",
-        "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 326600,
-      "name": "Earth Blue",
-      "url": "https://open.spotify.com/track/1AmLFqFYCPeiYYMb3HQHp0"
+      "duration_ms": 217893,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
     },
     {
       "added_at": null,
@@ -731,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "Earth Blue",
+        "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
+      "duration_ms": 326600,
+      "name": "Earth Blue",
+      "url": "https://open.spotify.com/track/1AmLFqFYCPeiYYMb3HQHp0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-375 songs - 22 hr 37 min
+377 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Negana](https://open.spotify.com/track/119wfagYJPstMFSqvIevY9) | [Twin Dive](https://open.spotify.com/artist/3s33V653y1P9c44LHIQuJ5) | [Negana](https://open.spotify.com/album/79Psl3Dc59HB9UeYTQd96a) | 5:56 | 2026-06-05 |  |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-05-14 |  |
+| [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-06-09 |  |
 | [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 | 2026-01-19 | 2026-02-25 |
 | [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 | 2026-04-20 | 2026-05-26 |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
@@ -311,6 +312,7 @@
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-02-14 | 2026-03-05 |
 | [The Architect](https://open.spotify.com/track/1hPg5pGa9OpduItQzRW0eM) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:25 | 2026-03-28 | 2026-05-17 |
+| [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 | 2026-06-09 |  |
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2026-01-05 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-20 | 2026-01-21 |
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2025-11-04 | 2025-12-06 |

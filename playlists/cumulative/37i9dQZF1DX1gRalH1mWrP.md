@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,439 songs - 3 day 2 hr 18 min
+1,440 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Harmony](https://open.spotify.com/track/2nJekhox9Na8lDxQOKVp7D) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Harmony](https://open.spotify.com/album/0myfyvcNaAuggWQhdbKeuo) | 2:54 | 2020-09-05 | 2021-04-30 |
 | [Hasta Los Dientes \(feat\. Maria Becerra\)](https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:08 | 2022-04-13 | 2022-04-20 |
 | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/album/29FoTD5vBY3Fq1QWhbl3FM) | 3:06 | 2019-06-29 | 2020-04-29 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-08 |  |
 | [Hate U](https://open.spotify.com/track/5C22UtZnT54ecHYVozn0EZ) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Hate U](https://open.spotify.com/album/27XAaoDCyJyXwfQnY0O4yJ) | 2:46 | 2020-08-08 | 2022-05-05 |
 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:40 | 2019-06-15 | 2019-06-26 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-10-10 | 2021-10-16 |
@@ -662,7 +663,7 @@
 | [Just You and I](https://open.spotify.com/track/4Fvtl6P5d8h2lzzwhUCHHD) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/7KqNNYGSs3S4uFiDVIVOXY) | 2:54 | 2019-05-26\* | 2019-06-15 |
 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 | 2021-09-13 | 2022-04-13 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-21 | 2024-03-15 |
-| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-05-22 |  |
+| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-05-22 | 2026-06-09 |
 | [Karma](https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:24 | 2023-04-24 | 2023-06-27 |
 | [Keeping It In The Dark \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Keeping It In The Dark \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/34kdsqSo8eVjo29lNLBCRl) | 3:28 | 2019-08-17 | 2019-09-04 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-03-07 | 2024-05-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,114 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,140 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 9 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
 | 10 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
 | 11 | [La Fea](https://open.spotify.com/track/6qRDRRc6ySs99VGB1KTNsf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/3n6DUly3Kcoc99f8qM9jxf) | 4:05 |
-| 12 | [Perfecta](https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 3:34 |
+| 12 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 |
 | 13 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 14 | [Sobre Mis Pies](https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:48 |
-| 15 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 |
+| 15 | [Perfecta](https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 3:34 |
 | 16 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
-| 17 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
-| 18 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
+| 17 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
+| 18 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 19 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
 | 20 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
 | 21 | [Zutano](https://open.spotify.com/track/1WBa4tWL35yvqCO42c2C1J) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/7JeL0u9W8PscUQKS4V0vtj) | 3:01 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 39 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
 | 40 | [El Chico \- En Vivo](https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR) | 2:27 |
 | 41 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
-| 42 | [Que Te Vaya Bien](https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi) | 3:58 |
-| 43 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
+| 42 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
+| 43 | [Que Te Vaya Bien](https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi) | 3:58 |
 | 44 | [Hoy Ya Me Voy](https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh) | 4:20 |
 | 45 | [El Pocho \- En Vivo](https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v) | 2:48 |
 | 46 | [Amarte](https://open.spotify.com/track/6YSaa2DOow4nMXj6zPiDqt) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Serafín](https://open.spotify.com/track/30Bldx71dH6xhYY0FUYtWA) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/08wWfyX6Gq7L1zsTdfDZGv) | 4:00 |
 | 50 | [Amor Apache](https://open.spotify.com/track/5RneX4ORaVj7qppd2Kfnww) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/7HhmM3vz8YeEkQQDSXWQnP) | 3:27 |
 
-Snapshot ID: `aiNjAAAAAABEVZ9aLdGnQWj785AOZxaz`
+Snapshot ID: `aiS0gAAAAAAXQi7BhOVV8v5RgjFhi7/H`

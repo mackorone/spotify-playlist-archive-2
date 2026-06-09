@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,025 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,032 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 34 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 |
 | 35 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 
-Snapshot ID: `aiNjAAAAAADU+bRiZh5WdjPmQkyKpQ/x`
+Snapshot ID: `aiS0gAAAAAABkHEPPIc/v8bqVEzuI8YK`

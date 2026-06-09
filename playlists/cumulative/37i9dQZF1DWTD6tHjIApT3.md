@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,792 songs - 10 day 1 hr 29 min
+3,793 songs - 10 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [June](https://open.spotify.com/track/0Q1TLhnHvNs5xTsasBhaOg) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [Sincere](https://open.spotify.com/album/4g4QLW0E1SfBipYZuE5Hym) | 4:15 | 2022-12-20 | 2023-01-04 |
 | [June, I love you](https://open.spotify.com/track/0gbdeAZfbeNdlrBZiZil8c) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Alone Together](https://open.spotify.com/album/5p3HCWLAZj6Di5KrZnk4gw) | 3:43 | 2023-05-25 | 2023-05-31 |
 | [JUNEJULY♡2023](https://open.spotify.com/track/788SK754z15X19vOe2c2ND) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [JUNEJULY♡2023](https://open.spotify.com/album/42cCivg1nBBh53UbU74Zyd) | 3:49 | 2023-07-06 | 2023-07-19 |
+| [JUNK AND PONG](https://open.spotify.com/track/1RldTd12veBTWh0yekCIru) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [JUNK AND PONG](https://open.spotify.com/album/3HCsFJeAe1CITHnDGFSMrv) | 3:13 | 2026-05-26 |  |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-14 | 2023-03-15 |
 | [JUST IN TIME](https://open.spotify.com/track/35eL6PNOufwSJ8Ndrmm2Nf) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JUST IN TIME](https://open.spotify.com/album/0z6y8m2fTVbZ35GmIjOBLm) | 3:21 | 2022-06-07 | 2022-06-15 |
 | [Just the way you are](https://open.spotify.com/track/3k5URLS7vPdyjdtewnHCBl) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Remember you](https://open.spotify.com/album/4CablfTCtnFPIvXYqyUdn9) | 3:52 | 2023-01-17 | 2023-01-25 |
@@ -3417,7 +3418,7 @@
 | [果てしなき](https://open.spotify.com/track/0Ua4vUehTg5JcWrEKugWRt) | [Mana Ashida](https://open.spotify.com/artist/6vIb44giu9TY4lf4HpKuzm) | [「果てしなきスカーレット」オリジナル・サウンドトラック](https://open.spotify.com/album/5IeuLi72HWehE37OLFbkRR) | 5:35 | 2025-11-25 | 2026-01-01 |
 | [果実を好きなだけ](https://open.spotify.com/track/4Xnxpbl2d5bAf8xjfquRqJ) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [果実を好きなだけ](https://open.spotify.com/album/52R5bzw6pCNebDYxWZQsob) | 3:54 | 2025-06-03 | 2025-06-11 |
 | [栞](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 | 2024-09-03 | 2024-09-18 |
-| [桜みたいな恋なんだ](https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [桜みたいな恋なんだ](https://open.spotify.com/album/03rGHXn48rNINzu3nl5lVf) | 3:52 | 2026-03-10 |  |
+| [桜みたいな恋なんだ](https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [桜みたいな恋なんだ](https://open.spotify.com/album/03rGHXn48rNINzu3nl5lVf) | 3:52 | 2026-03-10 | 2026-06-09 |
 | [椰子の実](https://open.spotify.com/track/2seGEJD1lDCYscPBpn6ySk) | [比嘉歌子](https://open.spotify.com/artist/1VOlbNGFRks8N598A1ukfe) | [椰子の実](https://open.spotify.com/album/1MB2F8iRYODbwurw8ia6P0) | 4:05 | 2022-06-21 | 2022-07-08 |
 | [楓](https://open.spotify.com/track/4tnpmZVD9zVQIMQghpuV8x) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [楓](https://open.spotify.com/album/125rcderxx8IqpMq1qxTWH) | 5:36 | 2025-12-09 | 2026-02-11 |
 | [楽園](https://open.spotify.com/track/1AsXFQCdocAc7a5362gGy2) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [楽園](https://open.spotify.com/album/4JN2DxtTGQG6W1hPLTaB6S) | 3:51 | 2024-07-25 | 2024-07-31 |

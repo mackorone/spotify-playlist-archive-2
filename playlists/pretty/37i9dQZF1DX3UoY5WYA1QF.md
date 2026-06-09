@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,627 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,663 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 26 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
 | 27 | [Bandida](https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:35 |
 | 28 | [Carrera a Muerte](https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 4:03 |
-| 29 | [Traficante De Besos](https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ) | [La Propiedad De Durango](https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz) | [Chiquitita](https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD) | 2:35 |
-| 30 | [En Un Hilo](https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:42 |
+| 29 | [En Un Hilo](https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:42 |
+| 30 | [Traficante De Besos](https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ) | [La Propiedad De Durango](https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz) | [Chiquitita](https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD) | 2:35 |
 | 31 | [Escándalo Social](https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:19 |
 | 32 | [La Seven](https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:16 |
 | 33 | [Como Tú Decidas](https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:09 |

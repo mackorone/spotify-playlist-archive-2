@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,078 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,083 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,19 +37,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 27 | [Nightingale Lane.](https://open.spotify.com/track/5TCpeSXHkTEUJmCXlxhESv) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:02 |
 | 28 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 29 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 30 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
+| 30 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 31 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
-| 32 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
+| 32 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
 | 33 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
-| 34 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
-| 35 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
+| 34 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
+| 35 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 36 | [BASSIANI](https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E) | 2:43 |
 | 37 | [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 |
 | 38 | [Lost and found](https://open.spotify.com/track/7AIr6shgnOlUrx3StZUkce) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:14 |
 | 39 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 40 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
-| 41 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
-| 42 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
+| 41 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
+| 42 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 43 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
 | 44 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 45 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 82 | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/track/5xsPLejlveYFDwHAQSXWMI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/album/423myRCWFfwiqQmIYxKUUI) | 2:41 |
 | 83 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
 | 84 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
-| 85 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
-| 86 | [Cocaine](https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Dandelion](https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a) | 2:55 |
+| 85 | [Cocaine](https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Dandelion](https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a) | 2:55 |
+| 86 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
 | 87 | [Andra Sidan](https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:02 |
 | 88 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 |
 

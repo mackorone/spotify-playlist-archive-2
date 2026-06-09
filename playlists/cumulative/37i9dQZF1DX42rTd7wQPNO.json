@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
@@ -3496,6 +3496,24 @@
       "duration_ms": 207950,
       "name": "what are you on fire about",
       "url": "https://open.spotify.com/track/4lZOxkf4marLYA3jCCphEK"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "album": {

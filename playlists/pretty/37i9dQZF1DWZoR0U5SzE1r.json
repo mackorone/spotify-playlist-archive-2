@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Chris Tomlin",
-  "num_followers": 419138,
+  "num_followers": 419276,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -344,8 +344,8 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Cody Carnes",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 267773,
       "name": "Hymn Of Heaven",
       "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 321933,
-      "name": "Open The Eyes Of My Heart - Live",
-      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Battle Belongs",
         "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 287532,
       "name": "Battle Belongs",
       "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 321933,
+      "name": "Open The Eyes Of My Heart - Live",
+      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "I Am Loved",
-        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 432640,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "The Heart Of Worship",
         "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Winds Of Heaven, Stuff Of Earth",
-        "url": "https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5"
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
       },
       "artists": [
         {
-          "name": "Rich Mullins",
-          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 183893,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld"
+      "duration_ms": 242160,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1235,6 +1219,22 @@
       "duration_ms": 370360,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Winds Of Heaven, Stuff Of Earth",
+        "url": "https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5"
+      },
+      "artists": [
+        {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "HUMAN (Live)",
         "url": "https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm"
       },
@@ -1419,22 +1403,6 @@
       "duration_ms": 318874,
       "name": "Fountain (I Am Good) - Live",
       "url": "https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1455,6 +1423,22 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1491,6 +1475,22 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 377026,
+      "name": "How Great Thou Art!",
+      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "House of Worship",
         "url": "https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s"
       },
@@ -1576,8 +1592,8 @@
           "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Jenn Johnson",
@@ -1591,22 +1607,6 @@
       "duration_ms": 370239,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3AcKLIYxqwVMtkVCtH3Dhr"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 377026,
-      "name": "How Great Thou Art!",
-      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Heed the Call",
-        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
-      },
-      "artists": [
-        {
-          "name": "The Imperials",
-          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Praise the Lord",
-      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+        "name": "Heed the Call",
+        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
       },
       "artists": [
         {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+          "name": "The Imperials",
+          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+      "duration_ms": 215426,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1979,6 +1963,22 @@
       "duration_ms": 254840,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
-        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 287434,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
+        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
         }
       ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+      "duration_ms": 287434,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "Maverick City Vol. 3 Part 1",
         "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 276746,
       "name": "Today Is the Day",
       "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2635,34 +2635,34 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "Kari Jobe",
         "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "This Is a Move",
-        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     }
   ],
   "unique_name": "Worship Classics",

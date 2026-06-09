@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: Betrand Putra Onsu
+> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: Jordy Riz
 
 336 songs - 21 hr 40 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,503 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,505 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 3 | [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 |
 | 4 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 |
 | 5 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |
-| 6 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
+| 6 | [Nunca Mais \- Ao Vivo](https://open.spotify.com/track/7k8YBbVumvWI1ujyjWbvlo) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 3:06 |
 | 7 | [5 Da Manhã \- Ao Vivo](https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [5 Da Manhã \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU) | 2:27 |
 | 8 | [Me Usa \- Ao Vivo](https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Me Usa \(Ao Vivo\)](https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl) | 2:46 |
 | 9 | [Diz a Verdade](https://open.spotify.com/track/36Pli1XkX8lHfIJpSYA6bx) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Diz a Verdade](https://open.spotify.com/album/23uFWJuBGpUhKFct5j2Ena) | 2:29 |
 | 10 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
-| 11 | [Nunca Mais \- Ao Vivo](https://open.spotify.com/track/7k8YBbVumvWI1ujyjWbvlo) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 3:06 |
+| 11 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 12 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
 | 13 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 |
 | 14 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |

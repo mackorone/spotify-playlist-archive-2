@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-101 songs - 5 hr 26 min
+102 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Minutes](https://open.spotify.com/track/2JdScT0YydH9WcOWEVIIJl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:51 | 2025-11-07 |  |
 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 | 2026-02-06 |  |
-| [Alien](https://open.spotify.com/track/0lS7FUq7QzncifnB4me2il) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4O2Zwv7XfNCignxfNBuE9Y) | 3:41 | 2026-06-07 |  |
+| [Alien](https://open.spotify.com/track/0lS7FUq7QzncifnB4me2il) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4O2Zwv7XfNCignxfNBuE9Y) | 3:41 | 2026-06-07 | 2026-06-09 |
+| [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 | 2026-06-08 |  |
 | [Another Problem](https://open.spotify.com/track/4LtDlUC0G9gDANZX9hLWFD) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:12 | 2025-11-07 |  |
 | [Bad Dream](https://open.spotify.com/track/22jgvbdXMcVdvu5Lc4V4yL) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON’T MESS UP MY TEMPO – The 5th Album](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) | 3:56 | 2025-11-07 |  |
 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 | 2025-11-07 |  |

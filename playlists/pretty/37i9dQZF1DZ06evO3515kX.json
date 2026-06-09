@@ -1,12 +1,12 @@
 {
   "description": "This is The Runaways. The essential tracks, all in one playlist.",
-  "num_followers": 14313,
+  "num_followers": 14314,
   "original_name": "This Is The Runaways",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABPNGJAx+YCLuPE9TPg0yfF",
+  "snapshot_id": "aiS0gAAAAADgk9LoS6e8L5v6rC9f7zI0",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Trash Can Murders",
-      "url": "https://open.spotify.com/track/4MZyqgbeAf9VdWdyak146s"
+      "duration_ms": 211093,
+      "name": "Gotta Get Out Tonight",
+      "url": "https://open.spotify.com/track/1NZH1RRVDUxCbTp11y7ext"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Gotta Get Out Tonight",
-      "url": "https://open.spotify.com/track/1NZH1RRVDUxCbTp11y7ext"
+      "duration_ms": 196360,
+      "name": "Trash Can Murders",
+      "url": "https://open.spotify.com/track/4MZyqgbeAf9VdWdyak146s"
     },
     {
       "added_at": null,

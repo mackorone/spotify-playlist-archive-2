@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Dawid Podsiadło
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,100 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,209 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

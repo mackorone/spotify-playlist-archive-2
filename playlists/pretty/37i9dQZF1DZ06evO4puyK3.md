@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,770 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,773 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 42 | [Entendi Errado \- Ao Vivo](https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:43 |
 | 43 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
 | 44 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
-| 45 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 |
-| 46 | [SEDANAPO](https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:37 |
+| 45 | [SEDANAPO](https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:37 |
+| 46 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 |
 | 47 | [LSD](https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:56 |
 | 48 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
 | 49 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
 | 50 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 |
 
-Snapshot ID: `aiNjAAAAAAD9QAxvkOwiXCuYfH90T15C`
+Snapshot ID: `aiS0gAAAAADN4oqoPSYTaTWoRgwBIcZF`

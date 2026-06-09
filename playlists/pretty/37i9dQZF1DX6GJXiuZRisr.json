@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1615702,
+  "num_followers": 1615718,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVPWPD47fkifeyPG7WTEHkyDusw",
+  "snapshot_id": "AAAAAOsiNUwA7KRS7Jh3+CtYXMMs5Lky",
   "tracks": [
     {
       "added_at": "2026-05-29 04:01:48",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Saksham",
-          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
-        },
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/4uR2mPMozlwPnL65llfXh9"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 226000,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "I Hear No More",
-        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Gino Ingrosso",
-          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
-        }
-      ],
-      "duration_ms": 167792,
-      "name": "I Hear No More",
-      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 225361,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Beg You",
         "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
       },
@@ -1563,38 +1579,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
       },
@@ -1759,18 +1735,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "before you go",
-        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
       "artists": [
         {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
         }
       ],
-      "duration_ms": 258750,
-      "name": "before you go",
-      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
+      "duration_ms": 203760,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1791,6 +1775,22 @@
       "duration_ms": 208915,
       "name": "Drop That Beat",
       "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "before you go",
+        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "before you go",
+      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 218095,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Heard It All Before",
         "url": "https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH"
       },
@@ -1843,26 +1863,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Never Be The Same",
-        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
-        }
-      ],
-      "duration_ms": 218095,
-      "name": "Never Be The Same",
-      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
       },
@@ -1879,6 +1879,26 @@
       "duration_ms": 204593,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1907,26 +1927,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
@@ -1943,26 +1943,6 @@
       "duration_ms": 217523,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1987,6 +1967,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Attraction (Marsh's Mix)",
         "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
       },
@@ -2007,18 +2007,22 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
       "artists": [
         {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+      "duration_ms": 191250,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     }
   ],
   "unique_name": "Night Rider",

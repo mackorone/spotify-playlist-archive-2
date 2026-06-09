@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165597,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -1290,6 +1308,28 @@
       "duration_ms": 154885,
       "name": "Break For You",
       "url": "https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7"
+    },
+    {
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "album": {
@@ -1420,7 +1460,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
@@ -1456,7 +1496,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
@@ -1739,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -1866,7 +1928,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -1976,7 +2038,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -2063,6 +2125,46 @@
     },
     {
       "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "Drunk Right Now (Na Na Na) with Akon",
         "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
       },
@@ -2100,6 +2202,24 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "album": {
@@ -2154,7 +2274,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
@@ -2376,7 +2496,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
@@ -2568,6 +2688,28 @@
       "duration_ms": 143529,
       "name": "For Keeps",
       "url": "https://open.spotify.com/track/2ztJaMY9CjoX53xO1MtQTl"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "album": {
@@ -3266,6 +3408,24 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -4237,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -4508,7 +4686,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
@@ -4640,6 +4818,24 @@
       "duration_ms": 169073,
       "name": "No Way Jose",
       "url": "https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl"
+    },
+    {
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "album": {
@@ -4906,7 +5102,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
@@ -5644,7 +5840,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -5910,7 +6106,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 213116,
       "name": "Soup",
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"

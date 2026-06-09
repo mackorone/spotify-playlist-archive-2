@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,487 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,521 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 23 | [Nosedive \(Feat\. Lainey Wilson\)](https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:12 |
 | 24 | [Good Horses \- feat\. Miranda Lambert](https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:57 |
 | 25 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
-| 26 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
-| 27 | [Hang Tight Honey](https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Hang Tight Honey](https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2) | 3:09 |
+| 26 | [Hang Tight Honey](https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Hang Tight Honey](https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2) | 3:09 |
+| 27 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
 | 28 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
 | 29 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
 | 30 | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 47 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
 | 48 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
 | 49 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
-| 50 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
+| 50 | [Pipe](https://open.spotify.com/track/6KQmv05z5qkd6D6f75Mqxd) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:49 |
 
-Snapshot ID: `aiNjAAAAAACDZ4mqnXOGHAU+GpbCv1sd`
+Snapshot ID: `aiS0gAAAAAC4k5vzola/hM5/95GM1PSy`

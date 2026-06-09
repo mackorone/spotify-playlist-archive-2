@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105711,
+  "num_followers": 105709,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
         "name": "Sad Girls",
         "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -783,22 +799,6 @@
       "duration_ms": 176107,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
-        "name": "Florescence",
-        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "Need For Speed",
-        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 195154,
-      "name": "Need For Speed",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -967,22 +951,38 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
-        "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
+        "name": "Need For Speed",
+        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "Birthe Kj\u00e6r",
-          "url": "https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 145620,
-      "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
-      "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
+      "duration_ms": 195154,
+      "name": "Need For Speed",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1003,6 +1003,42 @@
       "duration_ms": 247384,
       "name": "Love Is Kind",
       "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+        "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Birthe Kj\u00e6r",
+          "url": "https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5"
+        }
+      ],
+      "duration_ms": 145620,
+      "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
+      "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1039,6 +1075,26 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
+        "name": "Already Know",
+        "url": "https://open.spotify.com/album/3xcgGpibAqoTYC1mhOO6SP"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Already Know",
+      "url": "https://open.spotify.com/track/4fYhGMu338Ypi1e2g27E2Y"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
         "name": "Tiny Raisin",
         "url": "https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs"
       },
@@ -1067,26 +1123,6 @@
       "duration_ms": 139039,
       "name": "IT'S OK",
       "url": "https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
-        "name": "Already Know",
-        "url": "https://open.spotify.com/album/3xcgGpibAqoTYC1mhOO6SP"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Already Know",
-      "url": "https://open.spotify.com/track/4fYhGMu338Ypi1e2g27E2Y"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1123,22 +1159,18 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "Piss In The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
         }
       ],
-      "duration_ms": 154413,
-      "name": "Bluffin' (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1163,18 +1195,18 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+        "name": "L\u00e5st Inde",
+        "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
       },
       "artists": [
         {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 146335,
-      "name": "Stil permanent",
-      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
+      "duration_ms": 178347,
+      "name": "L\u00e5st Inde",
+      "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1191,22 +1223,6 @@
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
-        "name": "L\u00e5st Inde",
-        "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 178347,
-      "name": "L\u00e5st Inde",
-      "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1283,38 +1299,6 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Tastes So Good",
-      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
-    },
-    {
-      "added_at": "2026-06-04 22:00:55",
-      "album": {
         "name": "Marvel",
         "url": "https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2026-06-04 22:00:55",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-06-04 22:00:55",
@@ -1363,6 +1347,22 @@
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
+    },
+    {
+      "added_at": "2026-06-04 22:00:55",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
     },
     {
       "added_at": "2026-06-04 22:00:55",

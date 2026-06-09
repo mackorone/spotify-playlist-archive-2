@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,613 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,626 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 22 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
 | 23 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 24 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
-| 25 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 26 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
-| 27 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 25 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
+| 26 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 27 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 28 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
 | 29 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
 | 30 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 37 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 38 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 39 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
-| 40 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
-| 41 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
+| 40 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
+| 41 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
 | 42 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 43 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
 | 44 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 64 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 65 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
 | 66 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
-| 67 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
-| 68 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
+| 67 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
+| 68 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 69 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 70 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 71 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 86 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 87 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
 | 88 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |
-| 89 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
-| 90 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 89 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 90 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 91 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |
 | 92 | [MONEY BAG](https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [MONEY BAG](https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT) | 2:14 |
 | 93 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 96 | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/track/7LzZoRUTE997XJlJakYyBF) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/album/4rGngww6I50IfgUAZAnDxs) | 3:09 |
 | 97 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
 | 98 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 |
-| 99 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
-| 100 | [Phases](https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Phases](https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s) | 2:49 |
+| 99 | [Phases](https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Phases](https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s) | 2:49 |
+| 100 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
 
 Snapshot ID: `AAAAAEHr3pWSEH+EVj2Nv31ZMAzEi+oy`

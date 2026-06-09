@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 722358,
+  "num_followers": 722415,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAhTaDZDhiQyG7jDZItq316",
+  "snapshot_id": "aiS0gAAAAAAYS+hCTcmAwI8ciys5ZRF0",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Song To Sing",
         "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 179928,
       "name": "A Song To Sing",
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Whiskey And You",
-      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
     },
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts 2B Human",
-        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
       "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 188120,
-      "name": "Love Me Anyway (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
+      "duration_ms": 207746,
+      "name": "Heart Letting Go",
+      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
     },
     {
       "added_at": null,
@@ -743,6 +739,26 @@
       "duration_ms": 248053,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurts 2B Human",
+        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Love Me Anyway (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
     },
     {
       "added_at": null,
@@ -767,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+        "name": "Blessings and Miracles",
+        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
       },
       "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Heart Letting Go",
-      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
+      "duration_ms": 226853,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
     },
     {
       "added_at": null,
@@ -871,26 +891,6 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessings and Miracles",
-        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
     },
     {
       "added_at": null,

@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/3gIrCB0W2GIMYREEIGz4fa"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212625,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/2CY4tpOXZ79CUmwij1e4JA"
+    },
+    {
+      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S"
       },
@@ -1716,6 +1734,24 @@
       "duration_ms": 182773,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda"
+    },
+    {
+      "album": {
+        "name": "Greedy Bastards",
+        "url": "https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA"
+      },
+      "artists": [
+        {
+          "name": "The Ratskins",
+          "url": "https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213217,
+      "name": "Greedy Bastards",
+      "url": "https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C"
     },
     {
       "album": {
@@ -3297,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Rain Falls In The Night.",
+        "url": "https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256319,
+      "name": "Rain Falls In The Night.",
+      "url": "https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6"
       },
@@ -3978,6 +4032,28 @@
       "duration_ms": 229053,
       "name": "The Last On the List",
       "url": "https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt"
+    },
+    {
+      "album": {
+        "name": "Transhumanity",
+        "url": "https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pizzo",
+          "url": "https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q"
+        },
+        {
+          "name": "Roberto Tiranti",
+          "url": "https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260283,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269951,
+  "num_followers": 269954,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABr9uiYrkM8Nk77jyczxNvW",
+  "snapshot_id": "aiS0gAAAAAD0nzIHT/wGXUpEw3gEYmAb",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 309537,
-      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 520935,
       "name": "Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 309537,
+      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
     },
     {
       "added_at": null,

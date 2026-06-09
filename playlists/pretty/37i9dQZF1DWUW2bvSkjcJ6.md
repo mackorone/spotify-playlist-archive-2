@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Alex Warren, badmómzjay, Taylor Swift, RAF Camora & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,011 likes - 89 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,930 likes - 89 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 49 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 50 | [Happy sein](https://open.spotify.com/track/7vJjeC2DyFrLqkaagsVcfC) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Happy sein](https://open.spotify.com/album/1gTBc47T96r7buwX2WIhxP) | 2:18 |
 | 51 | [MARIA](https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [MARIA](https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK) | 2:31 |
-| 52 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
+| 52 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Maximum](https://open.spotify.com/artist/2fD6O2xt1zGLGGWHkR0k1n) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
 | 53 | [Into You](https://open.spotify.com/track/5NrMSFRVMWykeZJpFGwc1O) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Into You](https://open.spotify.com/album/4qCpj7C3VXs0cTMHM56CAc) | 2:19 |
 | 54 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 55 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 |

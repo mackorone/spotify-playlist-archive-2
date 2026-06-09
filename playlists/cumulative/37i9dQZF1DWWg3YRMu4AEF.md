@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-152 songs - 10 hr 1 min
+153 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 | 2020-09-04 | 2022-07-29 |
 | [Bright Side of the Road](https://open.spotify.com/track/4w4Shi3xjbZBDGuhLw5LsQ) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Into the Music](https://open.spotify.com/album/11q2kAICayamyzbVlZvE90) | 3:46 | 2020-09-04 | 2022-07-29 |
 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 | 2020-09-04 | 2024-10-08 |
+| [Can't You Hear Me Knocking \- 2009 Mix](https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 7:16 | 2022-06-08 |  |
 | [Chuck E's in Love \- 45 Version](https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Chuck E's In Love / On Saturday Afternoons In 1963 \[Digital 45\]](https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC) | 3:29 | 2020-09-04 | 2022-07-29 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2022-06-08 | 2024-04-19 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 | 2020-09-04 |  |
@@ -51,7 +52,7 @@
 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 | 2022-06-08 |  |
 | [Help Is On Its Way \- 2010 Digital Remaster](https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(2010 Remaster\)](https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi) | 4:07 | 2020-09-04 | 2022-07-29 |
 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2022-06-08 | 2024-04-19 |
-| [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2022-06-08 |  |
+| [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2022-06-08 | 2026-06-09 |
 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 | 2022-06-08 |  |
 | [Howzat](https://open.spotify.com/track/78K0CsNamJ1LdSrWO7CxCn) | [Sherbet](https://open.spotify.com/artist/45NevEaV0GyRopWoADDPr2) | [Howzat](https://open.spotify.com/album/4liRYil0nws0o7QfPehI71) | 3:45 | 2020-09-04 | 2022-07-07 |
 | [I Am Woman](https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [I Am Woman](https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1) | 3:25 | 2020-09-04 | 2022-01-21 |

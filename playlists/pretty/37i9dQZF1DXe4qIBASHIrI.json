@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 181098,
+  "num_followers": 181121,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Murasaki",
         "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 213133,
       "name": "Murasaki",
       "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2023-09-01 16:42:45",

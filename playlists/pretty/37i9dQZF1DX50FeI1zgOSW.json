@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19783,
+  "num_followers": 19797,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACoZaNLHuvkD65S1s1JZwTNCjRFZ",
+  "snapshot_id": "AAAAAN1SwkaoFYli+NBIZp57JBYocSt+",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -235,6 +235,26 @@
       "duration_ms": 207750,
       "name": "Azhage",
       "url": "https://open.spotify.com/track/0ARQLookb1w5u7AsNq4AHm"
+    },
+    {
+      "added_at": "2026-06-08 11:47:18",
+      "album": {
+        "name": "Daavu",
+        "url": "https://open.spotify.com/album/38zcO3MVMaUVz2foHaAlHI"
+      },
+      "artists": [
+        {
+          "name": "Nilukshan",
+          "url": "https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL"
+        },
+        {
+          "name": "Velan Udhayakumar",
+          "url": "https://open.spotify.com/artist/1aiY8n9nQ9hhBtqfl33EPG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Daavu",
+      "url": "https://open.spotify.com/track/4Dmz2VjarNsfZf84nDGJMB"
     },
     {
       "added_at": "2026-05-14 06:01:44",
@@ -1451,54 +1471,6 @@
       "duration_ms": 228853,
       "name": "Maruguriye",
       "url": "https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9"
-    },
-    {
-      "added_at": "2026-02-12 12:00:10",
-      "album": {
-        "name": "Un Iru Vizhi",
-        "url": "https://open.spotify.com/album/5VK2ViZaIGbNNQ5VklMpgq"
-      },
-      "artists": [
-        {
-          "name": "Prabha Balakrishnan",
-          "url": "https://open.spotify.com/artist/3mOLbrpNautzn04GfjrwiZ"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "Un Iru Vizhi",
-      "url": "https://open.spotify.com/track/10OTJY85aPN7k5YE0Q5ZTp"
-    },
-    {
-      "added_at": "2026-02-03 11:36:19",
-      "album": {
-        "name": "20 to 80 (Swan IndieTunes)",
-        "url": "https://open.spotify.com/album/6hwapwnC2XmVf44Tnyqg11"
-      },
-      "artists": [
-        {
-          "name": "Keerthan",
-          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
-        },
-        {
-          "name": "Renjith Unni",
-          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
-        },
-        {
-          "name": "Kiran Param",
-          "url": "https://open.spotify.com/artist/37UhhDepd4wilphlY3J7dh"
-        },
-        {
-          "name": "R. Lavarathan",
-          "url": "https://open.spotify.com/artist/3mbSPREHu8TuRgZfiT6I4Q"
-        }
-      ],
-      "duration_ms": 204201,
-      "name": "20 to 80 (Swan IndieTunes)",
-      "url": "https://open.spotify.com/track/4EWzs0QjsVai4DKGX6we4z"
     },
     {
       "added_at": "2026-02-12 12:05:14",

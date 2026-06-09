@@ -1,5 +1,5 @@
 {
-  "description": "With TURN BLUE., JUST LIZZY, Mercury Teardrop and more",
+  "description": "With JUST LIZZY, Something Broke, Anne Bloom and more",
   "num_followers": 8,
   "original_name": "DePitcha Radio",
   "owner": {
@@ -27,22 +27,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/7xbxspxZZYBBdRvrum6rVx"
+        "name": "If it's the last time",
+        "url": "https://open.spotify.com/album/0UqSUMYVeDl5KEZN3fBiar"
       },
       "artists": [
         {
-          "name": "Mercury Teardrop",
-          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
-        },
-        {
-          "name": "Emily Gray",
-          "url": "https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3"
+          "name": "Toronto Road",
+          "url": "https://open.spotify.com/artist/4qbpmF3Z5KzB49fS7w7oj6"
         }
       ],
-      "duration_ms": 282551,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
+      "duration_ms": 245454,
+      "name": "If it's the last time",
+      "url": "https://open.spotify.com/track/4ET93WeLlGHMtPKgB28FvU"
     },
     {
       "added_at": null,
@@ -79,18 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious Vulture",
-        "url": "https://open.spotify.com/album/0bMxYSicwjqJVl0gyDe2R3"
+        "name": "Goldwing",
+        "url": "https://open.spotify.com/album/3hyEeZ5ErLiJ8kIUOmNo4W"
       },
       "artists": [
         {
-          "name": "Empty Machines",
-          "url": "https://open.spotify.com/artist/1Vu6znb8F3OfFlf26fkSPb"
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/7CgCqqlbnNwh4RqtV16S6S"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Vicious Vulture",
-      "url": "https://open.spotify.com/track/36Bm2yVkgC35fVBCQ28jkh"
+      "duration_ms": 198625,
+      "name": "Goldwing",
+      "url": "https://open.spotify.com/track/7nYp7BAH04UGVw2PZvn3jj"
     },
     {
       "added_at": null,
@@ -115,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperial Dunes",
-        "url": "https://open.spotify.com/album/0YTBB11oEQcBteV0E0D8Sw"
-      },
-      "artists": [
-        {
-          "name": "Landroid",
-          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
-        }
-      ],
-      "duration_ms": 240431,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Will Be That Dying Star in Your Sky",
         "url": "https://open.spotify.com/album/0evj1fkZd1HWn6M3o0K2SD"
       },
@@ -147,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/7hZTVJRgLVNLz8riZzE294"
-      },
-      "artists": [
-        {
-          "name": "Jill Winter",
-          "url": "https://open.spotify.com/artist/5m6M42fpTjqKbu0VuKjfSD"
-        }
-      ],
-      "duration_ms": 230245,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/3XGK7kWTvorW1S1Lt86gUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fractured Lies",
         "url": "https://open.spotify.com/album/3uTIGBre0lz0qVsa717D9E"
       },
@@ -175,6 +139,38 @@
       "duration_ms": 200263,
       "name": "Fractured Lies",
       "url": "https://open.spotify.com/track/3xtWHIKb20uqqjxkCZZyKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperial Dunes",
+        "url": "https://open.spotify.com/album/0YTBB11oEQcBteV0E0D8Sw"
+      },
+      "artists": [
+        {
+          "name": "Landroid",
+          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
+        }
+      ],
+      "duration_ms": 240431,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elysia",
+        "url": "https://open.spotify.com/album/20DV1PeMH9IK1WbbPQCCqL"
+      },
+      "artists": [
+        {
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
+        }
+      ],
+      "duration_ms": 225162,
+      "name": "Elysia",
+      "url": "https://open.spotify.com/track/12QCxgHuqmKy8kw951c9zr"
     },
     {
       "added_at": null,
@@ -203,50 +199,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For Yesterday",
-        "url": "https://open.spotify.com/album/6XkJMYQLyhrAAXsmHWnUby"
+        "name": "Vicious Vulture",
+        "url": "https://open.spotify.com/album/0bMxYSicwjqJVl0gyDe2R3"
       },
       "artists": [
         {
-          "name": "Everything Now",
-          "url": "https://open.spotify.com/artist/182TzIUNarC1z8znQQ1mUZ"
+          "name": "Empty Machines",
+          "url": "https://open.spotify.com/artist/1Vu6znb8F3OfFlf26fkSPb"
         }
       ],
-      "duration_ms": 226120,
-      "name": "Searching For Yesterday",
-      "url": "https://open.spotify.com/track/3pzcpDEWRqb7XwGgWX6l3T"
+      "duration_ms": 229120,
+      "name": "Vicious Vulture",
+      "url": "https://open.spotify.com/track/36Bm2yVkgC35fVBCQ28jkh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4dqrcNObULg9SMiCSC2pln"
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/7xbxspxZZYBBdRvrum6rVx"
       },
       "artists": [
         {
-          "name": "Landroid",
-          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
-        }
-      ],
-      "duration_ms": 346079,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/11USUsmzuVO2BeCBxx9ZzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flying Above",
-        "url": "https://open.spotify.com/album/5EfpTmB2MVoONvrdyUKcsS"
-      },
-      "artists": [
+          "name": "Mercury Teardrop",
+          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
+        },
         {
-          "name": "Julie Paschke",
-          "url": "https://open.spotify.com/artist/1xZx4fcKJYzJmKsuvRkNij"
+          "name": "Emily Gray",
+          "url": "https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3"
         }
       ],
-      "duration_ms": 281093,
-      "name": "Flying Above",
-      "url": "https://open.spotify.com/track/3KxLL2A8iaViZNq5wkBr58"
+      "duration_ms": 282551,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 316634,
       "name": "Winter Elegy",
       "url": "https://open.spotify.com/track/3qbuKbT39CkeABrRDZWSZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything According To Plan... PART-2",
+        "url": "https://open.spotify.com/album/2cVUL5ebo2D0syGGT7jUfF"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "duration_ms": 260365,
+      "name": "Self-Proclaimed Crown - Queen Elizabeth",
+      "url": "https://open.spotify.com/track/1MlP8yWBC0rl067IyqB0IU"
     },
     {
       "added_at": null,
@@ -291,34 +291,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/4srKHN0ChQ9VTxmtIYiQXD"
+        "name": "Flying Above",
+        "url": "https://open.spotify.com/album/5EfpTmB2MVoONvrdyUKcsS"
       },
       "artists": [
         {
-          "name": "Veronica Stardust",
-          "url": "https://open.spotify.com/artist/2TYtg9AFfS13CsqDBmaUUF"
+          "name": "Julie Paschke",
+          "url": "https://open.spotify.com/artist/1xZx4fcKJYzJmKsuvRkNij"
         }
       ],
-      "duration_ms": 210202,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
+      "duration_ms": 281093,
+      "name": "Flying Above",
+      "url": "https://open.spotify.com/track/3KxLL2A8iaViZNq5wkBr58"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dead Stop",
-        "url": "https://open.spotify.com/album/2Y00UxEKCViUJFXdCylSGS"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/7hZTVJRgLVNLz8riZzE294"
       },
       "artists": [
         {
-          "name": "Fragile Animals",
-          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
+          "name": "Jill Winter",
+          "url": "https://open.spotify.com/artist/5m6M42fpTjqKbu0VuKjfSD"
         }
       ],
-      "duration_ms": 207018,
-      "name": "4",
-      "url": "https://open.spotify.com/track/37I6odFX6sKoXiz4oHaFFO"
+      "duration_ms": 230245,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/3XGK7kWTvorW1S1Lt86gUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wall",
+        "url": "https://open.spotify.com/album/7a7RKPKTLRTXZzV3B0CM9W"
+      },
+      "artists": [
+        {
+          "name": "Kennetsonake",
+          "url": "https://open.spotify.com/artist/0k4FfWOEVdG1S8GAjyZIQ0"
+        }
+      ],
+      "duration_ms": 125904,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/5Tze56bV33Ad4MGmEGFFSB"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
       "duration_ms": 248906,
       "name": "Moving Forward, Head Turned",
       "url": "https://open.spotify.com/track/2TiaIc1xZ21q5p17gQxFO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/42J3EVNCFKOuVN9Qt6FSD6"
-      },
-      "artists": [
-        {
-          "name": "X-Rated 1994",
-          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
-        }
-      ],
-      "duration_ms": 322091,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/526u08nYzWAfF9NFDrIguF"
     },
     {
       "added_at": null,
@@ -391,78 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wall",
-        "url": "https://open.spotify.com/album/7a7RKPKTLRTXZzV3B0CM9W"
-      },
-      "artists": [
-        {
-          "name": "Kennetsonake",
-          "url": "https://open.spotify.com/artist/0k4FfWOEVdG1S8GAjyZIQ0"
-        }
-      ],
-      "duration_ms": 125904,
-      "name": "Wall",
-      "url": "https://open.spotify.com/track/5Tze56bV33Ad4MGmEGFFSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All the Things I Could've Done",
-        "url": "https://open.spotify.com/album/0ulryHFrXbkPd4ylxpRwcu"
-      },
-      "artists": [
-        {
-          "name": "Heimat",
-          "url": "https://open.spotify.com/artist/1f9uuF63zEZmi10CdWq5sj"
-        }
-      ],
-      "duration_ms": 264441,
-      "name": "All the Things I Could've Done",
-      "url": "https://open.spotify.com/track/3lBB3QBBf8Sv0EJ3hBLYqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unbearable Weight Of What If",
-        "url": "https://open.spotify.com/album/7D4Vfvju4rKhCePAPIJeXX"
-      },
-      "artists": [
-        {
-          "name": "Eleanor Collides",
-          "url": "https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34"
-        },
-        {
-          "name": "Emily Gray",
-          "url": "https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "The Unbearable Weight Of What If",
-      "url": "https://open.spotify.com/track/5vqa47SFvRy2SJeVl6m8P5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Murmurs Under Memphis",
-        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "Louise",
-          "url": "https://open.spotify.com/artist/3FkEt8v3EuHSFYQ26d1nQC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turning Tables",
         "url": "https://open.spotify.com/album/74QFmJo7v87ZdhytYuTFoe"
       },
@@ -479,50 +407,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorrowful Silence, Vol. 2",
-        "url": "https://open.spotify.com/album/44o93rlxsiphKrDN7mjPJV"
+        "name": "Help I'm Alive (I Tremble) [Edit]",
+        "url": "https://open.spotify.com/album/5KrX9tz6f8lF5JXaaV8UBj"
       },
       "artists": [
         {
-          "name": "0ph3lia",
-          "url": "https://open.spotify.com/artist/5dBWK8brXmaY1NiPSMrizT"
+          "name": "onve",
+          "url": "https://open.spotify.com/artist/3A4Ssi38ppefDLqzeEUHI7"
         }
       ],
-      "duration_ms": 154822,
-      "name": "Sorrowful Silence, Vol. 2",
-      "url": "https://open.spotify.com/track/4UuBxFzFNverrBrGaZwGCC"
+      "duration_ms": 124346,
+      "name": "Help I'm Alive - Edit Slowed",
+      "url": "https://open.spotify.com/track/5uCBspPgSxKqnj7Lx6tl6J"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Innocent",
-        "url": "https://open.spotify.com/album/5e8bHDGkHaknTQfmF5yxcn"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4dqrcNObULg9SMiCSC2pln"
       },
       "artists": [
         {
-          "name": "Paul McBoi",
-          "url": "https://open.spotify.com/artist/18tsHZndduQW9GPOTa8a4a"
+          "name": "Landroid",
+          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
         }
       ],
-      "duration_ms": 201693,
-      "name": "The Innocent",
-      "url": "https://open.spotify.com/track/50hhk6G6CwOy9TDFx0Pwv0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5fVYh42zl7h1C63WOvM6U0"
-      },
-      "artists": [
-        {
-          "name": "Masca",
-          "url": "https://open.spotify.com/artist/42vPY52emDSpJvGXSV1X9p"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
+      "duration_ms": 346079,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/11USUsmzuVO2BeCBxx9ZzV"
     },
     {
       "added_at": null,
@@ -547,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Searching For Yesterday",
+        "url": "https://open.spotify.com/album/6XkJMYQLyhrAAXsmHWnUby"
+      },
+      "artists": [
+        {
+          "name": "Everything Now",
+          "url": "https://open.spotify.com/artist/182TzIUNarC1z8znQQ1mUZ"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "Searching For Yesterday",
+      "url": "https://open.spotify.com/track/3pzcpDEWRqb7XwGgWX6l3T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/3TBDSedlWOOhv0e3buyL4h"
+      },
+      "artists": [
+        {
+          "name": "Aruna Reaver",
+          "url": "https://open.spotify.com/artist/6nA5ze0CwFn9MF42MZ2ZBA"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/6VFwU4ugQApyyTSXgVxS4I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always Me",
         "url": "https://open.spotify.com/album/4SoSUo1SeMXH0NQ5cgoHvP"
       },
@@ -563,54 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "METALLIC BEAST",
-        "url": "https://open.spotify.com/album/3tZ41Vmy8t8sD25UQcPTBI"
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/42J3EVNCFKOuVN9Qt6FSD6"
       },
       "artists": [
         {
-          "name": "Melissa Ivey",
-          "url": "https://open.spotify.com/artist/5mfPa2xKs5URDLzrE4BWIy"
-        },
-        {
-          "name": "Jerry Ware",
-          "url": "https://open.spotify.com/artist/2ubDkqnplaoOJ2IpNnaV39"
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
         }
       ],
-      "duration_ms": 126000,
-      "name": "METALLIC BEAST",
-      "url": "https://open.spotify.com/track/7p4KjkqL2J7xSv08Ap6XSz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear Of Love",
-        "url": "https://open.spotify.com/album/2btGoWspeY5bL8w61MQoOX"
-      },
-      "artists": [
-        {
-          "name": "Abuses",
-          "url": "https://open.spotify.com/artist/2NFHW09GVpoGnTKJpTQm7E"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Fear Of Love",
-      "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Another Life",
-        "url": "https://open.spotify.com/album/1LESifFnFK91mTeH3kDlie"
-      },
-      "artists": [
-        {
-          "name": "See Night",
-          "url": "https://open.spotify.com/artist/1KyYUepHDcwe26xSLWHIYI"
-        }
-      ],
-      "duration_ms": 178396,
-      "name": "Sober & High",
-      "url": "https://open.spotify.com/track/7nbpDrYUJLUo1vac6D7cfD"
+      "duration_ms": 322091,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/526u08nYzWAfF9NFDrIguF"
     },
     {
       "added_at": null,
@@ -635,34 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roseblood",
-        "url": "https://open.spotify.com/album/05TdhcsPNgOpgXp9fwuCp9"
+        "name": "The Innocent",
+        "url": "https://open.spotify.com/album/5e8bHDGkHaknTQfmF5yxcn"
       },
       "artists": [
         {
-          "name": "Ann My Guard",
-          "url": "https://open.spotify.com/artist/1z4OkNfVgoXZ89IvFmelwV"
+          "name": "Paul McBoi",
+          "url": "https://open.spotify.com/artist/18tsHZndduQW9GPOTa8a4a"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Roseblood",
-      "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "238,857 Miles",
-        "url": "https://open.spotify.com/album/1xVdAQaVeETxsqrpmGKEfG"
-      },
-      "artists": [
-        {
-          "name": "Cheetahsaurus",
-          "url": "https://open.spotify.com/artist/6vHtRJuRKn1h7u8N45huJW"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
-      "url": "https://open.spotify.com/track/3cXuIy8Si8CHoGMlYpvfF7"
+      "duration_ms": 201693,
+      "name": "The Innocent",
+      "url": "https://open.spotify.com/track/50hhk6G6CwOy9TDFx0Pwv0"
     },
     {
       "added_at": null,
@@ -683,122 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curved Rainbows on a Flat Planet",
-        "url": "https://open.spotify.com/album/1fWRmr4JxMgAfbdst4GuyC"
+        "name": "All the Things I Could've Done",
+        "url": "https://open.spotify.com/album/0ulryHFrXbkPd4ylxpRwcu"
       },
       "artists": [
         {
-          "name": "Mercury Teardrop",
-          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
-        },
-        {
-          "name": "Rosalie Sonsalla",
-          "url": "https://open.spotify.com/artist/2fP1SZ5KxA76PS81v38slX"
+          "name": "Heimat",
+          "url": "https://open.spotify.com/artist/1f9uuF63zEZmi10CdWq5sj"
         }
       ],
-      "duration_ms": 293847,
-      "name": "Epoch 2140",
-      "url": "https://open.spotify.com/track/5YA3afw5r87F4jRumjM9q5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Murmurs Under Memphis",
-        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "Chinos",
-          "url": "https://open.spotify.com/artist/2VBV2v6soBsoAfTep9VlJZ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3QzqgP3oQlMWVVGNIPk2MW"
-      },
-      "artists": [
-        {
-          "name": "Bernice Marsala",
-          "url": "https://open.spotify.com/artist/6EOAO71s6M1OHRYji1wu6A"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Geared Up",
-        "url": "https://open.spotify.com/album/3jXpY7wUHMPara6PtDVITL"
-      },
-      "artists": [
-        {
-          "name": "DanielTidwell14",
-          "url": "https://open.spotify.com/artist/3KAA7RvgIRc1KagYTCCw8e"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Through The Sand - LP Edition",
-      "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Strings",
-        "url": "https://open.spotify.com/album/37OxIT5DFJEjYbqQABPMcl"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ivey",
-          "url": "https://open.spotify.com/artist/5mfPa2xKs5URDLzrE4BWIy"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Broken Strings",
-      "url": "https://open.spotify.com/track/7wexiA4PQ2hIt2CSylzyNe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3PxwWJVvM3YLBNTZ6Um6Vl"
-      },
-      "artists": [
-        {
-          "name": "Die Shiny",
-          "url": "https://open.spotify.com/artist/067vD9pRfJHbjnlwSSwexw"
-        }
-      ],
-      "duration_ms": 308658,
-      "name": "Random Switch",
-      "url": "https://open.spotify.com/track/5xZUkg6Euyt9tLo5h3qOIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So, this is a thing?",
-        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Friday Escape",
-      "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
+      "duration_ms": 264441,
+      "name": "All the Things I Could've Done",
+      "url": "https://open.spotify.com/track/3lBB3QBBf8Sv0EJ3hBLYqv"
     },
     {
       "added_at": null,
@@ -823,18 +611,202 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lupine Daughter",
-        "url": "https://open.spotify.com/album/1PheFkeLaPlalZrj6aAV6x"
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
       "artists": [
         {
-          "name": "Scout Par\u00e9-Phillips",
-          "url": "https://open.spotify.com/artist/7a9BBSeWQr2E25MKkefOme"
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Chinos",
+          "url": "https://open.spotify.com/artist/2VBV2v6soBsoAfTep9VlJZ"
         }
       ],
-      "duration_ms": 330034,
-      "name": "Claw",
-      "url": "https://open.spotify.com/track/4O4GiCTXAYRPrUGRoy2hzt"
+      "duration_ms": 206000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suspension",
+        "url": "https://open.spotify.com/album/2TWvWl4g7xGZ9ObioMtulo"
+      },
+      "artists": [
+        {
+          "name": "two person starfield",
+          "url": "https://open.spotify.com/artist/5mo4IFnnyxgRoLdCigoX4G"
+        }
+      ],
+      "duration_ms": 252750,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/62UFFJ0n5385Q8ZY1Z6WsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorrowful Silence, Vol. 2",
+        "url": "https://open.spotify.com/album/44o93rlxsiphKrDN7mjPJV"
+      },
+      "artists": [
+        {
+          "name": "0ph3lia",
+          "url": "https://open.spotify.com/artist/5dBWK8brXmaY1NiPSMrizT"
+        }
+      ],
+      "duration_ms": 154822,
+      "name": "Sorrowful Silence, Vol. 2",
+      "url": "https://open.spotify.com/track/4UuBxFzFNverrBrGaZwGCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead Stop",
+        "url": "https://open.spotify.com/album/2Y00UxEKCViUJFXdCylSGS"
+      },
+      "artists": [
+        {
+          "name": "Fragile Animals",
+          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
+        }
+      ],
+      "duration_ms": 207018,
+      "name": "4",
+      "url": "https://open.spotify.com/track/37I6odFX6sKoXiz4oHaFFO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "238,857 Miles",
+        "url": "https://open.spotify.com/album/1xVdAQaVeETxsqrpmGKEfG"
+      },
+      "artists": [
+        {
+          "name": "Cheetahsaurus",
+          "url": "https://open.spotify.com/artist/6vHtRJuRKn1h7u8N45huJW"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
+      "url": "https://open.spotify.com/track/3cXuIy8Si8CHoGMlYpvfF7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Friday Escape",
+      "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Another Life",
+        "url": "https://open.spotify.com/album/1LESifFnFK91mTeH3kDlie"
+      },
+      "artists": [
+        {
+          "name": "See Night",
+          "url": "https://open.spotify.com/artist/1KyYUepHDcwe26xSLWHIYI"
+        }
+      ],
+      "duration_ms": 178396,
+      "name": "Sober & High",
+      "url": "https://open.spotify.com/track/7nbpDrYUJLUo1vac6D7cfD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World I Know",
+        "url": "https://open.spotify.com/album/3kHTvbCF3X7KO1USu1s9k4"
+      },
+      "artists": [
+        {
+          "name": "J.H.M",
+          "url": "https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/5uqYuo3FpIqjS4LE6ECp4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Egbertronic",
+        "url": "https://open.spotify.com/album/0RCJvRjxsIuC49Ki8fc66h"
+      },
+      "artists": [
+        {
+          "name": "Egbert Capalla",
+          "url": "https://open.spotify.com/artist/5VjxdUD2k7hok2PuLXTooJ"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Life on a chain",
+      "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures",
+        "url": "https://open.spotify.com/album/7AuEmbTvMfcKioHVpngL3q"
+      },
+      "artists": [
+        {
+          "name": "Something Broke",
+          "url": "https://open.spotify.com/artist/2S1Wi59Xgn8PkgdKoI0q86"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/1urEpOSEqOpGFYWO1fl4Rw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/3FkEt8v3EuHSFYQ26d1nQC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le monde d'hier",
+        "url": "https://open.spotify.com/album/3lk9wRXHMj5aY8Wj3uvtvA"
+      },
+      "artists": [
+        {
+          "name": "Artesia",
+          "url": "https://open.spotify.com/artist/0wUUKwtuCvOtk9GklaUMj2"
+        }
+      ],
+      "duration_ms": 315096,
+      "name": "Vastes mers",
+      "url": "https://open.spotify.com/track/6jlM8hsUU6zcg3VjsmPyPI"
     },
     {
       "added_at": null,
@@ -855,18 +827,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World I Know",
-        "url": "https://open.spotify.com/album/3kHTvbCF3X7KO1USu1s9k4"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3QzqgP3oQlMWVVGNIPk2MW"
       },
       "artists": [
         {
-          "name": "J.H.M",
-          "url": "https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE"
+          "name": "Bernice Marsala",
+          "url": "https://open.spotify.com/artist/6EOAO71s6M1OHRYji1wu6A"
         }
       ],
-      "duration_ms": 169411,
-      "name": "The World I Know",
-      "url": "https://open.spotify.com/track/5uqYuo3FpIqjS4LE6ECp4J"
+      "duration_ms": 148000,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3PxwWJVvM3YLBNTZ6Um6Vl"
+      },
+      "artists": [
+        {
+          "name": "Die Shiny",
+          "url": "https://open.spotify.com/artist/067vD9pRfJHbjnlwSSwexw"
+        }
+      ],
+      "duration_ms": 308658,
+      "name": "Random Switch",
+      "url": "https://open.spotify.com/track/5xZUkg6Euyt9tLo5h3qOIZ"
     }
   ],
   "unique_name": "DePitcha Radio",

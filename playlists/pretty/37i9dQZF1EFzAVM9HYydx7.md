@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078 likes - 311 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,080 likes - 311 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 31 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 |
 | 32 | [10 Bands](https://open.spotify.com/track/12d5QFwzh60IIHlsSnAvps) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 2:57 |
 | 33 | [Make Believe](https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:22 |
-| 34 | [wonderful](https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:36 |
+| 34 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
 | 35 | [Fukk Sleep \(feat\. FKA twigs\)](https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:12 |
-| 36 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
+| 36 | [wonderful](https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:36 |
 | 37 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
 | 38 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 39 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 170 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 |
 | 171 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 |
 | 172 | [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 |
-| 173 | [Broke](https://open.spotify.com/track/2RStoLVPxT2Z1OgXjhpUDf) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 2:59 |
-| 174 | [4 My Town \(Play Ball\)](https://open.spotify.com/track/3922kPG1JMYBNhACLo9j3f) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:21 |
+| 173 | [4 My Town \(Play Ball\)](https://open.spotify.com/track/3922kPG1JMYBNhACLo9j3f) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:21 |
+| 174 | [Broke](https://open.spotify.com/track/2RStoLVPxT2Z1OgXjhpUDf) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 2:59 |
 | 175 | [Luchas Mentales](https://open.spotify.com/track/1f70ywNtUyw4VgckqXeuOv) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:46 |
 | 176 | [Money Problems / Benz Truck](https://open.spotify.com/track/3S4wKj113KHgqtZt52Dcd1) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 4:59 |
 | 177 | [Sin Filtro](https://open.spotify.com/track/4SL5NcO2IO1wSfhKch6yHF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:09 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcTnmAAAAADOuM3V5tw1DqtFiJBkz3Fo`
+Snapshot ID: `AcTs/AAAAABOsXk61swWUNE9Ool/dec/`

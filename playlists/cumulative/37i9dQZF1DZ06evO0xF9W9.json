@@ -1114,6 +1114,24 @@
     {
       "album": {
         "name": "Desire",
+        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202159,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5HjfaOK02tFNGXtk7Jz9PW"
+    },
+    {
+      "album": {
+        "name": "Desire",
         "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
       },
       "artists": [

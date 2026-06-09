@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,161 songs - 2 day 11 hr 50 min
+1,162 songs - 2 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Exes \- Speed Garage](https://open.spotify.com/track/1EmQimmLz0ePflj67rPZQ0) | [Blura](https://open.spotify.com/artist/6ooDhfVbWKuHNGt9lj3dws), [KHAERIS](https://open.spotify.com/artist/5AXr0RbJABC9QFTL0XDBX4) | [Exes \(Speed Garage\)](https://open.spotify.com/album/48CjjPjrXVjxMJkgvGfmaD) | 2:15 | 2026-01-30 |  |
 | [Extra Man](https://open.spotify.com/track/3B4kg6eBOVE0j3DXAq6DYn) | [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [Extra Man](https://open.spotify.com/album/1LzaenwUTKLGWaWBrYk9lp) | 3:48 | 2024-01-26 | 2024-09-26 |
 | [Fade Till Sunrise, Pt\. II \(David Novacek Remix\)](https://open.spotify.com/track/0FmuZijsrw4tzm7yNs3eqD) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [David Novacek](https://open.spotify.com/artist/1dPeIuXnrMKNy6xbUzWYBo) | [Fade Till Sunrise, Pt\. II \(David Novacek Remix\)](https://open.spotify.com/album/5lstoGz7CgwUXoTaMgJv4j) | 2:59 | 2024-12-05 |  |
+| [Falando](https://open.spotify.com/track/08wKeaRzoNoPYIoinPNsrS) | [Andre Palms](https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj) | [Falando](https://open.spotify.com/album/2ZCvFbVjiT7OTizcb3sy1Y) | 3:30 | 2026-06-08 |  |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-12-05 |  |
 | [Fall In Love](https://open.spotify.com/track/1xyEswllI1gpnsdWhHFDZd) | [Luis Rodriguez](https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn) | [Fall In Love](https://open.spotify.com/album/6leHt7BwNsUm5MF5wM6wkT) | 2:26 | 2026-05-26 |  |
 | [Falling For You](https://open.spotify.com/track/3sur6GtcOhs6iEaZUHA6XT) | [Hako](https://open.spotify.com/artist/2DMxwup7ixuMkUyca8uGMe) | [Falling For You](https://open.spotify.com/album/4Ohpa3AZIAvt98WhQJF8JF) | 2:35 | 2024-05-31 | 2024-09-26 |

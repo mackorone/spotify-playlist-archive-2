@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mayukh Velagapudi",
-  "num_followers": 44229,
+  "num_followers": 44231,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2",
+  "snapshot_id": "AAAAAMHm3vu3anhbkZS4dngkddcnEb3k",
   "tracks": [
     {
       "added_at": "2026-05-29 09:39:40",
@@ -131,6 +131,26 @@
       "duration_ms": 228837,
       "name": "Cheliya",
       "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
+    },
+    {
+      "added_at": "2026-06-08 06:50:41",
+      "album": {
+        "name": "Mangalyam",
+        "url": "https://open.spotify.com/album/4v5ItmNxFwVXA40GWJ8MDb"
+      },
+      "artists": [
+        {
+          "name": "Kriti Vangala",
+          "url": "https://open.spotify.com/artist/34KqmeWcaG2JktomaByxdj"
+        },
+        {
+          "name": "Burra Vikhyat Sairam",
+          "url": "https://open.spotify.com/artist/3PbAWWMzxZXA6dVzHY4itW"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mangalyam",
+      "url": "https://open.spotify.com/track/3wIcDmdY6KP6J19yI0nJAm"
     },
     {
       "added_at": "2026-05-15 06:15:24",
@@ -911,22 +931,6 @@
       "duration_ms": 181090,
       "name": "Yamuna Theera Vihari",
       "url": "https://open.spotify.com/track/0qkgjU4Z6mxv4tKzZ4Phon"
-    },
-    {
-      "added_at": "2025-11-18 07:41:24",
-      "album": {
-        "name": "Aishiteru",
-        "url": "https://open.spotify.com/album/35Gim0mIA1PD6mObdzvrSA"
-      },
-      "artists": [
-        {
-          "name": "C Shor",
-          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
-        }
-      ],
-      "duration_ms": 187432,
-      "name": "Aishiteru",
-      "url": "https://open.spotify.com/track/0NlswXncFVTwUDy9gFLiNA"
     },
     {
       "added_at": "2025-11-19 05:44:31",

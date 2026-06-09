@@ -9983,6 +9983,24 @@
     },
     {
       "album": {
+        "name": "Our Small Ideas",
+        "url": "https://open.spotify.com/album/7m0WhwnsbyXCbID6NiiGzV"
+      },
+      "artists": [
+        {
+          "name": "The Boats",
+          "url": "https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215973,
+      "name": "May Our Enimies Never Find Happiness - The Boats Remix",
+      "url": "https://open.spotify.com/track/2q1gES6bTM02kqxvYXqVTH"
+    },
+    {
+      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd"
       },

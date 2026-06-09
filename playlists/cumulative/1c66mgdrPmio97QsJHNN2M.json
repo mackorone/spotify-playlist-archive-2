@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "all i'll ever be",
+        "url": "https://open.spotify.com/album/1DS8MeJRiFunEyZuOcF2d1"
+      },
+      "artists": [
+        {
+          "name": "bia briar",
+          "url": "https://open.spotify.com/artist/6pIwZ4IEi6iyo0GTJ7OGnC"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186861,
+      "name": "all i'll ever be",
+      "url": "https://open.spotify.com/track/67NcnjlnERuoP52xD5mLQU"
+    },
+    {
+      "album": {
         "name": "When All Is Lost",
         "url": "https://open.spotify.com/album/0UoFs4vHjDjOTcigIAAJcK"
       },
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 217879,
       "name": "Always About You",
       "url": "https://open.spotify.com/track/6xQJ2TjxNqSSYLaVxR5YDt"
@@ -1544,6 +1562,24 @@
       "duration_ms": 189339,
       "name": "Always Be Loved",
       "url": "https://open.spotify.com/track/1MrHwmpuSjjpDH57A3GOE2"
+    },
+    {
+      "album": {
+        "name": "Am I Still Alive?",
+        "url": "https://open.spotify.com/album/0ErsxCBTXPZGa8fXpcMF3c"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/0WTzrmGqSQceCqsVcOqVD0"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Am I Still Alive?",
+      "url": "https://open.spotify.com/track/0KQyNlF6YHQhfStLTzbwIn"
     },
     {
       "album": {
@@ -10794,7 +10830,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188240,
       "name": "Feel the Heat - 2026 Edit",
       "url": "https://open.spotify.com/track/2jKUvoAPXEkmoDjcdRccvM"
@@ -15593,6 +15629,24 @@
     },
     {
       "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/4RTDf5jjR25orkb7yCcYUZ"
+      },
+      "artists": [
+        {
+          "name": "NicoleK",
+          "url": "https://open.spotify.com/artist/04cMSrZgyMqd6x3Shx7TzZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163578,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/47Gz9AK4W67W1XzRjevK1I"
+    },
+    {
+      "album": {
         "name": "I Surrender All My Life",
         "url": "https://open.spotify.com/album/6zom40LVNq0OoYxdleW8ou"
       },
@@ -17434,7 +17488,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 88134,
       "name": "Just Like This",
       "url": "https://open.spotify.com/track/7c5D69tVY18Kl5qb9idsdu"
@@ -18086,6 +18140,24 @@
       "duration_ms": 204000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/2EYd6AzAj6PzXqdIiMwDDA"
+      },
+      "artists": [
+        {
+          "name": "Logisrotting",
+          "url": "https://open.spotify.com/artist/7g7f7dg6KSajgtY7lPctND"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93570,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3qBIpOWLddL3AQDgp9bqNP"
     },
     {
       "album": {
@@ -24510,7 +24582,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 243240,
       "name": "One in a Circle",
       "url": "https://open.spotify.com/track/0sXt69OApdulr81ckZ4NOk"
@@ -32335,6 +32407,24 @@
     },
     {
       "album": {
+        "name": "Lost Cause",
+        "url": "https://open.spotify.com/album/0mbjXNCHYbrH1RVzAiAJE4"
+      },
+      "artists": [
+        {
+          "name": "Apsu Reverie",
+          "url": "https://open.spotify.com/artist/6lLzEXH7CAotyy0GwLkfK1"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277039,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/7d1PQQ61aa0JHA49qNpCS2"
+    },
+    {
+      "album": {
         "name": "Tamarisk Shade",
         "url": "https://open.spotify.com/album/0A5ZkaXVAUUhLewxD2Njf8"
       },
@@ -32400,7 +32490,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 204289,
       "name": "Tau Neutrino",
       "url": "https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc"
@@ -33900,6 +33990,24 @@
       "duration_ms": 219789,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/1Jiwxvfdgyr7Mro11A2kEI"
+    },
+    {
+      "album": {
+        "name": "The Way You Say My Name",
+        "url": "https://open.spotify.com/album/43PmkLzsVTFQR6OWmlnMUu"
+      },
+      "artists": [
+        {
+          "name": "Theron Monroe",
+          "url": "https://open.spotify.com/artist/7ExF3ThOf6qG76dUoyzjWn"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "The Way You Say My Name",
+      "url": "https://open.spotify.com/track/0lrX1yCM2o3rhyIgxjePiA"
     },
     {
       "album": {
@@ -38518,7 +38626,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 242399,
       "name": "Wrong Dock Right Night - Vavo Remix",
       "url": "https://open.spotify.com/track/3ikm63PlKLsoqYywNhKtnt"

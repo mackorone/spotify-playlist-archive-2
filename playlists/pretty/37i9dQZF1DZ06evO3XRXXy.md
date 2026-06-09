@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,998 likes - 46 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,007 likes - 46 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 21 | [Love Theme From "Romeo & Juliet"](https://open.spotify.com/track/4O3Sbe4RIhUCJOa0AmL5Gn) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:43 |
 | 22 | [Morning](https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:13 |
 | 23 | [How Could an Angel Break My Heart \(with Toni Braxton\)](https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:21 |
-| 24 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
-| 25 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
+| 24 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
+| 25 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
 | 26 | [Heart And Soul \- Live](https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 4:41 |
 | 27 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
 | 28 | [The Wedding Song](https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 3:21 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 45 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 46 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aiNjAAAAAACThnzNyHImg3dzLy5VzFuU`
+Snapshot ID: `aiS0gAAAAADh4OjjPYwQx1ryOpWBp7Nm`

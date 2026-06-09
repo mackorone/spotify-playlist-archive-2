@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,242 likes - 40 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,243 likes - 40 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 34 | [Kombo Galia](https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:27 |
 | 35 | [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 |
 | 36 | [Goye Kur](https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 6:24 |
-| 37 | [Sadjona \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:55 |
+| 37 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 6:32 |
 | 38 | [N'jarou](https://open.spotify.com/track/0J6URaJ2VmWCJvnWudfIuF) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:55 |
 | 39 | [Roucky \- feat.Taj Mahal](https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 8:18 |
-| 40 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 6:32 |
+| 40 | [Sadjona \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:55 |
 
-Snapshot ID: `aiNjAAAAAAAB7tSkEnKGaTFvHgsjMLID`
+Snapshot ID: `aiS0gAAAAAAdKrp1/DyOkwLGXJFoWWmu`

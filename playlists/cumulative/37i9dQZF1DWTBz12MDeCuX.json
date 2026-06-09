@@ -11216,7 +11216,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 140812,
       "name": "Chlamydien",
       "url": "https://open.spotify.com/track/6wfglpIRtV6v3G33XcrWyx"
@@ -32246,6 +32246,24 @@
       "duration_ms": 219845,
       "name": "kalender",
       "url": "https://open.spotify.com/track/1Yg7BRQvrOXKJAiLogfh9e"
+    },
+    {
+      "album": {
+        "name": "Kaltblut",
+        "url": "https://open.spotify.com/album/6F2WmbKGPC2NQCtogZe2rY"
+      },
+      "artists": [
+        {
+          "name": "Bambita",
+          "url": "https://open.spotify.com/artist/5VRTu30WwBk1CacbGruYWT"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Kaltblut",
+      "url": "https://open.spotify.com/track/7FBPhx8xt7R5iKPUpO1omc"
     },
     {
       "album": {

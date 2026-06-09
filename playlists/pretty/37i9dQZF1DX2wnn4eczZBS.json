@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11408,
+  "num_followers": 11409,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -167,42 +167,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Jongen van de Zon",
-        "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        },
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Jongen van de Zon",
-      "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Niemand Gaat Het Voor Je Doen",
-        "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 148159,
-      "name": "Fuck Je Gucci Shirt",
-      "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD"
       },
@@ -223,6 +187,42 @@
       "duration_ms": 176103,
       "name": "HEMEL & AARDE",
       "url": "https://open.spotify.com/track/7G6la7Z1YkOCgR3oIRtEaN"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niemand Gaat Het Voor Je Doen",
+        "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 148159,
+      "name": "Fuck Je Gucci Shirt",
+      "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Jongen van de Zon",
+        "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Jongen van de Zon",
+      "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Honderdduizend graden",
-        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 167381,
-      "name": "Honderdduizend graden",
-      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "LATEN ME KOUD",
         "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 133000,
       "name": "Als Het Donker Wordt",
       "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Honderdduizend graden",
+        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 167381,
+      "name": "Honderdduizend graden",
+      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -347,22 +347,6 @@
       "duration_ms": 149767,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Niks Is zeker",
-        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 181539,
-      "name": "Niks is zeker",
-      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -407,6 +391,22 @@
       "duration_ms": 199371,
       "name": "TIJDSGEEST",
       "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niks Is zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 181539,
+      "name": "Niks is zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Vlijmscherp",
+        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Vlijmscherp",
+      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Opscheer",
         "url": "https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vlijmscherp",
-        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Vlijmscherp",
-      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Ik Weet Hoe Het Werkt",
         "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
@@ -511,54 +511,6 @@
       "duration_ms": 141051,
       "name": "Ik Weet Hoe Het Werkt",
       "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Wie de fak is Sophie Straat",
-        "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Als Hij dan echt bestaat",
-      "url": "https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "GEEN BEEST",
-        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 145536,
-      "name": "GEEN BEEST",
-      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Rode Seks Feeks",
-        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 167381,
-      "name": "Rode Seks Feeks",
-      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -579,6 +531,38 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN BEEST",
+        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 145536,
+      "name": "GEEN BEEST",
+      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Wie de fak is Sophie Straat",
+        "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Als Hij dan echt bestaat",
+      "url": "https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+        "name": "Rode Seks Feeks",
+        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
       },
       "artists": [
         {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
+      "duration_ms": 167381,
+      "name": "Rode Seks Feeks",
+      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -647,6 +631,22 @@
       "duration_ms": 165586,
       "name": "Vlammen!",
       "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "In NL Mag Je Een Vrouw Slaan",
+        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "In NL Mag Je Een Vrouw Slaan",
+      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "IJSLAND 2",
         "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "In NL Mag Je Een Vrouw Slaan",
-        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "In NL Mag Je Een Vrouw Slaan",
-      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -855,18 +855,34 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H"
       },
       "artists": [
         {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+          "name": "PAULIEN",
+          "url": "https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b"
         }
       ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
+      "duration_ms": 158849,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -883,22 +899,6 @@
       "duration_ms": 201627,
       "name": "Maskers",
       "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H"
-      },
-      "artists": [
-        {
-          "name": "PAULIEN",
-          "url": "https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b"
-        }
-      ],
-      "duration_ms": 158849,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ"
     }
   ],
   "unique_name": "indie.nl",

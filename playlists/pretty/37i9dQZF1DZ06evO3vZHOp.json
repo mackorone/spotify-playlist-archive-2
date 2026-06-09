@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 379237,
+  "num_followers": 379249,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADWNnV35FOt1aIv/0jYBxZJ",
+  "snapshot_id": "aiS0gAAAAAA+OnUwwZ54HglxXcJqQSYX",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Traviesa (feat. Eladio Carrion)",
-      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Traviesa (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Tu Ritmo",
-      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00e1rgolas Forever",
         "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 206706,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Tu Ritmo",
+      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
     },
     {
       "added_at": null,

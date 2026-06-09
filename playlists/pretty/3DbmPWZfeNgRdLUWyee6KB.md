@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 126 songs - 7 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 127 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 124 | ['O Viandante](https://open.spotify.com/track/3MMrv7z89SLgyILabY9rGX) | [apokalypto fusion](https://open.spotify.com/artist/10pz2NMMZ5DDuQEySorub2), [rod frequencies](https://open.spotify.com/artist/4rVXyp77Xbl0jWjkJA7xUk) | ['O Viandante](https://open.spotify.com/album/4tc1M4U51P22LczCxMMQRM) | 3:24 |
 | 125 | [A Luz Do Luar](https://open.spotify.com/track/6QUlQlRXtX2HZnhmZAMjgg) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [A Luz Do Luar](https://open.spotify.com/album/2FImaPJxu0tEBImHlaQyUl) | 2:48 |
 | 126 | [Deserto](https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Deserto](https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C) | 3:11 |
+| 127 | [Kaya Ko Pa Ba?](https://open.spotify.com/track/5NkCctniqgusYrxrlBDykB) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Kaya Ko Pa Ba?](https://open.spotify.com/album/6D7Ecbqbkw2yw7TH2td3P1) | 5:14 |
 
-Snapshot ID: `AAAU/rG1cvQ43f9sNebIci1gxMQQnNoN`
+Snapshot ID: `AAAU/7zMQskjUaYt/2COmeSGHkZcAbIU`

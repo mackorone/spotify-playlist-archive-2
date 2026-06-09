@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > 100% rock brasileiro\. Foto: BAD LUV
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,442 likes - 55 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,387 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

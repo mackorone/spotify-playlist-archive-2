@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,506 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,512 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 39 | [El Mejor Del Montón](https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 2:27 |
 | 40 | [La Gwag](https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Gwag](https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z) | 2:26 |
 | 41 | [Toxico](https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Toxico](https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh) | 3:12 |
-| 42 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
-| 43 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
+| 42 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
+| 43 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
 | 44 | [Niñas De Revista](https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Niñas De Revista](https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak) | 2:27 |
 | 45 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
 | 46 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Musas](https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Musas](https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi) | 2:24 |
 | 50 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 |
 
-Snapshot ID: `aiNjAAAAAAAgmIaNPB7SjKUSYu4MpFH+`
+Snapshot ID: `aiS0gAAAAADAZz9SgGmNVrPpcis0NcU3`

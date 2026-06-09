@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 221446,
+  "num_followers": 221483,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Yo Vengo De La Nada",
-        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 156807,
-      "name": "Yo Vengo De La Nada",
-      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 128893,
-      "name": "El de La Codeina",
-      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Hoy Todo Cambio",
         "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 128893,
+      "name": "El de La Codeina",
+      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "DINOSAURIOS",
-        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "DINOSAURIOS",
-      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 174863,
       "name": "Me Met\u00ed En El Ruedo",
       "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "DINOSAURIOS",
+        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "DINOSAURIOS",
+      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Sigue Siendo Diferente",
-        "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Tiempos Mejores",
-      "url": "https://open.spotify.com/track/01yhHGuoyV5TO3RrLtGStG"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Ya Fui Negro Ya Fui Blanco",
         "url": "https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 158596,
       "name": "Ya Fui Negro Ya Fui Blanco",
       "url": "https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Sigue Siendo Diferente",
+        "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Tiempos Mejores",
+      "url": "https://open.spotify.com/track/01yhHGuoyV5TO3RrLtGStG"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Amistades",
-        "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Amistades",
-      "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "LA NETA",
         "url": "https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 186450,
       "name": "LA NETA",
       "url": "https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Amistades",
+        "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Amistades",
+      "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "La Vida Ruina",
-      "url": "https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Escuela De Rancho",
         "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 139186,
       "name": "El Mech\u00f3n",
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "La Vida Ruina",
+      "url": "https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "TRR TAC TAC",
         "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     }
   ],
   "unique_name": "Modo: Al Mil",

@@ -4,7 +4,7 @@
 
 > Feelgood indie & roadtrip bangers
 
-76 songs - 4 hr 24 min
+77 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 | 2025-09-16 | 2026-04-09 |
 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 | 2025-07-10 |  |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 | 2025-07-10 |  |
-| [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 | 2025-09-16 |  |
+| [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 | 2025-09-16 | 2026-06-09 |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-07-10 | 2025-12-12 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2025-07-10 |  |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2025-07-10 |  |
@@ -71,6 +71,7 @@
 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 | 2025-07-10 |  |
 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 | 2025-07-10 |  |
 | [Tequila Shots](https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Tequila Shots](https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2) | 3:03 | 2026-03-05 |  |
+| [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 | 2026-06-08 |  |
 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2025-07-10 |  |
 | [Think Twice](https://open.spotify.com/track/7gVVb2Tpoc4S9fkfm4j5if) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Think Twice](https://open.spotify.com/album/1iSV82EFX3NPgV4EpuNC3j) | 3:04 | 2026-05-26 |  |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2025-07-10 |  |

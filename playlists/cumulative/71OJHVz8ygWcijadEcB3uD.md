@@ -4,7 +4,7 @@
 
 > Listen to the best Rock musics🔥.
 
-515 songs - 1 day 7 hr 12 min
+515 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Black Widow Town](https://open.spotify.com/track/43sRaYMZjm7pM5QcwAZ0uA) | [Smoke Spider](https://open.spotify.com/artist/0UdhiHzXH9q1kh26jordqo) | [Black Widow Town](https://open.spotify.com/album/0FWCmCikfEQu7JiYZg9z0u) | 3:28 | 2025-05-16 |  |
 | [blur](https://open.spotify.com/track/6Nj8ZBw51ZPFrULEHq3AYH) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [blur](https://open.spotify.com/album/4hVWlKRMHvpHFnwaWKViZG) | 3:12 | 2025-04-06 |  |
 | [Body Blow](https://open.spotify.com/track/1mV2GZzy7cuCPt970uiwJ8) | [The Alchemy](https://open.spotify.com/artist/4SsZtOnTAm0Et9A8mkquKm) | [Body Blow](https://open.spotify.com/album/7bA781B8eNRmJcY2TMbCVj) | 3:05 | 2025-04-23 |  |
-| [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 2:41 | 2025-05-30 |  |
+| [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 3:23 | 2025-05-30 |  |
 | [Boogie Woogie Blues](https://open.spotify.com/track/6Ud9NwnoaYm5anJXXjJ1PS) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Boogie Woogie Blues](https://open.spotify.com/album/2mx8JXr2kVjbqpslJQeUbP) | 2:38 | 2025-08-01 |  |
 | [Break!](https://open.spotify.com/track/7DHxrUMvUeGan1b2S3njCE) | [B4ND](https://open.spotify.com/artist/42i94z2kTYyPtifAFWhrrh) | [Break!](https://open.spotify.com/album/3sGZ9Rw9pUwQWOWKRMRPLT) | 3:12 | 2025-07-19 |  |
 | [Brindo](https://open.spotify.com/track/6SKedSHiFWTSoVlDN0Ftej) | [El Cuaderno de Bitacora](https://open.spotify.com/artist/3PtpK2hn7dsGGmNHPiB9Zg) | [Brindo](https://open.spotify.com/album/3YVnlYxQplsh7IOGJQUbhQ) | 3:52 | 2025-05-16 |  |

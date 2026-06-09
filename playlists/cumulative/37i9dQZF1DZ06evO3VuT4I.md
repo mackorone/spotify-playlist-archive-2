@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-141 songs - 11 hr 35 min
+142 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,10 +107,11 @@
 | [Prince Tennis](https://open.spotify.com/track/5ddN8t0h32QwyMiY6ONBeW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Logo Presentation Reel 1985 \(Instrumentals\) / Octabred](https://open.spotify.com/album/5tG2QG8YnlmAAklhkGiBR0) | 0:32 | 2024-08-12 | 2024-08-28 |
 | [Princess](https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:24 | 2022-05-29 |  |
 | [Rain](https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 2:34 | 2022-06-02 | 2026-05-09 |
-| [Rainbow Sequence](https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:12 | 2023-10-10 | 2026-06-08 |
+| [Rainbow Sequence](https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:12 | 2023-10-10 |  |
 | [Riding Heaven's Wave: Eulogy to a Surfer](https://open.spotify.com/track/0bgUeNfG2l4STlnn2CBV59) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:11 | 2022-05-31 | 2022-10-12 |
-| [Sailing To Byzantium \- \(New\)](https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 5:42 | 2022-05-30 | 2026-06-07 |
+| [Sailing To Byzantium \- \(New\)](https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 5:42 | 2022-05-30 |  |
 | [Sargasso Sea](https://open.spotify.com/track/4UfL9zy2IO26JAO0jNvkhH) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:32 | 2022-05-29 |  |
+| [Section 1: Seashore](https://open.spotify.com/track/0Cah3MCtf36ptXJp6d4mTy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 5:57 | 2026-06-09 |  |
 | [Section 2: Ocean Moves](https://open.spotify.com/track/76giO97PVFlVQr4YytMgRU) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Simon Dobson](https://open.spotify.com/artist/4sYhuNqiZ8eTJDvW1OmIiq) | [CIANI/ORKEST](https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl) | 9:37 | 2026-06-07 |  |
 | [She Said Yes](https://open.spotify.com/track/4rMYs3LbxL590HCdmQb5mF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:55 | 2024-10-31 | 2026-02-24 |
 | [Silver Ship](https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:49 | 2022-05-30 | 2026-03-31 |

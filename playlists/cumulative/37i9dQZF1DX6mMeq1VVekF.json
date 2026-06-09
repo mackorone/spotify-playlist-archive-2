@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Docs",
+        "url": "https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Docs",
+      "url": "https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs"
+    },
+    {
+      "album": {
         "name": "does it still rain?",
         "url": "https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B"
       },
@@ -7332,7 +7350,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 144705,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/29hXJp6z4uPKnNmdXF1HcO"

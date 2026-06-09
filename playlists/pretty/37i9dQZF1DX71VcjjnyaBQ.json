@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 442973,
+  "num_followers": 443006,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
         "name": "Deep in a Dream",
         "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
       },
       "artists": [
         {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -367,22 +383,6 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
         "name": "Stay a While",
         "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308525,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3DC22laI2ExbcsQ5vX7M1g"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 364700,
       "name": "Oh Brother",
       "url": "https://open.spotify.com/track/3DxZ8GyNWXaCnR01vvZjkY"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 308525,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
       "artists": [
         {
-          "name": "Richard Baratta",
-          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 397173,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -799,6 +783,22 @@
       "duration_ms": 366173,
       "name": "Nancy",
       "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "duration_ms": 397173,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -943,6 +943,22 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "Around The World With U",
+        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Owens Jr.",
+          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
+        }
+      ],
+      "duration_ms": 307346,
+      "name": "Mo\u2019 Betta Blues",
+      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -983,22 +999,6 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Around The World With U",
-        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
-      },
-      "artists": [
-        {
-          "name": "Ulysses Owens Jr.",
-          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
-        }
-      ],
-      "duration_ms": 307346,
-      "name": "Mo\u2019 Betta Blues",
-      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
         "name": "Tell Him I Said Hello",
         "url": "https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 337160,
       "name": "Tell Him I Said Hello",
       "url": "https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
-        "name": "The Way to Be",
-        "url": "https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg"
-      },
-      "artists": [
-        {
-          "name": "Harry Allen",
-          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
-        }
-      ],
-      "duration_ms": 219432,
-      "name": "The Way to Be",
-      "url": "https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+        "name": "The Way to Be",
+        "url": "https://open.spotify.com/album/4MkGtCy6yGfSlT6cSlvaUg"
       },
       "artists": [
         {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
         }
       ],
-      "duration_ms": 482693,
-      "name": "Softly, as in a Morning Sunrise",
-      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+      "duration_ms": 219432,
+      "name": "The Way to Be",
+      "url": "https://open.spotify.com/track/6VcOTpAa3fmU3lZBsAntTj"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
         }
       ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+      "duration_ms": 482693,
+      "name": "Softly, as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -1143,6 +1127,22 @@
       "duration_ms": 226973,
       "name": "BUT BEAUTIFUL",
       "url": "https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2026-05-22 09:42:50",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-05-22 09:42:50",
       "album": {
-        "name": "Love is Here to Stay",
-        "url": "https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 290347,
-      "name": "Love is Here to Stay",
-      "url": "https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u"
-    },
-    {
-      "added_at": "2026-05-22 09:42:50",
-      "album": {
         "name": "They Can't Take That Away from Me",
         "url": "https://open.spotify.com/album/4ukxaPeX9MKJNRkdET7b1w"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 453384,
       "name": "They Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/5vt4J8miM4Pfy4l3q8NeFA"
+    },
+    {
+      "added_at": "2026-05-22 09:42:50",
+      "album": {
+        "name": "Love is Here to Stay",
+        "url": "https://open.spotify.com/album/2efrZonDqIQIthIzmDzUJs"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 290347,
+      "name": "Love is Here to Stay",
+      "url": "https://open.spotify.com/track/6Qo4EBgX0OiqF0IwcYLG3u"
     },
     {
       "added_at": "2026-05-22 09:42:50",

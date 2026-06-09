@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,198 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,201 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 37 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
 | 38 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 39 | [Poor Little Fool](https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:33 |
-| 40 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 |
-| 41 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
+| 40 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
+| 41 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 |
 | 42 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
 | 43 | [Mambo Italiano](https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Music To Watch Girls By \- The Classics](https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to) | 2:30 |
 | 44 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 59 | [Just Walkin' in the Rain](https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Summer Holiday](https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw) | 2:37 |
 | 60 | [Unchained Melody](https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH) | [Jimmy Young](https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV) | [Rock & Roll 50s & 60s Mix](https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h) | 2:46 |
 | 61 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
-| 62 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
-| 63 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
-| 64 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
-| 65 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
+| 62 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
+| 63 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
+| 64 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
+| 65 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
 | 66 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
 | 67 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
 | 68 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |

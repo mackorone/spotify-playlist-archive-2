@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153032,
+  "num_followers": 153029,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 214735,
       "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
       "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "The Watchers",
-        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 140363,
-      "name": "The Watchers",
-      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "The Watchers",
+        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 140363,
+      "name": "The Watchers",
+      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "JUMP!",
-        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "JUMP!",
-      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1747,6 +1731,22 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Everknown",
-        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Everknown",
-      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Kissing Death",
         "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 168488,
       "name": "Another High",
       "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Everknown",
+        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Everknown",
+      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
     },
     {
       "added_at": "2026-01-16 05:00:41",

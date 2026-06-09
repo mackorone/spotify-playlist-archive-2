@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-67 songs - 3 hr 49 min
+68 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [No Lie](https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:41 | 2023-03-17 | 2024-04-19 |
 | [Not My Problem \(feat\. JID\)](https://open.spotify.com/track/69GVTnxGmUlF2ymLPL2CEp) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:23 | 2023-03-17 | 2023-05-31 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2023-03-17 |  |
+| [Oye Mi Amor \(feat\. Fher de Maná\) \[Live From Mexico\]](https://open.spotify.com/track/4gdflcU7uNKj4FldHsrCly) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Fher de Maná](https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7) | [Dua Lipa \- Live From Mexico](https://open.spotify.com/album/6NC5rf0j1JcmXhKNlZqWkr) | 5:03 | 2026-06-08 |  |
 | [Physical](https://open.spotify.com/track/5UncbfPKpWlxsWWyhmM87l) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:13 | 2023-03-17 |  |
 | [Physical \(feat\. Gwen Stefani\) \- Mark Ronson Remix](https://open.spotify.com/track/7eFxsgvcmw068MRDOBuYf5) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Physical \(feat\. Gwen Stefani\) \[Mark Ronson Remix\]](https://open.spotify.com/album/3EpFK0BdQC9yjUs4Buljuu) | 3:06 | 2026-02-13 |  |
 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2026-02-13 |  |

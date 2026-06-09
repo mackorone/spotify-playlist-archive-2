@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        },
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2026-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162855,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK"
+    },
+    {
+      "album": {
         "name": "Herified",
         "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
       },
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"

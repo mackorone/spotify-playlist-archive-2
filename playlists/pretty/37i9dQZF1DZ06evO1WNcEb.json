@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAcVSZw1xLgFynf+pPr7wVu",
+  "snapshot_id": "aiS0gAAAAAB4BNQQG5oSag5VMwsR/4k6",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
+      "duration_ms": 335946,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 335946,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 393206,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar",
-      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
     },
     {
       "added_at": null,
@@ -676,29 +676,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 380760,
-      "name": "Eu Quero Ser Santo",
-      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus, o Brasil Te Adora",
-        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 353893,
-      "name": "Eu Me Arrependo",
-      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
       "duration_ms": 496640,
       "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, o Brasil Te Adora",
+        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 353893,
+      "name": "Eu Me Arrependo",
+      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
@@ -795,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 254862,
-      "name": "Na Casa de Deus",
-      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 369280,
       "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393533,
-      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle + Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393533,
+      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eyshila 30 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 335773,
       "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
       "url": "https://open.spotify.com/track/1W7hFv05H3dMihRpl6ToAH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Dani Ferber",
-          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
-        }
-      ],
-      "duration_ms": 348133,
-      "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 291646,
       "name": "Deus no Controle",
       "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+        }
+      ],
+      "duration_ms": 348133,
+      "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A"
     },
     {
       "added_at": null,

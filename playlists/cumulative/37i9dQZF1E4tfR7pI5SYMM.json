@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Lockjaw, Dystopian X Vision, MIK's Reaction and more",
+  "description": "With Lockjaw, SCHANZ, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 208848,
       "name": "Commercializing The Mind",
       "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 299000,
       "name": "Definition Of Fun",
       "url": "https://open.spotify.com/track/3F1kea4h1Mr8IyZS6BCC9K"
@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4344,6 +4344,24 @@
       "duration_ms": 267412,
       "name": "Ground Boots",
       "url": "https://open.spotify.com/track/1reiH7NsrqX8n46TJm1jYa"
+    },
+    {
+      "album": {
+        "name": "Gunslinger",
+        "url": "https://open.spotify.com/album/3MhsBZi7ruuqmh9XVYCvnE"
+      },
+      "artists": [
+        {
+          "name": "Dark Side Cowboys",
+          "url": "https://open.spotify.com/artist/1Kd2Y1E10rPVkrB95ETYdn"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306448,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/3NRX5tbwwo9AdyKrOSivN0"
     },
     {
       "album": {
@@ -5255,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "From the Attic",
+        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359916,
+      "name": "It's Gettin' Dark",
+      "url": "https://open.spotify.com/track/3fm4PINJq7qg8hb0JNcIQS"
+    },
+    {
+      "album": {
         "name": "It's Just A Photograph",
         "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
       },
@@ -5360,7 +5396,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -6516,7 +6552,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 362264,
       "name": "Maths of Life",
       "url": "https://open.spotify.com/track/674iqeAq4ExJGbNe65zjp6"
@@ -7422,10 +7458,28 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 205653,
       "name": "Nighttrippin",
       "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
+    },
+    {
+      "album": {
+        "name": "NineFortyFive",
+        "url": "https://open.spotify.com/album/0d6V0rLwedd3K2DBSEuMNs"
+      },
+      "artists": [
+        {
+          "name": "pMad",
+          "url": "https://open.spotify.com/artist/3Aa4yRuvDQBCj7o0uip3fW"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "NineFortyFive",
+      "url": "https://open.spotify.com/track/7JqZf9dGzwk8AYg1tP4UbA"
     },
     {
       "album": {
@@ -7942,7 +7996,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -9382,7 +9436,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -10536,7 +10590,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 230886,
       "name": "The Deconstruction",
       "url": "https://open.spotify.com/track/21TefxsykO1qS3PjEshnVO"
@@ -10590,7 +10644,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10752,7 +10806,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -11262,7 +11316,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -12104,7 +12158,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"

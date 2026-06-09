@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38856,
+  "num_followers": 38860,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADlVA90h3/K3eckXk1FZoC6",
+  "snapshot_id": "aiS0gAAAAABOe0sfwenmgeYuDs8GgXm6",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "The Boy Who Destroyed The World",
-      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "The Boy Who Destroyed The World",
+      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 110733,
-      "name": "He Who Laughs Last...",
-      "url": "https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr"
+      "duration_ms": 226173,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 226173,
-      "name": "End Transmission",
-      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
+      "duration_ms": 110733,
+      "name": "He Who Laughs Last...",
+      "url": "https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 241560,
       "name": "A Deep Slow Panic",
       "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
     },
     {
       "added_at": null,

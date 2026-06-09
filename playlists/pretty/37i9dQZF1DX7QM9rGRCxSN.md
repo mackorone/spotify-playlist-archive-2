@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,765 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,771 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 21 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 |
 | 22 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 |
 | 23 | [Incendio de Amor](https://open.spotify.com/track/6UpTLTfmAeC1IHIsBHcNYd) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Mixarama](https://open.spotify.com/album/7td4ZCxydvmaFLyQRl4Bzg) | 4:55 |
-| 24 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
-| 25 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 24 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 25 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 26 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
 | 27 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 28 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 31 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
 | 32 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 33 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |
-| 34 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 |
-| 35 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 |
-| 36 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
+| 34 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 |
+| 35 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
+| 36 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 |
 | 37 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
 | 38 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
 | 39 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
 | 40 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
 | 41 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
-| 42 | [Ojalá te mueras](https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Ojalá te mueras](https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO) | 4:07 |
-| 43 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 42 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 43 | [Ojalá te mueras](https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Ojalá te mueras](https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO) | 4:07 |
 | 44 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 |
 | 45 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
 | 46 | [Stillness](https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46) | [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Stillness](https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7) | 4:08 |

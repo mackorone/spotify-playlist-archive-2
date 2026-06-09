@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,799 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,842 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 13 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |
 | 14 | [Anjo](https://open.spotify.com/track/2lCGyoF4rolzOksz16CpDs) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:31 |
 | 15 | [Passe de Mágica \- Ao Vivo](https://open.spotify.com/track/2Cjj80m95OCsZWR8nT3Msj) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Passe de Mágica \(Ao Vivo\)](https://open.spotify.com/album/3jNRjd9XKWYCHSW00aOM8L) | 4:40 |
-| 16 | [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 |
-| 17 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
+| 16 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
+| 17 | [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 |
 | 18 | [Olha Bem pra Mim](https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Olha Bem pra Mim](https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59) | 3:52 |
 | 19 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
 | 20 | [Com Ela \- Ao Vivo](https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Com Ela \(Ao Vivo\)](https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr) | 2:34 |
-| 21 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
-| 22 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
+| 21 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
+| 22 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 23 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
 | 24 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |
 | 25 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |

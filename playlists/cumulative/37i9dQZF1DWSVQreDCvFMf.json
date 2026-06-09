@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Already / Only",
+        "url": "https://open.spotify.com/album/74QbAsq9OyI7TQtm9BFMQJ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pison",
+          "url": "https://open.spotify.com/artist/21WOme7150HFQGghQw1MeJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209219,
+      "name": "Already / Only",
+      "url": "https://open.spotify.com/track/1juV1TCsmEqNL03TVk8k5x"
+    },
+    {
+      "album": {
         "name": "Amihan",
         "url": "https://open.spotify.com/album/2XmESRJ4uSzoQE4KMHvOkT"
       },
@@ -17578,6 +17596,32 @@
       "duration_ms": 258359,
       "name": "\u2018Di Ko Masabi",
       "url": "https://open.spotify.com/track/3JEE0hhTI6u9CEZCZWalKe"
+    },
+    {
+      "album": {
+        "name": "\u2018Di Minamadali",
+        "url": "https://open.spotify.com/album/1yBVGgcidle0Hoi8kg6Z58"
+      },
+      "artists": [
+        {
+          "name": "Trisha Denise",
+          "url": "https://open.spotify.com/artist/70yDAMLz4y4zF3qRVJpabz"
+        },
+        {
+          "name": "Soc Villanueva",
+          "url": "https://open.spotify.com/artist/6GKTPPsjdMWEsUDoRrfmNi"
+        },
+        {
+          "name": "Thyro Alfaro",
+          "url": "https://open.spotify.com/artist/6UQ0UX0CUYmGvpae5nt5J0"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "\u2018Di Minamadali",
+      "url": "https://open.spotify.com/track/5XFp8MZEBW1loCtpdIQIj5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf"

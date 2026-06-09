@@ -20288,7 +20288,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -22122,7 +22122,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -26842,7 +26842,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 127084,
       "name": "H\u00c1N (HITI \u00c1 N\u00cdNU)",
       "url": "https://open.spotify.com/track/6IrxeWZsJ4T944mkVEhblM"
@@ -32054,7 +32054,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -33997,6 +33997,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Mind",
+        "url": "https://open.spotify.com/album/3UwKSsWPsP11RVdEePneXH"
+      },
+      "artists": [
+        {
+          "name": "Karsky",
+          "url": "https://open.spotify.com/artist/244AXXyqxEK5nNvPSdQeJZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Lose Your Mind",
+      "url": "https://open.spotify.com/track/25gN4UD3E442ebofOVbWhQ"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
       },
@@ -34658,7 +34676,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -35632,7 +35650,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -38415,6 +38433,24 @@
     },
     {
       "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -40590,7 +40626,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -50412,7 +50448,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -52284,7 +52320,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 169640,
       "name": "Stoppa t\u00edmann",
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
@@ -54414,7 +54450,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -58852,7 +58888,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179220,
       "name": "T\u00fdnda kynsl\u00f3\u00f0in",
       "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
@@ -66714,7 +66750,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

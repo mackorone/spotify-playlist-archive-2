@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,126 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,130 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 21 | [Mundo Cruel](https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:43 |
 | 22 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
 | 23 | [Mientras La Ciudad Descansa](https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:14 |
-| 24 | [Indiferentes](https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [ENTREPUERTAS](https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm) | 2:47 |
-| 25 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
-| 26 | [Aún Así Te Vas \- En Vivo Desde El Palacio de los Deportes, CDMX](https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Vida En Rosa Tour \(En Vivo Desde El Palacio de los Deportes, CDMX\)](https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8) | 4:25 |
+| 24 | [Aún Así Te Vas \- En Vivo Desde El Palacio de los Deportes, CDMX](https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Vida En Rosa Tour \(En Vivo Desde El Palacio de los Deportes, CDMX\)](https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8) | 4:25 |
+| 25 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
+| 26 | [Indiferentes](https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [ENTREPUERTAS](https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm) | 2:47 |
 | 27 | [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:36 |
 | 28 | [Como Quisiera](https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:36 |
 | 29 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 35 | [Aún Hay Algo](https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:44 |
 | 36 | [Vivir En Silencio](https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:54 |
 | 37 | [Parece Un Chiste](https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Parece Un Chiste Con RENEE](https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0) | 2:29 |
-| 38 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
-| 39 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 |
+| 38 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 |
+| 39 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
 | 40 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 |
 | 41 | [2D](https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:18 |
 | 42 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 49 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
 | 50 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 
-Snapshot ID: `aiNjAAAAAAC2zzBpGuUq1vo7m0XUM3h/`
+Snapshot ID: `aiS0gAAAAAByKsuFuFypCIyGDWiN+Opc`

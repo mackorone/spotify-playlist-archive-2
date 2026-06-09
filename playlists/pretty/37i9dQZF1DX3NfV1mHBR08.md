@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,942 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,948 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 21 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 22 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
 | 23 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
-| 24 | [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 |
-| 25 | [Cosmic Underdog](https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:13 |
+| 24 | [Cosmic Underdog](https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:13 |
+| 25 | [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 |
 | 26 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 |
 | 27 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 28 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 |

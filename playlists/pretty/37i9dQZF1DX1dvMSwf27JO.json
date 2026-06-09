@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 556610,
+  "num_followers": 556588,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Biking (Solo)",
-        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 212494,
-      "name": "Biking (Solo)",
-      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Biking (Solo)",
+        "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 212494,
+      "name": "Biking (Solo)",
+      "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Echo (tom huna Edit)",
         "url": "https://open.spotify.com/album/6miWzsOhLwQaprbr8ID8yb"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
@@ -1675,26 +1675,6 @@
       "duration_ms": 56880,
       "name": "chix - Unfinished",
       "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1719,6 +1699,26 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2024-08-23 04:00:00",

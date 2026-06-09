@@ -2995,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Verzamelen",
+        "url": "https://open.spotify.com/album/3eY8dRAnkhhr3sVf0Rfr9t"
+      },
+      "artists": [
+        {
+          "name": "Nordin",
+          "url": "https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120522,
+      "name": "Verzamelen",
+      "url": "https://open.spotify.com/track/5uc1LVQKtOA84290Ltyyu4"
+    },
+    {
+      "album": {
         "name": "Vieze Dingen",
         "url": "https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg"
       },

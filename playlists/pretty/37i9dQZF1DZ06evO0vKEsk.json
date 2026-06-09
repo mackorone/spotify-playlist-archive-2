@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132683,
+  "num_followers": 132679,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAN23boJ91aWOsJBsceQU07",
+  "snapshot_id": "aiS0gAAAAAA8E+xEbGqWEpjtKxZOPWxO",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jerusal\u00e9m e Eu",
-        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 313306,
-      "name": "Jerusal\u00e9m e Eu",
-      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
     },
     {
       "added_at": null,

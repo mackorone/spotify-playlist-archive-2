@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,246 likes - 47 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,310 likes - 47 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 46 | [Geezer](https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:49 |
 | 47 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 |
 
-Snapshot ID: `aiNjAAAAAACx0yhy/qP0oLOTC1ksQEs0`
+Snapshot ID: `aiS0gAAAAAAk01Rgokf3bnlR8LxAhlYW`

@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474130,
+  "num_followers": 1474137,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,26 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         },
         {
-          "name": "Sophie Charlotte",
-          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+      "duration_ms": 327946,
+      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -519,26 +523,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         },
         {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+          "name": "Sophie Charlotte",
+          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
         }
       ],
-      "duration_ms": 327946,
-      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
+      "duration_ms": 224720,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Chico Buarque Essencial (Box)",
-        "url": "https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Futuros Amantes",
-      "url": "https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Li\u00e7\u00e3o de Vida",
         "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 191053,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Chico Buarque Essencial (Box)",
+        "url": "https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Futuros Amantes",
+      "url": "https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs"
     },
     {
       "added_at": "2026-05-22 11:20:59",

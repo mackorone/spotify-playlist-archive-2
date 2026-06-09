@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 249896,
+  "num_followers": 249911,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADKuXsr0/6mk67IXhCH37NW",
+  "snapshot_id": "aiS0gAAAAAC70nQordhzAJODy/TEAtS0",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
+        "name": "Bendito Vicio",
+        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 250347,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
+      "duration_ms": 271285,
+      "name": "Bendito Vicio",
+      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Vicio",
-        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Bendito Vicio",
-      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+      "duration_ms": 250347,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
     },
     {
       "added_at": null,

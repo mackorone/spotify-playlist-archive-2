@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,686 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,853 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 13 | [LIFT MY HANDS](https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:39 |
 | 14 | [HAPPY](https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:15 |
 | 15 | [UPS & DOWNS](https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:41 |
-| 16 | [NO LONGER BOUND](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:00 |
+| 16 | [SUNRISE](https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SUNRISE](https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg) | 2:36 |
 | 17 | [ALWAYS](https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:38 |
 | 18 | [AMEN](https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:13 |
-| 19 | [SUNRISE](https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SUNRISE](https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg) | 2:36 |
+| 19 | [NO LONGER BOUND](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:00 |
 | 20 | [GOD'S GOT MY BACK](https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:38 |
 | 21 | [GOD IS GOOD](https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:27 |
 | 22 | [LOW KEY](https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LOW KEY](https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8) | 2:30 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 44 | [Hey DJ](https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:31 |
 | 45 | [SOS](https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:49 |
 | 46 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
-| 47 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
+| 47 | [It Is Well](https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:26 |
 | 48 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
 | 49 | [MISUNDERSTOOD](https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 3:50 |
-| 50 | [It Is Well](https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:26 |
+| 50 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
 
-Snapshot ID: `aiNjAAAAAAC3n5TRBy1A11iZEQC+7Vyz`
+Snapshot ID: `aiS0gAAAAACjvuRQ7lrfjFc3K1jPfeEv`

@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 433889,
+  "num_followers": 433970,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 235554,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Esta Tristeza M\u00eda",
-      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Africanos Al Ataque",
         "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT"
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
       },
       "artists": [
         {
-          "name": "Banda Pachuco",
-          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Mitad T\u00fa, Mitad Yo",
-      "url": "https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH"
+      "duration_ms": 209200,
+      "name": "Esta Tristeza M\u00eda",
+      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1231,6 +1215,22 @@
       "duration_ms": 212857,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT"
+      },
+      "artists": [
+        {
+          "name": "Banda Pachuco",
+          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mitad T\u00fa, Mitad Yo",
+      "url": "https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Canciones Tristes Canciones",
-        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja de Jose Leon",
-          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "El Diablo En Una Botella",
-      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 143426,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "El Diablo En Una Botella",
+      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+      "duration_ms": 175403,
+      "name": "No Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 175403,
-      "name": "No Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Despertando Una Leyenda",
         "url": "https://open.spotify.com/album/43eKmwrZeVdMXaePAIHpj8"
       },
@@ -1639,6 +1655,22 @@
       "duration_ms": 215829,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/0safZ6wr41CsyV6FFEFzpr"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Los 20 para Coleccionar",
+        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
+      },
+      "artists": [
+        {
+          "name": "Banda El Pueblito",
+          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
+        }
+      ],
+      "duration_ms": 157520,
+      "name": "El Papalotito",
+      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1684,25 +1716,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Los 20 para Coleccionar",
-        "url": "https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF"
-      },
-      "artists": [
-        {
-          "name": "Banda El Pueblito",
-          "url": "https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm"
-        }
-      ],
-      "duration_ms": 157520,
-      "name": "El Papalotito",
-      "url": "https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv"
+      "duration_ms": 155062,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1739,6 +1755,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "La Gran Historia Vol. 1",
+        "url": "https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen"
+      },
+      "artists": [
+        {
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "El Domingo Se Casa",
+      "url": "https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -1764,25 +1796,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 155062,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "La Gran Historia Vol. 1",
-        "url": "https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen"
-      },
-      "artists": [
-        {
-          "name": "Banda San Miguel",
-          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "El Domingo Se Casa",
-      "url": "https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND"
+      "duration_ms": 138251,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1819,6 +1835,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "A Bailar De Caballito",
         "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
@@ -1844,25 +1876,9 @@
           "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 138251,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Tumbando Ca\u00f1a",
-        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
+      "duration_ms": 210047,
+      "name": "Que Bonita Te Vez",
+      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1899,38 +1915,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
-      },
-      "artists": [
-        {
-          "name": "El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Que Bonita Te Vez",
-      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 210721,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+      },
+      "artists": [
+        {
+          "name": "El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
     },
     {
       "added_at": "2026-02-09 16:44:15",

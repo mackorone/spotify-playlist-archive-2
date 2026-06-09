@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 최제니\(Jenny Choi\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-680 songs - 1 day 15 hr 56 min
+681 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2024-05-06 |
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-07-15 |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
-| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 |  |
+| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 | 2026-06-09 |
 | [Ash \- Acoustic](https://open.spotify.com/track/3YLKumEaNPhR9ylIJLFXyv) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash \(Acoustic\)](https://open.spotify.com/album/4hFFT091ahBzpl6YHrHzgB) | 2:05 | 2025-06-09 | 2025-06-20 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2021-12-10 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 | 2026-03-13 | 2026-04-16 |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
 | [Blue cup](https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 2:55 | 2022-01-10 | 2022-04-03 |
+| [Blue flight](https://open.spotify.com/track/6uJMqvFPVG5QmfJcEKXQn3) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Blue flight](https://open.spotify.com/album/7ynT4be0QAUVdgbNvPgAjK) | 3:34 | 2026-06-08 |  |
 | [Blueberry Eyes \- Acoustic](https://open.spotify.com/track/0KY4z8DkvSae2ROsmsrAsN) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Blueberry Eyes \(Acoustic\)](https://open.spotify.com/album/6eS71yiVKtAuzp5yQGuqS9) | 2:31 | 2022-03-31 | 2022-06-07 |
 | [Blush 두근두근 \(feat\. You Byoung Hee\)](https://open.spotify.com/track/0nJq5Y4VIdIisinUdMRQrp) | [찰리파크 Charlie Park](https://open.spotify.com/artist/3nBzd5YDZ66wUXrvb7MFJ9), [You Byoung Hee 유병희](https://open.spotify.com/artist/1rRK1lT7RU6hLS5AYWG37d) | [Blush 두근두근](https://open.spotify.com/album/3OYrwjSFrM75l5AHtuFy54) | 3:20 | 2022-03-31 | 2022-04-18 |
 | [boyhood](https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:15 | 2022-08-12 | 2022-08-19 |

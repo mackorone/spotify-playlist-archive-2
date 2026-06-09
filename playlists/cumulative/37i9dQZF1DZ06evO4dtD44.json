@@ -415,6 +415,36 @@
     },
     {
       "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ"
+      },
+      "artists": [
+        {
+          "name": "Mateus E. Dadinho",
+          "url": "https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76946,
+      "name": "Cordeiro De Nana",
+      "url": "https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z"
+    },
+    {
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
@@ -434,7 +464,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 76293,
       "name": "Cordeiro de Nan\u00e3",
       "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"

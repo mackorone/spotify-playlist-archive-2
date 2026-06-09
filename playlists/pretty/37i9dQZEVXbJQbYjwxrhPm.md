@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,766 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,767 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 50 | [Грешници](https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Грешници](https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777) | 4:08 |
 
-Snapshot ID: `MbjqWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mbo00AAAAAAAAAAAAAAAAAAAAAAAAGVu`

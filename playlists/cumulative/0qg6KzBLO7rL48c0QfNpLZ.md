@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,518 songs - 2 day 19 hr 16 min
+1,519 songs - 2 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1519,6 +1519,7 @@
 | [You're The One](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [You're The One](https://open.spotify.com/album/5b0KyQO9kGU0w9z4nmWU8A) | 2:53 | 2024-04-26 | 2024-06-15 |
 | [You've Got The Love](https://open.spotify.com/track/1VUv4veJCKbhkj60SsH2MX) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [You've Got The Love](https://open.spotify.com/album/1c3vMDnWdF5rd9Vg6nuHlu) | 2:21 | 2025-09-12 | 2025-11-04 |
 | [Young](https://open.spotify.com/track/7bEehgFqPxoJVOydF1zAZ2) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Young](https://open.spotify.com/album/2VOKqCAMJ3G2HEyhsGvOJ4) | 2:25 | 2024-02-02 | 2024-03-16 |
+| [Young Again](https://open.spotify.com/track/6GqqR8FPSBuAMJYqJfkWgj) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3) | [Young Again](https://open.spotify.com/album/4RdWrGnpg9K0usTaeTo4yH) | 2:24 | 2026-06-08 |  |
 | [Young Again](https://open.spotify.com/track/7bTwbUO1lbj2zjnZWYCcjI) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Young Again](https://open.spotify.com/album/6rjL9a2ub2CCDNaZ2kaAx7) | 2:52 | 2024-10-25 | 2024-11-21 |
 | [Young And In Love](https://open.spotify.com/track/5yaiCo0nzQjjQTmeJcaiD7) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Young And In Love](https://open.spotify.com/album/1X89DNqX5730lIyGkI31ij) | 2:45 | 2024-11-29 | 2025-01-11 |
 | [Young Years](https://open.spotify.com/track/6IaidcgITz91ffjzPioWXQ) | [Sönnefelt](https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo) | [Young Years](https://open.spotify.com/album/5TmFMNXMHBSPf3vdroJN8F) | 2:19 | 2026-04-24 | 2026-05-09 |

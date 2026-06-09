@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 991452,
+  "num_followers": 991610,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -459,18 +443,34 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
     },
     {
       "added_at": "2025-11-13 12:34:14",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2025-11-13 12:34:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 225946,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2025-11-13 12:34:14",

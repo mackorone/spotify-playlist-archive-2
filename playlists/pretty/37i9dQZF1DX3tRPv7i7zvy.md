@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,546 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,565 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 14 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
 | 15 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 | 16 | [5:30](https://open.spotify.com/track/2QNi1aSK4TnQBqn7ZZvNEp) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [5:30](https://open.spotify.com/album/5o6irrqosnuRimxVpkokv5) | 3:34 |
-| 17 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
+| 17 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 18 | [Signature \(with Lasmid\)](https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Signature \(with Lasmid\)](https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO) | 2:42 |
-| 19 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 19 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
 | 20 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 | 21 | [Wish I Had a Girlfriend](https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Wish I Had a Girlfriend](https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw) | 2:48 |
 | 22 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 52 | [OMG](https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lova Boy Era](https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x) | 2:38 |
 | 53 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 |
 | 54 | [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 |
-| 55 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
-| 56 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8) | 3:00 |
-| 57 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 |
+| 55 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 |
+| 56 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
+| 57 | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Continental \(feat\. Shallipopi\)](https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8) | 3:00 |
 | 58 | [Yahooboy](https://open.spotify.com/track/3gxE784U3RHs338iapWwos) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm), [Ngb Muni](https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm) | [Yahooboy](https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG) | 2:09 |
 | 59 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
 | 60 | [Road Clear](https://open.spotify.com/track/0l187qGuX2ItgULWOjoRVW) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Road Clear](https://open.spotify.com/album/3GxQNJBWPUtsAXR3dsdgYp) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: GIV\u0112ON",
-  "num_followers": 297444,
+  "num_followers": 297432,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -291,18 +291,26 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -327,26 +335,18 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
         "name": "Obvious",
         "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -891,22 +907,6 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 172924,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 172924,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
         "name": "Is It a Crime",
         "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
     },
     {
       "added_at": "2026-05-22 04:00:37",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2026-05-22 04:00:37",
       "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2026-05-22 04:00:37",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2026-05-22 04:00:37",
-      "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "added_at": "2026-05-22 04:00:37",

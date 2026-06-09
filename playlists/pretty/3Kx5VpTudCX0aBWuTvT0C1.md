@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,691 likes - 68 songs - 4 hr 1 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,690 likes - 69 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 66 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 |
 | 67 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 |
 | 68 | [The Underdog](https://open.spotify.com/track/1bc0hEk0B8trPeHKqisMvT) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [7 Seconds Later](https://open.spotify.com/album/1V2De7aUannpYQgZPC7g11) | 3:39 |
+| 69 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 |
 
-Snapshot ID: `AAACnFD6W7QuZ/ilZwXvN4aDK2HC7n2O`
+Snapshot ID: `AAACncYPu6tGsKc372S0ysQJ5VFBirqc`

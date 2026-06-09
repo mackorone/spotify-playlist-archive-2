@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Desert Fever",
+        "url": "https://open.spotify.com/album/0TyMKMqt6PsEipa1NEB16v"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Desert Fever - Edit",
+      "url": "https://open.spotify.com/track/0zZiEpk8QQ73TbE8pBcb2o"
+    },
+    {
+      "album": {
         "name": "Desert Queen",
         "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
       },

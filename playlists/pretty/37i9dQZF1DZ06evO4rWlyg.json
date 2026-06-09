@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 155139,
+  "num_followers": 155162,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADEV9l8a1HImFp/ETWxFbft",
+  "snapshot_id": "aiS0gAAAAAD+cZmheBd/JHyoMLaRT3tG",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 268106,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Domestica",
+      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Selma Songs",
         "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 261826,
       "name": "New World",
       "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "Mouth's Cradle",
-      "url": "https://open.spotify.com/track/2cyoqhQXL8HdbAydLtpUxZ"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Domestica",
-      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
+      "duration_ms": 239826,
+      "name": "Mouth's Cradle",
+      "url": "https://open.spotify.com/track/2cyoqhQXL8HdbAydLtpUxZ"
     },
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
-      "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"
+      "duration_ms": 305703,
+      "name": "Blissing Me",
+      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

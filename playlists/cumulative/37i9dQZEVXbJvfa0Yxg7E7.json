@@ -18138,7 +18138,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -23814,7 +23814,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 203253,
       "name": "Idyll",
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
@@ -51080,6 +51080,24 @@
     {
       "album": {
         "name": "RAMUELO",
+        "url": "https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139875,
+      "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
+      "url": "https://open.spotify.com/track/24lr0kqxMnxNf4CZMC2Mf2"
+    },
+    {
+      "album": {
+        "name": "RAMUELO",
         "url": "https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL"
       },
       "artists": [
@@ -51090,7 +51108,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 139875,
       "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
       "url": "https://open.spotify.com/track/5TFucAmMIMW8x1JD6Fq780"

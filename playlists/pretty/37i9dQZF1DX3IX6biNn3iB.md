@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,924 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,927 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 15 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 |
 | 16 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
 | 17 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
-| 18 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:45 |
-| 19 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 18 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 19 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:45 |
 | 20 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 |
 | 21 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
 | 22 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 33 | [Yallegó](https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 2:53 |
 | 34 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
 | 35 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
-| 36 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
-| 37 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
+| 36 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
+| 37 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
 | 38 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 39 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
 | 40 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 44 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
 | 45 | [mis viejos](https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [mis viejos](https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5) | 4:00 |
 | 46 | [Me Tienes Loco](https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Me Tienes Loco](https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3) | 2:40 |
-| 47 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
-| 48 | [cuando tú me besas](https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [cuando tú me besas](https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr) | 2:32 |
+| 47 | [cuando tú me besas](https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [cuando tú me besas](https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr) | 2:32 |
+| 48 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
 | 49 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
-| 50 | [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 |
+| 50 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 |
 
 Snapshot ID: `AAAAAP4XU21TQ7q/NcndOuZ9syXf3fqG`

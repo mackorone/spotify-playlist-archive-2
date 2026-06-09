@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 20735,
+  "num_followers": 20741,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -715,34 +699,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "First Signs Of Me",
-        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
       },
       "artists": [
         {
-          "name": "MALIKAA",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "MASTA",
-        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "Confess",
-      "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
+      "duration_ms": 145506,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -763,22 +731,34 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+        "name": "MASTA",
+        "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
         }
       ],
-      "duration_ms": 191898,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "First Signs Of Me",
+        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
+      },
+      "artists": [
+        {
+          "name": "MALIKAA",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -795,6 +775,26 @@
       "duration_ms": 150858,
       "name": "Skedaddle",
       "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Wuse II (feat. Odunsi)",
         "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 269552,
       "name": "Wuse II",
       "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Maame Water",
-        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "Maame Water",
-      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        }
+      ],
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Let It Flow",
-        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
       },
       "artists": [
         {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 178348,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
+      "duration_ms": 235000,
+      "name": "TheBox",
+      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1091,22 +1107,6 @@
       "duration_ms": 215066,
       "name": "Coconut Lips",
       "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Passport",
-        "url": "https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "TheBox",
-      "url": "https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

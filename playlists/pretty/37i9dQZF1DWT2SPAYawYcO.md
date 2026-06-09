@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Taylor Swift, Alex Warren, The Avalanches, Jamie XX, BOY SODA, Tobiahs, Joji, The Kid LAROI + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,234 likes - 83 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,212 likes - 83 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

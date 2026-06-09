@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Amantes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/06piHT5uMWn7LT1CDWg0n4"
+      },
+      "artists": [
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Amantes - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YcaW1jBsTb6eUn9olYtOS"
+    },
+    {
+      "album": {
         "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
       },
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 257741,
       "name": "Cabo de Guerra - Ao Vivo",
       "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 150000,
       "name": "Desabafo 2",
       "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
@@ -15190,6 +15208,28 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN"
+    },
+    {
+      "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169137,
+      "name": "SALTO 15",
+      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
     },
     {
       "album": {

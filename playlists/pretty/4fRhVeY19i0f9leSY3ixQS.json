@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQUx2JCOoXicDmQMJr4KLgFnWj/+D8",
+  "snapshot_id": "AAAQV0ouOZrISERGhIheGdnCUL0FKjqU",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -931,38 +931,6 @@
       "duration_ms": 189151,
       "name": "Bring You Back",
       "url": "https://open.spotify.com/track/38XC9TOfjyc83NpcRek9ty"
-    },
-    {
-      "added_at": "2026-05-08 13:58:23",
-      "album": {
-        "name": "Container 12",
-        "url": "https://open.spotify.com/album/2cxVVxe4zIPg3yEIDQUZXX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Min",
-          "url": "https://open.spotify.com/artist/75n6RbVNAgJqgcQmmY6E53"
-        }
-      ],
-      "duration_ms": 140727,
-      "name": "Container 12",
-      "url": "https://open.spotify.com/track/1VVyqgqXGXfiEvAOtyw2yU"
-    },
-    {
-      "added_at": "2026-05-08 11:58:18",
-      "album": {
-        "name": "Change Me",
-        "url": "https://open.spotify.com/album/1t4A38BmfwwgrAljv4U1He"
-      },
-      "artists": [
-        {
-          "name": "Sunsign",
-          "url": "https://open.spotify.com/artist/5A1W8zOfyJH92whtCEavRo"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/0ceiBTn9Mb3wFnzgJ9inXZ"
     },
     {
       "added_at": "2026-05-12 07:18:39",
@@ -3563,6 +3531,38 @@
       "duration_ms": 179728,
       "name": "A Message From Your CEO",
       "url": "https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU"
+    },
+    {
+      "added_at": "2026-06-08 09:35:18",
+      "album": {
+        "name": "New Times",
+        "url": "https://open.spotify.com/album/5Leen2t1D1hc2xSEQks9z2"
+      },
+      "artists": [
+        {
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/6gk0Hqm1fZqEGpv2JOtb2T"
+        }
+      ],
+      "duration_ms": 147624,
+      "name": "New Times",
+      "url": "https://open.spotify.com/track/6ACRL3MhmEDkAi0EUGz2QH"
+    },
+    {
+      "added_at": "2026-06-08 09:35:03",
+      "album": {
+        "name": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043b\u0435\u0442\u043d\u0438\u0439 \u0434\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/2zo6NXfqHenFKSSnrePYEV"
+      },
+      "artists": [
+        {
+          "name": "DASAEV",
+          "url": "https://open.spotify.com/artist/3Q0rsu9CNiT5tRwnvj2jA6"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043b\u0435\u0442\u043d\u0438\u0439 \u0434\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2Dpa3CEzE81ONqx94ApFZ2"
     },
     {
       "added_at": "2026-06-07 04:42:39",

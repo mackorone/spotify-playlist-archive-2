@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 684669,
+  "num_followers": 684900,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Dalida By Ibrahim Maalouf",
         "url": "https://open.spotify.com/album/6yEmVECRBuuBzZzGkSvTUH"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 259000,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Soir\u00e9e",
-        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
       "artists": [
         {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Vous Qui Passez Sans Me Voir",
-      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+        "name": "Soir\u00e9e",
+        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
       "artists": [
         {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
         }
       ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+      "duration_ms": 189026,
+      "name": "Vous Qui Passez Sans Me Voir",
+      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Um Rio",
         "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254693,
       "name": "\u00c0 quoi \u00e7a sert l'amour",
       "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Les Souvenirs Sous Ma Frange",
-        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "J'ai 18 Ans",
-      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
         "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 176506,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Les Souvenirs Sous Ma Frange",
+        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "J'ai 18 Ans",
+      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Comme Un Manouche Sans Guitare",
-        "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        }
-      ],
-      "duration_ms": 130186,
-      "name": "J'suis pas d'ici",
-      "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Get Out of Town (Deluxe)",
         "url": "https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 316078,
       "name": "L\u2019\u00e9tang",
       "url": "https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Comme Un Manouche Sans Guitare",
+        "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "duration_ms": 130186,
+      "name": "J'suis pas d'ici",
+      "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Just The Two Of Us",
-        "url": "https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Diego Figueiredo",
-          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Samois A Moi",
-      "url": "https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Nolita",
         "url": "https://open.spotify.com/album/5M6CSIWhFBH97H9W35jaOn"
       },
@@ -1491,6 +1471,22 @@
       "duration_ms": 179653,
       "name": "L'onde am\u00e8re",
       "url": "https://open.spotify.com/track/6figNg1aCljy2HQcFG2KLZ"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "LA DISPARITION",
+        "url": "https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige (Spanish Song Bird)",
+      "url": "https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

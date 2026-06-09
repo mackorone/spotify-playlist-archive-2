@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 77222,
+  "num_followers": 77229,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 176093,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Watch The World Burn",
-        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 203948,
-      "name": "Watch The World Burn",
-      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "War",
-      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 202213,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Mint",
         "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 237053,
       "name": "No Roots",
       "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+        "name": "Lord of the Flies & Birds & Bees",
+        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/5F2l8MpjysPrqxk0xq7fiU"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Crisis of Faith",
         "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
       },
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Lord of the Flies & Birds & Bees",
-        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 195278,
-      "name": "A Little Bit Happy",
-      "url": "https://open.spotify.com/track/5F2l8MpjysPrqxk0xq7fiU"
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1563,22 +1563,6 @@
       "duration_ms": 261371,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
-    },
-    {
-      "added_at": "2026-05-29 16:00:59",
-      "album": {
-        "name": "Can We Hang Out Sometime?",
-        "url": "https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 172446,
-      "name": "Tea Leaves",
-      "url": "https://open.spotify.com/track/4kN4CZD5UQiVdmjcHMIwWP"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1611,6 +1595,22 @@
       "duration_ms": 196533,
       "name": "Lost Kitten",
       "url": "https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx"
+    },
+    {
+      "added_at": "2026-05-29 16:00:59",
+      "album": {
+        "name": "Can We Hang Out Sometime?",
+        "url": "https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Tea Leaves",
+      "url": "https://open.spotify.com/track/4kN4CZD5UQiVdmjcHMIwWP"
     },
     {
       "added_at": "2026-05-06 20:31:40",

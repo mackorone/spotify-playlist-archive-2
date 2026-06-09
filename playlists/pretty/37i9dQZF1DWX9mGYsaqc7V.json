@@ -1,6 +1,6 @@
 {
   "description": "Dim the lights and chill with these classic slow jamz.",
-  "num_followers": 480957,
+  "num_followers": 480982,
   "original_name": "Slow Jamz",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "My Name Is Joe",
         "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 296693,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
         "name": "R&B Hits",
         "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 268800,
       "name": "I Need a Girl (Pt. 1) [feat. Usher & Loon]",
       "url": "https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Tyrese",
-        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
+        "name": "The Best of Tevin Campbell",
+        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
         }
       ],
-      "duration_ms": 290600,
-      "name": "Sweet Lady",
-      "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
+      "duration_ms": 284586,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "The Best of Tevin Campbell",
-        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+        "name": "Tyrese",
+        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
       },
       "artists": [
         {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
         }
       ],
-      "duration_ms": 284586,
-      "name": "Can We Talk",
-      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
+      "duration_ms": 290600,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Make It Last Forever",
         "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 296400,
       "name": "Make It Last Forever (with Jacci McGhee)",
       "url": "https://open.spotify.com/track/7vVIj8Tm1wCawjvwVZdeLD"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1187,6 +1187,22 @@
       "duration_ms": 310520,
       "name": "Pretty Wings - uncut",
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1235,22 +1251,6 @@
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Passion, Pain & Pleasure (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Can't Be Friends",
-      "url": "https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 218466,
       "name": "Almost Doesn't Count",
       "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Passion, Pain & Pleasure (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Can't Be Friends",
+      "url": "https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Neighbors Know My Name",
-      "url": "https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         }
       ],
-      "duration_ms": 288386,
-      "name": "Crying Out For Me",
-      "url": "https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu"
+      "duration_ms": 186306,
+      "name": "Neighbors Know My Name",
+      "url": "https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1471,6 +1455,22 @@
       "duration_ms": 322266,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/33GJ5M8Pluf119G1PObkZM"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 288386,
+      "name": "Crying Out For Me",
+      "url": "https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "You Used to Love Me",
+      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Shorty (Got Her Eyes on Me)",
+      "url": "https://open.spotify.com/track/7x5ayrIxbFqXoufyPrAm3M"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
         "name": "Simple Things (Remix) (feat. Chris Brown & Future)",
         "url": "https://open.spotify.com/album/2bq4H1LLMuCqg7RZejDFOW"
       },
@@ -1631,50 +1663,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
       "artists": [
         {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
         }
       ],
-      "duration_ms": 192333,
-      "name": "Shorty (Got Her Eyes on Me)",
-      "url": "https://open.spotify.com/track/7x5ayrIxbFqXoufyPrAm3M"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "You Used to Love Me",
-      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5adyyJ9rxUeRoDcCz19Ke1"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Burn - Radio Mix",
-      "url": "https://open.spotify.com/track/6gpEUabUe4Qtc0jek4BC50"
+      "duration_ms": 296400,
+      "name": "Butta Love",
+      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
     }
   ],
   "unique_name": "Slow Jamz",

@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31925,
+  "num_followers": 31927,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAhtiXPJHhsTtd7jqYQddmt",
+  "snapshot_id": "aiS0gAAAAAA9j4U4l91EIpRbqt2JwT2N",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALOS Y BUENOS RECUERDOS",
-        "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 215872,
-      "name": "la vida viene y va",
-      "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
+      "duration_ms": 204511,
+      "name": "YA VA A VENIR",
+      "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
     },
     {
       "added_at": null,
@@ -715,22 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Dealer",
-        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+        "name": "MALOS Y BUENOS RECUERDOS",
+        "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
         },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 204511,
-      "name": "YA VA A VENIR",
-      "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NQSTA",
+        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "NQSTA",
+      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NQSTA",
-        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "NQSTA",
-      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
     },
     {
       "added_at": null,

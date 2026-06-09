@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 199686,
+  "num_followers": 199853,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAC3n5TRBy1A11iZEQC+7Vyz",
+  "snapshot_id": "aiS0gAAAAACjvuRQ7lrfjFc3K1jPfeEv",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 180000,
-      "name": "NO LONGER BOUND",
-      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
+      "duration_ms": 156583,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 156583,
-      "name": "SUNRISE",
-      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+      "duration_ms": 180000,
+      "name": "NO LONGER BOUND",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
     },
     {
       "added_at": null,
@@ -846,15 +846,11 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 188063,
-      "name": "Nothing But The Blood",
-      "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
+      "duration_ms": 146613,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
     },
     {
       "added_at": null,
@@ -906,11 +902,15 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 146613,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+      "duration_ms": 188063,
+      "name": "Nothing But The Blood",
+      "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
     }
   ],
   "unique_name": "This Is Forrest Frank",

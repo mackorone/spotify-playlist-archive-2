@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22406,
+  "num_followers": 22407,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADKmlxkDZUckUEYs3wapH1Z",
+  "snapshot_id": "aiS0gAAAAAAzeEqpCKiih+0U5BUxgfrO",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 238141,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -1175,34 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Rodrip",
-          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 212926,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1247,6 +1219,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Rodrip",
+          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212926,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -1279,26 +1279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frio e Vento",
-        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -1363,6 +1363,30 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 190003,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
     },
     {
       "added_at": null,
@@ -1427,30 +1451,6 @@
       "duration_ms": 327028,
       "name": "Estar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 190003,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
     }
   ],
   "unique_name": "This Is Lourena",

@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 644510,
+  "num_followers": 644513,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
+        "name": "ALL IN (Lieblingslieder)",
+        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163601,
+      "name": "ALL IN (Lieblingslieder)",
+      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "ALL IN (Lieblingslieder)",
-        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163601,
-      "name": "ALL IN (Lieblingslieder)",
-      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "WHO'S THAT",
-        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+        "name": "BIKINI GRELL",
+        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
       },
       "artists": [
         {
           "name": "Ikkimel",
           "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
         }
       ],
-      "duration_ms": 140009,
-      "name": "WHO'S THAT",
-      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+      "duration_ms": 123635,
+      "name": "BIKINI GRELL",
+      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1539,22 +1543,6 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
         "name": "Mille Grazie",
         "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
       },
@@ -1567,6 +1555,22 @@
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "BIKINI GRELL",
-        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
       },
       "artists": [
         {
           "name": "Ikkimel",
           "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Robbensohn",
-          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
         }
       ],
-      "duration_ms": 123635,
-      "name": "BIKINI GRELL",
-      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "DRAGO AUGUSTINO",
-        "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
       "artists": [
         {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
         }
       ],
-      "duration_ms": 157402,
-      "name": "DRAGO AUGUSTINO",
-      "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1707,26 +1707,6 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1787,6 +1767,26 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
+        "name": "DRAGO AUGUSTINO",
+        "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "DRAGO AUGUSTINO",
+      "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
@@ -1799,6 +1799,22 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1819,22 +1835,6 @@
       "duration_ms": 174545,
       "name": "It's My Life - Techno Remix",
       "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "GIFTMORD",
-        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "GIFTMORD",
-      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1935,8 +1915,8 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
-        "name": "HASENJAGD",
-        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
       "artists": [
         {
@@ -1948,9 +1928,29 @@
           "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 158135,
-      "name": "HASENJAGD",
-      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
+        "name": "GIFTMORD",
+        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "GIFTMORD",
+      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
     },
     {
       "added_at": "2026-05-28 22:00:35",
@@ -1995,6 +1995,46 @@
     {
       "added_at": "2026-05-28 22:00:35",
       "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2026-05-28 22:00:35",
+      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -2011,46 +2051,6 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2026-05-28 22:00:35",
-      "album": {
-        "name": "Zelten auf Kies",
-        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 137837,
-      "name": "Zelten auf Kies",
-      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     }
   ],
   "unique_name": "schiebt anders",

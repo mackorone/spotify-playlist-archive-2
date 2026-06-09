@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,368 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,390 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 22 | [No One Told Us \- Extended Version](https://open.spotify.com/track/4FlDhT6FGCANjE3UKZMd4i) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [No One Told Us \(Extended Version\)](https://open.spotify.com/album/0OabiskGB9hhieomXXl2Sv) | 3:04 |
 | 23 | [Lone Wolf \(feat\. 4batz\)](https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:18 |
 | 24 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
-| 25 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
+| 25 | [Could Be Worse](https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Could Be Worse](https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9) | 2:20 |
 | 26 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
-| 27 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
-| 28 | [Could Be Worse](https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Could Be Worse](https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9) | 2:20 |
+| 27 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
+| 28 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
 | 29 | [Beg](https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:33 |
-| 30 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
-| 31 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
+| 30 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
+| 31 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 32 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR) | 3:15 |
 | 33 | [Catching Feelings \(feat\. Leon Thomas\) \- Remix](https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings \(feat\. Leon Thomas\) \[Remix\]](https://open.spotify.com/album/4XwwREVubuF8cJFJ7U9rIS) | 3:44 |
 | 34 | [5MoreMinutes](https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 49 | [Moments After](https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:22 |
 | 50 | [PRIZE](https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:52 |
 
-Snapshot ID: `aiNjAAAAAABjbw6VwFgGnRg1A0dO2Wrz`
+Snapshot ID: `aiS0gAAAAAAG7By684qfOzJRCoJsIfBj`

@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 217040,
+  "num_followers": 217048,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMS5c4eIcU17TMO99Yy/lU/2HlzW",
+  "snapshot_id": "AAAAANiFLQvpX/A4KN9PovYg1AVa4BSn",
   "tracks": [
     {
       "added_at": "2026-05-30 05:14:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-30 05:14:12",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2026-05-30 05:14:12",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -711,22 +695,18 @@
     {
       "added_at": "2026-05-30 05:14:12",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2026-05-30 05:14:12",
@@ -743,6 +723,26 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2026-05-30 05:14:12",
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": "2026-05-30 05:14:12",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-05-30 05:14:12",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Tom McFarland",
-          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-05-30 05:14:12",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2026-05-30 05:14:12",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "added_at": "2026-05-30 05:14:12",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-05-30 05:14:12",
       "album": {
+        "name": "No Sugar in My Coffee",
+        "url": "https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "No Sugar in My Coffee",
+      "url": "https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f"
+    },
+    {
+      "added_at": "2026-05-30 05:14:12",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2026-05-30 05:14:12",
-      "album": {
-        "name": "No Sugar in My Coffee",
-        "url": "https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 191414,
-      "name": "No Sugar in My Coffee",
-      "url": "https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f"
     },
     {
       "added_at": "2026-05-30 05:14:12",

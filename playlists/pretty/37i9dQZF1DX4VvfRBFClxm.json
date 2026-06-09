@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1464576,
+  "num_followers": 1464534,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 298133,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Chandelier - Piano Version",
-      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
+      "duration_ms": 241693,
+      "name": "Chandelier - Piano Version",
+      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Jamie Lawson",
         "url": "https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mercy (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Mercy - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Most Girls (Acoustic)",
         "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 200880,
       "name": "Most Girls - Acoustic",
       "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 213600,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 190057,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190057,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "A Good Storm",
-        "url": "https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Fredericks",
-          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "This Fire",
-      "url": "https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Boston Accent",
         "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "A Good Storm",
+        "url": "https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "This Fire",
+      "url": "https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P"
     }
   ],
   "unique_name": "Acoustic Hits",

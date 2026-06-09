@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Zandloopster",
+        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142965,
+      "name": "Zandloopster",
+      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "album": {
         "name": "Zaterdagavond",
         "url": "https://open.spotify.com/album/2eNXac4cpZGTItgobeBcub"
       },

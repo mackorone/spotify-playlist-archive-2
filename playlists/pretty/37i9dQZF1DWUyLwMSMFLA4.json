@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 652108,
+  "num_followers": 652096,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "HOLA PERDIDA",
-        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 166536,
-      "name": "HOLA PERDIDA",
-      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
+      "duration_ms": 212754,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -395,18 +391,22 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+        "name": "HOLA PERDIDA",
+        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 212754,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -463,30 +463,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Rodrigo - Lo mejor del amor",
         "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 344280,
       "name": "Amor Clasificado",
       "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
         "name": "Me Muero de Amor (En Vivo)",
         "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
         "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 143813,
       "name": "Te Perdon\u00e9 Tantas Veces",
       "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214093,
       "name": "Poeta Enamorado",
       "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -883,38 +883,18 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Si Me Tomo una Cerveza (Remix)",
-        "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Oscu",
-          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        },
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 237521,
-      "name": "Si Me Tomo una Cerveza - Remix",
-      "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -951,18 +931,38 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+        "name": "Si Me Tomo una Cerveza (Remix)",
+        "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+      "duration_ms": 237521,
+      "name": "Si Me Tomo una Cerveza - Remix",
+      "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
+        "name": "Rodrigo - La mano de dios",
+        "url": "https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 344186,
+      "name": "La mano de Dios (Homenaje a Diego Maradona)",
+      "url": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
         "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Rodrigo - La mano de dios",
-        "url": "https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 344186,
-      "name": "La mano de Dios (Homenaje a Diego Maradona)",
-      "url": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 243920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1159,22 +1175,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
         "name": "Amor De Chat (Remix)",
         "url": "https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
+      "duration_ms": 178453,
+      "name": "Tengo la Primicia",
+      "url": "https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1287,22 +1303,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "Tengo la Primicia",
-      "url": "https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 224946,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Con S\u00edndrome de Abstinencia",
         "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2026-05-29 20:59:28",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-05-29 20:59:28",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2026-05-29 20:59:28",
-      "album": {
         "name": "Revoluci\u00f3n Fatal",
         "url": "https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 270880,
       "name": "Comadre Compadre",
       "url": "https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr"
+    },
+    {
+      "added_at": "2026-05-29 20:59:28",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2026-05-29 20:59:28",

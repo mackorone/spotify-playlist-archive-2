@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,475 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,568 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 24 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 |
 | 25 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
 | 26 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
-| 27 | [Back In The U.S.S.R\. \- Remastered 2009](https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:43 |
-| 28 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
+| 27 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
+| 28 | [Back In The U.S.S.R\. \- Remastered 2009](https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:43 |
 | 29 | [The End](https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 11:43 |
 | 30 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 31 | [Up On Cripple Creek](https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 4:30 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 41 | [In\-A\-Gadda\-Da\-Vida \- 2006 Remaster Full\-Length](https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [In\-A\-Gadda\-Da\-Vida](https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI) | 17:04 |
 | 42 | [Jumpin' Jack Flash \- Mono](https://open.spotify.com/track/55LRDFmsuazr533WrtHHW9) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:39 |
 | 43 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
-| 44 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
-| 45 | [Evil Ways](https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT) | 3:57 |
+| 44 | [Evil Ways](https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT) | 3:57 |
+| 45 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
 | 46 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
 | 47 | [Strychnine](https://open.spotify.com/track/6u7UrwiZERRglVNSpgmxNf) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:13 |
 | 48 | [Summertime Blues](https://open.spotify.com/track/7J8A3XOuGFnGheoSsHUXC8) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Vincebus Eruptum](https://open.spotify.com/album/3dAjO3dyUP7edWoE1OeB7b) | 3:47 |

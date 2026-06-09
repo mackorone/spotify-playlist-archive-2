@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: KI/KI",
-  "num_followers": 1036746,
+  "num_followers": 1036592,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "Poco yo (Remix) [En Vivo]",
-        "url": "https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 415972,
-      "name": "Poco yo (Remix) [En Vivo]",
-      "url": "https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 271586,
       "name": "Hungamaa Ho Gaya",
       "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
+        "name": "Poco yo (Remix) [En Vivo]",
+        "url": "https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 415972,
+      "name": "Poco yo (Remix) [En Vivo]",
+      "url": "https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/51UnncspbHO6tgC7dG9YVf"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
         "name": "Dwa s\u0142o\u0144ca",
         "url": "https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 197793,
       "name": "Dwa s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/51UnncspbHO6tgC7dG9YVf"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
+        "name": "Para Da Pa Dodu",
+        "url": "https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "Paulinha",
+          "url": "https://open.spotify.com/artist/6QreKWSo4ectaWUuRmIBjU"
+        }
+      ],
+      "duration_ms": 197307,
+      "name": "Para Da Pa Dodu",
+      "url": "https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
         "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
         "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
       },
@@ -855,38 +875,18 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "Para Da Pa Dodu",
-        "url": "https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo"
+        "name": "Something Went Wrong",
+        "url": "https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        },
-        {
-          "name": "Paulinha",
-          "url": "https://open.spotify.com/artist/6QreKWSo4ectaWUuRmIBjU"
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
         }
       ],
-      "duration_ms": 197307,
-      "name": "Para Da Pa Dodu",
-      "url": "https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
-        "name": "setidaknya aku telah mencoba",
-        "url": "https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn"
-      },
-      "artists": [
-        {
-          "name": "Alisha Dira",
-          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
-        }
-      ],
-      "duration_ms": 174473,
-      "name": "setidaknya aku telah mencoba",
-      "url": "https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN"
+      "duration_ms": 186602,
+      "name": "Something Went Wrong",
+      "url": "https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW"
     }
   ],
   "unique_name": "EQUAL",

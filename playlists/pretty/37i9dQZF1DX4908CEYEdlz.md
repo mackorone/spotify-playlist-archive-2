@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,061 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,908 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 4 | [Cryogen](https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Cryogen](https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f) | 5:01 |
 | 5 | [Nothing At All](https://open.spotify.com/track/7eqUhtZYZTV2bdM9zPxOkD) | [Reece Young](https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh) | [Nothing At All](https://open.spotify.com/album/6f2nllGbAUwfXCOLR64M1v) | 2:37 |
 | 6 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 7 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
-| 8 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
+| 7 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
+| 8 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
 | 9 | [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 |
 | 10 | [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 |
 | 11 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 47 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
 | 48 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
 | 49 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 |
-| 50 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
-| 51 | [Carnivore](https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 3:11 |
+| 50 | [Carnivore](https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 3:11 |
+| 51 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 52 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 | 53 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
 | 54 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |

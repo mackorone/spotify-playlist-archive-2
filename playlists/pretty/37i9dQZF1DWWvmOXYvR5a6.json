@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BANG YONGGUK(\ubc29\uc6a9\uad6d))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221865,
+  "num_followers": 221944,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -171,30 +171,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
-      },
-      "artists": [
-        {
-          "name": "Yorch",
-          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
-      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "HOPE ON THE STREET VOL.1",
         "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 135120,
       "name": "Don\u2032t do That",
       "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "Jam & Butterfly",
         "url": "https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "The Firstfruit - The 1st Album",
         "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 186120,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "LIVE FAST DIE SKRT",
+        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+      },
+      "artists": [
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "You're So Fine",
+      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -739,22 +759,38 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "LIVE FAST DIE SKRT",
-        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
       "artists": [
         {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 227234,
-      "name": "You're So Fine",
-      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "Vancouver 2",
+        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Vancouver 2",
+      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -779,42 +815,6 @@
       "duration_ms": 170013,
       "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
       "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "Vancouver 2",
-        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Vancouver 2",
-      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -851,6 +851,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -895,22 +911,6 @@
       "duration_ms": 180813,
       "name": "2AM (Feat. CAMO)",
       "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "Star*",
         "url": "https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 219000,
       "name": "Star*",
       "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "DAFT LOVE",
-        "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
-      },
-      "artists": [
-        {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
-      "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "DAFT LOVE",
+        "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
+      "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 181629,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 239983,
       "name": "TORO (feat. Crush)",
       "url": "https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 181629,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "BUZZIN (Feat. Coogie, GRAY)",
-        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 176371,
-      "name": "BUZZIN (Feat. Coogie, GRAY)",
-      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 150967,
       "name": "INSTAGRAM",
       "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "BUZZIN (Feat. Coogie, GRAY)",
+        "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 176371,
+      "name": "BUZZIN (Feat. Coogie, GRAY)",
+      "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "sonogram",
-        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
-      },
-      "artists": [
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        },
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "Too laid back",
-      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "sonogram",
+        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 224397,
+      "name": "Too laid back",
+      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "everybody dies",
-        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+        "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+        "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
         }
       ],
-      "duration_ms": 152079,
-      "name": "everybody dies",
-      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+      "duration_ms": 138293,
+      "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+      "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1563,22 +1567,18 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "Hit Me Up (feat. MINGI of ATEEZ)",
-        "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
       },
       "artists": [
         {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "MINGI",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 138293,
-      "name": "Hit Me Up (feat. MINGI of ATEEZ)",
-      "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "WET",
-        "url": "https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1"
-      },
-      "artists": [
-        {
-          "name": "Molly Yam",
-          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "WET",
-      "url": "https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "WET",
+        "url": "https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1"
+      },
+      "artists": [
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "WET",
+      "url": "https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3"
     },
     {
       "added_at": "2026-06-08 02:13:17",

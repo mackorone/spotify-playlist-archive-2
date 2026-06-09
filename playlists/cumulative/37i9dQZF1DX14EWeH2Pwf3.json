@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "AUTORIT\u00c0",
+        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183597,
+      "name": "AUTORIT\u00c0",
+      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
+    },
+    {
+      "album": {
         "name": "Autostima",
         "url": "https://open.spotify.com/album/1hMyx7jjaESnoYbWwsYAXO"
       },

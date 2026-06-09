@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143661,
+  "num_followers": 143669,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -815,42 +815,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "Vive La Vida (Remix)",
-        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 237754,
-      "name": "Vive La Vida - Remix",
-      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "Me Pasa (Piscis)",
         "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
@@ -871,6 +835,42 @@
       "duration_ms": 201529,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "Vive La Vida (Remix)",
+        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 237754,
+      "name": "Vive La Vida - Remix",
+      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     },
     {
       "added_at": "2026-05-24 07:04:55",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "coletera",
-        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
-      },
-      "artists": [
-        {
-          "name": "Akos",
-          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
-        }
-      ],
-      "duration_ms": 97507,
-      "name": "coletera",
-      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
+        "name": "coletera",
+        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "duration_ms": 97507,
+      "name": "coletera",
+      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
         "name": "ohsaye",
         "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 181346,
       "name": "ohsaye",
       "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
-        "name": "Dolares",
-        "url": "https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dolares",
-      "url": "https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp"
     },
     {
       "added_at": "2026-05-24 07:04:55",
@@ -1719,6 +1703,22 @@
       "duration_ms": 163018,
       "name": "Mesera",
       "url": "https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "Dolares",
+        "url": "https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dolares",
+      "url": "https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp"
     },
     {
       "added_at": "2026-05-24 07:04:55",

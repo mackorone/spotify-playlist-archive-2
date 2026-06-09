@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,351 likes - 35 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,355 likes - 35 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 34 | [Committed to the Con](https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:01 |
 | 35 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 
-Snapshot ID: `aiNjAAAAAABevWy5qh2nCg49VtBBdBH0`
+Snapshot ID: `aiS0gAAAAABJr+cQb24AaSIxUGSOeZvW`

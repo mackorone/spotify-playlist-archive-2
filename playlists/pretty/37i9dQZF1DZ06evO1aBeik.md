@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799,716 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,799,729 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 49 | [Ain’t How It Ends](https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:21 |
 | 50 | [Notice Me](https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:53 |
 
-Snapshot ID: `aiNjAAAAAAAi2wm//jA1tz6aVhx/CtZs`
+Snapshot ID: `aiS0gAAAAADDAt1J/2GVkDfE7YGBqs1A`

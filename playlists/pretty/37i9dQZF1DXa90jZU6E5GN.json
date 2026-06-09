@@ -1,6 +1,6 @@
 {
   "description": "chill it out, take it slow, then you rock out the show\u2728\ud83c\udfa4",
-  "num_followers": 325189,
+  "num_followers": 325203,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-23 12:22:39",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "My Church",
-      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
-    },
-    {
-      "added_at": "2026-03-23 12:22:39",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196760,
       "name": "Here for the Party",
       "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
+    },
+    {
+      "added_at": "2026-03-23 12:22:39",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "My Church",
+      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
     },
     {
       "added_at": "2026-03-23 12:22:39",

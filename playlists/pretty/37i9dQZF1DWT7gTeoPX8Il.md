@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,404 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,451 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 42 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 43 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
 | 44 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
-| 45 | [Bagaimana Kabarmu?](https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Bagaimana Kabarmu?](https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq) | 4:25 |
-| 46 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 |
+| 45 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 |
+| 46 | [Bagaimana Kabarmu?](https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Bagaimana Kabarmu?](https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq) | 4:25 |
 | 47 | [Sendiri](https://open.spotify.com/track/5gecy5VJBKgLMwj8q3OoR9) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Sendiri](https://open.spotify.com/album/6qa8phimspRLQ5Zh5gJPgQ) | 3:12 |
 | 48 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 |
 | 49 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,068 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,458 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 149 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 |
 | 150 | [Ziggy Stardust](https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Ziggy Stardust](https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w) | 3:45 |
 
-Snapshot ID: `AAAAADhDlzHVNC6j4OzUP4BoJooG85/Z`
+Snapshot ID: `AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX`

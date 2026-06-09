@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 37,432 likes - 136 songs - 7 hr 31 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 37,428 likes - 136 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

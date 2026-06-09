@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TREASURE
 
-1,007 songs - 2 day 6 hr 43 min
+1,008 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/track/6jBeNTZcQrzvAMr1p9QBDV) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/album/6ViNM72dBCuPDyJMetsWI6) | 3:29 | 2025-06-02 | 2025-06-25 |
 | [Blow Your Cover](https://open.spotify.com/track/1gmr7JOnYuR9eq4sqVv6pN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Blow Your Cover](https://open.spotify.com/album/5qxa3A2fmTtqzOFTSD6rgQ) | 2:39 | 2024-04-12 | 2024-05-29 |
 | [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 | 2025-09-16 | 2025-10-06 |
-| [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Serenade](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-15 |  |
+| [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Serenade](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-15 | 2026-06-09 |
 | [BLUE \- Japanese ver.](https://open.spotify.com/track/5ELGegnHxGQDRy5mWjgGKh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE \(Japanese ver.\)](https://open.spotify.com/album/7i6ZTJn1LA0V9FDLOEIpC7) | 3:02 | 2025-03-20 | 2025-04-16 |
 | [Blue Flame](https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/6zKaq83ZghJi7NJyy3BDS3) | 3:06 | 2025-06-09 | 2025-10-04 |
 | [Blue Noise](https://open.spotify.com/track/4eZoG6oPWtgQSTq2WO2tfB) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [Blue Noise](https://open.spotify.com/album/6e3Wl1GxjjkKnKeJP9ISah) | 4:12 | 2026-01-15 | 2026-02-24 |
@@ -838,6 +838,7 @@
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-16 | 2026-02-27 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2024-05-08 |
+| [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 | 2026-06-08 |  |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |
 | [Voyager](https://open.spotify.com/track/4dUpvz6olaLXl3YIV3U6Kn) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [DEAD AND](https://open.spotify.com/album/4ZkG5DPuj47UvzoZ2bAVOU) | 3:54 | 2026-04-21 |  |
 | [VVV](https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Unexpected](https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V) | 3:55 | 2025-03-17 | 2025-07-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166448,
+  "num_followers": 166443,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Alligator Bites Never Heal (Extended)",
         "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 171741,
       "name": "TWENTIES",
       "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Gimme Dat",
         "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 316002,
       "name": "Hard Fought Hallelujah (with Jelly Roll)",
       "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Proud Of Me",
         "url": "https://open.spotify.com/album/2wi2ZaPy1mGhZPaWMrmKpJ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 230720,
       "name": "Proud Of Me (ft. Meek Mill)",
       "url": "https://open.spotify.com/track/1ZEIchL5Gy4g5DYQaqEbzQ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 245435,
-      "name": "Happy Mistake",
-      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "Nose On The Grindstone",
-      "url": "https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
@@ -1839,6 +1839,26 @@
       "duration_ms": 595160,
       "name": "Night Terror",
       "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1895,26 +1915,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Y Lo Que Viene",
-        "url": "https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 184050,
-      "name": "La Del Proceso",
-      "url": "https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Reconstruction",
         "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
       },
@@ -1927,22 +1927,6 @@
       "duration_ms": 175888,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Something Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
       },
@@ -1975,26 +1975,6 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Hard Headed Woman",
-        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
-      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2023,6 +2003,26 @@
       "duration_ms": 214762,
       "name": "Ancient Light",
       "url": "https://open.spotify.com/track/7zW1oZZy5m8zpJZfRfwGKv"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Hard Headed Woman",
+        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
+      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
     },
     {
       "added_at": "2025-11-12 17:50:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 127 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 127 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 79 | [Overture](https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG) | [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:13 |
 | 80 | [Blow High, Blow Low](https://open.spotify.com/track/6LbkEYIVemBYdPQeHzdgTG) | [Amar Ramasar](https://open.spotify.com/artist/5cc54mMVl3oSmNXDSupV1K), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:45 |
 | 81 | [This Was A Real Nice Clambake](https://open.spotify.com/track/5hLQMMAEUz2T0xMmrJ5GbS) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 3:20 |
-| 82 | [The Sound of Music](https://open.spotify.com/track/1PSnRPPB8jxLwu6OyMplq3) | [Mark Hellinger Theatre Orchestra](https://open.spotify.com/artist/27ARc5Svme0s5yXIuUnse6), [Frederick Dvonch](https://open.spotify.com/artist/3PTEv5PB7Y60Xs26d5OE9f), [Mark Hellinger Theatre Cast Ensemble](https://open.spotify.com/artist/1b9pnt4AsTyHWWQSenDTFG), [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw) | [The Sound of Music \(Original Broadway Cast 1959\)](https://open.spotify.com/album/21s4nbxQDUTDgqvpFewP0k) | 2:43 |
+| 82 | [The Sound of Music](https://open.spotify.com/track/26pqz8hPa7OQYqLzqdGLue) | [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw) | [The Peter Pan Story](https://open.spotify.com/album/7GAKdpbhK9cYMRYuXqc3zG) | 2:49 |
 | 83 | [You're A Queer One, Julie Jordan](https://open.spotify.com/track/0qWFfmu78XFDGlKghWKWpw) | [Barbara Ruick](https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Carousel \( 1956 Film Score\)](https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w) | 1:23 |
 | 84 | [All At Once You Love Her \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/2pN4qCOAANvkYPfdsrw4sH) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 5:26 |
 | 85 | [Stout\-Hearted Men](https://open.spotify.com/track/5X2sF69n3rck2PhqWqqdqr) | [Shooby Taylor](https://open.spotify.com/artist/4hulxBc7rgFgv6l56Ehfn1) | [Songs in the Key of Z, Vol\. 1: The Curious Universe of Outsider Music](https://open.spotify.com/album/7hkWmPdLAFG3WnXJKBKyRL) | 2:44 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 126 | [Something New Is in My Heart](https://open.spotify.com/track/0jwV2S79JBskDy2oyX5FQB) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [The Columbia Album of Sigmund Romberg](https://open.spotify.com/album/3X67rvcIdJa8xVybo7y4E9) | 3:07 |
 | 127 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AcTnXAAAAADCIBO9MCew2FR1JjZSLRrx`
+Snapshot ID: `AcTs/AAAAABxvqld/J1Ew6067V6/VzJ8`

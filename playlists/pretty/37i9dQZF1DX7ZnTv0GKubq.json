@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373535,
+  "num_followers": 373514,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/6k8ddx9AAqUNRCAqndnzXo"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/6EyhlBUiRvHKIWHfmOleem"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "DIFFERENT KINDA LOVE",
         "url": "https://open.spotify.com/album/2RVhyhMsl9cvXqegtfDaDI"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 352597,
       "name": "I AM ENOUGH",
       "url": "https://open.spotify.com/track/0EekRDc7QPWl1IPn9xjkBE"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/6k8ddx9AAqUNRCAqndnzXo"
-      },
-      "artists": [
-        {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/6EyhlBUiRvHKIWHfmOleem"
     },
     {
       "added_at": "2026-04-09 11:21:32",

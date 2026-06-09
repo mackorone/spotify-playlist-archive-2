@@ -25063,6 +25063,24 @@
     },
     {
       "album": {
+        "name": "Melissa I'm Drunk And Outside",
+        "url": "https://open.spotify.com/album/7GmXYIFfByeWpiUXv5t6vn"
+      },
+      "artists": [
+        {
+          "name": "Jay Baptiste",
+          "url": "https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99272,
+      "name": "Melissa I'm Drunk And Outside",
+      "url": "https://open.spotify.com/track/3uary9jAaYITd9tT7YkSU0"
+    },
+    {
+      "album": {
         "name": "Mera Dil",
         "url": "https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c"
       },

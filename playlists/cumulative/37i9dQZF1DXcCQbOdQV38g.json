@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 175265,
       "name": "Amazin'",
       "url": "https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza"
@@ -320,6 +320,28 @@
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "album": {
+        "name": "Baco In Monaco",
+        "url": "https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132824,
+      "name": "Baco In Monaco",
+      "url": "https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62"
     },
     {
       "album": {
@@ -462,6 +484,42 @@
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
+        "name": "Ciao, Doei, Adios",
+        "url": "https://open.spotify.com/album/7KeBYlkgXDPb3jF0HXDRgK"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "Ciao, Doei, Adios",
+      "url": "https://open.spotify.com/track/761xNUBIXQ0tCe9YuDPf8j"
+    },
+    {
+      "album": {
+        "name": "Cubaanse Caf\u00e9",
+        "url": "https://open.spotify.com/album/0K7LIzZQOHu8ZNqHjDyUps"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195232,
+      "name": "Cubaanse Caf\u00e9",
+      "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
     },
     {
       "album": {
@@ -2233,6 +2291,50 @@
     },
     {
       "album": {
+        "name": "Lekker Lekker",
+        "url": "https://open.spotify.com/album/7jCHjcpoi7doRH6YA6uLh4"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "DJ Willem de Wijs",
+          "url": "https://open.spotify.com/artist/4slGWHVtKcrSjI3hidTZyO"
+        },
+        {
+          "name": "Feest DJ Bas",
+          "url": "https://open.spotify.com/artist/74oh9KiThjw0TySGkRvphY"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Zakka Zakka",
+      "url": "https://open.spotify.com/track/03Y7cuBXfUiyHWbT9Bfrfs"
+    },
+    {
+      "album": {
+        "name": "Zandloopster",
+        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142965,
+      "name": "Zandloopster",
+      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "album": {
         "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx"
       },
@@ -2428,6 +2530,24 @@
       "duration_ms": 167002,
       "name": "Zomernacht In Griekenland",
       "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+    },
+    {
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcCQbOdQV38g"

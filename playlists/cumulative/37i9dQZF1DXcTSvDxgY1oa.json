@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 217781,
       "name": "de franse",
       "url": "https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj"
@@ -2916,6 +2916,24 @@
       "duration_ms": 173506,
       "name": "In M'n Hoofd",
       "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
+    },
+    {
+      "album": {
+        "name": "in mei",
+        "url": "https://open.spotify.com/album/1TnQE62KG35F99eYKKXIJP"
+      },
+      "artists": [
+        {
+          "name": "tays",
+          "url": "https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "in mei",
+      "url": "https://open.spotify.com/track/6sMXMG24t5fHgWVdTnjd79"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,603 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,573 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 7 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 8 | [Bruddas](https://open.spotify.com/track/1ZNxDMwgQXmFUTfeVEAtL9) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bruddas](https://open.spotify.com/album/4est0ZP9XGY1ADTb1ZkZ4E) | 3:03 |
 | 9 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
-| 10 | [I Like… \(feat\. BunnaB\)](https://open.spotify.com/track/22xawiL0Rn6KeWI7jZ1h1H) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:28 |
+| 10 | [I Like… \(feat\. BunnaB\)](https://open.spotify.com/track/22xawiL0Rn6KeWI7jZ1h1H) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:24 |
 | 11 | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7) | 2:05 |
 | 12 | [Plays of the Week](https://open.spotify.com/track/2h2mqn6TJCwU1aF1KhyYxB) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:49 |
 | 13 | [Get Money Girl](https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107794,
+  "num_followers": 107798,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 179286,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Quien Vive",
         "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
       },
@@ -319,18 +299,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
       },
       "artists": [
         {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+      "duration_ms": 179286,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -347,6 +331,22 @@
       "duration_ms": 176074,
       "name": "NADA",
       "url": "https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+      },
+      "artists": [
+        {
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Waymaker (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1oTCGEEJlZXPaSQFoO45c1"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 393750,
       "name": "Waymaker (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/3zuzfS5hHgSTzTUW6bw6Z8"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Mi Cruz",
-        "url": "https://open.spotify.com/album/4TCvbFH9rgpmqoWEp2MBVK"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Mi Cruz",
-      "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+        "name": "Mi Cruz",
+        "url": "https://open.spotify.com/album/4TCvbFH9rgpmqoWEp2MBVK"
       },
       "artists": [
         {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
+      "duration_ms": 188280,
+      "name": "Mi Cruz",
+      "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -639,6 +623,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "Faltabas T\u00fa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2IYqfznGFbFRWUMJ8bcLcy"
       },
@@ -655,22 +655,18 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "La Verdad EP",
-        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
       },
       "artists": [
         {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
         }
       ],
-      "duration_ms": 182474,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -695,18 +691,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+        "name": "La Verdad EP",
+        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
       "artists": [
         {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
         }
       ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+      "duration_ms": 182474,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Envero",
-        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Subiendo",
-      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Envero",
+        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Subiendo",
+      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 179000,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "PR24SIETE Soy de Aqu\u00ed",
         "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 164516,
       "name": "QUIERO A MI PUEBLO (PR24SIETE)",
       "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+      },
+      "artists": [
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+        }
+      ],
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "Ola de Calma",
         "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1151,22 +1167,6 @@
       "duration_ms": 234432,
       "name": "Me Encontr\u00f3",
       "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
+        "name": "CONMIGO VA",
+        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "CONMIGO VA",
+      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
         "name": "Lo Mejor De La Vida",
         "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
       },
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "CONMIGO VA",
-        "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "CONMIGO VA",
-      "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "NAZARENO",
         "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 188429,
       "name": "Bendita Prueba",
       "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "Adorar A Dios",
         "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 195133,
       "name": "Nos Vamos A Gozar",
       "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "La Criolla",
-        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
-      },
-      "artists": [
-        {
-          "name": "BuiltOn Purpose",
-          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
-        },
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "La Criolla",
-      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
       },
@@ -1507,18 +1487,22 @@
     {
       "added_at": "2026-05-23 01:44:44",
       "album": {
-        "name": "Esencia (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+        "name": "La Criolla",
+        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "BuiltOn Purpose",
+          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
+        },
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
         }
       ],
-      "duration_ms": 267769,
-      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+      "duration_ms": 160285,
+      "name": "La Criolla",
+      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1535,6 +1519,38 @@
       "duration_ms": 185598,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Esencia (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 267769,
+      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+    },
+    {
+      "added_at": "2026-05-23 01:44:44",
+      "album": {
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2026-05-23 01:44:44",
@@ -1563,22 +1579,6 @@
       "duration_ms": 170898,
       "name": "Tus Planes",
       "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
-    },
-    {
-      "added_at": "2026-05-23 01:44:44",
-      "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2026-05-23 01:44:44",

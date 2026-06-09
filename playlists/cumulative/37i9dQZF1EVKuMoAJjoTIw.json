@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZ1r57NVQAAG>The Cure</a>, <a href=spotify:playlist:37i9dQZF1EIZdd6v2TrO2y>Juice WRLD</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 316056,
       "name": "3la 3eny",
       "url": "https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 323448,
       "name": "Ana Mosammem",
       "url": "https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 281211,
       "name": "Awel Kol Haga",
       "url": "https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 231823,
       "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
       "url": "https://open.spotify.com/track/2E5GSNzN4NRoS3SBtdMqUR"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 364068,
       "name": "Be'dna Laih",
       "url": "https://open.spotify.com/track/1SyXzPwgYooxNwcxwTrH6G"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 342653,
       "name": "Black",
       "url": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 252540,
       "name": "Cinta Dan Benci",
       "url": "https://open.spotify.com/track/42N27sa7uU9kJtj8NKCznx"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 252540,
       "name": "Hapus Aku",
       "url": "https://open.spotify.com/track/0gwOixLwtjRpnC52W7aHYR"
@@ -8668,7 +8668,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
@@ -8946,7 +8946,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 208336,
       "name": "L'\u00e2me du phoenix",
       "url": "https://open.spotify.com/track/1rmu9NFsa2warBZtKgzvqn"
@@ -10298,7 +10298,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
@@ -10840,7 +10840,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
@@ -14326,7 +14326,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 242106,
       "name": "Serpihan Hati",
       "url": "https://open.spotify.com/track/4b1kSgvZk3yfOkYrRD8utB"
@@ -15568,7 +15568,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 255306,
       "name": "Tadfe Gi",
       "url": "https://open.spotify.com/track/4qmnKakW5quqq15m1toRpH"
@@ -15846,7 +15846,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Te Esper\u00e9",
       "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
@@ -16860,7 +16860,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
@@ -17598,7 +17598,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 282378,
       "name": "Wasalt Ma3ak",
       "url": "https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L"
@@ -18286,7 +18286,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -18972,7 +18972,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/7JN6ZcsdAz2e1JWexv8edB"
@@ -19008,7 +19008,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 242783,
       "name": "\u0628\u062d\u0643\u064a\u0644\u0643 \u0639\u0646 \u0627\u0644\u0623\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt"

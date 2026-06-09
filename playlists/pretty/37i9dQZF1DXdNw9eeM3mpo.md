@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Vicente Cifuentes y Joselo Osses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,117 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,138 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 27 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 28 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 29 | [Trébol](https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [FLORA](https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx) | 3:37 |
-| 30 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 31 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 30 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 31 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 32 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
 | 33 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 34 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 93 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 94 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 95 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 96 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
-| 97 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
-| 98 | [Fuera de Control \- En Vivo](https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [En Vivo Desde el Teatro Metropólitan](https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc) | 4:01 |
-| 99 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
+| 96 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
+| 97 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
+| 98 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
+| 99 | [Fuera de Control \- En Vivo](https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [En Vivo Desde el Teatro Metropólitan](https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc) | 4:01 |
 | 100 | [¡Hey Tú!](https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [¡Hey Tú!](https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM) | 3:12 |
 
 Snapshot ID: `AAAAAD4npx2rvcf7sUayntozqTBPBRpE`

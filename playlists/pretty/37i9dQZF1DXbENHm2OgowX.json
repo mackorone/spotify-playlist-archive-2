@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 344836,
+  "num_followers": 345099,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -211,42 +211,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Forever Held",
-        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 158651,
-      "name": "Forever Held",
-      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/2VY88ocDU7BdpXI3sK0Mn6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Marcella",
-          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
-        }
-      ],
-      "duration_ms": 419076,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gGIaiIRbkGntFSK5FjcL9"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "believe",
         "url": "https://open.spotify.com/album/3d9zz7wizBTlH8mT6SmOhj"
       },
@@ -267,6 +231,42 @@
       "duration_ms": 161259,
       "name": "believe",
       "url": "https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/2VY88ocDU7BdpXI3sK0Mn6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "duration_ms": 419076,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gGIaiIRbkGntFSK5FjcL9"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Forever Held",
+        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 158651,
+      "name": "Forever Held",
+      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "RITUAL (nothing is lost)",
-        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 195044,
-      "name": "RITUAL (nothing is lost)",
-      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "drift (ambient remixes)",
         "url": "https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 199960,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "the hardest part",
-        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
-      },
-      "artists": [
-        {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "the hardest part",
-      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 159000,
       "name": "wake up",
       "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "the hardest part",
+        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "the hardest part",
+      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "a long road",
-        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "a long road",
-      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "i was always there for you",
         "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 172444,
       "name": "Blues",
       "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "a long road",
+        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "a long road",
+      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "losing",
-        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
-      },
-      "artists": [
-        {
-          "name": "donnow.",
-          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
-        },
-        {
-          "name": "julez",
-          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
-        }
-      ],
-      "duration_ms": 90861,
-      "name": "losing",
-      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
+      },
+      "artists": [
+        {
+          "name": "Aurenth",
+          "url": "https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb"
+        },
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        }
+      ],
+      "duration_ms": 98644,
+      "name": "EXIT",
+      "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -923,22 +923,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
+        "name": "losing",
+        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
       },
       "artists": [
         {
-          "name": "Aurenth",
-          "url": "https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb"
+          "name": "donnow.",
+          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
         },
         {
-          "name": "CADYY",
-          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
         }
       ],
-      "duration_ms": 98644,
-      "name": "EXIT",
-      "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
+      "duration_ms": 90861,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Bathed in Grey",
-        "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
+        "name": "lost in a memory",
+        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
       },
       "artists": [
         {
-          "name": "Michael FK",
-          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
         }
       ],
-      "duration_ms": 253090,
-      "name": "Bathed in Grey",
-      "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
+      "duration_ms": 168013,
+      "name": "lost in a memory",
+      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "Bathed in Grey",
+        "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
+      },
+      "artists": [
+        {
+          "name": "Michael FK",
+          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Bathed in Grey",
+      "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lost in a memory",
-        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "\u00d8nedream",
-          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 168013,
-      "name": "lost in a memory",
-      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1379,22 +1395,6 @@
       "duration_ms": 103208,
       "name": "lonely nights",
       "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "forgiveness",
-        "url": "https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq"
+        "name": "iel te guide (lumineuse arp v)",
+        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
       },
       "artists": [
         {
-          "name": "l\u00f8nelyspirit",
-          "url": "https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih"
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
         }
       ],
-      "duration_ms": 128410,
-      "name": "forgiveness",
-      "url": "https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf"
+      "duration_ms": 176000,
+      "name": "iel te guide (lumineuse arp v)",
+      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
     }
   ],
   "unique_name": "gloomcore",

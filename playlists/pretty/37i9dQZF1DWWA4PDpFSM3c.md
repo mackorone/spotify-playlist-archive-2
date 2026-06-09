@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,686 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,721 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 46 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |
 | 47 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 48 | [Mella Mellagaa](https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [ABCD \- American Born Confused Desi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt) | 4:03 |
-| 49 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
-| 50 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
+| 49 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
+| 50 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
 Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`

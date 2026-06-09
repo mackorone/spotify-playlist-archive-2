@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9258,
+  "num_followers": 9259,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACBMYgelOGmoF3nc/afzroS",
+  "snapshot_id": "aiS0gAAAAADEDY+Xf1bvwuvceh8SSEJq",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 211925,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 211925,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -255,6 +255,26 @@
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 187341,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
     },
     {
       "added_at": null,
@@ -287,26 +307,6 @@
       "duration_ms": 203493,
       "name": "Both",
       "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 187341,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
     },
     {
       "added_at": null,
@@ -347,58 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "We're Not Friends",
-      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174034,
-      "name": "How Honest Do You Want Me To Be?",
-      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -428,25 +376,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 200557,
-      "name": "Treated Me Good",
-      "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
+      "duration_ms": 192493,
+      "name": "We're Not Friends",
+      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
     },
     {
       "added_at": null,
@@ -460,9 +392,29 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 219645,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
+      "duration_ms": 174034,
+      "name": "How Honest Do You Want Me To Be?",
+      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
       "added_at": null,
@@ -495,6 +447,54 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 219645,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 200557,
+      "name": "Treated Me Good",
+      "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
     },
     {
       "added_at": null,

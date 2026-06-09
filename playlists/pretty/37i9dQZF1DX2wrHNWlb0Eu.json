@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 125107,
+  "num_followers": 125102,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
         "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 225200,
       "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e08\u0e35\u0e1a",
         "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 224261,
       "name": "\u0e08\u0e35\u0e1a",
       "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "Nude",
-        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
-      },
-      "artists": [
-        {
-          "name": "JETSET'ER",
-          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "\u0e08\u0e39\u0e1a",
-      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
         "url": "https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 223000,
       "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "Nude",
+        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
+      },
+      "artists": [
+        {
+          "name": "JETSET'ER",
+          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "\u0e08\u0e39\u0e1a",
+      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
-      },
-      "artists": [
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
         "url": "https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 185099,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
       "url": "https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
         "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 259285,
       "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e40\u0e21\u0e30",
+        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e21\u0e30",
+      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1127,22 +1143,6 @@
       "duration_ms": 289777,
       "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
       "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
-        "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
-      "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1183,44 +1183,8 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "This City Won\u2019t Be Lonely Anymore",
-        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        },
-        {
-          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
-          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
-      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e40\u0e21\u0e30",
-        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
+        "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
+        "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
       },
       "artists": [
         {
@@ -1228,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
         }
       ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e21\u0e30",
-      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
+      "duration_ms": 178909,
+      "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
+      "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1263,6 +1227,58 @@
       "duration_ms": 172000,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
       "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "This City Won\u2019t Be Lonely Anymore",
+        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        {
+          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
+          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
+      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "The First Album",
+        "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 220793,
+      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
+      "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1335,38 +1351,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "The First Album",
-        "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 220793,
-      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
-      "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "The Lift",
         "url": "https://open.spotify.com/album/2bCxdYtZSLfWEAX9QDUtaC"
       },
@@ -1379,6 +1363,42 @@
       "duration_ms": 244150,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/1768MAJdcsOkLd9UVIOvaN"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
+        "url": "https://open.spotify.com/album/4iMIsP1KSb7HYUyXbmTnV3"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        },
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "duration_ms": 193894,
+      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
+      "url": "https://open.spotify.com/track/4KP9dagbB3Da9jnpfIEG7P"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
+        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
-        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
-      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
         "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
       },
@@ -1459,26 +1463,6 @@
       "duration_ms": 246434,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
       "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-        "url": "https://open.spotify.com/album/4iMIsP1KSb7HYUyXbmTnV3"
-      },
-      "artists": [
-        {
-          "name": "JAYLERR",
-          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
-        },
-        {
-          "name": "Ice Paris",
-          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-      "url": "https://open.spotify.com/track/4KP9dagbB3Da9jnpfIEG7P"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1499,6 +1483,22 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
+        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1531,6 +1531,22 @@
       "duration_ms": 321699,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
       "url": "https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5yx6lGz8Y7gubj1Iz13YlI"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/1ux0god9zERqovPLrzRdBT"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1679,26 +1695,6 @@
       "duration_ms": 238651,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
       "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "Urban Lullaby",
-        "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
-      },
-      "artists": [
-        {
-          "name": "Lula",
-          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
-        },
-        {
-          "name": "Tar Paradox",
-          "url": "https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
-      "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

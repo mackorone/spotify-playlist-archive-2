@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -11030,7 +11030,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 209783,
       "name": "Debesis Va\u013c\u0101",
       "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
@@ -11156,7 +11156,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -40808,7 +40808,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -45944,7 +45944,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -55862,7 +55862,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -59706,6 +59706,24 @@
     {
       "album": {
         "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
+        "url": "https://open.spotify.com/album/71snyTQfMhWDAidlGRc6TF"
+      },
+      "artists": [
+        {
+          "name": "ForceTx",
+          "url": "https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137822,
+      "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
+      "url": "https://open.spotify.com/track/24IQoDvIml7xEmazxL7wBD"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
         "url": "https://open.spotify.com/album/2aEiDE3Va7Gk1qOheIlOhb"
       },
       "artists": [
@@ -59734,7 +59752,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 138057,
       "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
       "url": "https://open.spotify.com/track/6UzkODYaNumibboLMCyupP"

@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/15xStlbfNKfGFj58pyeMEZ"
+      },
+      "artists": [
+        {
+          "name": "Bau\u00ea",
+          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176260,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/0P6EyW6oyu5BKO84duMhxa"
+    },
+    {
+      "album": {
         "name": "At\u00e9 o Amanhecer",
         "url": "https://open.spotify.com/album/5ludmz2fQPSnAZgl5Ynff8"
       },
@@ -8264,6 +8282,10 @@
         {
           "name": "vvallace",
           "url": "https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO"
+        },
+        {
+          "name": "Mvt",
+          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
         }
       ],
       "date_added": "2025-03-05",

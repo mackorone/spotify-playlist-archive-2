@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,664 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,676 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
 | 50 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:17 |
 
-Snapshot ID: `MbjqWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mbo00AAAAAAAAAAAAAAAAAAAAAAAAGVu`

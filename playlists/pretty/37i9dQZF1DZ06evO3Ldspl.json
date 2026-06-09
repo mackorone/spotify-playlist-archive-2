@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 11016,
+  "num_followers": 11020,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACT1ahXntw6KwPDeod0736u",
+  "snapshot_id": "aiS0gAAAAABHpx2xsqCLaDw+DWnF947I",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "Recorriendo a Venezuela",
-      "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Cach\u00e9",
         "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 264720,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Recorriendo a Venezuela",
+      "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 316760,
-      "name": "El Llanto de un Rey",
-      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Binomio De Oro",
         "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 230173,
       "name": "Momentos de Amor",
       "url": "https://open.spotify.com/track/43BLyngSXE5ddwzhnL4fxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 316760,
+      "name": "El Llanto de un Rey",
+      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Mucha Calidad",
+        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 278267,
-      "name": "Como Te Quiero",
-      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
+      "duration_ms": 263493,
+      "name": "Por Eso Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5bDbJzJvVPkDU0TWejXr58"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucha Calidad",
-        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 263493,
-      "name": "Por Eso Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5bDbJzJvVPkDU0TWejXr58"
+      "duration_ms": 278267,
+      "name": "Como Te Quiero",
+      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Mucha Calidad",
+        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 230520,
-      "name": "Decid\u00ed Cambiar",
-      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
+      "duration_ms": 274800,
+      "name": "A Mano Dura",
+      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucha Calidad",
-        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 274800,
-      "name": "A Mano Dura",
-      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
+      "duration_ms": 230520,
+      "name": "Decid\u00ed Cambiar",
+      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Para Adorarte M\u00e1s",
-      "url": "https://open.spotify.com/track/6XRorzybNPsFdIpA16F4Zo"
+      "duration_ms": 250102,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 250102,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq"
+      "duration_ms": 277560,
+      "name": "Para Adorarte M\u00e1s",
+      "url": "https://open.spotify.com/track/6XRorzybNPsFdIpA16F4Zo"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Lo Alto",
-        "url": "https://open.spotify.com/album/0Cf0Q1ZyT4jiamI2P58nIs"
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Reconozco que te amo",
-      "url": "https://open.spotify.com/track/18L8oObH3RBE0SDyRMBuUM"
+      "duration_ms": 243995,
+      "name": "S\u00f3lo un Recuerdo",
+      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+        "name": "Por Lo Alto",
+        "url": "https://open.spotify.com/album/0Cf0Q1ZyT4jiamI2P58nIs"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 243995,
-      "name": "S\u00f3lo un Recuerdo",
-      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
+      "duration_ms": 229640,
+      "name": "Reconozco que te amo",
+      "url": "https://open.spotify.com/track/18L8oObH3RBE0SDyRMBuUM"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
       "duration_ms": 250933,
       "name": "Miedo Al Amor",
       "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 262617,
+      "name": "T\u00fa No Notas",
+      "url": "https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 231173,
       "name": "Bonita, Bonita",
       "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 262617,
-      "name": "T\u00fa No Notas",
-      "url": "https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT"
     },
     {
       "added_at": null,

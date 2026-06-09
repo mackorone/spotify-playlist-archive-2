@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,934 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,933 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 50 | [Bye Bye Bye](https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:22 |
 
-Snapshot ID: `aiNjAAAAAAAcnMMr4x94e9VZejnspewX`
+Snapshot ID: `aiS0gAAAAAB1Y91DFD1YVTz2S/MW+VE8`

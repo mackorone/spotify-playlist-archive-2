@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Alex Warren, badmómzjay, Taylor Swift, Ozuna,  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,756 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,757 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 5 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 |
 | 6 | [VIVALDI](https://open.spotify.com/track/67DFA56fggkCOEQik4kaM6) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [FOREVER RR](https://open.spotify.com/album/6PggRtQxw5oJHGVWE7OhJI) | 2:55 |
 | 7 | [pirouetten](https://open.spotify.com/track/2EXoZOOeQ170NVUbwlaIhO) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [pirouetten](https://open.spotify.com/album/35ezrN378gBIK6OLHAhvcE) | 2:02 |
-| 8 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
+| 8 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Maximum](https://open.spotify.com/artist/2fD6O2xt1zGLGGWHkR0k1n) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
 | 9 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 | 10 | [Love Sensation \- Radio Edit](https://open.spotify.com/track/2IfZplDpYOpK2sADF1A9Su) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Love Sensation](https://open.spotify.com/album/2kWMFjZvvOYNk7H89MsqI2) | 3:02 |
 | 11 | [Kein Limit](https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Kein Limit](https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O) | 2:01 |

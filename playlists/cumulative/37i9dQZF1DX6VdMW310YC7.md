@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,901 songs - 5 day 9 hr 5 min
+1,902 songs - 5 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,7 @@
 | [Focus on the Future](https://open.spotify.com/track/0ir5wRRM1F9E9sWVDiV3cx) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:55 | 2020-03-17 | 2022-01-13 |
 | [Follow](https://open.spotify.com/track/42DWH94DHBMQLJChi2PYh1) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Follow EP](https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE) | 4:56 | 2025-06-27 | 2025-07-05 |
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
-| [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 |  |
+| [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 | 2026-06-09 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For A Day](https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Koppo](https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [For A Day](https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m) | 6:27 | 2026-03-20 | 2026-04-04 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
@@ -704,6 +704,7 @@
 | [Heaven On Loan](https://open.spotify.com/track/02LZjoWRzIMWwMbFc96697) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [Heaven On Loan](https://open.spotify.com/album/7EBFYT5zLekjjiMCUDQqeS) | 3:43 | 2022-03-18 | 2022-07-29 |
 | [hei](https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [hei](https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR) | 4:00 | 2022-08-26 | 2022-09-10 |
 | [Heirloom](https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN) | 4:43 | 2022-04-22 | 2022-07-29 |
+| [Hello \(The Sun Is Up Where Are You\)](https://open.spotify.com/track/3RzMm7UF45THfWav8wVdQa) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Hello \(The Sun Is Up Where Are You\)](https://open.spotify.com/album/0sneYAyvNpsY7X8hJN8zro) | 3:11 | 2026-06-08 |  |
 | [Hello Sun](https://open.spotify.com/track/0Q1Qacx7PAcTlVxeovkmJL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 3:35 | 2020-07-03 | 2022-04-21 |
 | [Her Theme](https://open.spotify.com/track/5Yrb9rFCDWnRSTxryTFS1n) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Her Theme](https://open.spotify.com/album/37t0eo2UQzsyTUPUDnQqJ4) | 4:06 | 2020-12-04 | 2022-02-18 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2021-11-12 | 2023-09-09 |

@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
+    },
+    {
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/284ZGUDp6UFdxk6Dp2ZxwL"
       },
@@ -2530,6 +2548,28 @@
       "duration_ms": 147209,
       "name": "Blue Strips",
       "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
+    },
+    {
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "album": {
@@ -4240,7 +4280,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
@@ -4388,6 +4428,24 @@
       "duration_ms": 162031,
       "name": "Count To 4",
       "url": "https://open.spotify.com/track/7p4wucD9c7XQVZczrUSQKH"
+    },
+    {
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
       "album": {
@@ -6040,7 +6098,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
@@ -9441,6 +9499,24 @@
     },
     {
       "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174156,
+      "name": "Happy 2 Be",
+      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
+    },
+    {
+      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -11447,6 +11523,24 @@
     },
     {
       "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
       },
@@ -11516,7 +11610,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 377003,
       "name": "I Know You're Hurting.",
       "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
@@ -11732,7 +11826,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
@@ -13178,7 +13272,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
@@ -17975,6 +18069,24 @@
     },
     {
       "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "album": {
         "name": "Past Won't Leave My Bed",
         "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
       },
@@ -19560,7 +19672,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -22640,7 +22752,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 212009,
       "name": "Talking To Jesus",
       "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
@@ -22706,6 +22818,24 @@
       "duration_ms": 157689,
       "name": "Taste of Heaven",
       "url": "https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh"
+    },
+    {
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7"
     },
     {
       "album": {
@@ -23767,6 +23897,24 @@
     },
     {
       "album": {
+        "name": "Underthink It",
+        "url": "https://open.spotify.com/album/1HRvuPg7XXwWmaRATNKk0B"
+      },
+      "artists": [
+        {
+          "name": "Janet Livv",
+          "url": "https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150053,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/5TimVS2mjlTKSkmkB4BGfk"
+    },
+    {
+      "album": {
         "name": "Through the fire",
         "url": "https://open.spotify.com/album/0dQGqkwIfb3NZGwdw8BE9t"
       },
@@ -24178,7 +24326,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 230418,
       "name": "Turnstile",
       "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"

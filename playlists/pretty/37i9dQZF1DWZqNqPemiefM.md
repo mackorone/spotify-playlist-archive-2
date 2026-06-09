@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: tamanaramen
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,652 likes - 163 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,684 likes - 163 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 162 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 163 | [Pray Play](https://open.spotify.com/track/0g31cCYqMBC6tBudGdPlZx) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/3USJbLcVYAPEbcRkXz7fYX) | 3:03 |
 
-Snapshot ID: `AAAAAP4ONYRdO/ZlSeCzovsiI3HcD5Qx`
+Snapshot ID: `AAAAAHVyuaUNoUwQirH3jKcUYfRngYkx`

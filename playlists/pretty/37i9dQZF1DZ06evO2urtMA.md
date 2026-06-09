@@ -9,11 +9,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 |
-| 2 | [In Slow Time](https://open.spotify.com/track/1KXDsfnMAjO0uclSy3OiyZ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo) | 3:16 |
+| 2 | [Make It Hurt](https://open.spotify.com/track/69jVsEla1GaZYEzinH4kDb) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 4:02 |
 | 3 | [Stay](https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:58 |
 | 4 | [Medicine](https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1) | 4:16 |
 | 5 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
-| 6 | [Make It Hurt](https://open.spotify.com/track/69jVsEla1GaZYEzinH4kDb) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 4:02 |
+| 6 | [In Slow Time](https://open.spotify.com/track/1KXDsfnMAjO0uclSy3OiyZ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo) | 3:16 |
 | 7 | [Ashtray](https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:56 |
 | 8 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 9 | [The Real](https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:30 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 24 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
 | 25 | [The World](https://open.spotify.com/track/2efigRjEb9z8FiCvh2Ff5M) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:15 |
 
-Snapshot ID: `aiNjAAAAAABWPoA0RAOPtAHCABY3jk9/`
+Snapshot ID: `aiS0gAAAAAD9C9z2Y2XoJ8TPXseWglIV`

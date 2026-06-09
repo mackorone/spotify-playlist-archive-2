@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 185277,
+  "num_followers": 185298,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-05-08 03:01:14",
       "album": {
+        "name": "Escolhi",
+        "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
+      },
+      "artists": [
+        {
+          "name": "William Augusto",
+          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 301545,
+      "name": "Escolhi",
+      "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
+    },
+    {
+      "added_at": "2026-05-08 03:01:14",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2026-05-08 03:01:14",
-      "album": {
-        "name": "Escolhi",
-        "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
-      },
-      "artists": [
-        {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 301545,
-      "name": "Escolhi",
-      "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
     },
     {
       "added_at": "2026-05-08 03:01:14",

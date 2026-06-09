@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-375 songs - 18 hr 31 min
+376 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-09-15 | 2024-08-31 |
 | [Body Language](https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj) | [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Body Language](https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi) | 2:02 | 2024-11-14 | 2025-05-19 |
 | [Body on Fire](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Body on Fire](https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu) | 2:39 | 2022-09-15 | 2024-03-21 |
+| [Body To Body](https://open.spotify.com/track/0n8zKkpwdnWk23ovyAF2cO) | [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf) | [Body To Body](https://open.spotify.com/album/6JERuxCyACZD96Jd8ifyWs) | 2:45 | 2026-06-08 |  |
 | [Bora Bora](https://open.spotify.com/track/5p9SH2mEUzBMlpkowTf1YM) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Bora Bora](https://open.spotify.com/album/75DrtHei7nrqfm7ThZo6oe) | 2:18 | 2024-05-23 | 2024-06-07 |
 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 | 2022-09-29 | 2022-10-25 |
 | [Botanica](https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO) | 3:07 | 2022-09-15 | 2024-08-31 |
@@ -335,7 +336,7 @@
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-27 | 2024-02-13 |
 | [The Sun Will Come Again](https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 4:02 | 2024-11-14 | 2026-05-15 |
 | [These Nights](https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [These Nights](https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN) | 2:57 | 2025-04-24 | 2025-09-05 |
-| [Thinking About Us](https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Gavin Jones](https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru) | [Thinking About Us](https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V) | 2:53 | 2026-01-08 |  |
+| [Thinking About Us](https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Gavin Jones](https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru) | [Thinking About Us](https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V) | 2:53 | 2026-01-08 | 2026-06-09 |
 | [This Life We Built](https://open.spotify.com/track/2Rohfdfxdxxc385eqFxFy9) | [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [This Life We Built](https://open.spotify.com/album/5u1ZeTv5yjpxaHwEMHHH8D) | 2:05 | 2024-12-05 | 2026-01-15 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-09-15 | 2022-11-09 |
 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-10-30 | 2022-11-17 |

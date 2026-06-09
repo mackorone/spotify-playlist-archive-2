@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgWvxZbVnpXgqxREeHqhYPBJqQfNZF",
+  "snapshot_id": "AAAgXDQhdIIIuolIcPKvn4xzHFaaJHuM",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -4815,6 +4815,38 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/7fJM4XjW6m30iPxPxKeGpb"
+    },
+    {
+      "added_at": "2026-06-08 21:24:07",
+      "album": {
+        "name": "Modern Value",
+        "url": "https://open.spotify.com/album/2gxNz8ZRquL5UEQmZ5ObOl"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/7ts2SN0bUf0JFuFbQo8xe4"
+        }
+      ],
+      "duration_ms": 282259,
+      "name": "Modern Value",
+      "url": "https://open.spotify.com/track/44WnhgkarymulMnz7RLIF0"
+    },
+    {
+      "added_at": "2026-06-08 22:31:49",
+      "album": {
+        "name": "High Visceral, Pt. 1",
+        "url": "https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 534213,
+      "name": "Found God in a Tomato",
+      "url": "https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl"
     }
   ],
   "unique_name": "main ",

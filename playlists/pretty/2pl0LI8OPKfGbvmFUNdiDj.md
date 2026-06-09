@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 901 likes - 75 songs - 4 hr 12 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 904 likes - 78 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 73 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 |
 | 74 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 |
 | 75 | [Would Be Better](https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Would Be Better](https://open.spotify.com/album/7wHaSk8Rc42ZLzHCTKJbZH) | 3:54 |
+| 76 | [Deep Resting](https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Deep Resting](https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve) | 3:21 |
+| 77 | [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 |
+| 78 | [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 |
 
-Snapshot ID: `AAAD5ttS9DTMm7DNAH/G8gg/cG9lA6dE`
+Snapshot ID: `AAAD6SSgWjR3TcDFjJZpN//kec+qQPy+`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-30",
   "description": "",
-  "name": "Drake - ICEMAN & More : Hip-Hop and Play",
+  "name": "Hip-Hop and Play",
   "tracks": [
     {
       "album": {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183500,
       "name": "2 Hard 4 The Radio",
       "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 176393,
       "name": "Amazing Shape (feat. Popcaan)",
       "url": "https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 211859,
       "name": "BBW",
       "url": "https://open.spotify.com/track/4gIzhWC1f98N3NtNlyPfY5"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 225990,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 202466,
       "name": "Cheetah Print (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
@@ -4539,6 +4539,28 @@
     },
     {
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
@@ -4586,7 +4608,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179074,
       "name": "Classic",
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
@@ -6052,7 +6074,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 246417,
       "name": "Don\u2019t Worry",
       "url": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
@@ -6504,7 +6526,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 189217,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
@@ -7652,7 +7674,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 302391,
       "name": "Firm Friends",
       "url": "https://open.spotify.com/track/3rssNOLucK9fzsRcKonhYu"
@@ -8122,7 +8144,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 231879,
       "name": "Fortworth (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
@@ -8589,6 +8611,24 @@
     },
     {
       "album": {
+        "name": "Game Six",
+        "url": "https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Game Six",
+      "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
+    },
+    {
+      "album": {
         "name": "MASA",
         "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
       },
@@ -8860,7 +8900,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 217438,
       "name": "Gen 5",
       "url": "https://open.spotify.com/track/0s3NwbrNRsUTVJVdBeD5Wa"
@@ -9700,7 +9740,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 263715,
       "name": "Goose and The Juice",
       "url": "https://open.spotify.com/track/25vFrwbvXqZpzu03R5Lzjq"
@@ -10724,7 +10764,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 256783,
       "name": "High Fives",
       "url": "https://open.spotify.com/track/6vAg7qqbiIrQhQtxPegLw1"
@@ -10920,7 +10960,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 203746,
       "name": "Hoe Phase",
       "url": "https://open.spotify.com/track/0O6lm9N6qJclxNFHl51nkr"
@@ -11288,7 +11328,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188877,
       "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
@@ -11412,6 +11452,28 @@
       "duration_ms": 247360,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/5PhxU6LMo3YutBWG8YS3KS"
+    },
+    {
+      "album": {
+        "name": "Dr*gs R Bad",
+        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215031,
+      "name": "I Don't Care... - Bonus",
+      "url": "https://open.spotify.com/track/7DEUKE2pcULIGCDMh19TrZ"
     },
     {
       "album": {
@@ -11828,7 +11890,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 144901,
       "name": "I'm Spent (feat. Loe Shimmy)",
       "url": "https://open.spotify.com/track/0SeTP12t4EwBJ6zsjHn9Wa"
@@ -12438,7 +12500,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -14186,7 +14248,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 176541,
       "name": "Little Birdie",
       "url": "https://open.spotify.com/track/2XcmjSdYqdhFjyWFdbnBaY"
@@ -14838,7 +14900,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 248285,
       "name": "Make Them Know",
       "url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
@@ -14856,7 +14918,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 301950,
       "name": "Make Them Pay",
       "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
@@ -14874,7 +14936,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 323712,
       "name": "Make Them Remember",
       "url": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
@@ -15056,6 +15118,24 @@
       "duration_ms": 228326,
       "name": "MDMA (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Hw0ohkjJVPXOc4y0iUqkt"
+    },
+    {
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/1jWZoYxu9RdZfvpdA7LST8"
     },
     {
       "album": {
@@ -16012,7 +16092,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -16214,7 +16294,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 259864,
       "name": "New Bestie",
       "url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
@@ -17810,7 +17890,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 190578,
       "name": "Outside Tweaking (feat. Stunna Sandy)",
       "url": "https://open.spotify.com/track/0EsJdOSOrBfTo816lWRW4Q"
@@ -18604,7 +18684,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 195678,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
@@ -19090,7 +19170,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 193748,
       "name": "Princess",
       "url": "https://open.spotify.com/track/2OrkG4TIWdm5ZhBwpbr3o0"
@@ -19108,7 +19188,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 233404,
       "name": "Prioritizing",
       "url": "https://open.spotify.com/track/5BRkZvrogjXJlvPEzb4POg"
@@ -19438,7 +19518,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 223255,
       "name": "Q&A",
       "url": "https://open.spotify.com/track/7ppIKUHCFQGCQny1Se2jLV"
@@ -19606,7 +19686,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
@@ -20134,7 +20214,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 243232,
       "name": "Road Trips",
       "url": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
@@ -20272,6 +20352,32 @@
       "duration_ms": 238586,
       "name": "Rolex",
       "url": "https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt"
+    },
+    {
+      "album": {
+        "name": "ROOMS",
+        "url": "https://open.spotify.com/album/50sklTdoxS2yLHgF3jnV3t"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "ROOMS",
+      "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
     },
     {
       "album": {
@@ -20484,7 +20590,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 62303,
       "name": "Rusty Intro",
       "url": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
@@ -20824,7 +20930,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -21464,7 +21570,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 202105,
       "name": "Slap The City (feat. Qendresa)",
       "url": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
@@ -22710,7 +22816,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 177137,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/02nXNKtNtO04TwnJpQrEWN"
@@ -24650,7 +24756,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 148855,
       "name": "True Bestie (feat. Iconic Savvy)",
       "url": "https://open.spotify.com/track/5njYiWKlMfU1HkOyetTRg8"
@@ -25946,7 +26052,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
@@ -26256,7 +26362,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 52010,
       "name": "Where\u2019s Your Stuff Interlude",
       "url": "https://open.spotify.com/track/3WjmqBYVBac2PNZyGaiZnP"
@@ -26278,7 +26384,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/4qLHbbVJjNsOqWxHrTtvgx"
@@ -26344,7 +26450,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 222580,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
@@ -26362,7 +26468,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 297150,
       "name": "White Bone",
       "url": "https://open.spotify.com/track/6o6cIHT9YvlrUD2bOHo4hB"
@@ -26640,7 +26746,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 178082,
       "name": "WNBA",
       "url": "https://open.spotify.com/track/6zZvy88xp6FIjJKhqwnJeQ"

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20486,
+  "num_followers": 20482,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Eviva l\u2019arte! (K. Przerwa-Tetmajer)",
-        "url": "https://open.spotify.com/album/4G4JZ2gXAuR5EpmFZtOVQT"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 214351,
-      "name": "Eviva l\u2019arte! (K. Przerwa-Tetmajer)",
-      "url": "https://open.spotify.com/track/6D3MtWx5wh0Wvfm155buXg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tak jak tutaj stoj\u0119",
         "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 159018,
       "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
       "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Eviva l\u2019arte! (K. Przerwa-Tetmajer)",
+        "url": "https://open.spotify.com/album/4G4JZ2gXAuR5EpmFZtOVQT"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 214351,
+      "name": "Eviva l\u2019arte! (K. Przerwa-Tetmajer)",
+      "url": "https://open.spotify.com/track/6D3MtWx5wh0Wvfm155buXg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Sie\u0107 Indry",
-        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
-      },
-      "artists": [
-        {
-          "name": "Variete",
-          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
-        }
-      ],
-      "duration_ms": 251783,
-      "name": "Sycylia",
-      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Razorblade Psalm",
         "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 96000,
       "name": "An Empty Grave Is Just A Hole In The Ground",
       "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Sie\u0107 Indry",
+        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
+      },
+      "artists": [
+        {
+          "name": "Variete",
+          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
+        }
+      ],
+      "duration_ms": 251783,
+      "name": "Sycylia",
+      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Oran\u017cowy \u015awit",
         "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Pami\u0119tam twoje oczy",
-        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
       "artists": [
         {
-          "name": "Warszawskie Combo Taneczne",
-          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Pami\u0119tam twoje oczy",
-      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Pami\u0119tam twoje oczy",
+        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
+      },
+      "artists": [
+        {
+          "name": "Warszawskie Combo Taneczne",
+          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Pami\u0119tam twoje oczy",
+      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Playgrounds",
         "url": "https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa"
       },
@@ -1187,26 +1187,6 @@
       "duration_ms": 356623,
       "name": "Chwilowy uk\u0142ad wszystkiego",
       "url": "https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Czas rozpali\u0107 piec",
-        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odzimierz Nahorny",
-          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
-        },
-        {
-          "name": "Nula Stankiewicz",
-          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "Czas rozpali\u0107 piec",
-      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1239,6 +1219,26 @@
       "duration_ms": 421000,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/5pXascPOOGTfedZSAkxQlg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tequila Songs & Desert Winds",
-        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
-      },
-      "artists": [
-        {
-          "name": "Corruption",
-          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Tequila, Mezcal",
-      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Agma",
         "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 514000,
       "name": "Reinvented",
       "url": "https://open.spotify.com/track/6bkCoSWdt9XzZ5sJSv7Jvg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Tequila Songs & Desert Winds",
+        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
+      },
+      "artists": [
+        {
+          "name": "Corruption",
+          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Tequila, Mezcal",
+      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
     },
     {
       "added_at": "2026-05-26 09:05:26",

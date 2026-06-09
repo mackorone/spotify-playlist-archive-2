@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82039,
+  "num_followers": 82037,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADUug8x1HVQ81u190n3pUzH",
+  "snapshot_id": "aiS0gAAAAADTYffx+sg3UQ/HIuzlIOYA",
   "tracks": [
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivendo Demais",
-        "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Vivendo Demais",
-      "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 238080,
       "name": "Deixa Ela",
       "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivendo Demais",
+        "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Vivendo Demais",
+      "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
     },
     {
       "added_at": null,
@@ -1099,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ponto Panor\u00e2mico",
-        "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Quando Amanhece",
-      "url": "https://open.spotify.com/track/3MmxK7jLxLTHe2fKEC3SIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desmoronar",
         "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 211935,
       "name": "Desmoronar",
       "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ponto Panor\u00e2mico",
+        "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 178846,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/5PVn4XPQcm8CeuRIcpPRH2"
     },
     {
       "added_at": null,
@@ -1179,6 +1179,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Liberta",
+      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -1188,17 +1212,17 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "Ecologyk",
           "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 178846,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/5PVn4XPQcm8CeuRIcpPRH2"
+      "duration_ms": 204750,
+      "name": "Quando Amanhece",
+      "url": "https://open.spotify.com/track/3MmxK7jLxLTHe2fKEC3SIn"
     },
     {
       "added_at": null,
@@ -1223,30 +1247,6 @@
       "duration_ms": 209298,
       "name": "Esquece de Mim (Rap) - Ao Vivo",
       "url": "https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
     },
     {
       "added_at": null,

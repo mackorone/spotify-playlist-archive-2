@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 137916,
+  "num_followers": 137908,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+      "duration_ms": 267406,
+      "name": "Say My Name - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -699,38 +699,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 267406,
-      "name": "Say My Name - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        },
-        {
-          "name": "Lydia Clowes",
-          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
-        }
-      ],
-      "duration_ms": 270698,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -763,6 +743,26 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "duration_ms": 270698,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "\u5287\u5834",
-        "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 353958,
-      "name": "\u591c\u306e\u6b6f\u8eca",
-      "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "\u5287\u5834",
+        "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 353958,
+      "name": "\u591c\u306e\u6b6f\u8eca",
+      "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
         }
       ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 257547,
-      "name": "Goodbye (Don\u2019t Tell Me)",
-      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "\u706f\u308a",
+        "url": "https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7"
+      },
+      "artists": [
+        {
+          "name": "\u771e\u540d\u5b50 \u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 286710,
+      "name": "\u706f\u308a",
+      "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
-        "url": "https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 165155,
-      "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
-      "url": "https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "\u706f\u308a",
-        "url": "https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7"
+        "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
+        "url": "https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6"
       },
       "artists": [
         {
-          "name": "\u771e\u540d\u5b50 \u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 286710,
-      "name": "\u706f\u308a",
-      "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
+      "duration_ms": 165155,
+      "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
+      "url": "https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA"
     },
     {
       "added_at": "2026-03-12 15:00:29",

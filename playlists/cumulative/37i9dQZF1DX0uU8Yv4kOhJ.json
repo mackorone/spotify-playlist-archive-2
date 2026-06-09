@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 212172,
       "name": "Hasta Donde Mande el Cuerpo",
       "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
@@ -1206,6 +1206,24 @@
       "duration_ms": 272229,
       "name": "Pais Nublado",
       "url": "https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL"
+    },
+    {
+      "album": {
+        "name": "This Is How You Smile",
+        "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272229,
+      "name": "Pais Nublado",
+      "url": "https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu"
     },
     {
       "album": {

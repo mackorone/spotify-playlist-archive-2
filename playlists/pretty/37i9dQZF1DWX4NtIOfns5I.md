@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new Haylie Davis album has us swooning ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,016 likes - 151 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,054 likes - 151 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112718,
+  "num_followers": 112717,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Man\u2019s Best Friend (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
         }
       ],
-      "duration_ms": 232378,
-      "name": "Such A Funny Way",
-      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -255,22 +259,18 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Loco Loco",
-        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+        "name": "Man\u2019s Best Friend (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+      "duration_ms": 232378,
+      "name": "Such A Funny Way",
+      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
         "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 208413,
       "name": "MAM TALENT",
       "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "Cztery pory roku",
+        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "DrySkull",
+          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
+        }
+      ],
+      "duration_ms": 172852,
+      "name": "Cztery pory roku",
+      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "na zab\u00f3j",
         "url": "https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 225000,
       "name": "na zab\u00f3j",
       "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "Cztery pory roku",
-        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "DrySkull",
-          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "Cztery pory roku",
-      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Znajd\u017a mnie w tym",
-        "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Pierwszy raz",
-      "url": "https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "\u015awiat\u0142ocienie EP",
         "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Znajd\u017a mnie w tym",
+        "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Pierwszy raz",
+      "url": "https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "nieIDEALNA",
+        "url": "https://open.spotify.com/album/47mg7IYp2fKI5mdAX9r8S8"
+      },
+      "artists": [
+        {
+          "name": "Darya",
+          "url": "https://open.spotify.com/artist/0JlbJC6VCC4dN9kCcjG8g1"
+        },
+        {
+          "name": "Fabija\u0144ski",
+          "url": "https://open.spotify.com/artist/6RmeN8ILZDTIKsaoQnYCT2"
+        }
+      ],
+      "duration_ms": 192993,
+      "name": "nieIDEALNA",
+      "url": "https://open.spotify.com/track/1jYNQmlVwdUp4vXpSNQZsK"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "Mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 180691,
       "name": "Brightest Light",
       "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "nieIDEALNA",
-        "url": "https://open.spotify.com/album/47mg7IYp2fKI5mdAX9r8S8"
-      },
-      "artists": [
-        {
-          "name": "Darya",
-          "url": "https://open.spotify.com/artist/0JlbJC6VCC4dN9kCcjG8g1"
-        },
-        {
-          "name": "Fabija\u0144ski",
-          "url": "https://open.spotify.com/artist/6RmeN8ILZDTIKsaoQnYCT2"
-        }
-      ],
-      "duration_ms": 192993,
-      "name": "nieIDEALNA",
-      "url": "https://open.spotify.com/track/1jYNQmlVwdUp4vXpSNQZsK"
     },
     {
       "added_at": "2026-04-17 15:06:15",

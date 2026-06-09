@@ -8341,6 +8341,28 @@
     },
     {
       "album": {
+        "name": "FLUTTER / STEP OUT",
+        "url": "https://open.spotify.com/album/3wYw808RXboatWPT5ksOT9"
+      },
+      "artists": [
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        },
+        {
+          "name": "FADENT",
+          "url": "https://open.spotify.com/artist/6f5AzOjOcVck70QRfBhxvK"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "FLUTTER",
+      "url": "https://open.spotify.com/track/3qgaPjS5fA89Ebx3sIpMyI"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy"
       },

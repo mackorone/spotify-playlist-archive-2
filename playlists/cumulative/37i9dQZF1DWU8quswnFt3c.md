@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: KI/KI
 
-3,004 songs - 6 day 22 hr 23 min
+3,005 songs - 6 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2211,7 +2211,7 @@
 | [Serena](https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:37 | 2023-04-05 | 2023-05-04 |
 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-08-06 | 2025-11-06 |
 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 | 2023-01-04 | 2023-02-02 |
-| [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 | 2026-05-06 |  |
+| [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 | 2026-05-06 | 2026-06-09 |
 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 | 2025-04-02 | 2025-06-05 |
 | [SexeSexy](https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 3:52 | 2024-04-17 | 2024-05-03 |
 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 | 2026-03-19 | 2026-04-09 |
@@ -2293,6 +2293,7 @@
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-10-16 | 2024-12-05 |
 | [Something French](https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:38 | 2023-04-05 | 2023-05-04 |
 | [Something Real](https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Something Real](https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT) | 3:49 | 2022-05-04 | 2022-06-01 |
+| [Something Went Wrong](https://open.spotify.com/track/0Gkch77N5WgIEUXZVI2zlW) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [Something Went Wrong](https://open.spotify.com/album/0QSDynYOpw7n0lI3RTQmbm) | 3:06 | 2026-06-05 |  |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-08-02 | 2023-09-07 |
 | [Somewhere](https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [...Just Cause](https://open.spotify.com/album/77Uf7Pe6japz6TwtFPrh2M) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [Somewhere in Between](https://open.spotify.com/track/1PMzqfXtiR4qWqdaRofIM4) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:36 | 2023-11-29 | 2024-01-11 |

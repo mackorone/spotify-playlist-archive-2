@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,671,936 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,671,989 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Checkmate](https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Checkmate](https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY) | 3:27 |
 | 100 | [ECSTASY IS](https://open.spotify.com/track/4EBh2TofS1mpQEOhSzjPGh) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [ECSTASY IS](https://open.spotify.com/album/0PjhkLOtfuhUfxlppHhiXL) | 4:55 |
 
-Snapshot ID: `AAAAAGGX4FphWOYD+D0Y+WrI2oiiy8Y5`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

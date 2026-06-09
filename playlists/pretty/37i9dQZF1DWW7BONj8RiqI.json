@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 247572,
+  "num_followers": 247597,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "Doux Doux Darlin",
         "url": "https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 192601,
       "name": "Doux Doux Darlin",
       "url": "https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
-      },
-      "artists": [
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
-        }
-      ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "CAPITAL",
-        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "CAPITAL",
-      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "One Piece",
         "url": "https://open.spotify.com/album/0pRL5W4uh3AtHj1s0VG3k4"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 197777,
       "name": "One Piece",
       "url": "https://open.spotify.com/track/3jETcqXegPo67ru7i28Z9E"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "CAPITAL",
+        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "CAPITAL",
+      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 256210,
       "name": "Passion",
       "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
-      },
-      "artists": [
-        {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 282567,
       "name": "Hot and Groovy",
       "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "Front Yard Wet",
+        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Front Yard Wet",
+      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "The Carnival Jumbies Experiment",
         "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Front Yard Wet",
-        "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Front Yard Wet",
-      "url": "https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Red, White, Black",
         "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
       },
@@ -1627,6 +1627,38 @@
       "duration_ms": 231874,
       "name": "Carnival (feat. Machel Montano)",
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Search Party",
+        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 206609,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1651,22 +1683,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Search Party",
-        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 206609,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Lose Weight",
         "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 167999,
       "name": "Lose Weight",
       "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -1751,6 +1735,38 @@
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Spoil You",
+        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
+      },
+      "artists": [
+        {
+          "name": "Shemmy J",
+          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "Spoil You",
+      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1771,22 +1787,6 @@
       "duration_ms": 204223,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Spoil You",
-        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
-      },
-      "artists": [
-        {
-          "name": "Shemmy J",
-          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
-        }
-      ],
-      "duration_ms": 188842,
-      "name": "Spoil You",
-      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
     }
   ],
   "unique_name": "Massive Soca Hits",

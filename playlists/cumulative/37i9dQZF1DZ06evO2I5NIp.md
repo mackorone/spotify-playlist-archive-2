@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-154 songs - 10 hr 37 min
+155 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ain't That Good News](https://open.spotify.com/track/3C1dQBSyJTl1aSmIoj2ENS) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:11 | 2022-08-05 | 2022-10-08 |
 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 | 2026-04-21 |  |
 | [Apple Pie And A .45](https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:45 | 2022-09-10 | 2026-04-21 |
-| [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 | 2022-08-05 |  |
+| [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 | 2022-08-05 | 2026-06-09 |
 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 | 2022-08-20 | 2026-04-19 |
 | [Barefoot In Heaven](https://open.spotify.com/track/4JdtIfYiuw3C0ndx1mL3NH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 3:30 | 2026-04-19 |  |
 | [Beat Up Guitar](https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:27 | 2022-08-05 | 2026-04-24 |
@@ -107,6 +107,7 @@
 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 | 2022-08-20 | 2026-04-22 |
 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 | 2022-08-05 | 2026-04-21 |
 | [Promised Myself](https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 5:19 | 2026-04-21 |  |
+| [Ramblin' on My Mind](https://open.spotify.com/track/0lh14tFCx7aiUePon7330a) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH), [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [True Blues](https://open.spotify.com/album/4YmdrI09y7oYOnw1LtnQuU) | 5:08 | 2026-06-09 |  |
 | [Salt In My Wounds](https://open.spotify.com/track/1RRQgngw1cHyDAoq1QiuNP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 4:13 | 2026-04-18 |  |
 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 | 2022-08-05 | 2026-04-18 |
 | [She Don't Wear Pink](https://open.spotify.com/track/4Spt8GmNhd5oBrobj3ncyr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 2:58 | 2023-03-12 | 2023-12-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: FIFTY FIFTY",
-  "num_followers": 381519,
+  "num_followers": 381496,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -159,18 +155,22 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -263,6 +263,38 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
+      "added_at": "2026-06-03 06:49:28",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "added_at": "2026-06-03 06:49:28",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -291,38 +323,6 @@
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
-    },
-    {
-      "added_at": "2026-06-03 06:49:28",
-      "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
-      "added_at": "2026-06-03 06:49:28",
-      "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "'PUREFLOW', Pt. 1",
-        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
         }
       ],
-      "duration_ms": 176546,
-      "name": "BOOMPALA",
-      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -807,26 +807,18 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 231174,
-      "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -847,18 +839,26 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -895,8 +895,8 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -975,8 +975,8 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "KILL THIS LOVE",
-        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191050,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
-    },
-    {
-      "added_at": "2026-06-03 06:49:28",
-      "album": {
         "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2026-06-03 06:49:28",
+      "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2026-06-03 06:49:28",
+      "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Smart (Remixes)",
-        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2026-06-03 06:49:28",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2026-06-03 06:49:28",
-      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-03 06:49:28",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2026-06-03 06:49:28",
-      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
+    },
+    {
+      "added_at": "2026-06-03 06:49:28",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-06-03 06:49:28",

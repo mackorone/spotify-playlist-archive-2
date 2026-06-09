@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,431 songs - 5 day 9 hr 33 min
+2,433 songs - 5 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-28 | 2026-02-21 |
 | [Come Home](https://open.spotify.com/track/6NpkEt1C0m5AnK13Y76qR5) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Come Home](https://open.spotify.com/album/3sSmnR952IGjKyhsNZlcxJ) | 3:43 | 2023-02-04 | 2023-02-11 |
 | [come on come on](https://open.spotify.com/track/0DtBLzMEDG3xWgr516VOM3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [come on come on](https://open.spotify.com/album/56zGeV8gCqo1RXNiOx6JJo) | 2:47 | 2021-01-17 | 2021-06-03 |
-| [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 |  |
+| [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 | 2026-06-09 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-06-03 | 2021-10-05 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-07 | 2024-11-21 |
 | [coming of age](https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [coming of age](https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5) | 2:38 | 2022-05-13 | 2022-07-29 |
@@ -1085,7 +1085,7 @@
 | [I'll Be There](https://open.spotify.com/track/3C9l4bgVhBjEwFergPZIjU) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [I'll Be There](https://open.spotify.com/album/2UMwb26oqZr3HXk8JKz3t3) | 3:27 | 2021-02-28 | 2021-10-16 |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-06-04 | 2022-07-29 |
 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 | 2022-10-07 | 2022-12-10 |
-| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 |  |
+| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 | 2026-06-09 |
 | [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-06 | 2026-03-22 |
 | [i'm busy](https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [i'm busy](https://open.spotify.com/album/1tpx9WDPwZkFWnHNZr85pU) | 2:48 | 2020-11-13 | 2021-05-28 |
 | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/track/6JSvMqV3e3TjzkYkAGYwu1) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Katie Gavin](https://open.spotify.com/artist/0YKOKKfXkVOrizPVSbGQ01) | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/album/12EGghSTPlxGOFrfgvtk2l) | 3:02 | 2021-02-09 | 2022-04-11 |
@@ -1413,6 +1413,7 @@
 | [Melrose Meltdown](https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Melrose Meltdown](https://open.spotify.com/album/2CxqquXzqf6JbYYVAAeEkm) | 3:32 | 2022-01-28 | 2022-06-29 |
 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 |  |
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-07-22 | 2022-08-06 |
+| [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 |  |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2021-05-08 | 2023-06-24 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-29 | 2022-08-06 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-07-19 | 2022-04-14 |
@@ -1766,6 +1767,7 @@
 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2020-11-10 | 2021-01-15 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-02-06 |  |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-10-13\* | 2022-04-14 |
+| [Relate to you](https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [How do I relate to you?](https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0) | 2:44 | 2026-06-05 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 | 2025-07-31 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-04-05 |
 | [Remember! \(English Version\)](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 | 2025-06-28 |

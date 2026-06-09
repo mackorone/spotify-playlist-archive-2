@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS x Gazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,365 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,351 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
+| 1 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Maximum](https://open.spotify.com/artist/2fD6O2xt1zGLGGWHkR0k1n) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
 | 2 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |
 | 3 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |
 | 4 | [Milano](https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Milano](https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC) | 2:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 48 | [DidiStone](https://open.spotify.com/track/2II9MXqA07RZ5cxFzUqwFo) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [DidiStone](https://open.spotify.com/album/3YFC2nDPfLFMvdEQvpFV1G) | 2:05 |
 | 49 | [Faut doser](https://open.spotify.com/track/3IYkVaWK7U40Whz25XV07p) | [Nakry](https://open.spotify.com/artist/1uS3NoifQsUXbWBOF3xIPg), [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Faut doser](https://open.spotify.com/album/4DULzH0ET0QnXLQe3LhWy1) | 2:11 |
 
-Snapshot ID: `AAAAAKgLKXjriJIHIbEDUraxVzicldrX`
+Snapshot ID: `AAAAAAf+x+ALXWYbNsfcgvR3f/7qTWqA`

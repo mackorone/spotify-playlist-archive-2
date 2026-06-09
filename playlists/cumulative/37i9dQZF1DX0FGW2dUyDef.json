@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 121263,
       "name": "Balbiber",
       "url": "https://open.spotify.com/track/5fQLukeUgE3NlSwlQx3KWY"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 155726,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/1nRhCshF9nYpTZr0yM4mKS"
@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "En B\u00fcy\u00fck A\u015fk\u0131m (Bir deli y\u00fcrek ac\u0131s\u0131nday\u0131m)",
+        "url": "https://open.spotify.com/album/3V9l51t68pj4aP6FCxdybE"
+      },
+      "artists": [
+        {
+          "name": "Nebi Demir",
+          "url": "https://open.spotify.com/artist/4Ys9T6FpNzgWFDshsftmcQ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "En B\u00fcy\u00fck A\u015fk\u0131m - Bir deli y\u00fcrek ac\u0131s\u0131nday\u0131m",
+      "url": "https://open.spotify.com/track/1VAfqUV47v1csngOi0bvNb"
+    },
+    {
+      "album": {
         "name": "En Derine",
         "url": "https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH"
       },
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 158774,
       "name": "git",
       "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
@@ -3250,6 +3268,24 @@
       "duration_ms": 107658,
       "name": "KAYKAY",
       "url": "https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q"
+    },
+    {
+      "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Kay\u0131p Kalp",
+      "url": "https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg"
     },
     {
       "album": {
@@ -4271,6 +4307,28 @@
     },
     {
       "album": {
+        "name": "PSS PSS",
+        "url": "https://open.spotify.com/album/7GNgMXH1XiYn0CR2sAxlpD"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "PSS PSS",
+      "url": "https://open.spotify.com/track/5CQem4aQAsjP47PGkfxiXt"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
       },
@@ -4616,7 +4674,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 210275,
       "name": "Sana Ra\u011fmen",
       "url": "https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH"
@@ -6072,6 +6130,28 @@
       "duration_ms": 114285,
       "name": "\u00c7OK A\u011eLADIM",
       "url": "https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat"
+    },
+    {
+      "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240782,
+      "name": "\u00c7ok G\u00fczel G\u00fcl\u00fcyorsun",
+      "url": "https://open.spotify.com/track/7rsrUU3OGXQwTHWWMZwlw8"
     },
     {
       "album": {

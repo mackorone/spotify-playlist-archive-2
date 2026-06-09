@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Thiều Bảo Trâm
+> Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Changg
 
-419 songs - 1 day 2 hr 24 min
+420 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [hai mươi hai \(22\) \[feat\. AMEE\]](https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:58 | 2022-06-30 | 2026-03-20 |
 | [HER](https://open.spotify.com/track/38MLQbgIGVNvWsHVa9TPB3) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [HER](https://open.spotify.com/album/0fmonAmGvVOk70U8QAEe9X) | 2:50 | 2025-06-04 | 2025-07-04 |
 | [HER](https://open.spotify.com/track/5xDzB1RyS5ZihKraJkUKyi) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Burning Blue](https://open.spotify.com/album/7hS4OPT1ms6pJ9X7uHuBGb) | 2:50 | 2026-01-13 | 2026-03-20 |
+| [Hiểu Lầm](https://open.spotify.com/track/1gfhxiTqgHNw2md5x4uRxb) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU), [Lotdaynee](https://open.spotify.com/artist/1nr1SdJw4IYn1p3FsIgJW6) | [Hiểu Lầm](https://open.spotify.com/album/6SdQBM4eckflfqKLKj3Aeo) | 3:26 | 2026-06-08 |  |
 | [Hiện Tại](https://open.spotify.com/track/5gb7vv04eAuLtTlETODPo4) | [Tuimi](https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Hiện Tại](https://open.spotify.com/album/5o0u5CEtLf9vLtnXTw8ABr) | 4:28 | 2026-01-13 | 2026-03-20 |
 | [Hoa Đã Tàn Hương](https://open.spotify.com/track/7ploY5yYxzIAzDc95ZuyuH) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:24 | 2023-08-10 | 2023-09-06 |
 | [HOP ON DA SHOW](https://open.spotify.com/track/1BD3AOAttsy8P9BZKwdpB3) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 2:55 | 2025-03-04 | 2025-06-05 |
@@ -312,7 +313,7 @@
 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 | 2023-10-18 | 2023-10-30 |
 | [Say La La](https://open.spotify.com/track/4uruGus1jk851QbkKJ6tqf) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Say La La](https://open.spotify.com/album/2K0Xq7WvQq8Vf6SfWWZg96) | 2:36 | 2023-06-06 | 2023-07-14 |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-02-23 | 2022-12-01 |
-| [See Tình](https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:05 | 2022-11-30 |  |
+| [See Tình](https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:05 | 2022-11-30 | 2026-06-09 |
 | [Seenderella](https://open.spotify.com/track/5IPyVAKgMFP99F2DqUoohG) | [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ) | [Seenderella](https://open.spotify.com/album/63j8L3ZQC6eLhHOEw3YijB) | 3:12 | 2025-06-04 | 2026-01-15 |
 | [Siren](https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq) | [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Siren](https://open.spotify.com/album/0Cb2HIaYbo2in1yXeDoxv0) | 2:37 | 2022-05-03 | 2023-02-15 |
 | [Small Talk](https://open.spotify.com/track/4XraMCozduk1IqHqBtJEww) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 2:12 | 2025-02-04 | 2025-03-05 |

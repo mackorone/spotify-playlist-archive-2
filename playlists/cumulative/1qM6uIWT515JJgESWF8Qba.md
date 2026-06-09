@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-247 songs - 15 hr 31 min
+251 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,9 +100,11 @@
 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 | 2026-03-04 | 2026-04-01 |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2026-05-12 |  |
 | [Get Outta My Head](https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [Get Outta My Head](https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5) | 2:38 | 2026-04-03 | 2026-05-19 |
+| [Gift](https://open.spotify.com/track/2CY4tpOXZ79CUmwij1e4JA) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Gift](https://open.spotify.com/album/3gIrCB0W2GIMYREEIGz4fa) | 3:32 | 2026-06-09 |  |
 | [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 | 2026-05-12 |  |
 | [Going Down](https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 4:03 | 2026-05-12 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 | 2025-12-28 |
+| [Greedy Bastards](https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Greedy Bastards](https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA) | 3:33 | 2026-06-09 |  |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2025-12-20 | 2026-01-21 |
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2026-02-09 | 2026-05-19 |
@@ -190,6 +192,7 @@
 | [Pumping on Your Stereo](https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:38 | 2025-11-03 | 2025-12-28 |
 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 | 2026-02-09 | 2026-05-19 |
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2025-12-05 |  |
+| [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-09 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 | 2026-05-17 |
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 | 2025-12-28 |
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 |  |
@@ -228,6 +231,7 @@
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-19 | 2026-03-21 |
 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 | 2026-05-04 |  |
 | [The Last On the List](https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:49 | 2025-10-13 | 2026-05-17 |
+| [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-09 |  |
 | [The Mold](https://open.spotify.com/track/6lKQLhmqknMDhFbIg6LcQe) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [The Mold](https://open.spotify.com/album/2hp2SmGFWZsIlEQIkavftE) | 3:59 | 2026-05-26 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-28 |
 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 | 2026-04-29 |  |

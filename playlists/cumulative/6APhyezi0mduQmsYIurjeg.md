@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-559 songs - 1 day 9 hr 49 min
+563 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Everything You Ask For \- Acoustic](https://open.spotify.com/track/3qt6L3ma0J5vKIFFDcOCAl) | [RÏSING GHOSTS](https://open.spotify.com/artist/6rMIWhbBEU01HoagGrzn62) | [Hero](https://open.spotify.com/album/1uKoMOhzJCHpgEWK7g6njQ) | 3:30 | 2023-04-21 |  |
 | [Explosion of Love](https://open.spotify.com/track/0KPjxnvRP2RWSs25W8tD7u) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Explosion of Love](https://open.spotify.com/album/4EAdIj9MGAO4EWsp8O1NI9) | 3:19 | 2025-11-05 |  |
 | [Eye of the Storm](https://open.spotify.com/track/7nxkZOfVWHFChKc3XH1izB) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Eye of the Storm](https://open.spotify.com/album/79sF7He6Rk5vVbkYidm7Oq) | 3:34 | 2023-03-19 |  |
+| [Fanático del Rock And Roll](https://open.spotify.com/track/7gxjjbv9dR7rE9I8FPuVPs) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll](https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2) | 3:01 | 2026-06-08 |  |
 | [Feel What It's Like](https://open.spotify.com/track/29GL0d0DsFuryqAEmPvmv7) | [Kristopher Battilana](https://open.spotify.com/artist/5w555IMji6PTHL2m9dUK3n) | [Feel What It's Like](https://open.spotify.com/album/1EZ4mviQwITtr3yo0cQr3g) | 2:45 | 2023-02-22 |  |
 | [Feeling \- Radio Edit](https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B) | [Chavez Cartel](https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4) | [Feeling](https://open.spotify.com/album/419aOHm534nssVUrGdDr7U) | 4:20 | 2026-05-14 |  |
 | [FFS I'm in Love](https://open.spotify.com/track/4HmViZoyrKHEmIY4QdFnM4) | [Sugarglass](https://open.spotify.com/artist/0gt5TC7w5vFBiGNlLWykR8) | [FFS I'm in Love](https://open.spotify.com/album/7oyntLiTcBIE1WYeBAObe9) | 3:26 | 2025-03-08 |  |
@@ -266,6 +267,7 @@
 | [La signora Minù](https://open.spotify.com/track/3LnMB8WTQKH4rFCygtWfOB) | [Fakkinautika](https://open.spotify.com/artist/7t98FJi0ooEfFTHybstPgl) | [Basta essere profondi](https://open.spotify.com/album/1uexJxcoZqf7YXSuAmHJwX) | 3:38 | 2025-11-03 |  |
 | [Laberinto](https://open.spotify.com/track/6fSvVwotOPr57E5Xl8X9sY) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 5:49 | 2025-11-03 |  |
 | [Las uvas de la ira](https://open.spotify.com/track/5QPyYbQAXD7SHCCTYeEklM) | [Marga Sur](https://open.spotify.com/artist/7rSixX8zFeTYZ3KqB9HPaf) | [Las uvas de la ira](https://open.spotify.com/album/2HqEuxTldY61ykrGQMTQ6L) | 3:39 | 2024-02-26 |  |
+| [Late For Us](https://open.spotify.com/track/3JQfP8VbRcthfHFljJm9qi) | [ALEK](https://open.spotify.com/artist/7qg9o6wAdO1KF43eESR9eF), [KRILL ROU](https://open.spotify.com/artist/4iloxkMhci7NHOEQ9zfj9a), [BELCE](https://open.spotify.com/artist/7LLg4c4fOc89Bk121QaT1g) | [Late For Us](https://open.spotify.com/album/5adhaD6x3lsawF8DIEhsto) | 3:40 | 2026-06-08 |  |
 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 | 2023-04-11 |  |
 | [Laut](https://open.spotify.com/track/1Kuuq6x4rn9gZc49iEZnbj) | [Konan Ibiza](https://open.spotify.com/artist/0eioROHHmhsB91dHC3Xfkc) | [Kann Immer](https://open.spotify.com/album/1uPLiuzx55IM0GcKFcb1Cr) | 4:41 | 2025-02-19 |  |
 | [Laws of God and Man](https://open.spotify.com/track/6xVwesAAEesSUhbfn1cuGK) | [Indianadesolate](https://open.spotify.com/artist/0MeJRv7J4CSwg7My0gCf1M) | [The Sheol of Life](https://open.spotify.com/album/4ZDLSy6WvqLmZJSttp56V3) | 4:19 | 2023-12-16 |  |
@@ -373,6 +375,7 @@
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-10-27 |  |
 | [Poesia de Liquidificador](https://open.spotify.com/track/2dA5Hv7RDD59fWOB27kd9Y) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 5:07 | 2025-11-05 |  |
 | [Polychromatic Route](https://open.spotify.com/track/38FJyXUeA9XS92BcSqpRt3) | [Nepal Death](https://open.spotify.com/artist/7vtUDM2Uf2yIKJ6XSmOBSi) | [Polychromatic Route](https://open.spotify.com/album/0dvefIw9yop3NRBiehdrEK) | 5:16 | 2025-02-19 |  |
+| [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 | 2026-06-08 |  |
 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 | 2023-01-10 |  |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-10-27 |  |
 | [Pretend](https://open.spotify.com/track/0bFJS05D8HiiczpdHVRXWo) | [Leif Shively Band](https://open.spotify.com/artist/78WGTxMhFRCPmZsaV02Fc8) | [Pretend](https://open.spotify.com/album/1DOp0SQONhKJr7rFkKiP7J) | 4:21 | 2023-03-19 |  |
@@ -488,6 +491,7 @@
 | [the lies i found in you](https://open.spotify.com/track/2STAYJnVqUckIs9aFcvwC9) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [the lies i found in you](https://open.spotify.com/album/7B2LQlvHM8KCsJnvKNWFL3) | 5:22 | 2025-10-25 |  |
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1CN5OYYzrzEJpvjAchjgNB) | [¡What!](https://open.spotify.com/artist/0njosWDpWmmXtIBjOA00qM) | [The Lion Sleeps Tonight](https://open.spotify.com/album/2pI91FJOBFMlwwWX4ogy4X) | 2:43 | 2025-03-16 |  |
 | [The Lucky Ones](https://open.spotify.com/track/3jvDYQ56RqwAuDAcEr3MFj) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [The Lucky Ones](https://open.spotify.com/album/60qvM3hxB1VHJwWPOBerBL) | 4:00 | 2025-11-03 |  |
+| [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-08 |  |
 | [The Many Ways](https://open.spotify.com/track/321VpD2a85iCI6YUn45sGQ) | [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [The Many Ways](https://open.spotify.com/album/2FMsWw2Dm1efdaMqWx7uOQ) | 3:46 | 2024-12-24 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-04 |  |
 | [the shirt song](https://open.spotify.com/track/14FSozVDL1oA3rTiVxwSp5) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [the shirt song](https://open.spotify.com/album/6vGwVAhHQhS85QxTs6PPu0) | 3:54 | 2024-10-03 |  |

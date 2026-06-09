@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Esta selección \(de rolitas\) sí podrían pasar al quinto partido\. Dharius en portadha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,215 likes - 63 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,125 likes - 63 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

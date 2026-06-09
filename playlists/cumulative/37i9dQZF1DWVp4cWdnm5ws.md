@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: VVINK
 
-340 songs - 20 hr 3 min
+342 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [ITABI MO](https://open.spotify.com/track/5BOE9wj3l7tzU7iCZVIJZL) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [ITABI MO](https://open.spotify.com/album/3XcTVWWePCLeDukbNHFOi0) | 2:31 | 2026-04-06 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
 | [julie pakipot](https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:15 | 2024-08-27 | 2025-03-28 |
+| [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 | 2026-06-08 |  |
 | [Just Because](https://open.spotify.com/track/3Ues7YM3y8JYnTeu2OYFVH) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Just Because](https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc) | 3:13 | 2023-11-29 | 2024-01-12 |
 | [Kailan Ka Aamin](https://open.spotify.com/track/6RZMDe1W0oEqPCnzDn3qJD) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Kailan Ka Aamin](https://open.spotify.com/album/4ODOctDusqgxRCNDHzs3qf) | 3:38 | 2026-04-06 |  |
 | [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 | 2026-04-06 |  |
@@ -160,6 +161,7 @@
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2026-04-06 |  |
 | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/34MnMmfkCLs4Y4HTXz9fqJ) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-10-06 | 2026-04-07 |
+| [Kung May Problema Ka](https://open.spotify.com/track/4MutWazZvqokE6WM6QoOvj) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Kung May Problema Ka](https://open.spotify.com/album/4Z53qocPuKq5tnMghl15pA) | 2:57 | 2026-06-08 |  |
 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 | 2021-11-25 | 2022-03-25 |
 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2024-04-02 | 2025-03-28 |
 | [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 | 2023-04-13 | 2023-06-03 |

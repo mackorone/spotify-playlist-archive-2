@@ -4,7 +4,7 @@
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 41 min
+64 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [Princesas Mágicas \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 | 2024-05-24 |  |
 | [Que Seas Mi Hogar \(feat\. Reyli Barba\)](https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:28 | 2024-05-24 |  |
 | [Que Sería De Mi \- En Vivo](https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:49 | 2024-05-24 |  |
+| [Razones Pa' vivir](https://open.spotify.com/track/2bSiqgJdac8Jysx7AoXguQ) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:17 | 2026-06-09 |  |
 | [Se Quedó Conmigo](https://open.spotify.com/track/54WhzdsNihZ1k0EPTgXrIj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 4:08 | 2024-05-24 |  |
 | [Sentado En Su Trono](https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:42 | 2024-11-03 |  |
-| [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 | 2024-05-24 |  |
+| [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 | 2024-05-24 | 2026-06-09 |
 | [Soplando Vida](https://open.spotify.com/track/3T1HAdzG1iXUmgGV7lO9Mb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 4:15 | 2024-05-24 |  |
 | [Suave Voz \- En Vivo](https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 3:38 | 2024-05-24 | 2026-06-05 |
 | [Suave Voz \- En Vivo](https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j) | 3:38 | 2026-06-06 |  |

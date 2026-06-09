@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 186285,
+  "num_followers": 186271,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -467,8 +467,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -555,8 +555,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Campo Abierto",
         "url": "https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 247693,
       "name": "La Innombrable",
       "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
     },
     {
       "added_at": "2026-04-10 19:32:23",

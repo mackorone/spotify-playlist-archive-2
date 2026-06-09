@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Esoterica
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,365 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,403 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABuvEa8h5TNkeJFQIy4seyI",
+  "snapshot_id": "aiS0gAAAAADYN5kNEGAyRZcbX/t1b9Hg",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
       },
       "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
+      "duration_ms": 270419,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
     },
     {
       "added_at": null,
@@ -179,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
       },
       "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 270419,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,

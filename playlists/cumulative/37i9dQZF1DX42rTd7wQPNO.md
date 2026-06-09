@@ -4,7 +4,7 @@
 
 > put a little yee haw in your laid back
 
-204 songs - 12 hr 17 min
+205 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2023-07-21 | 2026-03-19 |
 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 | 2023-04-03 |  |
 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 | 2023-04-03 |  |
-| [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2023-04-03 |  |
+| [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2023-04-03 | 2026-06-09 |
 | [Honey And The Moon](https://open.spotify.com/track/7qlfcOvjn5jjFw35y2lEWv) | [Joseph Arthur](https://open.spotify.com/artist/5aD0uh1BpYTN7AzhiSDgaO) | [Redemption's Son](https://open.spotify.com/album/37Y8k1sfSMSGnCcLhkuYcV) | 4:43 | 2023-04-03 |  |
 | [Honeydew & Hennessy](https://open.spotify.com/track/1zOn6DATC1kL7cfPz7JiuP) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Honeydew & Hennessy](https://open.spotify.com/album/49s6EwjZHmGY7e5I8kTyj6) | 3:59 | 2023-05-09 |  |
 | [How Does It Feel To Be Forgotten](https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:41 | 2025-03-21 |  |
@@ -195,6 +195,7 @@
 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2025-01-13 |  |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2023-04-03 |  |
 | [what are you on fire about](https://open.spotify.com/track/4lZOxkf4marLYA3jCCphEK) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:27 | 2023-07-21 |  |
+| [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2026-06-08 |  |
 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/3qOyhKViRF2Zs8tYzFowfp) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Where Have All the Cowboys Gone?](https://open.spotify.com/album/5tc2nHOOo0LK3GzuRbgD71) | 3:32 | 2024-04-16 |  |
 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/6grQdeuCRXcxVGRvQ0oYhE) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Where Have All the Cowboys Gone?](https://open.spotify.com/album/3Z66m2hG4g3xC8P7P4X8lm) | 3:32 | 2024-03-29 | 2024-04-19 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-23 |  |

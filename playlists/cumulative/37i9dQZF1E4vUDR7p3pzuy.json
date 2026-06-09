@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With TURN BLUE., JUST LIZZY, Mercury Teardrop and more",
+  "description": "With JUST LIZZY, Something Broke, Anne Bloom and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 158571,
       "name": "Broken Strings",
       "url": "https://open.spotify.com/track/7wexiA4PQ2hIt2CSylzyNe"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 330034,
       "name": "Claw",
       "url": "https://open.spotify.com/track/4O4GiCTXAYRPrUGRoy2hzt"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Creatures",
       "url": "https://open.spotify.com/track/1urEpOSEqOpGFYWO1fl4Rw"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 225162,
       "name": "Elysia",
       "url": "https://open.spotify.com/track/12QCxgHuqmKy8kw951c9zr"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 293847,
       "name": "Epoch 2140",
       "url": "https://open.spotify.com/track/5YA3afw5r87F4jRumjM9q5"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 201526,
       "name": "Fear Of Love",
       "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 198625,
       "name": "Goldwing",
       "url": "https://open.spotify.com/track/7nYp7BAH04UGVw2PZvn3jj"
@@ -5622,6 +5622,24 @@
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
+    },
+    {
+      "album": {
+        "name": "Help I'm Alive (I Tremble) [Edit]",
+        "url": "https://open.spotify.com/album/5KrX9tz6f8lF5JXaaV8UBj"
+      },
+      "artists": [
+        {
+          "name": "onve",
+          "url": "https://open.spotify.com/artist/3A4Ssi38ppefDLqzeEUHI7"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124346,
+      "name": "Help I'm Alive - Edit Slowed",
+      "url": "https://open.spotify.com/track/5uCBspPgSxKqnj7Lx6tl6J"
     },
     {
       "album": {
@@ -6336,6 +6354,24 @@
       "duration_ms": 243840,
       "name": "If it isn't about YOU",
       "url": "https://open.spotify.com/track/1vqNhV7zSbbOFqqCzHT4pS"
+    },
+    {
+      "album": {
+        "name": "If it's the last time",
+        "url": "https://open.spotify.com/album/0UqSUMYVeDl5KEZN3fBiar"
+      },
+      "artists": [
+        {
+          "name": "Toronto Road",
+          "url": "https://open.spotify.com/artist/4qbpmF3Z5KzB49fS7w7oj6"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "If it's the last time",
+      "url": "https://open.spotify.com/track/4ET93WeLlGHMtPKgB28FvU"
     },
     {
       "album": {
@@ -7444,7 +7480,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -8118,7 +8154,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 126000,
       "name": "METALLIC BEAST",
       "url": "https://open.spotify.com/track/7p4KjkqL2J7xSv08Ap6XSz"
@@ -9010,7 +9046,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 246413,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
@@ -10140,7 +10176,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -10634,7 +10670,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 260365,
       "name": "Self-Proclaimed Crown - Queen Elizabeth",
       "url": "https://open.spotify.com/track/1MlP8yWBC0rl067IyqB0IU"
@@ -11588,7 +11624,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -12014,6 +12050,24 @@
       "duration_ms": 238627,
       "name": "Sunset in the Water",
       "url": "https://open.spotify.com/track/1fUvoPPEn8aAZAmgHUnlnU"
+    },
+    {
+      "album": {
+        "name": "Suspension",
+        "url": "https://open.spotify.com/album/2TWvWl4g7xGZ9ObioMtulo"
+      },
+      "artists": [
+        {
+          "name": "two person starfield",
+          "url": "https://open.spotify.com/artist/5mo4IFnnyxgRoLdCigoX4G"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/62UFFJ0n5385Q8ZY1Z6WsX"
     },
     {
       "album": {
@@ -13040,7 +13094,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 312000,
       "name": "The Unbearable Weight Of What If",
       "url": "https://open.spotify.com/track/5vqa47SFvRy2SJeVl6m8P5"
@@ -13408,7 +13462,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -14082,7 +14136,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 315096,
       "name": "Vastes mers",
       "url": "https://open.spotify.com/track/6jlM8hsUU6zcg3VjsmPyPI"
@@ -15080,6 +15134,24 @@
       "duration_ms": 231228,
       "name": "World Full Of Echoes",
       "url": "https://open.spotify.com/track/0lG69UDGyLApKGSfyAKI02"
+    },
+    {
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/3TBDSedlWOOhv0e3buyL4h"
+      },
+      "artists": [
+        {
+          "name": "Aruna Reaver",
+          "url": "https://open.spotify.com/artist/6nA5ze0CwFn9MF42MZ2ZBA"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186723,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/6VFwU4ugQApyyTSXgVxS4I"
     },
     {
       "album": {

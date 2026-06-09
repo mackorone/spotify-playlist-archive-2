@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Dale Hodges Park",
+        "url": "https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207245,
+      "name": "Dale Hodges Park",
+      "url": "https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM"
+    },
+    {
+      "album": {
         "name": "Dance Like Fire",
         "url": "https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC"
       },

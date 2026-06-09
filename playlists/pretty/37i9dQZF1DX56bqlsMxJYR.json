@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1423436,
+  "num_followers": 1423640,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 189468,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 189468,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Runaway with Del Shannon",
-        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
-      },
-      "artists": [
-        {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
-        }
-      ],
-      "duration_ms": 137306,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 219560,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Runaway with Del Shannon",
+        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 137306,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
-      },
-      "artists": [
-        {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
-        }
-      ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 122866,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+      },
+      "artists": [
+        {
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sweet Soul Music",
-        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Green Onions / Behave Yourself",
         "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 167384,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Up-Tight",
-        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Up-Tight",
+        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "The Duke Of Earl",
+        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 147841,
+      "name": "Duke of Earl",
+      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -2255,6 +2239,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Who Wrote The Book Of Love? [Digital Version]",
         "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
       },
@@ -2267,26 +2267,6 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2323,6 +2303,26 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Sonny & Cher",
-        "url": "https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 149560,
       "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
       "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Sonny & Cher",
+        "url": "https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
     },
     {
       "added_at": "2024-07-12 06:11:58",

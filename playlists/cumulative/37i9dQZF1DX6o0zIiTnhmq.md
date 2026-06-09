@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-196 songs - 2 day 0 hr 33 min
+197 songs - 2 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 | 2023-05-23 |  |
 | [NAM MYOHO RENGE KYO](https://open.spotify.com/track/5Y03bbM6l7yRQ9nktwvfUP) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [NAM MYOHO RENGE KYO](https://open.spotify.com/album/2SmrHWk2OQTVoizfGEHgL2) | 5:39 | 2025-02-07 | 2025-02-10 |
 | [Nam Myoho Renge Kyo Mantra \(Devotion to the Mystic Law\)](https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 4:11 | 2022-01-24 | 2023-09-15 |
+| [Namami Shamishan](https://open.spotify.com/track/5EJYBxHLwnnWlaDKa1F2ML) | [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Yogita Koli](https://open.spotify.com/artist/1WNKHpjtjwazXkmBA4PvOM), [Sanchari Sengupta](https://open.spotify.com/artist/1G3plpK0xcAaY31EpzOtAq) | [Namami Shamishan](https://open.spotify.com/album/1AyQ0x6ZbDlSuUXazs7bli) | 3:42 | 2026-05-28 |  |
 | [Namami Shamishan](https://open.spotify.com/track/6nGtJ1HhbqWvgEKL2WJbj3) | [Rohan Ajani](https://open.spotify.com/artist/3GYNX8lxoarT8oUdYQb4DI) | [Namami Shamishan](https://open.spotify.com/album/6SWdJmXFwZzXEI35V82EpX) | 4:46 | 2025-02-21 |  |
 | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5) | [Abdhesh Goswami](https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh) | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd) | 3:30 | 2025-02-07 |  |
 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 34:22 | 2023-10-26 | 2024-04-19 |
@@ -152,7 +153,7 @@
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 | 2024-02-28 |
 | [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Morpheus Ascending](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 | 2022-08-05 | 2023-09-15 |
 | [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 | 2022-10-09 |
-| [Rudra Mantra](https://open.spotify.com/track/1RyjrVBee8sK11gO9aEeqJ) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Rudra Mantra](https://open.spotify.com/album/3MtxV01IRpaJ44vEumlsf4) | 9:13 | 2025-10-16 |  |
+| [Rudra Mantra](https://open.spotify.com/track/1RyjrVBee8sK11gO9aEeqJ) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Rudra Mantra](https://open.spotify.com/album/3MtxV01IRpaJ44vEumlsf4) | 9:13 | 2025-10-16 | 2026-06-09 |
 | [Rudrashtakam](https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE) | [Rahul Vellal](https://open.spotify.com/artist/2UuXiT0l9zWMGwuz1dhyFw) | [Rudrashtakam](https://open.spotify.com/album/005iCBmS1Vhh7IzRW0j2rO) | 5:02 | 2024-02-29 | 2024-04-06 |
 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 | 2024-12-30 |  |
 | [Rudrashtakam \- The Manifestation Of Shiva](https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B) | [Vikram Hazra](https://open.spotify.com/artist/4tNu5NPtqLbnG90ew6QUpb) | [Rudrashtakam \- The Manifestation Of Shiva](https://open.spotify.com/album/6QJa1dUs1jgj1NRbQjzrvq) | 7:52 | 2025-02-21 |  |

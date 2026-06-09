@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
-  "num_followers": 170753,
+  "num_followers": 170759,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al",
+  "snapshot_id": "AAAAAGJ0jFXHEn90QViNmhT3rrZ0iZb8",
   "tracks": [
     {
       "added_at": "2026-05-26 11:56:11",
@@ -287,6 +287,30 @@
       "duration_ms": 153600,
       "name": "Na Nacchina Pillave (From \"Youth - Telugu\")",
       "url": "https://open.spotify.com/track/0ocaVtuRiLnRnPaZ92RNvQ"
+    },
+    {
+      "added_at": "2026-06-08 10:34:52",
+      "album": {
+        "name": "Chinuku Sadiga Cheragaa (From \"Gulliver\")",
+        "url": "https://open.spotify.com/album/7waddWXA3LTJcKFguDDKxS"
+      },
+      "artists": [
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Ganti Murali",
+          "url": "https://open.spotify.com/artist/41ZNefZcD3ZUn0GPVd4W3Z"
+        },
+        {
+          "name": "Raja Tabla",
+          "url": "https://open.spotify.com/artist/7BgjzIGzycjLIjq06cHLnv"
+        }
+      ],
+      "duration_ms": 273785,
+      "name": "Chinuku Sadiga Cheragaa (From \"Gulliver\")",
+      "url": "https://open.spotify.com/track/01EE3vxbrySwrrdDRJVJuq"
     },
     {
       "added_at": "2026-03-17 12:39:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1233972,
+  "num_followers": 1234009,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACJoF3gYcMPDz83iugk3bWs",
+  "snapshot_id": "aiS0gAAAAAB26YzmdptMESl+5NGTiRNu",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gridlock'd (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Never Had A Friend Like Me",
+      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Different Me",
         "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 291240,
       "name": "Playa Cardz Right",
       "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gridlock'd (The Soundtrack)",
-        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Never Had A Friend Like Me",
-      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
     },
     {
       "added_at": null,

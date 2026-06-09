@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 42,075 likes - 90 songs - 4 hr 54 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 42,070 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

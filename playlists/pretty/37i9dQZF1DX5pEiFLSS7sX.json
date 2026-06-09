@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 239271,
+  "num_followers": 239293,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -151,18 +151,30 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
+      "duration_ms": 412227,
+      "name": "Way Maker - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -211,30 +223,18 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 412227,
-      "name": "Way Maker - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 442893,
-      "name": "Nobody Like You (Live)",
-      "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
         "name": "Singalong (Live)",
         "url": "https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 123733,
       "name": "How Great Thou Art - Live",
       "url": "https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 442893,
+      "name": "Nobody Like You (Live)",
+      "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
         "name": "So Much More (Live)",
         "url": "https://open.spotify.com/album/0A3W9PWXZRiohthISHRmGf"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 384542,
       "name": "So Much More (Live)",
       "url": "https://open.spotify.com/track/2amP8TnRkOy9VKD02DTWzd"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 383560,
+      "name": "You're Making Something Beautiful - Spontaneous/Live",
+      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 260213,
       "name": "Oh The Wonder (feat. Mike Grayson)",
       "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "Canvas And Clay (Live)",
-        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 383560,
-      "name": "You're Making Something Beautiful - Spontaneous/Live",
-      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1307,26 +1307,22 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         },
         {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
         }
       ],
-      "duration_ms": 537866,
-      "name": "Your Glory / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+      "duration_ms": 349525,
+      "name": "Surrounded (Fight My Battles) [Live]",
+      "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1351,22 +1347,26 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         },
         {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 349525,
-      "name": "Surrounded (Fight My Battles) [Live]",
-      "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
+      "duration_ms": 537866,
+      "name": "Your Glory / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1427,6 +1427,22 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1495,22 +1511,6 @@
       "duration_ms": 391640,
       "name": "Wonder (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2026-04-17 06:51:16",

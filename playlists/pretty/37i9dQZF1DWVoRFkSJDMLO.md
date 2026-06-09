@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Tiwa Savage, Wande Coal and Mavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 89 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,218 likes - 89 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

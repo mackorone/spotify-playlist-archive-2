@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,874 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,028 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 26 | [Mutuo](https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib) | 2:57 |
 | 27 | [Me Está Doliendo](https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Está Doliendo](https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr) | 3:22 |
 | 28 | [Si Tú Me Vieras](https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 3:09 |
-| 29 | [Me la Avente](https://open.spotify.com/track/7veuGPNny9rQDQCXWOnVwM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5dOKgKogOiUYcDvlZxAqGl) | 2:35 |
-| 30 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
+| 29 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
+| 30 | [Me la Avente](https://open.spotify.com/track/7veuGPNny9rQDQCXWOnVwM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5dOKgKogOiUYcDvlZxAqGl) | 2:35 |
 | 31 | [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 |
-| 32 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
-| 33 | [Qué Más Puedo Pedir \- Bonus Track](https://open.spotify.com/track/6sDTax3tWwGdZGBi0ps6dF) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 3:17 |
+| 32 | [Qué Más Puedo Pedir \- Bonus Track](https://open.spotify.com/track/6sDTax3tWwGdZGBi0ps6dF) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 3:17 |
+| 33 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
 | 34 | [Bingo](https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:35 |
 | 35 | [Guaro \(Remix\)](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
 | 36 | [Lamentablemente](https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Otra como tú \(feat\. Carín León\)](https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 4:21 |
 | 50 | [Entregame Tu Amor \(En Vivo\)](https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 4:41 |
 
-Snapshot ID: `aiNjAAAAAACm66/85JXUW/ib8hu5n5mK`
+Snapshot ID: `aiS0gAAAAADCK6I0Nmm8jXHgDBa0sXbb`

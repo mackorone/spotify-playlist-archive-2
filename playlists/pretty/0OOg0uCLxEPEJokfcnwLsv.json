@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1049,
+  "num_followers": 1066,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGPTv1h0CAvqKT9hgsgGf0dDyd6vhH",
+  "snapshot_id": "AAAGQu5YN86939M9i0QSm86VtodvadJb",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1855,6 +1855,90 @@
       "duration_ms": 179744,
       "name": "Maldito cobarde",
       "url": "https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3"
+    },
+    {
+      "added_at": "2026-06-09 00:07:04",
+      "album": {
+        "name": "You Can Do The Impossible",
+        "url": "https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh"
+      },
+      "artists": [
+        {
+          "name": "The Render Line",
+          "url": "https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR"
+        }
+      ],
+      "duration_ms": 186007,
+      "name": "Ashes To Grace",
+      "url": "https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n"
+    },
+    {
+      "added_at": "2026-06-09 00:33:30",
+      "album": {
+        "name": "Transhumanity",
+        "url": "https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7"
+      },
+      "artists": [
+        {
+          "name": "Andrea Pizzo",
+          "url": "https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q"
+        },
+        {
+          "name": "Roberto Tiranti",
+          "url": "https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS"
+        }
+      ],
+      "duration_ms": 260283,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao"
+    },
+    {
+      "added_at": "2026-06-09 01:19:27",
+      "album": {
+        "name": "You Made Me Bad",
+        "url": "https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc"
+      },
+      "artists": [
+        {
+          "name": "Rayka Blake",
+          "url": "https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc"
+        }
+      ],
+      "duration_ms": 220137,
+      "name": "You Made Me Bad",
+      "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
+    },
+    {
+      "added_at": "2026-06-09 01:20:40",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/3vByTPtmfWDVFuChlrQENm"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3tGPKbmHBc6V0GFbfHwfXY"
+    },
+    {
+      "added_at": "2026-06-09 01:51:04",
+      "album": {
+        "name": "Bored of Peace",
+        "url": "https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 130259,
+      "name": "They Take You to War",
+      "url": "https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj"
     }
   ],
   "unique_name": "Unsigned Rock",

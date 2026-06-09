@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1161533,
+  "num_followers": 1161703,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 252960,
       "name": "Fernando",
       "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -475,6 +459,22 @@
       "duration_ms": 312578,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279144,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+      "duration_ms": 279144,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -575,18 +559,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 219109,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -603,6 +587,22 @@
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 219109,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -959,8 +959,24 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
@@ -968,9 +984,9 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-10-03 06:40:05",
@@ -987,22 +1003,6 @@
       "duration_ms": 230440,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Blue Moves",
-        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Harvest (2009 Remaster)",
         "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
-      },
-      "artists": [
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
-    },
-    {
       "added_at": "2024-12-27 17:35:00",
       "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
@@ -1371,6 +1355,22 @@
       "duration_ms": 208853,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 241721,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Brother To Brother",
-        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
-      },
-      "artists": [
-        {
-          "name": "Gino Vannelli",
-          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "I Just Wanna Stop",
-      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Dionne (Expanded Edition)",
         "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 211920,
       "name": "I'll Never Love This Way Again",
       "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Brother To Brother",
+        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
+      },
+      "artists": [
+        {
+          "name": "Gino Vannelli",
+          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "I Just Wanna Stop",
+      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Rose Royce III: Strikes Again!",
-        "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
       },
       "artists": [
         {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 238306,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+      "duration_ms": 158933,
+      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
+      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+        "name": "Rose Royce III: Strikes Again!",
+        "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 158933,
-      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
-      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
+      "duration_ms": 238306,
+      "name": "Love Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
     },
     {
       "added_at": "2023-03-13 08:18:56",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Snowqueen Of Texas",
-      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Never, Never, Never",
         "url": "https://open.spotify.com/album/7zYhvOnolaETW70A7bTFwX"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 218600,
       "name": "Never, Never, Never (Grande, Grande, Grande)",
       "url": "https://open.spotify.com/track/4C4vwiOFwWFD4GW7oL2uOp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Snowqueen Of Texas",
+      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
     },
     {
       "added_at": "2022-09-23 05:26:33",

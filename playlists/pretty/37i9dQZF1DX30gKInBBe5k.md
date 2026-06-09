@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,178 likes - 84 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,171 likes - 84 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 39 | [Autoluminescent](https://open.spotify.com/track/3Sl2z4TkK0lYJiMB7kXnz6) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [No Depression In Heaven](https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn) | 4:41 |
 | 40 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
 | 41 | [Dinosaur Act](https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18) | 4:13 |
-| 42 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
-| 43 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
+| 42 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
+| 43 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
 | 44 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
-| 45 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
-| 46 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
+| 45 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
+| 46 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
 | 47 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
 | 48 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |

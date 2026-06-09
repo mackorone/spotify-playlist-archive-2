@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3001808,
+  "num_followers": 3001821,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2023-01-25 14:57:38",

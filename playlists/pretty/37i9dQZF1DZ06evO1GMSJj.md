@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,865 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,878 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 10 | [Age Of Capricorn](https://open.spotify.com/track/6iQ2DAJ3fmtDzByJQAqAki) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:52 |
 | 11 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
 | 12 | [Into The Rainbow Vein](https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:44 |
-| 13 | [Over The Horizon Radar](https://open.spotify.com/track/3EdKuUmSqITYGp1t3JhSC6) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:08 |
+| 13 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
 | 14 | [Father And Son](https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:24 |
 | 15 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
 | 16 | [A Moment Of Clarity](https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:51 |
-| 17 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
+| 17 | [Over The Horizon Radar](https://open.spotify.com/track/3EdKuUmSqITYGp1t3JhSC6) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:08 |
 | 18 | [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 |
 | 19 | [Kaini Industries](https://open.spotify.com/track/3FJ4suZo6FuW0xmARmE0R4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 0:59 |
 | 20 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 38 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
 | 39 | [Transmisiones Ferox](https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:18 |
 
-Snapshot ID: `aiNjAAAAAAD8c7qLYoqMBEwor/GWZTe6`
+Snapshot ID: `aiS0gAAAAAAJQ1DfMoNQAPnuqXTPzveh`

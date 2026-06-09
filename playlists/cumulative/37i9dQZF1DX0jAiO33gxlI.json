@@ -6993,6 +6993,36 @@
     },
     {
       "album": {
+        "name": "Como que n\u00e3o fica milion\u00e1ria?",
+        "url": "https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
+        },
+        {
+          "name": "MIB",
+          "url": "https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143735,
+      "name": "Como que n\u00e3o fica milion\u00e1ria?",
+      "url": "https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW"
+    },
+    {
+      "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
       },
@@ -20522,7 +20552,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 144000,
       "name": "M\u00c9RITO",
       "url": "https://open.spotify.com/track/0aeZHEZs87jMWRWeHyD7XG"
@@ -26765,6 +26795,36 @@
     },
     {
       "album": {
+        "name": "Playoffs (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3YlFQMrS3XPNmbjqHVRV7Q"
+      },
+      "artists": [
+        {
+          "name": "SETE MC",
+          "url": "https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35"
+        },
+        {
+          "name": "Brennuz",
+          "url": "https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH"
+        },
+        {
+          "name": "ZackZin",
+          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+        },
+        {
+          "name": "DJ Cash",
+          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221443,
+      "name": "Playoffs - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oFY2pNhQIKmX5YCYld6j6"
+    },
+    {
+      "album": {
         "name": "D\u00e1 Pra Imaginar / Plebe",
         "url": "https://open.spotify.com/album/5K1NxYHrNZoTIjzhyGCUKO"
       },
@@ -26962,6 +27022,10 @@
         {
           "name": "Salve Malak",
           "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
         }
       ],
       "date_added": "2026-05-22",
@@ -35318,7 +35382,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 127146,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/3GzpDbL2Z4XG79bo1U5Ei4"

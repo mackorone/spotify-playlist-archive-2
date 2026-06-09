@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,146 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,096 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 2 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 |
 | 3 | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W), [Julia Glenmark](https://open.spotify.com/artist/2Jv6a3XMpqHemoAGdpaiuK) | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/album/7pH41TuSykueUvJElnq0go) | 3:19 |
 | 4 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
-| 5 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
-| 6 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 |
-| 7 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
-| 8 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
-| 9 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
-| 10 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
+| 5 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
+| 6 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
+| 7 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 |
+| 8 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
+| 9 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
+| 10 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
 | 11 | [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 |
 | 12 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
 | 13 | [My System](https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 50 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 
-Snapshot ID: `AAAAAJx8MnmITjlbOofsZvYUgaQzS78X`
+Snapshot ID: `AAAAAOI5Ifqix4EKikzuCkCj3MOoquHC`

@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 43 min
+107 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Me Va A Extrañar](https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 4:09 | 2023-03-10 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:59 | 2023-03-10 |  |
 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 | 2024-03-02 | 2026-06-06 |
+| [Menos Mal Que Me Querías](https://open.spotify.com/track/16faE40K81K0I9WvK5GAbc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/5YMd1AtLDukRoXaGmhGHjk) | 2:37 | 2026-06-09 |  |
 | [Mentiras](https://open.spotify.com/track/7qnImhMiu7IBw233XIl3Aa) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mudanzas](https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv) | 3:43 | 2025-03-14 | 2025-08-10 |
 | [Mentirme](https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR) | 3:08 | 2025-02-07 | 2025-10-16 |
 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 | 2023-11-10 | 2024-06-11 |
@@ -72,7 +73,7 @@
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 | 2023-11-10 |  |
 | [No Me Interesa](https://open.spotify.com/track/5qOo1MYAzwv7Bh03vdBO6z) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 15](https://open.spotify.com/album/4cCrEspWJyPhsBYK4PmQed) | 2:11 | 2025-02-09 | 2025-03-13 |
 | [No Me Pidas Perdón](https://open.spotify.com/track/05zTquAfe4VLaOpvMunKCQ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 9](https://open.spotify.com/album/6zfOPRCozrWyyCgdw5F0Py) | 2:56 | 2024-11-10 | 2024-11-29 |
-| [No Puedo Odiarte](https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [No Puedo Odiarte](https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr) | 2:06 | 2026-02-15 |  |
+| [No Puedo Odiarte](https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [No Puedo Odiarte](https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr) | 2:06 | 2026-02-15 | 2026-06-09 |
 | [No Soy Tu Prioridad](https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [No Soy Tu Prioridad](https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU) | 3:24 | 2025-08-10 | 2026-03-08 |
 | [No Te Contaron Mal](https://open.spotify.com/track/3oapm4AXLMjdBafY90vZ4R) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 2:55 | 2024-12-15 | 2025-02-28 |
 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 | 2025-06-22 |  |

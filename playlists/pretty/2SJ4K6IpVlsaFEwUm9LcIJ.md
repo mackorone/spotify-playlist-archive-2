@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,350 likes - 34 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,350 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 32 | [Apple to the Orange](https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me \(Redux\)](https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN) | 5:31 |
 | 33 | [Under my bed](https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [\*FLUTTERS AWAY\*](https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx) | 2:52 |
 | 34 | [Dozen Roses](https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Birds of Paradise](https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3) | 5:24 |
+| 35 | [May Our Enimies Never Find Happiness \- The Boats Remix](https://open.spotify.com/track/2q1gES6bTM02kqxvYXqVTH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Our Small Ideas](https://open.spotify.com/album/7m0WhwnsbyXCbID6NiiGzV) | 3:35 |
 
-Snapshot ID: `AAAOcCaU23rE0Wb6srBH6XVxk23hIvAw`
+Snapshot ID: `AAAOcQshfR68PI4pTd19woSShsRDgzdY`

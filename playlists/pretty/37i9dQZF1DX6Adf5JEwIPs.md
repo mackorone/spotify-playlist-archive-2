@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: LENCHO 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,784 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,787 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

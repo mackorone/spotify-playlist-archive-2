@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 24912,
+  "num_followers": 24911,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAABIOlVJQIFhlLh1lqQKwl3",
+  "snapshot_id": "aiS0gAAAAADMfTWhR+lUesEEYSGixgae",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 247493,
       "name": "Infinitamente Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ma1ydULyceJVy4QrLFCFT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR"
     },
     {
       "added_at": null,
@@ -835,46 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o 8 - Maravilhoso \u00c9s",
-        "url": "https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
-        {
-          "name": "Silv\u00e9rio Peres",
-          "url": "https://open.spotify.com/artist/20osU0MGKViBjY7vgDj57D"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "Toda Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -899,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
       },
       "artists": [
         {
@@ -908,9 +868,33 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 496186,
-      "name": "Eu Te Escolhi",
-      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o 8 - Maravilhoso \u00c9s",
+        "url": "https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Silv\u00e9rio Peres",
+          "url": "https://open.spotify.com/artist/20osU0MGKViBjY7vgDj57D"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 196780,
+      "name": "Toda Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4"
     },
     {
       "added_at": null,
@@ -931,6 +915,22 @@
       "duration_ms": 201430,
       "name": "Totalmente aos Teus P\u00e9s",
       "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 496186,
+      "name": "Eu Te Escolhi",
+      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
     },
     {
       "added_at": null,

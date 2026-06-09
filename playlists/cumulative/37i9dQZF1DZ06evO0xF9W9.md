@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 43 min
+129 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Kikito y Ruta \- En Vivo](https://open.spotify.com/track/4lSM2qqZnyMe77wgqEoyfY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Kikito & Ruta \(En Vivo\)](https://open.spotify.com/album/4HdZnedk7RxUPB3YbtEgDs) | 4:14 | 2025-09-09 | 2025-12-23 |
 | [Leyenda](https://open.spotify.com/track/1xM9xOhQlicmrc0tRvcNCK) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Flamen Beretta](https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Leyenda](https://open.spotify.com/album/2HbIpXTFRKHgZZknnQa12o) | 3:08 | 2025-05-20 |  |
 | [Leyenda](https://open.spotify.com/track/3CiLKA28ADlogEKaUOmPRX) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Flamen Beretta](https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Leyenda](https://open.spotify.com/album/6cEDQDne0kL7kW8KP2LiYc) | 3:08 | 2025-03-30 | 2025-06-20 |
+| [Loco](https://open.spotify.com/track/5HjfaOK02tFNGXtk7Jz9PW) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:22 | 2026-06-09 |  |
 | [Loco](https://open.spotify.com/track/6vatfs7t1je6O2rrp5NNBZ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:22 | 2024-07-12 | 2025-04-29 |
 | [Mas Diablo Soy Yo](https://open.spotify.com/track/4nNPWraqd2X2PIvMb3aVWk) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Mas Diablo Soy Yo](https://open.spotify.com/album/0y2s7NtgT1r0j16DQnO7aR) | 3:40 | 2024-06-19 | 2024-10-07 |
 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 | 2024-10-07 | 2025-04-08 |

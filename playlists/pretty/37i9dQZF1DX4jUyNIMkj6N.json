@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 223089,
+  "num_followers": 223090,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2026-06-04 22:00:53",
-      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-06-04 22:00:53",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2026-06-04 22:00:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "Simpler Times",
-        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 236375,
-      "name": "End of July",
-      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
-    },
-    {
-      "added_at": "2026-06-04 22:00:53",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -803,6 +787,38 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2026-06-04 22:00:53",
+      "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2026-06-04 22:00:53",
+      "album": {
+        "name": "Simpler Times",
+        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 236375,
+      "name": "End of July",
+      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
     },
     {
       "added_at": "2026-06-04 22:00:53",
@@ -843,18 +859,18 @@
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
       "artists": [
         {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2026-06-04 22:00:53",
@@ -875,24 +891,8 @@
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
-    },
-    {
-      "added_at": "2026-06-04 22:00:53",
-      "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
+        "name": "member",
+        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+      "duration_ms": 187800,
+      "name": "member",
+      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
     },
     {
       "added_at": "2026-06-04 22:00:53",
@@ -955,24 +955,24 @@
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "Vil bare henge med",
-        "url": "https://open.spotify.com/album/3lfeYZ7YxGQo3FqQ3mvnNU"
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
       "artists": [
         {
-          "name": "Daniela Reyes",
-          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 143720,
-      "name": "Vil bare henge med",
-      "url": "https://open.spotify.com/track/30Nq4NwgIXECwHdaRYvLUu"
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     },
     {
       "added_at": "2026-06-04 22:00:53",
       "album": {
-        "name": "member",
-        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 187800,
-      "name": "member",
-      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     }
   ],
   "unique_name": "Nordic Folk",

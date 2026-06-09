@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, Dilla
 
-3,513 songs - 6 day 19 hr 36 min
+3,514 songs - 6 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-27 | 2023-05-05 |
 | [Chemie!](https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Morgen hör ich auf! \(Club Mixtape\)](https://open.spotify.com/album/7gNVDiK2wJXWSdWRbR7VPI) | 2:44 | 2025-10-09 | 2026-01-30 |
 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 | 2024-12-06 |
-| [Chlamydien](https://open.spotify.com/track/6wfglpIRtV6v3G33XcrWyx) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [FRECH](https://open.spotify.com/album/21NkrJ2FPTdmyEoix2iDVZ) | 2:20 | 2026-05-14 |  |
+| [Chlamydien](https://open.spotify.com/track/6wfglpIRtV6v3G33XcrWyx) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [FRECH](https://open.spotify.com/album/21NkrJ2FPTdmyEoix2iDVZ) | 2:20 | 2026-05-14 | 2026-06-09 |
 | [Chlodwigplatz](https://open.spotify.com/track/5Fikxs7RowWr6I4RHzYHaV) | [JASCHA](https://open.spotify.com/artist/3QO7jPqvNV67rM86QQmc9i) | [Chlodwigplatz](https://open.spotify.com/album/6oAxx1eskXZnagKZR04DLi) | 2:13 | 2025-01-16 | 2025-03-04 |
 | [Chopard](https://open.spotify.com/track/4U5QQLxxig0D7dipnsGzBQ) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Chopard](https://open.spotify.com/album/7MIXNwtuzp7rJYrRoBvkW8) | 2:09 | 2024-10-24 | 2024-11-29 |
 | [Chrysanthemen](https://open.spotify.com/track/15i5jSYn8X8NdXMIJEUr2X) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Chrysanthemen](https://open.spotify.com/album/6igORa4loN6Ym7IDED0dO7) | 3:04 | 2023-02-23 | 2025-09-19 |
@@ -1624,6 +1624,7 @@
 | [K2](https://open.spotify.com/track/6ih5IRWOEOxRuWvFGqpWjd) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [K2](https://open.spotify.com/album/69qpXsRANJSERe4ssqXPNe) | 2:31 | 2026-04-09 | 2026-05-15 |
 | [KAFA LESH](https://open.spotify.com/track/1UMMlpNyJRnknkjhLXjHaG) | [Dennis Dies Das](https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx) | [KAFA LESH](https://open.spotify.com/album/0K8A06MTtKrflthF1POQKD) | 2:22 | 2023-06-29 | 2023-08-15 |
 | [kalender](https://open.spotify.com/track/1Yg7BRQvrOXKJAiLogfh9e) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [kalender](https://open.spotify.com/album/2BKUoV2aVZ9QsFhM7B9Sqz) | 3:39 | 2026-03-19 | 2026-05-01 |
+| [Kaltblut](https://open.spotify.com/track/7FBPhx8xt7R5iKPUpO1omc) | [Bambita](https://open.spotify.com/artist/5VRTu30WwBk1CacbGruYWT) | [Kaltblut](https://open.spotify.com/album/6F2WmbKGPC2NQCtogZe2rY) | 2:14 | 2026-06-08 |  |
 | [KAMIKAZE](https://open.spotify.com/track/4PTDaRYV60NupLQdT5dhgd) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [KAMIKAZE](https://open.spotify.com/album/09QWbdQYVoFvi2j6snm66Y) | 2:31 | 2024-05-16 | 2024-06-14 |
 | [Kann nicht verstehen](https://open.spotify.com/track/6VtZLn9OoNWWqBUrPr1V5C) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [One Hit Wonder](https://open.spotify.com/album/0HuaHpdk4lj1xYBgizEdOc) | 2:06 | 2023-08-29 | 2023-09-15 |
 | [Kann sein](https://open.spotify.com/track/4499PazhaYig2JCQR69zqE) | [Housejunkee](https://open.spotify.com/artist/7GDyQOWcC6put9QqYregzw), [Elia](https://open.spotify.com/artist/7mK6OPSMF4loHmoBwNAtuu) | [Kann sein](https://open.spotify.com/album/7BMaloNP3CDv9kPtzhet4P) | 1:51 | 2024-06-27 | 2024-07-05 |

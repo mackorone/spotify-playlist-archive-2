@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,291 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,329 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 27 | [Dicen Y Dicen](https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [X Aniversario](https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc) | 2:48 |
 | 28 | [Aqui Sigo de Pie](https://open.spotify.com/track/0ycp5Dtf0seaaZPt92siks) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:28 |
 | 29 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 |
-| 30 | [Soy La Suerte](https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
-| 31 | [Sabe Lo Que Trae](https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:59 |
+| 30 | [Sabe Lo Que Trae](https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:59 |
+| 31 | [Soy La Suerte](https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 32 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 |
 | 33 | [Hierba de Receta](https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 3:15 |
 | 34 | [El Chino \(En Vivo\)](https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm) | 2:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 44 | [Cuento Chino](https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joyas Sierreñas Con Revolver Cannabis](https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6) | 4:00 |
 | 45 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
 | 46 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
-| 47 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
-| 48 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
+| 47 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
+| 48 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
 | 49 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
 | 50 | [Te Vas ALV](https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 2:44 |
 
-Snapshot ID: `aiNjAAAAAACcdWZ8EIYdRhVvjfcdrndB`
+Snapshot ID: `aiS0gAAAAADsd9Iaj66eaMLjT1e27aQw`

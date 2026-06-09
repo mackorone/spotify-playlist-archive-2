@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADtYapB0wiYA2/3tpXWk20k",
+  "snapshot_id": "aiS0gAAAAADwevyI50/xKlSvbHWervQb",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything BoZ (feat. Coi Leray) [Sped Up]",
         "url": "https://open.spotify.com/album/1D0c9aRXtqvozbGFcPTRtX"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 187469,
       "name": "Everything BoZ (feat. Coi Leray) - Sped Up",
       "url": "https://open.spotify.com/track/51S023IDC6NvK6gPl49PT9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135613,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Karuppu",
-  "num_followers": 1088166,
+  "num_followers": 1088269,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGiVswmVKxx+Mcd56igXtArrbA26",
+  "snapshot_id": "AAAAAI653H+NwV5JWbQzi+ZB2zb+k/e2",
   "tracks": [
     {
       "added_at": "2026-05-25 17:43:42",
@@ -97,6 +97,46 @@
       "url": "https://open.spotify.com/track/3FDZKPorPuhOZYw9WileCl"
     },
     {
+      "added_at": "2026-06-08 09:30:26",
+      "album": {
+        "name": "Raga of Revenge (From \"DC\")",
+        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Raga of Revenge (From \"DC\")",
+      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
+    },
+    {
+      "added_at": "2026-06-08 09:30:26",
+      "album": {
+        "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ananthakrrishnan",
+          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Pattuma",
+      "url": "https://open.spotify.com/track/7B5cRMFpi32kh7fpty0sJx"
+    },
+    {
       "added_at": "2026-03-17 06:06:13",
       "album": {
         "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
@@ -167,6 +207,26 @@
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+    },
+    {
+      "added_at": "2026-06-08 09:30:26",
+      "album": {
+        "name": "ICEBOY",
+        "url": "https://open.spotify.com/album/2TQ4TXcdmgfG4BqMfUyv2j"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "SHIV PAUL",
+          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
+        }
+      ],
+      "duration_ms": 194074,
+      "name": "ICEBOY",
+      "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
     },
     {
       "added_at": "2026-04-28 06:55:17",
@@ -645,22 +705,6 @@
       "url": "https://open.spotify.com/track/3OWCVnMFh7vQgkjoVfvEIQ"
     },
     {
-      "added_at": "2026-03-31 07:42:44",
-      "album": {
-        "name": "Maname",
-        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Black",
-          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Maname",
-      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
-    },
-    {
       "added_at": "2025-07-31 11:22:52",
       "album": {
         "name": "Powerhouse (From \"Coolie\") (Tamil)",
@@ -1061,34 +1105,6 @@
       "url": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz"
     },
     {
-      "added_at": "2024-11-04 10:40:17",
-      "album": {
-        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
-        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 229811,
-      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
-      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
-    },
-    {
       "added_at": "2025-03-27 11:29:27",
       "album": {
         "name": "Dragon (Original Motion Picture Soundtrack)",
@@ -1159,30 +1175,6 @@
       "duration_ms": 155400,
       "name": "Paiya Dei - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
-    },
-    {
-      "added_at": "2024-11-08 12:55:25",
-      "album": {
-        "name": "Lubber Pandhu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3LBvPx4DFCDyRUbfdlu9xk"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Sivaangi Krishnakumar",
-          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
-        }
-      ],
-      "duration_ms": 247448,
-      "name": "Chillanjirukkiye",
-      "url": "https://open.spotify.com/track/2g9aiiRu6dteue5VD4DoOF"
     },
     {
       "added_at": "2024-12-20 12:52:38",

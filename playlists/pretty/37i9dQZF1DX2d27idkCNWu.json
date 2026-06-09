@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259991,
+  "num_followers": 259983,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Arcade (Acoustic Version)",
         "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 199237,
       "name": "Arcade - Acoustic Version",
       "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Meant to Be (Acoustic)",
-        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 158279,
-      "name": "Meant to Be - Acoustic",
-      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 291960,
       "name": "All of Me - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Meant to Be (Acoustic)",
+        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 158279,
+      "name": "Meant to Be - Acoustic",
+      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "A Gente S\u00f3 Conhece Quando Termina",
-        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "A Gente S\u00f3 Conhece Quando Termina",
-      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
-        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
         {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 207833,
-      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
+      "duration_ms": 142177,
+      "name": "Only Want You - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 142177,
-      "name": "Only Want You - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+      "duration_ms": 207833,
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Our Roots Run Deep (Live)",
-        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 535611,
-      "name": "All I Want - Live in Dublin / 2022",
-      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 154990,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 166400,
       "name": "Coast (feat. Anderson .Paak) [Acoustic]",
       "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 154990,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Clau: We4Sessions",
         "url": "https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 207671,
       "name": "Pouca Pausa / Cigana",
       "url": "https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
     },
     {
       "added_at": "2026-05-29 03:00:20",

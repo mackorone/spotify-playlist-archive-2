@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,857 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,856 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 61 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
 | 62 | [¡ SÓ NÓS ! \(feat\. Carla Prata\)](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [WONDER](https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb) | 3:13 |
-| 63 | [Bon Vivan](https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bon Vivan](https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p) | 2:17 |
-| 64 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
-| 65 | [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 |
-| 66 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 63 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
+| 64 | [Bon Vivan](https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bon Vivan](https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p) | 2:17 |
+| 65 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 66 | [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 |
 | 67 | [Se Eu Fosse a Ti](https://open.spotify.com/track/7nOyzGWCyciv7BWBoVtzuQ) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Se Eu Fosse a Ti](https://open.spotify.com/album/1NU178xk4sfnHGTw3rIZPf) | 3:10 |
-| 68 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
-| 69 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
+| 68 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
+| 69 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 70 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 |
 | 71 | [Coca Cola](https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Coca Cola](https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G) | 3:39 |
 | 72 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
-| 73 | [Ko Kai \(feat\. Richie Campbell\)](https://open.spotify.com/track/25ynrfpCTfbkmXtWaN6evH) | [Rislene](https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Ko Kai \(feat\. Richie Campbell\)](https://open.spotify.com/album/1vMLoOHnNjLU5bjfNakVXe) | 3:16 |
-| 74 | [Flexin On U](https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Flexin On U](https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u) | 4:31 |
+| 73 | [Flexin On U](https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Flexin On U](https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u) | 4:31 |
+| 74 | [Sobre nós](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós \(Deluxe\)](https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6) | 3:32 |
 | 75 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 
 Snapshot ID: `AAAAAN0wXQ53IAcC7xy+XoEN1kKL4AtV`

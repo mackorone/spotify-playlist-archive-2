@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,919 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,926 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 47 | [1STAR](https://open.spotify.com/track/5AoBAHKO53yXadGIE4KFhZ) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Kurosawa Ruby](https://open.spotify.com/album/5Wtr1SAcAYDSBegAJX15Pm) | 5:53 |
 | 48 | [海岸通りで待ってるよ](https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 4:19 |
 | 49 | [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
-| 50 | [青空Jumping Heart \- 黒澤ダイヤ Solo Ver.](https://open.spotify.com/track/2DDILzu0ItUNl1fhjKKkDR) | [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Kurosawa Dia](https://open.spotify.com/album/5YORJ7008r1YgiMu6WyEVj) | 4:44 |
+| 50 | [Main theme of Aqours 5th anniversary!!](https://open.spotify.com/track/3edVZvuk2Rm6YvbJpAyfki) | [浦の星交響楽団](https://open.spotify.com/artist/4GYeRiLpnmst5hKbKxeoBE) | [smile smile ship Start!](https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe) | 3:30 |
 
 Snapshot ID: `AAAAANxC0ru9GS11FDMUTClX4uMuUE1A`

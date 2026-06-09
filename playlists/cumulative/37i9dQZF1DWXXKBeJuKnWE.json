@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Beartooth",
+  "description": "The home of heavy music. Cover: Converge",
   "name": "The Pit",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 211485,
       "name": "A Kiss for the Whole World x",
       "url": "https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K"
+    },
+    {
+      "album": {
+        "name": "CO.WAR.DICE.",
+        "url": "https://open.spotify.com/album/50CqRrQ2YcFEZ6JXTeN1Po"
+      },
+      "artists": [
+        {
+          "name": "Marmozets",
+          "url": "https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213391,
+      "name": "A Kiss From A Mother",
+      "url": "https://open.spotify.com/track/4NmnXKCuHWnIaZ2bVkzWWA"
     },
     {
       "album": {
@@ -848,7 +866,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 269000,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
@@ -2912,6 +2930,24 @@
       "duration_ms": 240689,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/3nFrKCdaILOHeBs8c8culM"
+    },
+    {
+      "album": {
+        "name": "Dead Reckoning",
+        "url": "https://open.spotify.com/album/4REGfUvxw30NbY5h7cheJC"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Dead Reckoning",
+      "url": "https://open.spotify.com/track/5Foy9tRriwgkmFXurSX4Wu"
     },
     {
       "album": {
@@ -3525,6 +3561,42 @@
     },
     {
       "album": {
+        "name": "Doom in Bloom",
+        "url": "https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197370,
+      "name": "Doom in Bloom",
+      "url": "https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y"
+    },
+    {
+      "album": {
+        "name": "DOOM LOOP",
+        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "DOOM LOOP",
+      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
+    },
+    {
+      "album": {
         "name": "Dope",
         "url": "https://open.spotify.com/album/4uxYRLI4sPIx1tsHEl13WV"
       },
@@ -3620,6 +3692,24 @@
       "duration_ms": 138651,
       "name": "DULL",
       "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs"
+    },
+    {
+      "album": {
+        "name": "Injury Episode",
+        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263921,
+      "name": "dull blade disguise",
+      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
     },
     {
       "album": {
@@ -3930,7 +4020,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
@@ -4408,7 +4498,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 277357,
       "name": "Florida",
       "url": "https://open.spotify.com/track/35uOOYj5KVoqj78sNCHXGB"
@@ -4859,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Giraffe",
+        "url": "https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268042,
+      "name": "Giraffe",
+      "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
+    },
+    {
+      "album": {
         "name": "GIRL'S TALK",
         "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
       },
@@ -5174,6 +5282,24 @@
       "duration_ms": 252333,
       "name": "Greedy Bastards",
       "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
+    },
+    {
+      "album": {
+        "name": "grin & bear it",
+        "url": "https://open.spotify.com/album/1jQ5ZRxtDbZxkf9EqZSr1K"
+      },
+      "artists": [
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197449,
+      "name": "grin & bear it",
+      "url": "https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB"
     },
     {
       "album": {
@@ -6076,7 +6202,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 270643,
       "name": "I Reflect The Sun, It Bounces Back",
       "url": "https://open.spotify.com/track/5OSiUZVwkTEEanBOfyquoq"
@@ -7210,7 +7336,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
@@ -8757,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Armour Of Angels",
+        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+    },
+    {
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -9392,7 +9536,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 280924,
       "name": "Puppet Parade",
       "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
@@ -9702,6 +9846,24 @@
       "duration_ms": 240868,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn"
+    },
+    {
+      "album": {
+        "name": "somehow i still believe",
+        "url": "https://open.spotify.com/album/5VKe0U5A9GOecdN4dtmvr7"
+      },
+      "artists": [
+        {
+          "name": "newshapes",
+          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194124,
+      "name": "rescue light",
+      "url": "https://open.spotify.com/track/689IuY4dpAJTtgAuze5v0C"
     },
     {
       "album": {
@@ -10311,6 +10473,24 @@
     },
     {
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262784,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
+    },
+    {
+      "album": {
         "name": "SHADOW TALK",
         "url": "https://open.spotify.com/album/2j0mMD3ZhFnVDybXWpWcmQ"
       },
@@ -10582,6 +10762,24 @@
       "duration_ms": 199429,
       "name": "SLEEPS SOCIETY",
       "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
+    },
+    {
+      "album": {
+        "name": "Hum of Hurt",
+        "url": "https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103605,
+      "name": "Slip the Noose",
+      "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
     },
     {
       "album": {
@@ -11088,6 +11286,24 @@
       "duration_ms": 214964,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw"
+    },
+    {
+      "album": {
+        "name": "STRANGE",
+        "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227714,
+      "name": "STRANGE",
+      "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
     },
     {
       "album": {
@@ -12306,7 +12522,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 268828,
       "name": "Tipping Point",
       "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
@@ -12432,7 +12648,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 317738,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
@@ -12648,7 +12864,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
@@ -13132,7 +13348,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
@@ -13204,7 +13420,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"

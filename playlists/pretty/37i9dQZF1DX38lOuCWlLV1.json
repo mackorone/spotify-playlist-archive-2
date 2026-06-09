@@ -1,6 +1,6 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 290616,
+  "num_followers": 290627,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-20 16:11:30",
       "album": {
-        "name": "Urban Hymns (Deluxe / Remastered 2016)",
-        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 293586,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
-    },
-    {
-      "added_at": "2026-01-20 16:11:30",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 208266,
       "name": "Lovesong - Remastered",
       "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
+    },
+    {
+      "added_at": "2026-01-20 16:11:30",
+      "album": {
+        "name": "Urban Hymns (Deluxe / Remastered 2016)",
+        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 293586,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
     },
     {
       "added_at": "2026-01-20 16:11:30",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2026-01-20 16:11:30",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg"
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
       "artists": [
         {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        },
-        {
-          "name": "Raury",
-          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1F2VIrr9oh7MwkI3NyLtHJ"
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     }
   ],
   "unique_name": "Love Letter",

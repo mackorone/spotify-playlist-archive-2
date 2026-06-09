@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 22 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 17 | [Houses of American Style](https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:04 |
 | 18 | [Then People Forget](https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 | 19 | [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 |
-| 20 | [Sequoia](https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:36 |
+| 20 | [Worry](https://open.spotify.com/track/4FdfVRJL0gWEx2UWzNpIr9) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:05 |
 | 21 | [ShaqFu](https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:25 |
-| 22 | [Albert Suffers](https://open.spotify.com/track/7JesfTaIawT1Uib0zuvwta) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:06 |
+| 22 | [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 |
 
-Snapshot ID: `aiNjAAAAAAApIpT8m/kclqAv1jUjOvRT`
+Snapshot ID: `aiS0gAAAAADkWaijNtsv0tOemZoG/9AZ`

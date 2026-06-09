@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Ariana Grande",
+  "description": "The hottest songs you need to listen to right now. Cover: Taylor Swift",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
+    },
+    {
+      "album": {
+        "name": "4WARD",
+        "url": "https://open.spotify.com/album/4Wu52D5zdJ7HpcvkgxaESk"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "4 Flowers",
+      "url": "https://open.spotify.com/track/3wc2PoPGpb1vzM79AgitIh"
     },
     {
       "album": {
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 143233,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/1zaLXBYgZmydL8bUIMkasG"
@@ -2373,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Black Prada Dress",
+        "url": "https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199966,
+      "name": "Black Prada Dress",
+      "url": "https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH"
+    },
+    {
+      "album": {
         "name": "Black Tie",
         "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
       },
@@ -2553,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -2706,7 +2764,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 216400,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
@@ -4287,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/2ffu3OdDDsU9bKmaweM8nS"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196135,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/3KFB1sw4Zj4xbScoJBH4gM"
+    },
+    {
+      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
       },
@@ -4882,6 +4958,24 @@
       "duration_ms": 169253,
       "name": "Don't Think Twice - Edit",
       "url": "https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
     },
     {
       "album": {
@@ -5704,7 +5798,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 170346,
       "name": "Eurosummer - Girls Trip",
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
@@ -8968,7 +9062,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 177173,
       "name": "Hvnly (feat. JIHYO)",
       "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
@@ -9300,6 +9394,24 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -9720,7 +9832,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 149477,
       "name": "If I Had",
       "url": "https://open.spotify.com/track/3LxpCaAHHBuJgKtgUHEcBm"
@@ -9964,6 +10076,28 @@
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216115,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
     },
     {
       "album": {
@@ -12141,6 +12275,24 @@
     },
     {
       "album": {
+        "name": "lucky",
+        "url": "https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "lucky",
+      "url": "https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
@@ -12460,7 +12612,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
@@ -12838,6 +12990,24 @@
       "duration_ms": 133183,
       "name": "Mirage - for Assassin's Creed Mirage",
       "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "album": {
+        "name": "Miss Me More",
+        "url": "https://open.spotify.com/album/6sF3ifHeZhuzBvtle2lhct"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/1BT4DKm4C3FBJntfzxAdKI"
     },
     {
       "album": {
@@ -14911,6 +15081,24 @@
     },
     {
       "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "album": {
         "name": "Past Won't Leave My Bed",
         "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
       },
@@ -15124,7 +15312,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 205306,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
@@ -16014,7 +16202,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 198391,
       "name": "Right Back!",
       "url": "https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n"
@@ -17016,7 +17204,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 209852,
       "name": "Shape of a Woman",
       "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
@@ -19189,6 +19377,24 @@
     },
     {
       "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -20234,7 +20440,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 122986,
       "name": "TNT",
       "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"

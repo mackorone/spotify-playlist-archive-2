@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,033 songs - 2 day 17 hr 9 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,033 songs - 2 day 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,7 +371,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 361 | [The Weekend](https://open.spotify.com/track/5Q2zegKtivfhJqCwfugGrV) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Store Brand Talent](https://open.spotify.com/album/2P76VKyK1AUTSrf6oHiTcD) | 4:00 |
 | 362 | [Tiny Knees](https://open.spotify.com/track/2M9aVNmI4VCzfe1gVb5JOZ) | [BAMBEES](https://open.spotify.com/artist/5XRS6XmNxoOO0nDsJgeOrl) | [Tiny Knees](https://open.spotify.com/album/7iH7RY1pYp41IZPrg6QjIQ) | 2:47 |
 | 363 | [Regret](https://open.spotify.com/track/16rYuJpqPyjUPvjyEV1jVg) | [Resonare Official](https://open.spotify.com/artist/3KP6bTrG9DboOKYnPebkTi) | [Regret](https://open.spotify.com/album/3ihDqR8hjUCiPuapC8LPlo) | 2:32 |
-| 364 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 2:41 |
+| 364 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 3:23 |
 | 365 | [Antes do Fim](https://open.spotify.com/track/312pZXdVyBJr8iUTMQjxg9) | [LinkHal](https://open.spotify.com/artist/40K4yTKWbNbFPfUIGeESQa) | [Antes do Fim](https://open.spotify.com/album/6wYELSGAfoVHPOU4jFNgNI) | 2:18 |
 | 366 | [Phoenix](https://open.spotify.com/track/6L2ruJKIRq0OfmH37zW3to) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Phoenix](https://open.spotify.com/album/2W7OCef1y0cJYq7ceBEcEs) | 3:03 |
 | 367 | [Harmful If Swallowed \- Single Version](https://open.spotify.com/track/6UQMBu0j2LIrlCRQOpMcp9) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [First Blood \(Deluxe Edition\)](https://open.spotify.com/album/7utgJd6dKM9RsRFN5KHbtN) | 3:18 |
@@ -802,7 +802,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 792 | [Echoes](https://open.spotify.com/track/1AVKALpjBXkLrXlKwaugEN) | [ElectricDust](https://open.spotify.com/artist/315lu2eEs9iMeyfZFGpiz7) | [Echoes](https://open.spotify.com/album/14wRsCKTqFRUJIB13EAJS8) | 5:33 |
 | 793 | [Angelus Furor](https://open.spotify.com/track/7tzajWlUdUrhdSx4X1SB8a) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Legions of the Fallen](https://open.spotify.com/album/7dRhnzbDSIJe8YodIT6G7Y) | 4:38 |
 | 794 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 |
-| 795 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 |
+| 795 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:12 |
 | 796 | [Batteries Are Not Included](https://open.spotify.com/track/5Yvf4ahxBIsMkQ9PWjSpT8) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [Batteries Are Not Included](https://open.spotify.com/album/6ZuVQpTUoh1HIrftDoxiH8) | 3:31 |
 | 797 | [Lucky Eight](https://open.spotify.com/track/3N12sKNtWiyV2nIr2Bsr1T) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 4:00 |
 | 798 | [Know Thyself](https://open.spotify.com/track/0NsdQxyf7OexDbjzlYReRP) | [Lunaverra](https://open.spotify.com/artist/3RgfpfmGKe3xV4a7VwuN1P) | [Know Thyself](https://open.spotify.com/album/2Nf4njSkt5bbgbwHQxG6gI) | 3:42 |

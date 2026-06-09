@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,627 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,696 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 37 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 38 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
 | 39 | [I'm a Ramblin' Man](https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Ramblin' Man](https://open.spotify.com/album/353z5yWoQlug84akazanpg) | 2:50 |
-| 40 | [Ghosts Of Mississippi](https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 6:14 |
+| 40 | [I Could Drive You Crazy](https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 |
 | 41 | [High Cost Of Living](https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 5:45 |
-| 42 | [I Could Drive You Crazy](https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 |
+| 42 | [Ghosts Of Mississippi](https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 6:14 |
 | 43 | [Outlaw State Of Mind](https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 5:35 |
 | 44 | [Country State Of Mind](https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Montana Café](https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf) | 3:57 |
 | 45 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 77 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 |
 | 78 | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq) | 4:05 |
 | 79 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 |
-| 80 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 |
+| 80 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:08 |
 
 Snapshot ID: `AAAAADieinX4mHxOmbeCu2lrH0EZ3hwI`

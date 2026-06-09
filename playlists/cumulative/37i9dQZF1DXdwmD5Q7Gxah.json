@@ -6601,6 +6601,24 @@
     },
     {
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/6PheFxPZHB84sDhNoFVlzP"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/3BcUsUC9G566st6P5elPko"
+    },
+    {
+      "album": {
         "name": "Benton Way / Backseat",
         "url": "https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK"
       },

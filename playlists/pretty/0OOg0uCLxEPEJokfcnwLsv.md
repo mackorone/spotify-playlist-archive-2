@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,049 likes - 115 songs - 7 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,066 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 113 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 |
 | 114 | [Screamin' My Name](https://open.spotify.com/track/7L8C8wcnRF6zXkBb0qMtA5) | [Celina Rescott](https://open.spotify.com/artist/1IPJQoIPovq22uQFKnX4V1) | [Screamin' My Name](https://open.spotify.com/album/2Exfjw6PxyqsezGMChKZTR) | 3:05 |
 | 115 | [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 |
+| 116 | [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 |
+| 117 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 |
+| 118 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 |
+| 119 | [Karma](https://open.spotify.com/track/3tGPKbmHBc6V0GFbfHwfXY) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Karma](https://open.spotify.com/album/3vByTPtmfWDVFuChlrQENm) | 4:29 |
+| 120 | [They Take You to War](https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:10 |
 
-Snapshot ID: `AAAGPTv1h0CAvqKT9hgsgGf0dDyd6vhH`
+Snapshot ID: `AAAGQu5YN86939M9i0QSm86VtodvadJb`

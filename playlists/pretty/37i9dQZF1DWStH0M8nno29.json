@@ -1,6 +1,6 @@
 {
   "description": "The perfect mix of your favourite 00s, 10s and 20s party starters!",
-  "num_followers": 213499,
+  "num_followers": 213516,
   "original_name": "Ultimate Party Mix",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -723,42 +723,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "The Time Of Our Lives (International Version)",
-        "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -779,18 +743,38 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+        "name": "The Time Of Our Lives (International Version)",
+        "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -807,6 +791,22 @@
       "duration_ms": 233306,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "party 4 u",
+      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 220640,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 200111,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1635,22 +1651,6 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2025-12-30 12:21:13",

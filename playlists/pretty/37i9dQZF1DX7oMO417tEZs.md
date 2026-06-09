@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: distraction4ever
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,937 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,950 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

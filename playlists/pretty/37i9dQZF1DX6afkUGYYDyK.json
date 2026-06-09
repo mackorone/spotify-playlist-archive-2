@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 73072,
+  "num_followers": 73083,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/6h98A5KHmYsGsL4S52GeMo"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 229649,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/0AnnD87PGRDF7RnLAmZvkN"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "Sons Of Sunday",
         "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 435322,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/6h98A5KHmYsGsL4S52GeMo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 229649,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/0AnnD87PGRDF7RnLAmZvkN"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "I Thank God",
-        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
-      },
-      "artists": [
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "I Thank God",
-      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 415640,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "That's How I Know",
-        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
-      },
-      "artists": [
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
-        }
-      ],
-      "duration_ms": 219836,
-      "name": "That's How I Know",
-      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215384,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "That's How I Know",
+        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 219836,
+      "name": "That's How I Know",
+      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -700,6 +700,26 @@
       "added_at": "2026-05-19 08:14:42",
       "album": {
         "name": "Thank You",
+        "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 417177,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Thank You",
         "url": "https://open.spotify.com/album/0ldSyj9TMo9nrfz4xYoDvs"
       },
       "artists": [
@@ -719,26 +739,6 @@
       "duration_ms": 346682,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1Wj32fZIMMp1RM7DhvIWrF"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
-      },
-      "artists": [
-        {
-          "name": "Jovonta Patton",
-          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 417177,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "All I Can Say",
-        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
-      },
-      "artists": [
-        {
-          "name": "MK Green",
-          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0BCVRyseIXCf3cGj0OWKfR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 298275,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "All I Can Say",
+        "url": "https://open.spotify.com/album/64ifFrA1yrkEQGdTExRvbk"
+      },
+      "artists": [
+        {
+          "name": "MK Green",
+          "url": "https://open.spotify.com/artist/1NbqPxNpV0iJnmWWvKAc96"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/1SSSatPYMfoGhKF68qVti0"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/2ocrwBpvEWwXfjL6eZdkk7"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/7bepx5i8LoFzHKinpEWuUM"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "Give Thanks To God",
         "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 214056,
       "name": "Give Thanks To God",
       "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2ocrwBpvEWwXfjL6eZdkk7"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/7bepx5i8LoFzHKinpEWuUM"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Thank You (feat. MARTY)",
-        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 202634,
-      "name": "Thank You (feat. MARTY)",
-      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -1099,22 +1079,22 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Strength (feat. John P. Kee)",
-        "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
+        "name": "Thank You (feat. MARTY)",
+        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
       },
       "artists": [
         {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         },
         {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 314600,
-      "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
-      "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
+      "duration_ms": 202634,
+      "name": "Thank You (feat. MARTY)",
+      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1131,6 +1111,26 @@
       "duration_ms": 329824,
       "name": "Oh Give Thanks - Live",
       "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Strength (feat. John P. Kee)",
+        "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
+      },
+      "artists": [
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
-        "name": "Amazing Love",
-        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
       "artists": [
         {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 297866,
-      "name": "Lord I Thank You",
-      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1527,6 +1511,22 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Amazing Love",
+        "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Lord I Thank You",
+      "url": "https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1727,6 +1727,34 @@
     {
       "added_at": "2026-05-19 08:14:42",
       "album": {
+        "name": "Always Thank You",
+        "url": "https://open.spotify.com/album/3tQ3BKywz8KXW3WUI4m7N2"
+      },
+      "artists": [
+        {
+          "name": "RIVERS",
+          "url": "https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW"
+        },
+        {
+          "name": "Anchored Music",
+          "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
+        },
+        {
+          "name": "Katie Rios",
+          "url": "https://open.spotify.com/artist/0hLRTUumZ11OLGBqL2PP3R"
+        },
+        {
+          "name": "Hailey Hibbard",
+          "url": "https://open.spotify.com/artist/0ESMvOE8xepPgfkYXhCgVU"
+        }
+      ],
+      "duration_ms": 391636,
+      "name": "Always Thank You",
+      "url": "https://open.spotify.com/track/11lIYYbMiKHwMuNaFIED6p"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
         "name": "Grace - Live Worship From New Wine 2001",
         "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
       },
@@ -1739,6 +1767,22 @@
       "duration_ms": 237146,
       "name": "Give Thanks To The Lord (Forever) - Live",
       "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
+    },
+    {
+      "added_at": "2026-05-19 08:14:42",
+      "album": {
+        "name": "Thank You (Radio Version)",
+        "url": "https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 206358,
+      "name": "Thank You - Radio Version",
+      "url": "https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra"
     },
     {
       "added_at": "2026-05-19 08:14:42",
@@ -1787,50 +1831,6 @@
       "duration_ms": 250360,
       "name": "We Give Thanks (Psalm 107) - Live",
       "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
-        "name": "All Sons & Daughters",
-        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 335652,
-      "name": "We Give You Thanks",
-      "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"
-    },
-    {
-      "added_at": "2026-05-19 08:14:42",
-      "album": {
-        "name": "Kingdom Come - The Soundtrack",
-        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & Mary Mary",
-          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     }
   ],
   "unique_name": "Give Thanks",

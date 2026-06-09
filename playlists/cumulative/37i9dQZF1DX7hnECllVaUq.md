@@ -4,7 +4,7 @@
 
 > The biggest hits from country artists around the globe\. Cover: Mack Geiger
 
-230 songs - 12 hr 47 min
+231 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,12 +219,13 @@
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-07-18 |  |
 | [What The Truck](https://open.spotify.com/track/2W49YPwZNSwtbTzIqO5dMt) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [What The Truck](https://open.spotify.com/album/41lFKChrp5p5NKxsW6exdG) | 2:24 | 2023-03-31 | 2023-09-30 |
 | [What You Don't Know](https://open.spotify.com/track/3kSZUbS1EXE5xaOt1VDmCV) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [What You Don't Know](https://open.spotify.com/album/6pPjnREffMBPUyQhfgpwgr) | 2:21 | 2024-09-20 |  |
+| [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2026-06-08 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:02 | 2023-03-31 |  |
 | [When Summer Rolls Around](https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [When Summer Rolls Around](https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry) | 2:54 | 2023-05-05 | 2023-07-05 |
 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 | 2024-09-13 |  |
 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2024-03-15 |  |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2023-03-31 | 2025-07-19 |
-| [Whiskey Roll](https://open.spotify.com/track/3fKECCb9dAef1blKPLVT7T) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [Whiskey Roll](https://open.spotify.com/album/79grCsrT20DaJRQVwDXiI4) | 3:18 | 2025-07-25 |  |
+| [Whiskey Roll](https://open.spotify.com/track/3fKECCb9dAef1blKPLVT7T) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [Whiskey Roll](https://open.spotify.com/album/79grCsrT20DaJRQVwDXiI4) | 3:18 | 2025-07-25 | 2026-06-09 |
 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick Original](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 | 2025-07-18 |  |
 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 | 2023-03-31 | 2023-08-12 |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2024-03-15 | 2025-08-28 |

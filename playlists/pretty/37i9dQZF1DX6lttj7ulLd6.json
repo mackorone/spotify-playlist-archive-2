@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 417878,
+  "num_followers": 418298,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 285626,
       "name": "Perfect Moment",
       "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Forever, For Always, For Luther",
-        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 304453,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Forever, For Always, For Luther",
+        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+      "duration_ms": 270840,
+      "name": "West Coast Coolin'",
+      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -327,18 +327,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 270840,
-      "name": "West Coast Coolin'",
-      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -539,34 +539,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -587,18 +571,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
       "artists": [
         {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
         }
       ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -731,6 +715,22 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Always Thinkin' Of You",
-      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Grinnell Street",
         "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 235696,
       "name": "Grinnell Street",
       "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Always Thinkin' Of You",
+      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Peas And Carrots",
-        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Peas And Carrots",
-      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 324213,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Peas And Carrots",
+        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Peas And Carrots",
+      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
         "name": "Smooth Jazz Radio Hits Volume Two",
         "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/79T28R4Pzi3AsZ4riDAUH8"
       },
       "artists": [
         {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+          "name": "Rosello Blue",
+          "url": "https://open.spotify.com/artist/25oZlFal7MonBvnIataENe"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+      "duration_ms": 174445,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/72hAIzB2mQRITHaWCtcAyH"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1027,22 +1043,6 @@
       "duration_ms": 245933,
       "name": "Kimi Trick",
       "url": "https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/79T28R4Pzi3AsZ4riDAUH8"
-      },
-      "artists": [
-        {
-          "name": "Rosello Blue",
-          "url": "https://open.spotify.com/artist/25oZlFal7MonBvnIataENe"
-        }
-      ],
-      "duration_ms": 174445,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/72hAIzB2mQRITHaWCtcAyH"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
+        "name": "Down / Fade",
+        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "duration_ms": 124848,
+      "name": "Down / Fade",
+      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
         "name": "Southend Sunset",
         "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Down / Fade",
-        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
       "artists": [
         {
-          "name": "Taipei Tapes",
-          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
         }
       ],
-      "duration_ms": 124848,
-      "name": "Down / Fade",
-      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 332920,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
-        "name": "Golden Hour Groove",
-        "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
-      },
-      "artists": [
-        {
-          "name": "Wellington Groove",
-          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
-        }
-      ],
-      "duration_ms": 196017,
-      "name": "Golden Hour Groove",
-      "url": "https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
+        "name": "Golden Hour Groove",
+        "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
+      },
+      "artists": [
+        {
+          "name": "Wellington Groove",
+          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
+        }
+      ],
+      "duration_ms": 196017,
+      "name": "Golden Hour Groove",
+      "url": "https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
         "name": "Chesterfield",
         "url": "https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
       },
       "artists": [
         {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
         }
       ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
+      "duration_ms": 302459,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Picante",
-        "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
+        "name": "Echoes Of Hollywood",
+        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
       },
       "artists": [
         {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+          "name": "Duke Washington",
+          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
         }
       ],
-      "duration_ms": 302459,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS"
+      "duration_ms": 184875,
+      "name": "Echoes Of Hollywood",
+      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1387,18 +1387,34 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Echoes Of Hollywood",
-        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
       "artists": [
         {
-          "name": "Duke Washington",
-          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
         }
       ],
-      "duration_ms": 184875,
-      "name": "Echoes Of Hollywood",
-      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "What\u2019s The Score?",
+        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 264640,
+      "name": "What\u2019s The Score?",
+      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "What\u2019s The Score?",
-        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
-      },
-      "artists": [
-        {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
-        }
-      ],
-      "duration_ms": 264640,
-      "name": "What\u2019s The Score?",
-      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
       },
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
+        "name": "BeatBack",
+        "url": "https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 232969,
+      "name": "BeatBack",
+      "url": "https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
         "name": "Influences",
         "url": "https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 211124,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
-        "name": "BeatBack",
-        "url": "https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR"
-      },
-      "artists": [
-        {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
-        }
-      ],
-      "duration_ms": 232969,
-      "name": "BeatBack",
-      "url": "https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo"
     },
     {
       "added_at": "2026-05-08 04:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Internet Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,412 likes - 283 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,409 likes - 283 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

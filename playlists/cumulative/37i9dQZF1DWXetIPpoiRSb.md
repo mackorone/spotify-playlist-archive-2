@@ -4,7 +4,7 @@
 
 > Kim Petras is this week's evolving icon 🔂
 
-2,282 songs - 4 day 18 hr 3 min
+2,287 songs - 4 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1221,6 +1221,7 @@
 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 | 2023-04-28 | 2023-09-14 |
 | [little miss sunshine](https://open.spotify.com/track/4HyCDNUsNmWQj5FAcAxG8j) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [ClubLiminal](https://open.spotify.com/album/26YsAXgcJG794rpdhXHqIX) | 2:54 | 2025-05-01 | 2025-05-16 |
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-05 | 2023-08-19 |
+| [Live](https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Live](https://open.spotify.com/album/7EfBBLRVpkw9nDgTPviap7) | 2:13 | 2026-06-08 |  |
 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 | 2022-06-10 | 2022-08-13 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-06 | 2024-02-09 |
 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-03-31 | 2023-07-22 |
@@ -1246,6 +1247,7 @@
 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 | 2025-08-07 | 2025-10-10 |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2022-12-16 | 2023-04-15 |
 | [lost in her phone](https://open.spotify.com/track/2SsMgATz0w6t594iTbxhS8) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [u the real star here](https://open.spotify.com/album/0luZl88eJJKPPGq4W4ITUf) | 2:54 | 2022-11-18 | 2023-01-07 |
+| [Lost Signal](https://open.spotify.com/track/2I597clj5PJWixyMR47HRi) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Lost Signal](https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ) | 2:33 | 2026-06-08 |  |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-31 | 2023-07-29 |
 | [Lost Track](https://open.spotify.com/track/1vAC8n6YvkUUj6j3Gcj3Ja) | [EASTLAND PARK](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [Lost Track](https://open.spotify.com/album/3z1hMylgEkJHrfZXoXxYlv) | 2:24 | 2025-05-29 | 2025-07-12 |
 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 | 2022-07-08 | 2022-10-22 |
@@ -1948,6 +1950,7 @@
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-10-04 | 2025-02-21 |
 | [Symptomatic](https://open.spotify.com/track/0tAno7GEs0eYfl8nUCzROj) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic](https://open.spotify.com/album/31CNDRgoCCBHJAlPnDmKns) | 3:12 | 2021-06-26 | 2021-09-18 |
 | [Synchronicity](https://open.spotify.com/track/6fuyxR1EgELPVrg1zyCdHC) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Synchronicity](https://open.spotify.com/album/0wTW5MtWLOzWm8q2KHOKvE) | 3:36 | 2022-05-13 | 2022-09-04 |
+| [T Shirt](https://open.spotify.com/track/54uCSh5xkFvWxXPIe6zgZp) | [Lola Leon](https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL) | [T Shirt](https://open.spotify.com/album/041iig9kwc27HB2PBR2xc7) | 3:42 | 2026-06-08 |  |
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-04-14 | 2022-06-18 |
 | [Take It! Take It!](https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Take It! Take It!](https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC) | 3:16 | 2025-05-22 | 2025-06-24 |
 | [take my life \(back\)](https://open.spotify.com/track/5N4flJry5KjhlZ9REjMbqI) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [read me \- EP](https://open.spotify.com/album/3bxSpuh0ZJmq3llomSI75l) | 3:40 | 2025-04-17 | 2025-05-23 |
@@ -1990,6 +1993,7 @@
 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-26 | 2023-09-16 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-08 | 2022-06-18 |
 | [That's Life, Baby!](https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [That's Life, Baby!](https://open.spotify.com/album/08Ideg6by3nkyndCpHeuhq) | 2:52 | 2025-02-28 | 2025-03-14 |
+| [that's my beach!](https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [that's my beach!](https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6) | 3:18 | 2026-06-08 |  |
 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-01-27 | 2023-06-17 |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-09-25 | 2022-01-11 |
 | [That’s What She Said](https://open.spotify.com/track/5INngKcgBFREX6nuPQLnNk) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Getaway \(Into My Imagination\)](https://open.spotify.com/album/23uy4Kkz1wiCRKLXNb3C0Q) | 2:55 | 2020-10-13\* | 2020-11-14 |
@@ -2082,6 +2086,7 @@
 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2022-07-01 | 2022-09-04 |
 | [Tongue](https://open.spotify.com/track/76VONgYIlTcp9pNu1YAjX0) | [Here At Last](https://open.spotify.com/artist/2xu9qA4dq2UK1f0hDCZb2O) | [Tongue](https://open.spotify.com/album/0gKcLq5HM0NedgiB4qSGJm) | 2:42 | 2021-04-03 | 2021-06-12 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-03 | 2025-05-09 |
+| [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 | 2026-06-08 |  |
 | [Too Good To Lose](https://open.spotify.com/track/2bVFUcvr9QqZrywPZ3gHWu) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Too Good To Lose](https://open.spotify.com/album/607APLajSPnstmjb3kIsHI) | 2:51 | 2020-10-13\* | 2020-11-21 |
 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 | 2023-01-27 | 2023-04-07 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-13 | 2021-05-03 |

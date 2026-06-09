@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACODnm1h4s1Ww1TljVXA8Ya",
+  "snapshot_id": "aiS0gAAAAAAOPmspOUKuIaetysVQoa8f",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Maiya James",
+          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "Same Thing - Vocal Mix",
+      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Human Beings (Remixes)",
         "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
@@ -475,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Maiya James",
-          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
         }
       ],
-      "duration_ms": 379160,
-      "name": "Same Thing - Vocal Mix",
-      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 229268,
       "name": "Envisions - \u00c2me Acoustic Remix",
       "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
@@ -603,6 +603,94 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+      },
+      "artists": [
+        {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 375128,
+      "name": "YOUniversal Love",
+      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -631,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -659,78 +731,6 @@
       "duration_ms": 182071,
       "name": "MOSS",
       "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 375128,
-      "name": "YOUniversal Love",
-      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
-      },
-      "artists": [
-        {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inner Garden",
-        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 429496,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -815,22 +799,6 @@
       "duration_ms": 258617,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
     },
     {
       "added_at": null,
@@ -851,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
       "artists": [
         {
@@ -860,9 +828,25 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
       "duration_ms": 378026,
       "name": "We Call Love",
       "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,

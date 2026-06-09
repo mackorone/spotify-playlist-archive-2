@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,225 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,263 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 37 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
 | 38 | [Tonight](https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 4:03 |
 | 39 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
-| 40 | [Rejoice](https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Rejoice](https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi) | 4:20 |
-| 41 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
+| 40 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
+| 41 | [Rejoice](https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Rejoice](https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi) | 4:20 |
 | 42 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
 | 43 | [Long Long Way To Go](https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:40 |
 | 44 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 49 | [Slang](https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 2:37 |
 | 50 | [Stand By Me](https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Stand By Me](https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs) | 3:10 |
 
-Snapshot ID: `aiNjAAAAAABJM53Oq478nto5RlgIOtRC`
+Snapshot ID: `aiS0gAAAAAD42l/UmlK33av31YoQ/mLD`

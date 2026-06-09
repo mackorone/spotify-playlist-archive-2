@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABraq6fsbTy4ZKPyFgml9G9",
+  "snapshot_id": "aiS0gAAAAABInn4HrMoXSP0Sx+z7moVh",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 174155,
       "name": "Platicame De Ti - En Vivo",
       "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap Romantix",
-        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "Cuentame",
-      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
     }
   ],
   "unique_name": "This Is Arsenal Efectivo",

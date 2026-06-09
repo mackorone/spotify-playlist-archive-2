@@ -4,7 +4,7 @@
 
 > 
 
-1,033 songs - 2 day 17 hr 9 min
+1,033 songs - 2 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Blown \- 2025 Version](https://open.spotify.com/track/1CRpWK8hLrjtalSNvty39D) | [Wingfish](https://open.spotify.com/artist/3DjzJDs4wgf6jxZEYaeRBd) | [Dyads](https://open.spotify.com/album/3ZnsbkR1KQvQArM6RCBVCW) | 5:07 | 2025-12-30 |  |
 | [Blush](https://open.spotify.com/track/1iXBCQOAV4bcldL5if1hP1) | [TK.](https://open.spotify.com/artist/29c8AjtdabmNQG1hDulCft) | [Blush](https://open.spotify.com/album/3jOrDzwZByRIjYH7LoF1Yu) | 2:14 | 2025-07-25 |  |
 | [Bonfires](https://open.spotify.com/track/2PsVRaIBmHRzD9aXSYD6Pd) | [motionyear.](https://open.spotify.com/artist/1RObsV7QVHowlbE321jzrq) | [Bonfires](https://open.spotify.com/album/7weRzndmIsuwt9H98F7cfk) | 2:42 | 2025-02-07 |  |
-| [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 2:41 | 2025-05-06 |  |
+| [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 3:23 | 2025-05-06 |  |
 | [Born To Love You](https://open.spotify.com/track/20B4bazvLT1aVgpmdbVyCu) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Born To Love You](https://open.spotify.com/album/47sOB5NIQ01E5HByo3y9a2) | 3:18 | 2025-05-15 |  |
 | [Borrowed Time](https://open.spotify.com/track/39CLpbyBNL6IqfjgFK6IcS) | [Joey Wit](https://open.spotify.com/artist/1vR8N4wWMkVo62XGXpUYY9) | [Borrowed Time](https://open.spotify.com/album/7spqzVvxfwD8bC8HZKplU1) | 3:03 | 2025-02-05 |  |
 | [BOTA PRA QUEBRAR](https://open.spotify.com/track/7d1LA50ohLtGLpXJksIsBl) | [Rural 64](https://open.spotify.com/artist/7fgZmIWoF5HC5n4C0jFkds) | [BOTA PRA QUEBRAR](https://open.spotify.com/album/1LGOtYrowbaE2BAhpRLGJY) | 2:49 | 2026-05-09 |  |
@@ -439,7 +439,7 @@
 | [La revolución](https://open.spotify.com/track/74fejOI5YaPccOuyFw36WM) | [Sergio Medina](https://open.spotify.com/artist/0ORqJysjGs60RzE1FRVzrB), [los errantes](https://open.spotify.com/artist/5SYbFTyYHqROBnwWEioqqV) | [1982](https://open.spotify.com/album/2LKgyvwKnS0oBvDFXJYvJr) | 3:39 | 2025-01-15 |  |
 | [La Separación de los Whitexicans y el Punk](https://open.spotify.com/track/0veqcjeaUOHr1O4jflCo6L) | [Los Invictos](https://open.spotify.com/artist/042BvqIgyWcC0IRkALJ3KS), [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [La Separación de los Whitexicans y el Punk](https://open.spotify.com/album/6SsS3FzJGzbQ9yFIbnOIWd) | 2:47 | 2026-03-18 |  |
 | [La Solución](https://open.spotify.com/track/20TStbrhbu4a3mQU2KuKYy) | [Penúltimo Día](https://open.spotify.com/artist/5gGrkUVYMQfzjuw8KbHlv1) | [La Solución](https://open.spotify.com/album/4iFnAj6FYbas4MPQhSS8hb) | 2:50 | 2025-05-15 |  |
-| [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 | 2025-12-17 |  |
+| [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:12 | 2025-12-17 |  |
 | [Lacquer Eyes](https://open.spotify.com/track/6ivYOO95KVt90BSVVFQo1m) | [Sour Blood](https://open.spotify.com/artist/5FtvjJh9uwYdk834WmxYrd) | [Lacquer Eyes](https://open.spotify.com/album/6DQ3tVTDwMizS8sNDBeNJ6) | 4:23 | 2025-03-18 |  |
 | [Lady Evil](https://open.spotify.com/track/5D2ZhuqxF8Y8bwYhYxbmfK) | [Deaf Mother](https://open.spotify.com/artist/6QtfSjixl1I5KMlMKldZjt) | [Lady Evil](https://open.spotify.com/album/5v3IWb3C1jUMPJ5AHaBd4x) | 6:04 | 2025-07-17 |  |
 | [Last Days In The Sun](https://open.spotify.com/track/47PAdcGnZKjFUxuJTV9Thv) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Last Days In The Sun](https://open.spotify.com/album/2fkH7XgnbvcmPRfQoKPTXv) | 2:39 | 2025-02-05 |  |

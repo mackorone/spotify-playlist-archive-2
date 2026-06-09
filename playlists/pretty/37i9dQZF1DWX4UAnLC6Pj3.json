@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302584,
+  "num_followers": 1302594,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -315,54 +315,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Mayo 2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 136086,
-      "name": "La Mas Bonita De Todas - En Vivo",
-      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Le Va A Doler",
-        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "Le Va A Doler",
-      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Aprend\u00ed La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
       },
@@ -383,18 +335,50 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Aunque me duela",
-        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+        "name": "Mayo 2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
         }
       ],
-      "duration_ms": 228017,
-      "name": "Aunque me duela",
-      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+      "duration_ms": 136086,
+      "name": "La Mas Bonita De Todas - En Vivo",
+      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Le Va A Doler",
+        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "Le Va A Doler",
+      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -415,6 +399,22 @@
       "duration_ms": 183311,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Aunque me duela",
+        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "Aunque me duela",
+      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Por Salud Mental",
         "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 200346,
       "name": "Por Salud Mental",
       "url": "https://open.spotify.com/track/3scDoFYqOF2LxyN066Dp5s"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -591,18 +591,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Me Vas a Perder",
-        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 151168,
-      "name": "Me Vas a Perder",
-      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+      "duration_ms": 215068,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -623,6 +627,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Me Vas a Perder",
+        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "Me Vas a Perder",
+      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 170468,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 215068,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Del Cielo Nada Cae",
+        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "duration_ms": 114181,
+      "name": "Del Cielo Nada Cae",
+      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Del Cielo Nada Cae",
-        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
       },
       "artists": [
         {
-          "name": "Kompa Marley",
-          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
         }
       ],
-      "duration_ms": 114181,
-      "name": "Del Cielo Nada Cae",
-      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -903,38 +919,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Sonri\u00e9ndole A La Vida - En Vivo",
-      "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Sonri\u00e9ndole A La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Aunque Me Duela M\u00e1s Que A Ti",
-        "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Aunque Me Duela M\u00e1s Que A Ti",
-      "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 162124,
       "name": "Baila",
       "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Aunque Me Duela M\u00e1s Que A Ti",
+        "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Aunque Me Duela M\u00e1s Que A Ti",
+      "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1199,6 +1183,22 @@
       "duration_ms": 182376,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Se Me Sali\u00f3 Una Lagrimita",
-        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Se Me Sali\u00f3 Una Lagrimita",
-      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 164153,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "T\u00fa Ya Las Conoces, Vol. 1",
-        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Lo Pongo En Tus Manos",
         "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 194291,
       "name": "Lo Pongo En Tus Manos",
       "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Alergico Al Amor",
-        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Alergico Al Amor",
-      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
         "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 340016,
       "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
       "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Once de la Noche",
-        "url": "https://open.spotify.com/album/2Bq0id78OvQdvGNei82ZwO"
-      },
-      "artists": [
-        {
-          "name": "Banda Llano Verde",
-          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
-        }
-      ],
-      "duration_ms": 202936,
-      "name": "Once de la Noche",
-      "url": "https://open.spotify.com/track/1BTjYSTajiRIvCYUqAjl6c"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Once de la Noche",
+        "url": "https://open.spotify.com/album/2Bq0id78OvQdvGNei82ZwO"
+      },
+      "artists": [
+        {
+          "name": "Banda Llano Verde",
+          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
+        }
+      ],
+      "duration_ms": 202936,
+      "name": "Once de la Noche",
+      "url": "https://open.spotify.com/track/1BTjYSTajiRIvCYUqAjl6c"
     },
     {
       "added_at": "2026-05-30 18:53:37",

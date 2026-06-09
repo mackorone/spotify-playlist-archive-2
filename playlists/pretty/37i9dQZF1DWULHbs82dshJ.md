@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > O Trap Mais Caro apresenta..\. O Melhor do Trap 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,311 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,328 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 24 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
 | 25 | [PRETTY LET GIRL](https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 2:44 |
 | 26 | [Taylor](https://open.spotify.com/track/09UBWllfFyJthRw8c5Y13Q) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:03 |
-| 27 | [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 |
+| 27 | [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 |
 | 28 | [Tango \(feat\. Veigh & Niink\)](https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:44 |
 | 29 | [Selvagem](https://open.spotify.com/track/4ipba3CCl8CNy2yvZg6hU7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN), [Woozy](https://open.spotify.com/artist/0xmZfohNff4z8f3xmDRX4K) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:15 |
 | 30 | [Concreto e Aço](https://open.spotify.com/track/2P2BS5z7grEIOGTvBH3Mhn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:35 |

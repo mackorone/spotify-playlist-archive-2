@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1443322,
+  "num_followers": 1443425,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADNuyPCqyGLuGuYRyIIrbmq",
+  "snapshot_id": "aiS0gAAAAACweQXqkfZAoY2IRyn30HnT",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail"
     },
     {
       "added_at": null,
@@ -203,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail"
+      "duration_ms": 175044,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": null,

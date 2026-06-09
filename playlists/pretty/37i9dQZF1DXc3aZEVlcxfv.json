@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21509,
+  "num_followers": 21514,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -152,8 +152,8 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Cody Carnes",
@@ -793,26 +793,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-05-08 00:01:38",
-      "album": {
-        "name": "Count",
-        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
-      },
-      "artists": [
-        {
-          "name": "God in This Music",
-          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
-        },
-        {
-          "name": "Testimony",
-          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Count",
-      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Subscribed (Live)",
@@ -831,6 +811,26 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "added_at": "2026-05-08 00:01:38",
+      "album": {
+        "name": "Count",
+        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Testimony",
+          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Count",
+      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -981,6 +981,30 @@
       "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
     },
     {
+      "added_at": "2026-02-27 00:01:20",
+      "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+    },
+    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Citizen",
@@ -1025,28 +1049,24 @@
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
-      "added_at": "2026-02-27 00:01:20",
+      "added_at": "2026-02-20 00:01:25",
       "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6"
+        "name": "Your Love II",
+        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
       },
       "artists": [
         {
-          "name": "Natalie Okri",
-          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Still Blessed Music",
-          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+      "duration_ms": 220235,
+      "name": "Your Love II",
+      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -1069,24 +1089,24 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
-      "added_at": "2026-02-20 00:01:25",
+      "added_at": "2026-05-29 00:01:36",
       "album": {
-        "name": "Your Love II",
-        "url": "https://open.spotify.com/album/1y8ooTIE4Yld3QGMjReUwk"
+        "name": "I See The Lord (Live)",
+        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
         },
         {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Your Love II",
-      "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+      "duration_ms": 610039,
+      "name": "I See The Lord - Live",
+      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -1121,26 +1141,6 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
-        }
-      ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Count Your Blessings",
@@ -1171,6 +1171,22 @@
       "duration_ms": 392462,
       "name": "Nara Ekele - Remix",
       "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
+    },
+    {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1207,22 +1223,6 @@
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
-    },
-    {
-      "added_at": "2026-04-24 00:01:08",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1277,6 +1277,22 @@
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Amen Amen, Blessing and Glory",
@@ -1295,22 +1311,6 @@
       "duration_ms": 154325,
       "name": "Amen Amen, Blessing and Glory",
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
-    },
-    {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
     },
     {
       "added_at": "2026-02-13 00:01:34",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
     },
     {
-      "added_at": "2026-05-08 00:01:38",
-      "album": {
-        "name": "Loved by You",
-        "url": "https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu"
-      },
-      "artists": [
-        {
-          "name": "O'Tims",
-          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
-        }
-      ],
-      "duration_ms": 153513,
-      "name": "Loved by You",
-      "url": "https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1419,6 +1403,38 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-05-08 00:01:38",
+      "album": {
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        }
+      ],
+      "duration_ms": 153513,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Africa Rejoice!",
+        "url": "https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX"
+      },
+      "artists": [
+        {
+          "name": "Hallel Wrshp",
+          "url": "https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "A Cikin Inuwarka",
+      "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1445,22 +1461,6 @@
       "url": "https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Africa Rejoice!",
-        "url": "https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX"
-      },
-      "artists": [
-        {
-          "name": "Hallel Wrshp",
-          "url": "https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "A Cikin Inuwarka",
-      "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
-    },
-    {
       "added_at": "2026-04-10 00:01:38",
       "album": {
         "name": "Yielded",
@@ -1475,6 +1475,22 @@
       "duration_ms": 446730,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
+    },
+    {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "OINS MOI ENCORE",
+        "url": "https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9"
+      },
+      "artists": [
+        {
+          "name": "Marius Psalmiste",
+          "url": "https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf"
+        }
+      ],
+      "duration_ms": 336448,
+      "name": "OINS MOI ENCORE",
+      "url": "https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1517,22 +1533,6 @@
       "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "OINS MOI ENCORE",
-        "url": "https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9"
-      },
-      "artists": [
-        {
-          "name": "Marius Psalmiste",
-          "url": "https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf"
-        }
-      ],
-      "duration_ms": 336448,
-      "name": "OINS MOI ENCORE",
-      "url": "https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "HEALING STREAMS",
@@ -1557,24 +1557,20 @@
       "url": "https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG"
     },
     {
-      "added_at": "2026-05-15 00:01:23",
+      "added_at": "2026-05-29 00:01:36",
       "album": {
-        "name": "Uweno",
-        "url": "https://open.spotify.com/album/6Wj8krPXKaSpxINm7TE2Sd"
+        "name": "E Ba Mi Gbe Ga",
+        "url": "https://open.spotify.com/album/6g6gAExjvai5WwR3oQ2Ed8"
       },
       "artists": [
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Uweno",
-      "url": "https://open.spotify.com/track/0JQv2uBIZBmZ55nYFcoqC1"
+      "duration_ms": 350190,
+      "name": "E Ba Mi Gbe Ga",
+      "url": "https://open.spotify.com/track/0fGcgCXGeZGflUzBgwkneW"
     }
   ],
   "unique_name": "Blessed",

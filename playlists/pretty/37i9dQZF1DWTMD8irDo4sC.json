@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 78428,
+  "num_followers": 78437,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        },
-        {
-          "name": "Frankly Jazz",
-          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        },
+        {
+          "name": "Frankly Jazz",
+          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
     },
     {
       "added_at": "2025-10-06 14:50:07",

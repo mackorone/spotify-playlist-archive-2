@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-384 songs - 1 day 0 hr 30 min
+387 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Oil Slick](https://open.spotify.com/track/4dLMspbmxpSvjG2rH0uofK) | [Duoya](https://open.spotify.com/artist/1flwnAZl5wFL9AforlVMDd) | [Oil Slick](https://open.spotify.com/album/1Asx3fZ3sQVDwzqiuwSKbO) | 3:01 | 2021-12-13 | 2024-06-29 |
 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 | 2021-12-13 | 2024-06-29 |
 | [On the Hill](https://open.spotify.com/track/3aTv2MzcK17DfHzcUCyte1) | [Oliver Sain St\. Louis Breakdown](https://open.spotify.com/artist/4edwXsmUVRa8EneehcvoFE) | [St\. Louis Breakdown \- The Best of Oliver Sain](https://open.spotify.com/album/483oHnr24zOHgqbTDWCX9V) | 4:36 | 2021-12-13 | 2022-04-29 |
+| [On Your Side](https://open.spotify.com/track/1NdRLs2ATIPSBC3CwFG6uf) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:14 | 2026-06-08 |  |
 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 | 2026-02-03 |  |
 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-09-01 |  |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-11-14 | 2025-09-21 |
@@ -255,6 +256,7 @@
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2025-04-08 | 2026-05-27 |
 | [Perspective](https://open.spotify.com/track/5mc98yTbpJAwgpCGRRlB0l) | [Sy Smith](https://open.spotify.com/artist/4vGS9mc7YHh5Mpfd51X8MF) | [Sometimes a Rose Will Grow in Concrete](https://open.spotify.com/album/3chmdwfbZAG2YxZTtoTv6f) | 4:07 | 2021-12-13 | 2022-10-01 |
 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2021-12-13 | 2022-10-31 |
+| [Problems](https://open.spotify.com/track/4DCE2S81GxThZOG08h8jpl) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Problems](https://open.spotify.com/album/4Vaf4C6ZlcZlvHGOxWz1gp) | 4:13 | 2026-06-08 |  |
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 | 2025-01-11 |
 | [Purpose](https://open.spotify.com/track/6jEEB0yo5OM3h1kxptUxFK) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Purpose](https://open.spotify.com/album/08ByKuA4cV7y99FD0IUO8Q) | 3:32 | 2025-07-04 | 2025-09-02 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-09-20 | 2025-09-02 |
@@ -328,6 +330,7 @@
 | [The Loneliest Thing](https://open.spotify.com/track/4k5TtH1KiIh13ElOttHWg7) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [The Loneliest Thing](https://open.spotify.com/album/3ks4LGMZiJQJlU0my9bFfl) | 2:59 | 2022-01-13 | 2024-11-15 |
 | [The Optimist](https://open.spotify.com/track/6yefcxg5NPvCNPavfcq1VY) | [Toine Thys Trio](https://open.spotify.com/artist/5gfeHeriNmVvlaEPTJLcqp) | [The Optimist](https://open.spotify.com/album/2ElHab0qhKWa2W2l601M3u) | 6:26 | 2021-12-13 | 2023-10-04 |
 | [The Plant](https://open.spotify.com/track/2TEgeBERMNn3fD5QVyzojj) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [The Plant](https://open.spotify.com/album/6zXXdOyUUhMN1IASWjW4q6) | 4:08 | 2024-06-28 | 2025-07-05 |
+| [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 | 2026-06-08 |  |
 | [The Scene](https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [The Scene](https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og) | 3:27 | 2026-05-13 |  |
 | [There She Goes](https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [There She Goes](https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t) | 4:05 | 2025-08-08 |  |
 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 | 2025-01-28 |  |

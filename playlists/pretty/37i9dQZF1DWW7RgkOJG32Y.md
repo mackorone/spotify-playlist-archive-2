@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,767 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,852 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

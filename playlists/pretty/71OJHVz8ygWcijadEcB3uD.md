@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 
 > Listen to the best Rock musics🔥.
 
-[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 811 likes - 519 songs - 1 day 7 hr 26 min
+[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 811 likes - 519 songs - 1 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 | 252 | [In The Mood](https://open.spotify.com/track/7jtMTdNT6SqM1ewieb56FB) | [Penny Skint](https://open.spotify.com/artist/0EOh9xYusR9Rh1ElbZD4m2) | [In The Mood](https://open.spotify.com/album/4yfLtkxvaDtObFbzs2k3Mz) | 2:47 |
 | 253 | [Sa'at](https://open.spotify.com/track/4pqabj01IsQsqXeFh3GfdW) | [Carbit](https://open.spotify.com/artist/0o4E00ASJ7LXtnAFHO8HUX) | [Sa'at](https://open.spotify.com/album/3l2NeIxVKGpOqhE60UJpm5) | 2:49 |
 | 254 | [I don't mind that much](https://open.spotify.com/track/6QwSCfIbNQeGfwumpgzlB2) | [Charlie Smith](https://open.spotify.com/artist/50abKbBejLKyBTQ3OLkT26) | [God doesn't hate you](https://open.spotify.com/album/5fS7Y4yS8j296vQPXNVZLK) | 2:50 |
-| 255 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 2:41 |
+| 255 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 3:23 |
 | 256 | [Vivi in perdita](https://open.spotify.com/track/5XCFGtw8RKbUWGvvb1nkzY) | [Progetto Formativo](https://open.spotify.com/artist/07bCzhj60V0cp4FIyM260p) | [Moda](https://open.spotify.com/album/6KQrFKAAjfqRSXnCldvEGt) | 2:29 |
 | 257 | [Por si te pierdes](https://open.spotify.com/track/2diqyPCC8ViRh7rTr3rL4c) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [Capros](https://open.spotify.com/album/4w8LIGVgx6dCy4USEyYraG) | 3:08 |
 | 258 | [Secretly](https://open.spotify.com/track/3KJ2KXz71Ak1WLj0Bec3TZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Secretly](https://open.spotify.com/album/2nZI1OSgreNjMIs6pwQa01) | 3:01 |

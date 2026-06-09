@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211149,
+  "num_followers": 211146,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABYw8BETqsmUKfelGMMBUNV",
+  "snapshot_id": "aiS0gAAAAACBCYmmXz8O6yuqRrr7RpKL",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "Mr. Wonderful",
+        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 280160,
+      "name": "Baby Blue (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Wonderful",
-        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 280160,
-      "name": "Baby Blue (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 239250,
       "name": "Good Ass Intro",
       "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 184562,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 215426,
       "name": "Forever Always",
       "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 184562,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 272562,
-      "name": "Smoke Again",
-      "url": "https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 199431,
       "name": "Still Get Chanel (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 272562,
+      "name": "Smoke Again",
+      "url": "https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI"
     },
     {
       "added_at": null,

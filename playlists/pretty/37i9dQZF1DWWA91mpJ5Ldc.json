@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137435,
+  "num_followers": 137430,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "O Velho Fusca",
         "url": "https://open.spotify.com/album/21HGedzOEu60ECMttwUimn"
       },
@@ -299,22 +283,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Um Mar Pra Cada Um,",
-        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 222112,
-      "name": "Gamboa",
-      "url": "https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt"
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -331,6 +311,26 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Um Mar Pra Cada Um,",
+        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 222112,
+      "name": "Gamboa",
+      "url": "https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Tim Maia",
         "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 212573,
       "name": "Pra Vida",
       "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 242130,
-      "name": "Caju",
-      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 242130,
+      "name": "Caju",
+      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -775,22 +775,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
       "artists": [
         {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
         },
         {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -823,22 +823,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
       "artists": [
         {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
         },
         {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+      "duration_ms": 200000,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Mahmundi",
-        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 270138,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf"
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
+        "name": "Mahmundi",
+        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+      "duration_ms": 270138,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Cariocas / Por Que Voc\u00ea Faz Cinema?",
-        "url": "https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 223539,
-      "name": "Cariocas",
-      "url": "https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "A Dan\u00e7a do Mundo",
         "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 187083,
       "name": "Alma Bonita",
       "url": "https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Cariocas / Por Que Voc\u00ea Faz Cinema?",
+        "url": "https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 223539,
+      "name": "Cariocas",
+      "url": "https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Espero Que Voc\u00ea Entenda",
-        "url": "https://open.spotify.com/album/2lCmjlHLQIcRSfECaTkew8"
+        "name": "Flor de Laranjeira",
+        "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
       },
       "artists": [
         {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+          "name": "Dan Abranches",
+          "url": "https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC"
+        },
+        {
+          "name": "Gabriela Brown",
+          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
         }
       ],
-      "duration_ms": 241712,
-      "name": "Espero Que Voc\u00ea Entenda",
-      "url": "https://open.spotify.com/track/7uMfZtOT5JEYdv8gi6M9wk"
+      "duration_ms": 210866,
+      "name": "N\u00f3",
+      "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
     }
   ],
   "unique_name": "Cozinhando a Ceia",

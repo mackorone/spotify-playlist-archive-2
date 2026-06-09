@@ -4,7 +4,7 @@
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-102 songs - 6 hr 59 min
+103 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2023-09-29 |  |
 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 | 2023-02-17 |  |
 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE) | 3:32 | 2023-02-17 | 2023-10-31 |
-| [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF) | 3:32 | 2023-09-29 |  |
+| [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF) | 3:32 | 2023-09-29 | 2026-06-09 |
 | [Herejia](https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn) | 3:46 | 2022-05-03 | 2023-04-30 |
 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 | 2023-02-17 | 2024-04-19 |
 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 | 2022-05-03 |  |
@@ -72,6 +72,7 @@
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-02-17 | 2024-04-19 |
 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 | 2022-05-03 |  |
 | [Pais Nublado](https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd) | 4:32 | 2022-05-03 | 2024-04-19 |
+| [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 | 2023-09-29 |  |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2022-05-03 | 2026-04-18 |
 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 | 2022-05-03 |  |
 | [Pistola de Balín](https://open.spotify.com/track/46m2UQb4Wmdpnco5wBsaxN) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Pistola de Balín](https://open.spotify.com/album/7r2eM7uuLzZ6wyvQfknyyM) | 4:48 | 2023-09-29 | 2023-12-24 |

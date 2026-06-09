@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: HEART OF WOMAN\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: izna\)
 
-630 songs - 1 day 8 hr 32 min
+631 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-25 | 2022-07-29 |
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-26 | 2023-10-05 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-06-04 |
-| [Lost in Proof](https://open.spotify.com/track/0NUab1Hd5VSFickV3HOy9M) | [HEART OF WOMAN](https://open.spotify.com/artist/15JWJu72hLPUmB0L2RMusu) | [Heart Byte : LEGACY](https://open.spotify.com/album/5KeICTbuP4CFny9Qo0RJ7O) | 2:34 | 2026-05-29 |  |
+| [Lost in Proof](https://open.spotify.com/track/0NUab1Hd5VSFickV3HOy9M) | [HEART OF WOMAN](https://open.spotify.com/artist/15JWJu72hLPUmB0L2RMusu) | [Heart Byte : LEGACY](https://open.spotify.com/album/5KeICTbuP4CFny9Qo0RJ7O) | 2:34 | 2026-05-29 | 2026-06-09 |
 | [LOUDER](https://open.spotify.com/track/26VaMq8RwiHtuLEaNGxBB0) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:18 | 2022-03-07 | 2022-04-20 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-08-08 | 2026-05-12 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-03 | 2025-12-16 |
@@ -368,6 +368,7 @@
 | [Memories](https://open.spotify.com/track/2JpFYEPqR04QNVkKjQMnv9) | [Girl Crush](https://open.spotify.com/artist/1KJKSM6Z1NTqcEHgNoUSbe) | [Memories](https://open.spotify.com/album/1DivatN2VQcEnKAsQzV8fh) | 3:01 | 2021-01-31 | 2022-05-07 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-06 | 2025-11-25 |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-09 |  |
+| [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 | 2026-06-08 |  |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-03 | 2025-06-07 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-14 | 2025-06-12 |
 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2020-10-20 |  |

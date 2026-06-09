@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Accessory
 
-1,901 songs - 4 day 13 hr 54 min
+1,903 songs - 4 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 | 2025-02-25 | 2025-05-24 |
 | [bemused](https://open.spotify.com/track/018wrdyua60eGU0rNbOnGB) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [bemused / due dilettante](https://open.spotify.com/album/4WtnCpNN3rlUGfAeBDi0sI) | 2:46 | 2025-05-23 | 2025-08-09 |
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
+| [Bent](https://open.spotify.com/track/3BcUsUC9G566st6P5elPko) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Bent](https://open.spotify.com/album/6PheFxPZHB84sDhNoFVlzP) | 3:26 | 2026-06-08 |  |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-05 | 2025-02-01 |
 | [Best Years](https://open.spotify.com/track/11y5uf7mmoN8UQbihHDpH0) | [Woz](https://open.spotify.com/artist/1UVFvU6lo3ciTTyil9yHJp) | [At the Gulf](https://open.spotify.com/album/4lVaI68Xbzh5CPZA3EX5Rb) | 2:54 | 2022-11-11 | 2022-12-15 |
 | [Bet](https://open.spotify.com/track/2MpWd718bmGUu7xXjrRtsb) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Bet](https://open.spotify.com/album/6ldWHCzsbGFkTogREYdg69) | 4:01 | 2025-06-27 | 2026-01-15 |
@@ -703,6 +704,7 @@
 | [green felt](https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [green felt](https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk) | 2:20 | 2021-11-12 | 2022-04-29 |
 | [Greg Abbott's Maxi Pad](https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Greg Abbott's Maxi Pad](https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D) | 3:08 | 2023-08-24 | 2024-03-23 |
 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 | 2022-07-15 | 2022-09-29 |
+| [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 | 2026-06-08 |  |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2021-03-05 | 2022-04-16 |
 | [Grief](https://open.spotify.com/track/5t9LP7mKj0KQPtg3LN5kvn) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Grief](https://open.spotify.com/album/57cK7JRwiSTzqEtNMVE6O7) | 3:39 | 2023-02-10 | 2023-04-29 |
 | [Ground Kiss](https://open.spotify.com/track/15xTM6DyJGJRbcqVFz5lD8) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Ground Kiss](https://open.spotify.com/album/7AXDQsvMW88RqE1Py7cOyE) | 3:35 | 2026-02-20 | 2026-05-02 |

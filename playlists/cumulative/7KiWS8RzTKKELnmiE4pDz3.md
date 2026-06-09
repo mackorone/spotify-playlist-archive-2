@@ -4,7 +4,7 @@
 
 > 
 
-1,482 songs - 3 day 7 hr 22 min
+1,484 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Forever Eva](https://open.spotify.com/track/2RBhWftEVVxY2J1AHWh5su) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:36 | 2025-06-26 | 2026-03-08 |
 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 | 2025-06-03 | 2026-03-08 |
 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 | 2024-03-04 | 2024-04-24 |
+| [Found God in a Tomato](https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [High Visceral, Pt\. 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo) | 8:54 | 2026-06-08 |  |
 | [Foux \(feat\. Ab\-Soul\)](https://open.spotify.com/track/6UqgBwNMKmhjDuN0OcVJA0) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:41 | 2024-03-04 | 2024-11-06 |
 | [Free BabyEBG Freestyle](https://open.spotify.com/track/1eRTuYXGNve68gqGiRUTG3) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free BabyEBG Freestyle](https://open.spotify.com/album/1TSlkErLHfkPRqK2xh6S51) | 2:00 | 2024-11-06 | 2025-05-21 |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 | 2023-12-14 |
@@ -817,6 +818,7 @@
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-07-08 | 2024-04-24 |
 | [Mobb Love](https://open.spotify.com/track/6XgVRtmN6fiLjE4UGak7e0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Mobb Love](https://open.spotify.com/album/53O7xgfmGg4ycqpmqbqwhS) | 2:35 | 2023-01-11 | 2023-04-12 |
 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-08-04 | 2023-12-14 |
+| [Modern Value](https://open.spotify.com/track/44WnhgkarymulMnz7RLIF0) | [Victoria](https://open.spotify.com/artist/7ts2SN0bUf0JFuFbQo8xe4) | [Modern Value](https://open.spotify.com/album/2gxNz8ZRquL5UEQmZ5ObOl) | 4:42 | 2026-06-08 |  |
 | [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:36 | 2025-06-01 | 2026-03-08 |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 | 2024-03-05 |
 | [Moment Of Clarity](https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:24 | 2026-05-14 |  |

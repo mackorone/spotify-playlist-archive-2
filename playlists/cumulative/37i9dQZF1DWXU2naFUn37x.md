@@ -4,7 +4,7 @@
 
 > G.Mineiro in cover della playlist dello street rap italiano ⛓️
 
-1,075 songs - 2 day 0 hr 48 min
+1,076 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Denaro \(feat\. Simba La Rue\)](https://open.spotify.com/track/2SEAbXqFtdTwkzgAb5Ci80) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:23 | 2024-02-29 | 2024-10-04 |
 | [DETOX / REHAB](https://open.spotify.com/track/3bQBpGIlToMHfyKtKZwOyN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:56 | 2024-12-13 | 2024-12-20 |
 | [Devo](https://open.spotify.com/track/2Q77HvI20PQhaUWZVamln1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Devo](https://open.spotify.com/album/5Nz3t74N1QPgS8y2naO5nu) | 2:43 | 2026-04-09 | 2026-04-24 |
+| [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 | 2026-06-08 |  |
 | [devo cambiare i vestiti \(feat\. Lubi, Astro\)](https://open.spotify.com/track/33tSYUrYTXKdxh3jqHCpo7) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 2:21 | 2026-04-02 | 2026-04-24 |
 | [Diablo \(feat\. Glocky\)](https://open.spotify.com/track/2zASmTrt3BKblrAwVfcqfZ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:24 | 2024-10-31 | 2025-04-18 |
 | [Diablo \(feat\. Melons\)](https://open.spotify.com/track/0TnJkwfJJqTRtxJWECo9Cr) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [Diablo \(feat\. Melons\)](https://open.spotify.com/album/65tRnHvFtajzLPAnVbxuoc) | 2:57 | 2025-03-06 | 2025-03-21 |

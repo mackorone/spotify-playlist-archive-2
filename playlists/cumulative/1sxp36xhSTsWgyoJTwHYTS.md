@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-246 songs - 13 hr 9 min
+247 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2023-01-11 |  |
 | [Let's Not Take It Slowly](https://open.spotify.com/track/0nJoBWcbh3DjHeXin21QHy) | [Eddie Zar](https://open.spotify.com/artist/36LzPiVbpx9xKEYRrlwUB6) | [Let's Not Take It Slowly](https://open.spotify.com/album/5paGKVFlDaAgIxiU8hkRfh) | 2:39 | 2023-04-28 |  |
 | [Leva\-me](https://open.spotify.com/track/3ZKcjylD8tr3F3H9Jt14rc) | [Silvia Lages](https://open.spotify.com/artist/7HTQNoKHH3G6n2O1uB3Rlt) | [Leva\-me](https://open.spotify.com/album/05nxsfhrAMpZlb5SYgv3YK) | 3:39 | 2025-11-05 |  |
+| [LIFE OUTRO](https://open.spotify.com/track/6GysAib8wckSekIjT6OSUi) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [LIFE](https://open.spotify.com/album/21sAlmHIKubDSlJUtLiFOM) | 2:32 | 2026-06-08 |  |
 | [Little Bo Peep II](https://open.spotify.com/track/6QL42PWANtywhBv6YmtXnL) | [The Logan](https://open.spotify.com/artist/6NKlvdETMk97JN5n4YqTde) | [Little Bo Peep II](https://open.spotify.com/album/7eNayLDhWReySWyHjurwBx) | 2:40 | 2024-10-08 |  |
 | [Lockdown](https://open.spotify.com/track/2GZfOumB4MFxS4veAq242B) | [Systovis](https://open.spotify.com/artist/5VmsHeHs2ebxM04F7BO87W), [Stevie Stone](https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN) | [Lockdown](https://open.spotify.com/album/1hLVOXPlqrdax3y7Giaowk) | 3:18 | 2024-10-08 |  |
 | [Lonelier With You](https://open.spotify.com/track/2mfXDWSjMGXdmu2ETu8zAM) | [Aerin Amelia](https://open.spotify.com/artist/49DwCRhFqzr1EqwiRsXGOn) | [Lonelier With You](https://open.spotify.com/album/5RuRKBkhEpMZdyFwK2RrBh) | 2:41 | 2023-06-12 |  |

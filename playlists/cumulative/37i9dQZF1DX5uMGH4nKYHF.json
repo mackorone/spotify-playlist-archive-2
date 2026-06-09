@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "Ragtime (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/06SGsY1vw8D5POgDqOaDad"
+      },
+      "artists": [
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234313,
+      "name": "Wheels of a Dream",
+      "url": "https://open.spotify.com/track/62X1kCooEiwkCaptwW98w5"
+    },
+    {
+      "album": {
         "name": "Kiss of the Spider Woman (Original Cast Recording)",
         "url": "https://open.spotify.com/album/5siyxD2uVjKd2W0rFzt9k0"
       },

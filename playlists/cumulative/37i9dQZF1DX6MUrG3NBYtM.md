@@ -4,7 +4,7 @@
 
 > De beste Indie releases\. Cover: Naaz
 
-288 songs - 17 hr 32 min
+291 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Canvas Horizon](https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7) | [JB Meijers](https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75) | [Canvas Horizon](https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC) | 3:09 | 2025-07-04 | 2025-08-30 |
 | [Caroline](https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:20 | 2025-04-25 | 2025-12-05 |
 | [Carousel](https://open.spotify.com/track/7ocAvaTpjF1vam2JOPTEzT) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Carousel](https://open.spotify.com/album/5KWWRRNGGOIkMsVXjsIrD6) | 2:23 | 2025-10-21 | 2026-01-15 |
+| [Casablanca \(feat\. Paul Simonon and Johnny Marr\)](https://open.spotify.com/track/4PjP7VfSAPxyt2TprUpALA) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 3:46 | 2026-06-08 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-25 | 2025-11-15 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-11-22 | 2025-06-24 |
 | [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 | 2025-08-29 | 2026-02-06 |
@@ -83,7 +84,7 @@
 | [Fun Fact](https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Fun Fact](https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO) | 2:31 | 2024-08-01 | 2024-11-23 |
 | [Giants](https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Giants](https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF) | 3:41 | 2024-11-06 | 2025-02-08 |
 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 | 2025-09-26 | 2026-04-07 |
-| [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-09-26 |  |
+| [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-09-26 | 2026-06-09 |
 | [Gold](https://open.spotify.com/track/1md0I3tdjPOYLhb6bfU5rD) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/0lzD8E6TeZpHw3hMoZEA59) | 2:54 | 2024-10-18 | 2025-01-17 |
 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-06-01 |  |
 | [Healing](https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:35 | 2026-01-13 |  |
@@ -176,6 +177,7 @@
 | [No Surprise](https://open.spotify.com/track/3CwHonJzs4dZuASYwTjEYf) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [No Surprise](https://open.spotify.com/album/2xpXAVpzwfzp1Zm4vgeTXY) | 3:44 | 2024-11-06 | 2025-06-06 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-11-22 | 2025-01-24 |
 | [Not All Is in Vain](https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Not All Is in Vain](https://open.spotify.com/album/14jt7XaL3XqNegGQQMN1F9) | 5:18 | 2025-02-21 | 2025-10-09 |
+| [Nothing](https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Slow Death Of A Good Girl](https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h) | 4:47 | 2026-06-08 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-06-26 | 2024-09-27 |
 | [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 | 2025-06-05 | 2026-02-04 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-06-26 | 2024-11-23 |
@@ -194,6 +196,7 @@
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-06-23 | 2025-12-09 |
 | [Power](https://open.spotify.com/track/6mvPDUqfCE5XHfVvsdebdi) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Power](https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx) | 3:17 | 2024-09-26 | 2024-10-04 |
 | [PPL PLSR](https://open.spotify.com/track/4vdR6CKgMP6m8DuDwY1TLg) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [PPL PLSR](https://open.spotify.com/album/5wgIrxDaAewdThI0TpMDNw) | 2:18 | 2025-09-26 | 2026-01-15 |
+| [Pretty](https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Pretty](https://open.spotify.com/album/4Cx63F8wnPWtYuWCckeXal) | 2:19 | 2026-06-08 |  |
 | [Pretty Little Thing](https://open.spotify.com/track/4rHi4Tx5snrpF3ALRmfXa2) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [TASTE](https://open.spotify.com/album/5y1uvx7D6w53va4miNpuNy) | 3:50 | 2025-01-23 | 2025-09-27 |
 | [Pull Me Through](https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Pull Me Through](https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji) | 3:08 | 2024-06-26 | 2024-09-25 |
 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-03-20 |  |
@@ -202,7 +205,7 @@
 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-11-06 | 2025-01-07 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-30 | 2025-08-30 |
 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-06-05 | 2026-05-08 |
-| [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 | 2025-06-02 |  |
+| [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 | 2025-06-02 | 2026-06-09 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-08-29 |  |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-04-25 | 2025-08-30 |
 | [Remember?](https://open.spotify.com/track/5RMlKxmmHbbalI8q7qg9IX) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Remember?](https://open.spotify.com/album/6tgI1ImweeRVAhWlLQesxj) | 4:13 | 2025-08-29 | 2026-02-09 |
@@ -222,7 +225,7 @@
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-06-26 | 2025-01-17 |
 | [sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 | 2025-01-23 | 2025-03-22 |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-01-24 |
-| [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 |  |
+| [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 | 2026-06-09 |
 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 | 2026-01-19 | 2026-03-31 |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-02-07 | 2025-10-22 |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-02-06 | 2025-06-06 |

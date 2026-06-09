@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 365734,
+  "num_followers": 365737,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Hang On Sloopy: The Best Of The McCoys",
-        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
-      },
-      "artists": [
-        {
-          "name": "The McCoys",
-          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Hang On Sloopy",
-      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Save the Last Dance for Me",
         "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 154960,
       "name": "Save the Last Dance for Me",
       "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Hang On Sloopy: The Best Of The McCoys",
+        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
+      },
+      "artists": [
+        {
+          "name": "The McCoys",
+          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Hang On Sloopy",
+      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 152333,
       "name": "Soothe Me",
       "url": "https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered",
       "url": "https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "At Last - Single Version",
-      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1015,18 +983,18 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
       "artists": [
         {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 167773,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6"
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1043,6 +1011,22 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "At Last - Single Version",
+      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1075,6 +1059,22 @@
       "duration_ms": 160306,
       "name": "Dancing In The Street - Single Version",
       "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6"
     },
     {
       "added_at": "2024-06-03 14:49:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,686 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,689 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 33 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 |
 | 34 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
 | 35 | [Buen Viaje](https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:25 |
-| 36 | [Volvernos a Amar](https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Contra Todo Pronóstico](https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO) | 3:09 |
-| 37 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
+| 36 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
+| 37 | [Volvernos a Amar](https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Contra Todo Pronóstico](https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO) | 3:09 |
 | 38 | [Sólo Lo Haces Tú](https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Lo Haces Tú](https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy) | 2:21 |
 | 39 | [Sólo Tú](https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:44 |
 | 40 | [Te va a Doler](https://open.spotify.com/track/6m35uri0H0L9ZccW6PRchX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
 | 50 | [Aprendí](https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Aprendí](https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81) | 3:03 |
 
-Snapshot ID: `aiNjAAAAAACVTr6w017MaEXdlM3rseLw`
+Snapshot ID: `aiS0gAAAAACnlhJiUmPmibPhqnAP0QdX`

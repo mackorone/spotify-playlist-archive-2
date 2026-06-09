@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Gaise Baba",
-  "num_followers": 117525,
+  "num_followers": 117544,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -156,8 +156,8 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Cody Carnes",
@@ -485,6 +485,26 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
+      "added_at": "2025-12-26 00:01:39",
+      "album": {
+        "name": "Amioluwa",
+        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "duration_ms": 607129,
+      "name": "Amioluwa",
+      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
@@ -507,26 +527,6 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2025-12-26 00:01:39",
-      "album": {
-        "name": "Amioluwa",
-        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Yinka Okeleye",
-          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
-        }
-      ],
-      "duration_ms": 607129,
-      "name": "Amioluwa",
-      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Tamuno",
+        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "duration_ms": 256148,
+      "name": "Tamuno",
+      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Kumama",
@@ -709,38 +725,6 @@
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Tamuno",
-        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
-      },
-      "artists": [
-        {
-          "name": "Mera Owili",
-          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
-        }
-      ],
-      "duration_ms": 256148,
-      "name": "Tamuno",
-      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
-    },
-    {
-      "added_at": "2026-01-30 00:01:24",
-      "album": {
-        "name": "Walk On Water (Live)",
-        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 538235,
-      "name": "Walk On Water - Live",
-      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
-    },
-    {
       "added_at": "2026-01-23 00:01:16",
       "album": {
         "name": "Run To God (R.T.G)",
@@ -759,6 +743,22 @@
       "duration_ms": 142132,
       "name": "Run To God (R.T.G)",
       "url": "https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO"
+    },
+    {
+      "added_at": "2026-01-30 00:01:24",
+      "album": {
+        "name": "Walk On Water (Live)",
+        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 538235,
+      "name": "Walk On Water - Live",
+      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
-      "added_at": "2025-01-10 12:58:00",
-      "album": {
-        "name": "Let It Show (Live)",
-        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 479824,
-      "name": "Let It Show (Live)",
-      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Find Me Here (Blessings Find Me)",
@@ -887,22 +871,6 @@
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2026-01-09 00:01:28",
@@ -929,6 +897,22 @@
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
       "added_at": "2024-01-19 00:01:00",
       "album": {
         "name": "New Generation",
@@ -947,6 +931,22 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2025-01-10 12:58:00",
+      "album": {
+        "name": "Let It Show (Live)",
+        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 479824,
+      "name": "Let It Show (Live)",
+      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
     },
     {
       "added_at": "2025-06-20 00:01:11",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "Jehovah Move",
+        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
+      },
+      "artists": [
+        {
+          "name": "Sikaflames",
+          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
+        }
+      ],
+      "duration_ms": 221077,
+      "name": "Jehovah Move",
+      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
+    },
+    {
       "added_at": "2025-10-31 00:01:29",
       "album": {
         "name": "The Journey",
@@ -1175,22 +1191,6 @@
       "duration_ms": 206678,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X"
-    },
-    {
-      "added_at": "2026-03-27 00:01:12",
-      "album": {
-        "name": "Jehovah Move",
-        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
-      },
-      "artists": [
-        {
-          "name": "Sikaflames",
-          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
-        }
-      ],
-      "duration_ms": 221077,
-      "name": "Jehovah Move",
-      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     },
     {
+      "added_at": "2026-05-29 00:01:47",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 154743,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "No One Like You",
@@ -1431,22 +1447,6 @@
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
-    },
-    {
-      "added_at": "2026-05-29 00:01:47",
-      "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 154743,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
     },
     {
       "added_at": "2026-02-27 00:01:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,612 likes - 200 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,891 likes - 200 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 199 | [As Long As You Will Be There](https://open.spotify.com/track/6q0GMizOAHat4I2timWhBD) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [As Long As You Will Be There](https://open.spotify.com/album/0RXGLqaERL0lQxJZBOEchh) | 3:57 |
 | 200 | [Unspoken](https://open.spotify.com/track/1DWcrgF8P6NlHf9rvN7lzm) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Unspoken](https://open.spotify.com/album/1JhUCymiRLse2OsgguYg6L) | 3:13 |
 
-Snapshot ID: `AAAAAME/JXmI8CZnV/Yfyh/fW15rHfOQ`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

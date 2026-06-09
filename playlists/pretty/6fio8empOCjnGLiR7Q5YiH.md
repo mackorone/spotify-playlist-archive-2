@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6fio8empOCjnGLiR7Q5YiH.md) - [plain]
 
 > The ultimate road trip dance music playlist for you and your kids.​
 
-[good2grow](https://open.spotify.com/user/31iatkxgk4p5yowgkilqnbiykjde) - 13 likes - 70 songs - 3 hr 5 min
+[good2grow](https://open.spotify.com/user/31iatkxgk4p5yowgkilqnbiykjde) - 12 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

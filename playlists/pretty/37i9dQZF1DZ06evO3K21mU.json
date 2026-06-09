@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 942915,
+  "num_followers": 942934,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADWt6UpxKbRyYu6HF0riHHM",
+  "snapshot_id": "aiS0gAAAAAAnTiQ+KR6qG4p8hu4mRhKf",
   "tracks": [
     {
       "added_at": null,
@@ -275,30 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 218801,
-      "name": "m y . l i f e (with 21 Savage & Morray)",
-      "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 218801,
+      "name": "m y . l i f e (with 21 Savage & Morray)",
+      "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 264746,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 264746,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAA8+W97Uu1/muAoGogxDhEw",
+  "snapshot_id": "aiS0gAAAAADsDXQRP+eev5pg2bA4t39/",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bandera",
         "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
       },
@@ -371,42 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SAKUDELO",
-      "url": "https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Yee - Extended Mix",
-      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando",
         "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
       },
@@ -423,6 +371,38 @@
       "duration_ms": 170189,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "UN POQUITO M\u00c1S",
+      "url": "https://open.spotify.com/track/5bPvebhnIGTejxZTm0jeCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Yee - Extended Mix",
+      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
     },
     {
       "added_at": null,
@@ -451,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 223741,
-      "name": "ZAPATEADO ELECTR\u00d3NICO",
-      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -491,6 +451,26 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SAKUDELO",
+      "url": "https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6"
     },
     {
       "added_at": null,
@@ -535,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "ACTIVO",
-      "url": "https://open.spotify.com/track/5in7YVZnVR2KhdNbn4Idq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -567,6 +531,26 @@
       "duration_ms": 243304,
       "name": "Si T\u00fa No Est\u00e1s Aqu\u00ed (feat. L\u00daA)",
       "url": "https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 223741,
+      "name": "ZAPATEADO ELECTR\u00d3NICO",
+      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
     },
     {
       "added_at": null,
@@ -611,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 259708,
-      "name": "EL TOMATE",
-      "url": "https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -655,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "ACTIVO",
+      "url": "https://open.spotify.com/track/5in7YVZnVR2KhdNbn4Idq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -675,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Like You (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Nobody Like You (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bootie in Your Face (No Rock Drop)",
         "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
       },
@@ -711,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranki",
-        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
       },
       "artists": [
         {
@@ -720,17 +680,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Alexia Mariel",
-          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
-        },
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Tranki",
-      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": null,
@@ -759,22 +715,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 159172,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tranki",
+        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Tranki",
+      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
     },
     {
       "added_at": null,
@@ -799,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
       },
       "artists": [
         {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
+      "duration_ms": 159172,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,22 @@
       "duration_ms": 225159,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     }
   ],
   "unique_name": "This Is Deorro",

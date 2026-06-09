@@ -4,7 +4,7 @@
 
 > Nieuw: Miero YIC, PLUGOXHUSH, Ella, IKER en meer..
 
-603 songs - 1 day 2 hr 0 min
+604 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [FEEG LEGIJK](https://open.spotify.com/track/1Ls0ikzMsdLUrXF7DYYx52) | [YB YB](https://open.spotify.com/artist/0BTt9oHCLaKlU9bK5gBqiR) | [FEEG LEGIJK](https://open.spotify.com/album/3pMWuTcZXTHX6WxlIjunOU) | 2:02 | 2025-11-27 | 2025-12-12 |
 | [Ferillis](https://open.spotify.com/track/7hbkeJXjNYwtvumREs7r7P) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Ferillis](https://open.spotify.com/album/2n20khJ5HMB2B7xEKgyiu9) | 1:57 | 2026-02-12 | 2026-03-27 |
 | [Fetty Wap](https://open.spotify.com/track/2jBxhanhlRzfYrqgPx4sxi) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Fetty Wap](https://open.spotify.com/album/1B1wHPS1h8wQM2M44Z4KmZ) | 2:30 | 2025-10-02 | 2025-11-07 |
+| [FIND YOU](https://open.spotify.com/track/1bQqM4z57AXQvptAfQhOC5) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im) | [FIND YOU](https://open.spotify.com/album/31r8uBQWXhEnofUpyDWaQ4) | 2:35 | 2026-06-08 |  |
 | [FINESSE](https://open.spotify.com/track/6CY06pLHk0uBNhYKcKXea8) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [FINESSE](https://open.spotify.com/album/5mqOOA4Udod2ISqV0eTtyK) | 2:39 | 2025-07-17 | 2025-08-15 |
 | [Flappen Zien](https://open.spotify.com/track/5XF9ue7wYwIK2S7DH3upDM) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0), [Milonair](https://open.spotify.com/artist/6AZfDB8isLU2sHkSm3sRhX), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Flappen Zien](https://open.spotify.com/album/4ueays1KNmdfK7CDh2DSqv) | 2:40 | 2025-08-14 | 2025-09-26 |
 | [Flits](https://open.spotify.com/track/2HqtM2lE7bw883Soxfg14P) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Flits](https://open.spotify.com/album/5HLnv3YYRfGAGzQXbxLho1) | 2:47 | 2025-07-17 | 2025-08-29 |

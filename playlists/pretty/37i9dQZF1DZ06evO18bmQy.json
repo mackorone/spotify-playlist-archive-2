@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211239,
+  "num_followers": 211245,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABDh+u/qxAN9q/IEAi4Nfdk",
+  "snapshot_id": "aiS0gAAAAADri+lhwxPRSlW8Mq0K5TrF",
   "tracks": [
     {
       "added_at": null,
@@ -1215,22 +1215,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+        "name": "TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES",
+        "url": "https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A"
       },
       "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "ONIB",
+          "url": "https://open.spotify.com/artist/6P8KnEUcgY8qUBzJvhWcw8"
         }
       ],
-      "duration_ms": 209114,
-      "name": "bala fini",
-      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
+      "duration_ms": 228000,
+      "name": "HOMO SACER",
+      "url": "https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv"
     },
     {
       "added_at": null,
@@ -1275,34 +1287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES",
-        "url": "https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A"
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
       "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "DJ Cost",
-          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
-        },
-        {
-          "name": "ONIB",
-          "url": "https://open.spotify.com/artist/6P8KnEUcgY8qUBzJvhWcw8"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 228000,
-      "name": "HOMO SACER",
-      "url": "https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv"
+      "duration_ms": 209114,
+      "name": "bala fini",
+      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
     }
   ],
   "unique_name": "This Is Djonga",

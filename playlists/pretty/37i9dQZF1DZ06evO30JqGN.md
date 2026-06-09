@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,346 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,354 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 28 | [BP](https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:49 |
 | 29 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 30 | [Constant Bullshit](https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:17 |
-| 31 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
+| 31 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
 | 32 | [Baby](https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:28 |
-| 33 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
+| 33 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
 | 34 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
 | 35 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 |
-| 36 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
-| 37 | [No](https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:26 |
+| 36 | [No](https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:26 |
+| 37 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
 | 38 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 | 39 | [Deeper](https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 2:58 |
 | 40 | [Reciprocate](https://open.spotify.com/track/5xGqh5mjKgOhp9TOlFeCcJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 49 | [Yummy \- Summer Walker Remix](https://open.spotify.com/track/2FBpJGt00G0h1q0RHuqaGO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:29 |
 | 50 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `aiNjAAAAAABdxEMWCYH+fJGDy6x4dJyC`
+Snapshot ID: `aiS0gAAAAAD9FtGmXHNAHXrU0jQ7sBRJ`

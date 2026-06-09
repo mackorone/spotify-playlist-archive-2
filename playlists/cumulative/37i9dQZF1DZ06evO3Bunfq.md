@@ -4,7 +4,7 @@
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 23 min
+86 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [El Baisón](https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [El Baisón](https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr) | 3:39 | 2024-01-26 |  |
 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 | 2023-12-13 |  |
 | [El Clan Directo Hasta Arriba \(feat\. Tiro Loko\)](https://open.spotify.com/track/1EDXqLDXy4IqFKPlIuVO4m) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [El Clan Directo Hasta Arriba \(feat\. Tiro Loko\)](https://open.spotify.com/album/0YuoI0tIPKBY1IziyuXwgp) | 4:07 | 2023-11-10 | 2023-12-14 |
+| [El Cumbión](https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Directo Hasta Arriba Vol.2](https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG) | 4:40 | 2026-06-09 |  |
 | [El Diablo, La Muerte y Yo](https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:25 | 2024-09-30 |  |
 | [El Loqueron \- Parte 1](https://open.spotify.com/track/2ULk9vqVHyuj0ZXmL3Fzu6) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:08 | 2024-07-10 | 2024-10-07 |
 | [El Pasado Está Olvidado](https://open.spotify.com/track/20wgU9yU4UDDLl5oWiSQag) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:57 | 2023-11-10 |  |
-| [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 | 2023-11-10 |  |
+| [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 | 2023-11-10 | 2026-06-09 |
 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 | 2023-11-10 |  |
 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 | 2023-11-10 |  |
 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 | 2024-01-21 | 2026-06-07 |

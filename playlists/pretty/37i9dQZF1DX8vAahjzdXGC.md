@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Taylor Swift, Joji, The Kid LAROI, Danilla, Ghea Indrawari, Malcolm Todd, Dongker, dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,346 likes - 71 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,348 likes - 71 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

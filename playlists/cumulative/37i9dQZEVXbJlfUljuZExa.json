@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 243623,
       "name": "Cinta Ini Membunuhku",
       "url": "https://open.spotify.com/track/3jqOKTYh4XH9khpOXQp89Y"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -7164,7 +7164,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -7186,7 +7186,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 201973,
       "name": "Eenie Meenie - Radio Version",
       "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
@@ -7384,7 +7384,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -9646,7 +9646,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 200163,
       "name": "Hanya Aku",
       "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
@@ -13695,6 +13695,24 @@
     },
     {
       "album": {
+        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
+        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
+    },
+    {
+      "album": {
         "name": "LEMONADE - The 2nd Album",
         "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
       },
@@ -15180,7 +15198,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 205555,
       "name": "MALU MALU",
       "url": "https://open.spotify.com/track/4nx5dujfgjriMeQg1OWMsp"
@@ -25282,7 +25300,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -25300,7 +25318,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -26858,7 +26876,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

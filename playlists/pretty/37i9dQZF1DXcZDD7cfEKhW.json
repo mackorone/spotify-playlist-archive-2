@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4382448,
+  "num_followers": 4382176,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "PCD Forever (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Beep (with Devault)",
-      "url": "https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1127,26 +1103,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
-        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
-      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Hide Away (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
       },
@@ -1163,6 +1119,50 @@
       "duration_ms": 137538,
       "name": "Hide Away - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "PCD Forever (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Beep (with Devault)",
+      "url": "https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
+        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
+      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
+        "name": "Camera (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 163948,
+      "name": "Camera (CYRIL Remix)",
+      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 208375,
       "name": "like JENNIE - Peggy Gou Remix",
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
-        "name": "Camera (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Camera (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Before You Leave Me (TELYKAST Remix)",
-        "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Before You Leave Me - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -1487,26 +1467,22 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
-        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
+        "name": "Before You Leave Me (TELYKAST Remix)",
+        "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
-      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+      "duration_ms": 167619,
+      "name": "Before You Leave Me - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1527,6 +1503,30 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
+        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
+      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     },
     {
       "added_at": "2026-05-09 02:01:26",

@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 675700,
+  "num_followers": 675708,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 178626,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
     },
     {
       "added_at": "2026-05-07 22:04:19",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2026-05-07 22:04:19",

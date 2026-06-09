@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 707 likes - 81 songs - 4 hr 44 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 718 likes - 83 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 79 | [Timbre!](https://open.spotify.com/track/2bqcz0raQxahQ5TBxNkiXz) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto IV](https://open.spotify.com/album/0kQoR8s2OY2an9hSbeFdzn) | 3:36 |
 | 80 | [Hate Is a Drug](https://open.spotify.com/track/7rjOW14JcKKC9L3ufr7iF6) | [Strange Demons](https://open.spotify.com/artist/1voQLX4eaaC2KEb0ACbSGT) | [Hate Is a Drug](https://open.spotify.com/album/551lQlzabSmzFQjC2edsAw) | 3:24 |
 | 81 | [Negana](https://open.spotify.com/track/119wfagYJPstMFSqvIevY9) | [Twin Dive](https://open.spotify.com/artist/3s33V653y1P9c44LHIQuJ5) | [Negana](https://open.spotify.com/album/79Psl3Dc59HB9UeYTQd96a) | 5:56 |
+| 82 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
+| 83 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
 
-Snapshot ID: `AAADlBQ4QN7sYbD5k+Q5PbH0ykUN0Qyb`
+Snapshot ID: `AAADlpsswNKUxt3gkagxUbkvRe2P+Zcz`

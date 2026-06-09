@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,130 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,137 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 25 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
 | 26 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 27 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 |
-| 28 | [Proposta](https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65), [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT) | [Proposta](https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD) | 3:44 |
+| 28 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
 | 29 | [Fé \- Ao Vivo](https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Fé \(Ao Vivo\)](https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ) | 3:32 |
 | 30 | [Vitoriosa \- Ao Vivo](https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Nova Bis \- Ivan Lins](https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2) | 3:50 |
-| 31 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
+| 31 | [Proposta](https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65), [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT) | [Proposta](https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD) | 3:44 |
 | 32 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 |
 | 33 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 34 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 46 | [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 |
 | 47 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
 | 48 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
-| 49 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
-| 50 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 49 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
+| 50 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
 | 51 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 52 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 53 | [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 |

@@ -3855,6 +3855,36 @@
     },
     {
       "album": {
+        "name": "darkest secrets / CHAKAM",
+        "url": "https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk"
+      },
+      "artists": [
+        {
+          "name": "Uncle Bubu",
+          "url": "https://open.spotify.com/artist/4gO0Opw7pQGFwqRXlsdEnY"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "telz",
+          "url": "https://open.spotify.com/artist/44HiOLrR3zuZqBdTALvQa9"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201457,
+      "name": "Darkest Secrets",
+      "url": "https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8"
+    },
+    {
+      "album": {
         "name": "Day n Nite",
         "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
       },
@@ -7546,7 +7576,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 200733,
+  "num_followers": 200759,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAB5R5AB36Q7qn91xgZoO5bT",
+  "snapshot_id": "aiS0gAAAAAAeA8izFii4oytV79RzURj7",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Clave 7",
-      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 182786,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+      "duration_ms": 219826,
+      "name": "Clave 7",
+      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ventanas Al Viento",
-        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Te Quiero Para Mi",
-      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 187613,
       "name": "Lo Callar\u00e9",
       "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Te Quiero Para Mi",
+      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Preso De Nuevo Leon",
         "url": "https://open.spotify.com/album/2jstsfAeOALnqa1A1feFEN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 177466,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/36FKDNin24quvuo5Un7GFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "La Costumbre",
-      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 168160,
       "name": "Vete Con El",
       "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "La Costumbre",
+      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Rafael Caro Quintero",
-      "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155506,
       "name": "La Tumba Ser\u00e1 El Final",
       "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "El Amor De Nosotros",
-      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186173,
       "name": "Distancia Maldita",
       "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "El Amor De Nosotros",
+      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

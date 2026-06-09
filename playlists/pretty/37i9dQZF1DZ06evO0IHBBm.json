@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31365,
+  "num_followers": 31364,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABQrar5QGcNvMZQuc7UMoWZ",
+  "snapshot_id": "aiS0gAAAAABOtYU6NkPfxSO1GhkUqhAC",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 343372,
+      "name": "O Convidado",
+      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 355746,
       "name": "Milagre",
       "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 343372,
-      "name": "O Convidado",
-      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 273821,
       "name": "Eu Quero Ver o Seu Milagre",
       "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 315930,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 316159,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 540720,
       "name": "O Deus que Faz (Ao Vivo)",
       "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 316159,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 333162,
+      "name": "Pai, Preciso de Ti",
+      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 358640,
       "name": "Yeshua (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 333162,
-      "name": "Pai, Preciso de Ti",
-      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
     },
     {
       "added_at": null,

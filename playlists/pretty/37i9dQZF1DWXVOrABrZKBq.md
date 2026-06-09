@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,846 likes - 98 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,860 likes - 98 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

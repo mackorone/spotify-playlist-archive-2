@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-2,176 songs - 5 day 3 hr 19 min
+2,177 songs - 5 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1327,6 +1327,7 @@
 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 | 2024-01-05 | 2024-03-23 |
 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-06-30 | 2023-11-18 |
 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-20 | 2025-04-26 |
+| [MY LOVE](https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw) | [M.O.T.H.E.R.](https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs) | [M.O.T.H.E.R.](https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU) | 3:12 | 2026-06-08 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-29 | 2024-02-03 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-02-20 |  |
 | [My Name on a T\-Shirt](https://open.spotify.com/track/4CSI3i12ju7A4RfW3DhD0I) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [My Name on a T\-Shirt](https://open.spotify.com/album/5M01zE7XhWA9PWSSvfi67Y) | 4:03 | 2024-06-07 | 2024-08-24 |

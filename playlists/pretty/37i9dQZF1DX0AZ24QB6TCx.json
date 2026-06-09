@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 402831,
+  "num_followers": 402827,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Lovestruck",
         "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 210500,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
       },
@@ -475,38 +459,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
         }
       ],
-      "duration_ms": 247730,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -527,6 +491,42 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 247730,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Moss",
-        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 171470,
-      "name": "Moss",
-      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Moss",
+        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 171470,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Les Orangers",
         "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Vanished",
         "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 356000,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Just To Hear You Say",
-        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Just To Hear You Say",
-      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 458360,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Just To Hear You Say",
+        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
     },
     {
       "added_at": "2024-08-09 18:28:29",

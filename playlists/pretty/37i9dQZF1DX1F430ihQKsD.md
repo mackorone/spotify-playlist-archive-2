@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal avec Beaux Léon
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,145 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,148 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fais comme si](https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Fais comme si](https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP) | 3:00 |
-| 2 | [The Birds the birds the birds](https://open.spotify.com/track/1PbTXjUpz3QkVx0F7J6HEc) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [The birds the birds the birds](https://open.spotify.com/album/4PGU7gJLUsWhOgoExfALZ9) | 2:38 |
+| 2 | [the birds the birds the birds](https://open.spotify.com/track/1PbTXjUpz3QkVx0F7J6HEc) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [the birds the birds the birds](https://open.spotify.com/album/4PGU7gJLUsWhOgoExfALZ9) | 2:38 |
 | 3 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 4 | [Sous le soleil](https://open.spotify.com/track/7uxfXz0gY0m2KZwRp4z7WA) | [Laura Schembri](https://open.spotify.com/artist/6zgpQxL63HGaItTxfFIUk8) | [Tout inclus](https://open.spotify.com/album/6XOHod94zYseoz2VdBeQE8) | 3:36 |
 | 5 | [Viva la vida Aviva](https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [Viva la vida Aviva](https://open.spotify.com/album/2qgynq21DyiBaIqrTK9YRd) | 2:11 |

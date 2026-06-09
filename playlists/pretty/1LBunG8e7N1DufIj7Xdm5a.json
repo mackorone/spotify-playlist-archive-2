@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI00OKyeC79nhvhKWTtz3W13AnU9dY",
+  "snapshot_id": "AAAI1uU59XD5gc0MijXzziiGEUaWzvaC",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73483,6 +73483,58 @@
       "duration_ms": 261765,
       "name": "Chalet",
       "url": "https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr"
+    },
+    {
+      "added_at": "2026-06-08 05:33:25",
+      "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        }
+      ],
+      "duration_ms": 237538,
+      "name": "Noxious",
+      "url": "https://open.spotify.com/track/5Fdx1xdp4ng1kW0fvrcBVM"
+    },
+    {
+      "added_at": "2026-06-08 05:37:44",
+      "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        },
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 162027,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/1k3T9hZwF7D8ZDWps7D27d"
+    },
+    {
+      "added_at": "2026-06-08 05:41:01",
+      "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        }
+      ],
+      "duration_ms": 221596,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl"
     }
   ],
   "unique_name": "playlist spotify free",

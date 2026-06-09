@@ -1,6 +1,6 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 307564,
+  "num_followers": 307602,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Echarme Al Olvido",
         "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 278800,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Hay El Amor",
-        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        }
-      ],
-      "duration_ms": 184084,
-      "name": "Hay El Amor",
-      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Hay El Amor",
+        "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
+      },
+      "artists": [
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        }
+      ],
+      "duration_ms": 184084,
+      "name": "Hay El Amor",
+      "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "La Amante",
-        "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
-      },
-      "artists": [
-        {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "La Culebritica",
-      "url": "https://open.spotify.com/track/5XnvzXPcvukZZI3woD08Fc"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "La Amante",
+        "url": "https://open.spotify.com/album/5QkNCgBdG30U0yRRHOolPq"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/5XnvzXPcvukZZI3woD08Fc"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Lo Har\u00e9 por Ti",
-        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "Lo Har\u00e9 por Ti",
-      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "El Campeon",
-        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
-      },
-      "artists": [
-        {
-          "name": "Los Marios",
-          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
-        }
-      ],
-      "duration_ms": 205437,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 194269,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "El Campeon",
+        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
+      },
+      "artists": [
+        {
+          "name": "Los Marios",
+          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
+        }
+      ],
+      "duration_ms": 205437,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "La Potencia Quiero y Deseo y Mas Exitos",
-        "url": "https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Macao de Alex y Jhonny",
-          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "Reyna de Mi Vida",
-      "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "La Potencia Quiero y Deseo y Mas Exitos",
+        "url": "https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macao de Alex y Jhonny",
+          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
+        }
+      ],
+      "duration_ms": 234736,
+      "name": "Reyna de Mi Vida",
+      "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
     },
     {
       "added_at": "2025-11-20 12:00:38",

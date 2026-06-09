@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 822299,
+  "num_followers": 822303,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "A Thousand Anemones",
+        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 253860,
+      "name": "A Thousand Anemones",
+      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 252893,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "A Thousand Anemones",
-        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 253860,
-      "name": "A Thousand Anemones",
-      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
-      },
-      "artists": [
-        {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
-        }
-      ],
-      "duration_ms": 247273,
-      "name": "Nexus",
-      "url": "https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Silence Like The Grave",
         "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 287160,
       "name": "Silence Like The Grave",
       "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1111,18 +1079,34 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "East of the Sun",
-        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
       "artists": [
         {
-          "name": "Crystal Gates",
-          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 290341,
-      "name": "Wayfarer's Reverie",
-      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 247273,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1155,6 +1139,22 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "East of the Sun",
+        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gates",
+          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
+        }
+      ],
+      "duration_ms": 290341,
+      "name": "Wayfarer's Reverie",
+      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
-      },
-      "artists": [
-        {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 208859,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+      },
+      "artists": [
+        {
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "We Stand Tall",
+        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "We Stand Tall",
+      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
       },
@@ -1551,38 +1567,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "We Stand Tall",
-        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
       },
       "artists": [
         {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
         }
       ],
-      "duration_ms": 183626,
-      "name": "We Stand Tall",
-      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        },
-        {
-          "name": "Elize Ryd",
-          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1603,18 +1599,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "As Empires Fall",
-        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
       },
       "artists": [
         {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
         }
       ],
-      "duration_ms": 234440,
-      "name": "As Empires Fall",
-      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
+      "duration_ms": 242826,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
     },
     {
       "added_at": "2026-03-22 01:56:31",

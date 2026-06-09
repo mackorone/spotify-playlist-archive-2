@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 5 min
+99 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Género Rural](https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:51 | 2026-02-14 |  |
 | [Historial Crediticio](https://open.spotify.com/track/6vDFIROAlMhBoK5ZglUbms) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:12 | 2024-11-29 | 2024-12-01 |
 | [La Caza de Nariño](https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:41 | 2023-12-30 | 2026-02-11 |
+| [La Caza de Nariño](https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:41 | 2026-06-09 |  |
 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 | 2023-12-30 |  |
 | [La Eterna \(2.007\)](https://open.spotify.com/track/4OmOic8DVLpfaL9jXMzsyF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 5:29 | 2023-12-30 | 2024-10-27 |
 | [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 | 2025-11-30 |  |
@@ -84,7 +85,7 @@
 | [Otra Canción Larga](https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 6:05 | 2026-02-24 |  |
 | [Pambelé](https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:47 | 2026-02-11 |  |
 | [Pambelé](https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:47 | 2023-12-30 | 2026-02-11 |
-| [Piñata en el 301](https://open.spotify.com/track/78qPjs6oB2ZIaPOYpKZT8m) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 2:53 | 2026-02-11 |  |
+| [Piñata en el 301](https://open.spotify.com/track/78qPjs6oB2ZIaPOYpKZT8m) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 2:53 | 2026-02-11 | 2026-06-09 |
 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 | 2026-02-18 |  |
 | [Rap Sexo y Saxofón](https://open.spotify.com/track/4Xe6UqlzhzIq28CelNiDz6) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:30 | 2023-12-30 | 2024-12-01 |
 | [Reflujo](https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:48 | 2026-02-11 |  |

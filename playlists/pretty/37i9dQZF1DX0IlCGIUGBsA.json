@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 917894,
+  "num_followers": 917890,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
       "added_at": "2024-07-12 09:33:21",

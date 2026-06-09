@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129448,
+  "num_followers": 129446,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Chicchi di caff\u00e8",
-      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
-    },
-    {
-      "added_at": "2026-05-21 23:01:25",
-      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 190188,
       "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
+    },
+    {
+      "added_at": "2026-05-21 23:01:25",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Chicchi di caff\u00e8",
+      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -711,18 +711,22 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -747,22 +751,18 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
       "artists": [
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+      "duration_ms": 265454,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -799,18 +799,30 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 158022,
+      "name": "Ridere di Te (2026)",
+      "url": "https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -839,30 +851,18 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "Nerissima",
-        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        },
-        {
-          "name": "Dibla",
-          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
-        },
-        {
-          "name": "Jiz",
-          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 158022,
-      "name": "Ridere di Te (2026)",
-      "url": "https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2026-05-21 23:01:25",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1083,6 +1067,54 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2026-05-21 23:01:25",
+      "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2026-05-21 23:01:25",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+    },
+    {
+      "added_at": "2026-05-21 23:01:25",
+      "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 139304,
+      "name": "LA PERSONA PEGGIORE DEL MONDO",
+      "url": "https://open.spotify.com/track/24jUI3vx158Q0z6nc9IIt8"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -1107,38 +1139,6 @@
       "duration_ms": 137142,
       "name": "ORDINARIA FOLLIA (feat. Franco126)",
       "url": "https://open.spotify.com/track/2rqxTIXwORh2uvyJzGoMQR"
-    },
-    {
-      "added_at": "2026-05-21 23:01:25",
-      "album": {
-        "name": "DISINCANTO",
-        "url": "https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 139304,
-      "name": "LA PERSONA PEGGIORE DEL MONDO",
-      "url": "https://open.spotify.com/track/24jUI3vx158Q0z6nc9IIt8"
-    },
-    {
-      "added_at": "2026-05-21 23:01:25",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
     },
     {
       "added_at": "2026-05-21 23:01:25",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2026-05-21 23:01:25",
       "album": {
-        "name": "Mattoni",
-        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 194861,
-      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
-    },
-    {
-      "added_at": "2026-05-21 23:01:25",
-      "album": {
         "name": "Latte in Polvere",
         "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "added_at": "2026-05-21 23:01:25",
+      "album": {
+        "name": "Mattoni",
+        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 194861,
+      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
     },
     {
       "added_at": "2026-05-21 23:01:25",

@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Deto Black
 
-1,093 songs - 2 day 4 hr 48 min
+1,094 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [London Bridge](https://open.spotify.com/track/5DyKBJH9Ycqhj9RNigfWCk) | [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [London Bridge](https://open.spotify.com/album/1kjV9FTE7BIzpfFW4Yp1fC) | 2:18 | 2022-04-07 | 2022-07-01 |
 | [London Girl](https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP) | [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [London Girl](https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju) | 2:14 | 2025-04-04 | 2026-03-03 |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-19 | 2025-04-11 |
-| [Lose Control](https://open.spotify.com/track/2wuUcvmzvPoAIYlTVDTvSI) | [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh), [Jxrry](https://open.spotify.com/artist/3rGXvSLdzHeBycB7NBe8of) | [Lose Control](https://open.spotify.com/album/605H5MX8ZGtlEC5dX4IcYn) | 2:46 | 2026-05-29 |  |
+| [Lose Control](https://open.spotify.com/track/2wuUcvmzvPoAIYlTVDTvSI) | [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh), [Jxrry](https://open.spotify.com/artist/3rGXvSLdzHeBycB7NBe8of) | [Lose Control](https://open.spotify.com/album/605H5MX8ZGtlEC5dX4IcYn) | 2:46 | 2026-05-29 | 2026-06-09 |
 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 | 2025-09-19 | 2025-11-07 |
 | [lost my mind in the moment](https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [lost my mind in the moment](https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE) | 2:58 | 2025-08-15 | 2025-10-13 |
 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 | 2024-07-12 | 2025-04-11 |
@@ -716,6 +716,7 @@
 | [On Sight](https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 2:36 | 2024-03-21 | 2024-03-25 |
 | [On Time](https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [On Time](https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI) | 3:49 | 2025-09-05 | 2025-11-07 |
 | [Onji](https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Laeorx](https://open.spotify.com/artist/42zckcHlrUoJQHqFQV2fjq) | [Onji](https://open.spotify.com/album/7hq98PeM25enyZHrg6sxo0) | 2:21 | 2025-03-14 | 2025-10-24 |
+| [Only for the night](https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl) | [jujuflow](https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e), [SAINTMULA](https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ) | [Only for the night](https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV) | 1:30 | 2026-05-29 |  |
 | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 | 2026-03-06 |  |
 | [Open Casket](https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [Open Casket](https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2) | 2:23 | 2025-06-13 | 2026-01-20 |
 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 | 2023-04-07 | 2024-02-16 |

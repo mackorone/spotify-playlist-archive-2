@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5jWyVVF4hSxcO6CVdHCvLI"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6kMunWRjTa86kOQ2yujVM6"
+    },
+    {
+      "album": {
         "name": "Looping",
         "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
       },
@@ -3051,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Ori",
+        "url": "https://open.spotify.com/album/6TmO8aBJcsj7nd3BfSWRgB"
+      },
+      "artists": [
+        {
+          "name": "Pchew Pow",
+          "url": "https://open.spotify.com/artist/0MXpmlZZWs1MoTGIEQ3EBr"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135200,
+      "name": "Ori",
+      "url": "https://open.spotify.com/track/4AtXdEbZFaqzpxEUD7JVkL"
+    },
+    {
+      "album": {
         "name": "Our Time Is Up",
         "url": "https://open.spotify.com/album/2k09ozVolPTKIIqE5AJ9Ex"
       },
@@ -3474,6 +3510,24 @@
       "duration_ms": 182266,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN"
+    },
+    {
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
     },
     {
       "album": {
@@ -4134,6 +4188,24 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe"
+    },
+    {
+      "album": {
+        "name": "The Heron",
+        "url": "https://open.spotify.com/album/7JaPeFm4sXWVw8FMyqbtmq"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "The Heron",
+      "url": "https://open.spotify.com/track/1NEzIEe4X1DxPUqQdz0SMc"
     },
     {
       "album": {

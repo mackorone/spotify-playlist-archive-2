@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1901,
+  "num_followers": 1902,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACml9rlCIiUv13dP6rcGIth",
+  "snapshot_id": "aiS0gAAAAACkUEt/kP9MSuwFBqKNN7oH",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Sofa, Breja e Netflix",
-      "url": "https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rua do Ouro",
         "url": "https://open.spotify.com/album/0qMYKfBh7E9zQYjhz8wY2Z"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 136615,
       "name": "Rua do Ouro",
       "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Sofa, Breja e Netflix",
+      "url": "https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls"
     },
     {
       "added_at": null,
@@ -855,18 +855,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+        "name": "ai que vontade",
+        "url": "https://open.spotify.com/album/3z1CLq24Qp1YCfDwSNxmN4"
       },
       "artists": [
         {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "maux",
+          "url": "https://open.spotify.com/artist/0kQZp9rotXxKDvJ951gbv3"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+      "duration_ms": 175717,
+      "name": "ai que vontade",
+      "url": "https://open.spotify.com/track/46rHe7jYJQArqk2zABlsNP"
     },
     {
       "added_at": null,
@@ -919,34 +935,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "ai que vontade",
-        "url": "https://open.spotify.com/album/3z1CLq24Qp1YCfDwSNxmN4"
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
       },
       "artists": [
         {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "maux",
-          "url": "https://open.spotify.com/artist/0kQZp9rotXxKDvJ951gbv3"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 175717,
-      "name": "ai que vontade",
-      "url": "https://open.spotify.com/track/46rHe7jYJQArqk2zABlsNP"
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -983,46 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Vida",
-        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "Minha Vida",
-      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fica Tudo Bem",
         "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 168960,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Vida",
+        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Minha Vida",
+      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
     },
     {
       "added_at": null,
@@ -1104,29 +1104,9 @@
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -1151,6 +1131,26 @@
       "duration_ms": 129229,
       "name": "Proibid\u00e3o Delas",
       "url": "https://open.spotify.com/track/4nE9YqujqrNXyz5Ln8CLw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
     },
     {
       "added_at": null,
@@ -1192,33 +1192,9 @@
           "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
-      },
-      "artists": [
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
     },
     {
       "added_at": null,
@@ -1251,30 +1227,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Ruas Sabem",
-        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+        "name": "Eu & Elas",
+        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
       },
       "artists": [
         {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Jam\u00e9s Ventura",
-          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
         }
       ],
-      "duration_ms": 181998,
-      "name": "Tinta Na M\u00e3o",
-      "url": "https://open.spotify.com/track/34fml1FqZOCpBwAsqWrFYY"
+      "duration_ms": 130212,
+      "name": "Macetada Forte",
+      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 134206,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

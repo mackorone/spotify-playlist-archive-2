@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11540,
+  "num_followers": 11545,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABgSlKx6IKvI78vT8GzrhLm",
+  "snapshot_id": "aiS0gAAAAABGjgQ7NxHZpiS2eVxVyylW",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
-        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
       "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 308948,
-      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
-      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
+      "duration_ms": 160289,
+      "name": "Intro (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
     },
     {
       "added_at": null,
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
+        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
       },
       "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 160289,
-      "name": "Intro (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+      "duration_ms": 308948,
+      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
+      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+      "duration_ms": 236226,
+      "name": "Holy Refrain",
+      "url": "https://open.spotify.com/track/29Sl4DsJQazlOv5YQfmFpD"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 236226,
-      "name": "Holy Refrain",
-      "url": "https://open.spotify.com/track/29Sl4DsJQazlOv5YQfmFpD"
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
     },
     {
       "added_at": null,

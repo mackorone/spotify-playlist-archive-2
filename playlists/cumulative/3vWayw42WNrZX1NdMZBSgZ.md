@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G
 
-996 songs - 2 day 5 hr 1 min
+998 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-02 | 2023-06-01 |
 | [A La Niña Que Fui](https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 3:05 | 2026-04-24 |  |
 | [A Medio Vivir](https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [A Medio Vivir](https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H) | 3:52 | 2025-10-03 |  |
+| [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 | 2026-06-09 |  |
 | [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 | 2022-12-15 | 2023-06-01 |
 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci) | 2:25 | 2022-04-14 | 2023-05-26 |
 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/746DsKOI6KUjO50U4UIsM5) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 2:25 | 2022-07-13 | 2023-05-26 |
@@ -742,6 +743,7 @@
 | [Préndete](https://open.spotify.com/track/1DUGW8MYDxCyK6zXwCNYJ1) | [Pinto “Wahin”](https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55) | [Préndete](https://open.spotify.com/album/4Clpxv3tfdgJLwqBHOmJHV) | 3:33 | 2024-01-19 | 2024-07-03 |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-04 | 2023-05-26 |
 | [Puerta Abierta](https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Puerta Abierta](https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ) | 2:51 | 2025-03-20 |  |
+| [PUMAS](https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 3:28 | 2026-06-09 |  |
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-22 | 2025-09-12 |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-22 | 2023-05-26 |
 | [Pura Maldad](https://open.spotify.com/track/1fEEEkEoiEuOJdaIMknmWK) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Pura Maldad](https://open.spotify.com/album/266XCHMmH6s0s0a0viQAx8) | 2:59 | 2023-02-17 | 2023-06-01 |

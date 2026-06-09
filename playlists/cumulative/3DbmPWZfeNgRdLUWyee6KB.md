@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,151 songs - 2 day 19 hr 15 min
+1,152 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Kali Was Right About You](https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Kali Was Right About You](https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF) | 3:38 | 2025-12-22 | 2026-01-24 |
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-19 | 2026-06-05 |
+| [Kaya Ko Pa Ba?](https://open.spotify.com/track/5NkCctniqgusYrxrlBDykB) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Kaya Ko Pa Ba?](https://open.spotify.com/album/6D7Ecbqbkw2yw7TH2td3P1) | 5:14 | 2026-06-08 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 | 2026-05-22 |  |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 |  |

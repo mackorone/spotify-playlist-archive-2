@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-786 songs - 3 day 1 hr 17 min
+787 songs - 3 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 | 2021-08-05 | 2022-07-28 |
 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-10-28 | 2024-05-25 |
 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 | 2022-07-08 | 2022-11-28 |
-| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 |  |
+| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 | 2026-06-09 |
 | [Pumpin'](https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Synergy](https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0) | 5:34 | 2024-06-21 | 2026-01-15 |
 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 | 2020-09-26 | 2022-10-31 |
 | [Pythia](https://open.spotify.com/track/5yxmvgjZR4hmlC1nryQaQp) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Pythia](https://open.spotify.com/album/6N1z29blqEy549cmtpV8JW) | 7:46 | 2020-07-31 | 2020-09-26 |
@@ -696,6 +696,7 @@
 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-05-30 |  |
 | [The Unseen](https://open.spotify.com/track/1urNwF91sq26no4phIbJ1t) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [The Unseen / Banderas](https://open.spotify.com/album/4CzoCLWZ8b8fstvRxH8GKN) | 8:00 | 2019-08-06\* | 2020-06-10 |
 | [The Vision](https://open.spotify.com/track/6z3H6Mk3MWMpQXpfMAs0u6) | [DJ Boris](https://open.spotify.com/artist/0CwEv3FWLZi5UomNNYUn0u) | [The Vision](https://open.spotify.com/album/2PJqOxAEfY2jYEpOEog8cd) | 6:43 | 2019-08-15 | 2019-11-09 |
+| [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 | 2026-06-05 |  |
 | [they told us it was hard, but they were wrong\. \- Fort Romeau Remix](https://open.spotify.com/track/1nF0nHDkHm9BXz7RPeiPtW) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [they told us it was hard, but they were wrong\. \(remixes\)](https://open.spotify.com/album/5hRlpKQs8T7yQsuenTi3Su) | 5:05 | 2020-07-31 | 2020-09-19 |
 | [They Will Come for Us](https://open.spotify.com/track/5DDdTX9CVzL5PChBJbOa6v) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Delirium / They Will Come for Us](https://open.spotify.com/album/2c0DR1bxAF1nykL9zCPv1M) | 7:15 | 2019-12-23 | 2020-02-01 |
 | [Thinking About You \- Radio Slave feat\. Thomas Gandey Remix](https://open.spotify.com/track/3zAl00ED85d3DoRViaOYg5) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Thomas Gandey](https://open.spotify.com/artist/3sL1rpCWTOOABA0CKuyQcM), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Thinking About You](https://open.spotify.com/album/4HcvPLeX6aREov5RfkrJQB) | 7:50 | 2021-10-14 | 2021-12-19 |

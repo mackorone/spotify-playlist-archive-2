@@ -4,7 +4,7 @@
 
 > take the road less traveled
 
-226 songs - 14 hr 25 min
+227 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Gold Rush](https://open.spotify.com/track/5jx8nGaWvgYQZJd6k1OOuO) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Gold Rush](https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9) | 4:15 | 2025-02-25 | 2025-03-15 |
 | [Gone as It Gets](https://open.spotify.com/track/6pgvh09E3Hdj5rjBHk8LWe) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Gone as It Gets](https://open.spotify.com/album/20fMYYeUFcB6KQglhdgA4l) | 3:44 | 2024-11-12 | 2025-07-05 |
 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 | 2021-07-06 | 2024-04-19 |
+| [Goodbye California](https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [Goodbye California](https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN) | 2:43 | 2026-06-05 |  |
 | [Goodbye Carolina](https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Goodbye Carolina](https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7) | 4:01 | 2021-07-06 | 2024-11-13 |
 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 | 2021-07-06 | 2024-11-13 |
 | [Graceland](https://open.spotify.com/track/6HkVGCoxha0ZJjIRRZk9vN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/6RvfJO0Fl7E6jT606t9nJ0) | 3:14 | 2024-03-25 | 2024-04-19 |
@@ -210,7 +211,7 @@
 | [Twenty Miles](https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2) | 3:43 | 2024-11-12 | 2025-03-03 |
 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 | 2024-03-25 | 2024-11-13 |
 | [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 | 2024-11-12 | 2025-07-05 |
-| [Wake Me up to Drive](https://open.spotify.com/track/07C3oEuCStuueA9cBYLRuL) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:43 | 2024-11-12 |  |
+| [Wake Me up to Drive](https://open.spotify.com/track/07C3oEuCStuueA9cBYLRuL) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:43 | 2024-11-12 | 2026-06-09 |
 | [Watch the World Die](https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Watch the World Die](https://open.spotify.com/album/3ZAttcYlut56IVsUDSuo7O) | 3:54 | 2021-07-06 | 2024-04-19 |
 | [Watch the World Die](https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Watch the World Die](https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw) | 3:54 | 2024-03-25 | 2024-11-13 |
 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 | 2021-07-06 | 2024-11-13 |

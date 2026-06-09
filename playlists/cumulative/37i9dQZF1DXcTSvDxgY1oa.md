@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Gilly
 
-371 songs - 20 hr 4 min
+372 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Danse lunaire](https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp) | [Carmen Jaci](https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3) | [Happy Child](https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK) | 4:58 | 2024-07-01 | 2025-05-08 |
 | [Day n Night](https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh) | [Sono](https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39) | [Day n Night](https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr) | 3:59 | 2024-10-21 | 2025-05-08 |
 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:09 | 2025-11-28 | 2026-05-12 |
-| [de franse](https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj) | [tays](https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C), [Tommie Rose](https://open.spotify.com/artist/2UFOrCQPyrY9BoomeJ8Gov) | [kom is dromen](https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T) | 3:37 | 2026-05-11 |  |
+| [de franse](https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj) | [tays](https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C), [Tommie Rose](https://open.spotify.com/artist/2UFOrCQPyrY9BoomeJ8Gov) | [kom is dromen](https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T) | 3:37 | 2026-05-11 | 2026-06-09 |
 | [deadbeat \(how long\)](https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep) | [crashing](https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr) | [deadbeat \(how long\)](https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c) | 4:00 | 2026-05-11 |  |
 | [Deja Vu](https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf) | [Howen Justin](https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N) | [Deja Vu](https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd) | 2:31 | 2024-07-01 | 2025-05-08 |
 | [Digital Prison](https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3) | [Eyesores](https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks) | [They Want To See You Fall](https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM) | 2:22 | 2026-05-11 |  |
@@ -165,6 +165,7 @@
 | [In Een Droom](https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2) | [Waakhond](https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ) | [In Een Droom](https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns) | 3:27 | 2024-07-01 | 2025-05-08 |
 | [In Love Again \(The ABC Way\)](https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [In Love Again \(The ABC Way\)](https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP) | 3:39 | 2025-11-28 | 2026-05-12 |
 | [In M'n Hoofd](https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 2:53 | 2024-07-01 | 2025-05-08 |
+| [in mei](https://open.spotify.com/track/6sMXMG24t5fHgWVdTnjd79) | [tays](https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C) | [in mei](https://open.spotify.com/album/1TnQE62KG35F99eYKKXIJP) | 3:18 | 2026-06-08 |  |
 | [In My Arms \- live](https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5) | [INOYSON](https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5) | [Odesa Twilight Session \(live\)](https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2) | 3:10 | 2026-05-26 |  |
 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 | 2026-05-11 |  |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-07-01 | 2025-05-08 |

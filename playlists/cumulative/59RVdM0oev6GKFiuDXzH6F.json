@@ -6113,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "Falando",
+        "url": "https://open.spotify.com/album/2ZCvFbVjiT7OTizcb3sy1Y"
+      },
+      "artists": [
+        {
+          "name": "Andre Palms",
+          "url": "https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210875,
+      "name": "Falando",
+      "url": "https://open.spotify.com/track/08wKeaRzoNoPYIoinPNsrS"
+    },
+    {
+      "album": {
         "name": "Fall At Your Feet (with Dean Lewis)",
         "url": "https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY"
       },

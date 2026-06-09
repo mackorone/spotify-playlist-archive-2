@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-343 songs - 19 hr 3 min
+345 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-12-09 | 2025-03-05 |
 | [Back in Love](https://open.spotify.com/track/0xURkLqwfxkalc37EGgkVU) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Back in Love](https://open.spotify.com/album/1dBmcN0lkbhAq3zFoPEe3E) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-12-09 |  |
+| [Back to Love](https://open.spotify.com/track/2z8o3hljrWOTDgN2lIiXXo) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Back to Love](https://open.spotify.com/album/08OnTqwrE1gv91uoTI8OBV) | 4:30 | 2026-06-08 |  |
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2023-09-13 | 2025-06-01 |
 | [Bangkok](https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/3BIefweoHMJZJhDsbn0t5q) | 2:48 | 2021-12-09 | 2022-07-23 |
 | [Bangkok](https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/2aRJel1Hr4NGqK9MVfivfA) | 2:48 | 2022-06-02 | 2022-11-26 |
@@ -107,7 +108,7 @@
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-12-09 |  |
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2021-12-09 |  |
 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 | 2023-09-13 |  |
-| [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 |  |
+| [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 | 2026-06-09 |
 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 | 2025-07-26 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2021-12-09 | 2022-04-20 |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-02-17 |  |
@@ -131,7 +132,7 @@
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2025-06-08 |
 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 | 2021-12-09 | 2026-04-18 |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-12-09 |  |
-| [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 |  |
+| [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 | 2026-06-09 |
 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 | 2026-05-23 |
 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 | 2023-05-26 | 2025-10-30 |
 | [Here with You](https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [flower thief](https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG) | [Here with You](https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI) | 2:19 | 2023-06-09 |  |
@@ -187,6 +188,7 @@
 | [Malin's Song](https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [For Love](https://open.spotify.com/album/4LBj9X5oIwy48MNG74H8jy) | 4:03 | 2021-12-09 | 2022-05-21 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 | 2021-12-09 | 2022-07-21 |
+| [Midnight Sky, Pt\. II](https://open.spotify.com/track/3q69fZ63R5n1bJ04DWId14) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Movement](https://open.spotify.com/album/7qlKLenLUmKX3RvooLdg8G) | 2:58 | 2026-06-08 |  |
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2022-08-05 | 2023-11-16 |
 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 | 2021-12-09 | 2023-09-14 |
 | [Mirrors](https://open.spotify.com/track/2OA4GktcfTv8aslolM96EB) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/06JDk357dBsHJj7lW3F4XX) | 3:40 | 2023-05-26 | 2024-04-19 |

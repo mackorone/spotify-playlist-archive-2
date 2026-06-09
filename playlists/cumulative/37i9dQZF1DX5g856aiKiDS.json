@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 120527,
       "name": "allang mallang",
       "url": "https://open.spotify.com/track/5i2NJDXiUvCdH8yDX9FQ6b"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
@@ -1868,6 +1868,24 @@
       "duration_ms": 230569,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4kxhKiAg2gaSrbn25gotRm"
+    },
+    {
+      "album": {
+        "name": "DUMMY",
+        "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195842,
+      "name": "DUMMY",
+      "url": "https://open.spotify.com/track/7HrWXshLomWHVYD1tC21S1"
     },
     {
       "album": {
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
@@ -4525,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/24Zn0QuP9VyAjUYHRarggi"
+      },
+      "artists": [
+        {
+          "name": "16",
+          "url": "https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2BLGNwa2TilLNRVmRDMYlw"
+    },
+    {
+      "album": {
         "name": "LuckyCharm",
         "url": "https://open.spotify.com/album/0u3xMBTkJIB8JaJqPLj21b"
       },
@@ -4692,7 +4728,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 148000,
       "name": "midsummer",
       "url": "https://open.spotify.com/track/0nNUG87yUlCJqGhpv5ney8"
@@ -5072,7 +5108,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 231505,
       "name": "News & Sames",
       "url": "https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs"
@@ -6700,7 +6736,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
@@ -8290,7 +8326,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 197499,
       "name": "With You",
       "url": "https://open.spotify.com/track/6ZvQduuUeawAnal4yXvUYA"
@@ -8312,7 +8348,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 156000,
       "name": "With You",
       "url": "https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1"

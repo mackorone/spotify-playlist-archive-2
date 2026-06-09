@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 459050,
+  "num_followers": 459066,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Stop, Look, Listen (To Your Heart)",
-      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 251013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Stop, Look, Listen (To Your Heart)",
+      "url": "https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
-      },
-      "artists": [
-        {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Feelin' It",
         "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 253053,
       "name": "Still Lovin' You",
       "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -275,6 +259,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
@@ -287,26 +287,6 @@
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        },
-        {
-          "name": "Chris Geith",
-          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Echoes of the Heart",
-      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -327,6 +307,26 @@
       "duration_ms": 266717,
       "name": "Deep Blue C",
       "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Chris Geith",
+          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Echoes of the Heart",
+      "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232546,
       "name": "The Magic Hour",
       "url": "https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Burnin' up",
         "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 285500,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Soulfully",
         "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 250000,
       "name": "Soulfully",
       "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
+      },
+      "artists": [
+        {
+          "name": "Special EFX",
+          "url": "https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ"
+        }
+      ],
+      "duration_ms": 245163,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
-      },
-      "artists": [
-        {
-          "name": "Special EFX",
-          "url": "https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ"
-        }
-      ],
-      "duration_ms": 245163,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
         "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 309981,
       "name": "Imagine (Living as One)",
       "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
-      },
-      "artists": [
-        {
-          "name": "Les Sabler",
-          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Three Dee",
-      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 269981,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
+      },
+      "artists": [
+        {
+          "name": "Les Sabler",
+          "url": "https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "Three Dee",
+      "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Stylin'",
-        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
-      },
-      "artists": [
-        {
-          "name": "Gregory Goodloe",
-          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 287400,
       "name": "Spray Bay",
       "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Stylin'",
+        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
+      },
+      "artists": [
+        {
+          "name": "Gregory Goodloe",
+          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "All We Have Are Moments",
-        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
-      },
-      "artists": [
-        {
-          "name": "Marqueal Jordan",
-          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
-        }
-      ],
-      "duration_ms": 213536,
-      "name": "What Key?",
-      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 311359,
       "name": "Everyone but You",
       "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "All We Have Are Moments",
+        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
+      },
+      "artists": [
+        {
+          "name": "Marqueal Jordan",
+          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
+        }
+      ],
+      "duration_ms": 213536,
+      "name": "What Key?",
+      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 314574,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "I'm All Ears",
         "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
       },
@@ -1747,18 +1731,34 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 238876,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Let's Get Serious",
         "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 246546,
       "name": "Let's Get Serious",
       "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/2Q69YdccZf1wtmsfEh5gQE"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 238876,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L"
     },
     {
       "added_at": "2026-01-14 10:46:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Alela Diane
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,371 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,377 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

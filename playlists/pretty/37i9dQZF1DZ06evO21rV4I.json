@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 173299,
+  "num_followers": 173336,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAEfxWDapT/fNndQrhX0anB",
+  "snapshot_id": "aiS0gAAAAACEoBzrW6hyBhSpe2vMaxKy",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Jam",
-      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 262976,
       "name": "Blessed (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
         "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hand-picked releases from the new wave in soul. Cover: BOY SODA",
+  "description": "Hand-picked releases from the new wave in soul. Cover: Latanya Alberto",
   "name": "Soul Currents",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 202500,
       "name": "Back to the Middle",
       "url": "https://open.spotify.com/track/1QyUI7gtEvETB2Eco3ZuMD"
@@ -1036,6 +1036,28 @@
       "duration_ms": 171570,
       "name": "Beneath Your Surface",
       "url": "https://open.spotify.com/track/5g4zXjdQeeGYqi101xw6hD"
+    },
+    {
+      "album": {
+        "name": "BENJAMINS",
+        "url": "https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191381,
+      "name": "BENJAMINS",
+      "url": "https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB"
     },
     {
       "album": {
@@ -2721,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Docs",
+        "url": "https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Docs",
+      "url": "https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs"
+    },
+    {
+      "album": {
         "name": "Don't Lie",
         "url": "https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg"
       },
@@ -3118,6 +3158,24 @@
       "duration_ms": 192882,
       "name": "Eyes On The Prize",
       "url": "https://open.spotify.com/track/1aVtm49BlMKcpOwaZM1FkX"
+    },
+    {
+      "album": {
+        "name": "FAITH",
+        "url": "https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181700,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
     },
     {
       "album": {
@@ -4331,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Half full",
+        "url": "https://open.spotify.com/album/6xuFQBmScakZ7MHCU9SrrP"
+      },
+      "artists": [
+        {
+          "name": "theo artz",
+          "url": "https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155509,
+      "name": "Half full",
+      "url": "https://open.spotify.com/track/4Ui7mpX1gBEqEDoYmjgUPc"
+    },
+    {
+      "album": {
         "name": "KT.FM",
         "url": "https://open.spotify.com/album/5PoOWQThDKCdkfvx6zGthx"
       },
@@ -4858,7 +4934,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 178099,
       "name": "Home In Tokyo",
       "url": "https://open.spotify.com/track/4rermdt73Db2zDUR7E4Qay"
@@ -5870,7 +5946,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 199362,
       "name": "JUKE JOINT",
       "url": "https://open.spotify.com/track/787lR5fkcHgOkGWGEP9puW"
@@ -6286,7 +6362,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 214741,
       "name": "Leo",
       "url": "https://open.spotify.com/track/7GKiE4vRTWSpLT7JeRBjbQ"
@@ -6936,7 +7012,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 218191,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/6LOWjxpQsB52YHtyA3piVd"
@@ -9408,7 +9484,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 148781,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/2ddUk4wZSWpUyyjWF7tUYW"
@@ -12839,6 +12915,24 @@
     },
     {
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263850,
+      "name": "Watch You Leave",
+      "url": "https://open.spotify.com/track/5Zm7y3rwk7jA90qUAHhjtJ"
+    },
+    {
+      "album": {
         "name": "Watch You Leave",
         "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
       },
@@ -13152,6 +13246,32 @@
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "album": {
+        "name": "Window Shopping",
+        "url": "https://open.spotify.com/album/4XUZTMZmCpTdhuos2LaUVe"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Steven Bamidele",
+          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205285,
+      "name": "Window Shopping",
+      "url": "https://open.spotify.com/track/0gkfHvtAtYqqL4MIbg7uyw"
     },
     {
       "album": {

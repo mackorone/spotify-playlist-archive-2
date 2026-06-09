@@ -2,7 +2,7 @@
 
 ### [t'as la ref ?](https://open.spotify.com/playlist/37i9dQZF1DXdvyLcddcaVU)
 
-> ⭐️⭐️ \#fyp
+> \#fyp
 
 1,121 songs - 2 day 10 hr 2 min
 

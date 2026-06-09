@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "AASHNA",
+        "url": "https://open.spotify.com/album/0umBH2bq4NmHGEgqxas9DI"
+      },
+      "artists": [
+        {
+          "name": "Pawan Ojha",
+          "url": "https://open.spotify.com/artist/7oHh5cqy4LD3d7S78HJK1x"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223557,
+      "name": "AASHNA",
+      "url": "https://open.spotify.com/track/2ZqM4Pp5XLazIoO1ZLqsrO"
+    },
+    {
+      "album": {
         "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
         "url": "https://open.spotify.com/album/75gdVNNIo4xf4d6QqpJ63W"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 228000,
       "name": "Aitbaar (From \"Chand Mera Dil\")",
       "url": "https://open.spotify.com/track/1VoorSPoJTq6K0tObRIQOv"
@@ -1194,6 +1212,24 @@
       "duration_ms": 150053,
       "name": "Apna Lage",
       "url": "https://open.spotify.com/track/6RDExqHo9DHpbD0ltHThNd"
+    },
+    {
+      "album": {
+        "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307006,
+      "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb"
     },
     {
       "album": {
@@ -1532,6 +1568,28 @@
       "duration_ms": 123418,
       "name": "Baarish Yeh Pehli",
       "url": "https://open.spotify.com/track/2GFdIH7Z98TRqpi9rAS5B1"
+    },
+    {
+      "album": {
+        "name": "Baat Phir Bhi Reh Gayi",
+        "url": "https://open.spotify.com/album/1RFlC6We3lYCqKtK28qbAR"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Harshit Karnatak",
+          "url": "https://open.spotify.com/artist/1o3NqzgQfisaAE3Md2a9O6"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254166,
+      "name": "Baat Phir Bhi Reh Gayi",
+      "url": "https://open.spotify.com/track/26eFpzXEPPdwzTP5NJSZBT"
     },
     {
       "album": {
@@ -2414,6 +2472,32 @@
       "duration_ms": 144750,
       "name": "Bhai Vakeel Hai - From \"Jolly LLB 3\"",
       "url": "https://open.spotify.com/track/3i39KGnJ1pjHGdF0aPa0CG"
+    },
+    {
+      "album": {
+        "name": "Bharat Bhhagya Viddhaata Title Track (From \"Bharat Bhhagya Viddhaata\")",
+        "url": "https://open.spotify.com/album/0cl5ZKlWDEKXCtsaJo4oaG"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Aman Pant",
+          "url": "https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE"
+        },
+        {
+          "name": "Manoj Tapadia",
+          "url": "https://open.spotify.com/artist/1nzOl3prtA7lKOMshropqJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241327,
+      "name": "Bharat Bhhagya Viddhaata Title Track - From \"Bharat Bhhagya Viddhaata\"",
+      "url": "https://open.spotify.com/track/02JNeCvVW5dGLUUDh1fjoI"
     },
     {
       "album": {
@@ -3594,7 +3678,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 227773,
       "name": "Dekho Na",
       "url": "https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp"
@@ -5778,7 +5862,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 237759,
       "name": "Haathon Ki Dawa",
       "url": "https://open.spotify.com/track/2YPSC3zuWiqbZ9w3d38BpC"
@@ -6945,6 +7029,40 @@
     },
     {
       "album": {
+        "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/3fFujYH65ePSgh9Q6jKMhq"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Nargis",
+          "url": "https://open.spotify.com/artist/1jzTY2BnWg0xYsBC8RLBIP"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274206,
+      "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/3F1V6b8cCRxyUltmVyZMV8"
+    },
+    {
+      "album": {
         "name": "Ishq Mera (Feat. Esha Gupta)",
         "url": "https://open.spotify.com/album/5nyfbc7DahN9JT6R2iudhx"
       },
@@ -7404,6 +7522,32 @@
       "duration_ms": 251124,
       "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
       "url": "https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7"
+    },
+    {
+      "album": {
+        "name": "Jagmag Jagmag Jhilmil Jhilmil (From \"Governor\")",
+        "url": "https://open.spotify.com/album/40MOCLYirWzt7AnhVJGxGE"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254282,
+      "name": "Jagmag Jagmag Jhilmil Jhilmil - From \"Governor\"",
+      "url": "https://open.spotify.com/track/1YhjwSNp4vl74umrYYBtbb"
     },
     {
       "album": {
@@ -8057,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "Jiya Lage Na",
+        "url": "https://open.spotify.com/album/5FQCDFZj91H5Hzv2hQaZuy"
+      },
+      "artists": [
+        {
+          "name": "Ismail Darbar",
+          "url": "https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "Jiya Lage Na",
+      "url": "https://open.spotify.com/track/7bemqet6nsPGXGDdP27gVi"
+    },
+    {
+      "album": {
         "name": "I Loved You",
         "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
       },
@@ -8656,7 +8818,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 173764,
       "name": "Kami",
       "url": "https://open.spotify.com/track/7gyaA8xSpmEr1tGcsrEgXF"
@@ -9580,7 +9742,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 290963,
       "name": "Laila Majnu",
       "url": "https://open.spotify.com/track/07LxYJ37TfEWf8xASwLWgn"
@@ -11340,7 +11502,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 224769,
       "name": "Mujhe Rok Lo",
       "url": "https://open.spotify.com/track/5q68Sjztv6bnxgbj9bwHll"
@@ -11540,6 +11702,32 @@
       "duration_ms": 224571,
       "name": "Naamumkin (From \"Maalik\")",
       "url": "https://open.spotify.com/track/2dEHuZUBxNoxxGM31WvkOb"
+    },
+    {
+      "album": {
+        "name": "Nabz Nabz - Female Version (From \"Bharat Bhhagya Viddhaata\")",
+        "url": "https://open.spotify.com/album/0lXKgkyTOHomzlnzXQL2rV"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Aman Pant",
+          "url": "https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE"
+        },
+        {
+          "name": "Manoj Tapadia",
+          "url": "https://open.spotify.com/artist/1nzOl3prtA7lKOMshropqJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "Nabz Nabz - Female Version - From \"Bharat Bhhagya Viddhaata\"",
+      "url": "https://open.spotify.com/track/4ZZwAOker7T7RihtZDeGQX"
     },
     {
       "album": {
@@ -13545,6 +13733,28 @@
     },
     {
       "album": {
+        "name": "Raanjhan Mora",
+        "url": "https://open.spotify.com/album/6GUcCKMAaa9c3uoaoABKxf"
+      },
+      "artists": [
+        {
+          "name": "AFTERAll",
+          "url": "https://open.spotify.com/artist/1Hew6hpsPVoH8J7yBR6cJD"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218851,
+      "name": "Raanjhan Mora",
+      "url": "https://open.spotify.com/track/0gOfLXsd8bnQX44x3OBUqt"
+    },
+    {
+      "album": {
         "name": "Raanjhiya",
         "url": "https://open.spotify.com/album/3Bulr5tRxyG4AQv2muMUYM"
       },
@@ -14222,7 +14432,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 219212,
       "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
       "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
@@ -17996,7 +18206,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 185000,
       "name": "Tumne Dil Diya Nahi",
       "url": "https://open.spotify.com/track/25ktnBHg9q8moprzrRLYTP"
@@ -18052,6 +18262,36 @@
       "duration_ms": 268445,
       "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
+    },
+    {
+      "album": {
+        "name": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
+        "url": "https://open.spotify.com/album/23st64BPk8rlDoC3CfgxqC"
+      },
+      "artists": [
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Rubai",
+          "url": "https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214516,
+      "name": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
+      "url": "https://open.spotify.com/track/7J9m7Heb1kdSVdqRgSIDGq"
     },
     {
       "album": {
@@ -18320,7 +18560,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 201714,
       "name": "Vyah Karwado Ji (From \"Hai Jawani Toh Ishq Hona Hai\")",
       "url": "https://open.spotify.com/track/2Pe1rwZD3B69lhovqKqvP0"
@@ -18594,7 +18834,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 774345,
       "name": "Yaad Gaav Ki - From \"Sapne Vs Everyone: S2\"",
       "url": "https://open.spotify.com/track/2DkUe8OYqBIgMJdXz5dytE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 
 > This is Chris Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,682 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,723 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 26 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 27 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 |
 | 28 | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 |
-| 29 | [Look At Me Now \(feat\. Lil' Wayne & Busta Rhymes\)](https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 3:42 |
-| 30 | [Honey Pack](https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:09 |
+| 29 | [Honey Pack](https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:09 |
+| 30 | [Look At Me Now \(feat\. Lil' Wayne & Busta Rhymes\)](https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 3:42 |
 | 31 | [Beat It \(feat\. Chris Brown & Wiz Khalifa\)](https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 4:13 |
 | 32 | [Say Goodbye](https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 4:49 |
 | 33 | [Show Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My Own Lane \(Expanded Edition\)](https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 49 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
 | 50 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 |
 
-Snapshot ID: `aiNjAAAAAACvn5iCdXlWpY6hEcztKQCZ`
+Snapshot ID: `aiS0gAAAAAAoyh+CiDFdScXb0BpGpL/4`

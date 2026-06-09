@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,327 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,348 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 22 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 |
 | 23 | [El Breve Espacio En Que No Estas](https://open.spotify.com/track/4nP61MTQW0QjHg0DcqsmMN) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Em Vivo](https://open.spotify.com/album/3O754dggQY8rSiJK2SJTfI) | 4:19 |
 | 24 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
-| 25 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 25 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/4SJeNatQfW3voPrhmMgj70) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
 | 26 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 27 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:24 |
-| 28 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/4SJeNatQfW3voPrhmMgj70) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
+| 28 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
 | 29 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
 | 30 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
 | 31 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 59 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
 | 60 | [Oxígeno](https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Oxígeno](https://open.spotify.com/album/4X6HawmqhHshwuBPuikoPa) | 4:26 |
 | 61 | [Encanto](https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Encanto](https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi) | 4:12 |
-| 62 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
+| 62 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
 | 63 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
 | 64 | [Esther homenaje](https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO) | [Vicente Feliú](https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT) | [Vicente Feliú](https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX) | 3:21 |
 | 65 | [Kilómetros de Cielo](https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [De Carne y Hueso](https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN) | 4:21 |
 | 66 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
-| 67 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
+| 67 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
 | 68 | [Alfonsina Y El Mar](https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:40 |
 | 69 | [Loco por Ti](https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S) | [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Frank Delgado](https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR) | [Extremistas Nobles](https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe) | 4:14 |
 | 70 | [Yolanda](https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Amo Esta Isla](https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG) | 4:38 |

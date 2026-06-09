@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-1,633 songs - 3 day 19 hr 4 min
+1,635 songs - 3 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Central Location](https://open.spotify.com/track/4J4SkbxDTYj8POcC1EPoQa) | [Malinformants](https://open.spotify.com/artist/5RDW0987RZ7YfJy2GSdWB7) | [Central Location](https://open.spotify.com/album/3Vi18jSUlzSJPBd7Aai9jm) | 2:43 | 2026-05-18 |  |
 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 | 2026-01-16 | 2026-03-12 |
 | [Chanel Numbers](https://open.spotify.com/track/4fA8HnrPaFRZ2QNvQ9Kswk) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Chanel Numbers](https://open.spotify.com/album/44mQxA9zMm43QSKE4RbdZu) | 3:12 | 2026-03-05 | 2026-03-31 |
-| [Change Me](https://open.spotify.com/track/0ceiBTn9Mb3wFnzgJ9inXZ) | [Sunsign](https://open.spotify.com/artist/5A1W8zOfyJH92whtCEavRo) | [Change Me](https://open.spotify.com/album/1t4A38BmfwwgrAljv4U1He) | 3:34 | 2026-05-08 |  |
+| [Change Me](https://open.spotify.com/track/0ceiBTn9Mb3wFnzgJ9inXZ) | [Sunsign](https://open.spotify.com/artist/5A1W8zOfyJH92whtCEavRo) | [Change Me](https://open.spotify.com/album/1t4A38BmfwwgrAljv4U1He) | 3:34 | 2026-05-08 | 2026-06-09 |
 | [Charisma](https://open.spotify.com/track/30Ssaz6cFshBqfveKelwgl) | [Tried](https://open.spotify.com/artist/4TIyOdgfDP8OZZi3nRx630) | [Spiral](https://open.spotify.com/album/6UK92csXLvOg7XA26jbqb2) | 2:06 | 2026-03-12 | 2026-04-13 |
 | [Charlie Sheen](https://open.spotify.com/track/3Ac0Id5diYFzBLaJd6jPIp) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [What's the Time, Mr Wolf?](https://open.spotify.com/album/1CBWywM8tTJZ4GTdNwjtm0) | 3:50 | 2026-05-30 |  |
 | [Chemical Bombs](https://open.spotify.com/track/0PRBSms3c5zlSMSLOsdsnH) | [MØSHFIT](https://open.spotify.com/artist/59kUvmrTGqXguuuv6s5yRW) | [Chemical Bombs](https://open.spotify.com/album/1mzDbMz0QgeEQOBHletG4q) | 3:15 | 2026-01-21 | 2026-02-27 |
@@ -280,7 +280,7 @@
 | [Confessions on What May Be the Eve of Destruction](https://open.spotify.com/track/6ffSWRmIz4JKIgVsYG5EZD) | [Mortal Dream](https://open.spotify.com/artist/0oOBUbIZWT1c2gI4D1DalG) | [Confessions on What May Be the Eve of Destruction](https://open.spotify.com/album/5HP6BKVblC5o8SU4Y6FNDO) | 3:09 | 2026-03-06 | 2026-04-07 |
 | [Consumed](https://open.spotify.com/track/26cBcYBLQJou1rYRzQ3ZXM) | [Nicole Saphos Band](https://open.spotify.com/artist/0AArU8kQuAaBB1f1kpDClR) | [Consumed](https://open.spotify.com/album/1iCLFZm1emXsdR8kASqJ7N) | 3:47 | 2026-03-26 | 2026-04-17 |
 | [Consumed](https://open.spotify.com/track/3fd34K4lPlRIwa05R8Qvga) | [Ophanim](https://open.spotify.com/artist/6SY7HLhViXsJR5KyL7bxrB) | [Consumed](https://open.spotify.com/album/6BgBKwEWQFqhzsmx5gW6J1) | 5:05 | 2026-04-26 | 2026-05-22 |
-| [Container 12](https://open.spotify.com/track/1VVyqgqXGXfiEvAOtyw2yU) | [Dolly Min](https://open.spotify.com/artist/75n6RbVNAgJqgcQmmY6E53) | [Container 12](https://open.spotify.com/album/2cxVVxe4zIPg3yEIDQUZXX) | 2:20 | 2026-05-08 |  |
+| [Container 12](https://open.spotify.com/track/1VVyqgqXGXfiEvAOtyw2yU) | [Dolly Min](https://open.spotify.com/artist/75n6RbVNAgJqgcQmmY6E53) | [Container 12](https://open.spotify.com/album/2cxVVxe4zIPg3yEIDQUZXX) | 2:20 | 2026-05-08 | 2026-06-09 |
 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 | 2025-12-04 | 2026-01-06 |
 | [CONVICTIONS](https://open.spotify.com/track/1Fac4WeG2JUGep3w3CgXgE) | [Alturna](https://open.spotify.com/artist/5m1eGS4olZ65nRSBxoJGt0) | [CONVICTIONS](https://open.spotify.com/album/6GKUorBDR9ocjyampZJJ31) | 2:28 | 2026-06-04 |  |
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-12-16 | 2026-01-06 |
@@ -934,6 +934,7 @@
 | [never there](https://open.spotify.com/track/6slWCTwfS9AMk0Mgg7lDay) | [AngelicaJade.](https://open.spotify.com/artist/6whv41uqIr1VpJaJQTWdcr) | [never there](https://open.spotify.com/album/2r4dfe3b2WAjfcutTjhCWA) | 3:24 | 2026-05-03 | 2026-05-22 |
 | [Never There](https://open.spotify.com/track/4l6VMALVzlUboAJy17CAqG) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Never There](https://open.spotify.com/album/4UotUytIl9YcpgNPlGHoTk) | 3:36 | 2025-11-28 | 2025-12-24 |
 | [New England](https://open.spotify.com/track/5MFC7AFTAhVbvaSGOnkLxG) | [Morningside](https://open.spotify.com/artist/5YjLMKEZrUqYDwPhoD9lAN) | [New England](https://open.spotify.com/album/39OwZcFimKfgx8x5t7NCep) | 4:29 | 2025-11-03 | 2025-12-10 |
+| [New Times](https://open.spotify.com/track/6ACRL3MhmEDkAi0EUGz2QH) | [Stigmata](https://open.spotify.com/artist/6gk0Hqm1fZqEGpv2JOtb2T) | [New Times](https://open.spotify.com/album/5Leen2t1D1hc2xSEQks9z2) | 2:27 | 2026-06-08 |  |
 | [Night Drive](https://open.spotify.com/track/5t2OZA2EjXKAaMwHKFt9Tn) | [Keith Z](https://open.spotify.com/artist/1X60o0LmfVgy8VpHILIlZV) | [Night Drive](https://open.spotify.com/album/5AwbEghqkuFyWJCbZwKnGG) | 3:03 | 2026-01-01 | 2026-01-22 |
 | [Nightcode](https://open.spotify.com/track/2Bylb0sKZWB2UcjKB2QKHL) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Nightcode](https://open.spotify.com/album/6pZrBXilaoscwsW3EMVVPW) | 3:44 | 2026-01-19 | 2026-02-20 |
 | [Nightshade](https://open.spotify.com/track/6Y4wVPUTaUwhfL4F0Bt8cz) | [The Operating Room](https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP) | [Era Viscera](https://open.spotify.com/album/2mX5nj6KOCPU7akHs3LaSB) | 2:35 | 2026-04-23 | 2026-05-25 |
@@ -1637,6 +1638,7 @@
 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-02 | 2026-02-27 |
 | [Не бойся](https://open.spotify.com/track/6raKYDAQ9z825vMGefXexJ) | [Серая Масса](https://open.spotify.com/artist/6rcjWMqcPlwipJpAwigxko) | [Не бойся](https://open.spotify.com/album/1yalLCqMy2MmwBwH2QKvBc) | 3:29 | 2026-02-23 | 2026-03-17 |
 | [нет меня](https://open.spotify.com/track/2HUSfUyx3q72TmKlItjRkj) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 1:54 | 2026-01-21 | 2026-02-27 |
+| [Прекрасный летний день](https://open.spotify.com/track/2Dpa3CEzE81ONqx94ApFZ2) | [DASAEV](https://open.spotify.com/artist/3Q0rsu9CNiT5tRwnvj2jA6) | [Прекрасный летний день](https://open.spotify.com/album/2zo6NXfqHenFKSSnrePYEV) | 4:45 | 2026-06-08 |  |
 | [♃ Catarsi Ermetica](https://open.spotify.com/track/10MrZN0yT1uchAhALUWj0h) | [Arousal](https://open.spotify.com/artist/4cDc0k48Zabd2oalBFwofT) | [Chimæra](https://open.spotify.com/album/1JxYRcyegoobOlqfxHgtae) | 7:51 | 2025-12-29 | 2026-01-22 |
 | [ドブの中に咲いた花](https://open.spotify.com/track/6yJOYyhb2osBZt1EzxoK2O) | [コクトウカリンズ](https://open.spotify.com/artist/1m2sBR8gmsfsFSi2zM5MW2) | [ドブの中に咲いた花](https://open.spotify.com/album/33mVo3xmYvb6KuUeOmvKPl) | 4:25 | 2026-05-03 | 2026-05-22 |
 | [社畜 Shachiku](https://open.spotify.com/track/0N4EbvbxeRYTrfROmbGIPD) | [ASK I FALL](https://open.spotify.com/artist/4uMaST3Kqi6sKwECsMoTKp) | [社畜 Shachiku](https://open.spotify.com/album/51KVyM9mGolhRVVDnAzre9) | 3:38 | 2025-11-30 | 2025-12-24 |

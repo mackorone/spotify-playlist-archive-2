@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 191633,
+  "num_followers": 191684,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Amarcord (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "duration_ms": 127786,
+      "name": "Amarcord",
+      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 180706,
       "name": "The Bare Necessities",
       "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Amarcord (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        },
-        {
-          "name": "Carlo Savina",
-          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
-        }
-      ],
-      "duration_ms": 127786,
-      "name": "Amarcord",
-      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Dug Days (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM"
+      },
+      "artists": [
+        {
+          "name": "Andrea Datzman",
+          "url": "https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2"
+        },
+        {
+          "name": "Curtis Green",
+          "url": "https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV"
+        }
+      ],
+      "duration_ms": 52640,
+      "name": "Opening (Spirit of Adventure)",
+      "url": "https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 111266,
       "name": "Bigger Than Us",
       "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Dug Days (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM"
-      },
-      "artists": [
-        {
-          "name": "Andrea Datzman",
-          "url": "https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2"
-        },
-        {
-          "name": "Curtis Green",
-          "url": "https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV"
-        }
-      ],
-      "duration_ms": 52640,
-      "name": "Opening (Spirit of Adventure)",
-      "url": "https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Bullitt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Room \"26\"",
+      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Bullitt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+        "name": "Singing in the Rain (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
       },
       "artists": [
         {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
         }
       ],
-      "duration_ms": 143066,
-      "name": "Room \"26\"",
-      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
+      "duration_ms": 175226,
+      "name": "Singing in the Rain",
+      "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -943,22 +959,6 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Singing in the Rain (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
-      },
-      "artists": [
-        {
-          "name": "Gene Kelly",
-          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Singing in the Rain",
-      "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 180677,
       "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Songs from Woody Allen' Films",
+        "url": "https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Moonglow - From ''Annie Hall''",
+      "url": "https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/5bg0svB3kklUxFziXta8it"
       },
@@ -1723,18 +1739,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Songs from Woody Allen' Films",
-        "url": "https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ"
+        "name": "Chico & Rita",
+        "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Idania Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx"
+        },
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Moonglow - From ''Annie Hall''",
-      "url": "https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo"
+      "duration_ms": 76773,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1775,22 +1795,6 @@
       "duration_ms": 122000,
       "name": "Unsquare Dance",
       "url": "https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Music From The Motion Picture Watchmen",
-        "url": "https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE"
     }
   ],
   "unique_name": "Jazz Soundtracks",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,243 songs - 2 day 21 hr 7 min
+1,244 songs - 2 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Flex](https://open.spotify.com/track/1Vvkof5rm2wD0IAqy1x1XP) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Flex](https://open.spotify.com/album/0PrzlKhTCHT493lpKK8tCQ) | 3:54 | 2024-04-03 | 2024-06-21 |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 | 2023-07-11 |
 | [Flow \- VIP](https://open.spotify.com/track/3WOVZm1MMQvrQw9wbzlOg2) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow \(VIP\)](https://open.spotify.com/album/2U5naTzOW7wVMr4e5x3Zir) | 3:33 | 2024-10-11 | 2025-01-21 |
+| [FLUTTER](https://open.spotify.com/track/3qgaPjS5fA89Ebx3sIpMyI) | [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [FADENT](https://open.spotify.com/artist/6f5AzOjOcVck70QRfBhxvK) | [FLUTTER / STEP OUT](https://open.spotify.com/album/3wYw808RXboatWPT5ksOT9) | 2:51 | 2026-06-08 |  |
 | [Fly](https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Fly](https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy) | 3:45 | 2022-07-29 | 2022-10-19 |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 | 2025-06-17 | 2025-09-06 |

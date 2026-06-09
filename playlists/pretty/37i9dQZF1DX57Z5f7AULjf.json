@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2026!",
-  "num_followers": 10860,
+  "num_followers": 10869,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,22 @@
     {
       "added_at": "2025-07-11 07:49:15",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2023-06-16 05:16:25",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-07-11 07:49:15",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
     },
     {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
       "added_at": "2025-07-11 07:49:15",
       "album": {
         "name": "$ome $exy $ongs 4 U",
@@ -543,22 +559,6 @@
       "duration_ms": 218682,
       "name": "SOMETHING ABOUT YOU",
       "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
-    },
-    {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2025-08-01 02:12:09",

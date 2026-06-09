@@ -4,7 +4,7 @@
 
 > The UK's biggest playlist\. Cover: F3miii
 
-479 songs - 1 day 1 hr 29 min
+480 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-15 | 2024-07-09 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-21 | 2025-01-24 |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 |  |
-| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-05-05 |  |
+| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-05-05 | 2026-06-09 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-09-09 |  |
 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-11 | 2025-08-22 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 | 2024-07-02 |
@@ -323,6 +323,7 @@
 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 | 2025-06-16 | 2025-07-18 |
 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2024-01-26 | 2024-04-16 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-05-06 | 2025-11-14 |
+| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-08 |  |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 | 2025-10-24 |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-09-22 |  |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-06-21 | 2024-10-04 |

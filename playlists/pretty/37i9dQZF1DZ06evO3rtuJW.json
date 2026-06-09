@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35996,
+  "num_followers": 36001,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACfnOGyRj9ikha/0g+SPq4s",
+  "snapshot_id": "aiS0gAAAAACik/N+o+iBQwQ+CSmDdxD9",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 140538,
+      "name": "Went Legit (Bonus)",
+      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 176040,
       "name": "1 Scale (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 140538,
-      "name": "Went Legit (Bonus)",
-      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
     },
     {
       "added_at": null,
@@ -631,6 +631,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kween",
+        "url": "https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -659,46 +699,6 @@
       "duration_ms": 184453,
       "name": "Dracos & ARPs (feat. G Herbo)",
       "url": "https://open.spotify.com/track/74y5DbMsvYomEDFuMDP73l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stress Relief (with G Herbo)",
-        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Stress Relief (with G Herbo)",
-      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kween",
-        "url": "https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM"
-      },
-      "artists": [
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 221815,
-      "name": "Cry No More",
-      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Childhood Trauma",
         "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 176981,
       "name": "Influence",
       "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 221815,
+      "name": "Cry No More",
+      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
     },
     {
       "added_at": null,

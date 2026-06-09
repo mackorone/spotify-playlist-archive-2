@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,840 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,862 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 22 | [Heartbreaker \(feat\. JAY\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
 | 23 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
 | 24 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 |
-| 25 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 |
-| 26 | [I Still Believe](https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [I Still Believe EP](https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt) | 3:56 |
+| 25 | [I Still Believe](https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [I Still Believe EP](https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt) | 3:56 |
+| 26 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 |
 | 27 | [I Want To Know What Love Is](https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:27 |
 | 28 | [Underneath the Stars](https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:33 |
 | 29 | [Through The Rain](https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw) | 4:48 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 32 | [It's Like That](https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:23 |
 | 33 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 |
 | 34 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 |
-| 35 | [Obsessed \(feat\. Mariah Carey\)](https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Gooch](https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly) | 4:08 |
-| 36 | [It's A Wrap](https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:58 |
+| 35 | [It's A Wrap](https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:58 |
+| 36 | [Obsessed \(feat\. Mariah Carey\)](https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Gooch](https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly) | 4:08 |
 | 37 | [I'll Be There \(feat\. Trey Lorenz\) \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [\#1's](https://open.spotify.com/album/4brWwgz4lEG49fVDXajWvL) | 4:23 |
 | 38 | [Whenever You Call](https://open.spotify.com/track/2TXyiwnpA1gS25Y74s0sfR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 4:22 |
 | 39 | [\#Beautiful](https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Me\. I Am Mariah…The Elusive Chanteuse](https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 49 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
 | 50 | [In Your Feelings](https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:22 |
 
-Snapshot ID: `aiNjAAAAAABRdWsJ164JW+46nFKKLkQe`
+Snapshot ID: `aiS0gAAAAABrjG9+wlFhPV7fpWp9w3yZ`

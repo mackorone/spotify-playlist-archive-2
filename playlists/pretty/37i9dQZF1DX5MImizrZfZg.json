@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 87032,
+  "num_followers": 87056,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 221466,
       "name": "Do You Wanna Dance",
       "url": "https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
     },
     {
       "added_at": "2020-08-19 19:15:51",

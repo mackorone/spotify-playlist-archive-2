@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Cano
+> Si está pegao, está aquí\. Feat\. Jay Wheeler
 
 969 songs - 2 day 5 hr 23 min
 
@@ -612,7 +612,7 @@
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-04-04 | 2025-05-20 |
 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-10-30 | 2024-12-03 |
 | [Nueva York \(Tot\*\)](https://open.spotify.com/track/1z5TNHJ4WP2ftKhRpqdoNY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Nueva York \(Tot\*\)](https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE) | 2:34 | 2022-01-07 | 2022-01-17 |
-| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-05 | 2025-02-11 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-05 |  |
 | [NUEVOS DEALS](https://open.spotify.com/track/1fzz6tY24xwQFzZ9VX9qtz) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [NUEVOS DEALS](https://open.spotify.com/album/77GNHOhecVF6BboLvUzmSk) | 2:38 | 2025-10-14 | 2025-10-28 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-13 | 2022-07-19 |
 | [NYX00 \(with JC Reyes\)](https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [NYX00 \(with JC Reyes\)](https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8) | 3:00 | 2026-03-02 |  |
@@ -961,7 +961,7 @@
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2022-12-23 | 2023-05-26 |
 | [YANKEE](https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:14 | 2023-01-24 | 2023-04-18 |
 | [Yatekomo](https://open.spotify.com/track/7ILwxghUppFKHnAJ5ziB8X) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Yatekomo](https://open.spotify.com/album/3zzKotWathmZrCMkiF5wha) | 3:33 | 2022-05-12 | 2022-09-09 |
-| [YeYe](https://open.spotify.com/track/6lJtEgHJEWUBxbe7xKBaTP) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [YeYe](https://open.spotify.com/album/3a5CFEGEgVIk9j3cTifRVv) | 2:55 | 2026-05-18 |  |
+| [YeYe](https://open.spotify.com/track/6lJtEgHJEWUBxbe7xKBaTP) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [YeYe](https://open.spotify.com/album/3a5CFEGEgVIk9j3cTifRVv) | 2:55 | 2026-05-18 | 2026-06-09 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2022-01-07 | 2022-01-22 |
 | [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 | 2024-04-19 | 2024-05-25 |
 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 | 2023-02-07 | 2023-04-11 |

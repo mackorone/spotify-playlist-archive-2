@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Papillon ",
-  "num_followers": 85036,
+  "num_followers": 85046,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -251,42 +251,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "LONDON LP",
-        "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "0044",
-      "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Por Enquanto",
-        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "Por Enquanto",
-      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
         "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
       },
@@ -307,6 +271,42 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Por Enquanto",
+        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "Por Enquanto",
+      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "LONDON LP",
+        "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "0044",
+      "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Oitavo C\u00e9u",
-        "url": "https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "Papaia",
-      "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Oitavo C\u00e9u",
+        "url": "https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "Papaia",
+      "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "Adora a bunda, odeia o rosto",
         "url": "https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto",
       "url": "https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "El Chapo",
-        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "El Chapo",
-      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "Dado",
         "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 207720,
       "name": "Dado",
       "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Trovador",
-        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "Trovador",
-      "url": "https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "NUVENS",
         "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 157664,
       "name": "NUVENS",
       "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
       "artists": [
         {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+      "duration_ms": 192631,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1311,6 +1311,22 @@
       "duration_ms": 260800,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Bairro",
         "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
       },
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 266279,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Como \u00c9 Que 'T\u00e1s",
-        "url": "https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 119886,
-      "name": "Como \u00c9 Que 'T\u00e1s",
-      "url": "https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia"
     }
   ],
   "unique_name": "Rap Tuga Hits",

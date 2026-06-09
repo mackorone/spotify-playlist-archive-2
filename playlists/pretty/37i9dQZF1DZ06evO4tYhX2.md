@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,080 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,085 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 34 | [Música Del Cielo](https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 4:06 |
 | 35 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 |
 | 36 | [Libre \(En Vivo\)](https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:35 |
-| 37 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
+| 37 | [Confío En Dios](https://open.spotify.com/track/4M9fZzHnmpvZOb3awA0XAG) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Algo Nuevo Viene](https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX) | 7:27 |
 | 38 | [Levántate Señor](https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 5:05 |
-| 39 | [Confío En Dios](https://open.spotify.com/track/4M9fZzHnmpvZOb3awA0XAG) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Algo Nuevo Viene](https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX) | 7:27 |
+| 39 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 |
 | 40 | [Dios No Está Muerto](https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios No Está Muerto](https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ) | 4:15 |
 | 41 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
 | 42 | [Vivo Para Adorarte](https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 49 | [Resucitó](https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Resucitó](https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex) | 6:10 |
 | 50 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 |
 
-Snapshot ID: `aiNjAAAAAAAF0bGw1eN5qFrRONCtcdFy`
+Snapshot ID: `aiS0gAAAAADzII7goH7eUDYbgya/Kf1Y`

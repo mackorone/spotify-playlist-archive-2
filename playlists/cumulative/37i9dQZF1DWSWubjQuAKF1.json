@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "disco polo",
+        "url": "https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P"
+      },
+      "artists": [
+        {
+          "name": "Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184472,
+      "name": "disco polo",
+      "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
+    },
+    {
+      "album": {
         "name": "Instalacja IV",
         "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
       },
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 175759,
       "name": "gdyby\u015b istnia\u0142",
       "url": "https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we"
@@ -10192,7 +10210,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 146272,
       "name": "Pal\u0119 \u017cale",
       "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
@@ -16042,6 +16060,24 @@
       "duration_ms": 235592,
       "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
       "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
+    },
+    {
+      "album": {
+        "name": "Ziemia",
+        "url": "https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc"
+      },
+      "artists": [
+        {
+          "name": "SARGIS",
+          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275593,
+      "name": "Ziemia",
+      "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
     },
     {
       "album": {

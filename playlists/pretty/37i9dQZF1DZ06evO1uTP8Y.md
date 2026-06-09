@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,212 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,221 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 23 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 24 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 25 | [Fall In Love \(feat\. Odeal\)](https://open.spotify.com/track/5JV1b92v3C6Css76envcRx) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WHOSDAT](https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv) | 3:01 |
-| 26 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
-| 27 | [Free Me](https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 3:20 |
+| 26 | [Free Me](https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 3:20 |
+| 27 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
 | 28 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g) | 3:47 |
 | 29 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
 | 30 | [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 48 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
 | 49 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
 
-Snapshot ID: `aiNjAAAAAACBadg5UVPyXX9IZLyPdaox`
+Snapshot ID: `aiS0gAAAAADD5zu4Dt+hBWkxsnRsLw/5`

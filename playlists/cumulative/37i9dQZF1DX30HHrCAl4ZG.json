@@ -24179,6 +24179,24 @@
     },
     {
       "album": {
+        "name": "M.O.T.H.E.R.",
+        "url": "https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU"
+      },
+      "artists": [
+        {
+          "name": "M.O.T.H.E.R.",
+          "url": "https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192289,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },

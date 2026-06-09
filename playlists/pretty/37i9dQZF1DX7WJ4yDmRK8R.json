@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Los Calzones on cover ",
-  "num_followers": 411658,
+  "num_followers": 411685,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "Until The Sun Explodes",
-        "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Until The Sun Explodes",
-      "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -71,18 +71,18 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+      "duration_ms": 178800,
+      "name": "Until The Sun Explodes",
+      "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "Sweet and Dandy",
         "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176693,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Don't Let the Bastards Grind You Down",
-      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "A Poets Life",
         "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Don't Let the Bastards Grind You Down",
+      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -879,38 +879,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "2Tone Army",
-      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "Here in The Heights",
         "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
       },
@@ -927,6 +895,22 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "2Tone Army",
+      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
         "name": "No Doubt",
         "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 145866,
       "name": "Doormat",
       "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202106,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "Civil Disobedients",
-        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
-      },
-      "artists": [
-        {
-          "name": "Capdown",
-          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Ska Wars",
-      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 291147,
       "name": "Ruby Cumulous",
       "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "Civil Disobedients",
+        "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
+      },
+      "artists": [
+        {
+          "name": "Capdown",
+          "url": "https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "Ska Wars",
+      "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "Flyover Renaissance",
-        "url": "https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 204641,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "When God Was Great",
         "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 213754,
       "name": "LONELY BOY",
       "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "Flyover Renaissance",
+        "url": "https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 204641,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
-        "name": "El Febrero",
-        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
-      },
-      "artists": [
-        {
-          "name": "Lollypop Lorry",
-          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "El Febrero",
-      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
         "name": "Nice Things",
         "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 141057,
       "name": "The Sweat",
       "url": "https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
+        "name": "El Febrero",
+        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
+      },
+      "artists": [
+        {
+          "name": "Lollypop Lorry",
+          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "El Febrero",
+      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
     },
     {
       "added_at": "2026-05-15 06:00:06",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-05-15 06:00:06",
       "album": {
+        "name": "Self Care",
+        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 148938,
+      "name": "A Better Home",
+      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
+    },
+    {
+      "added_at": "2026-05-15 06:00:06",
+      "album": {
         "name": "Raul 80",
         "url": "https://open.spotify.com/album/06IdI1z4rnehKaSUsXJSlP"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 240232,
       "name": "Eu Nasci H\u00e1 Dez Mil Anos Atr\u00e1s",
       "url": "https://open.spotify.com/track/1wzoyCLQEleUN366W2LinG"
-    },
-    {
-      "added_at": "2026-05-15 06:00:06",
-      "album": {
-        "name": "Self Care",
-        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 148938,
-      "name": "A Better Home",
-      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
     }
   ],
   "unique_name": "The Essential Ska",

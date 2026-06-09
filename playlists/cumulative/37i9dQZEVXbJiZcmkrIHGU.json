@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
@@ -10168,7 +10168,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -18744,7 +18744,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -18766,7 +18766,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 198786,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
@@ -43603,6 +43603,24 @@
     },
     {
       "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160639,
+      "name": "K\u0131rg\u0131n\u0131m",
+      "url": "https://open.spotify.com/track/2CTeRSttI3Jwx7gj4egqKe"
+    },
+    {
+      "album": {
         "name": "L&W / UMARMUNG",
         "url": "https://open.spotify.com/album/372trMfWNMVM8ey4qMcwwj"
       },
@@ -56210,7 +56228,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 199039,
       "name": "North wind calls",
       "url": "https://open.spotify.com/track/78IC0ZZYiXd7R3ps9R1agf"
@@ -63076,7 +63094,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -73508,7 +73526,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

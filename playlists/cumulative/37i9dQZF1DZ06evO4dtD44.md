@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 11 min
+76 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Consolation \(Consolacao\)](https://open.spotify.com/track/4ch1ylH8TECcranRFm8Kdv) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 4:26 | 2025-07-20 |  |
 | [Corcovado](https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Corcovado](https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza) | 1:58 | 2025-11-08 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:16 | 2025-07-20 |  |
-| [Cordeiro de Nanã](https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brazil](https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK) | 1:16 | 2025-08-22 |  |
+| [Cordeiro De Nana](https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z) | [Mateus E\. Dadinho](https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brasil](https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ) | 1:16 | 2026-06-09 |  |
+| [Cordeiro de Nanã](https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brazil](https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK) | 1:16 | 2025-08-22 | 2026-06-09 |
 | [Cordeiro de Nanã](https://open.spotify.com/track/1L9QMIM4agEbJzJiRCd9ZB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brazil](https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr) | 1:16 | 2025-07-20 | 2025-08-22 |
 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 | 2026-01-02 | 2026-01-29 |
 | [Desafinado](https://open.spotify.com/track/4nzYyJpRLCDY1m7kV5eHQE) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:58 | 2026-01-29 |  |

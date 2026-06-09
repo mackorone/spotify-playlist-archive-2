@@ -4,7 +4,7 @@
 
 > To travel between house, deep house and positive vibes !
 
-213 songs - 12 hr 31 min
+214 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Forest](https://open.spotify.com/track/6LlmLH7RIKJ1wfRTKmnmtK) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Forest](https://open.spotify.com/album/3Fd2QkV19y7Cl2h7FdNOSI) | 5:30 | 2026-04-24 |  |
 | [Four Women \- DESIREE Remix](https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Four Women \(DESIREE Remix\)](https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe) | 4:08 | 2026-03-26 |  |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
+| [Free Your Mind](https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:21 | 2026-06-08 |  |
 | [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 | 2022-08-22 | 2022-11-19 |
 | [Galangal](https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Galangal](https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV) | 2:48 | 2022-07-13 | 2022-09-29 |
 | [GEEKIN](https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/57MWVBl4RoYDLte8WwXA3R) | 2:37 | 2023-05-30 | 2026-02-27 |

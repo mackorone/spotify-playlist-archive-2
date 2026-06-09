@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 30 | [Back To Life](https://open.spotify.com/track/1aych0BKUxtJkqh8SJUEjq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:42 |
 | 31 | [Back & Forth \(feat\. Vince Staples\)](https://open.spotify.com/track/4g9pJvaoIVrj89XWQ6HRqr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:22 |
 | 32 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 |
-| 33 | [Darling](https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
-| 34 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
+| 33 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
+| 34 | [Darling](https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 35 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
 | 36 | [CANDY GUM \(feat\. Jessie Reyez & Becky G\)](https://open.spotify.com/track/0VA8FzQF6SSa1YpKxBUMqe) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:49 |
 | 37 | [Murder She Wrote](https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F) | 3:11 |
 | 38 | [Acting Like That](https://open.spotify.com/track/1o2TUFm3HmbgmYr2OqmVpy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:17 |
 | 39 | [Hands Off Me](https://open.spotify.com/track/7v8mdR5c3k2bYoXvYbsfCs) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:45 |
-| 40 | [Heal My Desires](https://open.spotify.com/track/3vBhSzUg5d9PbOWcF86ucQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 2:55 |
-| 41 | [That Girl](https://open.spotify.com/track/4khP6dCz7SXygoxPqaIqLR) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:34 |
+| 40 | [That Girl](https://open.spotify.com/track/4khP6dCz7SXygoxPqaIqLR) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:34 |
+| 41 | [Heal My Desires](https://open.spotify.com/track/3vBhSzUg5d9PbOWcF86ucQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 2:55 |
 | 42 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 43 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/37DpYxKAtHhvgYkMxruiPx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 4:01 |
 | 44 | [Tú+Yo](https://open.spotify.com/track/0R3xevnIYOf8AuBSIvGT6R) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg) | [El Amor No Tiene Lenguaje](https://open.spotify.com/album/0dzWhFK0nYY5niiUC36WVN) | 3:17 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 140 | [Aquatic Reflections](https://open.spotify.com/track/5Fav2DgDeP46Ea3TTZhIrs) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:03 |
 | 141 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcTnjgAAAABgLgzaH4SED/Vx0/gJv3vi`
+Snapshot ID: `AcTs8gAAAADhElgYB17/X+pt3il6rooV`

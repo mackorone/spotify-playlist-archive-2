@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,788 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,789 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 35 | [La Pasadita \- En Vivo](https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:27 |
 | 36 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 |
 | 37 | [Cuanto Tienes Cuanto Vales](https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:26 |
-| 38 | [El Plebe del Dos de Oro](https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:09 |
-| 39 | [Dejame](https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:25 |
+| 38 | [Dejame](https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:25 |
+| 39 | [El Plebe del Dos de Oro](https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:09 |
 | 40 | [La Muerte de Julio Beltrán \- En Vivo](https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:47 |
 | 41 | [Yo Fui el Senor de los Llanos](https://open.spotify.com/track/2dvLkAH6uw0ZaPih3k0qoB) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [A Mi Estilo](https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC) | 2:18 |
-| 42 | [Rama Seca](https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:02 |
-| 43 | [Gilberto Palomares](https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:42 |
+| 42 | [Gilberto Palomares](https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:42 |
+| 43 | [Rama Seca](https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:02 |
 | 44 | [Lamberto Verdugo \- En Vivo Desde Las Tapias](https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [En Vivo Desde Las Tapias](https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW) | 3:09 |
 | 45 | [El Cisne](https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:01 |
 | 46 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Comandante Fuentes](https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:08 |
 | 50 | [Hombre de Ley](https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Raul C Arredondo](https://open.spotify.com/artist/7l6SaZKLeGCLVLqBZ70rvg) | [Hombre de Ley](https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ) | 3:18 |
 
-Snapshot ID: `aiNjAAAAAAAV44M8cb6oG31XRXcD5gIG`
+Snapshot ID: `aiS0gAAAAADVyinj9LLxZLcXeSvvYFYI`

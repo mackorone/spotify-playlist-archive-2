@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,301 songs - 5 day 15 hr 56 min
+2,305 songs - 5 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Causeless Shall Not Come \- Dub Mix](https://open.spotify.com/track/18rpP8pakMn3HV5k4CFVPh) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb) | [Causeless Shall Not Come](https://open.spotify.com/album/7dj9AEsY6krvVoWOQq9eYv) | 4:17 | 2024-03-23 |  |
 | [Cave Spring Hollow](https://open.spotify.com/track/2pGmkawHD3JM9DzYZnVLO7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 | 2025-12-01 |  |
 | [Cave Spring Hollow \- INSTRUMENTAL](https://open.spotify.com/track/3l7lMxZg8x9szlL8ij6fPx) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Cave Spring Hollow \(INSTRUMENTAL\)](https://open.spotify.com/album/6E0tHu2CUCTgND1yrk0WZz) | 3:09 | 2026-03-29 |  |
+| [Ceiling](https://open.spotify.com/track/6JbKNyIMQDxKXai14ZsBg8) | [5AM](https://open.spotify.com/artist/0RsyYYh4dLRrjKVxjpkdz0) | [Ceiling](https://open.spotify.com/album/2uoVNI46mrz2f7frUpmdtb) | 3:52 | 2026-06-08 |  |
 | [Celebration on the Rocks](https://open.spotify.com/track/14LXgpNLe9Ba51ohBXEkfa) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Celebration on the Rocks](https://open.spotify.com/album/0id2nUjjMtWX3mx9UsBUNO) | 3:07 | 2025-06-13 |  |
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 | 2026-03-12 |  |
@@ -502,6 +503,7 @@
 | [Dreaming Again \(Here Comes The Summer\)](https://open.spotify.com/track/6o52QaW1UKPiGYZMHSNQcp) | [Jack Rush](https://open.spotify.com/artist/3XDqgBWAcvngQElHsP2rKX) | [Dreaming Again \(Here Comes The Summer\)](https://open.spotify.com/album/45oOvvTselXLgyp8a4qAkb) | 3:43 | 2026-05-22 |  |
 | [Dreams](https://open.spotify.com/track/5S9yNiOdaWLKtRbXehNEvA) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [Dreams](https://open.spotify.com/album/6Dw0hSW0YP05IyqYY9bGIj) | 1:57 | 2025-07-27 |  |
 | [Dreams](https://open.spotify.com/track/3fjfe0T6TJ6Kd5XMZEpO9J) | [The Plinths](https://open.spotify.com/artist/41e4nNfsymUFZCxAvE9GiY) | [Dreams](https://open.spotify.com/album/4SDLH1Y80zf5Z2dXS7Fdna) | 5:17 | 2025-09-21 |  |
+| [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-08 |  |
 | [Dreams \- Hiit 30\-10](https://open.spotify.com/track/1s5AQJ6EenBTdpvymYIRDE) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [Hiit 30/10](https://open.spotify.com/album/0nPCoEyWJs2ZHwUGaBcSan) | 1:20 | 2024-03-08 |  |
 | [Dreams Come True](https://open.spotify.com/track/55f022GPJlyXA4ZnPHofKQ) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Dreams Come True](https://open.spotify.com/album/6sFJJG5apP7qoWahwaeAvQ) | 2:16 | 2025-08-09 |  |
 | [Drifter's Mind](https://open.spotify.com/track/7tZpt1z5unaqVvd5GfZaUD) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:20 | 2024-06-30 |  |
@@ -614,6 +616,7 @@
 | [Eternally Wise](https://open.spotify.com/track/3A4jfcT8xSGojSEvm2RKht) | [Eter Dub](https://open.spotify.com/artist/0jJUaAYWFTgU3u2rJ2hemD) | [Eternally Wise](https://open.spotify.com/album/55JXe3ycpfulvzRPxaWxM9) | 7:23 | 2024-05-01 |  |
 | [Ethiopian Serenade](https://open.spotify.com/track/3GQEsHrbSIjjRkres0B2Dy) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 4:12 | 2024-03-25 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-24 |  |
+| [Eu Encontrei o Meu Amado](https://open.spotify.com/track/2kbnUCwz6AuDJWzpaWU4AB) | [Coral Gospel Vozes do Reino](https://open.spotify.com/artist/3gagHz1qMqB585kOByz8b3) | [Eu Encontrei o Meu Amado](https://open.spotify.com/album/4SdYNqafdrHadxG3l9okCi) | 2:35 | 2026-06-08 |  |
 | [Evergreen](https://open.spotify.com/track/0LBEOeof0S5JA9ELSvc5C0) | [Cole Dine](https://open.spotify.com/artist/3aa40HerOqJBvwU4YcYeEL) | [Evergreen](https://open.spotify.com/album/4wtQiS8HQpQDXf3Ot0ydJG) | 4:35 | 2025-11-05 |  |
 | [Every Little Thing \(feat\. Irfane and Teki Latex\)](https://open.spotify.com/track/2ExQbV5IFG5ur4KnDIjIZn) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Teki Latex](https://open.spotify.com/artist/1hJv8PCKb3M0PSHQ9UxgCa) | [Passion](https://open.spotify.com/album/7m9hiaOiKQFcjGS0r60oWw) | 4:09 | 2025-05-28 |  |
 | [Everything Everywhere](https://open.spotify.com/track/1ktcfP4MInTWqfoepu0wW8) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [Everything Everywhere](https://open.spotify.com/album/6YNwZKzx3IxE35nl8TTyPF) | 2:46 | 2025-06-30 |  |
@@ -2023,6 +2026,7 @@
 | [TI DICO IO COSA C'È](https://open.spotify.com/track/3gkpbrEJL2HmhLBnn7c2Uf) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [TI DICO IO COSA C'È](https://open.spotify.com/album/64GcefvGGpbarC1Y5eEBci) | 4:04 | 2025-10-19 |  |
 | [Tideway \- Original Version](https://open.spotify.com/track/2cOYljid0NhMlpW6VW5xWE) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Tideway \(Original Version\)](https://open.spotify.com/album/6b64hY18P5WW2RPLhvAfjl) | 1:20 | 2026-03-23 |  |
 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 | 2025-11-14 |  |
+| [Till I Die](https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe) | [Peter Raadho](https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx) | [Till I Die](https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o) | 4:44 | 2026-06-08 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-02-15 |  |
 | [Time of the Season \- Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle \(Mono Remastered\)](https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ) | 3:30 | 2025-10-01 |  |
 | [Time Slips Away](https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg) | [DiaZero](https://open.spotify.com/artist/7o5pN1XmIndmtyoBGNJ1Fa) | [Time Slips Away](https://open.spotify.com/album/3C8elZHA5p4Y4eLZbBO9NM) | 4:10 | 2025-10-26 |  |

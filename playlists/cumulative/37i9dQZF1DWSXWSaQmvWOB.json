@@ -882,7 +882,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 221228,
       "name": "Almost There",
       "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
@@ -1028,6 +1028,28 @@
       "duration_ms": 254213,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/2XK3hf4vp2hGE2V4bMVzVr"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx"
+      },
+      "artists": [
+        {
+          "name": "Patchwork Inc.",
+          "url": "https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH"
+        },
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE"
     },
     {
       "album": {
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 158924,
       "name": "Do It for Love",
       "url": "https://open.spotify.com/track/5NzJnRutdEtt8KsgE8b1aC"
@@ -7726,7 +7748,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 200414,
       "name": "Give Me All Your Love",
       "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
@@ -8350,6 +8372,24 @@
       "duration_ms": 191580,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
+    },
+    {
+      "album": {
+        "name": "HALF ON THE BLAME",
+        "url": "https://open.spotify.com/album/1VSrnj8LbzxOGX5tPcVuN6"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260864,
+      "name": "HALF ON THE BLAME",
+      "url": "https://open.spotify.com/track/1OSwxFxfYzxnuKmOHN77Q1"
     },
     {
       "album": {
@@ -10439,6 +10479,24 @@
     },
     {
       "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/5zKzhIW8vpal06CbjHLHIv"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280948,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/1BoEK6Id0VsxS0grIMVEFi"
+    },
+    {
+      "album": {
         "name": "In Contemplation of Clair\u2019s Scent",
         "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
       },
@@ -10544,7 +10602,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 160938,
       "name": "In Orbit",
       "url": "https://open.spotify.com/track/2kIf597NUWIpU5oDUpl0Rl"
@@ -10790,7 +10848,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 211662,
       "name": "IRL (Feat. Cory Wong)",
       "url": "https://open.spotify.com/track/4ikBUaKuFx8OFWNUsqfXii"
@@ -12649,6 +12707,24 @@
     },
     {
       "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Love is Gone",
+      "url": "https://open.spotify.com/track/5mHVLwmYNSR0rc71ZOnV0N"
+    },
+    {
+      "album": {
         "name": "Love Is The New Black",
         "url": "https://open.spotify.com/album/159r3MUWV51Yftc7lxcbHY"
       },
@@ -13386,7 +13462,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 214474,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag"
@@ -16927,6 +17003,24 @@
     },
     {
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133265,
+      "name": "Purify",
+      "url": "https://open.spotify.com/track/0LU8SUaU3RNhts5NeIdX9v"
+    },
+    {
+      "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/08ByKuA4cV7y99FD0IUO8Q"
       },
@@ -17720,6 +17814,24 @@
       "duration_ms": 274010,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2uambBN59gICeditHiIRvc"
+      },
+      "artists": [
+        {
+          "name": "Jared Grant",
+          "url": "https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216835,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4ZVlJuGucOPx6IOomX3PQo"
     },
     {
       "album": {
@@ -18788,6 +18900,24 @@
       "duration_ms": 143573,
       "name": "Sheets",
       "url": "https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204632,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9"
     },
     {
       "album": {
@@ -21122,7 +21252,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 163008,
       "name": "Technicolour",
       "url": "https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb"
@@ -21896,7 +22026,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 208696,
       "name": "The Present",
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
@@ -22124,7 +22254,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 210234,
       "name": "The Weatherman",
       "url": "https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq"
@@ -24368,7 +24498,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 219000,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU"
@@ -25236,6 +25366,24 @@
       "duration_ms": 215853,
       "name": "You'll Never Know",
       "url": "https://open.spotify.com/track/0YriJZjnapM8wks4KZsPix"
+    },
+    {
+      "album": {
+        "name": "You're Ego",
+        "url": "https://open.spotify.com/album/2QlilYOgXfpXkFnFUFyRE5"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "You're Ego",
+      "url": "https://open.spotify.com/track/1IN1eKg2h6GGtqFuNrVBxX"
     },
     {
       "album": {

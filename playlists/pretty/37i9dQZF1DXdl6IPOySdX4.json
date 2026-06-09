@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2187828,
+  "num_followers": 2188088,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "touchin\u2019 me",
-        "url": "https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 149617,
-      "name": "touchin\u2019 me",
-      "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
-    },
-    {
       "added_at": "2026-05-25 21:42:21",
       "album": {
         "name": "Angel Eyes",
@@ -1499,6 +1483,22 @@
       "duration_ms": 164906,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "touchin\u2019 me",
+        "url": "https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 149617,
+      "name": "touchin\u2019 me",
+      "url": "https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K"
     },
     {
       "added_at": "2026-02-03 17:00:46",

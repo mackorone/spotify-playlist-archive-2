@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,506 songs - 10 day 0 hr 51 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,509 songs - 10 day 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4514,5 +4514,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4504 | [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 |
 | 4505 | [Epic One](https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Epic One](https://open.spotify.com/album/0zBEpohA04Axtzo08uhago) | 7:35 |
 | 4506 | [Chalet](https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr) | [SpaceBlankZero](https://open.spotify.com/artist/2tP1jzPPZ5EAehmL0PjFKd) | [Chalet](https://open.spotify.com/album/4Q8KpPk5MLXvIMigNNoiwi) | 4:21 |
+| 4507 | [Noxious](https://open.spotify.com/track/5Fdx1xdp4ng1kW0fvrcBVM) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 |
+| 4508 | [Me](https://open.spotify.com/track/1k3T9hZwF7D8ZDWps7D27d) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3), [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 2:42 |
+| 4509 | [Saturday](https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:41 |
 
-Snapshot ID: `AAAI00OKyeC79nhvhKWTtz3W13AnU9dY`
+Snapshot ID: `AAAI1uU59XD5gc0MijXzziiGEUaWzvaC`

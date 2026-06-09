@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66178,
+  "num_followers": 66190,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAajE7NLai3cuudFMhw+d2i",
+  "snapshot_id": "aiS0gAAAAAAVWZ34z2pYCpXd1zXe0hqz",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
     },
     {
       "added_at": null,

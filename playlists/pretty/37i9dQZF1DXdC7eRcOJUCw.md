@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Rosalia León en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,986 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,998 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 55 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 |
 | 56 | [Ojo Por Ojo](https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Ojo Por Ojo](https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4) | 3:01 |
 | 57 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
-| 58 | [Tengo Ganas De Olvidarte](https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Cynthia Yolanda](https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU) | [Tengo Ganas De Olvidarte](https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0) | 3:38 |
+| 58 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
 | 59 | [Piel Azteca](https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Piel Azteca](https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ) | 1:55 |
 | 60 | [A Veces](https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [A Veces](https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC) | 2:38 |
-| 61 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
+| 61 | [Tengo Ganas De Olvidarte](https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Cynthia Yolanda](https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU) | [Tengo Ganas De Olvidarte](https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0) | 3:38 |
 | 62 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
 | 63 | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343) | 5:10 |
 | 64 | [Anoche te Soñé](https://open.spotify.com/track/5pa37lLkI3BbZnIpohVZxm) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Anoche te Soñé](https://open.spotify.com/album/1znu3OGbj8gbReWVP8V74f) | 3:39 |

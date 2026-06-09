@@ -1,33 +1,13 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43358,
+  "num_followers": 43380,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMvgkOMHlXyv5pRMSUG6PhTKp9Nb",
+  "snapshot_id": "AAAAAM2G1SS0+WkMVyeQN9ZzKl+4cu9N",
   "tracks": [
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
@@ -63,22 +43,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 217637,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -91,6 +55,22 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 217637,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -127,22 +107,6 @@
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -291,6 +255,22 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -319,22 +299,6 @@
       "duration_ms": 206022,
       "name": "Steady",
       "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -787,22 +751,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -815,6 +763,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1167,22 +1131,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
       },
@@ -1199,18 +1147,18 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 161567,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1231,18 +1179,18 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+      "duration_ms": 161567,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1259,6 +1207,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1315,26 +1279,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
       },
@@ -1363,6 +1307,26 @@
       "duration_ms": 206493,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1511,22 +1475,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "I Won't Give Up",
         "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
       },
@@ -1539,6 +1487,22 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1595,22 +1559,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Say My Name In Your Sleep",
-        "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Say My Name In Your Sleep",
-      "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
@@ -1659,6 +1607,22 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Say My Name In Your Sleep",
+        "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Say My Name In Your Sleep",
+      "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -1999,22 +1963,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
       },
@@ -2027,6 +1975,22 @@
       "duration_ms": 213546,
       "name": "Fortitude",
       "url": "https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2047,22 +2011,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "The Love You Left Behind",
-        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "The Love You Left Behind",
-      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/6pzKtk1M2lDTaNT5wyH6AI"
       },
@@ -2075,6 +2023,22 @@
       "duration_ms": 142271,
       "name": "Nova",
       "url": "https://open.spotify.com/track/58320MeXvjRR0ATsTKSUja"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "The Love You Left Behind",
+        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "The Love You Left Behind",
+      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2095,22 +2059,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/4FCruvsrPX51W87OJudg3M"
       },
@@ -2123,6 +2071,22 @@
       "duration_ms": 211706,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2447,6 +2411,22 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
       },
@@ -2527,22 +2507,6 @@
     {
       "added_at": "2026-05-28 22:00:56",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2555,6 +2519,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2026-05-28 22:00:56",
+      "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     },
     {
       "added_at": "2026-05-28 22:00:56",
@@ -2635,22 +2615,6 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
-    },
-    {
-      "added_at": "2026-05-28 22:00:56",
-      "album": {
-        "name": "Nothing Really Matters",
-        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     },
     {
       "added_at": "2026-05-28 22:00:56",

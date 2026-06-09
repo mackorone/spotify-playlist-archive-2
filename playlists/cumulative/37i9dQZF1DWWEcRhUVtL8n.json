@@ -8232,7 +8232,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157446,
       "name": "Come To God",
       "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
@@ -19918,7 +19918,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 196426,
       "name": "I'll Change for You",
       "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
@@ -26028,6 +26028,24 @@
       "duration_ms": 125809,
       "name": "menace",
       "url": "https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW"
+    },
+    {
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
     },
     {
       "album": {
@@ -32606,6 +32624,24 @@
       "duration_ms": 243381,
       "name": "Reinvent",
       "url": "https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa"
+    },
+    {
+      "album": {
+        "name": "How do I relate to you?",
+        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164486,
+      "name": "Relate to you",
+      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
     },
     {
       "album": {

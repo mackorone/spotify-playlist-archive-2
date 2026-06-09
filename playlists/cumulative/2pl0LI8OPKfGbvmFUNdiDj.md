@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-495 songs - 1 day 3 hr 50 min
+498 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-11-30 | 2026-01-05 |
 | [Can't Stop Loving You](https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz) | [Kevon Tyrre](https://open.spotify.com/artist/5vSBtDDQkWN6uh8QtNGbmp) | [Can't Stop Loving You](https://open.spotify.com/album/4qKDPPao7cfkopnwhU7MG5) | 4:07 | 2026-03-16 | 2026-05-26 |
 | [Cappuccino Rockster](https://open.spotify.com/track/2PqCCDWB9yNaUOljJs3IOm) | [Nik Nova](https://open.spotify.com/artist/2krwNQYTORoos22SRYb7JZ) | [Cappuccino Rockster](https://open.spotify.com/album/7rUOWc2Lqby0HIs78HxH9L) | 3:36 | 2025-11-17 | 2026-01-05 |
+| [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 | 2026-06-08 |  |
 | [Carpe Diem](https://open.spotify.com/track/2kee0UH1B4CJz8JutAosUL) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Carpe Diem](https://open.spotify.com/album/37M4BwWCZeAanuCt9Zmt8p) | 3:23 | 2025-11-30 | 2026-01-05 |
 | [Caught In A Web](https://open.spotify.com/track/0paNhTnaxuRlF6rgNUxaHi) | [Super Massive](https://open.spotify.com/artist/1yd31f01hxwTF3dzn6Eh5H) | [Caught In A Web](https://open.spotify.com/album/0IuM50XW5ywsWBkR4IqXXj) | 3:45 | 2025-11-17 | 2026-01-05 |
 | [Cavin' In](https://open.spotify.com/track/38ZW4SzOQdOLeH97be2m6m) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Ticking Away](https://open.spotify.com/album/0Ok5eBepW6Tzm2twclmLls) | 3:45 | 2026-02-20 |  |
@@ -124,6 +125,7 @@
 | [De todo a nada](https://open.spotify.com/track/6KumsJUvJKqlbkQBP7WgOM) | [Samm](https://open.spotify.com/artist/3KNTZ7fJISc0Dk26rtDmyE) | [De todo a nada](https://open.spotify.com/album/0b5UPzw07NmrZoqpEvNm6G) | 3:07 | 2025-12-24 | 2026-01-15 |
 | [Dear Life](https://open.spotify.com/track/1FyM52HTIUHv7sZ8uhkNPN) | [Mini Mac](https://open.spotify.com/artist/5Q6A3CQzarSJBqCGu2f74S), [E Black](https://open.spotify.com/artist/4vT1MJAeRMB22R9xYzRu0p) | [Dear Life](https://open.spotify.com/album/065aJhIr0xiOW47HX0cWDQ) | 2:49 | 2026-05-09 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-26 | 2026-01-15 |
+| [Deep Resting](https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Deep Resting](https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve) | 3:21 | 2026-06-08 |  |
 | [Depura](https://open.spotify.com/track/6BdrfMdQctqRzDyLo1DuuZ) | [mattia salvadori](https://open.spotify.com/artist/0vZtIijmaCyiXHayb24OIK) | [Depura](https://open.spotify.com/album/5ga8Nd3RVhQjAV103LGmC2) | 3:06 | 2025-11-08 | 2025-12-01 |
 | [Der letzte Atemzug](https://open.spotify.com/track/6tlekuUGxDNQzFPYvKlhwU) | [binichwer](https://open.spotify.com/artist/66IcuW0n8YtbJnVM73ZQDK) | [Der letzte Atemzug](https://open.spotify.com/album/3uS9SEJqOrXjBjVQykpvRv) | 2:46 | 2025-11-10 | 2025-12-01 |
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-09 | 2026-01-05 |
@@ -356,6 +358,7 @@
 | [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 | 2026-05-26 |  |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 | 2026-03-10 |
 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 | 2026-04-14 |
+| [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 | 2026-06-08 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 | 2026-02-21 |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |

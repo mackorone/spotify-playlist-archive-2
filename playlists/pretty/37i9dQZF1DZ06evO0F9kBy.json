@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27675,
+  "num_followers": 27681,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAC7H3m4DsXSHFVRih0nkBr",
+  "snapshot_id": "aiS0gAAAAADnNsh7OdFDWukI35kiSdui",
   "tracks": [
     {
       "added_at": null,
@@ -148,8 +148,8 @@
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Naomi Raine",
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cling To The Cross",
-        "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 248531,
-      "name": "Cling To The Cross",
-      "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -399,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "Cling To The Cross",
+        "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 261562,
-      "name": "Center of All History",
-      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
+      "duration_ms": 248531,
+      "name": "Cling To The Cross",
+      "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
     },
     {
       "added_at": null,
@@ -435,6 +415,26 @@
       "duration_ms": 280086,
       "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
       "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 261562,
+      "name": "Center of All History",
+      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 365880,
-      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
-      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Thanks To God",
         "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 214056,
       "name": "Give Thanks To God",
       "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or, Te Necesito",
-        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "Se\u00f1or, Te Necesito",
-      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 931610,
       "name": "Son Of Heaven",
       "url": "https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
     },
     {
       "added_at": null,

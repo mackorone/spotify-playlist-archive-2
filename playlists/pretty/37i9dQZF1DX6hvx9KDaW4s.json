@@ -1,6 +1,6 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 569058,
+  "num_followers": 569057,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2024-02-06 14:45:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2024-02-06 14:45:41",

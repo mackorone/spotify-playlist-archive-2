@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,982 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,036 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 16 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 |
 | 17 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 |
 | 18 | [Quiet](https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 4:53 |
-| 19 | [Open Closed Open](https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK) | [pennines](https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y) | [First CD](https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L) | 4:26 |
-| 20 | [Elm](https://open.spotify.com/track/3f27mtLKBWGcGC5VXbMNji) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
-| 21 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
-| 22 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 |
+| 19 | [Elm](https://open.spotify.com/track/3f27mtLKBWGcGC5VXbMNji) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
+| 20 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
+| 21 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 |
+| 22 | [Open Closed Open](https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK) | [pennines](https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y) | [First CD](https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L) | 4:26 |
 | 23 | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/album/2ccIhRAvomOmM8DP5YGrzq) | 3:33 |
 | 24 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 |
 | 25 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 64 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
 | 65 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
 | 66 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
-| 67 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
-| 68 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
+| 67 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
+| 68 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 69 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 |
 | 70 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 71 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 77 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 78 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
 | 79 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
-| 80 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
-| 81 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
+| 80 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
+| 81 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
 | 82 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
 | 83 | [You Eat Houmous, of Course You Listen to Genesis](https://open.spotify.com/track/1o4JR1GCZv5neEl6Djs71B) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Droids](https://open.spotify.com/album/2ZW4OKLdMjp53HgVckgOv0) | 3:40 |
 | 84 | [Torino](https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio y la Última Vuelta al Palejonú](https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH) | 4:11 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 91 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
 | 92 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
 | 93 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
-| 94 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
-| 95 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 94 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 95 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 96 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
 | 97 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
 | 98 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |

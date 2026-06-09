@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: HEY JUNE!
 
-936 songs - 2 day 9 hr 44 min
+938 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alon](https://open.spotify.com/track/0MCy9PWMVvgrGmuKXRISBL) | [JL](https://open.spotify.com/artist/7iecBkGAXnfTwF49zfBzbf) | [Alon](https://open.spotify.com/album/33PsXTNsTcgM8xzYldyXyG) | 2:59 | 2025-07-01 | 2025-11-08 |
 | [alon](https://open.spotify.com/track/1we7ejeeUYN2E3bau8DMkj) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [alon](https://open.spotify.com/album/1lp9u4tz7NfolKsKR2HvOU) | 3:31 | 2026-04-24 |  |
 | [Alphamart](https://open.spotify.com/track/31lMscTTCcX8AJF6uLYxUy) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Halabyu](https://open.spotify.com/album/2OPCyTjalGPWV3a4wAViOD) | 2:57 | 2025-11-14 | 2026-01-20 |
+| [Already / Only](https://open.spotify.com/track/1juV1TCsmEqNL03TVk8k5x) | [Lucas Pison](https://open.spotify.com/artist/21WOme7150HFQGghQw1MeJ) | [Already / Only](https://open.spotify.com/album/74QbAsq9OyI7TQtm9BFMQJ) | 3:29 | 2026-06-08 |  |
 | [Amihan](https://open.spotify.com/track/4pAKl9n4gAbNgkQwcbLrH6) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Amihan](https://open.spotify.com/album/2XmESRJ4uSzoQE4KMHvOkT) | 4:40 | 2025-10-10 | 2025-12-09 |
 | [aminin](https://open.spotify.com/track/6gUNbecfmLreiyIgR35DoA) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [aminin](https://open.spotify.com/album/5DvUfld49NNaEiSUDI9mbK) | 3:09 | 2026-02-13 | 2026-03-28 |
 | [ang balikat at baywang](https://open.spotify.com/track/77h0uJSGEqNPXj8JVsrfWp) | [Ian Quiruz](https://open.spotify.com/artist/1ubI85xbtCKFV5YO9SZrIJ) | [SA KUBLIHAN](https://open.spotify.com/album/0js392IqDpyc0gTYE6FcM2) | 7:09 | 2026-02-18 | 2026-04-04 |
@@ -944,5 +945,6 @@
 | [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 | 2025-10-24 | 2026-01-15 |
 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 | 2025-02-28 | 2025-05-20 |
 | [‘Di Ko Masabi](https://open.spotify.com/track/3JEE0hhTI6u9CEZCZWalKe) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/2JPO2CrZXbL0LR92Z91KUt) | 4:18 | 2024-08-02 | 2024-11-09 |
+| [‘Di Minamadali](https://open.spotify.com/track/5XFp8MZEBW1loCtpdIQIj5) | [Trisha Denise](https://open.spotify.com/artist/70yDAMLz4y4zF3qRVJpabz), [Soc Villanueva](https://open.spotify.com/artist/6GKTPPsjdMWEsUDoRrfmNi), [Thyro Alfaro](https://open.spotify.com/artist/6UQ0UX0CUYmGvpae5nt5J0) | [‘Di Minamadali](https://open.spotify.com/album/1yBVGgcidle0Hoi8kg6Z58) | 3:37 | 2026-06-08 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

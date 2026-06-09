@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 384110,
       "name": "Aasman",
       "url": "https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3"
@@ -576,6 +576,24 @@
       "duration_ms": 231428,
       "name": "Ap Se Mil Ke Hum",
       "url": "https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw"
+    },
+    {
+      "album": {
+        "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307006,
+      "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb"
     },
     {
       "album": {

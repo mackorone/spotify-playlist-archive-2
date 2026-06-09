@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,758 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,782 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 49 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 | 50 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 |
 
-Snapshot ID: `aiNjAAAAAAB0NW4Aj/dbxS9IfKZdpRFa`
+Snapshot ID: `aiS0gAAAAABm4k6xjq75/G9xDhq/T+WJ`

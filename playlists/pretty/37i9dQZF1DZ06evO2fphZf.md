@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,596 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,598 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 31 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
 | 32 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
 | 33 | [Newly](https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Newly](https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK) | 2:57 |
-| 34 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
-| 35 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 |
+| 34 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 |
+| 35 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
 | 36 | [shy boy](https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:39 |
 | 37 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
 | 38 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 47 | [Sweetest Nothings](https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 3:12 |
 | 48 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
 
-Snapshot ID: `aiNjAAAAAAB+zSgjQ0hsz8wqhFXddrBB`
+Snapshot ID: `aiS0gAAAAADEYuZmgq5gxL4obN//Kzm9`

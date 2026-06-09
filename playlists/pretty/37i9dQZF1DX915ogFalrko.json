@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187748,
+  "num_followers": 187750,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Yes I'm Changing",
-      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 277653,
       "name": "The Look",
       "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Yes I'm Changing",
+      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Warhaus",
         "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 206685,
       "name": "Love's a Stranger",
       "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 240000,
       "name": "Spell on You",
       "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 240435,
       "name": "La prima estate",
       "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Matahari",
         "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 174200,
       "name": "Dream House",
       "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "lucius lullaby",
         "url": "https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 183013,
       "name": "weirdness",
       "url": "https://open.spotify.com/track/0Z14ueqgvLP39oCdTCDyOT"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        },
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
         }
       ],
-      "duration_ms": 208719,
-      "name": "Clueless (feat. Aly & AJ)",
-      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1559,22 +1555,6 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "No Dawn To Wake",
-        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
-      },
-      "artists": [
-        {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
-        }
-      ],
-      "duration_ms": 180011,
-      "name": "No Dawn To Wake",
-      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1611,6 +1591,26 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Clueless (feat. Aly & AJ)",
+      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "Keyring",
         "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
       },
@@ -1623,26 +1623,6 @@
       "duration_ms": 198155,
       "name": "Keyring",
       "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "Paradis bleu",
-        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
-      },
-      "artists": [
-        {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Matild",
-          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Paradis bleu",
-      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+        "name": "Paradis bleu",
+        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
       "artists": [
         {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
+      "duration_ms": 237913,
+      "name": "Paradis bleu",
+      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1707,6 +1691,22 @@
       "duration_ms": 241840,
       "name": "Mammoth",
       "url": "https://open.spotify.com/track/3aE7UURzEUkznUbf1mJAMS"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     }
   ],
   "unique_name": "D\u00eener entre amis",

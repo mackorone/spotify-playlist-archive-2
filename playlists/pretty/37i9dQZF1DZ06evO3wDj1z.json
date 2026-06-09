@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 121846,
+  "num_followers": 121867,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABe1HakLi7eJ03eENCfuyRD",
+  "snapshot_id": "aiS0gAAAAADtypQVemEVL8WcZUlq/N1o",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 187760,
       "name": "Cuando el Sol Salga Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 251506,
-      "name": "Musico, Poeta y Loco",
-      "url": "https://open.spotify.com/track/1J8WH97XXerjrLqOTgoeAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 205880,
       "name": "Cosas Raras",
       "url": "https://open.spotify.com/track/2wOk4s5MjR44Yat4DTTGHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 251506,
+      "name": "Musico, Poeta y Loco",
+      "url": "https://open.spotify.com/track/1J8WH97XXerjrLqOTgoeAx"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 165053,
-      "name": "La Mentada",
-      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesito Due\u00f1a",
         "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 205333,
       "name": "Mu\u00f1equita - Balada Version",
       "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 165053,
+      "name": "La Mentada",
+      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "La Maestra - Ranchera Version",
-      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie Top Ten",
         "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 173532,
       "name": "El Licenciado",
       "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,

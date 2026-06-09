@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Mollie Elizabeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,224 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259,206 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 90 | [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 |
 | 91 | [START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [START OVER](https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4) | 2:50 |
 | 92 | [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 |
-| 93 | [go for broke](https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [go for broke](https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7) | 2:50 |
+| 93 | [Go For Broke](https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Go For Broke](https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7) | 2:50 |
 | 94 | [I'd Do Anything](https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [I'd Do Anything](https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv) | 3:44 |
 | 95 | [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 |
 | 96 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 |
 | 100 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |
 
-Snapshot ID: `AAAAADsU2KXW2lV1TaJaeojhLrdrNWy6`
+Snapshot ID: `AAAAAFWsun9SGXKa650eVg+NTSl0AogX`

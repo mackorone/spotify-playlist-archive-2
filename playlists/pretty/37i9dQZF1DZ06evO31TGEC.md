@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,417 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,425 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 46 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
 | 47 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 | 48 | [Besos Tatuados](https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Besos Tatuados](https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I) | 3:08 |
-| 49 | [SALVAJE \- Version Banda](https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [SALVAJE \(Version Banda\)](https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa) | 2:58 |
-| 50 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
+| 49 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
+| 50 | [SALVAJE \- Version Banda](https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [SALVAJE \(Version Banda\)](https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa) | 2:58 |
 
-Snapshot ID: `aiNjAAAAAAAVC/Tm2kl85dwhu2+9N+xJ`
+Snapshot ID: `aiS0gAAAAACZvVDmGG0Hthx9M2P4VUJR`

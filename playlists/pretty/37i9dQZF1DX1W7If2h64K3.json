@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 58547,
+  "num_followers": 58561,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,34 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
+        "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Stewart Goodyear",
+          "url": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Andrew Constantine",
+          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
+        }
+      ],
+      "duration_ms": 320666,
+      "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
+      "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -679,6 +707,34 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -707,34 +763,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
-        "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Stewart Goodyear",
-          "url": "https://open.spotify.com/artist/6Uw4yKZKLOhjuix5CUVi08"
-        },
-        {
-          "name": "BBC Scottish Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
-        },
-        {
-          "name": "Andrew Constantine",
-          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
-        }
-      ],
-      "duration_ms": 320666,
-      "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
-      "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
         "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
       },
@@ -755,34 +783,6 @@
       "duration_ms": 484560,
       "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
       "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -835,30 +835,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: The Symphonies",
-        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
-      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 773000,
       "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
       "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: The Symphonies",
+        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
     },
     {
       "added_at": "2025-12-15 12:40:07",

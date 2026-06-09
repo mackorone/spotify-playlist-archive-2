@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > The 18th Seoul Jazz Festival 2026, 5/22\(FRI\) @올림픽공원
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,109 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,104 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

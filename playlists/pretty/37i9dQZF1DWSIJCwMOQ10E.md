@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,885 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,873 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 45 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 |
 | 46 | [Dime Que Ves](https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY) | [De Amor](https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w) | 3:00 |
 | 47 | [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 |
-| 48 | [Vallenato Nobel](https://open.spotify.com/track/2YNtxCNX8Mprfn0tA3b9g9) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así \(Deluxe\)](https://open.spotify.com/album/1FCadRB3GFcRzSWzplCiDh) | 3:00 |
+| 48 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 |
 | 49 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 |
 | 50 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
 

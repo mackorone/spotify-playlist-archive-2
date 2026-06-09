@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4271877,
+  "num_followers": 4271857,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+      "duration_ms": 260229,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
-      "duration_ms": 260229,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/0zObufS3YTzW6nvoC5J5aS"
+        "name": "Hijos del pueblo",
+        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
       "artists": [
         {
           "name": "Bunbury",
           "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 307631,
-      "name": "Parecemos tontos",
-      "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
+      "duration_ms": 212560,
+      "name": "Aunque no sea conmigo",
+      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Hijos del pueblo",
-        "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/0zObufS3YTzW6nvoC5J5aS"
       },
       "artists": [
         {
           "name": "Bunbury",
           "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 212560,
-      "name": "Aunque no sea conmigo",
-      "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+      "duration_ms": 307631,
+      "name": "Parecemos tontos",
+      "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
     },
     {
       "added_at": "2026-05-19 14:18:22",

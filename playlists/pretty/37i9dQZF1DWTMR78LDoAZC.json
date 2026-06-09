@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Perfume Genius",
-  "num_followers": 186027,
+  "num_followers": 186053,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC"
+    },
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
         "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2025-05-30 04:00:14",
-      "album": {
-        "name": "Real Power",
-        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC"
     },
     {
       "added_at": "2025-05-30 04:00:14",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
-        "name": "Television Promises",
-        "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
+        "name": "Girls Make Me Wanna Die (No Rome Remix)",
+        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
       },
       "artists": [
         {
-          "name": "BLOXX",
-          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 219111,
-      "name": "Television Promises",
-      "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
     }
   ],
   "unique_name": "Alternative Pride",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,985,301 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,985,436 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever \(Deluxe Edition\)](https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F) | 3:27 |
 | 50 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 |
 
-Snapshot ID: `aiNjAAAAAADL+HVhDKWsPkyXNC8ORE0K`
+Snapshot ID: `aiS0gAAAAABsmdtUFZQYzjzJydNKSJDI`

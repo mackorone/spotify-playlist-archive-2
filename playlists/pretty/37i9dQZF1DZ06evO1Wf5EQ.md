@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814 likes - 24 songs - 54 min 27 sec
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 25 songs - 51 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 19 | [You Lost Your Shadow, Bill](https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:26 |
 | 20 | [Lessons In Chemistry](https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:16 |
 | 21 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
-| 22 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
-| 23 | [Best Alone](https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:10 |
-| 24 | [Atascadero \(Denouement\)](https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 6:38 |
+| 22 | [The Late Night Monologue](https://open.spotify.com/track/2ameK6EdJsC23gMpugT77Q) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 2:55 |
+| 23 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
+| 24 | [Best Alone](https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:10 |
+| 25 | [Godless Main Theme](https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:02 |
 
-Snapshot ID: `aiNjAAAAAABfQoJ/Y4G4+vqPsBHTU2QE`
+Snapshot ID: `aiS0gAAAAADzPVJ0nTqrFxNxfORenffo`

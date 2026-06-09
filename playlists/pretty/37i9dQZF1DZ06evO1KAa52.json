@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 668851,
+  "num_followers": 668877,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAJ5eGwZu3FtNcvJ0gNtQqA",
+  "snapshot_id": "aiS0gAAAAADqg3hdqQrwYj6QeZ8Xz4gJ",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 252973,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": null,

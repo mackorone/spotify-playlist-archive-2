@@ -1,6 +1,6 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 352914,
+  "num_followers": 352900,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
+    },
+    {
+      "added_at": "2025-12-09 07:32:17",
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
-    },
-    {
-      "added_at": "2025-12-09 07:32:17",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
     }
   ],
   "unique_name": "Mager Parah",

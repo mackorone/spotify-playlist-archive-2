@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,046 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,070 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 24 | [In Awe](https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [In Awe](https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs) | 4:39 |
 | 25 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 26 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
-| 27 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
-| 28 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 29 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
+| 27 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
+| 28 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
+| 29 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 30 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 31 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 32 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 47 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
 | 48 | [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 |
 | 49 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 |
-| 50 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 |
+| 50 | [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 |
 
 Snapshot ID: `AAAAAFdrOR1VZdZKhsWzoIvSnRg3K3OE`

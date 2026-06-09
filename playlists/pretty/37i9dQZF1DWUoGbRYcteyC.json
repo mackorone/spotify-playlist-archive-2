@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1888745,
+  "num_followers": 1888586,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 249884,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 207853,
       "name": "Cimarr\u00f3n",
       "url": "https://open.spotify.com/track/03E4111ppLF3qUQme0Sw70"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 181316,
       "name": "Simplemente Pasan",
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
         "name": "En Esta Boca",
         "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 170301,
       "name": "Una Canci\u00f3n de Amor para La Pulga",
       "url": "https://open.spotify.com/track/773PYkiPCYQOYIXeaROEyv"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 207545,
-      "name": "Medialuna",
-      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     }
   ],
   "unique_name": "Amor Amor",

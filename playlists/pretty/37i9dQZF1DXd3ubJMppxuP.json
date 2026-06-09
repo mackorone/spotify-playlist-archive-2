@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88011,
+  "num_followers": 88022,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
+        "name": "Bietje Bas",
+        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Schorre Chef & MC Vals",
+          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Bietje Bas",
+      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
-        "name": "Bietje Bas",
-        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Schorre Chef & MC Vals",
-          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Bietje Bas",
-      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
       "added_at": "2026-05-26 11:21:38",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
         "name": "Naar de Klote",
         "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 209600,
       "name": "Naar de Klote",
       "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2026-05-26 11:21:38",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
+        "name": "Als De Morgen Is Gekomen (Remix)",
+        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
+      },
+      "artists": [
+        {
+          "name": "Nederlandse Hardstyle",
+          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
+        }
+      ],
+      "duration_ms": 145241,
+      "name": "Als De Morgen Is Gekomen (Remix)",
+      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
         "name": "Uit Elkaar",
         "url": "https://open.spotify.com/album/763my15VaOrjEhS87BKvgs"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 230635,
       "name": "Uit Elkaar",
       "url": "https://open.spotify.com/track/57PxqUdFxBleX177r8TzzR"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
-        "name": "Als De Morgen Is Gekomen (Remix)",
-        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 145241,
-      "name": "Als De Morgen Is Gekomen (Remix)",
-      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
     },
     {
       "added_at": "2026-05-26 11:21:38",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-05-26 11:21:38",
       "album": {
-        "name": "Party All Night (Facking Feestje)",
-        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
-        }
-      ],
-      "duration_ms": 176100,
-      "name": "Party All Night (Facking Feestje)",
-      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
-    },
-    {
-      "added_at": "2026-05-26 11:21:38",
-      "album": {
         "name": "Ik Kom Eraan",
         "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 184453,
       "name": "Ik Kom Eraan",
       "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
+    },
+    {
+      "added_at": "2026-05-26 11:21:38",
+      "album": {
+        "name": "Party All Night (Facking Feestje)",
+        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 176100,
+      "name": "Party All Night (Facking Feestje)",
+      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 132 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 132 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 73 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
 | 74 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 75 | [2 B Loved](https://open.spotify.com/track/6pPrxCv6pTAm0qvT4Dc06u) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:55 |
-| 76 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
-| 77 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
+| 76 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
+| 77 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
 | 78 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
 | 79 | [Shai Afeni](https://open.spotify.com/track/0rMmIAvwGWv2yNX1rCPPBo) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:55 |
 | 80 | [White Man](https://open.spotify.com/track/1GHANu5pFYD8jqFkKEZXW5) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:13 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 131 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
 | 132 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 
-Snapshot ID: `AcTncAAAAACpl+lum8PXJYd8ELzjH59U`
+Snapshot ID: `AcTs1AAAAADclVSx+pKRMgsvAlY61ej/`

@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Tiwa Savage
 
-185 songs - 9 hr 4 min
+186 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 | 2026-01-14 |  |
 | [HOW FAR \- Remix](https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4) | [HOW FAR \(Remix\)](https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC) | 3:20 | 2026-03-06 |  |
 | [How Low \(Remix\)](https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [How Low \(Remix\)](https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW) | 3:02 | 2025-12-05 | 2026-05-15 |
+| [I Can't Look Away](https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k) | [Mr\. P](https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ) | [I Can't Look Away](https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T) | 3:06 | 2026-06-08 |  |
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2025-10-24 |  |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2025-10-24 | 2026-01-15 |
 | [In A Mustang ​\(​feat\. Qing Madi​\)](https://open.spotify.com/track/0i7alEmjtOHLQLWmRXbjiH) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 3:15 | 2025-10-24 | 2025-12-05 |
@@ -182,7 +183,7 @@
 | [Suru](https://open.spotify.com/track/347Lf3F7lGmiKXBPNE3GdA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:18 | 2025-10-24 | 2025-11-05 |
 | [Terminator](https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:35 | 2025-10-24 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2025-10-24 | 2025-12-05 |
-| [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2026-05-22 |  |
+| [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2026-05-22 | 2026-06-09 |
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2025-10-24 | 2025-11-16 |
 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 | 2026-04-17 |  |
 | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB) | 3:05 | 2025-10-24 | 2025-12-05 |

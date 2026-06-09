@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Out My Mind",
+        "url": "https://open.spotify.com/album/51j5JJU5KmvQIomcpT3Tok"
+      },
+      "artists": [
+        {
+          "name": "Lil Rogue",
+          "url": "https://open.spotify.com/artist/5QHADB944vb6nQsDeGaSIe"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134327,
+      "name": "Jedi Flip - 2026 Lil Rogue",
+      "url": "https://open.spotify.com/track/5wsLty8UjnvnR4XYmBVkRj"
+    },
+    {
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
       },
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157885,
       "name": "Kant Luvv",
       "url": "https://open.spotify.com/track/4sc55kUIHm2W1u1DTHbMXM"
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 144049,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/3GIswipFfcwql6cMpYAW0e"
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"

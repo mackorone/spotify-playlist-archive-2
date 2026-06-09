@@ -1118,6 +1118,24 @@
     {
       "album": {
         "name": "PYRAMID4",
+        "url": "https://open.spotify.com/album/5219vHKf8elS7hRI11Ig9X"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305372,
+      "name": "Love Lights",
+      "url": "https://open.spotify.com/track/1Uh6c02Wxkq30F6aXPPWul"
+    },
+    {
+      "album": {
+        "name": "PYRAMID4",
         "url": "https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7"
       },
       "artists": [
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 236266,
       "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
       "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"

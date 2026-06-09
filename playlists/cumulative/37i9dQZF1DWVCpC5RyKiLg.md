@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-198 songs - 10 hr 50 min
+199 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Nessas Horas \- Ao Vivo](https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:28 | 2022-01-27 |  |
 | [Nocaute](https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 2:47 | 2022-01-27 |  |
 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 | 2022-01-27 |  |
-| [Não Abro Mão \- Ao Vivo](https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:00 | 2022-01-27 |  |
+| [Não Abro Mão \- Ao Vivo](https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:00 | 2022-01-27 | 2026-06-09 |
 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 2:44 | 2023-11-17 | 2024-04-19 |
 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 | 2022-01-27 | 2023-12-12 |
 | [O Que É Que Tem \- Ao Vivo](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 | 2022-01-27 |  |
@@ -200,6 +200,7 @@
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2022-06-10 | 2024-04-19 |
 | [Viver Sem Ti](https://open.spotify.com/track/3Xvl9CwWglXH5ASQFr5izB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw), [Mariana Rios](https://open.spotify.com/artist/1r2NVJNNOKVDxT84kArEtz) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:47 | 2022-01-27 | 2022-07-29 |
 | [Voa Beija\-Flor \- Ao Vivo](https://open.spotify.com/track/5CkCOlVxiYPzREq0PeCKAN) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [O Mundo É Tão Pequeno](https://open.spotify.com/album/7EPROKycuy8kgYCHsHFJu8) | 3:26 | 2022-01-27 | 2022-07-29 |
+| [Você Me Trocou \- Ao Vivo](https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Clássico \(Ao Vivo / Edição Especial\)](https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A) | 3:13 | 2025-11-07 |  |
 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 | 2022-01-27 |  |
 | [Vou Voando \- Ao Vivo](https://open.spotify.com/track/1WCn5QBp0Kl9uHrR0J02GS) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(Ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:56 | 2025-04-18 |  |
 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 | 2022-01-27 | 2023-12-12 |

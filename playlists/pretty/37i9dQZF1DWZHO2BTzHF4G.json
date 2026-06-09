@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 72482,
+  "num_followers": 72525,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 255261,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -567,6 +551,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255261,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "It's Not Over....The Hits So Far",
-        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 270644,
-      "name": "No Surprise",
-      "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "The Best Yet",
         "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 199813,
       "name": "Meant to Live",
       "url": "https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "It's Not Over....The Hits So Far",
+        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 270644,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "It's Not Over....The Hits So Far",
-        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 255259,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 252213,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "It's Not Over....The Hits So Far",
+        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 255259,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
     },
     {
       "added_at": "2024-07-12 15:02:20",

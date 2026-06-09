@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,976 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,977 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 4 | [Glyko Antio](https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:20 |
 | 5 | [Keno](https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF) | [Manos](https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6), [Dina](https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV) | [Keno](https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0) | 3:51 |
 | 6 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 |
-| 7 | [A'ti](https://open.spotify.com/track/7Clubijy1Q8TYfFsS8GLMF) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [A'ti](https://open.spotify.com/album/2E20oS6CL02F7LCsBgGygQ) | 2:56 |
+| 7 | [A'ti](https://open.spotify.com/track/3jBba6wuPZwclW44byHwlg) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [A'ti](https://open.spotify.com/album/287W2LJTBgaigkleidc83x) | 2:56 |
 | 8 | [Ax Kardia Mou \- Remix](https://open.spotify.com/track/30Hqr0nzbKLgkFsrmGQtG4) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Akann](https://open.spotify.com/artist/6yKIOtVz0hCChrG1ikAjoQ) | [Ax Kardia Mou \(Remix\)](https://open.spotify.com/album/5YYSstQqlAhcxo7VA5Z6og) | 3:34 |
 | 9 | [PARÉA](https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [PARÉA](https://open.spotify.com/album/3jC6c4UCOOzX2DE6KGCxFV) | 2:58 |
 | 10 | [Aigaio](https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Aigaio](https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk) | 4:04 |

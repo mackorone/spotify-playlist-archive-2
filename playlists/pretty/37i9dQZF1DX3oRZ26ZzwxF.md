@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Himra
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,756 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,836 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [Lifestyle](https://open.spotify.com/track/2GXIob6eYx6EpWi2PbfhRd) | [FETTY ND0SS](https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv), [Le Petit Mandelha](https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij) | [Lifestyle](https://open.spotify.com/album/5g4ATbwYF1jQAb50qhT3dS) | 2:23 |
 | 49 | [Kandia Camara](https://open.spotify.com/track/47hLXntnfGRAp2vp0yQXF1) | [Andy S](https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK) | [Kandia Camara](https://open.spotify.com/album/07Qsy7hbE1H2q0xZV4ENI2) | 2:56 |
 
-Snapshot ID: `AAAAAIMXwPw4I7vXq/EqE18OoTPVwQpO`
+Snapshot ID: `AAAAAAslVL2Gs4cr+5EH0Ni0ilXIHpi/`

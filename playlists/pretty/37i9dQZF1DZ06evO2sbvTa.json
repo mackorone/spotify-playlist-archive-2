@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAC7YQCaGf1Tos4n7mPpcwAq",
+  "snapshot_id": "aiS0gAAAAADXBOKtndRTg1MydjVDiWmP",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap God",
-        "url": "https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt"
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Yung Fresh",
-          "url": "https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt"
         }
       ],
-      "duration_ms": 216476,
-      "name": "Shooter (feat. Young Scooter & Yung Fresh)",
-      "url": "https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z"
+      "duration_ms": 111641,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM"
     },
     {
       "added_at": null,
@@ -387,18 +379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+        "name": "Trap God",
+        "url": "https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt"
       },
       "artists": [
         {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Yung Fresh",
+          "url": "https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt"
         }
       ],
-      "duration_ms": 111641,
-      "name": "INTRO",
-      "url": "https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM"
+      "duration_ms": 216476,
+      "name": "Shooter (feat. Young Scooter & Yung Fresh)",
+      "url": "https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z"
     },
     {
       "added_at": null,
@@ -423,6 +423,26 @@
       "duration_ms": 310733,
       "name": "Columbia Remix (Dirty)",
       "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 176007,
+      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
+      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
     },
     {
       "added_at": null,
@@ -471,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 176007,
-      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
-      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -551,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
       },
       "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+      "duration_ms": 184293,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
     },
     {
       "added_at": null,
@@ -595,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "WAKA FLACKA",
-          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
-        }
-      ],
-      "duration_ms": 149420,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -635,6 +595,46 @@
       "duration_ms": 250965,
       "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
       "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "WAKA FLACKA",
+          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
+        }
+      ],
+      "duration_ms": 149420,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 146730,
-      "name": "Partner",
-      "url": "https://open.spotify.com/track/1ZUxRMW756trpE2GmgLKGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 264946,
       "name": "Birds Take a Bath",
       "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 146730,
+      "name": "Partner",
+      "url": "https://open.spotify.com/track/1ZUxRMW756trpE2GmgLKGz"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 267867,
-      "name": "Both Sides (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 209099,
       "name": "Black Migo",
       "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 267867,
+      "name": "Both Sides (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 197244,
-      "name": "Trap It Out",
-      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 204605,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 197244,
+      "name": "Trap It Out",
+      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "U Ain't No Hustla",
-      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Married to the Streets",
         "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
       },
@@ -971,22 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 192000,
+      "name": "U Ain't No Hustla",
+      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
     },
     {
       "added_at": null,
@@ -1027,6 +1007,26 @@
       "duration_ms": 223946,
       "name": "Re Up",
       "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     }
   ],
   "unique_name": "This Is Young Scooter",

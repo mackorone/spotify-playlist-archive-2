@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,029 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,026 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Íntimo](https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 1:38 |
 | 50 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
 
-Snapshot ID: `aiNjAAAAAACcXJdIUpELVVFxrWshOy38`
+Snapshot ID: `aiS0gAAAAABWUmKn49z+gJeQwHyvkEQa`

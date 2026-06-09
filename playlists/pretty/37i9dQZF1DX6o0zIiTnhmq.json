@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 233787,
+  "num_followers": 233829,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
+        "name": "Meditations for Transformation: Kirtan Kriya",
+        "url": "https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s"
+      },
+      "artists": [
+        {
+          "name": "Nirinjan Kaur",
+          "url": "https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R"
+        }
+      ],
+      "duration_ms": 691319,
+      "name": "Kirtan Kriya (Short Version)",
+      "url": "https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
         "name": "Ram Naam Dhun",
         "url": "https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 838750,
       "name": "Ram Naam Dhun",
       "url": "https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
-        "name": "Meditations for Transformation: Kirtan Kriya",
-        "url": "https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s"
-      },
-      "artists": [
-        {
-          "name": "Nirinjan Kaur",
-          "url": "https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R"
-        }
-      ],
-      "duration_ms": 691319,
-      "name": "Kirtan Kriya (Short Version)",
-      "url": "https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "World Of Medicine Buddha \u00e5\u2021\u20ac\u00e7\u0090\u2030\u00e7'\u0192\u00e4\u00b8\u2013\u00e7\u2022\u0152",
-        "url": "https://open.spotify.com/album/7boPIIde65Rswaq5smZr5B"
+        "name": "Sita Ram Naam Jaap",
+        "url": "https://open.spotify.com/album/5015Vr53j5FIC2FEDcgdjj"
       },
       "artists": [
         {
-          "name": "Imee Ooi",
-          "url": "https://open.spotify.com/artist/5lPNORvaZAHTRTz0zz0G2Y"
-        },
-        {
-          "name": "Chai Yu",
-          "url": "https://open.spotify.com/artist/6tdbsGVKmAs0LWSsNp1oOF"
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/3WRhNmS59MHsO5vQjAeqaY"
         }
       ],
-      "duration_ms": 912822,
-      "name": "Medicine Buddha Heart Mantra \u00e8\u008d\u00af\u00e5\u00b8\u02c6\u00e4\u00bd\u203a\u00e5\u00bf\u0192\u00e5''",
-      "url": "https://open.spotify.com/track/3xZO5KYRGfgABvfLn9lzOa"
+      "duration_ms": 3617115,
+      "name": "Sita Ram Naam Jaap",
+      "url": "https://open.spotify.com/track/6uqwnPgwgiN54ccBFNK8UU"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -567,6 +563,26 @@
       "duration_ms": 485500,
       "name": "Aditya Hridayam Stotram",
       "url": "https://open.spotify.com/track/4nmJEQJm47VIgcQxXtbONu"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "World Of Medicine Buddha \u00e5\u2021\u20ac\u00e7\u0090\u2030\u00e7'\u0192\u00e4\u00b8\u2013\u00e7\u2022\u0152",
+        "url": "https://open.spotify.com/album/7boPIIde65Rswaq5smZr5B"
+      },
+      "artists": [
+        {
+          "name": "Imee Ooi",
+          "url": "https://open.spotify.com/artist/5lPNORvaZAHTRTz0zz0G2Y"
+        },
+        {
+          "name": "Chai Yu",
+          "url": "https://open.spotify.com/artist/6tdbsGVKmAs0LWSsNp1oOF"
+        }
+      ],
+      "duration_ms": 912822,
+      "name": "Medicine Buddha Heart Mantra \u00e8\u008d\u00af\u00e5\u00b8\u02c6\u00e4\u00bd\u203a\u00e5\u00bf\u0192\u00e5''",
+      "url": "https://open.spotify.com/track/3xZO5KYRGfgABvfLn9lzOa"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Sita Ram Naam Jaap",
-        "url": "https://open.spotify.com/album/5015Vr53j5FIC2FEDcgdjj"
-      },
-      "artists": [
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/3WRhNmS59MHsO5vQjAeqaY"
-        }
-      ],
-      "duration_ms": 3617115,
-      "name": "Sita Ram Naam Jaap",
-      "url": "https://open.spotify.com/track/6uqwnPgwgiN54ccBFNK8UU"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Mantras for Precarious Times",
         "url": "https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Maha Mrityunjaya Mantra: 108 Times",
-        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 2976545,
-      "name": "Maha Mrityunjaya Mantra: 108 Times",
-      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Surya Namaskar Mantra",
         "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 393750,
       "name": "Surya Namaskar Mantra",
       "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Maha Mrityunjaya Mantra: 108 Times",
+        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 2976545,
+      "name": "Maha Mrityunjaya Mantra: 108 Times",
+      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Mantras & Chants",
-        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 859743,
-      "name": "Hari Om Tat Sat",
-      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Rudrashtakam - The Manifestation Of Shiva",
         "url": "https://open.spotify.com/album/6QJa1dUs1jgj1NRbQjzrvq"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 472500,
       "name": "Rudrashtakam - The Manifestation Of Shiva",
       "url": "https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 859743,
+      "name": "Hari Om Tat Sat",
+      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Mantras for Positive Energy",
-        "url": "https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 680647,
-      "name": "Antarjami Purakh Bidhate",
-      "url": "https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Phaldata Ganesh",
         "url": "https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 463680,
       "name": "Ganesh Panchratna Stotram",
       "url": "https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Mantras for Positive Energy",
+        "url": "https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 680647,
+      "name": "Antarjami Purakh Bidhate",
+      "url": "https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
+        "name": "Green Tara Mantra",
+        "url": "https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV"
+      },
+      "artists": [
+        {
+          "name": "Nidhi Prasad",
+          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Green Tara Mantra",
+      "url": "https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
         "name": "Krishnaya Vasudevaya - Meditative Chants",
         "url": "https://open.spotify.com/album/2nCUrvFSfANmGTAzNdckTI"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Green Tara Mantra",
-        "url": "https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV"
-      },
-      "artists": [
-        {
-          "name": "Nidhi Prasad",
-          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Green Tara Mantra",
-      "url": "https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Mrityunjay Mantra",
         "url": "https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh"
       },
@@ -939,30 +939,6 @@
       "duration_ms": 361621,
       "name": "Mrityunjay Mantra",
       "url": "https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
-        "name": "Tvameva Mata Cha Pita Tvameva",
-        "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
-      },
-      "artists": [
-        {
-          "name": "Sanatana Bharat",
-          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
-        },
-        {
-          "name": "Upadhyay",
-          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
-        },
-        {
-          "name": "Amrita Chaturvedi",
-          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
-        }
-      ],
-      "duration_ms": 806844,
-      "name": "Tvameva Mata Cha Pita Tvameva",
-      "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -987,6 +963,30 @@
       "duration_ms": 737500,
       "name": "Om Namah Shivay Mantra",
       "url": "https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Tvameva Mata Cha Pita Tvameva",
+        "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
+      },
+      "artists": [
+        {
+          "name": "Sanatana Bharat",
+          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
+        },
+        {
+          "name": "Upadhyay",
+          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
+        },
+        {
+          "name": "Amrita Chaturvedi",
+          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
+        }
+      ],
+      "duration_ms": 806844,
+      "name": "Tvameva Mata Cha Pita Tvameva",
+      "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
-        "url": "https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw"
-      },
-      "artists": [
-        {
-          "name": "Devashri Golambare",
-          "url": "https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH"
-        }
-      ],
-      "duration_ms": 599895,
-      "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
-      "url": "https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Om Chanting 108 Times",
         "url": "https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 1653759,
       "name": "Om Chanting 108 Times",
       "url": "https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
-        "name": "Shri Jagannath Mantra",
-        "url": "https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3"
-      },
-      "artists": [
-        {
-          "name": "Nidhi Prasad",
-          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
-        }
-      ],
-      "duration_ms": 347033,
-      "name": "Shri Jagannath Mantra",
-      "url": "https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -1123,6 +1091,38 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
+        "name": "Shri Jagannath Mantra",
+        "url": "https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3"
+      },
+      "artists": [
+        {
+          "name": "Nidhi Prasad",
+          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
+        }
+      ],
+      "duration_ms": 347033,
+      "name": "Shri Jagannath Mantra",
+      "url": "https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+        "url": "https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw"
+      },
+      "artists": [
+        {
+          "name": "Devashri Golambare",
+          "url": "https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH"
+        }
+      ],
+      "duration_ms": 599895,
+      "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+      "url": "https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
         "name": "Gayatri Mantra",
         "url": "https://open.spotify.com/album/1X42voH71W82ExkkJfno1Z"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 188500,
       "name": "Gayatri Mantra",
       "url": "https://open.spotify.com/track/6Pxkly12ehE2VNASvzIixs"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
+        "name": "Durga",
+        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Shloka",
+      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Durga",
-        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
-      },
-      "artists": [
-        {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Shloka",
-      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
         "name": "Buddham Sharanam Gachhami (Buddha Chants, Pt. 4)",
         "url": "https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Om Namah Shivay",
-        "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
+        "name": "Ganesh",
+        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
       },
       "artists": [
         {
-          "name": "Rahul Saxena",
-          "url": "https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch"
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
         }
       ],
-      "duration_ms": 365454,
-      "name": "Om Namah Shivay",
-      "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
+      "duration_ms": 297692,
+      "name": "Beej Mantra",
+      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
-        "name": "Ganesh",
-        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
+        "name": "Om Namah Shivay",
+        "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
       },
       "artists": [
         {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+          "name": "Rahul Saxena",
+          "url": "https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch"
         }
       ],
-      "duration_ms": 297692,
-      "name": "Beej Mantra",
-      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
+      "duration_ms": 365454,
+      "name": "Om Namah Shivay",
+      "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
     },
     {
       "added_at": "2026-05-28 04:07:07",
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2026-05-28 04:07:07",
       "album": {
+        "name": "Namami Shamishan",
+        "url": "https://open.spotify.com/album/1AyQ0x6ZbDlSuUXazs7bli"
+      },
+      "artists": [
+        {
+          "name": "Pravin Koli",
+          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
+        },
+        {
+          "name": "Yogita Koli",
+          "url": "https://open.spotify.com/artist/1WNKHpjtjwazXkmBA4PvOM"
+        },
+        {
+          "name": "Sanchari Sengupta",
+          "url": "https://open.spotify.com/artist/1G3plpK0xcAaY31EpzOtAq"
+        }
+      ],
+      "duration_ms": 222260,
+      "name": "Namami Shamishan",
+      "url": "https://open.spotify.com/track/5EJYBxHLwnnWlaDKa1F2ML"
+    },
+    {
+      "added_at": "2026-05-28 04:07:07",
+      "album": {
         "name": "Gayatri Mantra 108 Times",
         "url": "https://open.spotify.com/album/6ownMtjFdSqL4USFMfzqul"
       },
@@ -1319,26 +1343,6 @@
       "duration_ms": 3390400,
       "name": "Gayatri Mantra 108 Times",
       "url": "https://open.spotify.com/track/20PZKyB4QLEMgAkbAHnzFX"
-    },
-    {
-      "added_at": "2026-05-28 04:07:07",
-      "album": {
-        "name": "Rudra Mantra",
-        "url": "https://open.spotify.com/album/3MtxV01IRpaJ44vEumlsf4"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhiman",
-          "url": "https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ"
-        },
-        {
-          "name": "TMC RECORDS",
-          "url": "https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV"
-        }
-      ],
-      "duration_ms": 553636,
-      "name": "Rudra Mantra",
-      "url": "https://open.spotify.com/track/1RyjrVBee8sK11gO9aEeqJ"
     }
   ],
   "unique_name": "Magical Mantras",

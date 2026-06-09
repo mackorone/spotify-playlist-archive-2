@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-558 songs - 1 day 10 hr 39 min
+560 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Mosquito Bay](https://open.spotify.com/track/3hDErVZBcKlHcf0PHII7Zb) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Mosquito Bay](https://open.spotify.com/album/5OEDbzKVcblu7GdFGtGQUT) | 1:38 | 2026-05-08 |  |
 | [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 | 2026-03-23 | 2026-04-21 |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 | 2026-05-31 |
+| [Movimento Ipnotico](https://open.spotify.com/track/2nF3AX8c2drvoZrShGTCSl) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Movimento Ipnotico](https://open.spotify.com/album/6Qq3ddvHErZ4aSpiJS7bSS) | 3:17 | 2026-06-08 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2026-05-17 | 2026-05-26 |
 | [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 | 2026-01-19 | 2026-03-18 |
@@ -474,6 +475,7 @@
 | [Systembruch \- Bonus \#raw](https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:24 | 2026-05-02 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-02 | 2025-12-17 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-27 | 2026-04-21 |
+| [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 | 2026-06-08 |  |
 | [Tapure](https://open.spotify.com/track/3UTYN1rNU0MqUlrCNMoAmJ) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 3:47 | 2025-09-21 | 2025-11-28 |
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2025-10-21 | 2025-11-28 |
 | [Tell Me Why](https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Tell Me Why](https://open.spotify.com/album/02QFtQGt2W4dzCWCaIvQJ7) | 3:21 | 2026-04-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 333,
+  "num_followers": 334,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKEL4pdr0XU/elkrdwxITRXc6zZaGL",
+  "snapshot_id": "AAAKFNqffEm2TJG49B24REzOiy6WK9x1",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40383,6 +40383,70 @@
       "duration_ms": 218153,
       "name": "\u041d\u0435\u043e\u0441\u044f\u0436\u043d\u0456",
       "url": "https://open.spotify.com/track/1D4Rt25ERzuRfr6ceMnJ9h"
+    },
+    {
+      "added_at": "2026-06-08 11:21:40",
+      "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o"
+      },
+      "artists": [
+        {
+          "name": "Peter Raadho",
+          "url": "https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx"
+        }
+      ],
+      "duration_ms": 284298,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe"
+    },
+    {
+      "added_at": "2026-06-08 11:27:04",
+      "album": {
+        "name": "Ceiling",
+        "url": "https://open.spotify.com/album/2uoVNI46mrz2f7frUpmdtb"
+      },
+      "artists": [
+        {
+          "name": "5AM",
+          "url": "https://open.spotify.com/artist/0RsyYYh4dLRrjKVxjpkdz0"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Ceiling",
+      "url": "https://open.spotify.com/track/6JbKNyIMQDxKXai14ZsBg8"
+    },
+    {
+      "added_at": "2026-06-08 11:29:54",
+      "album": {
+        "name": "Eu Encontrei o Meu Amado",
+        "url": "https://open.spotify.com/album/4SdYNqafdrHadxG3l9okCi"
+      },
+      "artists": [
+        {
+          "name": "Coral Gospel Vozes do Reino",
+          "url": "https://open.spotify.com/artist/3gagHz1qMqB585kOByz8b3"
+        }
+      ],
+      "duration_ms": 155999,
+      "name": "Eu Encontrei o Meu Amado",
+      "url": "https://open.spotify.com/track/2kbnUCwz6AuDJWzpaWU4AB"
+    },
+    {
+      "added_at": "2026-06-08 11:30:02",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/429o17nGxNDexcp42affUn"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

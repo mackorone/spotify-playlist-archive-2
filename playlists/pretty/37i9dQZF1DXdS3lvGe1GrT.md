@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ivy Knight
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,128 likes - 77 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,190 likes - 77 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 19 | [Give Me a Rainbow](https://open.spotify.com/track/2OqABCKzgiqBCT5znbwaYD) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Give Me a Rainbow](https://open.spotify.com/album/4HQXutshKe5grBgwssfp4L) | 4:26 |
 | 20 | [On the Way Down](https://open.spotify.com/track/6Wq0hIfjLMvSAdK3adpp6c) | [Eliana Glass](https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc) | [On the Way Down](https://open.spotify.com/album/31QcE7iZjychuryUBWuP8r) | 3:49 |
 | 21 | [Oh, Mama](https://open.spotify.com/track/16Ol6NyBhxU8lSKlxA0qMt) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Oh, Mama](https://open.spotify.com/album/4DS4kETjtZQmTCwz1umHm6) | 4:01 |
-| 22 | [This is Our Life](https://open.spotify.com/track/04kHb4oQztTRtINGtTGrzF) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [This is Our Life](https://open.spotify.com/album/2k7ZhJMvHlhJ1gVl2144Jg) | 2:55 |
+| 22 | [This Is Our Life](https://open.spotify.com/track/04kHb4oQztTRtINGtTGrzF) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [This Is Our Life](https://open.spotify.com/album/2k7ZhJMvHlhJ1gVl2144Jg) | 2:55 |
 | 23 | [apple tree](https://open.spotify.com/track/4Se16udQXcb46gp6JieVIi) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [apple tree](https://open.spotify.com/album/24OY90lIcXEWvA1h59TpZe) | 2:43 |
 | 24 | [Malvern Star](https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Malvern Star](https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf) | 3:31 |
 | 25 | [Flower](https://open.spotify.com/track/03zy9xJ8UnPLlfzn4bFF3B) | [Hollow Bastion](https://open.spotify.com/artist/7wtsdpC5XVsxap879lzhFV) | [Flower](https://open.spotify.com/album/6UOb7o1P84OvtuBrgiBMz2) | 4:26 |

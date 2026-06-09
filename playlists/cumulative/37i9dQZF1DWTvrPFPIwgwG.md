@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-274 songs - 23 hr 43 min
+275 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-06-02 |  |
 | [Eu Permiti](https://open.spotify.com/track/7gL4rQkDCuPk6rMfuwZk5I) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Eu Permiti](https://open.spotify.com/album/0QvBUoyHDslRTN4rLA0pvN) | 5:16 | 2022-09-09 | 2022-10-15 |
 | [Eu Permiti o Vento](https://open.spotify.com/track/6oJc0Rbi2CosPI7uklUoV4) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Permiti o Vento](https://open.spotify.com/album/6XaDKEzmAipRBCbXyCGEzn) | 6:13 | 2022-09-09 | 2025-02-22 |
-| [Eu Prefiro Adorar \- Ao Vivo](https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Prefiro Adorar \(Ao Vivo\)](https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA) | 14:20 | 2024-11-29 |  |
+| [Eu Prefiro Adorar \- Ao Vivo](https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Prefiro Adorar \(Ao Vivo\)](https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA) | 14:20 | 2024-11-29 | 2026-06-09 |
 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 | 2023-09-15 |  |
 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 | 2022-09-09 |  |
 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 | 2023-02-03 | 2023-04-29 |
@@ -152,6 +152,7 @@
 | [Meu Deus É Grande](https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f) | [Conceição Cabral](https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF) | [Meu Deus É Grande](https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa) | 5:34 | 2024-09-20 | 2025-04-15 |
 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 | 2024-08-16 | 2025-09-13 |
 | [Meu Perfume \- Ao Vivo](https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Meu Perfume \(Ao Vivo\)](https://open.spotify.com/album/1qtwvGqyEdfabD3y1DSL9o) | 7:12 | 2023-05-12 | 2023-06-24 |
+| [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/track/00lj3iwlWONfTEQMvp3PWM) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Léa Mendonça 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/3V2yywjeEpclKJyhN04apK) | 5:28 | 2026-06-08 |  |
 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 | 2024-04-19 |  |
 | [Minha Bênção](https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Minha Bênção](https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN) | 4:26 | 2023-07-07 |  |
 | [Minha Presença \- Ao Vivo](https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Minha Presença \(Ao Vivo\)](https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq) | 7:01 | 2023-04-15 | 2025-04-19 |

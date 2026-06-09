@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498583,
+  "num_followers": 498569,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,30 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Take Me Up (ft. Donna Blakely)",
+        "url": "https://open.spotify.com/album/6zs9VQ8s94nFFND1PJJDPf"
+      },
+      "artists": [
+        {
+          "name": "Ralphi Rosario",
+          "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
+        },
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Lego",
+          "url": "https://open.spotify.com/artist/0GDPEEALVh9alIcGtM9SBE"
+        }
+      ],
+      "duration_ms": 177028,
+      "name": "Take Me Up (ft. Donna Blakely)",
+      "url": "https://open.spotify.com/track/3SPIXaPvo1cx1v4Eint483"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 178552,
       "name": "Nappp",
       "url": "https://open.spotify.com/track/2VrfjBzBu6RD6ONQSq3NUP"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Take Me Up (ft. Donna Blakely)",
-        "url": "https://open.spotify.com/album/6zs9VQ8s94nFFND1PJJDPf"
-      },
-      "artists": [
-        {
-          "name": "Ralphi Rosario",
-          "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
-        },
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Lego",
-          "url": "https://open.spotify.com/artist/0GDPEEALVh9alIcGtM9SBE"
-        }
-      ],
-      "duration_ms": 177028,
-      "name": "Take Me Up (ft. Donna Blakely)",
-      "url": "https://open.spotify.com/track/3SPIXaPvo1cx1v4Eint483"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "For You (Assiove)",
+        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 203671,
+      "name": "For You (Assiove)",
+      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Cruel Summer (Again)",
         "url": "https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "For You (Assiove)",
-        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
+        "name": "Jazzy Glazzy",
+        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
       },
       "artists": [
         {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+          "name": "Jdr",
+          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
         }
       ],
-      "duration_ms": 203671,
-      "name": "For You (Assiove)",
-      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
+      "duration_ms": 197419,
+      "name": "Jazzy Glazzy",
+      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Jazzy Glazzy",
-        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
-      },
-      "artists": [
-        {
-          "name": "Jdr",
-          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Jazzy Glazzy",
-      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Seguimos",
-        "url": "https://open.spotify.com/album/5HPdoCHMjOOuxhOBvCcY1N"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Seguimos",
-      "url": "https://open.spotify.com/track/2PmGGx7S3GWN5khgs5CjPW"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "F1 The Album",
         "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 195404,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/1UxpSyWmUXJ7DZYPAPzNTU"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Seguimos",
+        "url": "https://open.spotify.com/album/5HPdoCHMjOOuxhOBvCcY1N"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Seguimos",
+      "url": "https://open.spotify.com/track/2PmGGx7S3GWN5khgs5CjPW"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "This Ain't Love",
         "url": "https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
-      },
-      "artists": [
-        {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
-        }
-      ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Uncomfortable",
         "url": "https://open.spotify.com/album/2TyyA3oJlayDtyZf8cQfo9"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 195661,
       "name": "Uncomfortable",
       "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1315,18 +1331,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+        "name": "Back to the Old School",
+        "url": "https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM"
       },
       "artists": [
         {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
+      "duration_ms": 371321,
+      "name": "Back to the Old School",
+      "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1347,26 +1367,6 @@
       "duration_ms": 149364,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Back to the Old School",
-        "url": "https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 371321,
-      "name": "Back to the Old School",
-      "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1499,30 +1499,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Save Me No More",
-        "url": "https://open.spotify.com/album/1BZ6lihek8eNd8miCzcPY3"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Deetron",
-          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
-        },
-        {
-          "name": "Elj\u00e9",
-          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Save Me No More",
-      "url": "https://open.spotify.com/track/0Le9EaDBqEQbv7jjjpPxTO"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Take Me Up (Gotta Get Up)",
         "url": "https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo"
       },
@@ -1543,6 +1519,30 @@
       "duration_ms": 202926,
       "name": "Take Me Up (Gotta Get Up) - Lego Edit",
       "url": "https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Save Me No More",
+        "url": "https://open.spotify.com/album/1BZ6lihek8eNd8miCzcPY3"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        },
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Save Me No More",
+      "url": "https://open.spotify.com/track/0Le9EaDBqEQbv7jjjpPxTO"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Y.O.U.",
-        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 183515,
-      "name": "Y.O.U.",
-      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Jenny",
         "url": "https://open.spotify.com/album/1rVwXqFkLz9uc8Bn77FYhC"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 227226,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/1fpAGBH4mrUuncfk49VbcZ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Y.O.U.",
+        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 183515,
+      "name": "Y.O.U.",
+      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "About Yourself",
+        "url": "https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "About Yourself",
+      "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 217000,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "About Yourself",
-        "url": "https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "About Yourself",
-      "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Don\u2019t You Want Some More",
+        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "duration_ms": 204985,
+      "name": "Don\u2019t You Want Some More",
+      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "With You (Tonight)",
         "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 200704,
       "name": "With You (Tonight)",
       "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Don\u2019t You Want Some More",
-        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Don\u2019t You Want Some More",
-      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "The Sound Vault, Pt. 3",
-        "url": "https://open.spotify.com/album/2zE003e01cGUnaNNQorMUW"
-      },
-      "artists": [
-        {
-          "name": "Miguel Migs",
-          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
-        },
-        {
-          "name": "Martin Luther McCoy",
-          "url": "https://open.spotify.com/artist/6FdIwdTYtfGSULGl1JA9OJ"
-        }
-      ],
-      "duration_ms": 332459,
-      "name": "Eyes For You (Migs Retro Vault Remix)",
-      "url": "https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "PARTY NEVER STOPS",
         "url": "https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 292330,
       "name": "PARTY NEVER STOPS",
       "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "The Sound Vault, Pt. 3",
+        "url": "https://open.spotify.com/album/2zE003e01cGUnaNNQorMUW"
+      },
+      "artists": [
+        {
+          "name": "Miguel Migs",
+          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
+        },
+        {
+          "name": "Martin Luther McCoy",
+          "url": "https://open.spotify.com/artist/6FdIwdTYtfGSULGl1JA9OJ"
+        }
+      ],
+      "duration_ms": 332459,
+      "name": "Eyes For You (Migs Retro Vault Remix)",
+      "url": "https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Stay The Same",
-        "url": "https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B"
-      },
-      "artists": [
-        {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
-        },
-        {
-          "name": "Fede Aliprandi",
-          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/5A22WKOk4zqAaTXhKJH6Zr"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 228448,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0UHlwUPHTAfWOMn0b87Rek"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        },
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2111,30 +2111,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "REARRANGE YOURSELF",
-        "url": "https://open.spotify.com/album/6SrZ9IvPllHz1BrhCajg5f"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Ben Westbeech",
-          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
-        },
-        {
-          "name": "Obi Franky",
-          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
-        }
-      ],
-      "duration_ms": 221512,
-      "name": "REARRANGE YOURSELF",
-      "url": "https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Medellin",
         "url": "https://open.spotify.com/album/3KWejwbJUbXcTNSm0ro4di"
       },
@@ -2159,6 +2135,30 @@
       "duration_ms": 195923,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "REARRANGE YOURSELF",
+        "url": "https://open.spotify.com/album/6SrZ9IvPllHz1BrhCajg5f"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "duration_ms": 221512,
+      "name": "REARRANGE YOURSELF",
+      "url": "https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Saving It All",
-        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Angel Janson",
-          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Saving It All",
-      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Dancing On My Own (The Brothers Macklovitch Remix)",
         "url": "https://open.spotify.com/album/77Su3dVQ8yrfDlBraNO3BF"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Saving It All",
+        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Angel Janson",
+          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Saving It All",
+      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
     }
   ],
   "unique_name": "House Supreme",

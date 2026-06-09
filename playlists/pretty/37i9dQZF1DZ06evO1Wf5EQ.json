@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 814,
+  "num_followers": 815,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABfQoJ/Y4G4+vqPsBHTU2QE",
+  "snapshot_id": "aiS0gAAAAADzPVJ0nTqrFxNxfORenffo",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "David Stal",
+          "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "The Late Night Monologue",
+      "url": "https://open.spotify.com/track/2ameK6EdJsC23gMpugT77Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -412,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+      "duration_ms": 62733,
+      "name": "Godless Main Theme",
+      "url": "https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

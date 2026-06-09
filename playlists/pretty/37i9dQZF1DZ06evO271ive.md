@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,527 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,533 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 42 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
 | 43 | [Sexyy Love Money](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
 | 44 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
-| 45 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 |
-| 46 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
+| 45 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
+| 46 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:32 |
 | 47 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
 | 48 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 |
-| 49 | [David Ruffin](https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:35 |
-| 50 | [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 |
+| 49 | [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 |
+| 50 | [David Ruffin](https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:35 |
 
-Snapshot ID: `aiNjAAAAAAC/pxwpblhfGKZwNsLimLyo`
+Snapshot ID: `aiS0gAAAAADvtqQNJSVMaTk0a6ngdEpR`

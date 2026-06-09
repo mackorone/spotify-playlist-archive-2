@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Himra ",
-  "num_followers": 190998,
+  "num_followers": 191037,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-29 00:01:51",
       "album": {
-        "name": "Everlasting Taker",
-        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 118736,
-      "name": "Everlasting Taker",
-      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:51",
-      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -587,38 +571,18 @@
     {
       "added_at": "2026-05-29 00:01:51",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+        "name": "Everlasting Taker",
+        "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-05-29 00:01:51",
-      "album": {
-        "name": "NBA",
-        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "NBA",
-      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
+      "duration_ms": 118736,
+      "name": "Everlasting Taker",
+      "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
     },
     {
       "added_at": "2026-05-29 00:01:51",
@@ -643,22 +607,38 @@
     {
       "added_at": "2026-05-29 00:01:51",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+        "name": "NBA",
+        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 179381,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
+      "duration_ms": 169043,
+      "name": "NBA",
+      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
+    },
+    {
+      "added_at": "2026-05-29 00:01:51",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-05-29 00:01:51",
@@ -675,6 +655,26 @@
       "duration_ms": 166097,
       "name": "News at 7",
       "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
+    },
+    {
+      "added_at": "2026-05-29 00:01:51",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
       "added_at": "2026-05-29 00:01:51",
@@ -743,22 +743,18 @@
     {
       "added_at": "2026-05-29 00:01:51",
       "album": {
-        "name": "Leftie (Dlala Ngcobo)",
-        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
       },
       "artists": [
         {
           "name": "Nasty C",
           "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 148869,
-      "name": "Leftie (Dlala Ngcobo)",
-      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
     },
     {
       "added_at": "2026-05-29 00:01:51",
@@ -839,18 +835,22 @@
     {
       "added_at": "2026-05-29 00:01:51",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
       },
       "artists": [
         {
           "name": "Nasty C",
           "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "added_at": "2026-05-29 00:01:51",

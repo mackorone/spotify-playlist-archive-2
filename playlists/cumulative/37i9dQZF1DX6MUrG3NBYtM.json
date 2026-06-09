@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Paul Simonon",
+          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226328,
+      "name": "Casablanca (feat. Paul Simonon and Johnny Marr)",
+      "url": "https://open.spotify.com/track/4PjP7VfSAPxyt2TprUpALA"
+    },
+    {
+      "album": {
         "name": "catch these fists",
         "url": "https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496"
       },
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
@@ -3065,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Slow Death Of A Good Girl",
+        "url": "https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287238,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -3397,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4Cx63F8wnPWtYuWCckeXal"
+      },
+      "artists": [
+        {
+          "name": "Honey I'm Home",
+          "url": "https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF"
+    },
+    {
+      "album": {
         "name": "TASTE",
         "url": "https://open.spotify.com/album/5y1uvx7D6w53va4miNpuNy"
       },
@@ -3552,7 +3614,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 236229,
       "name": "Reflections Of Lessons Left",
       "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
@@ -3924,7 +3986,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157910,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY"

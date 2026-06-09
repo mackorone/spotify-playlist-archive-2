@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 691170,
+  "num_followers": 691208,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABVMm6YncFU483Vjx6rkPNt",
+  "snapshot_id": "aiS0gAAAAABe4ogq7Tuh3Ad3mVCxRwyE",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 243240,
-      "name": "Divinize",
-      "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
+      "duration_ms": 194813,
+      "name": "Magnolias",
+      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 182657,
-      "name": "BAGDAD - Cap.7: Liturgia",
-      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+      "duration_ms": 182657,
+      "name": "BAGDAD - Cap.7: Liturgia",
+      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": null,

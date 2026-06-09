@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 191 | [Hard to Get](https://open.spotify.com/track/0NgdFOmr56bRwXxt5dJSTk) | [Runaway Angel](https://open.spotify.com/artist/7uBdWuUee67V5BFxF4jwFw) | [Zero](https://open.spotify.com/album/6m33gNlty6hNuXGs0XqoNe) | 2:47 |
 | 192 | [Love Someone](https://open.spotify.com/track/4cKLbe0RxfMFsi3EzCU03X) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I'm Ready](https://open.spotify.com/album/7JKnJRhigNYvS1VIxiIf40) | 4:56 |
 | 193 | [Scares Me More](https://open.spotify.com/track/4l8Xiv0TMpmNRMwNXcHjfa) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Half The Story](https://open.spotify.com/album/7tRgVDhL6xVKvyyYvORp8O) | 3:37 |
-| 194 | [Lately](https://open.spotify.com/track/5k54dKjmXxwsNeZMMlhEAJ) | [Conscious Tone](https://open.spotify.com/artist/6DQg5pGAhuLIIVrPRPLoNO) | [Thoughts](https://open.spotify.com/album/5CMCpSbvDTesUjn80fvVFD) | 2:38 |
-| 195 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 194 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 195 | [Lately](https://open.spotify.com/track/5k54dKjmXxwsNeZMMlhEAJ) | [Conscious Tone](https://open.spotify.com/artist/6DQg5pGAhuLIIVrPRPLoNO) | [Thoughts](https://open.spotify.com/album/5CMCpSbvDTesUjn80fvVFD) | 2:38 |
 | 196 | [Living Proof](https://open.spotify.com/track/2CDg1Tmj5qsdvA7tJzORkm) | [Kristen Merlin](https://open.spotify.com/artist/4erQOBtz2mUtLXtcsRcvjy) | [Humans Being](https://open.spotify.com/album/7F4O0JUyAoPDuFS94YBPAo) | 3:34 |
 | 197 | [Right Where You Left It](https://open.spotify.com/track/1wboStbCbokseuqzBfjVzz) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [The Famine and the Feast](https://open.spotify.com/album/5lDe9pedBMqihBPmrupQtr) | 3:06 |
 | 198 | [Scared Enough](https://open.spotify.com/track/4oIFK69GlRvGCGp0WTaKQo) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 3:05 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcTnXAAAAAAm2KeO4sQ8YOZq87D4qyDT`
+Snapshot ID: `AcTs/AAAAAC94LnpJ3kH8h5gfYEgoFs7`

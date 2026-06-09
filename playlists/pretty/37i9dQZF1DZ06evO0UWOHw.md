@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,087 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,100 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 10 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 |
 | 11 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH) | 3:25 |
 | 12 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
-| 13 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
-| 14 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
+| 13 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
+| 14 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
 | 15 | [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 |
 | 16 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 |
 | 17 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 |
 | 50 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
 
-Snapshot ID: `aiNjAAAAAADxtDcZmi81hZZRp5a+Ny92`
+Snapshot ID: `aiS0gAAAAAArmCq2zBGvxMSV3T7iyHJK`

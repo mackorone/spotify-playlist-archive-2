@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112933,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/6KYsJ34pPITdHrCoq27nGn"
+    },
+    {
+      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -316,7 +338,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 275000,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr"

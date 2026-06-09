@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 51664,
+  "num_followers": 51674,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAA+goi/o6MwBmrTuCyE92Wb",
+  "snapshot_id": "aiS0gAAAAAD7iVwQk949ZiibFI1bBEQv",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+      "duration_ms": 188885,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 188885,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
     },
     {
       "added_at": null,

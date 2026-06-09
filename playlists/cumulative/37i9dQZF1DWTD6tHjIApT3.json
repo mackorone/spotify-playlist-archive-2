@@ -18081,6 +18081,24 @@
     },
     {
       "album": {
+        "name": "JUNK AND PONG",
+        "url": "https://open.spotify.com/album/3HCsFJeAe1CITHnDGFSMrv"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "JUNK AND PONG",
+      "url": "https://open.spotify.com/track/1RldTd12veBTWh0yekCIru"
+    },
+    {
+      "album": {
         "name": "Not Unusual",
         "url": "https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB"
       },
@@ -64342,7 +64360,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 232652,
       "name": "\u685c\u307f\u305f\u3044\u306a\u604b\u306a\u3093\u3060",
       "url": "https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W"

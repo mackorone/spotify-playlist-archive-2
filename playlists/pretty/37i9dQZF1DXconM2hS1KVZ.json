@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 429156,
+  "num_followers": 429192,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -735,18 +735,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
       "artists": [
         {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
         }
       ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -775,22 +779,18 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
         }
       ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2025-07-08 16:22:28",

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 169404,
+  "num_followers": 169451,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Bagaimana Kabarmu?",
-        "url": "https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq"
-      },
-      "artists": [
-        {
-          "name": "Awdella",
-          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
-        }
-      ],
-      "duration_ms": 265361,
-      "name": "Bagaimana Kabarmu?",
-      "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Musnah",
         "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Bagaimana Kabarmu?",
+        "url": "https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "duration_ms": 265361,
+      "name": "Bagaimana Kabarmu?",
+      "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
     },
     {
       "added_at": "2026-02-20 05:28:17",

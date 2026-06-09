@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,114 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,144 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 30 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 |
 | 31 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 32 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
-| 33 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 |
-| 34 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
+| 33 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
+| 34 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 |
 | 35 | [Sex \- Radio Edit](https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM) | 3:48 |
 | 36 | [Cool](https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Roy English](https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:41 |
 | 37 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |

@@ -2413,6 +2413,32 @@
     },
     {
       "album": {
+        "name": "Alta Classe",
+        "url": "https://open.spotify.com/album/4Cbr2EKL50PekZuCvHxgSt"
+      },
+      "artists": [
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "APEE",
+          "url": "https://open.spotify.com/artist/1kbmSvYaLCeWwcYffCmLrX"
+        },
+        {
+          "name": "TELES",
+          "url": "https://open.spotify.com/artist/43uWxlG2DwSgvfyUz8ndgR"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Alta Classe",
+      "url": "https://open.spotify.com/track/6eOasVT0ewzoskCGRxP1N9"
+    },
+    {
+      "album": {
         "name": "Alta Escala",
         "url": "https://open.spotify.com/album/4osgYcCeUIIXzcJUyfYPUY"
       },
@@ -4788,7 +4814,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 146091,
       "name": "Bandido Chique",
       "url": "https://open.spotify.com/track/6nOUDjBuY0ksamZIHBo0Rz"

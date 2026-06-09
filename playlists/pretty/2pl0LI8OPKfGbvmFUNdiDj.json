@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 901,
+  "num_followers": 904,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD5ttS9DTMm7DNAH/G8gg/cG9lA6dE",
+  "snapshot_id": "AAAD6SSgWjR3TcDFjJZpN//kec+qQPy+",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1251,6 +1251,54 @@
       "duration_ms": 234529,
       "name": "Would Be Better",
       "url": "https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU"
+    },
+    {
+      "added_at": "2026-06-08 20:42:00",
+      "album": {
+        "name": "Deep Resting",
+        "url": "https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve"
+      },
+      "artists": [
+        {
+          "name": "Granon",
+          "url": "https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Deep Resting",
+      "url": "https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS"
+    },
+    {
+      "added_at": "2026-06-08 20:42:45",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr"
+      },
+      "artists": [
+        {
+          "name": "Edgeline",
+          "url": "https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB"
+        }
+      ],
+      "duration_ms": 202099,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu"
+    },
+    {
+      "added_at": "2026-06-08 20:56:57",
+      "album": {
+        "name": "Caral",
+        "url": "https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd"
+      },
+      "artists": [
+        {
+          "name": "LYSERIUS",
+          "url": "https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp"
+        }
+      ],
+      "duration_ms": 498000,
+      "name": "Caral",
+      "url": "https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Jorja Smith",
-  "num_followers": 3591,
+  "num_followers": 3612,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1081,20 +1081,20 @@
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
     },
     {
-      "added_at": "2026-01-09 18:34:46",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2025-06-06 05:47:14",
@@ -1113,20 +1113,20 @@
       "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2026-01-09 18:34:46",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2025-09-05 04:00:27",
@@ -2113,26 +2113,6 @@
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
     },
     {
-      "added_at": "2026-04-10 06:38:13",
-      "album": {
-        "name": "Back and Forth (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 214757,
-      "name": "Back and Forth (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
-    },
-    {
       "added_at": "2025-05-09 04:00:22",
       "album": {
         "name": "The Only Love We Know",
@@ -2163,6 +2143,26 @@
       "duration_ms": 198095,
       "name": "Changes",
       "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
+    },
+    {
+      "added_at": "2026-04-10 06:38:13",
+      "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": "2026-02-20 18:30:52",
@@ -2213,6 +2213,22 @@
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
@@ -2253,22 +2269,6 @@
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
-    },
-    {
       "added_at": "2025-09-19 05:34:59",
       "album": {
         "name": "AM I THE DRAMA?",
@@ -2307,6 +2307,26 @@
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
       "added_at": "2026-02-01 02:45:05",
@@ -2365,26 +2385,6 @@
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Bad For You (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
-    },
-    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "Up Out & Gone",
@@ -2399,26 +2399,6 @@
       "duration_ms": 176666,
       "name": "Up Out & Gone",
       "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
-    },
-    {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "Pretty Promises, (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2439,6 +2419,26 @@
       "duration_ms": 143037,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "added_at": "2025-12-12 05:00:46",
@@ -2489,22 +2489,6 @@
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 136260,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
-    },
-    {
       "added_at": "2025-04-18 05:38:39",
       "album": {
         "name": "5ive",
@@ -2523,6 +2507,22 @@
       "duration_ms": 189071,
       "name": "Offa Me (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2577,30 +2577,6 @@
       "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
     },
     {
-      "added_at": "2026-02-01 02:45:05",
-      "album": {
-        "name": "I Did This To Myself",
-        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "I Did This To Myself",
-      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
-    },
-    {
       "added_at": "2025-10-17 05:35:16",
       "album": {
         "name": "SAN ANDREAS",
@@ -2631,6 +2607,30 @@
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2026-02-01 02:45:05",
+      "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2689,20 +2689,20 @@
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
-      "added_at": "2025-12-12 05:00:46",
+      "added_at": "2025-04-25 06:51:06",
       "album": {
-        "name": "Access All Areas: Unlocked",
-        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+        "name": "Why Not More?",
+        "url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 223275,
-      "name": "Recently Deleted",
-      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
+      "duration_ms": 267833,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
     }
   ],
   "unique_name": "Channel-X",

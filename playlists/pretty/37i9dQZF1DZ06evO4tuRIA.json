@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 104849,
+  "num_followers": 104874,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAsO+Ci1c+hXeLVUgrGt8xR",
+  "snapshot_id": "aiS0gAAAAABvmTlJd8wGZpEpNoejZTsX",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARBAS",
-        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "BARBAS",
-      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 191688,
       "name": "La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BARBAS",
+        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "BARBAS",
+      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 149624,
       "name": "El Disney",
       "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/3DB3UnoTiVpV18ZTb8VgzL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Death Cab for Cutie
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,766 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,859 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 77 | [Mr\. Alligator](https://open.spotify.com/track/18EnWZ9wTjszmJjI3BgCuL) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Mr\. Alligator](https://open.spotify.com/album/1VfzgIuIeY3f3jG4t8Qydp) | 4:25 |
 | 78 | [Hold Up, Say What?](https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [House Of Mirrors](https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi) | 4:04 |
 | 79 | [Passing Through](https://open.spotify.com/track/3G2XKfUqiTDlazLOJSXReX) | [High June](https://open.spotify.com/artist/3i1A5Z9zQQApPx49tr0B2f) | [Passing Through](https://open.spotify.com/album/5NzNlFEHYdo6EOmjmHsz0n) | 3:31 |
-| 80 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 80 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 81 | [I'm Up, I'm Up](https://open.spotify.com/track/4upyTJHHcg6JiRrryaL63p) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Down On Earth](https://open.spotify.com/album/0ZFmlWgygmNkqn01heNfqq) | 4:34 |
 | 82 | [Round Of Applause At The End Of The World](https://open.spotify.com/track/1mjtX4af3hbvz8TsM4Eium) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Round Of Applause At The End Of The World](https://open.spotify.com/album/4wkbJo8MVSZJPSmT47pYSb) | 4:27 |
 | 83 | [Don’t Lie](https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Don't Lie](https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI) | 2:58 |

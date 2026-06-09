@@ -1545,6 +1545,32 @@
     },
     {
       "album": {
+        "name": "Chinuku Sadiga Cheragaa (From \"Gulliver\")",
+        "url": "https://open.spotify.com/album/7waddWXA3LTJcKFguDDKxS"
+      },
+      "artists": [
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Ganti Murali",
+          "url": "https://open.spotify.com/artist/41ZNefZcD3ZUn0GPVd4W3Z"
+        },
+        {
+          "name": "Raja Tabla",
+          "url": "https://open.spotify.com/artist/7BgjzIGzycjLIjq06cHLnv"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273785,
+      "name": "Chinuku Sadiga Cheragaa (From \"Gulliver\")",
+      "url": "https://open.spotify.com/track/01EE3vxbrySwrrdDRJVJuq"
+    },
+    {
+      "album": {
         "name": "Choodu Choodu (Side A) (From \"Godari Gattupaina\")",
         "url": "https://open.spotify.com/album/4xNtTdOiSM6NvAdMBhQAyF"
       },

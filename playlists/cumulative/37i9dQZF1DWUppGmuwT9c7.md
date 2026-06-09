@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-175 songs - 8 hr 23 min
+176 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/album/1f4OPOd7un2KA8WPLccIXe) | 3:09 | 2025-07-14 | 2025-09-05 |
 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 | 2025-07-14 | 2026-05-15 |
 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 | 2025-07-14 |  |
+| [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 | 2026-06-08 |  |
 | [Zaterdagavond](https://open.spotify.com/track/6e9KR7tB8z7yexkKgIMyLg) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Zaterdagavond](https://open.spotify.com/album/2eNXac4cpZGTItgobeBcub) | 2:50 | 2025-07-14 | 2026-03-24 |
 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 | 2025-07-14 |  |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx) | 2:32 | 2025-11-26 |  |

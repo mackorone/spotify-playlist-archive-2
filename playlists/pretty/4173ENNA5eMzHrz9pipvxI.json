@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: HEDEGAARD, MOGUAI, Brandon Beal ",
-  "num_followers": 118255,
+  "num_followers": 118253,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhnf8uEnEcJd39CFIeiEL7w3umwyfk",
+  "snapshot_id": "AAAhnrxBDwTQyGN7Dkus9YN/k38knD7u",
   "tracks": [
+    {
+      "added_at": "2026-06-08 13:59:00",
+      "album": {
+        "name": "Melissa I'm Drunk And Outside",
+        "url": "https://open.spotify.com/album/7GmXYIFfByeWpiUXv5t6vn"
+      },
+      "artists": [
+        {
+          "name": "Jay Baptiste",
+          "url": "https://open.spotify.com/artist/71RgT2mhLUY2lxk8GF9YnU"
+        }
+      ],
+      "duration_ms": 99272,
+      "name": "Melissa I'm Drunk And Outside",
+      "url": "https://open.spotify.com/track/3uary9jAaYITd9tT7YkSU0"
+    },
     {
       "added_at": "2026-06-04 22:00:05",
       "album": {

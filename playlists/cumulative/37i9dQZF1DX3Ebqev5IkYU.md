@@ -4,7 +4,7 @@
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-290 songs - 14 hr 14 min
+291 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-08-28 | 2025-05-23 |
 | [Summer Of Love](https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer Of Love](https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU) | 2:03 | 2024-08-09 | 2024-09-11 |
 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 | 2023-09-15 | 2023-11-09 |
-| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 |  |
+| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 | 2026-06-09 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb) | 3:13 | 2025-10-10 | 2025-11-04 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-21 |  |
 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-03-19 |  |
@@ -278,6 +278,7 @@
 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 | 2024-05-01 | 2024-09-14 |
 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-07-21 | 2026-02-07 |
 | [Wenn Du Mich Vergisst](https://open.spotify.com/track/17MW8YPQtJFfEUaPOoaVOm) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Wenn Du Mich Vergisst](https://open.spotify.com/album/5fo93iWrWhTgRkaWQW0S3F) | 2:22 | 2023-07-21 | 2023-10-21 |
+| [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 | 2026-06-04 |  |
 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 | 2023-08-28 | 2025-01-11 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-26 | 2026-05-15 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2023-07-21 | 2023-08-29 |

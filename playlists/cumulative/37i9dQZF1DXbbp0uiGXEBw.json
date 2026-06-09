@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh t\u00e0i n\u0103ng c\u00e1c ngh\u1ec7 s\u0129 n\u1eef Vi\u1ec7t Nam. \u1ea2nh b\u00eca: Thi\u1ec1u B\u1ea3o Tr\u00e2m",
+  "description": "Th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh t\u00e0i n\u0103ng c\u00e1c ngh\u1ec7 s\u0129 n\u1eef Vi\u1ec7t Nam. \u1ea2nh b\u00eca: Changg",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -2820,6 +2820,32 @@
       "duration_ms": 170796,
       "name": "HER",
       "url": "https://open.spotify.com/track/5xDzB1RyS5ZihKraJkUKyi"
+    },
+    {
+      "album": {
+        "name": "Hi\u1ec3u L\u1ea7m",
+        "url": "https://open.spotify.com/album/6SdQBM4eckflfqKLKj3Aeo"
+      },
+      "artists": [
+        {
+          "name": "Changg",
+          "url": "https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        },
+        {
+          "name": "Lotdaynee",
+          "url": "https://open.spotify.com/artist/1nr1SdJw4IYn1p3FsIgJW6"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Hi\u1ec3u L\u1ea7m",
+      "url": "https://open.spotify.com/track/1gfhxiTqgHNw2md5x4uRxb"
     },
     {
       "album": {
@@ -6028,7 +6054,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 185002,
       "name": "See T\u00ecnh",
       "url": "https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt"

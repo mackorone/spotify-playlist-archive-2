@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 257657,
+  "num_followers": 257688,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Me Bebi Tu Recuerdo",
         "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 199720,
       "name": "Me Beb\u00ed Tu Recuerdo",
       "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -415,18 +399,34 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Rancheras",
         "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177466,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 130093,
       "name": "La basurita",
       "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
+      "duration_ms": 159333,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
+      "duration_ms": 169761,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+        "name": "El Envidioso",
+        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 185353,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/2ySfSVLeNYiUNfFs6lXw08"
+      "duration_ms": 191996,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Envidioso",
-        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 191996,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
+      "duration_ms": 185353,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/2ySfSVLeNYiUNfFs6lXw08"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
       "artists": [
         {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 208213,
-      "name": "Vengo A Verte",
-      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
+      "duration_ms": 202631,
+      "name": "Crei",
+      "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Crei",
-      "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
+      "duration_ms": 208213,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Amo del Imperio",
         "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 242013,
       "name": "Si Llego a Viejo",
       "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "El Adolorido",
-      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 131066,
       "name": "Cama de Piedra",
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "El Adolorido",
+      "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Triunfador",
-        "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
-      },
-      "artists": [
-        {
-          "name": "Juan Valentin",
-          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "Nom\u00e1s Por Tu Culpa",
-      "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
       },
@@ -1455,18 +1439,34 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+        "name": "El Triunfador",
+        "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Juan Valentin",
+          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
         }
       ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+      "duration_ms": 202071,
+      "name": "Nom\u00e1s Por Tu Culpa",
+      "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
+        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
-        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
       "artists": [
         {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 148160,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Ya Pa'que",
         "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 184000,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "\u00a1Qu\u00e9 Va!",
+      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "\u00a1Qu\u00e9 Va!",
-      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
         "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 114733,
       "name": "Ases y Tercia de Reyes",
       "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli"
     },
     {
       "added_at": "2024-07-11 01:00:12",

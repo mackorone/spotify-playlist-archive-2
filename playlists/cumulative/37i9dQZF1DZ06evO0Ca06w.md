@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-192 songs - 10 hr 1 min
+193 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,8 +137,9 @@
 | [Olilili](https://open.spotify.com/track/4uRAaQa7lIxCP3wb6eHuaM) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:35 | 2023-03-18 | 2024-02-28 |
 | [One More Dance](https://open.spotify.com/track/2rydsf04ClGFZwSwTLaFCk) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Charles Coleman](https://open.spotify.com/artist/1COLnRToRX7AxZGVj2Byjl) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:42 | 2024-03-18 | 2024-03-20 |
 | [One More Dance \- Live](https://open.spotify.com/track/3prwJlAVklCpIdi3d5Sks8) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Belafonte Returns to Carnegie Hall \(Live\)](https://open.spotify.com/album/59TtG0AABt1iFlISFx5Fv9) | 3:49 | 2022-12-12 | 2022-12-26 |
-| [Orlando](https://open.spotify.com/track/21OBfFkUlOs1geKIJpD0bd) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mama Africa](https://open.spotify.com/album/0XsFw9igbNCqxipU8Accm8) | 2:45 | 2024-12-01 |  |
+| [Orlando](https://open.spotify.com/track/21OBfFkUlOs1geKIJpD0bd) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mama Africa](https://open.spotify.com/album/0XsFw9igbNCqxipU8Accm8) | 2:45 | 2024-12-01 | 2026-06-09 |
 | [Orlando](https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mama Africa](https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi) | 2:45 | 2022-06-05 | 2024-11-18 |
+| [Orlando](https://open.spotify.com/track/5NGvRQeTi8zSws4R90E1tL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Click Song](https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB) | 2:46 | 2026-06-09 |  |
 | [Orlando](https://open.spotify.com/track/4isUhPHQte4HEuqOe9tNbl) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:44 | 2021-12-31 | 2022-06-04 |
 | [Owakho](https://open.spotify.com/track/7amH9rFV6MuE47dU0ujir4) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:40 | 2023-04-28 | 2023-07-26 |
 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:04 | 2021-12-28 |  |

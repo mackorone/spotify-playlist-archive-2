@@ -3707,6 +3707,32 @@
     },
     {
       "album": {
+        "name": "FIND YOU",
+        "url": "https://open.spotify.com/album/31r8uBQWXhEnofUpyDWaQ4"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        },
+        {
+          "name": "YG24",
+          "url": "https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6"
+        },
+        {
+          "name": "Ky Janea",
+          "url": "https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "FIND YOU",
+      "url": "https://open.spotify.com/track/1bQqM4z57AXQvptAfQhOC5"
+    },
+    {
+      "album": {
         "name": "FINESSE",
         "url": "https://open.spotify.com/album/5mqOOA4Udod2ISqV0eTtyK"
       },

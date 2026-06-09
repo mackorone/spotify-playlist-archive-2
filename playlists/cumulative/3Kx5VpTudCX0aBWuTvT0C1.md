@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-153 songs - 8 hr 54 min
+154 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Connect](https://open.spotify.com/track/5Ejd0C0OhTz57clPS2di36) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [Connect](https://open.spotify.com/album/5eQ7ZAG3nBgxd319KEdSKs) | 3:32 | 2025-11-03 | 2025-12-09 |
 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 | 2025-11-19 | 2026-03-15 |
 | [Dagon](https://open.spotify.com/track/5qC4oCURIwpw7bqKct0mJF) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [Dagon](https://open.spotify.com/album/370JHxkbnxHhsBl9SlANGk) | 3:31 | 2025-11-03 | 2025-12-09 |
+| [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 | 2026-06-08 |  |
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-16 | 2026-03-15 |
 | [Dime Hoy](https://open.spotify.com/track/2VbBUTrOTTtjEWtsUHpaCn) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:29 | 2026-04-28 |  |
 | [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 | 2025-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Sebuah perjalanan menyusuri setiap fase cinta melalui cerita dan lagu pilihan Idgitaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,921 likes - 48 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,907 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

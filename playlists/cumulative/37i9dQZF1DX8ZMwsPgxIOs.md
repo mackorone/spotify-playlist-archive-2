@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Juliet Fox
 
-643 songs - 1 day 22 hr 26 min
+644 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Deeper & Deeper \- Radio Edit](https://open.spotify.com/track/06ia1vF4owbnbO6DdJoQdI) | [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Deeper & Deeper](https://open.spotify.com/album/6loqvTe8wWiLOPD9KknNSE) | 4:05 | 2024-07-03 | 2025-06-21 |
 | [denver luna](https://open.spotify.com/track/6zNvFsA2rwXrBxq8AZ8mXr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 8:01 | 2023-10-27 | 2024-04-12 |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-03-06 | 2024-10-25 |
+| [Desert Fever \- Edit](https://open.spotify.com/track/0zZiEpk8QQ73TbE8pBcb2o) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Desert Fever](https://open.spotify.com/album/0TyMKMqt6PsEipa1NEB16v) | 2:27 | 2026-06-08 |  |
 | [Desert Queen](https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Desert Queen](https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH) | 3:56 | 2023-10-27 | 2024-05-17 |
 | [Desolate Lands](https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Desolate Lands](https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc) | 4:18 | 2025-06-20 |  |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-24 | 2024-04-05 |

@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 328117,
+  "num_followers": 328145,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "\u00cd\u00f1igo Quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "\u00cd\u00f1igo Quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "added_at": "2026-02-27 06:00:32",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-02-27 06:00:32",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
         "name": "ella brilla",
         "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "PILATES",
-        "url": "https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "ARIA BELA",
-          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 164864,
-      "name": "PILATES",
-      "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2026-02-27 06:00:32",
@@ -1291,6 +1275,22 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
+        "name": "PILATES",
+        "url": "https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "duration_ms": 164864,
+      "name": "PILATES",
+      "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
     },
     {
       "added_at": "2026-02-27 06:00:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Una Playa En Nayarit",
-      "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 161373,
       "name": "PLATONIK",
       "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Una Playa En Nayarit",
+      "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
     },
     {
       "added_at": "2026-02-27 06:00:32",

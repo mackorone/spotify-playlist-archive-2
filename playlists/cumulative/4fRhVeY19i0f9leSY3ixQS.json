@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 214545,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/0ceiBTn9Mb3wFnzgJ9inXZ"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 140727,
       "name": "Container 12",
       "url": "https://open.spotify.com/track/1VVyqgqXGXfiEvAOtyw2yU"
@@ -16926,6 +16926,24 @@
       "duration_ms": 269683,
       "name": "New England",
       "url": "https://open.spotify.com/track/5MFC7AFTAhVbvaSGOnkLxG"
+    },
+    {
+      "album": {
+        "name": "New Times",
+        "url": "https://open.spotify.com/album/5Leen2t1D1hc2xSEQks9z2"
+      },
+      "artists": [
+        {
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/6gk0Hqm1fZqEGpv2JOtb2T"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147624,
+      "name": "New Times",
+      "url": "https://open.spotify.com/track/6ACRL3MhmEDkAi0EUGz2QH"
     },
     {
       "album": {
@@ -29760,6 +29778,24 @@
       "duration_ms": 114481,
       "name": "\u043d\u0435\u0442 \u043c\u0435\u043d\u044f",
       "url": "https://open.spotify.com/track/2HUSfUyx3q72TmKlItjRkj"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043b\u0435\u0442\u043d\u0438\u0439 \u0434\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/2zo6NXfqHenFKSSnrePYEV"
+      },
+      "artists": [
+        {
+          "name": "DASAEV",
+          "url": "https://open.spotify.com/artist/3Q0rsu9CNiT5tRwnvj2jA6"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285569,
+      "name": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043b\u0435\u0442\u043d\u0438\u0439 \u0434\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2Dpa3CEzE81ONqx94ApFZ2"
     },
     {
       "album": {

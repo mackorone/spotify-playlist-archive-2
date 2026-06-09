@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: corto.alto
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,809 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,821 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 18 | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww) | 4:41 |
 | 19 | [Under Attack](https://open.spotify.com/track/15Mv73RoYdnrmdVQaCb59e) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [As the Crows](https://open.spotify.com/album/18IODQIxo4nKpOQs5I0EkB) | 3:35 |
 | 20 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 |
-| 21 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
-| 22 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 |
+| 21 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 |
+| 22 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 23 | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Minami Kizuki](https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29) | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/album/4Puq2ovCYPcoFX48C10h7u) | 5:24 |
 | 24 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 |
 | 25 | [You can count on me.](https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [You can count on me.](https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5) | 2:13 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 37 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
 | 38 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 |
 | 39 | [I Have A God \(feat\. Zara McFarlane\) \(Live at the Royal Albert Hall\)](https://open.spotify.com/track/379elayI3tNRn65G2gghlN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Chapter 7 \(10th Anniversary Edition\)](https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk) | 3:57 |
-| 40 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
+| 40 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
 | 41 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 |
-| 42 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
+| 42 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 | 43 | [K2 Central](https://open.spotify.com/track/2RQMFM55u8M21CQa3M0OzW) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [K2 Central](https://open.spotify.com/album/0mrnKzGjUoAi1tfCgsH45i) | 4:24 |
 | 44 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
 | 45 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 68 | [ISA](https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [ISA](https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF) | 3:48 |
 | 69 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
 | 70 | [All Time \(feat\. Tawiah\)](https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [All Time \(feat\. Tawiah\)](https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip) | 3:48 |
-| 71 | [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 |
-| 72 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
-| 73 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
-| 74 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
-| 75 | [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 |
+| 71 | [nights in london](https://open.spotify.com/track/6rBOW3WmUDtVUFiQ8vKna0) | [David Kofi](https://open.spotify.com/artist/3FHJmeMHKSUj0t9cegVyx5) | [nights in london](https://open.spotify.com/album/2eA7p15qjmRVrjbsDMZTOz) | 3:39 |
+| 72 | [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 |
+| 73 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
+| 74 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 75 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
 
 Snapshot ID: `AAAAAOtebxdN9uGP7GSJClSt9r1y2m7Y`

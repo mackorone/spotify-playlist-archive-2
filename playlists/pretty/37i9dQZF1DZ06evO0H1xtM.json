@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 375138,
+  "num_followers": 375162,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABkNhGyamTNZHVL/CvdecbO",
+  "snapshot_id": "aiS0gAAAAAAFXxnW00S2qdcYKxrt0iWb",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186758,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186758,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mafiosa",
-        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 170237,
-      "name": "Mafiosa",
-      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mafiosa",
+        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 170237,
+      "name": "Mafiosa",
+      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Embrace all colours with your favourite anthems. \"Let's have a kiki!\"",
-  "num_followers": 39817,
+  "num_followers": 39812,
   "original_name": "Rainbow Mix",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "I Feel Love",
-        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 254453,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Future Nostalgia (The Moonlight Edition)",
-        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+        "name": "I Feel Love",
+        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
+      "duration_ms": 254453,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
     },
     {
       "added_at": "2025-06-20 09:42:39",

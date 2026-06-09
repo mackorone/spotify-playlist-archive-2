@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40585,
+  "num_followers": 40596,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAY2JHiRAmwBfCZ9A/QOAOo",
+  "snapshot_id": "aiS0gAAAAAAgYqoB4sIOfohbOV3EZKrA",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realms",
         "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 191617,
       "name": "Again - Remix",
       "url": "https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -915,6 +891,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 158933,
       "name": "Shotgun (feat. Wale)",
       "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 249271,
+      "name": "The Girls on Drugs",
+      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
@@ -991,26 +991,6 @@
       "duration_ms": 206693,
       "name": "Stories In Motion (with Wale)",
       "url": "https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Expectations (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE"
     },
     {
       "added_at": null,
@@ -1055,6 +1035,26 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Expectations (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/3oYod1daHuFMb2Z0FG79OE"
     }
   ],
   "unique_name": "This Is Wale",

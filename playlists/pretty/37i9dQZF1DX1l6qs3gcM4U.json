@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lupambo",
-  "num_followers": 246474,
+  "num_followers": 246503,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
         "name": "Porta",
         "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 168600,
       "name": "TU E A LUA",
       "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Otu Padaz",
-        "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 205301,
-      "name": "Otu Padaz",
-      "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
+        "name": "Otu Padaz",
+        "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 205301,
+      "name": "Otu Padaz",
+      "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
+        "name": "Hey Odja",
+        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Hey Odja",
+      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
-        "name": "Hey Odja",
-        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Hey Odja",
-      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "11\u00b0 Ano",
-        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1411,6 +1415,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
+        "name": "11\u00b0 Ano",
+        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
         "name": "Alta Seguran\u00e7a",
         "url": "https://open.spotify.com/album/6P3pnckKSDdFpyBp72HU2P"
       },
@@ -1443,42 +1463,6 @@
       "duration_ms": 218372,
       "name": "Noz Cantinh",
       "url": "https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "BTLV",
-        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
       "artists": [
         {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 163426,
-      "name": "Limbisa - Kriolu Version",
-      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+      "duration_ms": 163426,
+      "name": "Limbisa - Kriolu Version",
+      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1591,18 +1571,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
       "artists": [
         {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
         "name": "Viver Tudo Hoje",
         "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "\u00c9s S\u00f3 Tu",
-        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "\u00c9s S\u00f3 Tu",
-      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
-    },
-    {
-      "added_at": "2026-06-04 23:00:28",
-      "album": {
         "name": "Pa Qu\u00ea?",
         "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 176102,
       "name": "Pa Qu\u00ea?",
       "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
+    },
+    {
+      "added_at": "2026-06-04 23:00:28",
+      "album": {
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Di mas",
-        "url": "https://open.spotify.com/album/7EQM71CPGPJNCQzX6x1xfz"
+        "name": "Longe Daqui",
+        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 201071,
-      "name": "Di mas",
-      "url": "https://open.spotify.com/track/61dZ3ZcYj5ZmGjLhqlge3F"
+      "duration_ms": 214935,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
     },
     {
       "added_at": "2026-06-04 23:00:28",
@@ -1851,18 +1855,18 @@
     {
       "added_at": "2026-06-04 23:00:28",
       "album": {
-        "name": "Buqu\u00ea",
-        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+        "name": "Di mas",
+        "url": "https://open.spotify.com/album/7EQM71CPGPJNCQzX6x1xfz"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         }
       ],
-      "duration_ms": 211584,
-      "name": "Buqu\u00ea",
-      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
+      "duration_ms": 201071,
+      "name": "Di mas",
+      "url": "https://open.spotify.com/track/61dZ3ZcYj5ZmGjLhqlge3F"
     },
     {
       "added_at": "2026-06-04 23:00:28",

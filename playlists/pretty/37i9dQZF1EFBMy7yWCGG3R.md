@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 191 | [Skateboard](https://open.spotify.com/track/6b3cVicCSkCuzVdxXgklHT) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Skateboard](https://open.spotify.com/album/3LvC9rVWWKoTwC2bmTIrz0) | 2:54 |
 | 192 | [Keep Talking \(feat\. Julia Michaels\)](https://open.spotify.com/track/6ATnRclamgZgq5lx5m566f) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:33 |
 | 193 | [Good Place](https://open.spotify.com/track/0crpkZIFDIReoI3eSjhdh9) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:04 |
-| 194 | [Rare](https://open.spotify.com/track/5p0G2rkk5rQODeWyP6Mlx3) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:55 |
-| 195 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 194 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 195 | [Rare](https://open.spotify.com/track/5p0G2rkk5rQODeWyP6Mlx3) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:55 |
 | 196 | [Preacher](https://open.spotify.com/track/2maL3doGPlzMJxvkglaJ6K) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:26 |
 | 197 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 |
 | 198 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 276 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 277 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcTnXAAAAACI9iUf8z8PdNq0flSRdSrM`
+Snapshot ID: `AcTs/AAAAAAc32dMLN+pgRZ99uq/3L7R`

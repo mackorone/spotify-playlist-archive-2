@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Thoda Thoda Pyaar",
-  "num_followers": 130436,
+  "num_followers": 130463,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -515,30 +515,6 @@
     {
       "added_at": "2026-05-11 08:34:47",
       "album": {
-        "name": "Heer Ranjha",
-        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
-      },
-      "artists": [
-        {
-          "name": "Rito Riba",
-          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        },
-        {
-          "name": "Rana Sotal",
-          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
-        }
-      ],
-      "duration_ms": 223107,
-      "name": "Heer Ranjha",
-      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
-    },
-    {
-      "added_at": "2026-05-11 08:34:47",
-      "album": {
         "name": "Vaaste",
         "url": "https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 196043,
       "name": "Vaaste",
       "url": "https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3"
+    },
+    {
+      "added_at": "2026-05-11 08:34:47",
+      "album": {
+        "name": "Heer Ranjha",
+        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Heer Ranjha",
+      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
     },
     {
       "added_at": "2026-05-11 08:34:47",
@@ -703,30 +703,6 @@
     {
       "added_at": "2026-05-11 08:34:47",
       "album": {
-        "name": "RAINA",
-        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
-      },
-      "artists": [
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 217192,
-      "name": "RAINA",
-      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
-    },
-    {
-      "added_at": "2026-05-11 08:34:47",
-      "album": {
         "name": "Chandni",
         "url": "https://open.spotify.com/album/4NoXfpBsI0EbAgYk3hLNav"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 248048,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/0t8qUG81HRAzlCpftm8Hlk"
+    },
+    {
+      "added_at": "2026-05-11 08:34:47",
+      "album": {
+        "name": "RAINA",
+        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 217192,
+      "name": "RAINA",
+      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
     },
     {
       "added_at": "2026-05-11 08:34:47",

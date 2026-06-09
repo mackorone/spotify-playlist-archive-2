@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 31658,
+  "num_followers": 31662,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-05-26 15:00:43",
       "album": {
-        "name": "STARRING",
-        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Theater",
-      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
       "added_at": "2026-05-26 15:00:43",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-05-26 15:00:43",
       "album": {
-        "name": "\u9752\u306e\u3059\u307f\u304b",
-        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 196466,
-      "name": "\u9752\u306e\u3059\u307f\u304b",
-      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2026-05-26 15:00:43",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-05-26 15:00:43",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+        "name": "STARRING",
+        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
         }
       ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+      "duration_ms": 200226,
+      "name": "Theater",
+      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
     },
     {
       "added_at": "2026-05-26 15:00:43",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-26 15:00:43",
       "album": {
-        "name": "Breezy Love",
-        "url": "https://open.spotify.com/album/3ZtlNvCGTQgyg76AgYQ7Kh"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Breezy Love",
-      "url": "https://open.spotify.com/track/0sty8aSXM7llsVgtEx6B9E"
-    },
-    {
-      "added_at": "2026-05-26 15:00:43",
-      "album": {
         "name": "Mela!",
         "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+    },
+    {
+      "added_at": "2026-05-26 15:00:43",
+      "album": {
+        "name": "Breezy Love",
+        "url": "https://open.spotify.com/album/3ZtlNvCGTQgyg76AgYQ7Kh"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Breezy Love",
+      "url": "https://open.spotify.com/track/0sty8aSXM7llsVgtEx6B9E"
     },
     {
       "added_at": "2026-05-26 15:00:43",

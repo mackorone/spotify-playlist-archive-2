@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 180506,
       "name": "A Bag Of Marbles",
       "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Blueprints For Future Homes",
       "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 252840,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/4sQxNFf3XDrrO3FVasXR5X"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 255306,
       "name": "Pallbearer",
       "url": "https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd"
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 191657,
       "name": "Separate",
       "url": "https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 229800,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 204773,
       "name": "Sound Of Reason",
       "url": "https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0"
@@ -4244,7 +4244,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 321880,
       "name": "The Failsafe",
       "url": "https://open.spotify.com/track/351zpwVFbFPnauP3OSmq3e"
@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
@@ -4957,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "The Triptych",
+        "url": "https://open.spotify.com/album/54NaU8IeUjynBFhhOS9bSl"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258640,
+      "name": "Undying",
+      "url": "https://open.spotify.com/track/73XHmCZnkJiakC5ivKwToG"
+    },
+    {
+      "album": {
         "name": "Messengers",
         "url": "https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB"
       },
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -5310,7 +5328,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 203560,
       "name": "Willing",
       "url": "https://open.spotify.com/track/56dzDWTacfqClb0vb5apox"
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 273186,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/1ziXjK2iZD3C4KShIJtQVF"

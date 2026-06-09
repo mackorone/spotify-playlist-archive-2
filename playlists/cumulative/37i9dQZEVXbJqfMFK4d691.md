@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-1,131 songs - 2 day 14 hr 3 min
+1,132 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Con la misma moneda](https://open.spotify.com/track/4K8GLBcaZgo2HM5n8nW4M6) | [Sangre Cumbiera](https://open.spotify.com/artist/01LbKSyRULsGSMNafaCCkD) | [Con la misma moneda](https://open.spotify.com/album/5BKClfbjFGaUoIgL9wOvgX) | 4:18 | 2025-09-28 | 2025-09-30 |
 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 | 2025-04-26 | 2025-10-01 |
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-21 | 2025-04-27 |
-| [Contacto Cero](https://open.spotify.com/track/7zNm10RSB0KhRtP9XhdsVK) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [David Soliz](https://open.spotify.com/artist/37furtvEyv5bePdtW1xmur) | [Contacto Cero](https://open.spotify.com/album/519rsr2RQ8SQBkAZgIbAFa) | 3:38 | 2025-01-02 |  |
+| [Contacto Cero](https://open.spotify.com/track/7zNm10RSB0KhRtP9XhdsVK) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [David Soliz](https://open.spotify.com/artist/37furtvEyv5bePdtW1xmur) | [Contacto Cero](https://open.spotify.com/album/519rsr2RQ8SQBkAZgIbAFa) | 3:38 | 2025-01-02 | 2026-06-09 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-07 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-03-17 |  |
 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 | 2025-08-07 | 2026-04-15 |
@@ -246,6 +246,7 @@
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-02-14 | 2023-02-18 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-11-21 | 2022-02-06 |
 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2026-01-02 |  |
+| [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 | 2026-06-08 |  |
 | [DE INMEDIATO](https://open.spotify.com/track/7zeycG8xQEr8JnAFI1IYUn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:13 | 2025-05-20 | 2025-05-22 |
 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-15 | 2026-04-28 |
 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 | 2026-06-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,001 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,010 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 74 | [Silence](https://open.spotify.com/track/56KHcZ1DEkj3ixRCoxOean) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [Silence](https://open.spotify.com/album/439nkD5urLMoeNQfkIEEYx) | 2:20 |
 | 75 | [taste like candlesticks](https://open.spotify.com/track/2TT0XKIWFIYNCLGscnwxcp) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [It's just a fantasy...](https://open.spotify.com/album/4UzqTezEZpRr7WBdyRkjIF) | 2:20 |
 
-Snapshot ID: `AAAAACr/YNDLqWXl7ponsk5YEHYktOoP`
+Snapshot ID: `AAAAAGkAXHTgU0pbteyWvhV9IoGrcxH+`

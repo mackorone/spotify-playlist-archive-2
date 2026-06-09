@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "SOGNI SPORCHI",
+      "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
+    },
+    {
+      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
       },

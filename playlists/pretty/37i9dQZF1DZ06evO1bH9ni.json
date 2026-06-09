@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 352916,
+  "num_followers": 352947,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAALiw7R1zLGXiSjKS5SZHwt",
+  "snapshot_id": "aiS0gAAAAACMz150N+6S/nZ4gAvfOcES",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Derrito",
-        "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 170016,
-      "name": "Me Derrito",
-      "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 146233,
       "name": "No Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Derrito",
+        "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 170016,
+      "name": "Me Derrito",
+      "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
     },
     {
       "added_at": null,
@@ -775,38 +775,6 @@
       "duration_ms": 209902,
       "name": "Juan Ramos",
       "url": "https://open.spotify.com/track/5DaHWTMnknoAXAN5Q8y2IA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "Home Run",
-      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 166038,
-      "name": "En Fin",
-      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
     },
     {
       "added_at": null,
@@ -851,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Jefe",
-        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
@@ -860,9 +828,25 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 214785,
-      "name": "Mi Jefe",
-      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
+      "duration_ms": 166038,
+      "name": "En Fin",
+      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 261197,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3zit24OlxsW8Z3pYl55WF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Jefe",
+        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 214785,
+      "name": "Mi Jefe",
+      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

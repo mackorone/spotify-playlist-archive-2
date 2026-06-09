@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,331 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,351 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 25 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
 | 26 | [When You Love Me](https://open.spotify.com/track/6D4TwT0ObxCojXj0TMGTZu) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V) | [When You Love Me](https://open.spotify.com/album/5AigHrexTX5dQI9RbNlwQx) | 4:34 |
 | 27 | [Good Old Days](https://open.spotify.com/track/71vYsb21Gqu5G9DxeFwxqF) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD), [Morty](https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD) | [Good Old Days](https://open.spotify.com/album/3eEzlfcJ53RQkypWuD4z2G) | 3:03 |
-| 28 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
+| 28 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
 | 29 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
-| 30 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
+| 30 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
 | 31 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 32 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 33 | [Visions](https://open.spotify.com/track/1cUMjhHLPqZv7JVepLWx0I) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Visions](https://open.spotify.com/album/2eUc1a27dfnotXM45YipvI) | 4:12 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 38 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
 | 39 | [Lawyer](https://open.spotify.com/track/56a2UyKtYKnHdKMPPPiAUR) | [Nixxy Rain](https://open.spotify.com/artist/4ZA9DE9Ka4DztcpHkiRaTf) | [Lawyer](https://open.spotify.com/album/5uy7TxhgdEPQFWAJs9eARR) | 4:17 |
 | 40 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
-| 41 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
-| 42 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
+| 41 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
+| 42 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
 | 43 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 | 44 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 45 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |

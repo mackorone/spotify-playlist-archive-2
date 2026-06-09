@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Alvaro Diaz",
-  "num_followers": 99848,
+  "num_followers": 99854,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "UNA NA MAS",
-        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 196256,
-      "name": "UNA NA MAS",
-      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "touch myself/idea of love",
         "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "Essex_Honey.mp3",
+        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 289075,
+      "name": "Essex_Honey.mp3",
+      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -231,22 +247,6 @@
       "duration_ms": 159308,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Essex_Honey.mp3",
-        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 289075,
-      "name": "Essex_Honey.mp3",
-      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/7gKMZSHTgUjLN32eMPFeXa"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Return To Bhibo",
         "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 157840,
       "name": "Return To Bhibo",
       "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/7gKMZSHTgUjLN32eMPFeXa"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
-        "name": "peque\u00f1ita!",
-        "url": "https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 159068,
-      "name": "peque\u00f1ita!",
-      "url": "https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
         "name": "Mad About It",
         "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 157008,
       "name": "Mad About It",
       "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
+        "name": "peque\u00f1ita!",
+        "url": "https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 159068,
+      "name": "peque\u00f1ita!",
+      "url": "https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209376,
       "name": "APPETITE",
       "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "Free Wheeling",
-        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 229592,
-      "name": "Free Wheeling",
-      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
     },
     {
       "added_at": "2026-06-01 05:00:24",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-06-01 05:00:24",
       "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+    },
+    {
+      "added_at": "2026-06-01 05:00:24",
+      "album": {
         "name": "So True",
         "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 184511,
       "name": "Sekete",
       "url": "https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU"
-    },
-    {
-      "added_at": "2026-06-01 05:00:24",
-      "album": {
-        "name": "JACKIE'S BACK",
-        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
-      },
-      "artists": [
-        {
-          "name": "ASHMOOR",
-          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "JACKIE'S BACK",
-      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
     },
     {
       "added_at": "2026-06-01 05:00:24",

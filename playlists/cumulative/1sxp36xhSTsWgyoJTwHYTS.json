@@ -2427,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/21sAlmHIKubDSlJUtLiFOM"
+      },
+      "artists": [
+        {
+          "name": "Bello",
+          "url": "https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "LIFE OUTRO",
+      "url": "https://open.spotify.com/track/6GysAib8wckSekIjT6OSUi"
+    },
+    {
+      "album": {
         "name": "Little Bo Peep II",
         "url": "https://open.spotify.com/album/7eNayLDhWReySWyHjurwBx"
       },

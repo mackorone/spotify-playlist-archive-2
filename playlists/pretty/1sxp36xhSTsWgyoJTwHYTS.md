@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 639 likes - 248 songs - 13 hr 17 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 639 likes - 249 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 246 | [Au clair de la dune](https://open.spotify.com/track/362JrOM6zGyzkMv5Fm7eBn) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Au clair de la dune](https://open.spotify.com/album/6VZlASTXypeYvkj1JcTcqI) | 3:20 |
 | 247 | [CASH](https://open.spotify.com/track/57DFVtIFBayTIVQa81v2Xq) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [CASH](https://open.spotify.com/album/62dr1xx8kCvC6y1wif90ui) | 1:35 |
 | 248 | [Mohnspark GT Lègendes](https://open.spotify.com/track/3glzeqMjuKzXkHLquQgqqW) | [KNRR33](https://open.spotify.com/artist/6fJ05FXmbwu3A2FdzGP1iM) | [Mohnspark GT Lègendes](https://open.spotify.com/album/0ThCU2o759233P6acNaXZx) | 3:04 |
+| 249 | [LIFE OUTRO](https://open.spotify.com/track/6GysAib8wckSekIjT6OSUi) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [LIFE](https://open.spotify.com/album/21sAlmHIKubDSlJUtLiFOM) | 2:32 |
 
-Snapshot ID: `AAABIVHQ9h+0P4BUpAcNts1eAVKomj6I`
+Snapshot ID: `AAABIuFDGiaTumbFmpKMLjJYHfBj+pJN`

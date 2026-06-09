@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133418,
+  "num_followers": 133441,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABDerLNwjVggMphx6XVLAnr",
+  "snapshot_id": "aiS0gAAAAABkkQ22aw6SEuEdOTbJjd6d",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        }
+      ],
+      "duration_ms": 214035,
+      "name": "Al Lado De Usted",
+      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mantis",
         "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 195892,
       "name": "Limonar",
       "url": "https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Branbel",
-          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
-        }
-      ],
-      "duration_ms": 214035,
-      "name": "Al Lado De Usted",
-      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curita Para El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
-      },
-      "artists": [
-        {
-          "name": "Zhamira ",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "c\u00f3mo fue? (feat. Greeicy)",
-      "url": "https://open.spotify.com/track/0XLyEDUC3dvXcwye9HqdkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CANDELA",
         "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 220709,
       "name": "No Era M\u00edo",
       "url": "https://open.spotify.com/track/78KCR6G6TGRfU0U2fxAwN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curita Para El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "c\u00f3mo fue? (feat. Greeicy)",
+      "url": "https://open.spotify.com/track/0XLyEDUC3dvXcwye9HqdkG"
     },
     {
       "added_at": null,

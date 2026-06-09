@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16672,
+  "num_followers": 16682,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Pailas Parcera",
-        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
-      },
-      "artists": [
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Pailas Parcera",
-      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Pailas Parcera",
+        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Pailas Parcera",
+      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Cuando Te Vi",
-        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 177115,
-      "name": "Cuando Te Vi",
-      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 281866,
       "name": "Fuego Que Te Llama",
       "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Cuando Te Vi",
+        "url": "https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 177115,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 211034,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
     },
     {
       "added_at": "2026-05-22 04:59:38",

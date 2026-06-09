@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: GUS, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,787 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

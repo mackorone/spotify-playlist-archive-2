@@ -1,15 +1,47 @@
 {
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Victor Kal., juli koli",
-  "num_followers": 105214,
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Ewa Farna",
+  "num_followers": 105209,
   "original_name": "Hot Hits \u010cesk\u00e1 republika",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA6XlE5kuxomI+48JVKT9MvtNKe3",
+  "snapshot_id": "AAAAAOgZogQic8WZzLQAEYMpXTO8KDbD",
   "tracks": [
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "PERPETUUM MOBILE",
+        "url": "https://open.spotify.com/album/2GYh5gz3RyRGgnoClFYJVm"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "PERPETUUM MOBILE",
+      "url": "https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "milujou m\u011b nen\u00e1vid\u011bt",
+        "url": "https://open.spotify.com/album/4OcYBZ9h21z4AwSCwPq9oF"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 185416,
+      "name": "milujou m\u011b nen\u00e1vid\u011bt",
+      "url": "https://open.spotify.com/track/5fFAq4UkUTb6dW2L7s6VWz"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "dva redbully",
         "url": "https://open.spotify.com/album/1PvsDrVAanQ9LB3hjPG4DT"
@@ -29,55 +61,7 @@
       "url": "https://open.spotify.com/track/6QHcEvmMbexKDKwLGZJxry"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "PERPETUUM MOBILE",
-        "url": "https://open.spotify.com/album/2GYh5gz3RyRGgnoClFYJVm"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "PERPETUUM MOBILE",
-      "url": "https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "TYPE BEAT / HIP THRUST",
-        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 100377,
-      "name": "HIP THRUST",
-      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "KENPACHI&YACHIRU",
-        "url": "https://open.spotify.com/album/4F49NM5dBpNSefoMUGxt00"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "KENPACHI&YACHIRU",
-      "url": "https://open.spotify.com/track/30rrpjqTLxgNVcyC3YqXLX"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Napoleon",
         "url": "https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo"
@@ -101,23 +85,7 @@
       "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "TYPE BEAT / HIP THRUST",
         "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
@@ -128,156 +96,12 @@
           "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         }
       ],
-      "duration_ms": 123076,
-      "name": "TYPE BEAT",
-      "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
+      "duration_ms": 100377,
+      "name": "HIP THRUST",
+      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "PORCEL\u00c1N",
-        "url": "https://open.spotify.com/album/6LegOnM8XnpsCy2C8vNzoo"
-      },
-      "artists": [
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        }
-      ],
-      "duration_ms": 189857,
-      "name": "PORCEL\u00c1N",
-      "url": "https://open.spotify.com/track/1WSurN3LITJ7udCeV5jlu4"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "KARAKORAM DLC",
-        "url": "https://open.spotify.com/album/119vGN06mULe4nDFonOOML"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "RAYMAN",
-      "url": "https://open.spotify.com/track/41AP7naWhEeGUzficbWMqd"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "v\u00edno",
-        "url": "https://open.spotify.com/album/5WeIbxAhk5h54QMsrZy1ny"
-      },
-      "artists": [
-        {
-          "name": "Victor Kal.",
-          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
-        },
-        {
-          "name": "Lajfr",
-          "url": "https://open.spotify.com/artist/5zeSPtcFxpJeejJjDPnkl1"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "v\u00edno",
-      "url": "https://open.spotify.com/track/2oQtEyxSIgJjEV943tK9VJ"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "\u010cERTO",
-        "url": "https://open.spotify.com/album/3sR1UCkciq3nIRPZNneutf"
-      },
-      "artists": [
-        {
-          "name": "Rytmus",
-          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
-        },
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "VOJNA",
-      "url": "https://open.spotify.com/track/2rAuYZI1iE5jnZpEcxbBbt"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "Majitel",
-        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        },
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Kdo??",
-      "url": "https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "CROSSROADS",
-        "url": "https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL"
-      },
-      "artists": [
-        {
-          "name": "Daniel \u017di\u017eka",
-          "url": "https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CROSSROADS",
-      "url": "https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -297,7 +121,183 @@
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "KENPACHI&YACHIRU",
+        "url": "https://open.spotify.com/album/4F49NM5dBpNSefoMUGxt00"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "KENPACHI&YACHIRU",
+      "url": "https://open.spotify.com/track/30rrpjqTLxgNVcyC3YqXLX"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "Smack One",
+        "url": "https://open.spotify.com/album/19JwtCPXtKOh7r2u6nfW5z"
+      },
+      "artists": [
+        {
+          "name": "Smack One",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "duration_ms": 201552,
+      "name": "Hardest",
+      "url": "https://open.spotify.com/track/3pJDGEv6H8tnGOyOYxMwhD"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 123076,
+      "name": "TYPE BEAT",
+      "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "PORCEL\u00c1N",
+        "url": "https://open.spotify.com/album/6LegOnM8XnpsCy2C8vNzoo"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "duration_ms": 189857,
+      "name": "PORCEL\u00c1N",
+      "url": "https://open.spotify.com/track/1WSurN3LITJ7udCeV5jlu4"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/119vGN06mULe4nDFonOOML"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 189088,
+      "name": "RAYMAN",
+      "url": "https://open.spotify.com/track/41AP7naWhEeGUzficbWMqd"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "v\u00edno",
+        "url": "https://open.spotify.com/album/5WeIbxAhk5h54QMsrZy1ny"
+      },
+      "artists": [
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "Lajfr",
+          "url": "https://open.spotify.com/artist/5zeSPtcFxpJeejJjDPnkl1"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "v\u00edno",
+      "url": "https://open.spotify.com/track/2oQtEyxSIgJjEV943tK9VJ"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "SUKUBA",
+        "url": "https://open.spotify.com/album/3zv7ZJXh8zv34gR1Av0pvs"
+      },
+      "artists": [
+        {
+          "name": "NAUME",
+          "url": "https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv"
+        },
+        {
+          "name": "ANAST\u00c1ZIE",
+          "url": "https://open.spotify.com/artist/65Fpk83fEyrfdMnuqMyyzl"
+        }
+      ],
+      "duration_ms": 159559,
+      "name": "Dial",
+      "url": "https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Kdo??",
+      "url": "https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "PODIVEJ MAMA",
-        "url": "https://open.spotify.com/album/4rucUavQ3UF5aqIoY4CwT6"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 163943,
-      "name": "PODIVEJ MAMA",
-      "url": "https://open.spotify.com/track/2s6HALw9KVn5vHxLDD7KuQ"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Talk2me",
         "url": "https://open.spotify.com/album/62Z3vJCF0GS2kNZ4ZMKzDe"
@@ -365,7 +349,7 @@
       "url": "https://open.spotify.com/track/0CwxocC7t7mjqvswm7TuQp"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Stovky let",
         "url": "https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W"
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "PERFECT TRIP",
         "url": "https://open.spotify.com/album/3tJDsazasWfmmKL6yamI3z"
@@ -417,7 +401,7 @@
       "url": "https://open.spotify.com/track/6lcDV507PWKokm2WGStAX8"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP"
@@ -433,7 +417,7 @@
       "url": "https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "A\u0165 je klid",
         "url": "https://open.spotify.com/album/6P6f3ThMW0xwWW1C4OsjCI"
@@ -453,7 +437,23 @@
       "url": "https://open.spotify.com/track/43iLUibjKqDJBq4rCGF49n"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "PODIVEJ MAMA",
+        "url": "https://open.spotify.com/album/4rucUavQ3UF5aqIoY4CwT6"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 163943,
+      "name": "PODIVEJ MAMA",
+      "url": "https://open.spotify.com/track/2s6HALw9KVn5vHxLDD7KuQ"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "NAV\u017dDYCKY BL\u00c1ZEN",
         "url": "https://open.spotify.com/album/0oNaM84SO3IYlkDwLypnRD"
@@ -477,27 +477,7 @@
       "url": "https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
@@ -513,7 +493,7 @@
       "url": "https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -533,7 +513,7 @@
       "url": "https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Nejsem S\u00e1m",
         "url": "https://open.spotify.com/album/4VvfcMJrtIzxqZDHA01odI"
@@ -557,7 +537,7 @@
       "url": "https://open.spotify.com/track/3cwu3bUIIVdGjmi5LoTrNz"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Vzpomene\u0161 si?",
         "url": "https://open.spotify.com/album/1rJPKCnQsKqGIwd3c0Q3QH"
@@ -577,7 +557,7 @@
       "url": "https://open.spotify.com/track/50JepWcN6dVYG4fkziswhO"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "ZA KATREM",
         "url": "https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN"
@@ -609,23 +589,7 @@
       "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "SI JE*LA",
         "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
@@ -641,7 +605,7 @@
       "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
@@ -657,7 +621,7 @@
       "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Woah",
         "url": "https://open.spotify.com/album/6Hfyf9kjaXHqdgmIZdtn6L"
@@ -673,7 +637,7 @@
       "url": "https://open.spotify.com/track/1HukU2OM3TeTPnZzWkLP5y"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
@@ -689,7 +653,7 @@
       "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -709,7 +673,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Zub za zub",
         "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
@@ -729,7 +693,27 @@
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -765,7 +749,7 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75"
@@ -781,7 +765,7 @@
       "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Singles & Specials",
         "url": "https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "HOMEMADE",
         "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
@@ -813,7 +797,7 @@
       "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -837,7 +821,7 @@
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "WAGWAN",
         "url": "https://open.spotify.com/album/5bMBiptclUjKLfEDRyBIna"
@@ -861,7 +845,7 @@
       "url": "https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -877,7 +861,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -893,7 +877,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
@@ -909,7 +893,7 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2026-05-25 12:47:00",
+      "added_at": "2026-06-08 14:18:09",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -923,6 +907,22 @@
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-06-08 14:18:09",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     }
   ],
   "unique_name": "Hot Hits \u010cesk\u00e1 republika",

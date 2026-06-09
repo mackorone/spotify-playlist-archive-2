@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28376,
+  "num_followers": 28384,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAB9uUBteJZN8ejffLgJRviM",
+  "snapshot_id": "aiS0gAAAAACEloZn7JFt+D/8z3wFqOOb",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Daddy",
-        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 242306,
       "name": "Piece of Wood and Steel",
       "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Daddy",
+        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Ain't Worth the Powder",
-      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197826,
       "name": "Drank My Wife Away",
       "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Ain't Worth the Powder",
+      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penitentiary Blues",
-        "url": "https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.A.C.",
         "url": "https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 150173,
       "name": "Whiskey, Whiskey (Take My Mind)",
       "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penitentiary Blues",
+        "url": "https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp"
     },
     {
       "added_at": null,

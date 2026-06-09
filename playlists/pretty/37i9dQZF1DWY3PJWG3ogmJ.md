@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,864 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,927 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 17 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |
 | 18 | [Scourge of Iron](https://open.spotify.com/track/6V3SNkvi4BnfmZU0j7s9TQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Torture](https://open.spotify.com/album/7AaZ6zhZXDKilXqsJ52g8b) | 4:44 |
 | 19 | [Redneck Stomp](https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Frozen In Time](https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh) | 3:32 |
-| 20 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
-| 21 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
+| 20 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
+| 21 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 22 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
 | 23 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 |
 | 24 | [Beyond the Pale](https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY) | 4:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 44 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 |
 | 45 | [Übermacht](https://open.spotify.com/track/3CNN8lGt2bMKWylhaNnR50) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth And Sacrifice](https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36) | 5:25 |
 | 46 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
-| 47 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
-| 48 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
+| 47 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
+| 48 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
 | 49 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
 | 50 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 |
 | 51 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 65 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 |
 | 66 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
 | 67 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
-| 68 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
-| 69 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
+| 68 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
+| 69 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
 | 70 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 |
 | 71 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 72 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
@@ -119,14 +119,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 109 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
 | 110 | [The Cavalry](https://open.spotify.com/track/2N30U6cJfBadNeLpGI2pjW) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [The Cavalry](https://open.spotify.com/album/7uHf3n8HA3BmLEAWAyCElZ) | 3:48 |
 | 111 | [Beyond the Tomb](https://open.spotify.com/track/0c2MVfLpCAQOts74o45rOb) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Beyond the Tomb](https://open.spotify.com/album/5RdSBcj60rNvo4SUdlUMqu) | 4:49 |
-| 112 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
-| 113 | [Frequency](https://open.spotify.com/track/5qWgw0V8qLbpwC6f9RvLn5) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Frequency](https://open.spotify.com/album/5iLEIidKMkTwbDxcb85B1i) | 3:08 |
+| 112 | [Frequency](https://open.spotify.com/track/5qWgw0V8qLbpwC6f9RvLn5) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Frequency](https://open.spotify.com/album/5iLEIidKMkTwbDxcb85B1i) | 3:08 |
+| 113 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
 | 114 | [Death from Above](https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV) | [Nothing Left](https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn) | [Disconnected](https://open.spotify.com/album/5svjN8DhfvgK6O8pmIYrT1) | 3:06 |
 | 115 | [Rot](https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Come, Heavy Breath](https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi) | 2:50 |
 | 116 | [Ultimate](https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Ultimate](https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO) | 2:31 |
 | 117 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 |
 | 118 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 |
-| 119 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |
-| 120 | [Hostage to the Empire](https://open.spotify.com/track/0rGYbGA2AdnCbHhB50eShj) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Hostage to the Empire](https://open.spotify.com/album/1KwrFz2iGDGIeXJN0FkWKt) | 4:16 |
+| 119 | [Inner Vision](https://open.spotify.com/track/2PPdSiyMUv0qAGvwrwfVYg) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Inner Vision](https://open.spotify.com/album/3jxe6ypHw4ZxPRJYxI7MFX) | 1:54 |
+| 120 | [Catalyst](https://open.spotify.com/track/4PZyMx0S5LQyi76JWOrXg0) | [Neaera](https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2) | [Catalyst](https://open.spotify.com/album/76eF2u3RYgAQuQOMJEaWCL) | 4:22 |
 
 Snapshot ID: `AAAAALnCt8IvOjEz3lNOdJxEqYHLxNFX`

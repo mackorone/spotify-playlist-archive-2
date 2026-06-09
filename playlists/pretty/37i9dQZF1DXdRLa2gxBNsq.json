@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116014,
+  "num_followers": 116025,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 159826,
-      "name": "Esclavos del Siglo XXI",
-      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -115,18 +115,18 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+      "duration_ms": 159826,
+      "name": "Esclavos del Siglo XXI",
+      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Perd\u00f3name, Madre",
-        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 246657,
-      "name": "Perd\u00f3name, Madre",
-      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Perd\u00f3name, Madre",
+        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 246657,
+      "name": "Perd\u00f3name, Madre",
+      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Mi Herencia",
-        "url": "https://open.spotify.com/album/3JH0qU8UH94Bq5JxH4KuNd"
-      },
-      "artists": [
-        {
-          "name": "Fatiga",
-          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Mi Herencia",
-      "url": "https://open.spotify.com/track/436MiHmo8eKY8NOFlYR8Wo"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Mi Herencia",
+        "url": "https://open.spotify.com/album/3JH0qU8UH94Bq5JxH4KuNd"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Mi Herencia",
+      "url": "https://open.spotify.com/track/436MiHmo8eKY8NOFlYR8Wo"
     },
     {
       "added_at": "2026-05-07 22:02:22",

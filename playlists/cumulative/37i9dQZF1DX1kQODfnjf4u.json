@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Victor Kal., juli koli",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Ewa Farna",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 180000,
       "name": "CROSSROADS",
       "url": "https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG"
@@ -788,6 +788,28 @@
       "duration_ms": 143805,
       "name": "Den a noc",
       "url": "https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7"
+    },
+    {
+      "album": {
+        "name": "SUKUBA",
+        "url": "https://open.spotify.com/album/3zv7ZJXh8zv34gR1Av0pvs"
+      },
+      "artists": [
+        {
+          "name": "NAUME",
+          "url": "https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv"
+        },
+        {
+          "name": "ANAST\u00c1ZIE",
+          "url": "https://open.spotify.com/artist/65Fpk83fEyrfdMnuqMyyzl"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159559,
+      "name": "Dial",
+      "url": "https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c"
     },
     {
       "album": {
@@ -1599,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Smack One",
+        "url": "https://open.spotify.com/album/19JwtCPXtKOh7r2u6nfW5z"
+      },
+      "artists": [
+        {
+          "name": "Smack One",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201552,
+      "name": "Hardest",
+      "url": "https://open.spotify.com/track/3pJDGEv6H8tnGOyOYxMwhD"
+    },
+    {
+      "album": {
         "name": "HAYABUSA",
         "url": "https://open.spotify.com/album/00s38ogQKB2FM7HhiTQTfz"
       },
@@ -2292,6 +2332,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "milujou m\u011b nen\u00e1vid\u011bt",
+        "url": "https://open.spotify.com/album/4OcYBZ9h21z4AwSCwPq9oF"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185416,
+      "name": "milujou m\u011b nen\u00e1vid\u011bt",
+      "url": "https://open.spotify.com/track/5fFAq4UkUTb6dW2L7s6VWz"
     },
     {
       "album": {
@@ -4264,7 +4322,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 222857,
       "name": "VOJNA",
       "url": "https://open.spotify.com/track/2rAuYZI1iE5jnZpEcxbBbt"

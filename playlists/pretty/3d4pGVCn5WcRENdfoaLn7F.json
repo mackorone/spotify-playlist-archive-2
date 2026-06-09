@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 707,
+  "num_followers": 718,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADlBQ4QN7sYbD5k+Q5PbH0ykUN0Qyb",
+  "snapshot_id": "AAADlpsswNKUxt3gkagxUbkvRe2P+Zcz",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1311,6 +1311,38 @@
       "duration_ms": 356000,
       "name": "Negana",
       "url": "https://open.spotify.com/track/119wfagYJPstMFSqvIevY9"
+    },
+    {
+      "added_at": "2026-06-09 00:43:14",
+      "album": {
+        "name": "The Family Secret",
+        "url": "https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "The Family Secret",
+      "url": "https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v"
+    },
+    {
+      "added_at": "2026-06-09 01:20:04",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 203765,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

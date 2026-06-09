@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35195,
+  "num_followers": 35219,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABxWXJUAHHJgn+k+J+2IKKM",
+  "snapshot_id": "aiS0gAAAAABzPg6s2UUI/brJ+UjaqAyS",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,34 @@
       "duration_ms": 250368,
       "name": "Medley Rel\u00edquia",
       "url": "https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "DJ 2K DO TAQUARIL",
+          "url": "https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 219403,
+      "name": "Pente Rala",
+      "url": "https://open.spotify.com/track/16zADfKuIBd0rB8YnpddBI"
     },
     {
       "added_at": null,
@@ -247,34 +275,6 @@
       "duration_ms": 475200,
       "name": "SET DJ GM 2.0",
       "url": "https://open.spotify.com/track/2EaGXjPPV1rcKHwQDKcZC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Dismantle",
-          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
-        },
-        {
-          "name": "DJ 2K DO TAQUARIL",
-          "url": "https://open.spotify.com/artist/2kZ9H7DxS0tzbLvCVrLgom"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 219403,
-      "name": "Pente Rala",
-      "url": "https://open.spotify.com/track/16zADfKuIBd0rB8YnpddBI"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tu Obedece",
-        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Se Tu Obedece",
-      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CARO Vapor II - qual a forma de pagamento ?",
         "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 183147,
       "name": "melhor Vida",
       "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Tu Obedece",
+        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Se Tu Obedece",
+      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
     },
     {
       "added_at": null,
@@ -743,34 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pede Chamando de Amor",
-        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
-      },
-      "artists": [
-        {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Pede Chamando de Amor",
-      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Rel\u00edquia 2",
         "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
       },
@@ -795,6 +767,34 @@
       "duration_ms": 136356,
       "name": "Medley Rel\u00edquia 2",
       "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pede Chamando de Amor",
+        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Pede Chamando de Amor",
+      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
       "duration_ms": 210520,
       "name": "Como Se T\u00e1 Maravilhosa",
       "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 137272,
       "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
       "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,

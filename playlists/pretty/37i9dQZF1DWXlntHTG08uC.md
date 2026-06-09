@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,693 likes - 194 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,999 likes - 194 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

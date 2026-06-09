@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "album": {
         "name": "Body Talk pt. 1",
         "url": "https://open.spotify.com/album/3t690oEm4uYWd9dsxaDDbj"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 172864,
       "name": "Eurosummer",
       "url": "https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i"
@@ -814,6 +832,24 @@
       "duration_ms": 388400,
       "name": "Freedom! '90",
       "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "album": {
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 254453,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
@@ -1618,7 +1654,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 241600,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
@@ -2141,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -2648,7 +2702,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 227760,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc"
@@ -2749,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -2782,7 +2854,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
@@ -2986,6 +3058,24 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "album": {

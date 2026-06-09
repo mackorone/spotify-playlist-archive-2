@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,961 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,970 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 48 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
 | 49 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
 | 50 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 |
-| 51 | [HANDOUT \- Remix](https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [HANDOUT \(Remix\)](https://open.spotify.com/album/59b5LfWbZ7e9N1KfFCeTny) | 3:14 |
-| 52 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
+| 51 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
+| 52 | [HANDOUT \- Remix](https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [HANDOUT \(Remix\)](https://open.spotify.com/album/59b5LfWbZ7e9N1KfFCeTny) | 3:14 |
 | 53 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
 | 54 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 | 55 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 |

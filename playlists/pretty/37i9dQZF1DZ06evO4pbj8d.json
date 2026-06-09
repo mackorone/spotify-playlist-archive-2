@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAB72c5yUiHFh6iwY0XWft68",
+  "snapshot_id": "aiS0gAAAAADPoIBIIOVqn0MWYU1LFE5y",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
+      "duration_ms": 193101,
+      "name": "Dear Maria",
+      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 193101,
-      "name": "Dear Maria",
-      "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
+      "duration_ms": 201856,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     },
     {
       "added_at": null,

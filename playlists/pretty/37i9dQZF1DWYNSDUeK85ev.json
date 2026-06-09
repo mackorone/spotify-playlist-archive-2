@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696755,
+  "num_followers": 696747,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,26 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+        "name": "P\u00c9GATE",
+        "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
       "artists": [
         {
           "name": "Peipper",
           "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "DJ Roman",
+          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
         }
       ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+      "duration_ms": 137331,
+      "name": "P\u00c9GATE",
+      "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -527,50 +535,6 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
-        "name": "P\u00c9GATE",
-        "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "DJ Roman",
-          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
-        }
-      ],
-      "duration_ms": 137331,
-      "name": "P\u00c9GATE",
-      "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -595,6 +559,42 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
         "name": "El Mismo Aire",
         "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
       },
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+        "name": "DISCOTEKA (feat. Locura Mix)",
+        "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
       "artists": [
         {
@@ -620,13 +620,21 @@
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
         }
       ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+      "duration_ms": 204480,
+      "name": "DISCOTEKA (feat. Locura Mix)",
+      "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -703,8 +711,8 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "DISCOTEKA (feat. Locura Mix)",
-        "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
       "artists": [
         {
@@ -712,21 +720,13 @@
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
         }
       ],
-      "duration_ms": 204480,
-      "name": "DISCOTEKA (feat. Locura Mix)",
-      "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2026-05-29 20:57:45",

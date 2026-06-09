@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Los Gemelos De Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,311 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,389 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 58 | [El Federal De Caminos](https://open.spotify.com/track/3LICuqg5kjcNKUBsYgYWEM) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [El Federal De Caminos](https://open.spotify.com/album/1VTxcABNEtNsJ8R4sYf2e6) | 2:41 |
 | 59 | [EXOTICÓN ll](https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [EXOTICÓN ll](https://open.spotify.com/album/0QJThre1nco289eXG0qWw3) | 2:11 |
 | 60 | [Coco Psycho](https://open.spotify.com/track/1cHymaeuE7kkVdzgFZHi8I) | [Javier Arvayo](https://open.spotify.com/artist/0td9IOgiffWGMbcz3xKy0s) | [Coco Psycho](https://open.spotify.com/album/3GD1iucHzV8HajO7H7hlp6) | 2:08 |
-| 61 | [El De Las Artilladas 2.0](https://open.spotify.com/track/5qfaqi8y2x6bP6ouycCmUs) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [El De Las Artilladas 2.0](https://open.spotify.com/album/6kusxkEiLLwy7l3j6ivD61) | 4:13 |
+| 61 | [El De Las Artilladas 2.0 \(En Vivo\)](https://open.spotify.com/track/5qfaqi8y2x6bP6ouycCmUs) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [El De Las Artilladas 2.0 \(En Vivo\)](https://open.spotify.com/album/6kusxkEiLLwy7l3j6ivD61) | 4:13 |
 | 62 | [Los Cuadros \(En Vivo\)](https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1) | [Grupo Cuadra](https://open.spotify.com/artist/65R3oFgaTYkTgkseRlh1Xr), [Compadannymusic](https://open.spotify.com/artist/28WJRiJryQcboA0YemNlkY) | [En Vivo Desde La Cuadra, Vol.1](https://open.spotify.com/album/44d0ReWJ2z8pTtk6b22uoB) | 3:06 |
 | 63 | [Forjate Mi Copiloto](https://open.spotify.com/track/65IpPFWTB1I3WCIGhynlwD) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [Forjate Mi Copiloto](https://open.spotify.com/album/6r3D2SFMTsNBXWvTSKqfjw) | 3:17 |
 | 64 | [El Chaparrito \- En Vivo](https://open.spotify.com/track/6jER67dJrBO0YBYQUHDhzG) | [Grupo Redenza](https://open.spotify.com/artist/7kj5eFTjWrZ6F7RLuHiUNq) | [El Chaparrito \(En Vivo\)](https://open.spotify.com/album/0iNZaJRoGdHiDGv1f4DtON) | 2:32 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 66 | [De La H Pa' La Costa](https://open.spotify.com/track/2DBGsUrIH2h8NcUCbK625e) | [Junior Corral](https://open.spotify.com/artist/143oyZiKl5gMeepoju0JCk) | [De La H Pa' La Costa](https://open.spotify.com/album/1b87x7ObNQkxbFm20JO8BB) | 2:54 |
 | 67 | [El Papas](https://open.spotify.com/track/2fOhQ8n9NxThHCQV4tbjKz) | [Gibran Sarabia](https://open.spotify.com/artist/3rSmNZH0wZ8oFzdHk9ihTS) | [El Papas](https://open.spotify.com/album/3QKK57lgYMlru6GIer4ZML) | 3:47 |
 | 68 | [Súper Snake](https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Súper Snake](https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb) | 2:26 |
-| 69 | [En Pláticas \(Los Hermanos\)](https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Pláticas \(Los Hermanos\)](https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr) | 3:45 |
+| 69 | [En Pláticas \(Los Hermanos\) \(En Vivo\)](https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Pláticas \(Los Hermanos\) \(En Vivo\)](https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr) | 3:45 |
 | 70 | [Cuando Empecé](https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Cuando Empecé](https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp) | 3:17 |
 | 71 | [FREESTYLE](https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 5:36 |
 | 72 | [Los Tigres Mandan](https://open.spotify.com/track/3Wxkij7oSwTMpMcIWlU0h8) | [Javier Arvayo](https://open.spotify.com/artist/0td9IOgiffWGMbcz3xKy0s) | [Los Tigres Mandan](https://open.spotify.com/album/28BsBvFs939RINPFNoGCjv) | 2:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 89 | [Don Roque](https://open.spotify.com/track/5S1KatP6OI1kldBcCo2Jtz) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Don Roque](https://open.spotify.com/album/67smUCRvjQhS4lGlJ9N5dt) | 3:07 |
 | 90 | [Montañas y Cerros](https://open.spotify.com/track/6p2CkKPGBbYxpIJtywqvC0) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Raíces de Acero](https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG) | 2:44 |
 
-Snapshot ID: `AAAAADXm0NWJTeleJ79ptYPsUsU5QZDF`
+Snapshot ID: `AAAAAFXB0Q7C7JsuUJN0aZSA/78MaM5x`

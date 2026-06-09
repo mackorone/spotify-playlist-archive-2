@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,845 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,874 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 11 | [Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:42 |
 | 12 | [That Just Isn't Empirically Possible](https://open.spotify.com/track/3xQq3mpD6hunD2XG7FXHHu) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:03 |
 | 13 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
-| 14 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 |
-| 15 | [Monochromatic](https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:17 |
+| 14 | [Monochromatic](https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:17 |
+| 15 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 |
 | 16 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
 | 17 | [All That Glitters Is Not Gold, but It's Still Damn Beautiful](https://open.spotify.com/track/23A29DEDxMZdwpl0ZRrMOk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:17 |
 | 18 | [Leviticus](https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:04 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 35 | [Diemonds](https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 3:12 |
 | 36 | [LTE](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 |
 | 37 | [O Pana!](https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Eternal Grey](https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB) | 2:08 |
-| 38 | [COUNT YOUR BLESSINGS](https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:08 |
-| 39 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:30 |
+| 38 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:30 |
+| 39 | [COUNT YOUR BLESSINGS](https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:08 |
 | 40 | [2009 Reggie Bush](https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 3:24 |
 | 41 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 |
-| 42 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:14 |
-| 43 | [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 |
+| 42 | [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 |
+| 43 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:14 |
 | 44 | [Harvest Moon](https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part IX: The Soulseek Saga](https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd) | 2:16 |
 | 45 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
 | 46 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Grey Gods](https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 3:12 |
 | 50 | [Sarcophagus II](https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Meet Me Where the River Turns Grey](https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N) | 3:05 |
 
-Snapshot ID: `aiNjAAAAAACDGsVpNNmXnd0VFVlee1pu`
+Snapshot ID: `aiS0gAAAAADE3dOtVLbLKrpUYHeWCo2X`

@@ -3747,6 +3747,36 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t"
+    },
+    {
+      "album": {
         "name": "Corocito (Manguelena) [Sunset Groove Remix]",
         "url": "https://open.spotify.com/album/0HLAFOTdTJOk3tplHHZkXY"
       },
@@ -6203,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7jA0S0W7JIEWmo8BbtYa0J"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125760,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/63qvrFN0f14mwyzRVmvaL2"
+    },
+    {
+      "album": {
         "name": "Fast Friends",
         "url": "https://open.spotify.com/album/4FWsKh09O9fr0CI7BeIC4X"
       },
@@ -6612,7 +6660,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 234500,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/3oKDtEdbuJzoUS08iPOdCz"
@@ -9950,7 +9998,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 227400,
       "name": "Jolie Fille (Bhaskar Remix)",
       "url": "https://open.spotify.com/track/0N61EprnHAW4HpYAYac2kg"
@@ -10780,7 +10828,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 236033,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/4q5LA6L4gBrE9y4hYcCxk2"
@@ -12032,6 +12080,36 @@
       "duration_ms": 154285,
       "name": "Mess",
       "url": "https://open.spotify.com/track/61IuP2CYe9gUE5F98KrRh5"
+    },
+    {
+      "album": {
+        "name": "Messi",
+        "url": "https://open.spotify.com/album/4JkG9h2ZAmA4VWhOiwci5X"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Brasil",
+          "url": "https://open.spotify.com/artist/7MPhjKo9pLJ7mPJOOxeIf4"
+        },
+        {
+          "name": "Mary Zander",
+          "url": "https://open.spotify.com/artist/7hJLpw326kpcd3f3YXrVz1"
+        },
+        {
+          "name": "Jararaca Sound System",
+          "url": "https://open.spotify.com/artist/0tu9kO59fquOERFCdnqibF"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G"
     },
     {
       "album": {
@@ -15460,7 +15538,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 182769,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/2JeSzy01TSdarOsiDZis7c"
@@ -15702,6 +15780,24 @@
       "duration_ms": 164791,
       "name": "Rock the Floor",
       "url": "https://open.spotify.com/track/1lz4gBRc57LjO9DaKmbP4Q"
+    },
+    {
+      "album": {
+        "name": "Rock \u2018n\u2019 Roll",
+        "url": "https://open.spotify.com/album/1zgt0bFUIwHjvTITr1Be5X"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162282,
+      "name": "Rock \u2018n\u2019 Roll",
+      "url": "https://open.spotify.com/track/01beNRZQUtsyFVxfHCzJnt"
     },
     {
       "album": {
@@ -18123,6 +18219,28 @@
     },
     {
       "album": {
+        "name": "Test Drive",
+        "url": "https://open.spotify.com/album/4L68fOckAugD5GlTiXBeMd"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Test Drive",
+      "url": "https://open.spotify.com/track/73jCgfQ1Dh1JrXoIY0aaOg"
+    },
+    {
+      "album": {
         "name": "The Button",
         "url": "https://open.spotify.com/album/1FwjdsZ02U5eNpUsMMGWgA"
       },
@@ -19958,7 +20076,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 125751,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3hUGdoDtLw2ZhAGI8ANLy2"
@@ -20656,7 +20774,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179076,
       "name": "You Call My Phone",
       "url": "https://open.spotify.com/track/1JSqXchpEIlDHYN21M8AA8"

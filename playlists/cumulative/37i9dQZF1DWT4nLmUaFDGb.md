@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-300 songs - 19 hr 35 min
+301 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I'm Confessin'](https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9) | 2:58 | 2024-04-12 |  |
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e) | 2:35 | 2022-07-14 | 2024-04-19 |
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/5gZeO99hPC7esm5oOqIllA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:35 | 2021-12-21 |  |
-| [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 | 2021-12-21 |  |
+| [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 | 2021-12-21 | 2026-06-09 |
 | [I'm the Sky, I'm the Earth](https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT) | [Deniz Taşar](https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6), [Halil Çağlar Serin](https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd) | [I'm the Sky, I'm the Earth](https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq) | 2:55 | 2022-05-31 | 2024-06-01 |
 | [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 | 2023-05-18 |  |
 | [I've Got A Crush On You](https://open.spotify.com/track/2ujJJsaTQ78ReHWY9Nnwh1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [Dreamsville](https://open.spotify.com/album/3wbSnWt0hXtrYn2Yiwi4Xq) | 4:43 | 2022-09-08 | 2022-09-30 |
@@ -244,6 +244,7 @@
 | [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 | 2022-03-24 |  |
 | [Talking to Myself](https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Jacob Fischer](https://open.spotify.com/artist/0OknVSe0ayiLhKnbdV0uUF), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Remembering You](https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw) | 4:00 | 2022-09-08 |  |
 | [Taxes](https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM) | [Disco Loveless](https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL) | [Taxes](https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv) | 3:21 | 2022-04-07 |  |
+| [Tell Him I Said Hello](https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Tell Him I Said Hello](https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy) | 5:04 | 2026-06-08 |  |
 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 | 2021-12-21 |  |
 | [The Age Of Anxiety](https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Age of Anxiety](https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux) | 5:24 | 2021-12-21 | 2025-09-06 |
 | [The Best Is Yet To Come](https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 3:27 | 2022-08-29 | 2023-08-19 |

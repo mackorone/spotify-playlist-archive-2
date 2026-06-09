@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 142970,
       "name": "Cadeira Amarela - Ao Vivo",
       "url": "https://open.spotify.com/track/7j5IUWdULEj2lFx0NApMyw"
@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179215,
       "name": "Ignora (Ao Vivo)",
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 165376,
       "name": "Pega Esse Carro - Ao Vivo",
       "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
@@ -6150,6 +6150,28 @@
       "duration_ms": 178251,
       "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
       "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
+    },
+    {
+      "album": {
+        "name": "Que Del\u00edcia",
+        "url": "https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        },
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Que Del\u00edcia",
+      "url": "https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF"
     },
     {
       "album": {
@@ -6948,6 +6970,28 @@
       "duration_ms": 160476,
       "name": "S\u00f3 N\u00e3o Divulga",
       "url": "https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb"
+    },
+    {
+      "album": {
+        "name": "ALMA - PARTE 1",
+        "url": "https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983"
+      },
+      "artists": [
+        {
+          "name": "Raffa Torres",
+          "url": "https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231057,
+      "name": "TADINHA",
+      "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
     },
     {
       "album": {
@@ -7900,6 +7944,24 @@
       "duration_ms": 188951,
       "name": "\u00c1gua Nos Z\u00f3i - Ao Vivo",
       "url": "https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji"
+    },
+    {
+      "album": {
+        "name": "Fire Arena \u2764\ufe0f\u200d\ud83d\udd25",
+        "url": "https://open.spotify.com/album/5XBlACB0p8q28Or9SiCSBL"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163722,
+      "name": "\u00c9 Que Eu N\u00e3o Te Esqueci \ud83d\udc94",
+      "url": "https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i"
     },
     {
       "album": {

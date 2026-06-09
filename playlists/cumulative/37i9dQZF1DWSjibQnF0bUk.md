@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-605 songs - 1 day 10 hr 25 min
+606 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Eko Groove](https://open.spotify.com/track/6uUw3IccbzguGPX9j8JSrs) | [Kembe](https://open.spotify.com/artist/5ZSJz19CietUPepeRF1gbT), [KEVIN LNDN](https://open.spotify.com/artist/66P93mCmzVSDZr0JkS1BpO), [Deep percussion](https://open.spotify.com/artist/0f8XWzVQX4c15iNl1JbPRd) | [Eko Groove](https://open.spotify.com/album/4LMl4WeZ05FrtHZfsSEYRg) | 4:34 | 2025-10-16 | 2025-10-24 |
 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 | 2026-03-16 | 2026-05-01 |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 | 2024-04-19 |
+| [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 | 2026-06-08 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-09 | 2022-09-26 |
 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-09 | 2022-10-29 |
@@ -431,7 +432,7 @@
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-23 | 2022-10-08 |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2020-01-14 | 2022-04-20 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-07-06 |
-| [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 |  |
+| [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 | 2026-06-09 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2023-06-03 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-10 | 2025-03-20 |
 | [Pele Pele](https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Pele Pele](https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ) | 5:17 | 2022-11-14 | 2023-04-20 |

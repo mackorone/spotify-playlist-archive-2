@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,132 songs - 3 day 20 hr 27 min
+1,133 songs - 3 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 | 2023-09-30 |
+| [A.I.E.](https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Alejandro Garrido](https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH) | [A.I.E.](https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g) | 2:46 | 2026-06-08 |  |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2022-05-27 | 2024-03-27 |
 | [Abandoned](https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD) | [Abandoned](https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo) | 3:58 | 2025-03-28 | 2026-03-14 |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
@@ -92,7 +93,7 @@
 | [Ascension](https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ascension](https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ) | 2:57 | 2024-04-12 | 2024-09-21 |
 | [Ascension Pt\. II](https://open.spotify.com/track/24mn5vRHLCoRehW3bZdeMh) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Ascension Pt\. II](https://open.spotify.com/album/7qfIBGCYgjjlFFPyvaOOzm) | 6:06 | 2025-07-25 | 2026-01-15 |
 | [Ashes in the Wind](https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Secrets EP](https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1) | 10:04 | 2021-04-21 | 2022-12-17 |
-| [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 | 2026-03-13 |  |
+| [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 | 2026-03-13 | 2026-06-09 |
 | [Atacama \- Edit](https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Atacama \(Edit\)](https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX) | 3:57 | 2023-06-16 | 2024-01-25 |
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/4JIphNXs4zpmNyaJFhKKKY) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Aura EP](https://open.spotify.com/album/4SErxwdvqZvsrYcQ8gGimx) | 8:21 | 2021-06-18 | 2022-07-22 |

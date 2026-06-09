@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,027 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,045 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 27 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 28 | [Mi Cumbia!](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
 | 29 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
-| 30 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
+| 30 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 31 | [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 |
 | 32 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
-| 33 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
+| 33 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
 | 34 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 35 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
 | 36 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 47 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 48 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 |
 | 49 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
-| 50 | [Sickhead](https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc) | [Joelito](https://open.spotify.com/artist/0XWWsuP4oeVCSaQyiter7E) | [Jeffree's Volume 2](https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx) | 4:00 |
+| 50 | [BATEA](https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [BATEA](https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp) | 2:23 |
 
 Snapshot ID: `AAAAALtFeFvwHQkxqj3q7puF3PrlH/Nd`

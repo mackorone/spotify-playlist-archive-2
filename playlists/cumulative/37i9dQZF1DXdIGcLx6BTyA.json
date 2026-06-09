@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Goodbye California",
+        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163010,
+      "name": "Goodbye California",
+      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
+    },
+    {
+      "album": {
         "name": "Goodbye Carolina",
         "url": "https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7"
       },
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 223601,
       "name": "Wake Me up to Drive",
       "url": "https://open.spotify.com/track/07C3oEuCStuueA9cBYLRuL"

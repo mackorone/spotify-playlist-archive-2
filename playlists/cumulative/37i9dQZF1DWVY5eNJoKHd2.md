@@ -2,9 +2,9 @@
 
 ### [Levitate](https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2)
 
-> Music that makes you feel like you're levitating\. 📷 Home, Seen from Orion, NASA
+> Taking 'NASA' way too literally\. 📷 Ariana Grande on the Eternal Sunshine Tour
 
-518 songs - 1 day 7 hr 39 min
+520 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 | 2022-01-11 | 2022-04-12 |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-08 | 2026-04-07 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |
+| [NASA](https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:02 | 2026-06-08 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-30 | 2025-10-26 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2024-01-11 | 2024-01-13 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-07 | 2023-09-30 |
@@ -404,7 +405,7 @@
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-12-27 |  |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-19 | 2024-04-19 |
-| [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 | 2026-04-06 |  |
+| [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 | 2026-04-06 | 2026-06-09 |
 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 | 2022-05-24 |  |
 | [Slip Away](https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:45 | 2022-04-11 | 2022-04-14 |
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-20 | 2023-06-10 |
@@ -424,7 +425,7 @@
 | [SPACE](https://open.spotify.com/track/3GWCs8AxoMf2tHdWtvzquC) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\ \(Deluxe Edition\)](https://open.spotify.com/album/4iuZr9ptf5nAy3f8afPdBM) | 3:08 | 2023-05-10 | 2023-05-20 |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2021-12-16 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2021-12-16 |  |
-| [Sparkle ice](https://open.spotify.com/track/1fsLGYu3BiZnMvd7loTGQ5) | [Olalla.lux](https://open.spotify.com/artist/0PYhG5IGj1YdShFBQnv3r7) | [Sparkle ice](https://open.spotify.com/album/6nQQZDT57mmtkFoYtTHZjT) | 2:47 | 2026-02-13 |  |
+| [Sparkle ice](https://open.spotify.com/track/1fsLGYu3BiZnMvd7loTGQ5) | [Olalla.lux](https://open.spotify.com/artist/0PYhG5IGj1YdShFBQnv3r7) | [Sparkle ice](https://open.spotify.com/album/6nQQZDT57mmtkFoYtTHZjT) | 2:47 | 2026-02-13 | 2026-06-09 |
 | [Spend My Days](https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Spend My Days](https://open.spotify.com/album/1i6kNaAWplITA9Q9cUwj7A) | 2:33 | 2023-09-22 | 2023-10-14 |
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2024-05-22 | 2026-02-14 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2022-11-11 | 2023-03-18 |
@@ -498,6 +499,7 @@
 | [want](https://open.spotify.com/track/0fuglRZh54xvwLKAbnFAKE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [want](https://open.spotify.com/album/626gFk89gkv78mPCZhePMq) | 2:24 | 2024-08-09 | 2024-08-24 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2024-01-09 | 2024-05-04 |
 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 | 2022-02-17 | 2022-04-21 |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2026-06-08 |  |
 | [WE SAW THE SUN!](https://open.spotify.com/track/7FqH4CO8H5j9EXHKTBP7xE) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:31 | 2023-01-27 | 2023-02-17 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-11 | 2022-11-15 |
 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 | 2022-03-24 |  |

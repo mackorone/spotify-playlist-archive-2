@@ -84,7 +84,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 216973,
       "name": "187 (feat. Smigg Dirtee & Young Noble)",
       "url": "https://open.spotify.com/track/5pWcYre0bWBxCtMp8Z7FpZ"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 425664,
       "name": "EUTHANASIA",
       "url": "https://open.spotify.com/track/6QGf4VLfZARAD4ZlMeUIUg"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 292704,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/7KgRa8sQWi3ijZ9p7zsE5h"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 304553,
       "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
       "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
@@ -4342,7 +4342,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 270906,
       "name": "The Code",
       "url": "https://open.spotify.com/track/0sRJAZseTXWXb1BHOI0JNZ"
@@ -4622,6 +4622,28 @@
       "duration_ms": 219142,
       "name": "Thug Opera (feat. Young Noble)",
       "url": "https://open.spotify.com/track/1Kko7J9HPy3JVw9fm6lc7W"
+    },
+    {
+      "album": {
+        "name": "Only 4 My Husslaz",
+        "url": "https://open.spotify.com/album/3MktTF8DmWxO5t1IyXQShi"
+      },
+      "artists": [
+        {
+          "name": "Twarkka",
+          "url": "https://open.spotify.com/artist/06hDuLXESGCefDU83rFtPf"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162563,
+      "name": "Thug Poetry",
+      "url": "https://open.spotify.com/track/2i7OqFzzpDjpVXcGZtdRDA"
     },
     {
       "album": {

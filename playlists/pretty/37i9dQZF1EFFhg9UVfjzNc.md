@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773 likes - 120 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 772 likes - 120 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 119 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
 | 120 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `AcTnXAAAAABhTR/0vXlvPT14O7KDaPdO`
+Snapshot ID: `AcTs/AAAAADSt2+DO3qzgWvSo2B4hTJp`

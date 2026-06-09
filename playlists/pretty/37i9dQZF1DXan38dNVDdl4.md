@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,264 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598,384 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 |
-| 2 | [Gyal Good](https://open.spotify.com/track/60L2FqkzM2yYMxVvyFOZbu) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [NPT](https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z) | 2:32 |
+| 2 | [Gyal Good](https://open.spotify.com/track/60L2FqkzM2yYMxVvyFOZbu) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [NPT](https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z) | 2:32 |
 | 3 | [Passport Princess](https://open.spotify.com/track/2xoieEijJbhwhxBzXVpvnm) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passport Princess](https://open.spotify.com/album/2eUtwXjwqOfFVatGK9ri8h) | 2:14 |
 | 4 | [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 |
 | 5 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |

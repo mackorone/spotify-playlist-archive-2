@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 92866,
+  "num_followers": 92887,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAD3c9jGPNsA7rP2xqAI4+Iv",
+  "snapshot_id": "aiS0gAAAAACbJvlzU9WgCzD4i2Bpa5jL",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Voy a Esperar (feat. Belinda)",
         "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 215813,
       "name": "Te Voy a Esperar (feat. Belinda)",
       "url": "https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "En La Obscuridad",
-      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -859,30 +859,6 @@
       "duration_ms": 245053,
       "name": "Constantemente M\u00eda",
       "url": "https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frijolero",
-        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
-      },
-      "artists": [
-        {
-          "name": "Somos Frijoleros",
-          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 213947,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
     },
     {
       "added_at": null,
@@ -975,6 +951,30 @@
       "duration_ms": 311346,
       "name": "Ay Haiti!",
       "url": "https://open.spotify.com/track/3FifroUyur8j5mTM78WuXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frijolero",
+        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
+      },
+      "artists": [
+        {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 213947,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
     },
     {
       "added_at": null,

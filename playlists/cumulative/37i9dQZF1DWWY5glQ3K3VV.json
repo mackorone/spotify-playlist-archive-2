@@ -545,6 +545,28 @@
     },
     {
       "album": {
+        "name": "AYAYAY",
+        "url": "https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "AYAYAY",
+      "url": "https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ"
+    },
+    {
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -2238,6 +2260,32 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Pyrex, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
+    },
+    {
+      "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "E Allora",
+      "url": "https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY"
     },
     {
       "album": {
@@ -4650,7 +4698,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 232000,
       "name": "Mercedes Nero",
       "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
@@ -4892,7 +4940,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 135830,
       "name": "MTP",
       "url": "https://open.spotify.com/track/4Swl67KjGwtWdNPqm0ZD39"
@@ -5962,7 +6010,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 218507,
       "name": "Rimango free (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky"
@@ -6362,6 +6410,36 @@
       "duration_ms": 172800,
       "name": "SPLASH (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
+    },
+    {
+      "album": {
+        "name": "\u00c8 O G.",
+        "url": "https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Splinter Cell",
+      "url": "https://open.spotify.com/track/0y7D9JFF6APyFc18atzG9n"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Ben Rodrigues",
-  "num_followers": 6535,
+  "num_followers": 6534,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 127366,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
-        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
-      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "someone new",
         "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Hold Me In The Dark",
         "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "KONNAKOL",
-        "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 197159,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "KONNAKOL",
+        "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 197159,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Untimely Disclosure",
         "url": "https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 223198,
       "name": "Untimely Disclosure",
       "url": "https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
-        "name": "Letting go",
-        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Letting go",
-      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Figments Of My Imagination",
-        "url": "https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv"
-      },
-      "artists": [
-        {
-          "name": "BINX",
-          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "Figments Of My Imagination",
-      "url": "https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 210197,
       "name": "Same Old",
       "url": "https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "Figments Of My Imagination",
+        "url": "https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "Figments Of My Imagination",
+      "url": "https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD"
     },
     {
       "added_at": "2026-05-08 07:46:27",

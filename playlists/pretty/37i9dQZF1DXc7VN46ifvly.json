@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21181,
+  "num_followers": 21192,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-06-03 14:07:43",
       "album": {
+        "name": "Yarrr",
+        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 166999,
+      "name": "Yarrr",
+      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
+    },
+    {
+      "added_at": "2026-06-03 14:07:43",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-03 14:07:43",
-      "album": {
-        "name": "Yarrr",
-        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 166999,
-      "name": "Yarrr",
-      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
     },
     {
       "added_at": "2026-06-03 14:07:43",

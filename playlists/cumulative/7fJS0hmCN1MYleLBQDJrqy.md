@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-169 songs - 7 hr 38 min
+170 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Uitstelgedrag](https://open.spotify.com/track/6c4OQkxuJkE7bOBIK6fRa0) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Uitstelgedrag](https://open.spotify.com/album/0gWvSIPNEYs1cv6R7aFAzT) | 2:32 | 2025-09-05 | 2026-02-11 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |
 | [Van Niemand](https://open.spotify.com/track/1vr262SFQ3qXJi7ZkMAC3u) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Van Niemand](https://open.spotify.com/album/6sp13atziZPC4XqN61Z17o) | 2:29 | 2025-07-18 | 2025-08-30 |
+| [Verzamelen](https://open.spotify.com/track/5uc1LVQKtOA84290Ltyyu4) | [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK) | [Verzamelen](https://open.spotify.com/album/3eY8dRAnkhhr3sVf0Rfr9t) | 2:00 | 2026-06-08 |  |
 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 | 2025-07-18 | 2026-02-11 |
 | [Vlam In De Pan](https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vlam In De Pan](https://open.spotify.com/album/4EXIEwAErM3OqO3G1S6VKK) | 2:40 | 2026-05-01 | 2026-05-28 |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2025-07-18 | 2026-02-11 |

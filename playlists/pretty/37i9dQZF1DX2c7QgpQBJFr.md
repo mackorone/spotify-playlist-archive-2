@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: INVERNO
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,386 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,390 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

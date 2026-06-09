@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: Klozer, Babylon, Newaile\)
 
-917 songs - 2 day 0 hr 25 min
+918 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-27 | 2023-12-14 |
 | [LIKE NOTHING HAPPENED \(Feat\. DeVita\)](https://open.spotify.com/track/0Wtka71lRuIJOc7PrhuJTu) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [SOMEHOW](https://open.spotify.com/album/4fQm8diEQZbuO8R5hG5vjy) | 2:41 | 2025-08-04 | 2025-08-13 |
 | [Like that](https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like that](https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3) | 2:36 | 2024-06-06 | 2024-08-23 |
+| [limbo \(feat\. pH\-1\)](https://open.spotify.com/track/76EKnjtcSKSimeANeExgaU) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [limbo \(feat\. pH\-1\)](https://open.spotify.com/album/69i8NW7etANT3g3Q411Eiz) | 3:06 | 2026-06-08 |  |
 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-09 |  |
 | [LIT RIGHT NOW](https://open.spotify.com/track/1wfX8k5P1DPRbmQ6bCy9pv) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/2EXqumr0ulSCCt63qG1ar7) | 2:34 | 2025-07-09 | 2025-08-04 |
 | [Locked In \(Feat\. Jiselle\)](https://open.spotify.com/track/7KzkNqK1WohUzYHTJSmlOU) | [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Locked In](https://open.spotify.com/album/7cPLsI2lTuZhBKZi98Po6r) | 2:42 | 2023-04-07 | 2023-04-18 |
@@ -465,7 +466,7 @@
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-06-19 |
 | [Love \(feat\. Loco, Moon Sujin & Jason Lee\)](https://open.spotify.com/track/0unN86elNEKkjrscaPjKbB) | [Spray](https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [Love](https://open.spotify.com/album/673LeCLGE4vwfR72Zhr3X9) | 3:15 | 2022-10-13 | 2022-10-28 |
 | [Love Affair \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/3kKNLD9mE0l3hK2MIQ8FkN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Love Affair](https://open.spotify.com/album/0NM7anLn4eTJZe2OBeCLWH) | 2:33 | 2022-06-23 | 2022-07-08 |
-| [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 | 2022-04-19 |  |
+| [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 | 2022-04-19 | 2026-06-09 |
 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 | 2022-12-09 | 2022-12-16 |
 | [LOVE AGAIN \(Feat\. Leellamarz, HOON\)](https://open.spotify.com/track/2NyYklpPwyGIIyklakqk9X) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [HOON](https://open.spotify.com/artist/1VTv19vFoeiKs28gOzntpL) | [LOVE AGAIN](https://open.spotify.com/album/26OpMHQv2ntd7B8GaR8gdV) | 3:05 | 2025-03-13 | 2025-04-03 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-29 |  |

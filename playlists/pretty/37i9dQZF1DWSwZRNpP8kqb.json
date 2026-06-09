@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 33470,
+  "num_followers": 33483,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Folk",
-        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
-      },
-      "artists": [
-        {
-          "name": "Natalia Barrionuevo",
-          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
-        }
-      ],
-      "duration_ms": 156270,
-      "name": "Chacarera De Un Triste",
-      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Folk",
+        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Barrionuevo",
+          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
+        }
+      ],
+      "duration_ms": 156270,
+      "name": "Chacarera De Un Triste",
+      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+        }
+      ],
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Mujer de Albahaca",
         "url": "https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 151482,
       "name": "Los Amanecidos",
       "url": "https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Canciones Brotadas de Mi Ra\u00edz",
         "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171413,
       "name": "Quisiera Que Salga un Tigre",
       "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
-      },
-      "artists": [
-        {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210771,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Luz del Aire",
         "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "La Diablera",
         "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 131306,
       "name": "Chacarera del Santiague\u00f1o",
       "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Pajaro Rojo",
         "url": "https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 190093,
       "name": "Guitarra, D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Para ir a buscarte",
-        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Farias G\u00f3mez",
-          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
-        }
-      ],
-      "duration_ms": 274999,
-      "name": "Zamba de Anta",
-      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 320266,
       "name": "Lavandera Chaguanca",
       "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Para ir a buscarte",
+        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Farias G\u00f3mez",
+          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
+        }
+      ],
+      "duration_ms": 274999,
+      "name": "Zamba de Anta",
+      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Lo Que Estalla",
-        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 135164,
-      "name": "Lo Que Estalla",
-      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1463,6 +1447,38 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Memoria de la Semilla",
+        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
+      },
+      "artists": [
+        {
+          "name": "Florencia D\u00e1valos",
+          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Zamba Enamorada (feat. Liliana Herrero)",
+      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Lo Que Estalla",
+        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 135164,
+      "name": "Lo Que Estalla",
+      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1499,22 +1515,6 @@
       "duration_ms": 223363,
       "name": "Zamba del Viento Libre",
       "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Memoria de la Semilla",
-        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
-      },
-      "artists": [
-        {
-          "name": "Florencia D\u00e1valos",
-          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Zamba Enamorada (feat. Liliana Herrero)",
-      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Tucumana",
-        "url": "https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Herrera",
-          "url": "https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "La Calle Soledad",
-      "url": "https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Noche, d\u00eda y madrugada",
         "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 193451,
       "name": "Ojal\u00e1 te enamores",
       "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Tucumana",
+        "url": "https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Herrera",
+          "url": "https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "La Calle Soledad",
+      "url": "https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q"
     },
     {
       "added_at": "2025-08-21 21:06:28",

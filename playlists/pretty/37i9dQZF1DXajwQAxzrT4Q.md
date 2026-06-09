@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 70 | [Price Going Up \- Jersey Club Remix](https://open.spotify.com/track/3NSphTW6yxfcr1qnUcxDF3) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Ramen Noodles EP](https://open.spotify.com/album/1lHev4TyDDEAnXQXYGofKQ) | 2:13 |
 | 71 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 72 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 73 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
-| 74 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
+| 73 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
+| 74 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
 | 75 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
 
 Snapshot ID: `AAAAAIJxBHmufj0JgtMr6qGyLiLGkEdp`

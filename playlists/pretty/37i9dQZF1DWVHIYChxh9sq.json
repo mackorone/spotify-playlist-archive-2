@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 83757,
+  "num_followers": 83761,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
@@ -559,38 +575,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 202280,
       "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
       "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Comando X - En Vivo",
-      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 344978,
       "name": "La Changa (En Vivo)",
       "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Comando X - En Vivo",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "En Vivo Desde El Fuerte Sinaloa",
+        "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "No Mencionan - En Vivo",
+      "url": "https://open.spotify.com/track/34HBavLUR8qMkjk5hBGW1x"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "En Vivo Desde El Fuerte Sinaloa",
-        "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "No Mencionan - En Vivo",
-      "url": "https://open.spotify.com/track/34HBavLUR8qMkjk5hBGW1x"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Despegando el Vuelo (En vivo)",
-        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 221675,
-      "name": "Que Me Falto - En vivo",
-      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Pisteando Con La Regida (Vol. 3)",
         "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 221675,
+      "name": "Que Me Falto - En vivo",
+      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Fiesta Privada Desde El 602 (En Vivo)",
-        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 202452,
-      "name": "Disfruto Lo Malo - En Vivo",
-      "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "En Vivo Desde El Rancho 2",
         "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 237749,
       "name": "Que Lloro - En Vivo",
       "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 202452,
+      "name": "Disfruto Lo Malo - En Vivo",
+      "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
         "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2026-04-17 20:03:01",

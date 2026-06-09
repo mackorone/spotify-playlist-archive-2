@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,290 songs - 4 day 22 hr 50 min
+2,291 songs - 4 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,6 +1132,7 @@
 | [Krossa snällt](https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Krossa snällt](https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB) | 3:13 | 2024-02-15 | 2024-04-05 |
 | [Ktrl](https://open.spotify.com/track/326XDQRzTe8LDwDHJQtNdE) | [Diza Guava](https://open.spotify.com/artist/1JKLKkNDjTFxVMlr1lkImV) | [Ktrl](https://open.spotify.com/album/4Ib2uuSblqFz1EEeEnFcp6) | 3:36 | 2024-02-08 | 2024-02-18 |
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |
+| [Kvart i fem](https://open.spotify.com/track/3EcR2bGVi103ILDdXpyRin) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Kvart i fem](https://open.spotify.com/album/600KSFFK8puxlWOdXKLJgq) | 2:25 | 2026-06-05 |  |
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss mig](https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Kyss mig](https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b) | 3:02 | 2026-04-23 |  |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
@@ -1281,7 +1282,7 @@
 | [Manifestation](https://open.spotify.com/track/1cCnurQieJEC1mqBhaB2le) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [Manifestation](https://open.spotify.com/album/31pS1uQDcTQl7BrLfzx5de) | 2:24 | 2024-05-09 | 2024-06-07 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
-| [MANS?](https://open.spotify.com/track/6mTK5VOpjZY6ORqdUBusIg) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv), [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [MANS?](https://open.spotify.com/album/64qvpQg15RttpvvxV8RZVY) | 3:05 | 2026-01-08 |  |
+| [MANS?](https://open.spotify.com/track/6mTK5VOpjZY6ORqdUBusIg) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv), [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [MANS?](https://open.spotify.com/album/64qvpQg15RttpvvxV8RZVY) | 3:05 | 2026-01-08 | 2026-06-09 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 | 2023-04-26 |
 | [Maraton \(feat\. Eah Jé\)](https://open.spotify.com/track/0FAWHFKFtk9eUQK6gLxBkw) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Maraton \(feat\. Eah Jé\)](https://open.spotify.com/album/4bUMq7yTcmgilNweyJ6Z4t) | 2:19 | 2024-04-11 | 2024-05-17 |
 | [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 | 2026-03-12 |
@@ -1895,7 +1896,7 @@
 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar II](https://open.spotify.com/album/1uUtCIhpSjsoYjTPYwRisz) | 2:54 | 2025-10-16 | 2025-11-16 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |
 | [Svarta Moln \(From Songland\)](https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Svarta Moln \(From Songland\)](https://open.spotify.com/album/5qtU1cUDJu0pfNhdk3IDDy) | 3:11 | 2023-05-04 | 2023-06-09 |
-| [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 | 2026-01-15 | 2026-06-05 |
+| [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 | 2026-01-15 |  |
 | [Sverige](https://open.spotify.com/track/2NQbX5fElB5gXYb61piUzk) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Sverige](https://open.spotify.com/album/1hYGwNkznvm4047Fb3XfRC) | 2:55 | 2024-04-26 | 2024-05-24 |
 | [Svett](https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Svett](https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg) | 3:06 | 2024-04-04 | 2024-05-10 |
 | [Svikare](https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Svikare](https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb) | 2:41 | 2023-01-19 | 2023-02-12 |
@@ -2278,7 +2279,7 @@
 | [Älskad](https://open.spotify.com/track/5CsGx0tqM4faRt1E8osjtq) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Älskad](https://open.spotify.com/album/4a6axd5VO3HWdkCrtj0mhf) | 2:44 | 2024-01-25 | 2024-03-15 |
 | [Älskar du nån annan än dig](https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Älskar du nån annan än dig](https://open.spotify.com/album/53bXKv50IjUOwsiknABKB0) | 2:29 | 2024-06-27 | 2024-10-25 |
 | [Älskling](https://open.spotify.com/track/08W6znhzp2rFSZL4rV7lYm) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Älskling](https://open.spotify.com/album/5yOIJVewSz50G6EaGr5qLo) | 3:05 | 2024-05-30 | 2024-06-28 |
-| [Älskling du är min](https://open.spotify.com/track/2PpgVcLvLGRTNUuA4oODiP) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Älskling du är min](https://open.spotify.com/album/2ArySCiS3ecGnWj5maAAsY) | 2:53 | 2026-04-02 |  |
+| [Älskling du är min](https://open.spotify.com/track/2PpgVcLvLGRTNUuA4oODiP) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Älskling du är min](https://open.spotify.com/album/2ArySCiS3ecGnWj5maAAsY) | 2:53 | 2026-04-02 | 2026-06-09 |
 | [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 | 2023-02-11 |
 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 | 2024-06-06 | 2024-08-09 |
 | [Ängel](https://open.spotify.com/track/0d6mO47LaMpXo3mclp9FKc) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ängel](https://open.spotify.com/album/1cyjEwB4j8WOmCINyOJar3) | 3:17 | 2026-05-28 |  |

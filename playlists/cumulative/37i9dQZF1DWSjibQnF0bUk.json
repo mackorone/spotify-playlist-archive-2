@@ -3793,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Elumelu",
+        "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133177,
+      "name": "Elumelu",
+      "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -9246,7 +9264,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"

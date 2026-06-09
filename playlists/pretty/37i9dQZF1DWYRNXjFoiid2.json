@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: CORTIS",
-  "num_followers": 462230,
+  "num_followers": 462275,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2024-10-24 21:38:29",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
+      "added_at": "2026-05-22 04:50:44",
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Goodbye & Good Riddance",
@@ -259,26 +275,6 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2024-12-13 05:00:12",
-      "album": {
-        "name": "Again (feat. XXXTENTACION)",
-        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 193961,
-      "name": "Again (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -301,20 +297,24 @@
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
-      "added_at": "2026-05-22 04:50:44",
+      "added_at": "2024-12-13 05:00:12",
       "album": {
-        "name": "'PUREFLOW', Pt. 1",
-        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+        "name": "Again (feat. XXXTENTACION)",
+        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 176546,
-      "name": "BOOMPALA",
-      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+      "duration_ms": 193961,
+      "name": "Again (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
-      },
-      "artists": [
-        {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
-        }
-      ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "El Dorado",
@@ -575,6 +559,22 @@
       "duration_ms": 140525,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "From the Start",
         "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2026-02-13 20:45:04",
+      "added_at": "2026-04-24 04:00:47",
       "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2026-04-24 04:00:47",
+      "added_at": "2026-02-13 20:45:04",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -961,24 +945,20 @@
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
     },
     {
-      "added_at": "2026-04-24 04:00:47",
+      "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "That's When You Know",
-        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 193842,
-      "name": "That's When You Know",
-      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "That's When You Know",
+        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "That's When You Know",
+      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
-      "added_at": "2024-12-13 05:00:12",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Lalala",
@@ -1115,6 +1099,22 @@
       "duration_ms": 160626,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
+    },
+    {
+      "added_at": "2024-12-13 05:00:12",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1149,26 +1149,6 @@
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
-      "added_at": "2025-06-27 04:00:40",
-      "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
-        }
-      ],
-      "duration_ms": 209515,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
-    },
-    {
       "added_at": "2025-02-07 05:00:25",
       "album": {
         "name": "PRETTY PLEASE",
@@ -1187,6 +1167,26 @@
       "duration_ms": 166721,
       "name": "PRETTY PLEASE",
       "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
+    },
+    {
+      "added_at": "2025-06-27 04:00:40",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
     },
     {
-      "added_at": "2026-05-22 04:50:44",
-      "album": {
-        "name": "round and round",
-        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 167770,
-      "name": "round and round",
-      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Speed Drive (From Barbie The Album)",
@@ -1271,6 +1255,22 @@
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2026-05-22 04:50:44",
+      "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 167770,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "gigolo",
-        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 118461,
-      "name": "gigolo",
-      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
-    },
-    {
       "added_at": "2025-11-11 09:00:20",
       "album": {
         "name": "M.I.A (VALORANT Game Changers Version)",
@@ -1407,6 +1391,22 @@
       "duration_ms": 129587,
       "name": "M.I.A - VALORANT Game Changers Version",
       "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
       "added_at": "2026-04-24 04:00:47",

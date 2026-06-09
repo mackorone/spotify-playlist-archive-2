@@ -684,10 +684,28 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -1477,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d5\u05e4\u05d5\u05e8\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d3\u05d1 \u05d7\u05e0\u05e6\u05d9\u05e1",
+          "url": "https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "\u05d0\u05d1\u05d9\u05e6'\u05d9",
+      "url": "https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
         "url": "https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F"
       },
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 216391,
       "name": "\u05d0\u05d9\u05df \u05db\u05d1\u05d5\u05d3",
       "url": "https://open.spotify.com/track/4WoKmBYVGyrf7t0SkHhMQ1"
@@ -2912,7 +2948,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 175821,
       "name": "\u05db\u05dc \u05d4\u05d1\u05e8\u05db\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/6VBwTUvZ5eS9d7pDQAcPJn"
@@ -2988,6 +3024,24 @@
       "duration_ms": 166121,
       "name": "\u05dc\u05d0 \u05dc\u05e4\u05e0\u05d5\u05ea \u05d0\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih"
+    },
+    {
+      "album": {
+        "name": "MOR 6FM",
+        "url": "https://open.spotify.com/album/3rpO1L7WvEFCrt1StiqaEy"
+      },
+      "artists": [
+        {
+          "name": "Mor",
+          "url": "https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175265,
+      "name": "\u05dc\u05d0 \u05e7\u05d5\u05e0\u05d4 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/5Ix2aNOllVyb7gsyu8aQag"
     },
     {
       "album": {
@@ -3394,7 +3448,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183031,
       "name": "\u05de\u05dc\u05db\u05ea \u05d4\u05d3\u05d5\u05e8",
       "url": "https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF"
@@ -4390,6 +4444,24 @@
       "duration_ms": 174375,
       "name": "\u05e9\u05d5\u05ea\u05e4\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d9 \u05d4\u05e9\u05d8\u05d7",
+        "url": "https://open.spotify.com/album/64qnJgdIAEpXF0xo5X7GNO"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "\u05e9\u05d9\u05e8 \u05d4\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/4sfYpOI4olEEk7S4U7iFRw"
     },
     {
       "album": {

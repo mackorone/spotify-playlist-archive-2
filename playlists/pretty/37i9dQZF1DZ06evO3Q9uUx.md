@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,162 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,166 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 22 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
 | 23 | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS) | 3:17 |
 | 24 | [Mami \(feat\. BIA\)](https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:58 |
-| 25 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:11 |
-| 26 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
+| 25 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
+| 26 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:11 |
 | 27 | [Perfect \(with Sia\)](https://open.spotify.com/track/7gh6635LXixA4Cw9baMWKp) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [Perfect](https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg) | 3:28 |
 | 28 | [Furious](https://open.spotify.com/track/272slxHVqV2k38mxVP2hat) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 0:43 |
 | 29 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 50 | [BAD GUY](https://open.spotify.com/track/2iijN864tg1fz4OxklAieE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:18 |
 
-Snapshot ID: `aiNjAAAAAACE2E6zKhc3fnhlZEhBn0Y1`
+Snapshot ID: `aiS0gAAAAADMvcYnCHM85z8+d8DBqtq7`

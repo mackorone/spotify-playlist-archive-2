@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,198 songs - 3 day 0 hr 24 min
+1,199 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-04-18 | 2024-10-11 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-12-01 |
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-05-27 | 2023-06-01 |
-| [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 | 2021-03-27\* |  |
+| [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 | 2021-03-27\* | 2026-06-09 |
 | [Kay Leni Tayo](https://open.spotify.com/track/2HWV9j2xDQ0hXgzyvildem) | [Nica del Rosario](https://open.spotify.com/artist/2zgF783l4A3tMjr081z1wt), [Jeli Mateo](https://open.spotify.com/artist/1utUsJuiFDlsS8p7rROXaw), [Justine Peña](https://open.spotify.com/artist/1FoK14ZJHe7ltFQy1iCaSS) | [Kay Leni Tayo](https://open.spotify.com/album/1nFUv6qsIezDnBzWumZ2ER) | 2:22 | 2022-05-10 | 2022-05-12 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-10 | 2024-12-29 |
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2023-07-24 | 2024-10-11 |
@@ -1070,6 +1070,7 @@
 | [The Very First Night \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:20 | 2021-11-14 | 2021-11-19 |
 | [The Way I Loved You \(Taylor’s Version\)](https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:03 | 2021-04-11 | 2021-04-19 |
 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 | 2026-03-21 | 2026-03-23 |
+| [Thinking Of You](https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8) | 4:06 | 2026-06-08 |  |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-03-27\* | 2021-04-01 |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2021-04-01 | 2021-07-24 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 | 2022-05-25 |

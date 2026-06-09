@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 3257,
+  "num_followers": 3293,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Reach It",
-      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Jamali",
         "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 242840,
       "name": "Love Me For Me",
       "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Reach It",
+      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Congratulate",
-      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
+      "duration_ms": 279306,
+      "name": "Weekend Special",
+      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
       "artists": [
         {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         }
       ],
-      "duration_ms": 279306,
-      "name": "Weekend Special",
-      "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+      "duration_ms": 225720,
+      "name": "Congratulate",
+      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "Magesh",
-      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 275000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 269720,
+      "name": "Magesh",
+      "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
       "added_at": "2026-04-24 07:22:05",

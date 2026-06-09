@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 
 > the best in rock indie folk pop alternative
 
-[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,171 likes - 421 songs - 1 day 1 hr 54 min
+[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,171 likes - 421 songs - 1 day 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 | 19 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
 | 20 | [Coming Home](https://open.spotify.com/track/00MVoKw5u3Q9Y6eX7G0Gti) | [New Laconia](https://open.spotify.com/artist/02kLPBDw75Rx1ZdrJpYfFZ) | [Coming Home](https://open.spotify.com/album/708YCm11od5OEQS1ZEYDRQ) | 4:08 |
 | 21 | [Three Minute Magic](https://open.spotify.com/track/1l6oqhL1bLFmmudklHowzI) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [Three Minute Magic](https://open.spotify.com/album/6SwAgNVB2lhOWz03fISORU) | 3:35 |
-| 22 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 2:41 |
+| 22 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2bsXxkEDbYeTCh176SAmyO) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Bonzo Goes to Bitburg](https://open.spotify.com/album/4txwSTabiusDqxGnVZ2zFP) | 3:23 |
 | 23 | [Sono Solo Come Te](https://open.spotify.com/track/2zPWbtr0RbEcVW8A1sWEfu) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp), [Andrea Sperotto](https://open.spotify.com/artist/2XiPbS5BOi5VBlAASH78NU) | [Sono Come Te: Quasi Illegale](https://open.spotify.com/album/5fVH2p8zpgLw48Jb7xItky) | 4:06 |
 | 24 | [No Apologies](https://open.spotify.com/track/4WVYwBseLHUCn54hQwEdg2) | [Exiles Of Singularity](https://open.spotify.com/artist/1xRMGCWiuniRs8Cxdg5sfw) | [No Apologies](https://open.spotify.com/album/1l8PTx88saedtMYMxDXDSM) | 3:11 |
 | 25 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 |

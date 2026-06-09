@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,625 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,632 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 33 | [Gaviota Traidora](https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 2:52 |
 | 34 | [Un Beso a Medias](https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Un Beso a Medias](https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc) | 3:53 |
 | 35 | [Acá Entre Nos \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:43 |
-| 36 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 |
-| 37 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 |
+| 36 | [Nadie Como Tú](https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nadie Como Tú](https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1) | 3:30 |
+| 37 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 |
 | 38 | [Como Tú](https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 2:42 |
 | 39 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 40 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
 | 41 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 |
 | 42 | [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 |
 | 43 | [No Te Apartes De Mí](https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:59 |
-| 44 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
-| 45 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cuando Te Enamores](https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f) | 3:44 |
+| 44 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cuando Te Enamores](https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f) | 3:44 |
+| 45 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
 | 46 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
 | 47 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |
 | 48 | [Mala Mala](https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío](https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h) | 2:30 |
 | 49 | [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 |
 | 50 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 |
 
-Snapshot ID: `aiNjAAAAAADFKWdjohNmz7tGSTO+XvvR`
+Snapshot ID: `aiS0gAAAAAB09y7K/obz2JRSHmNdFqHm`

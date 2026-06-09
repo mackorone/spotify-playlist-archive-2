@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 158701,
       "name": "COCO",
       "url": "https://open.spotify.com/track/65QicJDDhsVj3zVBetDMOU"
@@ -15625,6 +15625,24 @@
     },
     {
       "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "MAMI NO",
+      "url": "https://open.spotify.com/track/0v64OEKRYkqFKiTUjFPeGs"
+    },
+    {
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -21354,7 +21372,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Que Nadie Sepa",
       "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
@@ -24706,7 +24724,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"

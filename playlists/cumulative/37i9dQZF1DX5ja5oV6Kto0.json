@@ -11672,7 +11672,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 166578,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2wuUcvmzvPoAIYlTVDTvSI"
@@ -14702,6 +14702,28 @@
       "duration_ms": 141912,
       "name": "Onji",
       "url": "https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU"
+    },
+    {
+      "album": {
+        "name": "Only for the night",
+        "url": "https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV"
+      },
+      "artists": [
+        {
+          "name": "jujuflow",
+          "url": "https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e"
+        },
+        {
+          "name": "SAINTMULA",
+          "url": "https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90671,
+      "name": "Only for the night",
+      "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
     },
     {
       "album": {

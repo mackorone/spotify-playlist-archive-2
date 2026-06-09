@@ -1567,6 +1567,36 @@
     },
     {
       "album": {
+        "name": "Como que n\u00e3o fica milion\u00e1ria?",
+        "url": "https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
+        },
+        {
+          "name": "MIB",
+          "url": "https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143735,
+      "name": "Como que n\u00e3o fica milion\u00e1ria?",
+      "url": "https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW"
+    },
+    {
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -3357,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "HATER",
+        "url": "https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB"
+    },
+    {
+      "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
@@ -3480,7 +3528,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 148732,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/0bE7SYiLfk1cFez4CKSNra"
@@ -5186,7 +5234,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 164210,
       "name": "Noiz Tem o Molho",
       "url": "https://open.spotify.com/track/7stt0fUsltORgJ2PeqfLC9"
@@ -6312,6 +6360,28 @@
       "duration_ms": 193846,
       "name": "Preta Classe A",
       "url": "https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev"
+    },
+    {
+      "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Preta f* quente",
+      "url": "https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W"
     },
     {
       "album": {
@@ -7924,7 +7994,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 126226,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"

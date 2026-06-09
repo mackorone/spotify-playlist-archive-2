@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2137032,
+  "num_followers": 2136802,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 211805,
       "name": "Fly - Acoustic",
       "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "What A Relief",
         "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Drugstore Houses",
-        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Drugstore Houses",
-      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Bashed Out",
         "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 221120,
       "name": "Bashed Out",
       "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Drugstore Houses",
+        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Drugstore Houses",
+      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/5atmHcN5ky3QHDN74C5DE4"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 211488,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/6J8sDxzI3nJqHMnRcKX9VI"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -1759,18 +1775,34 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+        "name": "Tugboats - EP",
+        "url": "https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+      "duration_ms": 227152,
+      "name": "Tugboats",
+      "url": "https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "I-89 - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1811,34 +1843,18 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Tugboats - EP",
-        "url": "https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5"
+        "name": "Inside the stone",
+        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+          "name": "lili may",
+          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
         }
       ],
-      "duration_ms": 227152,
-      "name": "Tugboats",
-      "url": "https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "I-89 - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
+      "duration_ms": 124034,
+      "name": "Inside the stone",
+      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1859,22 +1875,6 @@
       "duration_ms": 218805,
       "name": "Indefinitely",
       "url": "https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Inside the stone",
-        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
-      },
-      "artists": [
-        {
-          "name": "lili may",
-          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
-        }
-      ],
-      "duration_ms": 124034,
-      "name": "Inside the stone",
-      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "It Wasn't Enough",
-        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "It Wasn't Enough",
-      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Worst Day (Stripped Version)",
         "url": "https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 168774,
       "name": "Worst Day - Stripped Version",
       "url": "https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "It Wasn't Enough",
+        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "It Wasn't Enough",
+      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
     },
     {
       "added_at": "2026-01-09 13:51:16",

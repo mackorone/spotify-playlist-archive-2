@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,693 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,762 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 21 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 |
 | 22 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
 | 23 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 |
-| 24 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
+| 24 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
 | 25 | [In My Arms](https://open.spotify.com/track/4y2sxvKpViUac3VXi02wki) | [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [In My Arms](https://open.spotify.com/album/50YuSk822CQPTg38BJTJcX) | 3:41 |
-| 26 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
+| 26 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 27 | [Kotshena](https://open.spotify.com/track/3qaV5Tj4wYD6PYPbDDehv1) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [KHAZNA](https://open.spotify.com/album/1e6TOfQPLEkZG03XHkY3s3) | 3:57 |
 | 28 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 29 | [Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Butcher's Coin](https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf) | 3:38 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 41 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
 | 42 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
 | 43 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
-| 44 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
+| 44 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |
-| 46 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
-| 47 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
+| 46 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
+| 47 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
 | 48 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
 | 49 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 |
 | 50 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |

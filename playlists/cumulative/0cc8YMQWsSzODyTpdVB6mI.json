@@ -1139,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
+    },
+    {
+      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc"
       },

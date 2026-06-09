@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 369029,
+  "num_followers": 369011,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 182121,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -1063,42 +1063,6 @@
     {
       "added_at": "2026-05-28 13:46:15",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
-    },
-    {
-      "added_at": "2026-05-28 13:46:15",
-      "album": {
         "name": "READY TO BLOW",
         "url": "https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI"
       },
@@ -1111,6 +1075,22 @@
       "duration_ms": 141223,
       "name": "READY TO BLOW",
       "url": "https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2026-05-28 13:46:15",
@@ -1131,6 +1111,26 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2026-05-28 13:46:15",
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
     },
     {
       "added_at": "2026-05-28 13:46:15",

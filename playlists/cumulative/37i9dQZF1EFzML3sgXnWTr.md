@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 6 hr 37 min
+131 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [SERENATA](https://open.spotify.com/track/3nmpavsMYtsZfgIP7sr1ji) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 3:08 | 2026-04-12 |  |
 | [Serenata Gangster \(feat\. Rocco Hunt\)](https://open.spotify.com/track/70KWb8lycyptWlHCjv7M8k) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 2:41 | 2024-12-12 |  |
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-09-20 |  |
+| [SOGNI SPORCHI](https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:04 | 2026-06-08 |  |
 | [SOLDI, AMORE](https://open.spotify.com/track/4zf47ed37Kac7bsZKcgUpa) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:57 | 2024-08-21 | 2025-01-06 |
 | [SOLDI, AMORE](https://open.spotify.com/track/6J2IPT5QmI6hcjf6zf7iMI) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:57 | 2025-01-05 |  |
 | [Standard](https://open.spotify.com/track/3y34Oj2rgQ2wrXsWpIFJH8) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Standard](https://open.spotify.com/album/16hacsVcvQ2w9oQK5lRw0p) | 3:05 | 2026-03-09 |  |

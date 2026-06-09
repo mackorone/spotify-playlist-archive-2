@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADc97OwdYwfTEYCN9b3xHHS",
+  "snapshot_id": "aiS0gAAAAAAT2CUCCgP4oZ6V6OkWTJT5",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 397200,
-      "name": "I'll Always Love My Mama",
-      "url": "https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound of Philadelphia Soul",
         "url": "https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 131448,
       "name": "Come Home Soon",
       "url": "https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 397200,
+      "name": "I'll Always Love My Mama",
+      "url": "https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 349426,
-      "name": "I Wanna Know Your Name",
-      "url": "https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Save the Children (Expanded Edition)",
         "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 146093,
       "name": "She's A Winner - Single Version",
       "url": "https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 349426,
+      "name": "I Wanna Know Your Name",
+      "url": "https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Memories are Here to Stay",
-      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Rare Doo Wop, Vol. 4",
         "url": "https://open.spotify.com/album/5VP0K1yc9SneXKF6KAnZd3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 140866,
       "name": "I'm Calling",
       "url": "https://open.spotify.com/track/3RjcNNuyAWYXmrulaD21CF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Memories are Here to Stay",
+      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165813,
-      "name": "I'm Glad Your're My Girl",
-      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+      "duration_ms": 153786,
+      "name": "But You Belong to Me",
+      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+      "duration_ms": 156049,
+      "name": "Wonder What Kind of Bag She's In",
+      "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 153786,
-      "name": "But You Belong to Me",
-      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
     },
     {
       "added_at": null,

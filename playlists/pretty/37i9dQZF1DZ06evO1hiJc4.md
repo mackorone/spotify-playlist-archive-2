@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,920 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,965 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 43 | [Angel in Your Eyes \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:06 |
 | 44 | [God Spoke](https://open.spotify.com/track/00VLRiYreh1z8BcK7gAYbY) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:14 |
 | 45 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
-| 46 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
-| 47 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
-| 48 | [To Be Human \(feat\. Labrinth\)](https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Wonder Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd) | 4:00 |
-| 49 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
-| 50 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
+| 46 | [ALL OR NOTHING](https://open.spotify.com/track/3L8pWfEVmI8fQAUUmuJ8HH) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [ALL OR NOTHING](https://open.spotify.com/album/0y9qgjT1lCYhDzdyKIK0Vz) | 3:17 |
+| 47 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
+| 48 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
+| 49 | [To Be Human \(feat\. Labrinth\)](https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Wonder Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd) | 4:00 |
+| 50 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
 
-Snapshot ID: `aiNjAAAAAACva5BYuxbY69ecmBZEgZwf`
+Snapshot ID: `aiS0gAAAAABnHIDe407dvPcI0+C853PW`

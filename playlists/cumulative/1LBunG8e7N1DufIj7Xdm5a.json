@@ -43563,6 +43563,28 @@
     },
     {
       "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        },
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162027,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/1k3T9hZwF7D8ZDWps7D27d"
+    },
+    {
+      "album": {
         "name": "ME CANSE DE INSISTIR",
         "url": "https://open.spotify.com/album/4ZetqQJP4lGO10wXdVh9qc"
       },
@@ -50058,6 +50080,24 @@
       "duration_ms": 194416,
       "name": "Nowhere to Run #2 (Happy Mood)",
       "url": "https://open.spotify.com/track/3ZIwip7SBBf13DUQc3ZLdh"
+    },
+    {
+      "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237538,
+      "name": "Noxious",
+      "url": "https://open.spotify.com/track/5Fdx1xdp4ng1kW0fvrcBVM"
     },
     {
       "album": {
@@ -58918,6 +58958,24 @@
       "duration_ms": 275406,
       "name": "Satu Nama Dalam Doa",
       "url": "https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk"
+    },
+    {
+      "album": {
+        "name": "Something strange in my head",
+        "url": "https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u"
+      },
+      "artists": [
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl"
     },
     {
       "album": {

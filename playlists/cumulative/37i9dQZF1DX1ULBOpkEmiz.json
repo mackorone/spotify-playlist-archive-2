@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-13",
-  "description": "Feeling like summer in 03'",
+  "description": "Feeling like summer in 04'",
   "name": "Summer Nostalgia",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 224426,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "album": {
+        "name": "4 Ever (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/33virfI7yTPHbUXJnsVHHm"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "4Ever (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S"
     },
     {
       "album": {
@@ -164,7 +186,7 @@
       },
       "artists": [
         {
-          "name": "JAY-Z",
+          "name": "JA\u0178-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
@@ -174,7 +196,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
@@ -236,7 +258,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 221280,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
@@ -254,7 +276,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
@@ -316,6 +338,28 @@
       "duration_ms": 265866,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "album": {
+        "name": "Tropical Storm",
+        "url": "https://open.spotify.com/album/03i0DCI2eCItJIeuibuE0I"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Feel It Boy",
+      "url": "https://open.spotify.com/track/6KUI3A3jmZ0cGLDzOT41lX"
     },
     {
       "album": {
@@ -600,10 +644,32 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 251426,
       "name": "Just Friends (Sunny)",
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
     },
     {
       "album": {
@@ -622,7 +688,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
@@ -702,7 +768,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
@@ -768,7 +834,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 274733,
       "name": "Rock The Boat",
       "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
@@ -899,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Back For The First Time",
+        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300933,
+      "name": "Southern Hospitality (Featuring Pharrell)",
+      "url": "https://open.spotify.com/track/4cNhx6OO1XpvwT6xZnb83B"
+    },
+    {
+      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -972,7 +1060,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 198880,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
@@ -1078,7 +1166,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Why You Wanna",
       "url": "https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv"

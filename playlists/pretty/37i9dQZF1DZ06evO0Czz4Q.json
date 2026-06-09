@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139490,
+  "num_followers": 139508,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAC5zmF0X+gH24KEouJ/NgHx",
+  "snapshot_id": "aiS0gAAAAACNFV8uTm1Th5dVd2aQe+eT",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 322226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 386638,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
+      "duration_ms": 282880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 282880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
+      "duration_ms": 386638,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
     },
     {
       "added_at": null,
@@ -719,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Bring Your Heart To Mine",
+      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 375791,
+      "name": "Because It's Really Love",
+      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
@@ -743,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 375791,
-      "name": "Because It's Really Love",
-      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Bring Your Heart To Mine",
-      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 292533,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duets (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "The Lady Is A Tramp",
-      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 245551,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "The Lady Is A Tramp",
+      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     },
     {
       "added_at": null,

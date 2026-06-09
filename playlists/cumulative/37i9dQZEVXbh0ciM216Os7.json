@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 165333,
       "name": "110 at Midnight",
       "url": "https://open.spotify.com/track/3xvM7ox4LI1uNbonZniR7a"
@@ -63286,6 +63286,36 @@
       "duration_ms": 223827,
       "name": "Sunday Bloody Sunday (Metal Version)",
       "url": "https://open.spotify.com/track/63VxeCExz07CEXG95igB5k"
+    },
+    {
+      "album": {
+        "name": "LAGUNA",
+        "url": "https://open.spotify.com/album/4nonBK5WuZOuIZzuZehbKW"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314666,
+      "name": "Sunset Coast",
+      "url": "https://open.spotify.com/track/7ConpHIIHP2okXNLXdUMmZ"
     },
     {
       "album": {

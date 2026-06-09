@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1604463,
+  "num_followers": 1604464,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 106693,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 106693,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 107323,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+      "duration_ms": 130826,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1315,6 +1315,54 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 85866,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1347,22 +1395,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
       },
@@ -1375,22 +1407,6 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 85866,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 237013,
       "name": "She's Lost Control - 2007 Remaster",
       "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "The Clash (US Version)",
-        "url": "https://open.spotify.com/album/4I1PslhlP1HcRlVHml2voJ"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "White Riot",
-      "url": "https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 132786,
       "name": "Banned In D.C.",
       "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Clash (US Version)",
+        "url": "https://open.spotify.com/album/4I1PslhlP1HcRlVHml2voJ"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "White Riot",
+      "url": "https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/5NMnpiXpslafTY8vxCOGOZ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Operators Manual (Buzzcocks Best)",
-        "url": "https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "What Do I Get?",
-      "url": "https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO"
     }
   ],
   "unique_name": "Classic Punk",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: İrem Derici
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,643 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,917 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Durum Çok Acil](https://open.spotify.com/track/5v5ZBIltt6kj20tiILRATp) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 2:53 |
 | 2 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 |
-| 3 | [Dünyanın Yalanları](https://open.spotify.com/track/4etcbQKZ189y2Y0ny3ari4) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Dünyanın Yalanları](https://open.spotify.com/album/4r9nRUvhGWQ1gj0CERnvUK) | 3:07 |
-| 4 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
-| 5 | [Hicran](https://open.spotify.com/track/3bYgZMDAXL6hSA0RPJWg2E) | [Koray Avcı](https://open.spotify.com/artist/3sV7ijrP5xMHgWRlOnPTCi), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Hicran](https://open.spotify.com/album/2ODlYSvQ1tJEJ5YuozsmaO) | 3:59 |
-| 6 | [Yaşamak Dedikleri](https://open.spotify.com/track/6APlItDovOg6C9vkOSqF7H) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Yaşamak Dedikleri](https://open.spotify.com/album/6Z2WdZY50GQdM8hKdTyzRU) | 3:04 |
-| 7 | [Adını Duyunca](https://open.spotify.com/track/2t8yE8UmINpEZqT3ckMUSO) | [Onur Can Özcan](https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs) | [Adını Duyunca](https://open.spotify.com/album/7AcQqZSo13UQpEGknD58T1) | 2:56 |
-| 8 | [Türkiye'm](https://open.spotify.com/track/0XsqXgOOn0M3Qd4ttGPiPe) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Türkiye'm](https://open.spotify.com/album/0WVp1gOAwIOgaSxrpbF4QF) | 2:18 |
-| 9 | [Tek Yürek](https://open.spotify.com/track/1Xfv2nvx6egPas7SeTRkMx) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Yürek](https://open.spotify.com/album/0vUEugolxJM9IpZwJ4UWR4) | 2:33 |
-| 10 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
+| 3 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
+| 4 | [Dünyanın Yalanları](https://open.spotify.com/track/4etcbQKZ189y2Y0ny3ari4) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn), [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Dünyanın Yalanları](https://open.spotify.com/album/4r9nRUvhGWQ1gj0CERnvUK) | 3:07 |
+| 5 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
+| 6 | [Hicran](https://open.spotify.com/track/3bYgZMDAXL6hSA0RPJWg2E) | [Koray Avcı](https://open.spotify.com/artist/3sV7ijrP5xMHgWRlOnPTCi), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Hicran](https://open.spotify.com/album/2ODlYSvQ1tJEJ5YuozsmaO) | 3:59 |
+| 7 | [Yaşamak Dedikleri](https://open.spotify.com/track/6APlItDovOg6C9vkOSqF7H) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Yaşamak Dedikleri](https://open.spotify.com/album/6Z2WdZY50GQdM8hKdTyzRU) | 3:04 |
+| 8 | [Adını Duyunca](https://open.spotify.com/track/2t8yE8UmINpEZqT3ckMUSO) | [Onur Can Özcan](https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs) | [Adını Duyunca](https://open.spotify.com/album/7AcQqZSo13UQpEGknD58T1) | 2:56 |
+| 9 | [Türkiye'm](https://open.spotify.com/track/0XsqXgOOn0M3Qd4ttGPiPe) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Türkiye'm](https://open.spotify.com/album/0WVp1gOAwIOgaSxrpbF4QF) | 2:18 |
+| 10 | [Tek Yürek](https://open.spotify.com/track/1Xfv2nvx6egPas7SeTRkMx) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Yürek](https://open.spotify.com/album/0vUEugolxJM9IpZwJ4UWR4) | 2:33 |
 | 11 | [Ömrüm](https://open.spotify.com/track/4QLYQYCuRKHKXOUTfM0IV1) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Ömrüm](https://open.spotify.com/album/2rCDzLesL34bol5drdp92u) | 2:37 |
 | 12 | [Yardım Et Allah'ım](https://open.spotify.com/track/1JFHri01CDWtfgEoCHgGGp) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Yardım Et Allah'ım](https://open.spotify.com/album/0rnL3k08JC32o3XTXRE0KT) | 3:29 |
 | 13 | [Yıkamazlar Beni \- Yıkamazlar Bizi](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni \(Yıkamazlar Bizi\)](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 50 | [Sanmadan Git](https://open.spotify.com/track/6NvKz9LOa9KbCmd3NEnKP1) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Sanmadan Git](https://open.spotify.com/album/4tw3quCr2Q91TUqP1tD30i) | 2:57 |
 
-Snapshot ID: `AAAAAMj5JPMcStj2nl9QegWSKHRJV3HR`
+Snapshot ID: `AAAAAGF+cFlngeKCmxZt77P2dphrm7ZM`

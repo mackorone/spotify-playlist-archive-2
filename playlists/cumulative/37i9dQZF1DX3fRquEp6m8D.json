@@ -929,6 +929,32 @@
     },
     {
       "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/6NC5rf0j1JcmXhKNlZqWkr"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Fher de Man\u00e1",
+          "url": "https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303489,
+      "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
+      "url": "https://open.spotify.com/track/4gdflcU7uNKj4FldHsrCly"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },

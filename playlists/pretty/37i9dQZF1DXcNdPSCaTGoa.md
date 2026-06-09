@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: J'Something
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,257 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,293 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 14 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
 | 15 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 |
 | 16 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 |
-| 17 | [Reach It](https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 3:34 |
-| 18 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 17 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 18 | [Reach It](https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 3:34 |
 | 19 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 |
 | 20 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
 | 21 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
 | 22 | [Indigo Girl](https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [In The Meantime](https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ) | 3:00 |
-| 23 | [Congratulate](https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:45 |
+| 23 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 |
 | 24 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
-| 25 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 |
+| 25 | [Congratulate](https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:45 |
 | 26 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 27 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
 | 28 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 47 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
 | 48 | [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 |
 | 49 | [I’m Burning Up](https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [I'm Burning Up](https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3) | 5:10 |
-| 50 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
-| 51 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
+| 50 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
+| 51 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
 | 52 | [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli), [Hoodlum](https://open.spotify.com/artist/1jN8jSEK1ODKCfjviN7Hxp) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 |
 | 53 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
 | 54 | [Grateful \- Interlude](https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 0:59 |

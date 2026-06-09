@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1896964,
+  "num_followers": 1896845,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -999,22 +1015,6 @@
       "duration_ms": 238427,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
         "name": "Blah Blah Blah",
         "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 100851,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-06-04 22:01:23",
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-06-04 22:01:23",
+      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 237952,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     }
   ],
   "unique_name": "Good Mood",

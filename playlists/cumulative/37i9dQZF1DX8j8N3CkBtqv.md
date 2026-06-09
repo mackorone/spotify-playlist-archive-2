@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Hansika Pareek, Parth Srivastava and other exciting artists.
 
-1,463 songs - 3 day 8 hr 16 min
+1,464 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW) | 3:44 | 2025-12-19 | 2026-02-07 |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2025-01-18 |
 | [Mere Maahiya](https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Mere Maahiya](https://open.spotify.com/album/0l2OruB8Be4CpcwElIj0R3) | 2:41 | 2026-02-20 | 2026-04-06 |
+| [Mere Maahiya](https://open.spotify.com/track/1cjvSUS3FtUtpjf4Zejcbm) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Mere Maahiya](https://open.spotify.com/album/61M2R0qEQDN5Ji7fmvN2kf) | 3:54 | 2026-05-29 |  |
 | [Mere Qareeb](https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Mere Qareeb](https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo) | 3:09 | 2024-03-01 | 2024-04-19 |
 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2023-12-08 | 2024-02-24 |
 | [Mere Saamne](https://open.spotify.com/track/6aprpTQqxq1Y5nxDuUjIdx) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Irtiza\-Asad](https://open.spotify.com/artist/5oKmeLfJn2WvNUYc9z2Zon) | [Mere Saamne](https://open.spotify.com/album/2cNWkDBveweg2JpzjVxmsv) | 3:03 | 2024-08-09 | 2024-09-21 |
@@ -1407,7 +1408,7 @@
 | [Visions](https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Visions](https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD) | 3:04 | 2023-09-01 | 2023-09-30 |
 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 | 2024-11-15 | 2025-02-01 |
 | [Waniyo](https://open.spotify.com/track/0tCxQZm08azqlgKeolJG2H) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Masrat Un Nissa](https://open.spotify.com/artist/0wSOCKGagrM3jFmK1W1bMk), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Waniyo](https://open.spotify.com/album/767lEQtsidifBJXAx6DV1m) | 3:07 | 2026-05-01 |  |
-| [Waqt](https://open.spotify.com/track/2CHJGXI9cbp16WLpz3ohdj) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Bade Dino Baad](https://open.spotify.com/album/3ZBKDnhGrtyJsdSjj823z6) | 4:02 | 2026-04-24 |  |
+| [Waqt](https://open.spotify.com/track/2CHJGXI9cbp16WLpz3ohdj) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Bade Dino Baad](https://open.spotify.com/album/3ZBKDnhGrtyJsdSjj823z6) | 4:02 | 2026-04-24 | 2026-06-09 |
 | [Waqt](https://open.spotify.com/track/4j5AUPPkESdT13VjdKshrg) | [Sonu Ishteyak Khan](https://open.spotify.com/artist/0vhxz4ynkkPWrsWqhOAHye), [Akshay The One](https://open.spotify.com/artist/5IRSf4S62R0kCxuSyycXJd), [Ishteyak Mustak](https://open.spotify.com/artist/0qod5rdkvWAFMPs6fBQTEL) | [Waqt](https://open.spotify.com/album/1Q2nkQrzRZ3xPKv1t8Wudc) | 4:41 | 2026-05-01 |  |
 | [Watch Out](https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1), [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Watch Out](https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf) | 4:02 | 2023-08-18 | 2023-09-16 |
 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-04 | 2025-07-19 |

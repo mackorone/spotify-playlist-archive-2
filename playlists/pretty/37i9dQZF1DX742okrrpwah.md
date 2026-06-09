@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Taylor Swift, GIMS x Gazo, Aya Nakamura et Charlotte Cardin au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,143 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,120 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
-| 2 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
+| 2 | [Triple S](https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Maximum](https://open.spotify.com/artist/2fD6O2xt1zGLGGWHkR0k1n) | [Triple S](https://open.spotify.com/album/5TsMWf6f3G5OGo9ZwgQ6BT) | 2:46 |
 | 3 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |
 | 4 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
 | 5 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |

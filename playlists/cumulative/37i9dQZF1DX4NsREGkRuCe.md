@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,191 songs - 2 day 10 hr 17 min
+1,192 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 | 2023-06-22 | 2023-07-14 |
 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 | 2023-08-03 | 2024-03-29 |
 | [Elon Musk \- Remix](https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV) | 3:24 | 2023-06-27 | 2023-07-14 |
+| [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 | 2026-06-08 |  |
 | [Emeka Dance](https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | ["Of Many Colors": Orange](https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x) | 2:39 | 2024-10-18 | 2024-11-16 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-08 | 2022-09-26 |
 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-08 | 2023-01-20 |
@@ -1062,7 +1063,7 @@
 | [Testimony](https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Testimony](https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY) | 2:26 | 2022-06-08 | 2023-09-28 |
 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 | 2023-08-03 | 2023-09-29 |
 | [Thankful](https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 4:12 | 2026-04-03 | 2026-04-30 |
-| [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-13 |  |
+| [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-13 | 2026-06-09 |
 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 | 2022-06-08 | 2023-01-20 |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 | 2024-05-09 |
 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:17 | 2023-03-30 | 2023-05-11 |

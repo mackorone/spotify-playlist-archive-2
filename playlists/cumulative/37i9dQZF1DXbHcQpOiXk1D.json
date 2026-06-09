@@ -9781,6 +9781,24 @@
     },
     {
       "album": {
+        "name": "nights in london",
+        "url": "https://open.spotify.com/album/2eA7p15qjmRVrjbsDMZTOz"
+      },
+      "artists": [
+        {
+          "name": "David Kofi",
+          "url": "https://open.spotify.com/artist/3FHJmeMHKSUj0t9cegVyx5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219323,
+      "name": "nights in london",
+      "url": "https://open.spotify.com/track/6rBOW3WmUDtVUFiQ8vKna0"
+    },
+    {
+      "album": {
         "name": "No Be Today (Yeye Be Dem Policy)",
         "url": "https://open.spotify.com/album/01EuhGK8frKIRtHJEdMEOI"
       },
@@ -12404,7 +12422,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 307574,
       "name": "Something Blues",
       "url": "https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21367,
+  "num_followers": 21373,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAB2tUVQlraiSh6ARguq9ZHy",
+  "snapshot_id": "aiS0gAAAAABJHRMQAll//3qMfbOgDtew",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 172101,
       "name": "Where Have You Been?",
       "url": "https://open.spotify.com/track/6v3Hqzmo0iGbXneqU0kYz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 110882,
-      "name": "Baby I'm Still Jealous",
-      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -611,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -647,6 +611,42 @@
       "duration_ms": 260702,
       "name": "Hollup",
       "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 110882,
+      "name": "Baby I'm Still Jealous",
+      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 144611,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/5bssIfMnxCQf5ceNoeuz6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
       "duration_ms": 168461,
       "name": "Short Skirt",
       "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
-      },
-      "artists": [
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 208377,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1mgXDDTHADa8FIGL2wcV4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 174522,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
     },
     {
       "added_at": null,

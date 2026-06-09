@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 288183,
+  "num_followers": 288201,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Batelo Morena",
-      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 186546,
       "name": "El Camale\u00f3n",
       "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 182218,
+      "name": "Batelo Morena",
+      "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Mas Control",
-        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Te Sigo Amando",
         "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 215200,
       "name": "No Hay Problema",
       "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Mas Control",
+        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "El wiri wiri",
-        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 158165,
-      "name": "El wiri wiri",
-      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "A Mover el Guayin",
         "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 196800,
       "name": "Las mujeres quieren bailar",
       "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "El wiri wiri",
+        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 158165,
+      "name": "El wiri wiri",
+      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
-      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 191173,
       "name": "A Ver Si Capea",
       "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
+      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Peque\u00f1a Y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 204337,
       "name": "CARALUNA",
       "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Peque\u00f1a Y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Jam out Session 1",
-        "url": "https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr"
-      },
-      "artists": [
-        {
-          "name": "Afecto Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL"
-        }
-      ],
-      "duration_ms": 179212,
-      "name": "Cuando Los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 189106,
       "name": "Zapateado Encabronado - Medley",
       "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Jam out Session 1",
+        "url": "https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr"
+      },
+      "artists": [
+        {
+          "name": "Afecto Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL"
+        }
+      ],
+      "duration_ms": 179212,
+      "name": "Cuando Los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
     },
     {
       "added_at": "2024-11-28 22:59:11",

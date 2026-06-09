@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 159895,
       "name": "24 Pota",
       "url": "https://open.spotify.com/track/2mORMGa009LshCqp7tenSA"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 322000,
       "name": "Allo Allo",
       "url": "https://open.spotify.com/track/7cjl8UCv1RRaQaLNsdhBEQ"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 212505,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0CtUfVoVGHDYIkpGzPKBOs"
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "De M' Agapouses",
+        "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254210,
+      "name": "De M' Agapouses",
+      "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
+    },
+    {
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 117167,
       "name": "DISS 2-Daima",
       "url": "https://open.spotify.com/track/7Fy3tpDlGjWTjHnJAtdDmx"
@@ -7263,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "Ki Allo",
+        "url": "https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ"
+      },
+      "artists": [
+        {
+          "name": "Danae",
+          "url": "https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193251,
+      "name": "Ki Allo",
+      "url": "https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB"
+    },
+    {
+      "album": {
         "name": "CR3AM T3AM",
         "url": "https://open.spotify.com/album/79orVjEStHd1MvmlIoAblg"
       },
@@ -8295,6 +8331,32 @@
     },
     {
       "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/0aH4QUUau3MYFKhxfk0dks"
+    },
+    {
+      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -8440,6 +8502,28 @@
       "duration_ms": 233744,
       "name": "Maracaibo",
       "url": "https://open.spotify.com/track/1AsCxLAvSfilIM9ubCf89B"
+    },
+    {
+      "album": {
+        "name": "MATIA",
+        "url": "https://open.spotify.com/album/4Sq2Y2BuOdQPDgQEdytaB0"
+      },
+      "artists": [
+        {
+          "name": "SARIGIAN",
+          "url": "https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB"
+        },
+        {
+          "name": "GLS",
+          "url": "https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174314,
+      "name": "MATIA",
+      "url": "https://open.spotify.com/track/6VpyXpen3OkhaNPjkMQhg3"
     },
     {
       "album": {
@@ -9048,6 +9132,24 @@
       "duration_ms": 152000,
       "name": "Monaxiki Kardia",
       "url": "https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH"
+    },
+    {
+      "album": {
+        "name": "FOR ALL THE BEACHES 4.4",
+        "url": "https://open.spotify.com/album/2r7LYuNaLDg1ueW6AkDCJM"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115174,
+      "name": "MONO GIA MENA",
+      "url": "https://open.spotify.com/track/2BZ6019iPEuViSIrjVn4Pt"
     },
     {
       "album": {
@@ -12105,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "Sto Mualo Sou",
+        "url": "https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194658,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/2hab1UeHfHnmoioglCfico"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
       },
@@ -12719,6 +12839,24 @@
     },
     {
       "album": {
+        "name": "Spaste Ta",
+        "url": "https://open.spotify.com/album/3jfetX93UbxUrzpaEd1dRq"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Spaste Ta",
+      "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
+    },
+    {
+      "album": {
         "name": "Press Start",
         "url": "https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk"
       },
@@ -12730,7 +12868,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 182727,
       "name": "spastoSPASTO",
       "url": "https://open.spotify.com/track/53NL9kIqpbSb09msCKBaT5"
@@ -13078,7 +13216,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 192720,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6HpN4IQxfPmvfvjRH8FbL3"
@@ -13358,7 +13496,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 179820,
       "name": "Ta Xronia De Girnane",
       "url": "https://open.spotify.com/track/4Spx48nYmHCdRLGCGJee7C"
@@ -15538,7 +15676,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 130370,
       "name": "Xaderfaki",
       "url": "https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe"
@@ -16190,6 +16328,24 @@
       "duration_ms": 262736,
       "name": "\u0398\u03b1 \u039d\u03b9\u03ba\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5",
       "url": "https://open.spotify.com/track/4SA9VcYuNJWgBlCjVdIRz5"
+    },
+    {
+      "album": {
+        "name": "\u039c\u0397 \u039c\u0395 \u039a\u03a1\u038a\u039d\u0395\u0399\u03a3",
+        "url": "https://open.spotify.com/album/1dajQMalLpnTZzD0BJURR0"
+      },
+      "artists": [
+        {
+          "name": "PakelDj",
+          "url": "https://open.spotify.com/artist/2IBq49mnHMFx9he2kmPigF"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157880,
+      "name": "\u039c\u0397 \u039c\u0395 \u039a\u03a1\u038a\u039d\u0395\u0399\u03a3",
+      "url": "https://open.spotify.com/track/6cCqKjD1W4wzTPg2B9JYKP"
     },
     {
       "album": {

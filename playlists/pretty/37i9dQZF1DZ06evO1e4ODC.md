@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,610 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,627 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 34 | [Princesas Mágicas \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
 | 35 | [Sentado En Su Trono](https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:42 |
 | 36 | [Mi Vida Sin Ti](https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Un Brote De Adoración 2](https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU) | 5:14 |
-| 37 | [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 |
+| 37 | [Razones Pa' vivir](https://open.spotify.com/track/2bSiqgJdac8Jysx7AoXguQ) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:17 |
 | 38 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
 | 39 | [Tal Como Soy](https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:39 |
 | 40 | [Con Manos Vacías \- En Vivo](https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Con Manos Vacías](https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO) | 7:06 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 48 | [Brilla](https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:19 |
 | 49 | [Suave Voz \- En Vivo](https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j) | 3:38 |
 
-Snapshot ID: `aiNjAAAAAABk5/Otx/hoT7ThMqcVfwLT`
+Snapshot ID: `aiS0gAAAAADWGoP6npYTwEsUIMmEqCvY`

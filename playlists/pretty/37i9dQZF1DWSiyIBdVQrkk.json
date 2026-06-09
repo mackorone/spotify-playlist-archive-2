@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2143877,
+  "num_followers": 2143704,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
-      },
-      "artists": [
-        {
-          "name": "Pressure Busspipe",
-          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Labour Of Love I & II",
-        "url": "https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3"
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
       "artists": [
         {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu"
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -639,6 +623,22 @@
       "duration_ms": 241600,
       "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Labour Of Love I & II",
+        "url": "https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Most Wanted: The Best of King Yellowman",
+        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
+      },
+      "artists": [
+        {
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+        }
+      ],
+      "duration_ms": 387306,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 204000,
       "name": "Spanish Town Rockin'",
       "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Most Wanted: The Best of King Yellowman",
-        "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        }
-      ],
-      "duration_ms": 387306,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "At We Feet (with Damian Marley)",
-        "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "At We Feet (with Damian Marley)",
-      "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Equal Rights (Legacy Edition)",
         "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "At We Feet (with Damian Marley)",
+        "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "At We Feet (with Damian Marley)",
+      "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Tanya...Collection Of Hits",
         "url": "https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 253160,
       "name": "It's A Pity",
       "url": "https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 234930,
-      "name": "Switch It Up (feat. Original Koffee)",
-      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -939,6 +919,26 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 234930,
+      "name": "Switch It Up (feat. Original Koffee)",
+      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 283013,
       "name": "Jah Army",
       "url": "https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "BIG 45",
-        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 224763,
-      "name": "BIG 45",
-      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+        "name": "BIG 45",
+        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
         }
       ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
+      "duration_ms": 224763,
+      "name": "BIG 45",
+      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Jamaica Jamaica",
-        "url": "https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 211620,
-      "name": "Jamaica Jamaica",
-      "url": "https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl"
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1091,6 +1075,22 @@
       "duration_ms": 201266,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Jamaica Jamaica",
+        "url": "https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 211620,
+      "name": "Jamaica Jamaica",
+      "url": "https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1903,6 +1903,30 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Revelation Pt. II: \"The Fruit of Life\"",
+        "url": "https://open.spotify.com/album/0kJMrx4gL91xAf7VCQFKKI"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/2PeRJj9lTSq7Eb3UHXLFK8"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1923,22 +1947,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Black Star",
-        "url": "https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB"
-      },
-      "artists": [
-        {
-          "name": "Anthony B",
-          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "World A Reggae Music",
-      "url": "https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Legend (The Definitive Remasters)",
         "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
@@ -1948,9 +1956,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256493,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
     }
   ],
   "unique_name": "One Love",

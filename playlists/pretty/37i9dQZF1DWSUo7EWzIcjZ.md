@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,003 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,993 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 20 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
 | 21 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 22 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
-| 23 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
-| 24 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
-| 25 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
+| 23 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
+| 24 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
+| 25 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
 | 26 | [Me Olvide De Vivir](https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:51 |
 | 27 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 28 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |

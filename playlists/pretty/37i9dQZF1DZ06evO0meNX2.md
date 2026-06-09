@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,647 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,662 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 12 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 |
 | 13 | [Golpes De La Vida](https://open.spotify.com/track/6GMSmRAi8t2uQySgwy2P6F) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:41 |
 | 14 | [Pachamama](https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:20 |
-| 15 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 |
-| 16 | [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 |
+| 15 | [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 |
+| 16 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 |
 | 17 | [¿Para Qué Hacernos Daño?](https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [¿Para Qué Hacernos Daño?](https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg) | 2:40 |
 | 18 | [Cinco Celulares](https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:45 |
 | 19 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 38 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 |
 | 39 | [DELANTE DE MI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:38 |
 | 40 | [Flotando En El Aire](https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW) | 3:04 |
-| 41 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
+| 41 | [Los Hermanos](https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS) | 3:37 |
 | 42 | [Blindado El Carro](https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:08 |
 | 43 | [AMOR PRISIONERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:04 |
-| 44 | [Los Hermanos](https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS) | 3:37 |
+| 44 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 45 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 |
 | 46 | [Vida Loca](https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 4:06 |
 | 47 | [HAY UNA MUJER \- En Vivo desde Los Ángeles](https://open.spotify.com/track/7zW3Jy3NS0nLnvRbwosBwC) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [EN GUERRA](https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [GRAN MAESTRE II](https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF) | 3:33 |
 | 50 | [El Plumas](https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 4:05 |
 
-Snapshot ID: `aiNjAAAAAADW4pA+14SWER4e107hHaek`
+Snapshot ID: `aiS0gAAAAAAy+c6vfo/ikPpII1igLBrs`

@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304047,
+  "num_followers": 304057,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Clocks",
-        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
-      },
-      "artists": [
-        {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
-        }
-      ],
-      "duration_ms": 197576,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
+      },
+      "artists": [
+        {
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+        }
+      ],
+      "duration_ms": 197576,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "my love mine all mine",
         "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 165320,
       "name": "my love mine all mine",
       "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2026-03-06 05:00:19",

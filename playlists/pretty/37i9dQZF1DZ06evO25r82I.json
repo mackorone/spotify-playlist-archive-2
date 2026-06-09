@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 49889,
+  "num_followers": 49900,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABObnJX+TKYd04K7DZcNTva",
+  "snapshot_id": "aiS0gAAAAADwuehrZz8cfx2JfLWNpg0O",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 242693,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
+      "duration_ms": 160560,
+      "name": "Your New Aesthetic",
+      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Your New Aesthetic",
-      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
+      "duration_ms": 242693,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
     },
     {
       "added_at": null,

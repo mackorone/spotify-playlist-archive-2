@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 258 songs - 16 hr 16 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 260 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,5 +266,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 256 | [Sunshine](https://open.spotify.com/track/7JjIWXd0RopJ8wSMTIsfZr) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:55 |
 | 257 | [Sky Is Falling](https://open.spotify.com/track/5R41avlfLHAEAng87SRRbQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb) | [2nd Collection](https://open.spotify.com/album/4GWqqGqNbOwUoTiMxaBMgq) | 4:41 |
 | 258 | [I Did This To Myself](https://open.spotify.com/track/7fJM4XjW6m30iPxPxKeGpb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:30 |
+| 259 | [Modern Value](https://open.spotify.com/track/44WnhgkarymulMnz7RLIF0) | [Victoria](https://open.spotify.com/artist/7ts2SN0bUf0JFuFbQo8xe4) | [Modern Value](https://open.spotify.com/album/2gxNz8ZRquL5UEQmZ5ObOl) | 4:42 |
+| 260 | [Found God in a Tomato](https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [High Visceral, Pt\. 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo) | 8:54 |
 
-Snapshot ID: `AAAgWvxZbVnpXgqxREeHqhYPBJqQfNZF`
+Snapshot ID: `AAAgXDQhdIIIuolIcPKvn4xzHFaaJHuM`

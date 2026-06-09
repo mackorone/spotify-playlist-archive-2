@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 224351,
       "name": "Al Final Del D\u00eda",
       "url": "https://open.spotify.com/track/02emB6LJ3uTUVClD9WBMnO"
@@ -3348,6 +3348,24 @@
       "duration_ms": 178798,
       "name": "Brickell - Intro Extended",
       "url": "https://open.spotify.com/track/1twg8SuwiVBgvLedoXpv4R"
+    },
+    {
+      "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "BRILLO",
+      "url": "https://open.spotify.com/track/7d2FPTyNaL8cHWct8aLTFq"
     },
     {
       "album": {
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"

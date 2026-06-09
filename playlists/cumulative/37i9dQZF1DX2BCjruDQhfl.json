@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "30 Degrees",
+        "url": "https://open.spotify.com/album/6dOlNft80DxcEvIjCC3pxY"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "30 Degrees",
+      "url": "https://open.spotify.com/track/4W04kKSZ6xD6UBqD7J8Ofq"
+    },
+    {
+      "album": {
         "name": "4 Life",
         "url": "https://open.spotify.com/album/5NCtJqXYAZKKsIqVllMcy6"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 151066,
       "name": "Bestemming",
       "url": "https://open.spotify.com/track/6WDdsZne692qo8MdZokd8g"
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 129523,
       "name": "Gedroomd",
       "url": "https://open.spotify.com/track/2hDgIwdNGWa4AWI7Thpurw"
@@ -3703,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Mile High Club",
+        "url": "https://open.spotify.com/album/5hFzSdQ0jxISMgpUYDtQqt"
+      },
+      "artists": [
+        {
+          "name": "PHV",
+          "url": "https://open.spotify.com/artist/56SBY6GxBYwmi6ovHzWZg2"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Mile High Club",
+      "url": "https://open.spotify.com/track/2GoUHJxbG4eul46limFT2V"
+    },
+    {
+      "album": {
         "name": "miss u 2 (with Leon Thomas)",
         "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
       },
@@ -5163,6 +5203,28 @@
     },
     {
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
+    },
+    {
+      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/1SnkJbnDGcqqVMDY9PIljT"
       },
@@ -5784,7 +5846,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188974,
       "name": "System",
       "url": "https://open.spotify.com/track/5coSBS4AytJ2V3lAAtstEg"

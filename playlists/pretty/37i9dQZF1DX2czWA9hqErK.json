@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1321788,
+  "num_followers": 1321686,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJs2+SlN3W30ltOkpn8G9IBvr8r9",
   "tracks": [
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Old Recliners",
-      "url": "https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ"
-    },
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 247648,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Old Recliners",
+      "url": "https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Halcyon (Deluxe)",
         "url": "https://open.spotify.com/album/4P1BBeZSJSknyrfkLbD2Ab"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 154000,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/0P2Oin9RGR8ILP5xYNSBiy"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "EURO-COUNTRY",
+      "url": "https://open.spotify.com/track/22vRKcdPjVW7Q6ydLNcYBV"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 217700,
       "name": "Miss",
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "EURO-COUNTRY",
-      "url": "https://open.spotify.com/track/22vRKcdPjVW7Q6ydLNcYBV"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 202937,
-      "name": "Hymn To Virgil",
-      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -643,6 +627,22 @@
       "duration_ms": 232360,
       "name": "Frances",
       "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 202937,
+      "name": "Hymn To Virgil",
+      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "1:5",
         "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 242240,
       "name": "No Way To Relax When You Are On Fire",
       "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "it's like I never left",
         "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175636,
       "name": "Ama said",
       "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 217237,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Let's Try Love",
         "url": "https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "The Boy Who Can't Be Named",
-        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
       },
       "artists": [
         {
-          "name": "Grace Gachot",
-          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 211542,
-      "name": "The Boy Who Can't Be Named",
-      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
+      "duration_ms": 217237,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1171,6 +1155,22 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "The Boy Who Can't Be Named",
+        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
+      },
+      "artists": [
+        {
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "The Boy Who Can't Be Named",
+      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Apothecary (Pt. 1)",
-        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 152124,
-      "name": "Lie To Yourself",
-      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Don't Fall Asleep",
-        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
+        "name": "Apothecary (Pt. 1)",
+        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
       },
       "artists": [
         {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
         }
       ],
-      "duration_ms": 269280,
-      "name": "Don't Fall Asleep",
-      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+      "duration_ms": 152124,
+      "name": "Lie To Yourself",
+      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+        "name": "Don't Fall Asleep",
+        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
         }
       ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+      "duration_ms": 269280,
+      "name": "Don't Fall Asleep",
+      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1403,6 +1387,22 @@
       "duration_ms": 169934,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2026-04-16 23:00:52",

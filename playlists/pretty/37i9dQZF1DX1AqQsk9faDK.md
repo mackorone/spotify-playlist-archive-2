@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Gabriel Guedes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,292 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,299 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 27 | [Tudo Vai Ficar Bem \(Be Alright\)](https://open.spotify.com/track/19KeQmcmi2nH2K7NtM1FC4) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [O Amor Que Encontrei](https://open.spotify.com/album/2MtP3RxBqIUGkXKoorkWRO) | 4:30 |
 | 28 | [Cheiro das Águas](https://open.spotify.com/track/76QuI47gkW52s0xjX7mHim) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 3:54 |
 | 29 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/7vQVMorqtlcOD2vRqDTFgS) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Todos Os Meus Dias \(Ao Vivo\)](https://open.spotify.com/album/47ZBDaMCFQJfGJaqceUQMS) | 3:24 |
-| 30 | [You're Not Done \- Radio Version](https://open.spotify.com/track/3vlOekCXyaDER2FgMVVVRZ) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [You're Not Done \(Radio Version\)](https://open.spotify.com/album/2iyX92I8JBc3khUr1UP3pG) | 3:53 |
+| 30 | [You're Not Done \- Radio Version](https://open.spotify.com/track/3vlOekCXyaDER2FgMVVVRZ) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [You're Not Done \(Radio Version\)](https://open.spotify.com/album/2iyX92I8JBc3khUr1UP3pG) | 3:53 |
 | 31 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
 
 Snapshot ID: `AAAAAG96QZb61ATeOkAwvq7PG4vH5xQs`

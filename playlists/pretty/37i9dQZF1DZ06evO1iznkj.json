@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 203889,
+  "num_followers": 203948,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABZ/N4wSRcErwPtKLRTo8PG",
+  "snapshot_id": "aiS0gAAAAAAFwUPpPufdBlEFfWDJSNjN",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
+      "duration_ms": 158666,
+      "name": "him all along",
+      "url": "https://open.spotify.com/track/3U5HfQM00maTYSthHtV59L"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 158666,
-      "name": "him all along",
-      "url": "https://open.spotify.com/track/3U5HfQM00maTYSthHtV59L"
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,

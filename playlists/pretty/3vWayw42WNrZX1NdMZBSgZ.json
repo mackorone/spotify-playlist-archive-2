@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Santana, Becky G",
-  "num_followers": 52282,
+  "num_followers": 52267,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAU2UGBl5/ge9DGGKv14DRGCUzW3A0T",
+  "snapshot_id": "AAAU3QjAlxSgmmfuO72llvTl1QmJSbru",
   "tracks": [
     {
       "added_at": "2026-05-29 13:59:07",
@@ -199,6 +199,42 @@
       "duration_ms": 186047,
       "name": "1+1",
       "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "added_at": "2026-06-09 01:03:55",
+      "album": {
+        "name": "TURR4ZO",
+        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 208379,
+      "name": "PUMAS",
+      "url": "https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y"
+    },
+    {
+      "added_at": "2026-06-09 00:07:42",
+      "album": {
+        "name": "A Pesar De Ti y De Mi",
+        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
     },
     {
       "added_at": "2026-04-17 15:05:23",

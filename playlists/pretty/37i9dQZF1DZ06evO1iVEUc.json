@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACE5dvCgNCbW1O5xxLMHR7P",
+  "snapshot_id": "aiS0gAAAAAAdvcKBqxURC8XOrKmvluEl",
   "tracks": [
     {
       "added_at": null,
@@ -747,26 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "the id",
-        "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         },
         {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 295266,
-      "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
-      "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
     },
     {
       "added_at": null,
@@ -787,22 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "the id",
+        "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
       },
       "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         },
         {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         }
       ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+      "duration_ms": 295266,
+      "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
+      "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
     },
     {
       "added_at": null,

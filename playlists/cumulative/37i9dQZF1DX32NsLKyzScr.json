@@ -609,7 +609,7 @@
     },
     {
       "album": {
-        "name": "Activate (feat. Nevve)",
+        "name": "Activate",
         "url": "https://open.spotify.com/album/6cDptxdkyy1agz2vOXuyiZ"
       },
       "artists": [
@@ -630,7 +630,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195118,
-      "name": "Activate (feat. Nevve)",
+      "name": "Activate",
       "url": "https://open.spotify.com/track/7CBJoTWCIbf04C7tFyZtmF"
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 192380,
       "name": "Audio Machina",
       "url": "https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ"
@@ -9797,6 +9797,24 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "album": {
         "name": "Freaky Deaky (R3HAB Remix)",
         "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
       },
@@ -10526,6 +10544,24 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
     },
     {
       "album": {
@@ -21580,7 +21616,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 183925,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO"

@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "GOOD GOOD JUJU",
+        "url": "https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "june",
+      "url": "https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA"
+    },
+    {
+      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc"
       },
@@ -2894,6 +2912,24 @@
       "duration_ms": 177692,
       "name": "Kung Di Mo Alam",
       "url": "https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc"
+    },
+    {
+      "album": {
+        "name": "Kung May Problema Ka",
+        "url": "https://open.spotify.com/album/4Z53qocPuKq5tnMghl15pA"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177539,
+      "name": "Kung May Problema Ka",
+      "url": "https://open.spotify.com/track/4MutWazZvqokE6WM6QoOvj"
     },
     {
       "album": {

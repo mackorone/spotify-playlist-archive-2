@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 152998,
+  "num_followers": 153007,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACThnzNyHImg3dzLy5VzFuU",
+  "snapshot_id": "aiS0gAAAAADh4OjjPYwQx1ryOpWBp7Nm",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duotones",
         "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 303506,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
     },
     {
       "added_at": null,

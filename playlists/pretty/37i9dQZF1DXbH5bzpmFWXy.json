@@ -288,22 +288,6 @@
       "added_at": "2026-04-10 06:00:46",
       "album": {
         "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
       "artists": [
@@ -319,6 +303,22 @@
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "LINDA",
-      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "Mejores Jordans",
         "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "San Pedro",
-        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "San Pedro",
-      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "San Pedro",
+        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "San Pedro",
+      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 288573,
-      "name": "P.I.M.P. - Snoop Dogg Remix",
-      "url": "https://open.spotify.com/track/0fLILzjVXRCLC0lsNKcQ8I"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 288573,
+      "name": "P.I.M.P. - Snoop Dogg Remix",
+      "url": "https://open.spotify.com/track/0fLILzjVXRCLC0lsNKcQ8I"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "Ay Dieguito",
-        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 170284,
-      "name": "Ay Dieguito",
-      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Capitan O Chachito",
-        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224314,
-      "name": "Capitan O Chachito",
-      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "Bad Company (feat. BlocBoy JB)",
         "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
       },
@@ -1943,18 +1927,38 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Lamine Yamal",
-        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+        "name": "Capitan O Chachito",
+        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
         }
       ],
-      "duration_ms": 163378,
-      "name": "Lamine Yamal",
-      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
+      "duration_ms": 224314,
+      "name": "Capitan O Chachito",
+      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Tunechi (with Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Tunechi (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
     }
   ],
   "unique_name": "El Barrio MP3 ",

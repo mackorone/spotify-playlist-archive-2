@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,794 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,789 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 44 | [Bangkok Bandit](https://open.spotify.com/track/4E16iJzoICPLMfodgAjdJU) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [Bangkok Bandit](https://open.spotify.com/album/47uADhvQMn8n1VxS9cbV16) | 2:38 |
 | 45 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
 | 46 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |
-| 47 | [REGULAR](https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [REGULAR](https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY) | 2:06 |
+| 47 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
 | 48 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
-| 49 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
+| 49 | [REGULAR](https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [REGULAR](https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY) | 2:06 |
 | 50 | [duck duck goose](https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr) | [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Dylan Hingston](https://open.spotify.com/artist/2ZtU4IjCSv0IspRu1xO6al) | [duck duck goose](https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR) | 3:12 |
 | 51 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
 | 52 | [Nothing's Changed](https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Nothing's Changed](https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS) | 2:39 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 62 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
 | 63 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
 | 64 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
-| 65 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
+| 65 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
 | 66 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
-| 67 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
+| 67 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
 | 68 | [NOT THAT DEEP](https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV) | [somecallmewale](https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI) | [NOT THAT DEEP](https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3) | 4:00 |
 | 69 | [TENTEN](https://open.spotify.com/track/2YvKOyPsGnAQaqwkw5efnM) | [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [TENTEN](https://open.spotify.com/album/0W0I7u116tCjh2r92AyQFB) | 2:55 |
 | 70 | [Driscoll](https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U) | [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP), [Graver](https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf) | [Driscoll](https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup) | 2:31 |

@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ"
+    },
+    {
+      "album": {
         "name": "Going Shopping",
         "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
       },
@@ -2457,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "TYPHOON",
+        "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180395,
+      "name": "me & u",
+      "url": "https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h"
+    },
+    {
+      "album": {
         "name": "mee6",
         "url": "https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi"
       },
@@ -2570,6 +2610,24 @@
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
+    },
+    {
+      "album": {
+        "name": "Mood (Remix Version)",
+        "url": "https://open.spotify.com/album/2uvk8zgcB1d9z57nRYzubO"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Mood (Remix Version)",
+      "url": "https://open.spotify.com/track/0yaZ9OdbH88UgfSHOC1C4B"
     },
     {
       "album": {

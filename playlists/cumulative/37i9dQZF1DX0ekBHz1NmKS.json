@@ -21021,6 +21021,24 @@
     },
     {
       "album": {
+        "name": "Kvart i fem",
+        "url": "https://open.spotify.com/album/600KSFFK8puxlWOdXKLJgq"
+      },
+      "artists": [
+        {
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145971,
+      "name": "Kvart i fem",
+      "url": "https://open.spotify.com/track/3EcR2bGVi103ILDdXpyRin"
+    },
+    {
+      "album": {
         "name": "Kylsk\u00e5pspoesi",
         "url": "https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr"
       },
@@ -23842,7 +23860,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 185673,
       "name": "MANS?",
       "url": "https://open.spotify.com/track/6mTK5VOpjZY6ORqdUBusIg"
@@ -35330,7 +35348,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 165676,
       "name": "Svartsjuk - Spotify Singles",
       "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
@@ -42464,7 +42482,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 173000,
       "name": "\u00c4lskling du \u00e4r min",
       "url": "https://open.spotify.com/track/2PpgVcLvLGRTNUuA4oODiP"

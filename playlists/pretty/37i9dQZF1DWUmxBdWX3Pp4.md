@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Omar Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,946 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,898 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

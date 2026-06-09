@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Zeki Arkun
 
-109 songs - 5 hr 15 min
+110 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-10-23 | 2025-04-25 |
 | [bi var bi yok](https://open.spotify.com/track/4v38AvW0s9QwFrqnaULgMa) | [Karya Çandar](https://open.spotify.com/artist/5cqshWrRR53ssZM2L2P06K), [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [bi var bi yok](https://open.spotify.com/album/1lWms2nsXFOIt8TWGKTB8r) | 2:29 | 2024-06-20 | 2024-10-24 |
 | [Bile Bile](https://open.spotify.com/track/3GZMQGYymBSOIyKnTZOXBg) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Bile Bile](https://open.spotify.com/album/6m5GB5l0Y3spjQVUeGRH6t) | 2:46 | 2024-06-20 |  |
+| [Bİ DAHA DÖNMEM](https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Bİ DAHA DÖNMEM](https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w) | 2:31 | 2026-06-08 |  |
 | [Bu Gece Son](https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Bu Gece Son](https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p) | 2:44 | 2024-06-20 | 2024-10-24 |
 | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/track/0AWzhPYyZvbkoGlS3SSmTS) | [sevimo.](https://open.spotify.com/artist/2EChc9oByY31aq86S1E4ST) | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/album/6A9O8HWmfmS5lk19hKORAz) | 3:24 | 2024-06-20 | 2024-10-24 |
 | [bırak öleyim](https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [cümlelerim](https://open.spotify.com/album/7igC0FT4qMplTZsnMzyhyv) | 3:28 | 2025-04-24 |  |
@@ -36,7 +37,7 @@
 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 | 2025-04-10 |  |
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-06-20 |  |
 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 | 2024-06-20 | 2024-10-24 |
-| [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 | 2024-10-23 |  |
+| [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 | 2024-10-23 | 2026-06-09 |
 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2024-06-20 | 2024-10-24 |
 | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/track/5GIisFHTMmJAO497d906SO) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/album/49Da5Al1iNGqdjatlyaZTO) | 3:19 | 2024-06-20 |  |
 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-09 |  |

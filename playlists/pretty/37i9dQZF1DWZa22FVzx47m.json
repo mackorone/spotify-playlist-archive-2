@@ -1,6 +1,6 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 444250,
+  "num_followers": 444346,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Entre t\u00fa y mil mares",
-        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Bajo El Signo De Ca\u00edn",
         "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Entre t\u00fa y mil mares",
+        "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Qui\u00e9n Como t\u00fa",
         "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211733,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Te Lo Agradezco",
         "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
       },
@@ -1179,34 +1195,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 298293,
-      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1287,6 +1271,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 264160,
       "name": "Nunca Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2025-10-25 02:09:46",

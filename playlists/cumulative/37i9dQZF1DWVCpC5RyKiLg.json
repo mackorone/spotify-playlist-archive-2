@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 180629,
       "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
@@ -3634,6 +3634,28 @@
       "duration_ms": 206253,
       "name": "Voa Beija-Flor - Ao Vivo",
       "url": "https://open.spotify.com/track/5CkCOlVxiYPzREq0PeCKAN"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1ssico (Ao Vivo / Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Chit\u00e3ozinho & Xoror\u00f3",
+          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193632,
+      "name": "Voc\u00ea Me Trocou - Ao Vivo",
+      "url": "https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb"
     },
     {
       "album": {

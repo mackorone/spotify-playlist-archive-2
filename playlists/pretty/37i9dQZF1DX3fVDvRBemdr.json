@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Robert van Hemert",
-  "num_followers": 156014,
+  "num_followers": 156030,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0SFgew8oNhk61e+nqGYH9Let2e",
+  "snapshot_id": "AAAAAODYiTl35DaMOjUQdWIb705WHmVU",
   "tracks": [
     {
       "added_at": "2026-06-04 22:01:03",
@@ -23,6 +23,42 @@
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "added_at": "2026-06-04 22:01:03",
+      "album": {
+        "name": "Hartslag Van Je Heupen",
+        "url": "https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9"
+      },
+      "artists": [
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Hartslag Van Je Heupen",
+      "url": "https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo"
+    },
+    {
+      "added_at": "2026-06-04 22:01:03",
+      "album": {
+        "name": "Baco In Monaco",
+        "url": "https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "duration_ms": 132824,
+      "name": "Baco In Monaco",
+      "url": "https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62"
     },
     {
       "added_at": "2026-06-04 22:01:03",
@@ -55,26 +91,6 @@
       "duration_ms": 195232,
       "name": "Cubaanse Caf\u00e9",
       "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
-    },
-    {
-      "added_at": "2026-06-04 22:01:03",
-      "album": {
-        "name": "Baco In Monaco",
-        "url": "https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        },
-        {
-          "name": "SHQQ",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        }
-      ],
-      "duration_ms": 132824,
-      "name": "Baco In Monaco",
-      "url": "https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62"
     },
     {
       "added_at": "2026-06-04 22:01:03",
@@ -115,6 +131,22 @@
     {
       "added_at": "2026-06-04 22:01:03",
       "album": {
+        "name": "Veel Te Lang Geduurd",
+        "url": "https://open.spotify.com/album/1HCq6EgAPe1G62eIvgfj0S"
+      },
+      "artists": [
+        {
+          "name": "Kevin Le Nuyt",
+          "url": "https://open.spotify.com/artist/74E3cdn2wI6ja2ncKQ7auO"
+        }
+      ],
+      "duration_ms": 152929,
+      "name": "Veel Te Lang Geduurd",
+      "url": "https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd"
+    },
+    {
+      "added_at": "2026-06-04 22:01:03",
+      "album": {
         "name": "Doen We Het Vaker",
         "url": "https://open.spotify.com/album/1KaWiEgp5oRUjFFa7KOvm9"
       },
@@ -127,22 +159,6 @@
       "duration_ms": 140098,
       "name": "Doen We Het Vaker",
       "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
-    },
-    {
-      "added_at": "2026-06-04 22:01:03",
-      "album": {
-        "name": "Hartslag Van Je Heupen",
-        "url": "https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9"
-      },
-      "artists": [
-        {
-          "name": "Mike Versteeg",
-          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Hartslag Van Je Heupen",
-      "url": "https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo"
     },
     {
       "added_at": "2026-06-04 22:01:03",
@@ -163,22 +179,6 @@
       "duration_ms": 137725,
       "name": "Als De Zon Schijnt",
       "url": "https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr"
-    },
-    {
-      "added_at": "2026-06-04 22:01:03",
-      "album": {
-        "name": "Veel Te Lang Geduurd",
-        "url": "https://open.spotify.com/album/1HCq6EgAPe1G62eIvgfj0S"
-      },
-      "artists": [
-        {
-          "name": "Kevin Le Nuyt",
-          "url": "https://open.spotify.com/artist/74E3cdn2wI6ja2ncKQ7auO"
-        }
-      ],
-      "duration_ms": 152929,
-      "name": "Veel Te Lang Geduurd",
-      "url": "https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd"
     },
     {
       "added_at": "2026-06-04 22:01:03",
@@ -259,22 +259,6 @@
       "duration_ms": 190135,
       "name": "Luchtballon",
       "url": "https://open.spotify.com/track/0WSqR5paTVPALC7VnexD6h"
-    },
-    {
-      "added_at": "2026-06-04 22:01:03",
-      "album": {
-        "name": "Ons Geheim",
-        "url": "https://open.spotify.com/album/0a2NRse4fYi1vbDkEAWLqH"
-      },
-      "artists": [
-        {
-          "name": "Charelle",
-          "url": "https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Ons Geheim",
-      "url": "https://open.spotify.com/track/3E0W3SBkbOFzxFeakuC9SH"
     },
     {
       "added_at": "2026-06-04 22:01:03",

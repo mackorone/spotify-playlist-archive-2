@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 209 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 750 likes - 209 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 24 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 |
 | 25 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
 | 26 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
-| 27 | [Far](https://open.spotify.com/track/74NI58MQexwZjNu1Gu6GjT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
-| 28 | [Crybaby](https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:01 |
+| 27 | [Crybaby](https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:01 |
+| 28 | [Far](https://open.spotify.com/track/74NI58MQexwZjNu1Gu6GjT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
 | 29 | [Notice Me](https://open.spotify.com/track/4fnNBPN9W6AoOYSQS3FJxT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:40 |
 | 30 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 31 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 121 | [Waiting on You](https://open.spotify.com/track/7204ajWyC38ZbcuCULCI3e) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:31 |
 | 122 | [Dora](https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Dora](https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu) | 2:27 |
 | 123 | [Don't Matter](https://open.spotify.com/track/5v1QJxlh7mkNsq7fsUf5wV) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 2:56 |
-| 124 | [Wake Up \(feat\. Chance the Rapper\)](https://open.spotify.com/track/1mxtd5ak6597fo48trrxfX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 3:06 |
-| 125 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
+| 124 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
+| 125 | [Wake Up \(feat\. Chance the Rapper\)](https://open.spotify.com/track/1mxtd5ak6597fo48trrxfX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 3:06 |
 | 126 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 |
 | 127 | [DOTTED LINE](https://open.spotify.com/track/5Oc0vVCEHfBvQ26H4a8qcY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:27 |
 | 128 | [Wires in the Way](https://open.spotify.com/track/1GF3IKjo6zIDi3OjjRZjwG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:10 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 152 | [Be Careful With Me](https://open.spotify.com/track/4JOsabaJ1et99Ulb1E9GIE) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:16 |
 | 153 | [buzzin](https://open.spotify.com/track/4gwQdnkAHy5WTrKaTWS1o8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 3:35 |
 | 154 | [Symphony](https://open.spotify.com/track/0DmnKmJpwUnHZHStMyJZkN) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [Teddy Jackson](https://open.spotify.com/artist/77kaHO7hihRt7OyrspYSdd) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:37 |
-| 155 | [Los chicos del club](https://open.spotify.com/track/7oxTWs901TZXAAgGzrf9j8) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:29 |
-| 156 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
+| 155 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
+| 156 | [Los chicos del club](https://open.spotify.com/track/7oxTWs901TZXAAgGzrf9j8) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:29 |
 | 157 | [Nearsight \[SID\]](https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 4:18 |
 | 158 | [Help Myself](https://open.spotify.com/track/73Q1cq5YHpqZHrhOE21lhW) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:33 |
 | 159 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 208 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 209 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcTnmAAAAADV+dZzAPn02evVSi8gDOqb`
+Snapshot ID: `AcTs/AAAAAD+pmnH8SIVIS0i0HTGslWq`

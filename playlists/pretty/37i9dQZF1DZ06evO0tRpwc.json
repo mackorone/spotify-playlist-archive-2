@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37845,
+  "num_followers": 37844,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAByN4QEk9oENBvrysgH6HHC",
+  "snapshot_id": "aiS0gAAAAABrWsX1lEQ3PUTJJjRHaXqw",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5pURlji4i5aHLwEMWNCbAM"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/4i0f7BtiCQlPvopZK1b2w6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 307647,
       "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5pURlji4i5aHLwEMWNCbAM"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Porto Seguro",
-      "url": "https://open.spotify.com/track/4i0f7BtiCQlPvopZK1b2w6"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redentor",
         "url": "https://open.spotify.com/album/3S1PFd7sRDeUp26MpftkTn"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 200359,
       "name": "Por Qu\u00ea Voc\u00ea N\u00e3o Olha?",
       "url": "https://open.spotify.com/track/2RAURrpacgzDngLTISsBvF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
@@ -691,8 +707,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+      },
+      "artists": [
+        {
+          "name": "Clovis Pinho",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
       "artists": [
         {
@@ -700,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 270480,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
+      "duration_ms": 269062,
+      "name": "Dimens\u00e3o da Luz",
+      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
     },
     {
       "added_at": null,
@@ -727,38 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+        "name": "Acelera e Pisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "Dimens\u00e3o da Luz",
-      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis Pinho",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+      "duration_ms": 321746,
+      "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
     },
     {
       "added_at": null,
@@ -799,26 +819,6 @@
       "duration_ms": 202580,
       "name": "Por La Eternidad (feat. Daniela Araujo)",
       "url": "https://open.spotify.com/track/35eEWWPLsnReY9E7r8lfBT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acelera e Pisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 321746,
-      "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
     },
     {
       "added_at": null,

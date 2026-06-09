@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIVKZrYlZnw71>SZA</a>, <a href=spotify:playlist:37i9dQZF1EIUtKBU0VH3EA>Benson Boone</a> and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 2 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
-| 3 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 |
+| 1 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 2 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 3 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 4 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 5 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 6 | [life hack](https://open.spotify.com/track/0DKHQ4ixPdmN1SHtT8PVpS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:46 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 25 | [奮闘中](https://open.spotify.com/track/16dJ2CGA4xhADB8FPFNsF6) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [奮闘中](https://open.spotify.com/album/2OqewrPamqZ8JVj6Jv4Hhz) | 4:37 |
 | 26 | [Made my day](https://open.spotify.com/track/4krgsevgl3SugkV8Xk8nrP) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Jasmine](https://open.spotify.com/album/6KNOWSz6PUmlPnz8ezAcLU) | 4:15 |
 | 27 | [Fuck U & Love U](https://open.spotify.com/track/4kgSbWKaGDdUBIMSWrNDEh) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 1:55 |
-| 28 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 |
-| 29 | [AM2:00drive \(feat\. ユエ\)](https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC) | [KeeP](https://open.spotify.com/artist/7qfEFJ6L2AaZ5iuoqTNAZI), [ユエ](https://open.spotify.com/artist/5r8lJrL1enJRw3S8dS4WCg) | [AM2:00drive \(feat\. ユエ\)](https://open.spotify.com/album/4DhhbXUz98IqCNx49dv38x) | 2:42 |
+| 28 | [AM2:00drive \(feat\. ユエ\)](https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC) | [KeeP](https://open.spotify.com/artist/7qfEFJ6L2AaZ5iuoqTNAZI), [ユエ](https://open.spotify.com/artist/5r8lJrL1enJRw3S8dS4WCg) | [AM2:00drive \(feat\. ユエ\)](https://open.spotify.com/album/4DhhbXUz98IqCNx49dv38x) | 2:42 |
+| 29 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 |
 | 30 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 |
 | 31 | [生活](https://open.spotify.com/track/1HYFNKa8SypeGsuFanLcjz) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4FwXwSS4uIWX2ewAoZko0F) | 4:53 |
 | 32 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 40 | [頬杖](https://open.spotify.com/track/3gsh51QCN9mpDVnxuY7g4Z) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Songs for the Cryptids](https://open.spotify.com/album/0fQZ2Vam7vMAvrGkPR7pxN) | 3:39 |
 | 41 | [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/06JDsptZimkm2d09duPZsX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [lost decade](https://open.spotify.com/album/4ZqAwRveLIxNvjkdDgFS7m) | 4:34 |
 | 42 | [メルヘンを捨てないで](https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:51 |
-| 43 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
-| 44 | [It's a small world](https://open.spotify.com/track/7FTMEtx6gQhZ57wDWKdiz7) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:13 |
-| 45 | [202 feat\. 泉まくら \- New Mix](https://open.spotify.com/track/75HcneiRhhR7rSz9wNp5I3) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [LSC](https://open.spotify.com/album/4JUwxGL7K3YrIUUZCVXQ5v) | 5:30 |
-| 46 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
+| 43 | [It's a small world](https://open.spotify.com/track/7FTMEtx6gQhZ57wDWKdiz7) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:13 |
+| 44 | [202 feat\. 泉まくら \- New Mix](https://open.spotify.com/track/75HcneiRhhR7rSz9wNp5I3) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [LSC](https://open.spotify.com/album/4JUwxGL7K3YrIUUZCVXQ5v) | 5:30 |
+| 45 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
+| 46 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 47 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 |
 | 48 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/2TFr6nlRKUiIL3cYlhZzmx) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 4:59 |
-| 49 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
-| 50 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 49 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 50 | [忘れないで \(feat\. 田我流\)](https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [忘れないで](https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL) | 4:13 |
 
 Snapshot ID: `AAAAAGEAgRwKhOJw5gHeAAX0zEG//2oU`

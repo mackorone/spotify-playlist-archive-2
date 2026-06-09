@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1637025,
+  "num_followers": 1637256,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2026-06-05 04:01:11",
       "album": {
-        "name": "worry",
-        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "riserayss",
-          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "worry - Slowed",
-      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
-    },
-    {
-      "added_at": "2026-06-05 04:01:11",
-      "album": {
         "name": "LUNA BALA",
         "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
+    },
+    {
+      "added_at": "2026-06-05 04:01:11",
+      "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "riserayss",
+          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "worry - Slowed",
+      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
     },
     {
       "added_at": "2026-06-05 04:01:11",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-05 04:01:11",
       "album": {
-        "name": "Call Me (Slowed)",
-        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
-      },
-      "artists": [
-        {
-          "name": "plenka",
-          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Me - Slowed",
-      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
-    },
-    {
-      "added_at": "2026-06-05 04:01:11",
-      "album": {
         "name": "Swing Lynn (Slowed Version)",
         "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 448000,
       "name": "Swing Lynn - Slowed Version",
       "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
+    },
+    {
+      "added_at": "2026-06-05 04:01:11",
+      "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
     },
     {
       "added_at": "2026-06-05 04:01:11",

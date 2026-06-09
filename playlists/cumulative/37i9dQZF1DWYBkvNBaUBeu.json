@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Future hits in the Philippines! Cover: Anderson .Paak",
+  "description": "Future hits in the Philippines! Cover: Niall Horan",
   "name": "Pop Rising Philippines",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157333,
       "name": "Already Know",
       "url": "https://open.spotify.com/track/4fYhGMu338Ypi1e2g27E2Y"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Black Prada Dress",
+        "url": "https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199966,
+      "name": "Black Prada Dress",
+      "url": "https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -1532,6 +1550,28 @@
       "duration_ms": 242584,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "album": {
@@ -2356,7 +2396,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 164802,
       "name": "CHUCK THE MONEY",
       "url": "https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj"
@@ -3307,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
@@ -3535,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Drop The Lo",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161470,
+      "name": "Drop The Lo",
+      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
+    },
+    {
+      "album": {
         "name": "in all of my lonely nights",
         "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
       },
@@ -3760,6 +3836,24 @@
       "duration_ms": 216000,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10"
+    },
+    {
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "album": {
@@ -4110,7 +4204,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 204233,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
@@ -5460,6 +5554,24 @@
       "duration_ms": 155192,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
+    },
+    {
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "album": {
@@ -7446,7 +7558,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 218171,
       "name": "Little More Time",
       "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
@@ -7900,6 +8012,24 @@
       "duration_ms": 206172,
       "name": "Low Rise Jeans",
       "url": "https://open.spotify.com/track/7ajWF4MJHmswvijYEsFGZs"
+    },
+    {
+      "album": {
+        "name": "lucky",
+        "url": "https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "lucky",
+      "url": "https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV"
     },
     {
       "album": {
@@ -8457,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "Miss Me More",
+        "url": "https://open.spotify.com/album/6sF3ifHeZhuzBvtle2lhct"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/1BT4DKm4C3FBJntfzxAdKI"
+    },
+    {
+      "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
@@ -8924,7 +9072,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 195154,
       "name": "Need For Speed",
       "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
@@ -9116,6 +9264,24 @@
       "duration_ms": 302623,
       "name": "Nightingale Lane.",
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "album": {
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
     },
     {
       "album": {
@@ -9665,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "album": {
         "name": "Passenger Princess",
         "url": "https://open.spotify.com/album/2bgJ2SOZm6I3mcIsqonINb"
       },
@@ -9806,7 +9990,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 205306,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
@@ -10226,7 +10410,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
@@ -11136,7 +11320,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 209852,
       "name": "Shape of a Woman",
       "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
@@ -12178,7 +12362,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 206106,
       "name": "Stay Love",
       "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
@@ -12458,7 +12642,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157000,
       "name": "Summer's Not Over",
       "url": "https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB"
@@ -12948,6 +13132,24 @@
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7"
     },
     {
       "album": {
@@ -14091,6 +14293,24 @@
     },
     {
       "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114867,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS"
+    },
+    {
+      "album": {
         "name": "Too Good to be Bad",
         "url": "https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t"
       },
@@ -14290,7 +14510,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 195018,
       "name": "TV",
       "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"

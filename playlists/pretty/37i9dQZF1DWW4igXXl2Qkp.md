@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5dxav2nP7izQBQYPNjv0CQ">Young Roddo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,402 likes - 77 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,446 likes - 77 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

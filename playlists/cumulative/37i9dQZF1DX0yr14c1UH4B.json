@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udf53\ncover: Strawberry Guy",
+  "description": "It's all about the song \ud83c\udf3c\ncover: Alyssa Grace",
   "name": "Common Thread",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 193499,
       "name": "A Bad Thing",
       "url": "https://open.spotify.com/track/1MzXhCWzdfelsiVPGmQ6lN"
+    },
+    {
+      "album": {
+        "name": "Vespers",
+        "url": "https://open.spotify.com/album/6oBa6AKsDnxpA9MDJRseCV"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "A Good One",
+      "url": "https://open.spotify.com/track/7GhgWvQPRj4hNh9WSmZasT"
     },
     {
       "album": {
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188160,
       "name": "better without me.",
       "url": "https://open.spotify.com/track/5EngqDwTf0sZ9v70mueRdI"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 189017,
       "name": "Big Kids",
       "url": "https://open.spotify.com/track/5a5D1rr7lxngY099L9ulYe"
@@ -1437,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
+    },
+    {
+      "album": {
         "name": "Blue June",
         "url": "https://open.spotify.com/album/2xypNP0MiLcsrAVPOMh7eT"
       },
@@ -1542,6 +1578,24 @@
       "duration_ms": 242000,
       "name": "Bones",
       "url": "https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n"
+    },
+    {
+      "album": {
+        "name": "Bore The Brunt",
+        "url": "https://open.spotify.com/album/7aWf4n7WOoDQpEYmjGKkWo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cresham",
+          "url": "https://open.spotify.com/artist/3HyHsSgZemqGBTmF18OatM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Bore The Brunt",
+      "url": "https://open.spotify.com/track/1Ick5PrcMHerKtMG8oaRzk"
     },
     {
       "album": {
@@ -1664,7 +1718,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 157149,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn"
@@ -2306,7 +2360,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 156200,
       "name": "Common Thread",
       "url": "https://open.spotify.com/track/4GezpJPCF1b4C6LQJrfFbN"
@@ -2457,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "album": {
         "name": "cozy you",
         "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
       },
@@ -2490,6 +2562,24 @@
       "duration_ms": 230164,
       "name": "Crashing The Car",
       "url": "https://open.spotify.com/track/43G4zGBZEDdYZ6OayNoN4U"
+    },
+    {
+      "album": {
+        "name": "Crowns Of England",
+        "url": "https://open.spotify.com/album/7gY0nKhyaTEjSTjJNyfM4U"
+      },
+      "artists": [
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Crowns Of England",
+      "url": "https://open.spotify.com/track/7rr27EeXrSQmYX7NqdDMzC"
     },
     {
       "album": {
@@ -4879,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Girl Who Cried Wolf",
+        "url": "https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Girl Who Cried Wolf",
+      "url": "https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw"
       },
@@ -5442,6 +5550,24 @@
       "duration_ms": 216120,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
+    },
+    {
+      "album": {
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/1BPD0sB6AOIxSTS7qQ8H2i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/78uGtcnnrYeuOFLTsk93fR"
     },
     {
       "album": {
@@ -7410,7 +7536,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 229024,
       "name": "karma",
       "url": "https://open.spotify.com/track/7uOIriWK5v2AJkbaJdmd3j"
@@ -7428,7 +7554,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 238440,
       "name": "Keep Your Faith",
       "url": "https://open.spotify.com/track/2MlkFjuhIbGGWs1Vm1A7RG"
@@ -9508,7 +9634,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 204407,
       "name": "no friend, no lover",
       "url": "https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe"
@@ -10052,7 +10178,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 231060,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/27dzGiTmNPRGkdLo80GZdo"
@@ -10944,7 +11070,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 165289,
       "name": "Rethink Some Things",
       "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
@@ -12668,7 +12794,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 206106,
       "name": "Stay Love",
       "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
@@ -13791,6 +13917,24 @@
     },
     {
       "album": {
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4S2932lDiFz0RbLvNlHwWu"
       },
@@ -14477,6 +14621,24 @@
     },
     {
       "album": {
+        "name": "I Can See Your House From Here",
+        "url": "https://open.spotify.com/album/3yYukRvZ6tcAsNsGrenaCY"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143545,
+      "name": "Two Trees",
+      "url": "https://open.spotify.com/track/17XJ5Ul2JtXih8b091Alzd"
+    },
+    {
+      "album": {
         "name": "u must be famous / youniverse",
         "url": "https://open.spotify.com/album/3QKnFTT40WBdSdZ7ZKh6Tp"
       },
@@ -14802,7 +14964,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 213382,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/1ebgWRO8x7cJ7fLGg78hQ1"
@@ -15525,6 +15687,28 @@
     },
     {
       "album": {
+        "name": "Wine into Water (feat. Elton John)",
+        "url": "https://open.spotify.com/album/4heqPzOuHdsybXGc2NXOCS"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205987,
+      "name": "Wine into Water (feat. Elton John)",
+      "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
+    },
+    {
+      "album": {
         "name": "Wisdom Tooth",
         "url": "https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr"
       },
@@ -16052,6 +16236,24 @@
       "duration_ms": 250493,
       "name": "Your Favourite Birthday",
       "url": "https://open.spotify.com/track/7HGBBo2v44h9qFRAovytYL"
+    },
+    {
+      "album": {
+        "name": "Your Goin'",
+        "url": "https://open.spotify.com/album/4XdbKZNiXOcmnqVJQdcyVp"
+      },
+      "artists": [
+        {
+          "name": "Brodie Barclay",
+          "url": "https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124912,
+      "name": "Your Goin'",
+      "url": "https://open.spotify.com/track/2J9kN5YaBTx7env0yaXP83"
     },
     {
       "album": {

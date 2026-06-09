@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,482 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,491 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 26 | [T9aws](https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 3:42 |
 | 27 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 28 | [LILLAH](https://open.spotify.com/track/7wHBBddAaSSkIWpfwMhqdU) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 2:27 |
-| 29 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 |
-| 30 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
+| 29 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
+| 30 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 |
 | 31 | [DIAMOND](https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
 | 32 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
 | 33 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 37 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
 | 38 | [Tab3ini 1](https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Tab3ini 1](https://open.spotify.com/album/3vuRRX6z5ws5S4F45fyrIn) | 4:40 |
 | 39 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
-| 40 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
-| 41 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 |
+| 40 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 |
+| 41 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
 | 42 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
 | 43 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 |
 | 44 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |

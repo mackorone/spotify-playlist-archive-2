@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,659 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,680 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 38 | [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 |
 | 39 | [Jonesboro](https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:43 |
 | 40 | [Oh Okay \(feat\. Young Thug & Lil Baby\)](https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:19 |
-| 41 | [Feel It](https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:56 |
-| 42 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
+| 41 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
+| 42 | [Feel It](https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:56 |
 | 43 | [Went Thru It](https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:35 |
 | 44 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
 | 45 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 49 | [Superman \(feat\. Young Thug\)](https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:12 |
 | 50 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
 
-Snapshot ID: `aiNjAAAAAADBuco+hqjcHCUsG3Hu6nnR`
+Snapshot ID: `aiS0gAAAAAAY5KrDeW6is0SvBCpFXysH`

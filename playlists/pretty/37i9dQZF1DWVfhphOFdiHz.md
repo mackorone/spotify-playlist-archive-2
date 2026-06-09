@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Deb Never
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,113 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,128 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

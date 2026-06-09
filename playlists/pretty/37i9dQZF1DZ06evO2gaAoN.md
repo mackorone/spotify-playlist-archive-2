@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,514 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,546 likes - 36 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 35 | [Ngowam \(feat\. Makhanj & Nvcho & Tyla & 2woshort\)](https://open.spotify.com/track/1gndZIkGbPO28wfhE2qSgg) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Amukelani](https://open.spotify.com/album/7LZDrSxVlyIXv2tVKmB5Nf) | 7:11 |
 | 36 | [Bana Ba \(feat\. Tyla & Shaunmusiq & Ftears\)](https://open.spotify.com/track/67J5DZeYwWOdJ1p0Az0jSA) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:05 |
 
-Snapshot ID: `aiNjAAAAAAD5j2c0+l5obYTu8NVxHx69`
+Snapshot ID: `aiS0gAAAAAAK7LSZK6XGLm2HVAZK5qKi`

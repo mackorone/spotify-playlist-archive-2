@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35588,
+  "num_followers": 35593,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sid & Nancy",
-        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Sid & Nancy",
-      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Klassiker",
         "url": "https://open.spotify.com/album/7djroGmIBob2EFwmbYNZA4"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Fablernas V\u00e4rld",
-        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
+        "name": "Sid & Nancy",
+        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
       },
       "artists": [
         {
-          "name": "Riksv\u00e4g 51",
-          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Fablernas V\u00e4rld",
-      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
+      "duration_ms": 156800,
+      "name": "Sid & Nancy",
+      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Fablernas V\u00e4rld",
+        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
+      },
+      "artists": [
+        {
+          "name": "Riksv\u00e4g 51",
+          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Fablernas V\u00e4rld",
+      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Med munnen full av hat",
         "url": "https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 171332,
       "name": "Med munnen full av hat",
       "url": "https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 214592,
       "name": "Grabbarna p\u00e5 stan",
       "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 68638,
-      "name": "Boostade Egon",
-      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 72880,
       "name": "\u00c5t helvete med kungafamiljen",
       "url": "https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 68638,
+      "name": "Boostade Egon",
+      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Kollektivt sj\u00e4lvmord",
-        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
+        "name": "H\u00e5ll er borta",
+        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
       },
       "artists": [
         {
-          "name": "Civil Olydnad",
-          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
+          "name": "Strikt",
+          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
         }
       ],
-      "duration_ms": 103973,
-      "name": "Kollektivt sj\u00e4lvmord",
-      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+      "duration_ms": 196693,
+      "name": "H\u00e5ll er borta",
+      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Kollektivt sj\u00e4lvmord",
+        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
+      },
+      "artists": [
+        {
+          "name": "Civil Olydnad",
+          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
+        }
+      ],
+      "duration_ms": 103973,
+      "name": "Kollektivt sj\u00e4lvmord",
+      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "F\u00e4rgblind",
         "url": "https://open.spotify.com/album/44xX7pJ4mlnZ3V87CULPtO"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 157000,
       "name": "F\u00e4rgblind",
       "url": "https://open.spotify.com/track/2P5RmWQ1D4U05M0GsAlBVA"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "H\u00e5ll er borta",
-        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
-      },
-      "artists": [
-        {
-          "name": "Strikt",
-          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "H\u00e5ll er borta",
-      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "R\u00f6sta p\u00e5 idioter",
-        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
-      },
-      "artists": [
-        {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Fattigdom suger!",
-      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Rosita",
         "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 190976,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "R\u00f6sta p\u00e5 idioter",
+        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Fattigdom suger!",
+      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Tills h\u00f6gern skiljer oss \u00e5t",
-        "url": "https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 177652,
-      "name": "Kom igen det blir kul",
-      "url": "https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Vrid upp",
         "url": "https://open.spotify.com/album/6Qkie0AOAvHmyS6gP7a3Ly"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 156306,
       "name": "Vrid upp",
       "url": "https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tills h\u00f6gern skiljer oss \u00e5t",
+        "url": "https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "duration_ms": 177652,
+      "name": "Kom igen det blir kul",
+      "url": "https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,534 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,535 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 18 | [Revelation Song \- Live](https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Passion: Let The Future Begin \(Deluxe Edition\)](https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3) | 8:28 |
 | 19 | [There’s Nothing That Our God Can’t Do \- Live](https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:03 |
 | 20 | [He Who Is To Come](https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [He Who Is To Come](https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or) | 6:50 |
-| 21 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
-| 22 | [Agnus Dei / King of Kings](https://open.spotify.com/track/2GwhmLK4T0l15MRxy56PCu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/5RqbrQhdemPBZRt0Nv14Fx) | 6:42 |
+| 21 | [Agnus Dei / King of Kings](https://open.spotify.com/track/2GwhmLK4T0l15MRxy56PCu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/5RqbrQhdemPBZRt0Nv14Fx) | 6:42 |
+| 22 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
 | 23 | [Behold The Lamb \- Live](https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:09 |
 | 24 | [How Great Is Your Name \- Live From Passion 2024](https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:51 |
 | 25 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [I Stand Amazed \(How Marvelous\)](https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 6:36 |
 | 50 | [O Praise Him \(All This For A King\) \- Live](https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:25 |
 
-Snapshot ID: `aiNjAAAAAADenq2Zm1g/btau7m8ri6A7`
+Snapshot ID: `aiS0gAAAAADJn29qrTrKzf5EjeaGiEMP`

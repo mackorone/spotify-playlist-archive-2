@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "4K",
       "url": "https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 201290,
       "name": "4K",
       "url": "https://open.spotify.com/track/7vHnHsoE7c62VG7DhGopip"
@@ -1006,6 +1006,28 @@
       "duration_ms": 150897,
       "name": "Amor de folclore",
       "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
+    },
+    {
+      "album": {
+        "name": "Amor \u00c9 F*Da",
+        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "Amor \u00c9 F*Da",
+      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "album": {
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 171774,
       "name": "BANDIDO COM BANDIDA",
       "url": "https://open.spotify.com/track/4ucfFw3OefX2QlC10xwOLJ"
@@ -1916,7 +1938,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 171774,
       "name": "BANDIDO COM BANDIDA",
       "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
@@ -3450,7 +3472,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 257142,
       "name": "Congelado",
       "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
@@ -9242,7 +9264,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 210461,
       "name": "No Campo",
       "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
@@ -12154,7 +12176,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 160000,
       "name": "RANDANDAN",
       "url": "https://open.spotify.com/track/2IWB4oFXV4Rwom21zoLgv2"
@@ -12180,7 +12202,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "RANDANDAN",
       "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
@@ -12763,6 +12785,28 @@
     },
     {
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169137,
+      "name": "SALTO 15",
+      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
+    },
+    {
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -13166,7 +13210,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Sensa\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
@@ -13192,7 +13236,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 166153,
       "name": "Sensa\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/1TtLh08uibteeML3FoMiBF"

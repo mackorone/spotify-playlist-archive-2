@@ -3118,6 +3118,10 @@
         {
           "name": "Maahi Sharma",
           "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
+        },
+        {
+          "name": "Mirroronly",
+          "url": "https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej"
         }
       ],
       "date_added": "2026-05-15",
@@ -8482,7 +8486,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 162758,
       "name": "Taseer",
       "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
@@ -8604,6 +8608,36 @@
       "duration_ms": 200930,
       "name": "Tera Canada",
       "url": "https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe"
+    },
+    {
+      "album": {
+        "name": "Tera Koka",
+        "url": "https://open.spotify.com/album/5xM9EDidfhR0Usf67Oti9R"
+      },
+      "artists": [
+        {
+          "name": "Deep Bajwa",
+          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
+        },
+        {
+          "name": "Guri Nimana",
+          "url": "https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f"
+        },
+        {
+          "name": "Mahi Sharma",
+          "url": "https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ"
+        },
+        {
+          "name": "Manjeet Dhariwal",
+          "url": "https://open.spotify.com/artist/5blbEmhC8Kelf7rFrV2ENM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183116,
+      "name": "Tera Koka",
+      "url": "https://open.spotify.com/track/3T6PwNpROC4WkWvrnqIcCJ"
     },
     {
       "album": {

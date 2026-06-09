@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Taylor Swift, Poco Lee, MOLIY, Tinashe, Spyro, Black Sherif, Thakzin and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,423 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,458 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 44 | [Hashtag](https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Hashtag](https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas) | 3:12 |
 | 45 | [Alabi Olembe](https://open.spotify.com/track/4eL92gQ2Lqp0BKjs4SY1ed) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc), [My Son](https://open.spotify.com/artist/22lT0qFVAU9PWSyRgeyT5q) | [Alabi Olembe](https://open.spotify.com/album/5gtA6WuqhqLYj6KlgKA1yF) | 1:53 |
 
-Snapshot ID: `AAAAAJ8wm/PmZC0eocNowi7Aqcc6bJgG`
+Snapshot ID: `AAAAAMncZ/RrImiUARp1dgQyBTW7W0ap`

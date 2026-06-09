@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 23433,
+  "num_followers": 23444,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "lo que hay x aqu\u00ed",
-        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155031,
-      "name": "lo que hay x aqu\u00ed",
-      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "lo que hay x aqu\u00ed",
+        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155031,
+      "name": "lo que hay x aqu\u00ed",
+      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -147,18 +147,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+        "name": "neo roneo",
+        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+      "duration_ms": 166704,
+      "name": "neo roneo",
+      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -179,22 +183,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "neo roneo",
-        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
       "artists": [
         {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 166704,
-      "name": "neo roneo",
-      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "(favorito)",
+        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "(favorito)",
+      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "el silencio",
         "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
-        "name": "(favorito)",
-        "url": "https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "(favorito)",
-      "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Pronto estar\u00e9 bien",
-        "url": "https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 208489,
-      "name": "L\u00e1grimas de sol",
-      "url": "https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "OK.",
-        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+        "name": "Pronto estar\u00e9 bien",
+        "url": "https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF"
       },
       "artists": [
         {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 156794,
-      "name": "OK.",
-      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
+      "duration_ms": 208489,
+      "name": "L\u00e1grimas de sol",
+      "url": "https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -983,6 +967,22 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 156794,
+      "name": "OK.",
+      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Caf\u00e9 de Barcelona",
-        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Caf\u00e9 de Barcelona",
-      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "Caf\u00e9 de Barcelona",
+        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Caf\u00e9 de Barcelona",
+      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
     },
     {
       "added_at": "2026-04-10 04:03:03",

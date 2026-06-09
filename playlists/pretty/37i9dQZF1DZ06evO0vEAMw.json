@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 103865,
+  "num_followers": 103890,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAB/5UrkbU1ic2jdFJnrvKJZ",
+  "snapshot_id": "aiS0gAAAAADjESLl1VFobam9jKYjh97B",
   "tracks": [
     {
       "added_at": null,
@@ -451,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 198801,
-      "name": "OVER DEM",
-      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -511,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 198801,
+      "name": "OVER DEM",
+      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 139695,
-      "name": "Hip Hop Messiah",
-      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 139695,
+      "name": "Hip Hop Messiah",
+      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/2hVFdC28JCrwg4bhnZ9WWo"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208427,
-      "name": "One Ticket",
-      "url": "https://open.spotify.com/track/6SGT6Cd6Z5xF9GAOnf0XdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/2hVFdC28JCrwg4bhnZ9WWo"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208427,
+      "name": "One Ticket",
+      "url": "https://open.spotify.com/track/6SGT6Cd6Z5xF9GAOnf0XdZ"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WONDALAND",
         "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 188411,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4c7UBMrX7NC9QHtZQCQKBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
       "added_at": null,

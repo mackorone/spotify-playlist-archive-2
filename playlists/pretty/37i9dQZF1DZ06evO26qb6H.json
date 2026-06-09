@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAAAlP+82C5nGpm/pC7Vfo4gY",
+  "snapshot_id": "aiS0gAAAAADKEAJsu2Ia6psZlyjfI5NW",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Funk Flex",
+          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
         },
         {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143757,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
+      "duration_ms": 137938,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
     },
     {
       "added_at": null,
@@ -391,26 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
       "artists": [
         {
-          "name": "Funk Flex",
-          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 137938,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
+      "duration_ms": 143757,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
     },
     {
       "added_at": null,
@@ -755,30 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
-      },
-      "artists": [
-        {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Shit (feat. dj gummy bear)",
         "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
       },
@@ -807,22 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
       "artists": [
         {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
         },
         {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
+      "duration_ms": 181306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 172623,
       "name": "Touchdown (feat. Peezy & Murda Beatz)",
       "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "added_at": null,

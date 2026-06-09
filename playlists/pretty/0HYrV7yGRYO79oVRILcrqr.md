@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,842 likes - 132 songs - 8 hr 32 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,839 likes - 134 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 130 | [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 |
 | 131 | [Desastre](https://open.spotify.com/track/5kREwbnFgF4JT0gvZBzDmM) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [Desastre](https://open.spotify.com/album/3Tx7kwS4LYWTtO71spYXIa) | 2:12 |
 | 132 | [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 |
+| 133 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 |
+| 134 | [Movimento Ipnotico](https://open.spotify.com/track/2nF3AX8c2drvoZrShGTCSl) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Movimento Ipnotico](https://open.spotify.com/album/6Qq3ddvHErZ4aSpiJS7bSS) | 3:17 |
 
-Snapshot ID: `AAALqnTqq42W4w+cIRWfDSJ8YHSKkYTX`
+Snapshot ID: `AAALrP7EVeKFbjo3ZGSLb24Imh35i3Md`

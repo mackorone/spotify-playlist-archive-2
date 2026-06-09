@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Glenn Lewis",
-  "num_followers": 791193,
+  "num_followers": 791141,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1781,20 +1781,20 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2025-12-12 18:54:21",
+      "added_at": "2025-12-05 07:50:19",
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
       },
       "artists": [
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         }
       ],
-      "duration_ms": 159130,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
     },
     {
+      "added_at": "2025-12-12 18:54:21",
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+    },
+    {
       "added_at": "2026-01-23 06:08:35",
       "album": {
         "name": "Greyhound",
@@ -1833,36 +1849,20 @@
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
-      "added_at": "2025-12-05 07:50:19",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 248837,
-      "name": "In Your Own Home",
-      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1885,20 +1885,36 @@
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+      "duration_ms": 248837,
+      "name": "In Your Own Home",
+      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
+    },
+    {
+      "added_at": "2024-10-25 07:15:59",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "added_at": "2026-05-08 07:01:11",
@@ -1935,22 +1951,6 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2024-10-25 07:15:59",
-      "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 223522,
-      "name": "Sweet Little Rainbows",
-      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "added_at": "2025-05-16 04:52:04",
@@ -2049,6 +2049,26 @@
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
+      "added_at": "2025-11-21 11:03:13",
+      "album": {
+        "name": "Be Your Girl - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Be Your Girl - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
+    },
+    {
       "added_at": "2025-11-07 07:43:36",
       "album": {
         "name": "Make Me Feel",
@@ -2079,42 +2099,6 @@
       "duration_ms": 200791,
       "name": "Want Love",
       "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
-    },
-    {
-      "added_at": "2025-11-21 11:03:13",
-      "album": {
-        "name": "Be Your Girl - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
-      },
-      "artists": [
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Be Your Girl - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
-    },
-    {
-      "added_at": "2025-03-07 05:51:28",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2025-04-04 04:28:33",
@@ -2157,20 +2141,20 @@
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
+      "added_at": "2025-03-07 05:51:28",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 178891,
-      "name": "If The Love Goes",
-      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2203,6 +2187,22 @@
       "duration_ms": 172933,
       "name": "Tangled (Stripped)",
       "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 178891,
+      "name": "If The Love Goes",
+      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
       "added_at": "2024-06-14 07:12:33",
@@ -2265,6 +2265,26 @@
       "url": "https://open.spotify.com/track/47YA4WSp4izwLKhsMJlwGO"
     },
     {
+      "added_at": "2025-02-28 17:58:06",
+      "album": {
+        "name": "So Beautiful",
+        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 227649,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
+    },
+    {
       "added_at": "2026-02-14 03:28:47",
       "album": {
         "name": "Somebody",
@@ -2295,62 +2315,6 @@
       "duration_ms": 196439,
       "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
-    },
-    {
-      "added_at": "2025-02-28 17:58:06",
-      "album": {
-        "name": "So Beautiful",
-        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 227649,
-      "name": "So Beautiful",
-      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
-    },
-    {
-      "added_at": "2026-04-18 17:35:25",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/1kMBG2Mxs7VC6loY4vMqRH"
-      },
-      "artists": [
-        {
-          "name": "Alexia Jayy",
-          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 195515,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/4nqmjJRPy28DAM7URfrR4K"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Shine On Me",
-        "url": "https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 214235,
-      "name": "Shine On Me",
-      "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
     {
       "added_at": "2023-09-16 14:17:34",
@@ -2421,6 +2385,26 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
+      "added_at": "2026-04-18 17:35:25",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/1kMBG2Mxs7VC6loY4vMqRH"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/4nqmjJRPy28DAM7URfrR4K"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2435,6 +2419,22 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 214235,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -2457,22 +2457,6 @@
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
-      "added_at": "2026-02-14 03:28:47",
-      "album": {
-        "name": "To Whom This May Concern",
-        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 162762,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta"
-    },
-    {
       "added_at": "2025-11-21 11:03:13",
       "album": {
         "name": "Float",
@@ -2489,20 +2473,20 @@
       "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
     },
     {
-      "added_at": "2026-03-13 07:29:17",
+      "added_at": "2026-02-14 03:28:47",
       "album": {
-        "name": "Past Tense",
-        "url": "https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA"
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
       "artists": [
         {
-          "name": "Glenn Lewis",
-          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
         }
       ],
-      "duration_ms": 198709,
-      "name": "Past Tense",
-      "url": "https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG"
+      "duration_ms": 162762,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -2523,6 +2507,22 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+    },
+    {
+      "added_at": "2026-03-13 07:29:17",
+      "album": {
+        "name": "Past Tense",
+        "url": "https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "Past Tense",
+      "url": "https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG"
     },
     {
       "added_at": "2024-08-30 05:27:28",
@@ -2561,22 +2561,6 @@
       "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
     },
     {
-      "added_at": "2026-05-08 07:01:11",
-      "album": {
-        "name": "Second Hand",
-        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 204311,
-      "name": "Second Hand",
-      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
-    },
-    {
       "added_at": "2024-05-17 07:14:12",
       "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
@@ -2607,6 +2591,22 @@
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
+    },
+    {
+      "added_at": "2026-05-08 07:01:11",
+      "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "added_at": "2024-09-13 09:22:53",

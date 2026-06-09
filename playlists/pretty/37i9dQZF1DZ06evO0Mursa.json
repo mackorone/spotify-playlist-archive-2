@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 11117,
+  "num_followers": 11121,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAADqEEVuQjTF9oJ18JKthg1m",
+  "snapshot_id": "aiS0gAAAAADoDxqoyqsiSYE9IrVZL8X4",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symphonic Adiemus",
+        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Peter Pejtsik",
+          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
+        },
+        {
+          "name": "Adiemus Symphony Orchestra Of Europe",
+          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Chorale: Elegia",
+      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiemus III - Dances Of Time",
         "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
       },
@@ -115,30 +139,6 @@
       "duration_ms": 195200,
       "name": "Dawn Dancing",
       "url": "https://open.spotify.com/track/2kXLwmRycPpSQgCiQKYFn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphonic Adiemus",
-        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Peter Pejtsik",
-          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
-        },
-        {
-          "name": "Adiemus Symphony Orchestra Of Europe",
-          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Chorale: Elegia",
-      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
     },
     {
       "added_at": null,
@@ -539,30 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonic Adiemus",
-        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Peter Pejtsik",
-          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
-        },
-        {
-          "name": "Adiemus Symphony Orchestra Of Europe",
-          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
-        }
-      ],
-      "duration_ms": 249160,
-      "name": "Chorale: Hymn",
-      "url": "https://open.spotify.com/track/3VLL1XtpmO3mgBxMGoqsCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 180626,
       "name": "White Water",
       "url": "https://open.spotify.com/track/0O7HpYGzbbEkewLWrRW0Pj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonic Adiemus",
+        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Peter Pejtsik",
+          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
+        },
+        {
+          "name": "Adiemus Symphony Orchestra Of Europe",
+          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
+        }
+      ],
+      "duration_ms": 249160,
+      "name": "Chorale: Hymn",
+      "url": "https://open.spotify.com/track/3VLL1XtpmO3mgBxMGoqsCe"
     },
     {
       "added_at": null,
@@ -1020,6 +1020,10 @@
           "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
+        },
+        {
           "name": "Adiemus Orchestra",
           "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
         },
@@ -1032,12 +1036,16 @@
           "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
         },
         {
-          "name": "Caryl Ebenezer",
-          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
-        },
-        {
           "name": "Pamela Thorby",
           "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "David Farmer",
+          "url": "https://open.spotify.com/artist/1uOzc1Q2O7y5XHkqI0IhLu"
+        },
+        {
+          "name": "Caryl Ebenezer",
+          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
         },
         {
           "name": "Catrin Finch",
@@ -1048,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
         }
       ],
-      "duration_ms": 105706,
-      "name": "Hermit Of The Sea Rock",
-      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
+      "duration_ms": 238293,
+      "name": "Saint Declan's Drone",
+      "url": "https://open.spotify.com/track/72lWYRxo9zmA6UHWUtEg6O"
     },
     {
       "added_at": null,
@@ -1184,10 +1192,6 @@
           "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Jody Jenkins",
-          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
-        },
-        {
           "name": "Adiemus Orchestra",
           "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
         },
@@ -1200,16 +1204,12 @@
           "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
         },
         {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "David Farmer",
-          "url": "https://open.spotify.com/artist/1uOzc1Q2O7y5XHkqI0IhLu"
-        },
-        {
           "name": "Caryl Ebenezer",
           "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
         },
         {
           "name": "Catrin Finch",
@@ -1220,15 +1220,15 @@
           "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Saint Declan's Drone",
-      "url": "https://open.spotify.com/track/72lWYRxo9zmA6UHWUtEg6O"
+      "duration_ms": 105706,
+      "name": "Hermit Of The Sea Rock",
+      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+        "name": "Karl Jenkins: Motets",
+        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
       },
       "artists": [
         {
@@ -1236,21 +1236,17 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
         },
         {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 306320,
-      "name": "Corrente (Courante)",
-      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
+      "duration_ms": 184973,
+      "name": "The Peacemakers: Healing Light",
+      "url": "https://open.spotify.com/track/5M8RlfqaG3iI80wM5LuS6x"
     },
     {
       "added_at": null,
@@ -1303,8 +1299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karl Jenkins: Motets",
-        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
       },
       "artists": [
         {
@@ -1312,17 +1308,21 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
         }
       ],
-      "duration_ms": 184973,
-      "name": "The Peacemakers: Healing Light",
-      "url": "https://open.spotify.com/track/5M8RlfqaG3iI80wM5LuS6x"
+      "duration_ms": 306320,
+      "name": "Corrente (Courante)",
+      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
     },
     {
       "added_at": null,
@@ -1431,30 +1431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Armed Man: A Mass For Peace",
-        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Mike Brewer",
-          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
-      "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stabat Mater",
         "url": "https://open.spotify.com/album/2NZKPcm0h3mrRv2MPBArEO"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 550226,
       "name": "Stabat mater: I. Cantus Lacrimosus",
       "url": "https://open.spotify.com/track/1epLGnTNOCJBZWMb8Db53g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Armed Man: A Mass For Peace",
+        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Mike Brewer",
+          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
+      "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"
     },
     {
       "added_at": null,
@@ -1559,54 +1559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus IV - The Eternal Knot",
-        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
-        },
-        {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "Martin Taylor",
-          "url": "https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62"
-        },
-        {
-          "name": "Jody Jenkins",
-          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
-        },
-        {
-          "name": "Adiemus Orchestra",
-          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
-        },
-        {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
-        },
-        {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
-        }
-      ],
-      "duration_ms": 324213,
-      "name": "The Wooing Of \u00c9ta\u00edn",
-      "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stabat Mater",
         "url": "https://open.spotify.com/album/2NZKPcm0h3mrRv2MPBArEO"
       },
@@ -1651,6 +1603,54 @@
       "duration_ms": 383626,
       "name": "Stabat mater: III. Vidit Jesum In Tormentis",
       "url": "https://open.spotify.com/track/5iU7wAi2kJPPOjMbsku4gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus IV - The Eternal Knot",
+        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Davy Spillane",
+          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "Martin Taylor",
+          "url": "https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62"
+        },
+        {
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
+        },
+        {
+          "name": "Adiemus Orchestra",
+          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        }
+      ],
+      "duration_ms": 324213,
+      "name": "The Wooing Of \u00c9ta\u00edn",
+      "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

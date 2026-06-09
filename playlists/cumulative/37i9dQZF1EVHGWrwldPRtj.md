@@ -2,9 +2,9 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIVKZrYlZnw71>SZA</a>, <a href=spotify:playlist:37i9dQZF1EIUtKBU0VH3EA>Benson Boone</a> and more
 
-1,102 songs - 2 day 15 hr 14 min
+1,103 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [BE MY BABY](https://open.spotify.com/track/1EvfywUDQUIBWgZCqVEhvo) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BLONDE16](https://open.spotify.com/album/42ZxDSo4pPIDul0k6IXuiC) | 2:51 | 2026-05-12 | 2026-05-13 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-12-18 | 2026-02-27 |
 | [Beautiful Escape](https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 4:36 | 2024-01-01 | 2024-01-02 |
-| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-05-17 | 2026-05-18 |
+| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-05-17 |  |
 | [Beautiful War](https://open.spotify.com/track/3iKmdCDZK4XmqxIA9fVVGs) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 5:09 | 2025-09-03 | 2025-09-04 |
 | [Beauty & The Beast](https://open.spotify.com/track/6ShTIRCClnPaPF0OYwAD08) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Beauty & The Beast](https://open.spotify.com/album/4PrcjntHf5OMM5F3qoQCEd) | 3:04 | 2024-01-27 | 2024-02-01 |
 | [Bedroom Talk](https://open.spotify.com/track/1Ppu2rlgrZz0pfcRl20vpC) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 3:21 | 2026-02-17 | 2026-02-18 |
@@ -119,7 +119,7 @@
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2024-02-06 | 2024-03-29 |
 | [Biking](https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Biking](https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r) | 4:37 | 2023-12-29 | 2024-03-01 |
 | [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2024-01-05 | 2024-01-06 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 | 2026-06-09 |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2026-05-07 | 2026-05-08 |
 | [black samuarai.](https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 2:54 | 2025-07-08 | 2025-07-09 |
 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 | 2025-09-04 | 2025-09-05 |
@@ -312,7 +312,7 @@
 | [Finesse](https://open.spotify.com/track/2WP8G2pdddDmnh1xbfKBOI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:02 | 2024-01-02 | 2024-03-07 |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2023-12-31 | 2024-02-13 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2024-01-28 | 2024-01-29 |
-| [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2025-12-27 |  |
+| [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2025-12-27 | 2026-06-09 |
 | [Flight 99](https://open.spotify.com/track/7iwn9FANtRltiafratcH07) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Flight 99](https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL) | 2:47 | 2024-01-27 | 2024-04-19 |
 | [Floating \(feat\. Khalid\)](https://open.spotify.com/track/2vLWF4yFhTHQZVwrPTjH1s) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 2:54 | 2024-01-26 | 2024-04-11 |
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2024-04-05 | 2024-09-15 |
@@ -1098,6 +1098,7 @@
 | [差し色](https://open.spotify.com/track/26tEV8tRhd0gfdBJWM5fLx) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:05 | 2026-05-03 |  |
 | [常夜燈](https://open.spotify.com/track/3VOFoXifvQGUe4AbxEfjCU) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 4:25 | 2026-05-03 | 2026-06-02 |
 | [平熱](https://open.spotify.com/track/5Df3SejzZrNvrIS3wnPWfD) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [産声](https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo) | 4:23 | 2026-05-03 | 2026-05-30 |
+| [忘れないで \(feat\. 田我流\)](https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [忘れないで](https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL) | 4:13 | 2026-06-09 |  |
 | [忘れる前に](https://open.spotify.com/track/6vkks9YI9rY9lhP2CsJKGo) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [忘れる前に](https://open.spotify.com/album/6fuPZsXtm9E9HhVYSOpRop) | 4:02 | 2026-03-08 | 2026-05-29 |
 | [愛のままに](https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 4:26 | 2026-05-01 | 2026-06-08 |
 | [旅路](https://open.spotify.com/track/7uSLJCDetmdm3tQcoYLyty) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:37 | 2026-02-22 | 2026-06-05 |

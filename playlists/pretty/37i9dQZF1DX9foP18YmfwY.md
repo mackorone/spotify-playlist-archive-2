@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,472 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,524 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 15 | [Me Vê Como Ninguém Me Vê](https://open.spotify.com/track/1qXR4bBNp3tg4yTWhfXb3D) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Me Vê Como Ninguém Me Vê](https://open.spotify.com/album/1lQY6Gs9eK42Emoqf27JK6) | 5:49 |
 | 16 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
 | 17 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
-| 18 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 |
-| 19 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
+| 18 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
+| 19 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 |
 | 20 | [Generalíssima \- Ao Vivo](https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI) | [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Generalíssima \(Ao Vivo\)](https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN) | 5:25 |
 | 21 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 |
 | 22 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |

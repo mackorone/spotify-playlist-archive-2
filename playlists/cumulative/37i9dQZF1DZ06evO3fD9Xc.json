@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/5YMd1AtLDukRoXaGmhGHjk"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/16faE40K81K0I9WvK5GAbc"
+    },
+    {
+      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv"
       },
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 126386,
       "name": "No Puedo Odiarte",
       "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"

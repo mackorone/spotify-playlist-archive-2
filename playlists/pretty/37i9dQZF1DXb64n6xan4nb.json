@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 39451,
+  "num_followers": 39461,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ub354 \ub11b\uce20 1\uc9d1",
-        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
-      },
-      "artists": [
-        {
-          "name": "The NuTs",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 261630,
-      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
-      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Hexagonal",
         "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uc601\ubbfc",
-        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
+        "name": "\ub354 \ub11b\uce20 1\uc9d1",
+        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
       },
       "artists": [
         {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
         }
       ],
-      "duration_ms": 228946,
-      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
-      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+      "duration_ms": 261630,
+      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
+      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -483,6 +467,22 @@
       "duration_ms": 323531,
       "name": "\uace0\ubc31",
       "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\uc601\ubbfc",
+        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
+      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 232960,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Love Is Time Sixth Sense",
         "url": "https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ud130\ubcf4 HISTORY",
-        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 245159,
       "name": "I drink again",
       "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\ud130\ubcf4 HISTORY",
+        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "\uc911\ub3c5",
+      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "izi 1\uc9d1",
         "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
       },
@@ -1023,38 +1039,6 @@
       "duration_ms": 213533,
       "name": "\ub2ec\ub9ac\uae30",
       "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "\uc911\ub3c5",
-      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 193227,
       "name": "\uc88b\uc544 \uc88b\uc544",
       "url": "https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
-        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 226998,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Ray's Rainbow",
-        "url": "https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
+        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
       },
       "artists": [
         {
-          "name": "THE RAY",
-          "url": "https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 235941,
-      "name": "\uccad\uc18c",
-      "url": "https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7"
+      "duration_ms": 226998,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1167,6 +1151,22 @@
       "duration_ms": 272386,
       "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
       "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Ray's Rainbow",
+        "url": "https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7"
+      },
+      "artists": [
+        {
+          "name": "THE RAY",
+          "url": "https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g"
+        }
+      ],
+      "duration_ms": 235941,
+      "name": "\uccad\uc18c",
+      "url": "https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Back To The Soul Flight",
-        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 337946,
-      "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
-      "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
+      "duration_ms": 235773,
+      "name": "Brown City",
+      "url": "https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1403,18 +1403,34 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+        "name": "Back To The Soul Flight",
+        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
       "artists": [
         {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Brown City",
-      "url": "https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au"
+      "duration_ms": 337946,
+      "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
+      "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Voice Of Heaven",
+        "url": "https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "gazing blankly",
+      "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1447,22 +1463,6 @@
       "duration_ms": 255973,
       "name": "\uc778\ud615\uc758 \uafc8",
       "url": "https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Voice Of Heaven",
-        "url": "https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY"
-      },
-      "artists": [
-        {
-          "name": "Zia",
-          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "gazing blankly",
-      "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
     },
     {
       "added_at": "2022-06-13 13:22:46",

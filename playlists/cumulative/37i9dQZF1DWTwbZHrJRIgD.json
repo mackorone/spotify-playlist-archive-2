@@ -3173,6 +3173,40 @@
     },
     {
       "album": {
+        "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/3fFujYH65ePSgh9Q6jKMhq"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Nargis",
+          "url": "https://open.spotify.com/artist/1jzTY2BnWg0xYsBC8RLBIP"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274206,
+      "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/3F1V6b8cCRxyUltmVyZMV8"
+    },
+    {
+      "album": {
         "name": "Ishq Mein (From \"Nadaaniyan\")",
         "url": "https://open.spotify.com/album/0SgOQOj9jYXXQxDoRuDsM9"
       },
@@ -8160,7 +8194,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 241952,
       "name": "Tumhi Ko (From \"Chand Mera Dil\")",
       "url": "https://open.spotify.com/track/4PTO3Drfm9abZDw7XGVgqI"

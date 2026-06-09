@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 199515,
+  "num_followers": 199529,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-04-25 04:40:10",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2026-04-25 04:40:10",
-      "album": {
         "name": "Jars Of Clay",
         "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 211666,
       "name": "Flood",
       "url": "https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO"
+    },
+    {
+      "added_at": "2026-04-25 04:40:10",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-04-25 04:40:10",

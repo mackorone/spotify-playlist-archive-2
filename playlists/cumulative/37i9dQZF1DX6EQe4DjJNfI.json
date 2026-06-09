@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206331,
+      "name": "Cartas Na Mesa",
+      "url": "https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG"
+    },
+    {
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -1896,6 +1914,32 @@
       "duration_ms": 129427,
       "name": "Distante",
       "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
+    },
+    {
+      "album": {
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "album": {
@@ -4104,7 +4148,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 131404,
       "name": "Noite",
       "url": "https://open.spotify.com/track/0AY6y4ijEuoaveX7e9FTey"
@@ -7644,7 +7688,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 192000,
       "name": "\u00c0 Margem do Amor",
       "url": "https://open.spotify.com/track/02gONyleqjpZBbY0YDEF9n"

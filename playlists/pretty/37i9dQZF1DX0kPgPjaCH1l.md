@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,222 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,351 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 28 | [Uzo Ano](https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uzo Ano](https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL) | 3:38 |
 | 29 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
 | 30 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 |
-| 31 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
-| 32 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 |
+| 31 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 |
+| 32 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
 | 33 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 |
 | 34 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 35 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 54 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 |
 | 55 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
 | 56 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
-| 57 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 |
-| 58 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 57 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 58 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 |
 | 59 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 |
 | 60 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
 | 61 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 77 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 78 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 |
 | 79 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
-| 80 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
+| 80 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 |
 
 Snapshot ID: `AAAAANS490rDFt/3yJwRxRiSmHOuSPn4`

@@ -1,12 +1,12 @@
 {
   "description": "Photo : GIMS x Gazo",
-  "num_followers": 1162365,
+  "num_followers": 1162351,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgLKXjriJIHIbEDUraxVzicldrX",
+  "snapshot_id": "AAAAAAf+x+ALXWYbNsfcgvR3f/7qTWqA",
   "tracks": [
     {
       "added_at": "2026-06-04 22:00:42",
@@ -22,6 +22,10 @@
         {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Maximum",
+          "url": "https://open.spotify.com/artist/2fD6O2xt1zGLGGWHkR0k1n"
         }
       ],
       "duration_ms": 166249,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2221,
+  "num_followers": 2220,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACTWtJ0XsxbGLcjjU6ixWoi",
+  "snapshot_id": "aiS0gAAAAADPwgB9ngKrApMPI9G3GsbA",
   "tracks": [
     {
       "added_at": null,
@@ -543,34 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobra y Falta",
-        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Sobra y Falta",
-      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -595,6 +567,34 @@
       "duration_ms": 142138,
       "name": "Prendo Un Gallo",
       "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 24 min
+112 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 | 2023-03-10 | 2026-03-25 |
 | [Ovarios \- En Vivo](https://open.spotify.com/track/0HWGGvNTBFFljHmwUlW48V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:26 | 2023-09-15 | 2024-04-29 |
 | [PA' MI GENTE](https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [PA' MI GENTE](https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ) | 2:53 | 2025-09-21 | 2026-05-25 |
+| [PA' MI GENTE](https://open.spotify.com/track/3iONWyHvMI3voU8zhzPU1t) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:53 | 2026-06-09 |  |
 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 | 2023-12-16 | 2024-04-25 |
 | [Paloma Blanca](https://open.spotify.com/track/4e2IC3gZ9KHtxrRee7XLk0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Paloma Blanca](https://open.spotify.com/album/5VovoV6VIKIAo5Ztn3sQPy) | 3:50 | 2024-11-19 |  |
 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 | 2023-03-10 | 2024-11-19 |

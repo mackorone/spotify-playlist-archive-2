@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,023 likes - 95 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,019 likes - 95 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 79 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 80 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
 | 81 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
-| 82 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
-| 83 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
+| 82 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
+| 83 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
 | 84 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
 | 85 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 |
 | 86 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |

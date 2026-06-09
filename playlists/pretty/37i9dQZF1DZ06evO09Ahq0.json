@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 550632,
+  "num_followers": 550698,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACnoiqA5atdPY5m0eOB/X6D",
+  "snapshot_id": "aiS0gAAAAADPkZJUuJwtB7I0SzRkF3Fu",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 480706,
-      "name": "A Little Piece of Heaven",
-      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
+      "duration_ms": 251533,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Gunslinger",
-      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
+      "duration_ms": 480706,
+      "name": "A Little Piece of Heaven",
+      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 420333,
-      "name": "Second Heartbeat",
-      "url": "https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 512024,
       "name": "The Stage",
       "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 420333,
+      "name": "Second Heartbeat",
+      "url": "https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 366666,
-      "name": "Remenissions",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221973,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/7DduH5tvoHol2iZqDUX94l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 366666,
+      "name": "Remenissions",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 338040,
-      "name": "Desecrate Through Reverence",
-      "url": "https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 222656,
       "name": "Magic",
       "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 338040,
+      "name": "Desecrate Through Reverence",
+      "url": "https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K"
     },
     {
       "added_at": null,

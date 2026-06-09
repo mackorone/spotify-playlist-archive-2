@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 
 > The world of”TOUKEN RANBU”! \(C\)2015 EXNOA LLC/Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,868 likes - 101 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,866 likes - 101 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "MAIS FORTE QUE A D\u00daVIDA",
+        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206171,
+      "name": "ANA",
+      "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
+    },
+    {
+      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 219944,
       "name": "Combo da Sorte",
       "url": "https://open.spotify.com/track/1K64W9CWpVvreQhbT4zbrn"
@@ -1159,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "album": {
         "name": "LEVE",
         "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
       },
@@ -1798,7 +1838,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 193411,
       "name": "O Mundo Diz Que N\u00e3o",
       "url": "https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u"

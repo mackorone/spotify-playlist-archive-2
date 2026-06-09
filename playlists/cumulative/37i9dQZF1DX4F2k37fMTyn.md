@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Ravyn Lenae
 
-801 songs - 1 day 17 hr 29 min
+802 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-23 | 2026-05-22 |
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-22 | 2024-09-06 |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-27 | 2025-07-01 |
-| [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-27 |  |
+| [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-27 | 2026-06-09 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-06-23 |
 | [I Like You Better Than Me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Like You Better Than Me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 | 2026-02-12 | 2026-03-13 |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-28 | 2024-07-23 |
@@ -580,6 +580,7 @@
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-13 | 2023-12-06 |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-03-16 | 2023-04-28 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 | 2024-11-15 |
+| [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 | 2026-05-29 |  |
 | [SAD SONG](https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:37 | 2025-01-30 | 2026-03-25 |
 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 | 2025-11-07 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-15 | 2024-07-05 |

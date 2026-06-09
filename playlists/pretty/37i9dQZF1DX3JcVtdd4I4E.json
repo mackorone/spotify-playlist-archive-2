@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7936,
+  "num_followers": 7933,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Hate You So Much",
+        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "Hate You So Much",
+      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Hate You So Much",
-        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
-      },
-      "artists": [
-        {
-          "name": "Saga Ludvigsson",
-          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "Hate You So Much",
-      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "No Room For Love",
-        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "No Room For Love",
-      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213115,
       "name": "Beautiful Woman",
       "url": "https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "No Room For Love",
+        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "No Room For Love",
+      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "TIME TO GO",
-        "url": "https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF"
-      },
-      "artists": [
-        {
-          "name": "Martine Farstad",
-          "url": "https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "TIME TO GO",
-      "url": "https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+        "name": "TIME TO GO",
+        "url": "https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Martine Farstad",
+          "url": "https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC"
         }
       ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+      "duration_ms": 156610,
+      "name": "TIME TO GO",
+      "url": "https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -843,6 +827,22 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Habits (Stay High) - Spotify Singles",
-        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Habits (Stay High) - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Always Hurts",
         "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
       "artists": [
         {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -991,6 +975,22 @@
       "duration_ms": 178666,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 178363,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Landmarks",
         "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 235068,
       "name": "Drive With Our Eyes Closed",
       "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 178363,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Do Good Be Better",
         "url": "https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 162253,
       "name": "Do Good Be Better",
       "url": "https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "I Should\u2019ve Danced More",
-        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "I Should\u2019ve Danced More",
-      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Club Romantech",
         "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 167362,
       "name": "Stick Your Tongue Out",
       "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "I Should\u2019ve Danced More",
+        "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "I Should\u2019ve Danced More",
+      "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-05-06 11:46:39",

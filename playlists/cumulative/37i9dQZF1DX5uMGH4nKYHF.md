@@ -4,7 +4,7 @@
 
 > A selection from every Tony\-winning musical since 1947.
 
-76 songs - 5 hr 7 min
+77 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Waving Through A Window](https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:56 | 2024-06-17 |  |
 | [Welcome To The Theatre](https://open.spotify.com/track/63LOky9pfObV8QeMYOCF3e) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Lauren Bacall](https://open.spotify.com/artist/5nt1gg4HHgjmxhRXzBHHGG) | [Applause](https://open.spotify.com/album/38kIjLnaTwbTHkiAQcSm5G) | 2:35 | 2024-06-17 |  |
 | [Whatever Lola Wants](https://open.spotify.com/track/7mqiqyz0dddDRerw6981wB) | [Gwen Verdon](https://open.spotify.com/artist/3SpX7m9UHjT203kNscqadg) | [Damn Yankees \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2UrMaFzBhKMiyu4UodLkiM) | 3:14 | 2024-06-17 |  |
+| [Wheels of a Dream](https://open.spotify.com/track/62X1kCooEiwkCaptwW98w5) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Nichelle Lewis](https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7) | [Ragtime \(2025 Broadway Cast Recording\)](https://open.spotify.com/album/06SGsY1vw8D5POgDqOaDad) | 3:54 | 2026-06-08 |  |
 | [Where You Are](https://open.spotify.com/track/1hMQ0qbad2s6NWYt6krD1D) | [Chita Rivera](https://open.spotify.com/artist/55DHRcQ9oxUu76VNuQz48P), [Keith McDaniel](https://open.spotify.com/artist/6YQBxtBPcGaDpm6cJ8M0em), [Robert Montano](https://open.spotify.com/artist/75Osmi268DEsldXt7pKgrC), [Dan O'Grady](https://open.spotify.com/artist/1vkOTlVEr4jUZMOR2TKtiZ), [Raymond Rodriguez](https://open.spotify.com/artist/31h5FgAzzFA15lKzb9iPiJ), [John Norman Thomas](https://open.spotify.com/artist/64lg8QcQSQ50m01GOnMsSu), [Joshua Finkel](https://open.spotify.com/artist/3arOr4KDLYZXctXMLPAOZC), [Gary Schwartz](https://open.spotify.com/artist/7kS9zPoeTjX14DRGOBBb1s), [Jerry Christakos](https://open.spotify.com/artist/2vSx0y2vPz1Eu6IZgRbOnU), [Aurelio Padron](https://open.spotify.com/artist/1uJfovo56px5PGjvg5jbzR) | [Kiss of the Spider Woman \(Original Cast Recording\)](https://open.spotify.com/album/5siyxD2uVjKd2W0rFzt9k0) | 5:12 | 2024-06-17 |  |
 | [Who Loves You](https://open.spotify.com/track/0lZ1eNSYErzmNIK5x4C4Hq) | [Jersey Boys](https://open.spotify.com/artist/28W9apMi2vgk9O9LnkijIC) | [Jersey Boys Original Broadway Cast Recording](https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX) | 2:55 | 2024-06-17 |  |
 | [Willamania](https://open.spotify.com/track/1BbMiKsGzba7IfTtamyqhH) | [Cady Huffman](https://open.spotify.com/artist/61bZoBe84ko2orGVNGoVzg), [The Will Rogers Follies Ensemble](https://open.spotify.com/artist/3nyvtkimLC5Tx7J3sX7WaB) | [The Will Rogers Follies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3NNKk3UfSueZOh2zvcbcvu) | 6:12 | 2024-06-17 |  |

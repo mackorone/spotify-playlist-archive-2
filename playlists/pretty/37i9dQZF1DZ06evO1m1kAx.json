@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8415,
+  "num_followers": 8419,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABQTtJLOj5bBKkr2GAeCpNn",
+  "snapshot_id": "aiS0gAAAAAC3OMEYUmeiZFJqz2v/vPyP",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 227971,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 303847,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
     },
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 303847,
-      "name": "Possibility",
-      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
+      "duration_ms": 227971,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
       "duration_ms": 262320,
       "name": "True Love",
       "url": "https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
       "added_at": null,
@@ -259,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
       "artists": [
         {
@@ -268,9 +248,29 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 253857,
-      "name": "Ihe Ne Me",
-      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
+      "duration_ms": 209789,
+      "name": "Implication",
+      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 253857,
+      "name": "Ihe Ne Me",
+      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -304,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 209789,
-      "name": "Implication",
-      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
+      "duration_ms": 289384,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
     },
     {
       "added_at": null,
@@ -331,30 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horoscopes",
-        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
-      },
-      "artists": [
-        {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 163507,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -375,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+        "name": "Horoscopes",
+        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
       },
       "artists": [
         {
+          "name": "Basketmouth",
+          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 289384,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
+      "duration_ms": 163507,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
     },
     {
       "added_at": null,
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
         }
       ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balling",
-        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "Balling",
-      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gaga Shuffle",
         "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
       },
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+        "name": "Balling",
+        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+      "duration_ms": 170204,
+      "name": "Balling",
+      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "added_at": null,

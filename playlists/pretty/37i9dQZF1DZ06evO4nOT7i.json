@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 382508,
+  "num_followers": 382511,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAACGFCUOLwWCrFwYTDhWtoTX",
+  "snapshot_id": "aiS0gAAAAACHB6yk++AxDswS1uDa5Z4Q",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You've Got a Friend in Me",
+        "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 139521,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2zTvaaqnkgnOa5hdSPV61i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 215426,
       "name": "Forever Always",
       "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You've Got a Friend in Me",
-        "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 139521,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2zTvaaqnkgnOa5hdSPV61i"
     },
     {
       "added_at": null,

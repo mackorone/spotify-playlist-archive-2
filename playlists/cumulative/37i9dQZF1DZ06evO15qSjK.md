@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-188 songs - 9 hr 27 min
+189 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 | 2024-02-11 |  |
 | [Don't Shut Me Down](https://open.spotify.com/track/7l8BKyvpk84QWeriTbIXjP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Shut Me Down](https://open.spotify.com/album/5LGl7CYTeCj3GZTbyuO3Wu) | 3:56 | 2023-11-10 | 2023-12-18 |
 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 | 2023-02-16 | 2024-07-16 |
+| [Dracula](https://open.spotify.com/track/3vof9aW2ZSAmQCdEwmFsyn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 2:53 | 2026-06-09 |  |
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-02-16 | 2023-08-07 |
 | [Ella Baila Sola](https://open.spotify.com/track/4O9rnTPi9UyuRRk5t5Hzv3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Ella Baila Sola](https://open.spotify.com/album/1LWW5qn4Mctei9DCFh9yAh) | 2:17 | 2023-08-27 | 2023-10-05 |
 | [End of Beginning](https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [End of Beginning](https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70) | 2:39 | 2024-06-30 | 2024-08-03 |
@@ -125,7 +126,7 @@
 | [Ordinary](https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Ordinary](https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az) | 3:04 | 2025-08-24 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/5k4jxVDH5w00y8y3OvgguS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Do It To It](https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht) | 3:32 | 2023-02-16 | 2023-09-19 |
 | [Padam Padam](https://open.spotify.com/track/1WrdfQiXXpuyqNW1QxI1QZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Padam Padam](https://open.spotify.com/album/7BPmDd7VPUQKk0dpSboPQ9) | 2:46 | 2023-12-13 | 2024-04-02 |
-| [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-02-10 |  |
+| [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-02-10 | 2026-06-09 |
 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 | 2023-02-16 | 2025-10-21 |
 | [Peaches](https://open.spotify.com/track/78W635a58VyhzlMOgBYd27) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:55 | 2023-02-16 | 2023-04-03 |
 | [Peaches \- 2023](https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Peaches \(2023\)](https://open.spotify.com/album/0IFqCZgkdRI44XFLbFrd3v) | 1:34 | 2023-06-24 | 2023-11-11 |

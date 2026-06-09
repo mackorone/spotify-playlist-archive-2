@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 990985,
+  "num_followers": 991073,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiNjAAAAAABulY/7SuXOq1TgPA+XjFcR",
+  "snapshot_id": "aiS0gAAAAAB2KkE8WbyQ4Q4eaHKOH0Pu",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 227026,
       "name": "The Way",
       "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 259143,
-      "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 243034,
-      "name": "BDE Bonus",
-      "url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 256423,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs"
     },
     {
       "added_at": null,

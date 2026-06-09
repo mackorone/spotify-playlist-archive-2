@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,005 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,031 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 20 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
 | 21 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 22 | [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 |
-| 23 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
-| 24 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:50 |
+| 23 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:50 |
+| 24 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
 | 25 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
 | 26 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |
 | 27 | [Qaafirana](https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 5:41 |

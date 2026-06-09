@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Vince Staples
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,682 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,606 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 56 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 |
 | 57 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
 | 58 | [DEADMEAT](https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DEADMEAT](https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ) | 2:52 |
-| 59 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 59 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 60 | [Ugly and Rotten](https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly and Rotten](https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP) | 2:49 |
 | 61 | [Grief Is For The Living](https://open.spotify.com/track/3K2xzkk5sitgoz3uHoSsH0) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Grief Is For The Living](https://open.spotify.com/album/7KQBvkXqp4NPi6HTGECS20) | 3:24 |
 | 62 | [Better If Worse \(with Matt Maeson\)](https://open.spotify.com/track/3TP8KZt9tJGyeBRVyDysp9) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Better If Worse \(with Matt Maeson\)](https://open.spotify.com/album/2NRRkNx48UJ6gdQXhR4fQl) | 3:59 |

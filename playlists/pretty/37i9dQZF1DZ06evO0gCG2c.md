@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,559 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,590 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 4 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:15 |
 | 5 | [Don't Matter](https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:53 |
 | 6 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:21 |
-| 7 | [Bartender \(feat\. Akon\)](https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:58 |
-| 8 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
+| 7 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
+| 8 | [Bartender \(feat\. Akon\)](https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:58 |
 | 9 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 |
 | 10 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
 | 11 | [Ghetto](https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 44 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 45 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 |
 | 46 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
-| 47 | [YOUR BODY](https://open.spotify.com/track/4svDchbkVH5lCoalOyxmYC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:47 |
+| 47 | [RINGTONE](https://open.spotify.com/track/3hwF82gqPyi3GdQLVcxVpp) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:38 |
 | 48 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 | 50 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 
-Snapshot ID: `aiNjAAAAAAA+uLPeNaLbrcvOU1HLoAiL`
+Snapshot ID: `aiS0gAAAAADY79Yz423xhn07sXXHSKph`

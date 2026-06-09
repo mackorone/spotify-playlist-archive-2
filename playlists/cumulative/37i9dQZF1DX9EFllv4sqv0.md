@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-222 songs - 11 hr 24 min
+223 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dreams](https://open.spotify.com/track/0ufgtKCmAfzGOI3Zn2HP4c) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:04 | 2024-10-21 | 2026-03-17 |
 | [Durosoke](https://open.spotify.com/track/1yNbGvJ3Z0haQG2oRRbq5R) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Baddest Guy Ever Liveth](https://open.spotify.com/album/1ZghKqMTCsMb5QnSrTKOQP) | 4:20 | 2024-10-21 | 2025-03-15 |
 | [Economy](https://open.spotify.com/track/0T9grvwWAc85hRuhWIo8CM) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [ID Cabasa](https://open.spotify.com/album/3IZhOX08bdMHfph6O0tMGB) | 3:46 | 2024-10-21 | 2025-01-30 |
+| [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 | 2026-06-08 |  |
 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 | 2024-10-21 |  |
 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 | 2025-06-20 |  |
 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 | 2025-08-08 |  |

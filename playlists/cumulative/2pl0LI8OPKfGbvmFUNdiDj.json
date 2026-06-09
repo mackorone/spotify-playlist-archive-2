@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Caral",
+        "url": "https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd"
+      },
+      "artists": [
+        {
+          "name": "LYSERIUS",
+          "url": "https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498000,
+      "name": "Caral",
+      "url": "https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/37M4BwWCZeAanuCt9Zmt8p"
       },
@@ -2154,6 +2172,24 @@
       "duration_ms": 246224,
       "name": "December Fields (Distribution)",
       "url": "https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N"
+    },
+    {
+      "album": {
+        "name": "Deep Resting",
+        "url": "https://open.spotify.com/album/1KCwSffzFHka4E7aF1yFve"
+      },
+      "artists": [
+        {
+          "name": "Granon",
+          "url": "https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Deep Resting",
+      "url": "https://open.spotify.com/track/0Zij1R4P4KiAYudjcEQCbS"
     },
     {
       "album": {
@@ -6442,6 +6478,24 @@
       "duration_ms": 158461,
       "name": "RIEN AU FINAL",
       "url": "https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr"
+      },
+      "artists": [
+        {
+          "name": "Edgeline",
+          "url": "https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202099,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu"
     },
     {
       "album": {

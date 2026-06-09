@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,993 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,980 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 29 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 30 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
 | 31 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
-| 32 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
-| 33 | [Jingle Bell Rock](https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Jingle Bell Rock](https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r) | 2:34 |
+| 32 | [Jingle Bell Rock](https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Jingle Bell Rock](https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r) | 2:34 |
+| 33 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 34 | [The Christmas Tarte](https://open.spotify.com/track/6ze4VRALFSEHhXzSPBpYYh) | [Dean St\. Trio](https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7) | [The Christmas Tarte](https://open.spotify.com/album/0amWZX4oYh5a7oJ9d486U9) | 3:25 |
 | 35 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
 | 36 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 56 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
 | 57 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 |
 | 58 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
-| 59 | [Give love on christmas day](https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Give love on christmas day](https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4) | 3:21 |
-| 60 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
+| 59 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
+| 60 | [Give love on christmas day](https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Give love on christmas day](https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4) | 3:21 |
 | 61 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 62 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
 | 63 | [Suzy Snowflake](https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Suzy Snowflake](https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki) | 2:48 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 78 | [Blue Christmas](https://open.spotify.com/track/3210TdRMtF0hKNnUgiMTlS) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Almost Like Being In Love](https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo) | 3:12 |
 | 79 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 80 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
-| 81 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
-| 82 | [That's What I Want for Christmas](https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Snow!](https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK) | 4:09 |
+| 81 | [That's What I Want for Christmas](https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Snow!](https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK) | 4:09 |
+| 82 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 83 | [Christmas Blues](https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:47 |
 | 84 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 |
 | 85 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |

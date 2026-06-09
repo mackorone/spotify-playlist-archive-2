@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,332 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,340 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 14 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 15 | [Big Space](https://open.spotify.com/track/6Uhy569s1JlYKwqI5k06ui) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Big Space](https://open.spotify.com/album/5K7XTnfL9nJQBxVWRt7inj) | 2:43 |
 | 16 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
-| 17 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
-| 18 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
+| 17 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
+| 18 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
 | 19 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 |
 | 20 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 |
 | 21 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 36 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
 | 37 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 38 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
-| 39 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
-| 40 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
+| 39 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
+| 40 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 41 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 42 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
 | 43 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 47 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
 | 48 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 |
 | 49 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
-| 50 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
+| 50 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 
 Snapshot ID: `AAAAAI4Of/DFidHqvaoJhhYPvKoFYk/5`

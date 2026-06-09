@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 565 songs - 1 day 10 hr 12 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 569 songs - 1 day 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -573,5 +573,9 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 563 | [Hazlo Por Vos!](https://open.spotify.com/track/2yKlOSUKyZoBl8UwPYbdvb) | [Prieto](https://open.spotify.com/artist/5uipQ4Dyh3xSyPlTxjrcgW) | [Apenas Metros Da Estrada](https://open.spotify.com/album/4fuvp9GZh0Sd3NzwjCB30F) | 4:14 |
 | 564 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 |
 | 565 | [Top Of Your Game](https://open.spotify.com/track/55Owb4O3KxNTJZlCwx3NdK) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Top Of Your Game](https://open.spotify.com/album/0BU9Cq93XQfzuj0vR2vdF6) | 3:55 |
+| 566 | [Late For Us](https://open.spotify.com/track/3JQfP8VbRcthfHFljJm9qi) | [ALEK](https://open.spotify.com/artist/7qg9o6wAdO1KF43eESR9eF), [KRILL ROU](https://open.spotify.com/artist/4iloxkMhci7NHOEQ9zfj9a), [BELCE](https://open.spotify.com/artist/7LLg4c4fOc89Bk121QaT1g) | [Late For Us](https://open.spotify.com/album/5adhaD6x3lsawF8DIEhsto) | 3:40 |
+| 567 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
+| 568 | [Fanático del Rock And Roll](https://open.spotify.com/track/7gxjjbv9dR7rE9I8FPuVPs) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll](https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2) | 3:01 |
+| 569 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 |
 
-Snapshot ID: `AAACyhMPvsXy/bO/PvlbYlSrbklKkgml`
+Snapshot ID: `AAACztdsfWcf2jps00wZqbPZKy06yz/K`

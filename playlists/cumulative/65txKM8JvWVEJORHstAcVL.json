@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (31/05/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (7/06/2026)",
   "tracks": [
     {
       "album": {
@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -1114,6 +1136,24 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
+    },
+    {
+      "album": {
+        "name": "Des de lluny",
+        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
+      },
+      "artists": [
+        {
+          "name": "Ivan Herzog",
+          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174336,
+      "name": "Des de lluny",
+      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
     },
     {
       "album": {
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
@@ -4149,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Segurament t'estimo",
+        "url": "https://open.spotify.com/album/3jrApK4R30iY51EFJBZ21v"
+      },
+      "artists": [
+        {
+          "name": "Els Amics De Les Arts",
+          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175311,
+      "name": "Segurament t'estimo",
+      "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
+    },
+    {
+      "album": {
         "name": "Serem m\u00e9s forts",
         "url": "https://open.spotify.com/album/2LRjn2zuOsnDYtGglgKPEI"
       },
@@ -4638,7 +4696,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -4758,7 +4816,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 237952,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"

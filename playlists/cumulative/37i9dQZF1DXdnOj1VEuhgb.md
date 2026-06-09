@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: No.1
 
-1,020 songs - 1 day 21 hr 42 min
+1,021 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | [KÜLLERİNDEN DOĞ](https://open.spotify.com/track/4ODG4ls5YFjiB2AWHrHxd6) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Colt NS](https://open.spotify.com/artist/5LwtZHjbGBwDx83IwoV2fI) | [KÜLLERİNDEN DOĞ](https://open.spotify.com/album/6UyEf9Sah40B2EYjo1HuPF) | 2:30 | 2025-03-20 | 2025-04-11 |
 | [Küllük Dolu](https://open.spotify.com/track/4GUtswpSzgffHKkI3vld7m) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [Küllük Dolu](https://open.spotify.com/album/14ujEZDtMDRHzQHwFjWkDI) | 2:29 | 2024-04-04 | 2024-04-19 |
 | [Küllük Dolu](https://open.spotify.com/track/2jTtNd0L0n8RWBRAPrWYHj) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [BLL Feru](https://open.spotify.com/artist/5vhdApDXLi87SxIP8aXsW9) | [Küllük Dolu](https://open.spotify.com/album/0BXfxZe9ASffx66oqrwKUz) | 2:29 | 2024-04-18 | 2024-05-03 |
-| [Küçük Bir Yol \- Red Bull Track Takeover](https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Küçük Bir Yol \(Red Bull Track Takeover\)](https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY) | 3:20 | 2026-03-19 |  |
+| [Küçük Bir Yol \- Red Bull Track Takeover](https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Küçük Bir Yol \(Red Bull Track Takeover\)](https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY) | 3:20 | 2026-03-19 | 2026-06-09 |
 | [Kırmızı Reçete](https://open.spotify.com/track/3CBTM42v5aAd85RND86MlY) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw), [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Kırmızı Reçete](https://open.spotify.com/album/4ax2WfwwRwtJqxFISyC7ym) | 2:52 | 2024-10-03 | 2024-10-18 |
 | [LA FAMILIA](https://open.spotify.com/track/3IAlwtdKD6go7q2nLLhxAr) | [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [LA FAMILIA](https://open.spotify.com/album/7c2lxKnlHmwenmycCqK9Gg) | 2:33 | 2026-01-29 | 2026-02-13 |
 | [LA HAVLE VELA BOOM BAP](https://open.spotify.com/track/3hQn0Fpg8pKvKv6voVvj7p) | [Saian](https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi), [K''st](https://open.spotify.com/artist/4x19qDNFXvWQnudUjs0XOE) | [Otonom Piyade: Kuzuların Sessizliği](https://open.spotify.com/album/4O0Va9SCV5pkAVnDpBVs4l) | 3:19 | 2024-09-19 | 2024-10-04 |
@@ -914,6 +914,7 @@
 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 | 2026-04-16 |  |
 | [Uzayda Aşk](https://open.spotify.com/track/4GNt6Ymyb6ld5lZgN0HbKp) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Uzayda Aşk](https://open.spotify.com/album/1VacHV8d7K1BrdHmdleWMt) | 3:12 | 2023-12-12 | 2023-12-15 |
 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 | 2025-07-24 | 2025-11-14 |
+| [V 4 VENDETTA](https://open.spotify.com/track/0CdMYMqTtAP9vXv19kWN7d) | [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [ANARKYHIGH](https://open.spotify.com/album/6Jglh6BLxtApNluJN3Link) | 1:42 | 2026-06-08 |  |
 | [VAKKO](https://open.spotify.com/track/5e8f1NQIfuY8nVvE3f7zP1) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [HITMAN&VAKKO](https://open.spotify.com/album/2QfeXYMQJ7nDwWVZswDhFu) | 1:53 | 2025-10-23 | 2025-11-14 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 | 2023-04-28 |
 | [Varsan Varım](https://open.spotify.com/track/5kgwIvCuGTUnSTyDt5GNkQ) | [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [Yatay Zeka](https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z) | 3:04 | 2024-07-25 | 2024-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,994 likes - 55 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,015 likes - 55 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 3 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 | 4 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 5 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
-| 6 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
-| 7 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
-| 8 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
+| 6 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
+| 7 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
+| 8 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 9 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 10 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 11 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 44 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
 | 45 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 |
 | 46 | [Heaven](https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 4:03 |
-| 47 | [Careless Whisper](https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP) | 5:00 |
-| 48 | [Angie](https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:31 |
+| 47 | [Angie](https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:31 |
+| 48 | [Careless Whisper](https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP) | 5:00 |
 | 49 | [The One](https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z) | 5:51 |
-| 50 | [You're The Inspiration](https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [20 Mejores Melodias Encadenadas Vol.5](https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA) | 3:49 |
-| 51 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 |
+| 50 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 |
+| 51 | [You're The Inspiration](https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [20 Mejores Melodias Encadenadas Vol.5](https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA) | 3:49 |
 | 52 | [I Wish It Would Rain Down](https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously](https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9) | 5:27 |
 | 53 | [Love Of My Life](https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L) | 3:37 |
 | 54 | [My Way \- Remastered 2008](https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ) | 4:36 |

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 ### [t'as la ref ?](https://open.spotify.com/playlist/37i9dQZF1DXdvyLcddcaVU)
 
-> ⭐️⭐️ \#fyp
+> \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,049 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,141 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paris](https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [RESTART](https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L) | 2:52 |
-| 2 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
-| 3 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
-| 4 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |
-| 5 | [Pangor](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 |
+| 1 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
+| 2 | [Pangor](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 |
+| 3 | [Maladie](https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q) | 3:12 |
+| 4 | [Paris](https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [RESTART](https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L) | 2:52 |
+| 5 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |
 | 6 | [T'es en love](https://open.spotify.com/track/2wqymG0P5vfYc3jU92DFgB) | [La Famax](https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE) | [T'es en love](https://open.spotify.com/album/5cU2ZFG1LCu0HWLxc1u5JO) | 3:37 |
-| 7 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |
-| 8 | [Maladie](https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q) | 3:12 |
+| 7 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
+| 8 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |
 | 9 | [méli\-mélo](https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HOPE\. : Imani](https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn) | 2:33 |
 | 10 | [Parfum quartier](https://open.spotify.com/track/1fMOAIge1jLxq4ONi9bIFL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Parfum quartier](https://open.spotify.com/album/3sjKkgJkvnRwYPPnFcaoED) | 3:46 |
 | 11 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 79 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
 | 80 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 |
 
-Snapshot ID: `AAAAAKEHECA6ggnLKPB2Z4FSMdAs4+ki`
+Snapshot ID: `AAAAAGnvkxo061JCQQWYtfQ/ZtfnXega`

@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-238 songs - 9 hr 24 min
+239 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [It's a Stick Up](https://open.spotify.com/track/26HB2IAUsyDenlJWmkD4zk) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [Guapo Ep 5ive "B Side"](https://open.spotify.com/album/5voDVenL8jfpVojUTa8OCN) | 2:10 | 2026-01-06 | 2026-01-15 |
 | [its coo](https://open.spotify.com/track/4YPr8NRp3P9mRlESfiVsLv) | [Majin Glock](https://open.spotify.com/artist/2uGi4yRGoDdOFlvUCbMXMm), [srsclay](https://open.spotify.com/artist/46QXFg6u88kkcpZxoUU9sd) | [DYNAMIC DUO 2](https://open.spotify.com/album/1MfGGsHxJD4dL43So9yg0M) | 2:06 | 2026-04-24 | 2026-04-30 |
 | [I’m Better](https://open.spotify.com/track/2yLD8NTUwrDu6g6r8G5xrL) | [5ive](https://open.spotify.com/artist/1amQb9Uw9xQGWXyZjW42H1) | [I’m Better](https://open.spotify.com/album/3SQpLyFjDApF7me9HGKtj5) | 1:56 | 2026-01-19 | 2026-01-30 |
+| [Jedi Flip \- 2026 Lil Rogue](https://open.spotify.com/track/5wsLty8UjnvnR4XYmBVkRj) | [Lil Rogue](https://open.spotify.com/artist/5QHADB944vb6nQsDeGaSIe) | [Out My Mind](https://open.spotify.com/album/51j5JJU5KmvQIomcpT3Tok) | 2:14 | 2026-06-09 |  |
 | [Jersey](https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Jersey](https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH) | 2:43 | 2025-11-29 |  |
-| [Kant Luvv](https://open.spotify.com/track/4sc55kUIHm2W1u1DTHbMXM) | [praymist](https://open.spotify.com/artist/7BLljHXM4uixydV5n18F7B), [knivesysl](https://open.spotify.com/artist/4HgDMcGZhCANiEiWNGE32j) | [Kant Luvv](https://open.spotify.com/album/1h7zaoMujUxe6GdtZRDLnO) | 2:37 | 2026-06-01 |  |
+| [Kant Luvv](https://open.spotify.com/track/4sc55kUIHm2W1u1DTHbMXM) | [praymist](https://open.spotify.com/artist/7BLljHXM4uixydV5n18F7B), [knivesysl](https://open.spotify.com/artist/4HgDMcGZhCANiEiWNGE32j) | [Kant Luvv](https://open.spotify.com/album/1h7zaoMujUxe6GdtZRDLnO) | 2:37 | 2026-06-01 | 2026-06-09 |
 | [KARATE KICKIN](https://open.spotify.com/track/6Rg9jc60UmZLchTTPyzMk9) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [KARATE KICKIN](https://open.spotify.com/album/7mnbl6AKnr2DeyQ02nRi8P) | 1:54 | 2026-02-10 | 2026-02-17 |
 | [Karl Malone \(2nd Session\)](https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Therapeutic Deluxe \(2nd Session\)](https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn) | 1:44 | 2026-05-01 | 2026-05-22 |
 | [keep no glock](https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi) | [K\-SEE](https://open.spotify.com/artist/3Pa1wXxunsWmALJOnjbfbQ) | [keep no glock](https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN) | 1:46 | 2025-12-01 | 2025-12-20 |
@@ -223,7 +224,7 @@
 | [Tokyo Drift](https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ) | [Ronnie Caine](https://open.spotify.com/artist/4WVnDsM7TEE05xMG0D5gUn) | [I Cant Lose](https://open.spotify.com/album/0SpaqDTVmSq6idNQac0I5X) | 2:19 | 2026-01-06 | 2026-02-03 |
 | [Trapped Out](https://open.spotify.com/track/1Xi8QYlSLfQJ1szCh3goMH) | [Fluhkunxhkos](https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU) | [Blood In Blood Out 2](https://open.spotify.com/album/1jD5f2StWQPB4YWoP1ixez) | 1:29 | 2026-03-23 | 2026-03-31 |
 | [Trifling](https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4) | [acleast](https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn) | [Trifling](https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e) | 3:31 | 2026-01-15 | 2026-05-26 |
-| [Trophies](https://open.spotify.com/track/3GIswipFfcwql6cMpYAW0e) | [MDE Tae](https://open.spotify.com/artist/7tuyMYR3AcaZ43l3viEhsX) | [Trophies](https://open.spotify.com/album/37s96wBm2Km5FClsNzP1gf) | 2:24 | 2026-06-05 |  |
+| [Trophies](https://open.spotify.com/track/3GIswipFfcwql6cMpYAW0e) | [MDE Tae](https://open.spotify.com/artist/7tuyMYR3AcaZ43l3viEhsX) | [Trophies](https://open.spotify.com/album/37s96wBm2Km5FClsNzP1gf) | 2:24 | 2026-06-05 | 2026-06-09 |
 | [Tuck Blick](https://open.spotify.com/track/5KbBJjm7P3L7w2JI0hVxuB) | [ThirstyOwe3k](https://open.spotify.com/artist/1dtFF7RRzg7nFykaThgcLk), [DuseThaJoynt](https://open.spotify.com/artist/6iyl1ecyb5wUZd2Ovsfvus) | [Tuck Blick](https://open.spotify.com/album/3ISOMp3jA6STWoglv2jtF2) | 2:07 | 2026-04-14 | 2026-04-15 |
 | [U A JOKE](https://open.spotify.com/track/6WzU2cE9u9m4PSCYIBIwPd) | [nnickyp](https://open.spotify.com/artist/2Tny36sUxlxvzw0mtwiHr7) | [The Blueprint](https://open.spotify.com/album/2Lf4vt3hubKi2Cc5E7zVXI) | 1:32 | 2026-02-18 | 2026-02-21 |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
@@ -234,7 +235,7 @@
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [VVS FLOW](https://open.spotify.com/track/1KsaA94aJwiyTVDbKlgZQP) | [Boomy2Aktive](https://open.spotify.com/artist/7DgRxHJSV2odZIGViEUf6y), [2kfxded](https://open.spotify.com/artist/4pgEDns4neOULmbLvdyD88) | [VVS FLOW](https://open.spotify.com/album/3DD0Uzy7gfRRaj9zDucuRu) | 2:01 | 2026-05-18 | 2026-06-01 |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
-| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 | 2026-06-06 |
+| [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
 | [Why??](https://open.spotify.com/track/0dBMRQ78EYbUMjjxOH38yw) | [cb](https://open.spotify.com/artist/5EAMEZrRLkhyG5pYaqedpC) | [Why??](https://open.spotify.com/album/6fqdCF4J8w8plMLjPMT3hh) | 2:08 | 2026-02-04 | 2026-02-26 |
 | [Wiseman Freestlye](https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Wiseman Freestlye](https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ) | 2:08 | 2026-05-06 |  |
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |

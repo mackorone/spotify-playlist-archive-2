@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,800 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,946 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 31 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
 | 32 | [Paisaje Japonés](https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Paisaje Japonés](https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX) | 3:24 |
 | 33 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
-| 34 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
-| 35 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
+| 34 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
+| 35 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
 | 36 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 |
 | 37 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |
 | 38 | [El Beso](https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 50 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:50 |
 
-Snapshot ID: `aiNjAAAAAAACg3jShlJg7RhcEwMjJEEZ`
+Snapshot ID: `aiS0gAAAAAAYVs7nBd9wZF51IWxmxFZX`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-528 songs - 1 day 8 hr 38 min
+533 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 | 2026-05-12 |  |
 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:40 | 2025-11-20 |  |
 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 | 2026-01-21 |
+| [Ashes To Grace](https://open.spotify.com/track/2Z5qebPh1gJTJWCf3yVt1n) | [The Render Line](https://open.spotify.com/artist/5h7q4HzHvLpDZl0YUVOuMR) | [You Can Do The Impossible](https://open.spotify.com/album/6zuAnc1h4qrD6OCoosnKfh) | 3:06 | 2026-06-09 |  |
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 | 2025-12-12 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 | 2026-03-04 |
@@ -237,6 +238,7 @@
 | [Just a Little While](https://open.spotify.com/track/1OLUiHTSO2A9dmLpuGDgFW) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Just a Little While](https://open.spotify.com/album/7Bcl5QSiVUwyNppf3sbloL) | 4:30 | 2026-05-23 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 |  |
+| [Karma](https://open.spotify.com/track/3tGPKbmHBc6V0GFbfHwfXY) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Karma](https://open.spotify.com/album/3vByTPtmfWDVFuChlrQENm) | 4:29 | 2026-06-09 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 | 2026-05-17 |
 | [Knots](https://open.spotify.com/track/0O3G3T3lM8omVs9gYbwt9u) | [Violet Fox](https://open.spotify.com/artist/5JjEGMlCzQo4Iqmw6Dij1r) | [Knots](https://open.spotify.com/album/4gtwkXPMCaA33uZi84N40B) | 2:48 | 2026-04-15 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-23 |
@@ -446,6 +448,7 @@
 | [The Kingdom](https://open.spotify.com/track/3ajLHTSHgtYmONgZBJjxZi) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Kingdom](https://open.spotify.com/album/1z6kqRlNo0i9j5weIERsa4) | 3:49 | 2026-03-14 | 2026-04-20 |
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-05-23 |  |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 | 2025-12-12 |
+| [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-09 |  |
 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 | 2026-02-10 | 2026-03-04 |
 | [The Mess & The Martyr](https://open.spotify.com/track/4neyUrx2A4XSyKLeEs0INN) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [The Mess & The Martyr](https://open.spotify.com/album/2Q6W8VUXPrbYI968Z1sdUk) | 3:57 | 2026-03-14 | 2026-04-20 |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2025-12-29 | 2026-01-29 |
@@ -463,6 +466,7 @@
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2025-11-17 | 2025-12-12 |
 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 | 2026-01-29 | 2026-02-23 |
 | [They Don't Know You](https://open.spotify.com/track/5osfwifyQo4G4wlQ9v9mMc) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [They Don't Know You](https://open.spotify.com/album/2gTKzj9qSQoYy5fZIjF57R) | 5:54 | 2025-11-14 | 2025-12-12 |
+| [They Take You to War](https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:10 | 2026-06-09 |  |
 | [This is under control.](https://open.spotify.com/track/600eSAScJN873sbh9virWp) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [This is under control.](https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds) | 3:48 | 2025-11-26 | 2026-01-05 |
 | [This Machine](https://open.spotify.com/track/3vpK71WrTIZLXsmWuT6Qg2) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 5:10 | 2026-01-27 | 2026-02-23 |
 | [This Must Be the Place](https://open.spotify.com/track/4eqKratMzpnemwh6pcjfbW) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:54 | 2025-11-21 | 2026-02-04 |
@@ -528,6 +532,7 @@
 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 | 2026-01-17 | 2026-02-18 |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-19 | 2026-04-20 |
+| [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-09 |  |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Young Women Infected with Jezebel Spirits \- Live](https://open.spotify.com/track/7lrT63Fla8L2qXzp5EVCFk) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 2:54 | 2026-01-29 | 2026-02-18 |

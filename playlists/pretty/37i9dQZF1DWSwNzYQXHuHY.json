@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12591,
+  "num_followers": 12595,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
-      },
-      "artists": [
-        {
-          "name": "Jang Beom June",
-          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
-        }
-      ],
-      "duration_ms": 168492,
-      "name": "Your Shampoo Scent In The Flowers",
-      "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
         "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 227986,
       "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
       "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "duration_ms": 168492,
+      "name": "Your Shampoo Scent In The Flowers",
+      "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
-        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
-      },
-      "artists": [
-        {
-          "name": "\ubc30\uc774 (NMIXX)",
-          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "XO, My Cyberlove",
         "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
       },
@@ -559,22 +543,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Summer?",
-        "url": "https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK"
+        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
+        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
       },
       "artists": [
         {
-          "name": "JUNGSOOMIN",
-          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+          "name": "\ubc30\uc774 (NMIXX)",
+          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Telepathy (Feat. ADORA)",
-      "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
+      "duration_ms": 244000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -595,6 +575,26 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "Summer?",
+        "url": "https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK"
+      },
+      "artists": [
+        {
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Telepathy (Feat. ADORA)",
+      "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Would You Hold My Hand?",
-        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
+        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
+        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
       },
       "artists": [
         {
-          "name": "E.ul",
-          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
         }
       ],
-      "duration_ms": 166994,
-      "name": "Would You Hold My Hand?",
-      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
+      "duration_ms": 163000,
+      "name": "Love Frequency",
+      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
-        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
+        "name": "Would You Hold My Hand?",
+        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Love Frequency",
-      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
+      "duration_ms": 166994,
+      "name": "Would You Hold My Hand?",
+      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
     },
     {
       "added_at": "2026-05-13 08:52:28",

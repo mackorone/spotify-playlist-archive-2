@@ -5817,6 +5817,24 @@
     },
     {
       "album": {
+        "name": "Movimento Ipnotico",
+        "url": "https://open.spotify.com/album/6Qq3ddvHErZ4aSpiJS7bSS"
+      },
+      "artists": [
+        {
+          "name": "Claudia Ferri",
+          "url": "https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Movimento Ipnotico",
+      "url": "https://open.spotify.com/track/2nF3AX8c2drvoZrShGTCSl"
+    },
+    {
+      "album": {
         "name": "Mumma Ginge",
         "url": "https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN"
       },
@@ -8590,6 +8608,24 @@
       "duration_ms": 209136,
       "name": "Take My Love - Live",
       "url": "https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao"
+    },
+    {
+      "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
     },
     {
       "album": {

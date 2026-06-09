@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5"
+      },
+      "artists": [
+        {
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
+    },
+    {
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn"
       },
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu"
+      },
+      "artists": [
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC"
+    },
+    {
+      "album": {
         "name": "Send It (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L"
       },
@@ -944,6 +980,24 @@
       "duration_ms": 168000,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/5KMfRxeDzPvf5v63dWx4xG"
+      },
+      "artists": [
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/4pLGr9y4U7n2bA0zw3Ir9q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner & MC Grammar
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,031 likes - 100 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,060 likes - 100 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

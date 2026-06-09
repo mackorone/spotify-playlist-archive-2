@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Flores En Mi Alma",
+        "url": "https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173830,
+      "name": "PA' MI GENTE",
+      "url": "https://open.spotify.com/track/3iONWyHvMI3voU8zhzPU1t"
+    },
+    {
+      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },

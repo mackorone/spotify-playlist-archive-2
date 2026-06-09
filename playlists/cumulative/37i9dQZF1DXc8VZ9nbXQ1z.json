@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 248000,
       "name": "Anytime You Like",
       "url": "https://open.spotify.com/track/3LReK9APHNd1KNzAjjMqfb"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 339000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5dS7IjDzZj5lb8K1rTx5nP"
@@ -3342,6 +3342,24 @@
       "duration_ms": 368389,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/6T8RXlW01s055nR9CMIlxj"
+    },
+    {
+      "album": {
+        "name": "Call Of The Tribe",
+        "url": "https://open.spotify.com/album/3OoDIl2crFXdQM0G4M6E5C"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Karma",
+          "url": "https://open.spotify.com/artist/4j9QSI0NP79f4KkFgVI86L"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241037,
+      "name": "Call Of The Tribe - Extended Mix",
+      "url": "https://open.spotify.com/track/52k9oUfaMB2f01Fcz010L2"
     },
     {
       "album": {
@@ -7353,6 +7371,32 @@
     },
     {
       "album": {
+        "name": "Fulani",
+        "url": "https://open.spotify.com/album/00Ji4B5YX37qIzFCdEUyLq"
+      },
+      "artists": [
+        {
+          "name": "Rash B",
+          "url": "https://open.spotify.com/artist/5TOk9KCLbsKuQB0TV89nxn"
+        },
+        {
+          "name": "Mohamed Errebbaa",
+          "url": "https://open.spotify.com/artist/43Ey7M3s1CDgm4xGRHfDMF"
+        },
+        {
+          "name": "Ksser Essou\u0642",
+          "url": "https://open.spotify.com/artist/7FKQdUHsaz9Gu5vcyL452S"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330218,
+      "name": "Fulani - Extented Mix",
+      "url": "https://open.spotify.com/track/1rGj5JILE1bp4lscDnfO6n"
+    },
+    {
+      "album": {
         "name": "Fulufhelo",
         "url": "https://open.spotify.com/album/0G1pocVQXTI6PfLHst9Sbi"
       },
@@ -8530,6 +8574,28 @@
       "duration_ms": 294000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
+    },
+    {
+      "album": {
+        "name": "Heart Spin EP",
+        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Heart Spin",
+      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
     },
     {
       "album": {
@@ -15436,7 +15502,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 283125,
       "name": "Ndaterera",
       "url": "https://open.spotify.com/track/61EpBQutVCFmlZHQYeoOVT"
@@ -17160,7 +17226,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 226341,
       "name": "OTA - Dr Feel Remix",
       "url": "https://open.spotify.com/track/0APZcXHJ3D4tdBp0xzCTcA"
@@ -20457,6 +20523,32 @@
     },
     {
       "album": {
+        "name": "Sinnerman",
+        "url": "https://open.spotify.com/album/69sY8uBBypiYZkTbeKEhme"
+      },
+      "artists": [
+        {
+          "name": "Aaron Sevilla",
+          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
+        },
+        {
+          "name": "DJ Care",
+          "url": "https://open.spotify.com/artist/6jdZ1Zojf33DmV4S9drOQZ"
+        },
+        {
+          "name": "Mikrobeats",
+          "url": "https://open.spotify.com/artist/2UMNz82ves6wv0iWlQUQFe"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141119,
+      "name": "Sinnerman",
+      "url": "https://open.spotify.com/track/4yn925QAS3ZCtWwtkW1H59"
+    },
+    {
+      "album": {
         "name": "Sinnerman (Henrik Schwarz Remixes)",
         "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
       },
@@ -21078,6 +21170,24 @@
       "duration_ms": 220487,
       "name": "Sound Of The Police",
       "url": "https://open.spotify.com/track/43ncbQpMRP5XPBIqr9SsSV"
+    },
+    {
+      "album": {
+        "name": "Sound Of The Soul",
+        "url": "https://open.spotify.com/album/1eakM0lrn0AU7xzJq9fr2m"
+      },
+      "artists": [
+        {
+          "name": "Gil Bokobza",
+          "url": "https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "Sound Of The Soul",
+      "url": "https://open.spotify.com/track/4JpvbcOZPtFLllr1HkO9te"
     },
     {
       "album": {
@@ -25289,6 +25399,32 @@
     },
     {
       "album": {
+        "name": "Who Do You",
+        "url": "https://open.spotify.com/album/082mcxFUvk2UdEz5uxP7JB"
+      },
+      "artists": [
+        {
+          "name": "BADBOX",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
+        },
+        {
+          "name": "ELI\u014c",
+          "url": "https://open.spotify.com/artist/1p4hf1NrAivDUNcE8ddG1P"
+        },
+        {
+          "name": "Brilantin",
+          "url": "https://open.spotify.com/artist/4Kd2TR5uOCEJZkoUvecNjS"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311900,
+      "name": "Who Do You - Extended Mix",
+      "url": "https://open.spotify.com/track/1JXWT8dx1zS2YNRb4vKO3y"
+    },
+    {
+      "album": {
         "name": "WHY 3",
         "url": "https://open.spotify.com/album/3rYiZ4aN2BlcExzSNWyJYm"
       },
@@ -25300,7 +25436,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 465000,
       "name": "WHY 3",
       "url": "https://open.spotify.com/track/1mvJtCZIGY1RvFCzFZBkTB"

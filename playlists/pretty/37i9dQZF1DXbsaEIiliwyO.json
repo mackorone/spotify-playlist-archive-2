@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4 Tatsuya Kitani",
-  "num_followers": 57922,
+  "num_followers": 57933,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,18 @@
     {
       "added_at": "2026-05-30 14:03:38",
       "album": {
-        "name": "ReawakeR (feat. Felix of Stray Kids)",
-        "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
+        "name": "LEO-NiNE",
+        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
       "artists": [
         {
           "name": "LiSA",
           "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        },
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
         }
       ],
-      "duration_ms": 184993,
-      "name": "ReawakeR (feat. Felix of Stray Kids)",
-      "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
+      "duration_ms": 237586,
+      "name": "\u7d05\u84ee\u83ef",
+      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
     },
     {
       "added_at": "2026-05-30 14:03:38",
@@ -559,42 +555,6 @@
     {
       "added_at": "2026-05-30 14:03:38",
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        }
-      ],
-      "duration_ms": 327966,
-      "name": "LOST IN PARADISE",
-      "url": "https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX"
-    },
-    {
-      "added_at": "2026-05-30 14:03:38",
-      "album": {
-        "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
-        "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 221425,
-      "name": "\u5efb\u5efb\u5947\u8b5a",
-      "url": "https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445"
-    },
-    {
-      "added_at": "2026-05-30 14:03:38",
-      "album": {
         "name": "Red Swan",
         "url": "https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL"
       },
@@ -615,18 +575,58 @@
     {
       "added_at": "2026-05-30 14:03:38",
       "album": {
-        "name": "LEO-NiNE",
-        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
+        "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 221425,
+      "name": "\u5efb\u5efb\u5947\u8b5a",
+      "url": "https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445"
+    },
+    {
+      "added_at": "2026-05-30 14:03:38",
+      "album": {
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        }
+      ],
+      "duration_ms": 327966,
+      "name": "LOST IN PARADISE",
+      "url": "https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX"
+    },
+    {
+      "added_at": "2026-05-30 14:03:38",
+      "album": {
+        "name": "ReawakeR (feat. Felix of Stray Kids)",
+        "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
       },
       "artists": [
         {
           "name": "LiSA",
           "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
         }
       ],
-      "duration_ms": 237586,
-      "name": "\u7d05\u84ee\u83ef",
-      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
+      "duration_ms": 184993,
+      "name": "ReawakeR (feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
     },
     {
       "added_at": "2026-05-30 14:03:38",

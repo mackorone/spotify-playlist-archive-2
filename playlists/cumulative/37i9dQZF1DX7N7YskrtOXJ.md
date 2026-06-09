@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-252 songs - 15 hr 14 min
+253 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,12 +105,13 @@
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2024-12-31 |  |
 | [La Carretera 1](https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Imperio de la Cumbia](https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx) | 4:47 | 2024-02-27 | 2025-01-03 |
 | [La Cuarentena](https://open.spotify.com/track/4v0e1iR0t2e3lVHPuQZlea) | [Los Super Korsarios Del Amor](https://open.spotify.com/artist/0ZnJaxfplCgAKgbb8C6ecX) | [La Cuarentena](https://open.spotify.com/album/17OmyTx1GDRmsTb4zNYPCQ) | 3:52 | 2023-08-25 | 2024-02-28 |
-| [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 | 2024-07-02 |  |
+| [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 | 2024-07-02 | 2026-06-09 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2024-02-27 | 2024-04-19 |
 | [La Diabla](https://open.spotify.com/track/2c9TribYylkXZRuUVNuNEy) | [Toma 2](https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo), [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Diabla](https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo) | 2:39 | 2025-11-20 |  |
 | [La Makinita](https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:46 | 2025-01-17 | 2025-12-19 |
 | [La Mesa del Rincón](https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:05 | 2024-02-27 | 2024-04-19 |
 | [La Mujer Que Amas](https://open.spotify.com/track/6qq3vgo9RQ1YhX8qDNSKLE) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [La Mujer Que Amas](https://open.spotify.com/album/0W6tsKF0lp12OWYV45Jkr3) | 3:56 | 2023-08-25 | 2024-02-28 |
+| [La Pulguita](https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr) | [Grupo Luna Negra](https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e) | [La Pulguita](https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X) | 3:32 | 2025-11-20 |  |
 | [La resaka](https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:34 | 2024-03-29 |  |
 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 | 2024-02-27 |  |
 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 | 2024-03-29 | 2026-03-10 |

@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-210 songs - 13 hr 59 min
+211 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Let The Church Sing](https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Let The Church Sing](https://open.spotify.com/album/0MeSS7BlmQYdx0vRXWUnpn) | 3:16 | 2025-08-29 |  |
 | [Life Is Hard\. God Is Good.](https://open.spotify.com/track/3YAOnZoZCWRT8PE6QayV22) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life is Hard\. God is Good.](https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp) | 3:13 | 2025-01-31 | 2025-09-20 |
 | [Lift Me Up](https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 3:21 | 2025-09-22 |  |
+| [Looking For You](https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Looking For You](https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ) | 3:19 | 2026-06-08 |  |
 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 | 2025-09-19 | 2026-06-02 |
 | [Loved By You](https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:03 | 2025-01-31 | 2025-09-23 |
 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-08 |  |

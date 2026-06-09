@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,169 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,125 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 10 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 11 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
 | 12 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
-| 13 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
+| 13 | [Standing in the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
 | 14 | [Heads Will Roll](https://open.spotify.com/track/3zvHOVC4jikl6jORSr6OLE) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/5HBmdEPIzWtcWwH2JSv7go) | 3:41 |
 | 15 | [Pompeii](https://open.spotify.com/track/0sooJd5WbNnnz5k6yO7FIQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/2r1iXEfyFZaYSmthwnKGGp) | 3:34 |
 | 16 | [Ruby](https://open.spotify.com/track/0N5x5UmYcbBeHFJtCCqf62) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/0mKKqokWGSgKoL2bzdyTpd) | 3:24 |

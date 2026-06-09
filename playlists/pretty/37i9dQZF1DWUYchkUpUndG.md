@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,638 likes - 120 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,661 likes - 120 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

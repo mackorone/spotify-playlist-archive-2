@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,876 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,920 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 22 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/1khLPhobojtGS0jL358B4C) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:56 |
 | 23 | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v) | 3:11 |
 | 24 | [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 |
-| 25 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
+| 25 | [Sticks and Stones](https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:34 |
 | 26 | [Horses & Hellcats](https://open.spotify.com/track/2aP9pWbPvh5kVIIGJoyFLW) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:37 |
 | 27 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [No Sign of Weakness](https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g) | 2:28 |
 | 28 | [Chrome \- Bonus](https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 2:25 |
-| 29 | [Sticks and Stones](https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:34 |
+| 29 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 30 | [Golden Child](https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:57 |
 | 31 | [Lonely \(with Shaboozey\)](https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:20 |
 | 32 | [Hail Mary](https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 2:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 43 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 | 44 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 
-Snapshot ID: `aiNjAAAAAAD8IwBkbDEN0Zonh5Tt6dna`
+Snapshot ID: `aiS0gAAAAACs/gH1U4ilPiKhQRDVJV8x`

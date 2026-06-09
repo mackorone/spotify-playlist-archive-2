@@ -19555,6 +19555,24 @@
     },
     {
       "album": {
+        "name": "KIDSCRY2DAY",
+        "url": "https://open.spotify.com/album/17VXPSQGscJVeoCKpWqNW6"
+      },
+      "artists": [
+        {
+          "name": "ONDA ANDAR",
+          "url": "https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172972,
+      "name": "sleep mode",
+      "url": "https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0"
+    },
+    {
+      "album": {
         "name": "SLEEPKNOT",
         "url": "https://open.spotify.com/album/6uGFJwioCBRo5SmLgZFaoD"
       },
@@ -25567,6 +25585,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+        "url": "https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY"
+      },
+      "artists": [
+        {
+          "name": "SKYLERR",
+          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177656,
+      "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+      "url": "https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh"
+    },
+    {
+      "album": {
         "name": "\u0431\u043e\u043b\u0435\u043d",
         "url": "https://open.spotify.com/album/4c08DJJF9efR9xB43Y8bGg"
       },
@@ -28388,7 +28424,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 169000,
       "name": "\u0414\u0435 \u0431\u0438 \u0434\u0435 \u0431\u0438",
       "url": "https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db"
@@ -29418,7 +29454,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 174344,
       "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
@@ -31386,7 +31422,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -33532,7 +33568,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -33894,7 +33930,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 174500,
       "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
@@ -34122,7 +34158,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -34862,7 +34898,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 138057,
       "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b X Tuesday",
       "url": "https://open.spotify.com/track/6UzkODYaNumibboLMCyupP"
@@ -35944,7 +35980,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 167250,
       "name": "\u041f\u0438\u0442\u0430\u043d\u044c \u043d\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/1fInP7GtqNWNjtvM7uQAmH"
@@ -37894,7 +37930,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 144206,
       "name": "\u0441\u0435\u043c\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u043d\u043e\u0436\u0435\u0432\u044b\u0445",
       "url": "https://open.spotify.com/track/7kSpl8d5G1FaljqVVwh8ki"
@@ -40184,7 +40220,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 145942,
       "name": "\u0442\u044b \u043b\u044e\u0431\u0438\u0448\u044c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT"
@@ -40514,7 +40550,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 182036,
       "name": "\u0443\u0440\u043e\u0434",
       "url": "https://open.spotify.com/track/0Q4LbRWTxhYRVKpjt1Y7D1"
@@ -41667,6 +41703,28 @@
     },
     {
       "album": {
+        "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u043c\u0430\u043a",
+        "url": "https://open.spotify.com/album/6Mc1Q37tOs8wb8kUMuoea3"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/7AAG9IPa2aBGQAAajyaBWS"
+        },
+        {
+          "name": "Zlata Ko",
+          "url": "https://open.spotify.com/artist/5hPQKLOBDVCvbsDm7zXOF8"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243216,
+      "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u043c\u0430\u043a",
+      "url": "https://open.spotify.com/track/710sisBawnKCYRhKiee7BI"
+    },
+    {
+      "album": {
         "name": "Kilativ",
         "url": "https://open.spotify.com/album/3I0WJ2r0FNYbwXnRXqRmow"
       },
@@ -42022,7 +42080,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 168941,
       "name": "\u0428\u0430\u0434\u044d",
       "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"
@@ -43288,7 +43346,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-09",
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

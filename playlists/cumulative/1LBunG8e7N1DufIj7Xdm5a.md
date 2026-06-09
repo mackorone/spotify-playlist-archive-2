@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,439 songs - 9 day 21 hr 25 min
+4,442 songs - 9 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2383,6 +2383,7 @@
 | [ME](https://open.spotify.com/track/0pYTdFxjFihaOIYcw5rtn6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:13 | 2025-08-28 |  |
 | [Me](https://open.spotify.com/track/3CTmMCUyAI5OrlTCyhXCaf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:52 | 2025-09-20 |  |
 | [Me](https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Me](https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1) | 2:42 | 2025-11-23 |  |
+| [Me](https://open.spotify.com/track/1k3T9hZwF7D8ZDWps7D27d) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3), [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 2:42 | 2026-06-08 |  |
 | [ME CANSE DE INSISTIR](https://open.spotify.com/track/4WBzWs8FZRp5IQhPzDrKan) | [Lyrian D](https://open.spotify.com/artist/0qAWWEFFUvubUk2O481Dw0) | [ME CANSE DE INSISTIR](https://open.spotify.com/album/4ZetqQJP4lGO10wXdVh9qc) | 3:10 | 2026-04-28 |  |
 | [Me gustas a capela](https://open.spotify.com/track/3u0YSPKFiAazFCpk5bgTLs) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56) | [Rozando el suelo](https://open.spotify.com/album/2QHWOyGuzxsRNu6kwb1zea) | 3:33 | 2025-06-13 |  |
 | [Medusa in Fractal \- Radio Edit](https://open.spotify.com/track/5TCBnKiwraSZO6mtm9akQ7) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Orquesta del Living](https://open.spotify.com/artist/1TL57HrpRSi2cCEBhErl18) | [Al Planeta sin el Mundo \(Radio Edit\)](https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi) | 4:47 | 2025-09-25 |  |
@@ -2738,6 +2739,7 @@
 | [Now or Never](https://open.spotify.com/track/4oZILaE41bdROOzt3Hfcag) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:06 | 2025-10-09 |  |
 | [Nowhere to Run](https://open.spotify.com/track/2PNllJqzEJf5pN78TIdy1I) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Nowhere to Run](https://open.spotify.com/album/4NIyy2epJvt4rYJO8xln6Q) | 3:23 | 2025-05-30 |  |
 | [Nowhere to Run \#2 \(Happy Mood\)](https://open.spotify.com/track/3ZIwip7SBBf13DUQc3ZLdh) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Nowhere to Run \#2 \(Happy Mood\)](https://open.spotify.com/album/1N1MYDTkUJFFflLymWP9AR) | 3:14 | 2025-06-08 |  |
+| [Noxious](https://open.spotify.com/track/5Fdx1xdp4ng1kW0fvrcBVM) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 | 2026-06-08 |  |
 | [NPC](https://open.spotify.com/track/0j2wewfj453noTk4pz7Tlk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 3:28 | 2025-09-17 |  |
 | [Nubes negras](https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 3:33 | 2026-03-15 |  |
 | [Nuestro Amor](https://open.spotify.com/track/4Abd2UraYIqNWFNzNcYHuK) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Futuro de ayer](https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn) | 3:20 | 2026-04-12 |  |
@@ -3222,6 +3224,7 @@
 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 | 2025-07-28 |  |
 | [Satellite Gazing](https://open.spotify.com/track/4XcyVyLm2TsYuvUoa7lBEP) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [The Creation of Birds](https://open.spotify.com/album/7HfTwE4MRUwwzFpkwxbl6Z) | 3:50 | 2025-11-05 |  |
 | [Satu Nama Dalam Doa](https://open.spotify.com/track/5DtlSMHi46HBRdpqf91zsk) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Satu Nama Dalam Doa](https://open.spotify.com/album/02g3USnHFIo8oMxPSrFOVs) | 4:35 | 2026-02-20 |  |
+| [Saturday](https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:41 | 2026-06-08 |  |
 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 | 2025-05-29 |  |
 | [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 | 2025-06-13 |  |
 | [SAY SOMETHIN'](https://open.spotify.com/track/04U6CZTpcrhIHxyrNIWmrZ) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [WISH U WERE HERE](https://open.spotify.com/album/5VykTQitQAIZg9gUFZPIRg) | 3:13 | 2025-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 
 > 한계를 뛰어넘는 당신을 운동을 위하여.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,181 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,192 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 72 | [MIC Drop \(feat\. Desiigner\) \[Steve Aoki Remix\]](https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [MIC Drop \(feat\. Desiigner\) \[Steve Aoki Remix\]](https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C) | 3:58 |
 | 73 | [Smoke \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 3:29 |
 | 74 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
-| 75 | [EMERGENCY \(Feat\. J\-Tong\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:41 |
-| 76 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 |
+| 75 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 |
+| 76 | [EMERGENCY \(Feat\. J\-Tong\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:41 |
 | 77 | [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 |
 | 78 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 79 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |

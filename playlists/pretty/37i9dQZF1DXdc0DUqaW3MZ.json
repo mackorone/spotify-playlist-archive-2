@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376418,
+  "num_followers": 376429,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
+        "name": "Mr Drummer",
+        "url": "https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z"
+      },
+      "artists": [
+        {
+          "name": "ROZZZQWEEN",
+          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
+        }
+      ],
+      "duration_ms": 146494,
+      "name": "Mr Drummer",
+      "url": "https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
         "name": "dear dialE",
         "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Mr Drummer",
-        "url": "https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z"
-      },
-      "artists": [
-        {
-          "name": "ROZZZQWEEN",
-          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
-        }
-      ],
-      "duration_ms": 146494,
-      "name": "Mr Drummer",
-      "url": "https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -648,53 +648,13 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
-        }
-      ],
-      "duration_ms": 193032,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -723,6 +683,46 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 193032,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -831,30 +831,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "Time & Time (feat. Demae) [IG Culture Remix]",
         "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
       },
@@ -879,18 +855,46 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
+      "duration_ms": 186500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "So Nice To Be In Love",
+        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 154807,
+      "name": "So Nice To Be In Love",
+      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "So Nice To Be In Love",
-        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 154807,
-      "name": "So Nice To Be In Love",
-      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Doing It Too",
-        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206003,
-      "name": "Doing It Too",
-      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "IDKW",
         "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 232000,
       "name": "IDKW",
       "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "Doing It Too",
+        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
-      },
-      "artists": [
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        }
-      ],
-      "duration_ms": 200107,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
         "name": "Dancing While Falling",
         "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
+      },
+      "artists": [
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        }
+      ],
+      "duration_ms": 200107,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "added_at": "2026-05-29 12:30:42",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2026-05-29 12:30:42",
       "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
       },
       "artists": [
         {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2026-05-29 12:30:42",
@@ -1351,22 +1367,6 @@
       "duration_ms": 174908,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR"
-    },
-    {
-      "added_at": "2026-05-29 12:30:42",
-      "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2026-05-29 12:30:42",

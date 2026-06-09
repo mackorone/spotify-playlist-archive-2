@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-163 songs - 11 hr 29 min
+164 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [I Hate the Day I Was Born](https://open.spotify.com/track/2HvLBlX0nqCQWmrGycAFu2) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Standard School Broadcast Recordings](https://open.spotify.com/album/1WluxAF05BgxgtR8C9o8ar) | 9:02 | 2025-03-20 | 2025-05-22 |
 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 | 2022-08-05 |  |
 | [I Love You Honey \- 2024 Remastered](https://open.spotify.com/track/79kKSo7lZZGX0QqVtdQLBF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 2:35 | 2024-07-12 | 2024-07-22 |
-| [I Need Some Money](https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:25 | 2022-08-06 |  |
+| [I Need Some Money](https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:25 | 2022-08-06 | 2026-06-09 |
+| [I Need Some Money](https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:28 | 2026-06-09 |  |
 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 | 2022-08-05 |  |
 | [I Wanna Walk](https://open.spotify.com/track/2OigRCY3ff6sAmQRrJwMGC) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:14 | 2022-10-01 | 2024-11-04 |
 | [I'll Never Trust Your Love Again](https://open.spotify.com/track/1HuaJPNG443dph48jLwnLD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:23 | 2022-10-09 | 2022-10-11 |

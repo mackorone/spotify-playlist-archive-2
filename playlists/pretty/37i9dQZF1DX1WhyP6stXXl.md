@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,345 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,317 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 45 | [Memory Lane](https://open.spotify.com/track/4MEewGGitgx3ZnSOBpuQAg) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Memory Lane](https://open.spotify.com/album/4Sc0Ukf5A9uRZuukFUPx78) | 2:45 |
 | 46 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 47 | [Cry Just A Little](https://open.spotify.com/track/04gCt1VDQWeY6lozktJgya) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Cry Just A Little](https://open.spotify.com/album/5v05w8Xda8eikNxfRsmPLt) | 2:47 |
-| 48 | [long story short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [long story short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
+| 48 | [Long Story Short](https://open.spotify.com/track/5TbJ5C4xnYGx6nUaceJfZW) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Long Story Short](https://open.spotify.com/album/5wkuhZYndG8LiVbapTBlCE) | 2:48 |
 | 49 | [READY TO BLOW](https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [READY TO BLOW](https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI) | 2:21 |
 | 50 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
 | 51 | [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 |

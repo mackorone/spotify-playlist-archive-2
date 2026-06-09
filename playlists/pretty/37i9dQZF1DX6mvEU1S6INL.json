@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143443,
+  "num_followers": 1143451,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting On You)",
       "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1483,42 +1483,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. D4vd)",
-      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
       },
@@ -1531,22 +1495,6 @@
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1567,22 +1515,54 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "thoughts i have while lying in bed (with Beach Weather)",
-        "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         },
         {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 219994,
-      "name": "thoughts i have while lying in bed",
-      "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. D4vd)",
+      "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1599,6 +1579,26 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "thoughts i have while lying in bed (with Beach Weather)",
+        "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 219994,
+      "name": "thoughts i have while lying in bed",
+      "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
     },
     {
       "added_at": "2026-02-18 18:45:42",
